@@ -1,0 +1,83 @@
+{
+  "id": 1058177603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3662118912,50.8293418884,4.3662118912,50.8293418884",
+    "geom:latitude":50.829342,
+    "geom:longitude":4.366212,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Couvent 7",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 29 36",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AJmuXxI4e3pAKHYvu6qel_50.829342_4.366212@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513229,
+    "wof:geomhash":"0043dc84a4cf7da792da929f5a7450e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058177603
+        }
+    ],
+    "wof:id":1058177603,
+    "wof:lastmodified":1473513229,
+    "wof:name":"Van Caeneghem Plomberie",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3662118912,
+    50.8293418884,
+    4.3662118912,
+    50.8293418884
+],
+  "geometry": {"coordinates":[4.3662118912,50.8293418884],"type":"Point"}
+}

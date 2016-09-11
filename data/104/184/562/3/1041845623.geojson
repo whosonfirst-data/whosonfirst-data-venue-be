@@ -1,0 +1,81 @@
+{
+  "id": 1041845623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3271889687,50.7961349487,4.3271889687,50.7961349487",
+    "geom:latitude":50.796135,
+    "geom:longitude":4.327189,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Stalle 166",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 39 34",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VcAW8vKNG25f3lkmMmKuw_50.796135_4.327189@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485611,
+    "wof:geomhash":"dbdee4d9ea4a99dbe40f7031d9227a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1041845623
+        }
+    ],
+    "wof:id":1041845623,
+    "wof:lastmodified":1473485611,
+    "wof:name":"Auto-stalle",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3271889687,
+    50.7961349487,
+    4.3271889687,
+    50.7961349487
+],
+  "geometry": {"coordinates":[4.3271889687,50.7961349487],"type":"Point"}
+}

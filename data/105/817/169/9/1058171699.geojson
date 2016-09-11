@@ -1,0 +1,90 @@
+{
+  "id": 1058171699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3283658028,50.8051338196,4.3283658028,50.8051338196",
+    "geom:latitude":50.805134,
+    "geom:longitude":4.328366,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gatti De Gamond 26",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 31 11",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25zS5zMuWUk4CQuatUYFMv_50.805134_4.328366@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512976,
+    "wof:geomhash":"bc83347fc677d412dc9a62e33a14f521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058171699
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1058171699
+        }
+    ],
+    "wof:id":1058171699,
+    "wof:lastmodified":1473512976,
+    "wof:name":"Leperre F",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3283658028,
+    50.8051338196,
+    4.3283658028,
+    50.8051338196
+],
+  "geometry": {"coordinates":[4.3283658028,50.8051338196],"type":"Point"}
+}

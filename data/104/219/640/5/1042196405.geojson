@@ -1,0 +1,77 @@
+{
+  "id": 1042196405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3801188469,50.8147087097,4.3801188469,50.8147087097",
+    "geom:latitude":50.814709,
+    "geom:longitude":4.380119,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jeanne 44",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 75 39",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M6dwYKzNBppFWaJtK9ypF_50.814709_4.380119@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501689,
+    "wof:geomhash":"80746c12799e02207bd372e705546a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1042196405
+        }
+    ],
+    "wof:id":1042196405,
+    "wof:lastmodified":1473501689,
+    "wof:name":"Institut Des Hautes Etudes De Belgique",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    4.3801188469,
+    50.8147087097,
+    4.3801188469,
+    50.8147087097
+],
+  "geometry": {"coordinates":[4.3801188469,50.8147087097],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041676627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5206670761,50.5417900085,5.5206670761,50.5417900085",
+    "geom:latitude":50.54179,
+    "geom:longitude":5.520667,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Tesni\u00e8re 13",
+    "sg:city":"Neupr\u00e9 (plainevaux)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 371 28 47",
+    "sg:postcode":"4122",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x9ioNQeIfNclgtggeotrf_50.541790_5.520667@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478388,
+    "wof:geomhash":"ef3797508994a9686fdb2e60857de780",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1041676627
+        }
+    ],
+    "wof:id":1041676627,
+    "wof:lastmodified":1473478388,
+    "wof:name":"Marcotty L-ph",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    5.5206670761,
+    50.5417900085,
+    5.5206670761,
+    50.5417900085
+],
+  "geometry": {"coordinates":[5.5206670761,50.5417900085],"type":"Point"}
+}

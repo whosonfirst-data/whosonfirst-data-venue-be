@@ -1,0 +1,83 @@
+{
+  "id": 1041581641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7456190586,50.9888038635,3.7456190586,50.9888038635",
+    "geom:latitude":50.988804,
+    "geom:longitude":3.745619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cornelis Sneyssenslaan 13",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 232 36 96",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Elou1pJNGt3gR631zewfJ_50.988804_3.745619@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474517,
+    "wof:geomhash":"4c142f32a8718cef717b5c8bb230bb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041581641
+        }
+    ],
+    "wof:id":1041581641,
+    "wof:lastmodified":1473474517,
+    "wof:name":"Hutsebaut F",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.7456190586,
+    50.9888038635,
+    3.7456190586,
+    50.9888038635
+],
+  "geometry": {"coordinates":[3.7456190586,50.9888038635],"type":"Point"}
+}

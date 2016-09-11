@@ -1,0 +1,81 @@
+{
+  "id": 1058070251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6729898453,50.6691360474,5.6729898453,50.6691360474",
+    "geom:latitude":50.669136,
+    "geom:longitude":5.67299,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Rabos\u00e9e 94",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 17 34",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QbgB9dDMuGSe5f8NJ28Cl_50.669136_5.672990@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508336,
+    "wof:geomhash":"8b325a595526b15a5c612dab54703e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058070251
+        }
+    ],
+    "wof:id":1058070251,
+    "wof:lastmodified":1473508336,
+    "wof:name":"Les Quatre Bras",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    5.6729898453,
+    50.6691360474,
+    5.6729898453,
+    50.6691360474
+],
+  "geometry": {"coordinates":[5.6729898453,50.6691360474],"type":"Point"}
+}

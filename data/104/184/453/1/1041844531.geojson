@@ -1,0 +1,72 @@
+{
+  "id": 1041844531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3110218048,51.9041633606,4.3110218048,51.9041633606",
+    "geom:latitude":51.904163,
+    "geom:longitude":4.311022,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Albert I 181",
+    "sg:city":"Rixensart (genval)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85798569,
+        85687041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mCn7K4q9xiOr0VQt2wE7k_51.904163_4.311022@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485568,
+    "wof:geomhash":"95c24ecfa7e60424ff1e90e4996c9c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85798569,
+            "region_id":85687041,
+            "venue_id":1041844531
+        }
+    ],
+    "wof:id":1041844531,
+    "wof:lastmodified":1473485568,
+    "wof:name":"Altijd Raak Auto-afbr Penders",
+    "wof:parent_id":85798569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    4.3110218048,
+    51.9041633606,
+    4.3110218048,
+    51.9041633606
+],
+  "geometry": {"coordinates":[4.3110218048,51.9041633606],"type":"Point"}
+}

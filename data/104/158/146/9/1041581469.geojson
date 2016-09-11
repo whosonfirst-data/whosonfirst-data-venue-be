@@ -1,0 +1,83 @@
+{
+  "id": 1041581469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.412774086,50.8379554749,4.412774086,50.8379554749",
+    "geom:latitude":50.837955,
+    "geom:longitude":4.412774,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Duc 87",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 10 61",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28MOyQ1fFP8lXQORkAFmQT_50.837955_4.412774@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474511,
+    "wof:geomhash":"8bbb964455073c227fffefdf95444bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1041581469
+        }
+    ],
+    "wof:id":1041581469,
+    "wof:lastmodified":1473474511,
+    "wof:name":"Dylec Sprl",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.412774086,
+    50.8379554749,
+    4.412774086,
+    50.8379554749
+],
+  "geometry": {"coordinates":[4.412774086,50.8379554749],"type":"Point"}
+}

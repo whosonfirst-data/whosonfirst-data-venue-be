@@ -1,0 +1,79 @@
+{
+  "id": 1058861873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.565114975,50.627494812,5.565114975,50.627494812",
+    "geom:latitude":50.627495,
+    "geom:longitude":5.565115,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Plan Inclin\u00c9 105",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 52 52",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "sp\u00e9ciaux",
+        "taxis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grD4u5CMknGz5QOJXXXWi_50.627495_5.565115@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544232,
+    "wof:geomhash":"59032d3d55899f05dcd6f9d4f51e930d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058861873
+        }
+    ],
+    "wof:id":1058861873,
+    "wof:lastmodified":1473544232,
+    "wof:name":"New-tax Express",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sp\u00e9ciaux",
+        "taxis"
+    ]
+},
+  "bbox": [
+    5.565114975,
+    50.627494812,
+    5.565114975,
+    50.627494812
+],
+  "geometry": {"coordinates":[5.565114975,50.627494812],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042209353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4389400482,51.1999664307,4.4389400482,51.1999664307",
+    "geom:latitude":51.199966,
+    "geom:longitude":4.43894,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Excelsiorlaan 16",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 230 22 11",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kx8oBbsr2XvuH0BY7AYaA_51.199966_4.438940@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502396,
+    "wof:geomhash":"72228c637b849998c4fcb83805c89f3e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1042209353
+        }
+    ],
+    "wof:id":1042209353,
+    "wof:lastmodified":1473502396,
+    "wof:name":"Overtoom Belgium",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric"
+    ]
+},
+  "bbox": [
+    4.4389400482,
+    51.1999664307,
+    4.4389400482,
+    51.1999664307
+],
+  "geometry": {"coordinates":[4.4389400482,51.1999664307],"type":"Point"}
+}

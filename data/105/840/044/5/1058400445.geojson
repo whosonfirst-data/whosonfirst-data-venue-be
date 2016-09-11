@@ -1,0 +1,77 @@
+{
+  "id": 1058400445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3833599091,50.8133888245,4.3833599091,50.8133888245",
+    "geom:latitude":50.813389,
+    "geom:longitude":4.38336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Paul H\u00e9ger 28",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 650 30 02",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VsvvxSah4fd2NUgb3yam_50.813389_4.383360@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523263,
+    "wof:geomhash":"3088cfa6791320912c4a6587161079da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058400445
+        }
+    ],
+    "wof:id":1058400445,
+    "wof:lastmodified":1473523263,
+    "wof:name":"Centre De M\u00e9decine Du Sport",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3833599091,
+    50.8133888245,
+    4.3833599091,
+    50.8133888245
+],
+  "geometry": {"coordinates":[4.3833599091,50.8133888245],"type":"Point"}
+}

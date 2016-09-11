@@ -1,0 +1,83 @@
+{
+  "id": 1041850865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3937191963,51.2119979858,4.3937191963,51.2119979858",
+    "geom:latitude":51.211998,
+    "geom:longitude":4.393719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlaamsekaai 1",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 238 00 06",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "truck",
+        "clutch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10h32EY0yh5Az92rINLsus_51.211998_4.393719@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485845,
+    "wof:geomhash":"9a717a47a54f1c327bc4effaef950795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041850865
+        }
+    ],
+    "wof:id":1041850865,
+    "wof:lastmodified":1473485845,
+    "wof:name":"Autostuk De Bondt",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "truck",
+        "clutch"
+    ]
+},
+  "bbox": [
+    4.3937191963,
+    51.2119979858,
+    4.3937191963,
+    51.2119979858
+],
+  "geometry": {"coordinates":[4.3937191963,51.2119979858],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058511295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2964310646,50.8239364624,4.2964310646,50.8239364624",
+    "geom:latitude":50.823936,
+    "geom:longitude":4.296431,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petite Rue Des Loups 12",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 95 55",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QWVkbLGXNc7aFDZrbQc8A_50.823936_4.296431@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528588,
+    "wof:geomhash":"bb45758cbe708545a018d186e4adeaa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1058511295
+        }
+    ],
+    "wof:id":1058511295,
+    "wof:lastmodified":1473528588,
+    "wof:name":"Bps Schilderwerken Nv",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.2964310646,
+    50.8239364624,
+    4.2964310646,
+    50.8239364624
+],
+  "geometry": {"coordinates":[4.2964310646,50.8239364624],"type":"Point"}
+}

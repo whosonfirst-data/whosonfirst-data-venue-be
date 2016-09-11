@@ -1,0 +1,83 @@
+{
+  "id": 1058612569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4314641953,50.860748291,4.4314641953,50.860748291",
+    "geom:latitude":50.860748,
+    "geom:longitude":4.431464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tollaan 97",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 716 57 57",
+    "sg:postcode":"1932",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "diffusion",
+        "production",
+        "de",
+        "programme"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySbjQt3JWmDLL3DFZnNkQ_50.860748_4.431464@1306268539"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533196,
+    "wof:geomhash":"11953dc240f0ec86ddbcc59e1faf320f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058612569
+        }
+    ],
+    "wof:id":1058612569,
+    "wof:lastmodified":1473533196,
+    "wof:name":"Canaaldigitaal/het Boeket",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diffusion",
+        "production",
+        "de",
+        "programme"
+    ]
+},
+  "bbox": [
+    4.4314641953,
+    50.860748291,
+    4.4314641953,
+    50.860748291
+],
+  "geometry": {"coordinates":[4.4314641953,50.860748291],"type":"Point"}
+}

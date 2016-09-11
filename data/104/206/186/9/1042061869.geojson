@@ -1,0 +1,71 @@
+{
+  "id": 1042061869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5001249313,50.5797348022,5.5001249313,50.5797348022",
+    "geom:latitude":50.579735,
+    "geom:longitude":5.500125,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Sables 3",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 59 25",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IbCUZTkk0RsNwXCIKSXJq_50.579735_5.500125@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494748,
+    "wof:geomhash":"fb4d5826ca162db5f0f95b5a63ca0da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1042061869
+        }
+    ],
+    "wof:id":1042061869,
+    "wof:lastmodified":1473494748,
+    "wof:name":"Valkenborgh L",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5001249313,
+    50.5797348022,
+    5.5001249313,
+    50.5797348022
+],
+  "geometry": {"coordinates":[5.5001249313,50.5797348022],"type":"Point"}
+}

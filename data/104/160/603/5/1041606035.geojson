@@ -1,0 +1,73 @@
+{
+  "id": 1041606035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2078490257,51.2124137878,3.2078490257,51.2124137878",
+    "geom:latitude":51.212414,
+    "geom:longitude":3.207849,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maria Van Bourgondi\u00eblaan 29",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 80 70",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801893,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s2dMlLYkOM3OvhX4NuL6U_51.212414_3.207849@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475556,
+    "wof:geomhash":"fcd8b4d4d83882a9093f9403e69a749d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801893,
+            "region_id":85681709,
+            "venue_id":1041606035
+        }
+    ],
+    "wof:id":1041606035,
+    "wof:lastmodified":1473475556,
+    "wof:name":"Leclercq Lothar",
+    "wof:parent_id":85801893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.2078490257,
+    51.2124137878,
+    3.2078490257,
+    51.2124137878
+],
+  "geometry": {"coordinates":[3.2078490257,51.2124137878],"type":"Point"}
+}

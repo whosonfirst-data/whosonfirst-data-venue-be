@@ -1,0 +1,79 @@
+{
+  "id": 1058326481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4397211075,50.8331871033,4.4397211075,50.8331871033",
+    "geom:latitude":50.833187,
+    "geom:longitude":4.439721,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue David Van Bever 19",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 05 65",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SGBkxH0Fgi2oW5vmr90FJ_50.833187_4.439721@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519814,
+    "wof:geomhash":"3a939a6b474595a2d017e47e4eab64d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058326481
+        }
+    ],
+    "wof:id":1058326481,
+    "wof:lastmodified":1473519814,
+    "wof:name":"Van Leckwyck Th",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.4397211075,
+    50.8331871033,
+    4.4397211075,
+    50.8331871033
+],
+  "geometry": {"coordinates":[4.4397211075,50.8331871033],"type":"Point"}
+}

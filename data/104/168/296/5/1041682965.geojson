@@ -1,0 +1,81 @@
+{
+  "id": 1041682965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3156590462,50.8567771912,4.3156590462,50.8567771912",
+    "geom:latitude":50.856777,
+    "geom:longitude":4.315659,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Reimond Stijns 72",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 46 31",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "polishing",
+        "abrasive",
+        "compound"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OuHcdw41GKK4nhahWEvIr_50.856777_4.315659@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478635,
+    "wof:geomhash":"4c0594fba5bd00005473b6593758e3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1041682965
+        }
+    ],
+    "wof:id":1041682965,
+    "wof:lastmodified":1473478635,
+    "wof:name":"Ginis Bvba",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "abrasive",
+        "compound"
+    ]
+},
+  "bbox": [
+    4.3156590462,
+    50.8567771912,
+    4.3156590462,
+    50.8567771912
+],
+  "geometry": {"coordinates":[4.3156590462,50.8567771912],"type":"Point"}
+}

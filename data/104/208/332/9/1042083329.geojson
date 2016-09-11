@@ -1,0 +1,70 @@
+{
+  "id": 1042083329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.7116718292,50.860244751,4.7116718292,50.860244751",
+    "geom:latitude":50.860245,
+    "geom:longitude":4.711672,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heidelaan 49b1",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HDv5YjZXmIaVoddqlX9A3_50.860245_4.711672@1306268392"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495655,
+    "wof:geomhash":"a59cfb7de70948551f331c4cfc05c1dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1042083329
+        }
+    ],
+    "wof:id":1042083329,
+    "wof:lastmodified":1473495655,
+    "wof:name":"Ronin",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    4.7116718292,
+    50.860244751,
+    4.7116718292,
+    50.860244751
+],
+  "geometry": {"coordinates":[4.7116718292,50.860244751],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042059347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6514129639,50.6420516968,5.6514129639,50.6420516968",
+    "geom:latitude":50.642052,
+    "geom:longitude":5.651413,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Fl\u00e9ron 280",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 92 07",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800809,
+        102191581,
+        85632997,
+        404227353,
+        101755201,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f31MuoXxiXfhwwsF0odPK_50.642052_5.651413@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494654,
+    "wof:geomhash":"86cc2d8f56ed078c07b271c0ba47745a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755201,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800809,
+            "region_id":85681691,
+            "venue_id":1042059347
+        }
+    ],
+    "wof:id":1042059347,
+    "wof:lastmodified":1473494654,
+    "wof:name":"Fauvelle A",
+    "wof:parent_id":85800809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.6514129639,
+    50.6420516968,
+    5.6514129639,
+    50.6420516968
+],
+  "geometry": {"coordinates":[5.6514129639,50.6420516968],"type":"Point"}
+}

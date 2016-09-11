@@ -1,0 +1,77 @@
+{
+  "id": 1058271511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3744120598,50.8158874512,4.3744120598,50.8158874512",
+    "geom:latitude":50.815887,
+    "geom:longitude":4.374412,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De La Cambre 46",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 86 30",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cH2MOBjIA33SH5Y5xMYDc_50.815887_4.374412@1306268478"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517331,
+    "wof:geomhash":"f15b065ace5d3b073c4a00a216e32d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058271511
+        }
+    ],
+    "wof:id":1058271511,
+    "wof:lastmodified":1473517331,
+    "wof:name":"Euraconsult Assurance Sprl",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    4.3744120598,
+    50.8158874512,
+    4.3744120598,
+    50.8158874512
+],
+  "geometry": {"coordinates":[4.3744120598,50.8158874512],"type":"Point"}
+}

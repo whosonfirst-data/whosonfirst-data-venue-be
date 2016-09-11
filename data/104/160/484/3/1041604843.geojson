@@ -1,0 +1,73 @@
+{
+  "id": 1041604843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6955709457,50.8573951721,4.6955709457,50.8573951721",
+    "geom:latitude":50.857395,
+    "geom:longitude":4.695571,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Naamsesteenweg 340",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 40 64 35",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MIPpxSMNBAZ3qkdZbuYZj_50.857395_4.695571@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475509,
+    "wof:geomhash":"673482f78059a264ca019ba482cd3969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1041604843
+        }
+    ],
+    "wof:id":1041604843,
+    "wof:lastmodified":1473475509,
+    "wof:name":"Dewit Andre",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6955709457,
+    50.8573951721,
+    4.6955709457,
+    50.8573951721
+],
+  "geometry": {"coordinates":[4.6955709457,50.8573951721],"type":"Point"}
+}

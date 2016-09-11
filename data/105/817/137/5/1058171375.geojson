@@ -1,0 +1,79 @@
+{
+  "id": 1058171375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3526291847,50.8154678345,4.3526291847,50.8154678345",
+    "geom:latitude":50.815468,
+    "geom:longitude":4.352629,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Moli\u00e8re 223",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 56 51",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17ZwAXKItOed0FuO0EUeYV_50.815468_4.352629@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512964,
+    "wof:geomhash":"84d057d14c42af5bab91b98329ca43db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058171375
+        }
+    ],
+    "wof:id":1058171375,
+    "wof:lastmodified":1473512964,
+    "wof:name":"Legein F",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3526291847,
+    50.8154678345,
+    4.3526291847,
+    50.8154678345
+],
+  "geometry": {"coordinates":[4.3526291847,50.8154678345],"type":"Point"}
+}

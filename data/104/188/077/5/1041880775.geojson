@@ -1,0 +1,79 @@
+{
+  "id": 1041880775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4386258125,50.8332061768,4.4386258125,50.8332061768",
+    "geom:latitude":50.833206,
+    "geom:longitude":4.438626,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Kelle 71",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 10 59",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TfVhEa079DawSXP0XMAiN_50.833206_4.438626@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487106,
+    "wof:geomhash":"3083b196d9cd07e9d71b68f9fdab146e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1041880775
+        }
+    ],
+    "wof:id":1041880775,
+    "wof:lastmodified":1473487106,
+    "wof:name":"Demaegdt",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4386258125,
+    50.8332061768,
+    4.4386258125,
+    50.8332061768
+],
+  "geometry": {"coordinates":[4.4386258125,50.8332061768],"type":"Point"}
+}

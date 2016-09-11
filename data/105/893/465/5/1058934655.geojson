@@ -1,0 +1,77 @@
+{
+  "id": 1058934655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2225248814,51.2070388794,3.2225248814,51.2070388794",
+    "geom:latitude":51.207039,
+    "geom:longitude":3.222525,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blankenbergse Steenweg 50",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 84 27",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tadNijo4336ZLgPRb4c8a_51.207039_3.222525@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547521,
+    "wof:geomhash":"ce5116c6b9aaeaec5ad70bd1e94eb5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058934655
+        }
+    ],
+    "wof:id":1058934655,
+    "wof:lastmodified":1473547521,
+    "wof:name":"Laleman J",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    3.2225248814,
+    51.2070388794,
+    3.2225248814,
+    51.2070388794
+],
+  "geometry": {"coordinates":[3.2225248814,51.2070388794],"type":"Point"}
+}

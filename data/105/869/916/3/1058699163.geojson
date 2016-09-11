@@ -1,0 +1,79 @@
+{
+  "id": 1058699163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3902130127,50.8703918457,4.3902130127,50.8703918457",
+    "geom:latitude":50.870392,
+    "geom:longitude":4.390213,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ch De Haecht 657",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 92 20",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sy4UufozwO5yZcR5LJagi_50.870392_4.390213@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537079,
+    "wof:geomhash":"7b0ad25ef2b8281eb4a3510def946f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058699163
+        }
+    ],
+    "wof:id":1058699163,
+    "wof:lastmodified":1473537079,
+    "wof:name":"Associaton Belge Pour Le Developpement Des Gaz De Petrole Liquefies Sa",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    4.3902130127,
+    50.8703918457,
+    4.3902130127,
+    50.8703918457
+],
+  "geometry": {"coordinates":[4.3902130127,50.8703918457],"type":"Point"}
+}

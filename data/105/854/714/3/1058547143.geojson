@@ -1,0 +1,77 @@
+{
+  "id": 1058547143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3449211121,50.9307746887,4.3449211121,50.9307746887",
+    "geom:latitude":50.930775,
+    "geom:longitude":4.344921,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groendal 12",
+    "sg:city":"Meise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 01 01",
+    "sg:postcode":"1860",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vBeC1ZlBhpELy4I6vGvSQ_50.930775_4.344921@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530234,
+    "wof:geomhash":"af4a007bc201d736dbcad13d42a4d28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058547143
+        }
+    ],
+    "wof:id":1058547143,
+    "wof:lastmodified":1473530234,
+    "wof:name":"Amores M",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3449211121,
+    50.9307746887,
+    4.3449211121,
+    50.9307746887
+],
+  "geometry": {"coordinates":[4.3449211121,50.9307746887],"type":"Point"}
+}

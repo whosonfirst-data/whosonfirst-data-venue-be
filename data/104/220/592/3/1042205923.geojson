@@ -1,0 +1,83 @@
+{
+  "id": 1042205923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4375991821,51.2240600586,4.4375991821,51.2240600586",
+    "geom:latitude":51.22406,
+    "geom:longitude":4.437599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlagstraat 18",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 66 71 69",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51fGatwvwJMNTQ8KrhEFDR_51.224060_4.437599@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502253,
+    "wof:geomhash":"25656c1383f2a85c2258c6f435e5ea56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1042205923
+        }
+    ],
+    "wof:id":1042205923,
+    "wof:lastmodified":1473502253,
+    "wof:name":"Fournier J-m",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4375991821,
+    51.2240600586,
+    4.4375991821,
+    51.2240600586
+],
+  "geometry": {"coordinates":[4.4375991821,51.2240600586],"type":"Point"}
+}

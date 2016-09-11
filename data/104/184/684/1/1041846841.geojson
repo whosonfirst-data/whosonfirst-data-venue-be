@@ -1,0 +1,81 @@
+{
+  "id": 1041846841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3274440765,50.8700256348,4.3274440765,50.8700256348",
+    "geom:latitude":50.870026,
+    "geom:longitude":4.327444,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 545",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 46 51",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cG9ceeNpZfTdmn0uR6duK_50.870026_4.327444@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485664,
+    "wof:geomhash":"bbe5aad965adc93876c731ca2562f3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041846841
+        }
+    ],
+    "wof:id":1041846841,
+    "wof:lastmodified":1473485664,
+    "wof:name":"Jet-set Automobiles",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3274440765,
+    50.8700256348,
+    4.3274440765,
+    50.8700256348
+],
+  "geometry": {"coordinates":[4.3274440765,50.8700256348],"type":"Point"}
+}

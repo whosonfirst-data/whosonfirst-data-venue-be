@@ -1,0 +1,79 @@
+{
+  "id": 1041880429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7218949795,51.0671195984,3.7218949795,51.0671195984",
+    "geom:latitude":51.06712,
+    "geom:longitude":3.721895,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gasmeterlaan 178",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 361 33 93",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bUZRptECV8qH2khgo8AOY_51.067120_3.721895@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487087,
+    "wof:geomhash":"2dda757b3279c01722ec6b9e32a1a0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1041880429
+        }
+    ],
+    "wof:id":1041880429,
+    "wof:lastmodified":1473487087,
+    "wof:name":"De Korrel",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7218949795,
+    51.0671195984,
+    3.7218949795,
+    51.0671195984
+],
+  "geometry": {"coordinates":[3.7218949795,51.0671195984],"type":"Point"}
+}

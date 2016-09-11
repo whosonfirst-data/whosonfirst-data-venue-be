@@ -1,0 +1,81 @@
+{
+  "id": 1041576881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3331618309,50.8555831909,4.3331618309,50.8555831909",
+    "geom:latitude":50.855583,
+    "geom:longitude":4.333162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue E De Grimberghe 34",
+    "sg:city":"Sint-jans-molenbeek",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Factory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 90 38",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "metaalwaren",
+        "fab",
+        "diverse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LcsDDO9dCn1plban0vaok_50.855583_4.333162@1306268407"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474331,
+    "wof:geomhash":"37275c0609f71a697cfde93685a33020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041576881
+        }
+    ],
+    "wof:id":1041576881,
+    "wof:lastmodified":1473474331,
+    "wof:name":"Corbisier Production",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metaalwaren",
+        "fab",
+        "diverse"
+    ]
+},
+  "bbox": [
+    4.3331618309,
+    50.8555831909,
+    4.3331618309,
+    50.8555831909
+],
+  "geometry": {"coordinates":[4.3331618309,50.8555831909],"type":"Point"}
+}

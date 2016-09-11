@@ -1,0 +1,79 @@
+{
+  "id": 1042049287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4198851585,51.2550621033,4.4198851585,51.2550621033",
+    "geom:latitude":51.255062,
+    "geom:longitude":4.419885,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Noorderlaan 81",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 544 32 11",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "block",
+        "chain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q53mVXxmN8tLBFhzHRsDV_51.255062_4.419885@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494223,
+    "wof:geomhash":"4a1d62b6cffb09efc191a54f1d7786ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042049287
+        }
+    ],
+    "wof:id":1042049287,
+    "wof:lastmodified":1473494223,
+    "wof:name":"Swart Maintenance Service",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "block",
+        "chain"
+    ]
+},
+  "bbox": [
+    4.4198851585,
+    51.2550621033,
+    4.4198851585,
+    51.2550621033
+],
+  "geometry": {"coordinates":[4.4198851585,51.2550621033],"type":"Point"}
+}

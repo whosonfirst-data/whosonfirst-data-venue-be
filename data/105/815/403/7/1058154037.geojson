@@ -1,0 +1,79 @@
+{
+  "id": 1058154037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3885917664,51.1848487854,4.3885917664,51.1848487854",
+    "geom:latitude":51.184849,
+    "geom:longitude":4.388592,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomse Steenweg 440",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 05 54",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jzMosgT4GOObAwVvtpCUb_51.184849_4.388592@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512189,
+    "wof:geomhash":"1ed85c578d538ed24f7ea18510d98145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058154037
+        }
+    ],
+    "wof:id":1058154037,
+    "wof:lastmodified":1473512189,
+    "wof:name":"Baeten Caroline",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3885917664,
+    51.1848487854,
+    4.3885917664,
+    51.1848487854
+],
+  "geometry": {"coordinates":[4.3885917664,51.1848487854],"type":"Point"}
+}

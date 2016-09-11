@@ -1,0 +1,77 @@
+{
+  "id": 1058570693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2503199577,51.1973609924,3.2503199577,51.1973609924",
+    "geom:latitude":51.197361,
+    "geom:longitude":3.25032,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinses Paolalaan 10",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 00 87",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wFR0WdmwKMUa1IiQUVP5K_51.197361_3.250320@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531332,
+    "wof:geomhash":"c1ca95566f33913131ffedfa01bc837a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058570693
+        }
+    ],
+    "wof:id":1058570693,
+    "wof:lastmodified":1473531332,
+    "wof:name":"Van Houtte Ignace",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2503199577,
+    51.1973609924,
+    3.2503199577,
+    51.1973609924
+],
+  "geometry": {"coordinates":[3.2503199577,51.1973609924],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058294553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4508872032,51.1696014404,4.4508872032,51.1696014404",
+    "geom:latitude":51.169601,
+    "geom:longitude":4.450887,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelsesteenweg 11",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 449 24 21",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "jeweller",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cyxP3a9ZVyM4Mscv6TJjz_51.169601_4.450887@1306268483"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518344,
+    "wof:geomhash":"cc09e1feb638d80f152dc19e0cc5f524",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058294553
+        }
+    ],
+    "wof:id":1058294553,
+    "wof:lastmodified":1473518344,
+    "wof:name":"Keersmaekers K",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweller",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4508872032,
+    51.1696014404,
+    4.4508872032,
+    51.1696014404
+],
+  "geometry": {"coordinates":[4.4508872032,51.1696014404],"type":"Point"}
+}

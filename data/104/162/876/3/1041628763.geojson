@@ -1,0 +1,79 @@
+{
+  "id": 1041628763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3531551361,50.8127059937,4.3531551361,50.8127059937",
+    "geom:latitude":50.812706,
+    "geom:longitude":4.353155,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marianne 34",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 99 23",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "documentation",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oE5wiNCIqga0wBTtW3mob_50.812706_4.353155@1306268500"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476473,
+    "wof:geomhash":"68b607b8b4256ecc173f078fe0115553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1041628763
+        }
+    ],
+    "wof:id":1041628763,
+    "wof:lastmodified":1473476473,
+    "wof:name":"Cbd - Bcd A.s.b.l.",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "documentation",
+        "market"
+    ]
+},
+  "bbox": [
+    4.3531551361,
+    50.8127059937,
+    4.3531551361,
+    50.8127059937
+],
+  "geometry": {"coordinates":[4.3531551361,50.8127059937],"type":"Point"}
+}

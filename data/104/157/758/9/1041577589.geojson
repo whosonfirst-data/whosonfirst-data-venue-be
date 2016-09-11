@@ -1,0 +1,81 @@
+{
+  "id": 1041577589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.655023098,50.698928833,5.655023098,50.698928833",
+    "geom:latitude":50.698929,
+    "geom:longitude":5.655023,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Cesar De Paepe 43",
+    "sg:city":"Vivegnis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 256 98 60",
+    "sg:postcode":"4683",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66nuPdyUvXxLCzzeQ2rTk6_50.698929_5.655023@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474356,
+    "wof:geomhash":"cff9f77eecc7b1eb38b8f13f763c7923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1041577589
+        }
+    ],
+    "wof:id":1041577589,
+    "wof:lastmodified":1473474356,
+    "wof:name":"Ttm Petfood International S.a.",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    5.655023098,
+    50.698928833,
+    5.655023098,
+    50.698928833
+],
+  "geometry": {"coordinates":[5.655023098,50.698928833],"type":"Point"}
+}

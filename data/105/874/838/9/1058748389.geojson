@@ -1,0 +1,73 @@
+{
+  "id": 1058748389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4942250252,50.7386322021,4.4942250252,50.7386322021",
+    "geom:latitude":50.738632,
+    "geom:longitude":4.494225,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gaston Bary 27",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 82 26",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a3kToM4nfupDWPVYHX4PE_50.738632_4.494225@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539255,
+    "wof:geomhash":"32ed33d8b5d6f72cb4159dc10dba544a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058748389
+        }
+    ],
+    "wof:id":1058748389,
+    "wof:lastmodified":1473539255,
+    "wof:name":"Willy",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.4942250252,
+    50.7386322021,
+    4.4942250252,
+    50.7386322021
+],
+  "geometry": {"coordinates":[4.4942250252,50.7386322021],"type":"Point"}
+}

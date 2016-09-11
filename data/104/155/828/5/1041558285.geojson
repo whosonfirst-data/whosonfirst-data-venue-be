@@ -1,0 +1,88 @@
+{
+  "id": 1041558285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4083070755,50.8407249451,4.4083070755,50.8407249451",
+    "geom:latitude":50.840725,
+    "geom:longitude":4.408307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Castel 88",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 33 80",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookbinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fhmljg6gTPCjIOKfWp7x8_50.840725_4.408307@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473551,
+    "wof:geomhash":"90e8add8b61cb5bbffeceb82d9cf92b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041558285
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041558285
+        }
+    ],
+    "wof:id":1041558285,
+    "wof:lastmodified":1473473551,
+    "wof:name":"Ex-libris-vervisch Sprl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookbinding"
+    ]
+},
+  "bbox": [
+    4.4083070755,
+    50.8407249451,
+    4.4083070755,
+    50.8407249451
+],
+  "geometry": {"coordinates":[4.4083070755,50.8407249451],"type":"Point"}
+}

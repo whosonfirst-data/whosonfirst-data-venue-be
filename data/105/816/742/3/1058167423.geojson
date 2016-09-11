@@ -1,0 +1,79 @@
+{
+  "id": 1058167423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2342998981,51.1849594116,3.2342998981,51.1849594116",
+    "geom:latitude":51.184959,
+    "geom:longitude":3.2343,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baron Ruzettelaan 403",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 22 31",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aQ6RXUFhO1MSRG8SrNfR4_51.184959_3.234300@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512768,
+    "wof:geomhash":"63fe5bac272ed2500f481a2d1bdb8b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058167423
+        }
+    ],
+    "wof:id":1058167423,
+    "wof:lastmodified":1473512768,
+    "wof:name":"Hamerijck M",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.2342998981,
+    51.1849594116,
+    3.2342998981,
+    51.1849594116
+],
+  "geometry": {"coordinates":[3.2342998981,51.1849594116],"type":"Point"}
+}

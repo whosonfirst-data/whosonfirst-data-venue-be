@@ -1,0 +1,81 @@
+{
+  "id": 1058222365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5853390694,50.6366996765,5.5853390694,50.6366996765",
+    "geom:latitude":50.6367,
+    "geom:longitude":5.585339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Douffet 3",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 62 38 71",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SFTUfdGHIMANHDma3seVY_50.636700_5.585339@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515185,
+    "wof:geomhash":"3d238dd11b196720aa0e47dc07f67b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058222365
+        }
+    ],
+    "wof:id":1058222365,
+    "wof:lastmodified":1473515185,
+    "wof:name":"Rumble",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5853390694,
+    50.6366996765,
+    5.5853390694,
+    50.6366996765
+],
+  "geometry": {"coordinates":[5.5853390694,50.6366996765],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058556541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3549489975,50.8119468689,4.3549489975,50.8119468689",
+    "geom:latitude":50.811947,
+    "geom:longitude":4.354949,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Winston Churchill 120",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 40 28",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJrvCwGZqAShx3c8AmA2E_50.811947_4.354949@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530651,
+    "wof:geomhash":"083fa8c0e95b52935de6c328e7390540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058556541
+        }
+    ],
+    "wof:id":1058556541,
+    "wof:lastmodified":1473530651,
+    "wof:name":"Faur\u00e8s J",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3549489975,
+    50.8119468689,
+    4.3549489975,
+    50.8119468689
+],
+  "geometry": {"coordinates":[4.3549489975,50.8119468689],"type":"Point"}
+}

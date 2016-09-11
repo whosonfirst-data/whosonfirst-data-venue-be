@@ -1,0 +1,77 @@
+{
+  "id": 1041827767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3916501999,50.8961448669,4.3916501999,50.8961448669",
+    "geom:latitude":50.896145,
+    "geom:longitude":4.39165,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00c7ois Vekemans 22",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 04 93",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801673,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07YRb8nEJRgTMy8kOIzPgX_50.896145_4.391650@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484823,
+    "wof:geomhash":"d3b83b4136fa9b481793bbdd9ed237e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801673,
+            "region_id":85681713,
+            "venue_id":1041827767
+        }
+    ],
+    "wof:id":1041827767,
+    "wof:lastmodified":1473484823,
+    "wof:name":"Bureau Maurice Willems",
+    "wof:parent_id":85801673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3916501999,
+    50.8961448669,
+    4.3916501999,
+    50.8961448669
+],
+  "geometry": {"coordinates":[4.3916501999,50.8961448669],"type":"Point"}
+}

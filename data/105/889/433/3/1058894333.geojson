@@ -1,0 +1,79 @@
+{
+  "id": 1058894333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3189001083,50.8142585754,4.3189001083,50.8142585754",
+    "geom:latitude":50.814259,
+    "geom:longitude":4.3189,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Carburants 42",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 57 71",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aN6sIzJI6mmtXNbjooWlq_50.814259_4.318900@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545640,
+    "wof:geomhash":"ea22e914f79e5cb23d484f155383af9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1058894333
+        }
+    ],
+    "wof:id":1058894333,
+    "wof:lastmodified":1473545640,
+    "wof:name":"Verdeyen T",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3189001083,
+    50.8142585754,
+    4.3189001083,
+    50.8142585754
+],
+  "geometry": {"coordinates":[4.3189001083,50.8142585754],"type":"Point"}
+}

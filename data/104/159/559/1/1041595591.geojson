@@ -1,0 +1,77 @@
+{
+  "id": 1041595591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3272547722,50.8697052002,4.3272547722,50.8697052002",
+    "geom:latitude":50.869705,
+    "geom:longitude":4.327255,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 518",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 36 54",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05w0uG1fqVn4rpcz6elMwJ_50.869705_4.327255@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475109,
+    "wof:geomhash":"5c9cdcd907a3e6d4ebe044a0a959b896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041595591
+        }
+    ],
+    "wof:id":1041595591,
+    "wof:lastmodified":1473475109,
+    "wof:name":"Garage Lahaye Sprl",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3272547722,
+    50.8697052002,
+    4.3272547722,
+    50.8697052002
+],
+  "geometry": {"coordinates":[4.3272547722,50.8697052002],"type":"Point"}
+}

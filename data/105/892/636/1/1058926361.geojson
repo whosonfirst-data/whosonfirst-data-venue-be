@@ -1,0 +1,79 @@
+{
+  "id": 1058926361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.455324173,51.3560180664,4.455324173,51.3560180664",
+    "geom:latitude":51.356018,
+    "geom:longitude":4.455324,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Pretlaan 22",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 35 16",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801235,
+        102191581,
+        85632997,
+        404227357,
+        101839065,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2db6jMb9YCpVNhS9dGizUk_51.356018_4.455324@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547193,
+    "wof:geomhash":"90fca553019b3c9bd78f272b921254f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101839065,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801235,
+            "region_id":85681715,
+            "venue_id":1058926361
+        }
+    ],
+    "wof:id":1058926361,
+    "wof:lastmodified":1473547193,
+    "wof:name":"Boiy",
+    "wof:parent_id":85801235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.455324173,
+    51.3560180664,
+    4.455324173,
+    51.3560180664
+],
+  "geometry": {"coordinates":[4.455324173,51.3560180664],"type":"Point"}
+}

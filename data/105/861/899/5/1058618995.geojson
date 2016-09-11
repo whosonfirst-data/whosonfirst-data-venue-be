@@ -1,0 +1,79 @@
+{
+  "id": 1058618995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3734178543,50.8216285706,4.3734178543,50.8216285706",
+    "geom:latitude":50.821629,
+    "geom:longitude":4.373418,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du G\u00e9n\u00e9ral De Gaulle 51 Box 5",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 12 86",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MZAorZ0OINNZ0O7fMYe03_50.821629_4.373418@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533531,
+    "wof:geomhash":"70d56779dd20e92d618b23cb2a9c1505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058618995
+        }
+    ],
+    "wof:id":1058618995,
+    "wof:lastmodified":1473533531,
+    "wof:name":"F.i.e.b. (federation Royale De L'industrie Des Eaux Et Des Boissons Rafra\u00eechissante Asbl)",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3734178543,
+    50.8216285706,
+    4.3734178543,
+    50.8216285706
+],
+  "geometry": {"coordinates":[4.3734178543,50.8216285706],"type":"Point"}
+}

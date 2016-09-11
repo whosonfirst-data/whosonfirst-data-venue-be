@@ -1,0 +1,77 @@
+{
+  "id": 1058854405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3512530327,50.8483467102,4.3512530327,50.8483467102",
+    "geom:latitude":50.848347,
+    "geom:longitude":4.351253,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du March\u00e9 Aux Poulets 55",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 22 69",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23GSfbHdtcvXtnrgFMbNDM_50.848347_4.351253@1306268583"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543912,
+    "wof:geomhash":"b8843f04e765497d7ddd7c82ccae64f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058854405
+        }
+    ],
+    "wof:id":1058854405,
+    "wof:lastmodified":1473543912,
+    "wof:name":"Celtica",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3512530327,
+    50.8483467102,
+    4.3512530327,
+    50.8483467102
+],
+  "geometry": {"coordinates":[4.3512530327,50.8483467102],"type":"Point"}
+}

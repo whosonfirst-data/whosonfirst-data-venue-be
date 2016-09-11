@@ -1,0 +1,79 @@
+{
+  "id": 1041558221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7031679153,51.036239624,3.7031679153,51.036239624",
+    "geom:latitude":51.03624,
+    "geom:longitude":3.703168,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-denijslaan 271",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 33 08",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "nut",
+        "bolt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AXrGD0VTA61ZIK0diplo0_51.036240_3.703168@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473540,
+    "wof:geomhash":"45446488ffcd94c99e9aa6ed1e8b78d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1041558221
+        }
+    ],
+    "wof:id":1041558221,
+    "wof:lastmodified":1473473540,
+    "wof:name":"Outimat-drilfix Bvba",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nut",
+        "bolt"
+    ]
+},
+  "bbox": [
+    3.7031679153,
+    51.036239624,
+    3.7031679153,
+    51.036239624
+],
+  "geometry": {"coordinates":[3.7031679153,51.036239624],"type":"Point"}
+}

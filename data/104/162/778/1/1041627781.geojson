@@ -1,0 +1,77 @@
+{
+  "id": 1041627781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6151828766,50.6263618469,5.6151828766,50.6263618469",
+    "geom:latitude":50.626362,
+    "geom:longitude":5.615183,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Nicolas-spiroux 181",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 02 03",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_316wapLliZoGUUjDMuHCaW_50.626362_5.615183@1306268498"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476419,
+    "wof:geomhash":"1b08d0efd399e45010ba6a2030223e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1041627781
+        }
+    ],
+    "wof:id":1041627781,
+    "wof:lastmodified":1473476419,
+    "wof:name":"Sojic & Fils Sprl",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder"
+    ]
+},
+  "bbox": [
+    5.6151828766,
+    50.6263618469,
+    5.6151828766,
+    50.6263618469
+],
+  "geometry": {"coordinates":[5.6151828766,50.6263618469],"type":"Point"}
+}

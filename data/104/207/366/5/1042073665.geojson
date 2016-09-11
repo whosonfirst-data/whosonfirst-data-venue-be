@@ -1,0 +1,81 @@
+{
+  "id": 1042073665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2806148529,50.7914352417,4.2806148529,50.7914352417",
+    "geom:latitude":50.791435,
+    "geom:longitude":4.280615,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Georges Wittouckstraat 29",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 378 39 87",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801841,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46iEPG8pgQkVWQGCxlcA8V_50.791435_4.280615@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495226,
+    "wof:geomhash":"57d8a8616e2f8b33517bfb44d1871841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801841,
+            "region_id":85681731,
+            "venue_id":1042073665
+        }
+    ],
+    "wof:id":1042073665,
+    "wof:lastmodified":1473495226,
+    "wof:name":"Marcel Modeboetiek Bvba",
+    "wof:parent_id":85801841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    4.2806148529,
+    50.7914352417,
+    4.2806148529,
+    50.7914352417
+],
+  "geometry": {"coordinates":[4.2806148529,50.7914352417],"type":"Point"}
+}

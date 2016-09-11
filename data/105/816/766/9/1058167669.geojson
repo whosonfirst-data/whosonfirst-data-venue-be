@@ -1,0 +1,79 @@
+{
+  "id": 1058167669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4492139816,50.8469429016,4.4492139816,50.8469429016",
+    "geom:latitude":50.846943,
+    "geom:longitude":4.449214,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue J.f. Debecker 156",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 11 12",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801353,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bvFnlnf9LLli7PQCWL8Kp_50.846943_4.449214@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512780,
+    "wof:geomhash":"162cd3ad93512a602a8a3d0d30a4bd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1058167669
+        }
+    ],
+    "wof:id":1058167669,
+    "wof:lastmodified":1473512780,
+    "wof:name":"Hauzeur Jean-philippe",
+    "wof:parent_id":85801353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4492139816,
+    50.8469429016,
+    4.4492139816,
+    50.8469429016
+],
+  "geometry": {"coordinates":[4.4492139816,50.8469429016],"type":"Point"}
+}

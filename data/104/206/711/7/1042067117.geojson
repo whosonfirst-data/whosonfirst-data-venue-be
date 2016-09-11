@@ -1,0 +1,79 @@
+{
+  "id": 1042067117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3277220726,50.8764686584,4.3277220726,50.8764686584",
+    "geom:latitude":50.876469,
+    "geom:longitude":4.327722,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9on Theodor 122",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 26 29",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fKlDDUa83PlyeB2N022UZ_50.876469_4.327722@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494955,
+    "wof:geomhash":"514aa9125c46796ed04b95c9084b1029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1042067117
+        }
+    ],
+    "wof:id":1042067117,
+    "wof:lastmodified":1473494955,
+    "wof:name":"Omnidaim-dry Cleaning",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    4.3277220726,
+    50.8764686584,
+    4.3277220726,
+    50.8764686584
+],
+  "geometry": {"coordinates":[4.3277220726,50.8764686584],"type":"Point"}
+}

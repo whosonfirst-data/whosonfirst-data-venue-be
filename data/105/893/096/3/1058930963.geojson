@@ -1,0 +1,79 @@
+{
+  "id": 1058930963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4255981445,51.2195129395,4.4255981445,51.2195129395",
+    "geom:latitude":51.219513,
+    "geom:longitude":4.425598,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bisschopstraat 47",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 51 22",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02KdCIYcrPttzipD2fedcP_51.219513_4.425598@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547379,
+    "wof:geomhash":"9e9c7a7affcbf0ca6e1bd031dee4fee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058930963
+        }
+    ],
+    "wof:id":1058930963,
+    "wof:lastmodified":1473547379,
+    "wof:name":"Peeters Cardoen",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.4255981445,
+    51.2195129395,
+    4.4255981445,
+    51.2195129395
+],
+  "geometry": {"coordinates":[4.4255981445,51.2195129395],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1041844173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3878769875,50.8228263855,4.3878769875,50.8228263855",
+    "geom:latitude":50.822826,
+    "geom:longitude":4.387877,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Couronne 388",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 82 84",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "car",
+        "self-drive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Exy9i6oGxvHAKZL19fhLv_50.822826_4.387877@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485555,
+    "wof:geomhash":"21628758979b8519ffda22909163b9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041844173
+        }
+    ],
+    "wof:id":1041844173,
+    "wof:lastmodified":1473485555,
+    "wof:name":"Rent Me",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "car",
+        "self-drive"
+    ]
+},
+  "bbox": [
+    4.3878769875,
+    50.8228263855,
+    4.3878769875,
+    50.8228263855
+],
+  "geometry": {"coordinates":[4.3878769875,50.8228263855],"type":"Point"}
+}

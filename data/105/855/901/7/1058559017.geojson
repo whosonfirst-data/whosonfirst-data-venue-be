@@ -1,0 +1,77 @@
+{
+  "id": 1058559017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7293689251,51.1111183167,3.7293689251,51.1111183167",
+    "geom:latitude":51.111118,
+    "geom:longitude":3.729369,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langerbrugsestraat 204",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 258 05 16",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rIArTy5HLo9RXnl16soOy_51.111118_3.729369@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530786,
+    "wof:geomhash":"0eefbdb83b93e94298dc282e8660bf4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1058559017
+        }
+    ],
+    "wof:id":1058559017,
+    "wof:lastmodified":1473530786,
+    "wof:name":"Heye Nico",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7293689251,
+    51.1111183167,
+    3.7293689251,
+    51.1111183167
+],
+  "geometry": {"coordinates":[3.7293689251,51.1111183167],"type":"Point"}
+}

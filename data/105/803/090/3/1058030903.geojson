@@ -1,0 +1,79 @@
+{
+  "id": 1058030903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5159897804,50.6205749512,5.5159897804,50.6205749512",
+    "geom:latitude":50.620575,
+    "geom:longitude":5.51599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Gosson 116",
+    "sg:city":"Jemeppe",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 29 26",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MgM0uB0ZqfsNA3u1NpsFk_50.620575_5.515990@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506729,
+    "wof:geomhash":"bedb5374d31cd3d8fa291209039f8c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058030903
+        }
+    ],
+    "wof:id":1058030903,
+    "wof:lastmodified":1473506729,
+    "wof:name":"Teen\u00b4s Snack",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5159897804,
+    50.6205749512,
+    5.5159897804,
+    50.6205749512
+],
+  "geometry": {"coordinates":[5.5159897804,50.6205749512],"type":"Point"}
+}

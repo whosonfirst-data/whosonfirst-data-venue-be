@@ -1,0 +1,83 @@
+{
+  "id": 1042118627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7769210339,51.0732841492,3.7769210339,51.0732841492",
+    "geom:latitude":51.073284,
+    "geom:longitude":3.776921,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpsesteenweg 830",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 05 65",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KSO3hSVba9lePAnsfx5GF_51.073284_3.776921@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497318,
+    "wof:geomhash":"e053ea6bf5fb20200999551ff4caf4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042118627
+        }
+    ],
+    "wof:id":1042118627,
+    "wof:lastmodified":1473497318,
+    "wof:name":"A.c.s. De Planter Bvba",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    3.7769210339,
+    51.0732841492,
+    3.7769210339,
+    51.0732841492
+],
+  "geometry": {"coordinates":[3.7769210339,51.0732841492],"type":"Point"}
+}

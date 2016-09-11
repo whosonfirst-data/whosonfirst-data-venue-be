@@ -1,0 +1,69 @@
+{
+  "id": 1058933011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8096280098,51.2028808594,3.8096280098,51.2028808594",
+    "geom:latitude":51.202881,
+    "geom:longitude":3.809628,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havenlaan 5",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 345 51 26",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DZLpNNEcKSBSBgC4wMJrT_51.202881_3.809628@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547461,
+    "wof:geomhash":"b65f821b5a6848695b17e387abebc6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058933011
+        }
+    ],
+    "wof:id":1058933011,
+    "wof:lastmodified":1473547461,
+    "wof:name":"Bouckaert A",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    3.8096280098,
+    51.2028808594,
+    3.8096280098,
+    51.2028808594
+],
+  "geometry": {"coordinates":[3.8096280098,51.2028808594],"type":"Point"}
+}

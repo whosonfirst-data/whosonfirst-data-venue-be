@@ -1,0 +1,83 @@
+{
+  "id": 1058153047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6353211403,50.6672210693,5.6353211403,50.6672210693",
+    "geom:latitude":50.667221,
+    "geom:longitude":5.635321,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Large Voie 124",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 12 44",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "instrument",
+        "health",
+        "-",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VDxiuY9K3uQ2qxdArGesh_50.667221_5.635321@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512137,
+    "wof:geomhash":"4c563983ea2f59ed8a03082aaf446df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058153047
+        }
+    ],
+    "wof:id":1058153047,
+    "wof:lastmodified":1473512137,
+    "wof:name":"Dangelo Giuseppe M.",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "health",
+        "-",
+        "precision"
+    ]
+},
+  "bbox": [
+    5.6353211403,
+    50.6672210693,
+    5.6353211403,
+    50.6672210693
+],
+  "geometry": {"coordinates":[5.6353211403,50.6672210693],"type":"Point"}
+}

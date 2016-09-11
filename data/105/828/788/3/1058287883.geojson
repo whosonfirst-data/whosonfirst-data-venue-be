@@ -1,0 +1,77 @@
+{
+  "id": 1058287883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4692897797,50.7700157166,4.4692897797,50.7700157166",
+    "geom:latitude":50.770016,
+    "geom:longitude":4.46929,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Panoramalaan 3",
+    "sg:city":"Hoeilaart",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 657 23 86",
+    "sg:postcode":"1560",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801811,
+        102191581,
+        85632997,
+        404227357,
+        101913235,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GhmfYUOVkxlsWbLiPuGoI_50.770016_4.469290@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518047,
+    "wof:geomhash":"31947334aa5f9c7f2077c75702eb83f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101913235,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801811,
+            "region_id":85681731,
+            "venue_id":1058287883
+        }
+    ],
+    "wof:id":1058287883,
+    "wof:lastmodified":1473518047,
+    "wof:name":"Riclean",
+    "wof:parent_id":85801811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    4.4692897797,
+    50.7700157166,
+    4.4692897797,
+    50.7700157166
+],
+  "geometry": {"coordinates":[4.4692897797,50.7700157166],"type":"Point"}
+}

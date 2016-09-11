@@ -1,0 +1,81 @@
+{
+  "id": 1058222247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3231658936,50.8737602234,4.3231658936,50.8737602234",
+    "geom:latitude":50.87376,
+    "geom:longitude":4.323166,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pierre Timmermans 46",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 08 40",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C8gUALgU8YkRuZRTHUNpk_50.873760_4.323166@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515180,
+    "wof:geomhash":"71c5518986e2b8bf50690413dff66626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058222247
+        }
+    ],
+    "wof:id":1058222247,
+    "wof:lastmodified":1473515180,
+    "wof:name":"Pakbelge Sa",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3231658936,
+    50.8737602234,
+    4.3231658936,
+    50.8737602234
+],
+  "geometry": {"coordinates":[4.3231658936,50.8737602234],"type":"Point"}
+}

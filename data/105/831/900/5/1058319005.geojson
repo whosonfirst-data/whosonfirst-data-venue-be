@@ -1,0 +1,77 @@
+{
+  "id": 1058319005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3052659035,50.8292922974,4.3052659035,50.8292922974",
+    "geom:latitude":50.829292,
+    "geom:longitude":4.305266,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Mons 803",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 63 28",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KxKwDJyxwB8eCjznkG7yf_50.829292_4.305266@1306268487"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519431,
+    "wof:geomhash":"f59328179cf2b1053e0dba0a5723e754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1058319005
+        }
+    ],
+    "wof:id":1058319005,
+    "wof:lastmodified":1473519431,
+    "wof:name":"Immotec Sprl",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    4.3052659035,
+    50.8292922974,
+    4.3052659035,
+    50.8292922974
+],
+  "geometry": {"coordinates":[4.3052659035,50.8292922974],"type":"Point"}
+}

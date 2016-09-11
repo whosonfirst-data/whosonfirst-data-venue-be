@@ -1,0 +1,81 @@
+{
+  "id": 1058150307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3711738586,50.8495864868,4.3711738586,50.8495864868",
+    "geom:latitude":50.849586,
+    "geom:longitude":4.371174,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 33",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 18 32",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sjqSTBVKJrzzcA0VIhCvw_50.849586_4.371174@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512006,
+    "wof:geomhash":"08b9a151cf139ff7f06ad69695423467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058150307
+        }
+    ],
+    "wof:id":1058150307,
+    "wof:lastmodified":1473512006,
+    "wof:name":"Marignan Centre-place Madou",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    4.3711738586,
+    50.8495864868,
+    4.3711738586,
+    50.8495864868
+],
+  "geometry": {"coordinates":[4.3711738586,50.8495864868],"type":"Point"}
+}

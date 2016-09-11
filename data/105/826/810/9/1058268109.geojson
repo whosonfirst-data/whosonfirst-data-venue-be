@@ -1,0 +1,81 @@
+{
+  "id": 1058268109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4114260674,50.8867492676,4.4114260674,50.8867492676",
+    "geom:latitude":50.886749,
+    "geom:longitude":4.411426,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Verdun 168",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 02 01",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "insulation",
+        "-",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801223,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HTkKijqLmZJWbIiJxu2uC_50.886749_4.411426@1306268477"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517176,
+    "wof:geomhash":"313ce4384363bf39886bf6f9e0004aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801223,
+            "region_id":85681713,
+            "venue_id":1058268109
+        }
+    ],
+    "wof:id":1058268109,
+    "wof:lastmodified":1473517176,
+    "wof:name":"Duson Ets",
+    "wof:parent_id":85801223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "-",
+        "electric"
+    ]
+},
+  "bbox": [
+    4.4114260674,
+    50.8867492676,
+    4.4114260674,
+    50.8867492676
+],
+  "geometry": {"coordinates":[4.4114260674,50.8867492676],"type":"Point"}
+}

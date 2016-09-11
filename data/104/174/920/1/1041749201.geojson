@@ -1,0 +1,77 @@
+{
+  "id": 1041749201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3191151619,50.8367614746,4.3191151619,50.8367614746",
+    "geom:latitude":50.836761,
+    "geom:longitude":4.319115,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gouverneur Nens 5 Box 70",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 06 05",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801525,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XRXmJ7YxXZTxJK2a8X4Nv_50.836761_4.319115@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481341,
+    "wof:geomhash":"77ba7f374c8c984351a84e2ea71cb844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801525,
+            "region_id":85681713,
+            "venue_id":1041749201
+        }
+    ],
+    "wof:id":1041749201,
+    "wof:lastmodified":1473481341,
+    "wof:name":"Ambucare",
+    "wof:parent_id":85801525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    4.3191151619,
+    50.8367614746,
+    4.3191151619,
+    50.8367614746
+],
+  "geometry": {"coordinates":[4.3191151619,50.8367614746],"type":"Point"}
+}

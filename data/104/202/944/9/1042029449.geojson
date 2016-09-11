@@ -1,0 +1,77 @@
+{
+  "id": 1042029449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3582830429,50.8460388184,4.3582830429,50.8460388184",
+    "geom:latitude":50.846039,
+    "geom:longitude":4.358283,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Cardinal Mercier 41",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 81 11",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78UzVWEMTU5a5bXFNkTioz_50.846039_4.358283@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493421,
+    "wof:geomhash":"390d9c5c89210a8f3544b91901aa4398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1042029449
+        }
+    ],
+    "wof:id":1042029449,
+    "wof:lastmodified":1473493421,
+    "wof:name":"Taverne Wings",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3582830429,
+    50.8460388184,
+    4.3582830429,
+    50.8460388184
+],
+  "geometry": {"coordinates":[4.3582830429,50.8460388184],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1058150663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4841079712,50.7274475098,4.4841079712,50.7274475098",
+    "geom:latitude":50.727448,
+    "geom:longitude":4.484108,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pierre Broodcoorens 41",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 654 01 71",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rvoz7EOrIjGVJ5rGZQQ9a_50.727448_4.484108@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512024,
+    "wof:geomhash":"312e44ecc30260e756fd5b85246cfcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058150663
+        }
+    ],
+    "wof:id":1058150663,
+    "wof:lastmodified":1473512024,
+    "wof:name":"Salicorne (la)",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    4.4841079712,
+    50.7274475098,
+    4.4841079712,
+    50.7274475098
+],
+  "geometry": {"coordinates":[4.4841079712,50.7274475098],"type":"Point"}
+}

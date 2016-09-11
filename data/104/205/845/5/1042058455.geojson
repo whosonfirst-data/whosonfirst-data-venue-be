@@ -1,0 +1,77 @@
+{
+  "id": 1042058455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2943477631,50.8462905884,4.2943477631,50.8462905884",
+    "geom:latitude":50.846291,
+    "geom:longitude":4.294348,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Ninove 762",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 43 30",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xm40bySBitY73hgCHNQ5F_50.846291_4.294348@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494612,
+    "wof:geomhash":"4b282eebf979a1a48bd4403a08a4700f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1042058455
+        }
+    ],
+    "wof:id":1042058455,
+    "wof:lastmodified":1473494612,
+    "wof:name":"De Bo M",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.2943477631,
+    50.8462905884,
+    4.2943477631,
+    50.8462905884
+],
+  "geometry": {"coordinates":[4.2943477631,50.8462905884],"type":"Point"}
+}

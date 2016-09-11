@@ -1,0 +1,77 @@
+{
+  "id": 1058554335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3857951164,50.8294296265,4.3857951164,50.8294296265",
+    "geom:latitude":50.82943,
+    "geom:longitude":4.385795,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-antoine 49",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 52 04",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08zI2dPAJ4L4SXvDZqjrdW_50.829430_4.385795@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530557,
+    "wof:geomhash":"32d58e086ed697dffb8800cd560bd631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058554335
+        }
+    ],
+    "wof:id":1058554335,
+    "wof:lastmodified":1473530557,
+    "wof:name":"Delnoij Nicolas",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3857951164,
+    50.8294296265,
+    4.3857951164,
+    50.8294296265
+],
+  "geometry": {"coordinates":[4.3857951164,50.8294296265],"type":"Point"}
+}

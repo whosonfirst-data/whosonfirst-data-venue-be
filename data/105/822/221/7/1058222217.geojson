@@ -1,0 +1,81 @@
+{
+  "id": 1058222217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4343719482,50.8633155823,4.4343719482,50.8633155823",
+    "geom:latitude":50.863316,
+    "geom:longitude":4.434372,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Graaf Andr\u00e9 Ryckmansstraat 3",
+    "sg:city":"Zaventem (sint-stevens-woluwe)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 725 05 02",
+    "sg:postcode":"1932",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XtW67lLsus02Lbu0IUeGd_50.863316_4.434372@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515178,
+    "wof:geomhash":"d22f7205dc832e4778f8061ec5da8faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058222217
+        }
+    ],
+    "wof:id":1058222217,
+    "wof:lastmodified":1473515178,
+    "wof:name":"Noblex Bvba",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4343719482,
+    50.8633155823,
+    4.4343719482,
+    50.8633155823
+],
+  "geometry": {"coordinates":[4.4343719482,50.8633155823],"type":"Point"}
+}

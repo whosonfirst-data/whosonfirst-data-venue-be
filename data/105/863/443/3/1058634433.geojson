@@ -1,0 +1,83 @@
+{
+  "id": 1058634433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3381018639,50.8609924316,4.3381018639,50.8609924316",
+    "geom:latitude":50.860992,
+    "geom:longitude":4.338102,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Houzeau De Lehaie 1",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 67 99",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13X6nZz4bc6Dx2pDYgfn54_50.860992_4.338102@1306268544"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534239,
+    "wof:geomhash":"1f80d1197b8278f583e60740fe41aeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058634433
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058634433
+        }
+    ],
+    "wof:id":1058634433,
+    "wof:lastmodified":1473534239,
+    "wof:name":"Lasolas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3381018639,
+    50.8609924316,
+    4.3381018639,
+    50.8609924316
+],
+  "geometry": {"coordinates":[4.3381018639,50.8609924316],"type":"Point"}
+}

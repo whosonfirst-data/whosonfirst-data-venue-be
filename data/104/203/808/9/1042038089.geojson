@@ -1,0 +1,77 @@
+{
+  "id": 1042038089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7135269642,51.0600013733,3.7135269642,51.0600013733",
+    "geom:latitude":51.060001,
+    "geom:longitude":3.713527,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rabotstraat 118a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 324 40 50",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dP50L2X0keD9wbYqok4EO_51.060001_3.713527@1306268382"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493791,
+    "wof:geomhash":"a0f7f46beaec8e487acd3a64e4e8e9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042038089
+        }
+    ],
+    "wof:id":1042038089,
+    "wof:lastmodified":1473493791,
+    "wof:name":"Ramenco",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    3.7135269642,
+    51.0600013733,
+    3.7135269642,
+    51.0600013733
+],
+  "geometry": {"coordinates":[3.7135269642,51.0600013733],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041550041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5893149376,50.6370277405,5.5893149376,50.6370277405",
+    "geom:latitude":50.637028,
+    "geom:longitude":5.589315,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-remacle 5",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 02 35",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "baker",
+        "-",
+        "ingredient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62eUFYaBpkfM6LwONZ9rA3_50.637028_5.589315@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473193,
+    "wof:geomhash":"dfbe39662e197bfb23333d50f53fe172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041550041
+        }
+    ],
+    "wof:id":1041550041,
+    "wof:lastmodified":1473473193,
+    "wof:name":"Jamin Marcel Sa",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "-",
+        "ingredient"
+    ]
+},
+  "bbox": [
+    5.5893149376,
+    50.6370277405,
+    5.5893149376,
+    50.6370277405
+],
+  "geometry": {"coordinates":[5.5893149376,50.6370277405],"type":"Point"}
+}

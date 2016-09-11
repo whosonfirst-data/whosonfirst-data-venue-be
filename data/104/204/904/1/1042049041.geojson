@@ -1,0 +1,79 @@
+{
+  "id": 1042049041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7141120434,51.058467865,3.7141120434,51.058467865",
+    "geom:latitude":51.058468,
+    "geom:longitude":3.714112,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rabotstraat 52",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 21 28 63",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "ceremony",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1faF2iDm6q3KH27OqyaMM0_51.058468_3.714112@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494214,
+    "wof:geomhash":"e11807add57ee3165cf6c95c7b26db67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042049041
+        }
+    ],
+    "wof:id":1042049041,
+    "wof:lastmodified":1473494214,
+    "wof:name":"Flits",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceremony",
+        "car"
+    ]
+},
+  "bbox": [
+    3.7141120434,
+    51.058467865,
+    3.7141120434,
+    51.058467865
+],
+  "geometry": {"coordinates":[3.7141120434,51.058467865],"type":"Point"}
+}

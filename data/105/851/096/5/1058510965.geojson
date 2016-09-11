@@ -1,0 +1,79 @@
+{
+  "id": 1058510965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3448200226,50.8359375,4.3448200226,50.8359375",
+    "geom:latitude":50.835938,
+    "geom:longitude":4.34482,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Blaes 201",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 70 33",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qeOnX806jy0MwQb4Kakyb_50.835938_4.344820@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528575,
+    "wof:geomhash":"2ecf0d33f7530d1c16546fbcbc2efa4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058510965
+        }
+    ],
+    "wof:id":1058510965,
+    "wof:lastmodified":1473528575,
+    "wof:name":"Andreas D\u00e9co",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3448200226,
+    50.8359375,
+    4.3448200226,
+    50.8359375
+],
+  "geometry": {"coordinates":[4.3448200226,50.8359375],"type":"Point"}
+}

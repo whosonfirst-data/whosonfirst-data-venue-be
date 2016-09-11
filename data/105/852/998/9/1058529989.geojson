@@ -1,0 +1,88 @@
+{
+  "id": 1058529989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.395772934,50.8329048157,4.395772934,50.8329048157",
+    "geom:latitude":50.832905,
+    "geom:longitude":4.395773,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Onze Novembre 58",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 99 17",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pedicure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VH7XeIj36aULYoYk8Qcp2_50.832905_4.395773@1306268524"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529483,
+    "wof:geomhash":"5c57cf8327af2a90d807801922707af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058529989
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058529989
+        }
+    ],
+    "wof:id":1058529989,
+    "wof:lastmodified":1473529483,
+    "wof:name":"Truyens P",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pedicure"
+    ]
+},
+  "bbox": [
+    4.395772934,
+    50.8329048157,
+    4.395772934,
+    50.8329048157
+],
+  "geometry": {"coordinates":[4.395772934,50.8329048157],"type":"Point"}
+}

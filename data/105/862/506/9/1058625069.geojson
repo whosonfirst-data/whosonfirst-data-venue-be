@@ -1,0 +1,79 @@
+{
+  "id": 1058625069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7496190071,51.0254898071,3.7496190071,51.0254898071",
+    "geom:latitude":51.02549,
+    "geom:longitude":3.749619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cameliastraat 7",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 68 76",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sF4vLXpGkvfXIRLvkHm65_51.025490_3.749619@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533792,
+    "wof:geomhash":"b70ff20b27e4445c939c826be50457d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058625069
+        }
+    ],
+    "wof:id":1058625069,
+    "wof:lastmodified":1473533792,
+    "wof:name":"Plaetinck A",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    3.7496190071,
+    51.0254898071,
+    3.7496190071,
+    51.0254898071
+],
+  "geometry": {"coordinates":[3.7496190071,51.0254898071],"type":"Point"}
+}

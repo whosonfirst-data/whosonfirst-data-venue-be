@@ -1,0 +1,79 @@
+{
+  "id": 1042127421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4591178894,51.1595954895,4.4591178894,51.1595954895",
+    "geom:latitude":51.159595,
+    "geom:longitude":4.459118,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelsesteenweg 189",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 454 15 20",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20H9ggJClGXdEWISz2WIgj_51.159595_4.459118@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497806,
+    "wof:geomhash":"158ac6d8492101498a236d83e29c17a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042127421
+        }
+    ],
+    "wof:id":1042127421,
+    "wof:lastmodified":1473497806,
+    "wof:name":"Dinkels Dental Labo Bvba",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    4.4591178894,
+    51.1595954895,
+    4.4591178894,
+    51.1595954895
+],
+  "geometry": {"coordinates":[4.4591178894,51.1595954895],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042251051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3017520905,50.8259086609,4.3017520905,50.8259086609",
+    "geom:latitude":50.825909,
+    "geom:longitude":4.301752,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Deleers 50",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 527 00 70",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "technical",
+        "equipment",
+        "offices-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l5D3KlHXYxAs6CnOlWBVM_50.825909_4.301752@1306268422"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504289,
+    "wof:geomhash":"b4647256e654c7b770bfc44a53bac644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1042251051
+        }
+    ],
+    "wof:id":1042251051,
+    "wof:lastmodified":1473504289,
+    "wof:name":"Legros J Sprl",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "equipment",
+        "offices-"
+    ]
+},
+  "bbox": [
+    4.3017520905,
+    50.8259086609,
+    4.3017520905,
+    50.8259086609
+],
+  "geometry": {"coordinates":[4.3017520905,50.8259086609],"type":"Point"}
+}

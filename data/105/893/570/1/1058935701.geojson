@@ -1,0 +1,77 @@
+{
+  "id": 1058935701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5302939415,50.6565055847,5.5302939415,50.6565055847",
+    "geom:latitude":50.656506,
+    "geom:longitude":5.530294,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'yser 6",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 246 52 08",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tf4MmwL3CGRPuTva4o9Et_50.656506_5.530294@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547569,
+    "wof:geomhash":"479bd746a110b005a112e62088214d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1058935701
+        }
+    ],
+    "wof:id":1058935701,
+    "wof:lastmodified":1473547569,
+    "wof:name":"Simonis S",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    5.5302939415,
+    50.6565055847,
+    5.5302939415,
+    50.6565055847
+],
+  "geometry": {"coordinates":[5.5302939415,50.6565055847],"type":"Point"}
+}

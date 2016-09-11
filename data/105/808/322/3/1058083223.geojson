@@ -1,0 +1,77 @@
+{
+  "id": 1058083223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7492289543,50.9984321594,3.7492289543,50.9984321594",
+    "geom:latitude":50.998432,
+    "geom:longitude":3.749229,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hundelgemsesteenweg 255",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 74 38",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mBC7LA0q89OgddRpXoFoT_50.998432_3.749229@1306268441"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508861,
+    "wof:geomhash":"15f6f4798393b45fae2986101dba35e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058083223
+        }
+    ],
+    "wof:id":1058083223,
+    "wof:lastmodified":1473508861,
+    "wof:name":"Matthys Rouwcentrum",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    3.7492289543,
+    50.9984321594,
+    3.7492289543,
+    50.9984321594
+],
+  "geometry": {"coordinates":[3.7492289543,50.9984321594],"type":"Point"}
+}

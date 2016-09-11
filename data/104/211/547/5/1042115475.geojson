@@ -1,0 +1,83 @@
+{
+  "id": 1042115475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5832438469,50.628452301,5.5832438469,50.628452301",
+    "geom:latitude":50.628452,
+    "geom:longitude":5.583244,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Richard Heinz 19",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 24 85",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BDHCUoDAsvsnSAXooqugW_50.628452_5.583244@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497147,
+    "wof:geomhash":"cf0e3c8b56548541d0c5674931721a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1042115475
+        }
+    ],
+    "wof:id":1042115475,
+    "wof:lastmodified":1473497147,
+    "wof:name":"I Solutions",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    5.5832438469,
+    50.628452301,
+    5.5832438469,
+    50.628452301
+],
+  "geometry": {"coordinates":[5.5832438469,50.628452301],"type":"Point"}
+}

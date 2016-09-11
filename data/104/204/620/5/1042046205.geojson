@@ -1,0 +1,81 @@
+{
+  "id": 1042046205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7087728977,51.0979766846,3.7087728977,51.0979766846",
+    "geom:latitude":51.097977,
+    "geom:longitude":3.708773,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industrieweg 12",
+    "sg:city":"Wondelgem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 53 56",
+    "sg:postcode":"9032",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "central",
+        "heating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HYoc5ig6U54WuDXYPKByD_51.097977_3.708773@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494101,
+    "wof:geomhash":"6f820fee5d849dd9a72bcdbcc593c1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1042046205
+        }
+    ],
+    "wof:id":1042046205,
+    "wof:lastmodified":1473494101,
+    "wof:name":"Van De Kerckhove Nv",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "central",
+        "heating",
+        "system"
+    ]
+},
+  "bbox": [
+    3.7087728977,
+    51.0979766846,
+    3.7087728977,
+    51.0979766846
+],
+  "geometry": {"coordinates":[3.7087728977,51.0979766846],"type":"Point"}
+}

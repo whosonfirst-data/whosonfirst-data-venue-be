@@ -1,0 +1,77 @@
+{
+  "id": 1041680429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5849618912,50.6295280457,5.5849618912,50.6295280457",
+    "geom:latitude":50.629528,
+    "geom:longitude":5.584962,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pr\u00e9-binet 16",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 34 17",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64dYLEnZeU4zHRPH53z9za_50.629528_5.584962@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478535,
+    "wof:geomhash":"069cbb35cab91379d1ef640f0f4dcd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1041680429
+        }
+    ],
+    "wof:id":1041680429,
+    "wof:lastmodified":1473478535,
+    "wof:name":"Cataldo Ets",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    5.5849618912,
+    50.6295280457,
+    5.5849618912,
+    50.6295280457
+],
+  "geometry": {"coordinates":[5.5849618912,50.6295280457],"type":"Point"}
+}

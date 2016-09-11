@@ -1,0 +1,77 @@
+{
+  "id": 1058935021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3664851189,50.7748908997,4.3664851189,50.7748908997",
+    "geom:latitude":50.774891,
+    "geom:longitude":4.366485,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Bl\u00fccher 199",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 43 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801965,
+        102191581,
+        85632997,
+        404227355,
+        101913249,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MK3Nfwo4LjdsY507i9ogR_50.774891_4.366485@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547538,
+    "wof:geomhash":"46e7d495c38b5465c1b5c3d574613dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913249,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801965,
+            "region_id":85681713,
+            "venue_id":1058935021
+        }
+    ],
+    "wof:id":1058935021,
+    "wof:lastmodified":1473547538,
+    "wof:name":"Massart S",
+    "wof:parent_id":85801965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.3664851189,
+    50.7748908997,
+    4.3664851189,
+    50.7748908997
+],
+  "geometry": {"coordinates":[4.3664851189,50.7748908997],"type":"Point"}
+}

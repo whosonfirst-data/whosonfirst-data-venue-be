@@ -1,0 +1,73 @@
+{
+  "id": 1058157929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5783891678,50.5671157837,5.5783891678,50.5671157837",
+    "geom:latitude":50.567116,
+    "geom:longitude":5.578389,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Vandervelde 13",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 29 59",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cVHXf7ZJbKEvvDlVlOzqC_50.567116_5.578389@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512352,
+    "wof:geomhash":"980f234d1ac3c41dd3f5a6a73e9cb51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058157929
+        }
+    ],
+    "wof:id":1058157929,
+    "wof:lastmodified":1473512352,
+    "wof:name":"Collard C",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5783891678,
+    50.5671157837,
+    5.5783891678,
+    50.5671157837
+],
+  "geometry": {"coordinates":[5.5783891678,50.5671157837],"type":"Point"}
+}

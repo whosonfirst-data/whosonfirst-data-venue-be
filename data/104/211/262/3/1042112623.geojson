@@ -1,0 +1,81 @@
+{
+  "id": 1042112623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7608940601,51.0283851624,3.7608940601,51.0283851624",
+    "geom:latitude":51.028385,
+    "geom:longitude":3.760894,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Benoitlaan 121",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 329 59 28",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_578esdPhgI9HRhiQzOkZ08_51.028385_3.760894@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496972,
+    "wof:geomhash":"b8bc7c02954ff71501bee8a780fa37d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042112623
+        }
+    ],
+    "wof:id":1042112623,
+    "wof:lastmodified":1473496972,
+    "wof:name":"Dtservice",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    3.7608940601,
+    51.0283851624,
+    3.7608940601,
+    51.0283851624
+],
+  "geometry": {"coordinates":[3.7608940601,51.0283851624],"type":"Point"}
+}

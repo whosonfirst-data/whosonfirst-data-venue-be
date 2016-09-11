@@ -1,0 +1,79 @@
+{
+  "id": 1058159229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4450850487,50.8445243835,4.4450850487,50.8445243835",
+    "geom:latitude":50.844524,
+    "geom:longitude":4.445085,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Notre-dame 42",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 71 52",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801353,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQGucqYudXrYS32lwwT2M_50.844524_4.445085@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512406,
+    "wof:geomhash":"7bd2f610393dc8b1cba2cf1be65bfd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1058159229
+        }
+    ],
+    "wof:id":1058159229,
+    "wof:lastmodified":1473512406,
+    "wof:name":"De Becker E",
+    "wof:parent_id":85801353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4450850487,
+    50.8445243835,
+    4.4450850487,
+    50.8445243835
+],
+  "geometry": {"coordinates":[4.4450850487,50.8445243835],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1041689353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4062371254,50.8416862488,4.4062371254,50.8416862488",
+    "geom:latitude":50.841686,
+    "geom:longitude":4.406237,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Brand Whitlock 87",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 30 78",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jzvsk8aPZv7UHwrdrtrUa_50.841686_4.406237@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478875,
+    "wof:geomhash":"b86f2422db288207c491e45b2652f661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041689353
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041689353
+        }
+    ],
+    "wof:id":1041689353,
+    "wof:lastmodified":1473478875,
+    "wof:name":"Van Cauwenberghe F",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.4062371254,
+    50.8416862488,
+    4.4062371254,
+    50.8416862488
+],
+  "geometry": {"coordinates":[4.4062371254,50.8416862488],"type":"Point"}
+}

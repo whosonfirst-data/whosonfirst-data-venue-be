@@ -1,0 +1,77 @@
+{
+  "id": 1042005727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5601878166,50.6096496582,5.5601878166,50.6096496582",
+    "geom:latitude":50.60965,
+    "geom:longitude":5.560188,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ernest Solvay 20",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 58 95",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801817,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DEGxKvfVMEKao9fd7F5D7_50.609650_5.560188@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492517,
+    "wof:geomhash":"4a30cebe288872458ea6ac13f85ee183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801817,
+            "region_id":85681691,
+            "venue_id":1042005727
+        }
+    ],
+    "wof:id":1042005727,
+    "wof:lastmodified":1473492517,
+    "wof:name":"Caf\u00c9 Au Stella",
+    "wof:parent_id":85801817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5601878166,
+    50.6096496582,
+    5.5601878166,
+    50.6096496582
+],
+  "geometry": {"coordinates":[5.5601878166,50.6096496582],"type":"Point"}
+}

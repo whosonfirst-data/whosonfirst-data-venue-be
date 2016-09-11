@@ -1,0 +1,79 @@
+{
+  "id": 1041660557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3440380096,50.855594635,4.3440380096,50.855594635",
+    "geom:latitude":50.855595,
+    "geom:longitude":4.344038,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rederskaai 9 Poort 13",
+    "sg:city":"Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 19 39",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sand",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MLClU75lsK4Z5uaf4cEyU_50.855595_4.344038@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477777,
+    "wof:geomhash":"12c3b3affff87c04b9700ada5c6d3a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041660557
+        }
+    ],
+    "wof:id":1041660557,
+    "wof:lastmodified":1473477777,
+    "wof:name":"Belgrasa Nv",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "gravel"
+    ]
+},
+  "bbox": [
+    4.3440380096,
+    50.855594635,
+    4.3440380096,
+    50.855594635
+],
+  "geometry": {"coordinates":[4.3440380096,50.855594635],"type":"Point"}
+}

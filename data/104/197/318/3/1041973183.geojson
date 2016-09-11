@@ -1,0 +1,71 @@
+{
+  "id": 1041973183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5358681679,50.575012207,5.5358681679,50.575012207",
+    "geom:latitude":50.575012,
+    "geom:longitude":5.535868,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'eglise 34",
+    "sg:city":"Seraing (boncelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 34 24",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O6XNJTL9uZbJINlrU2Ptp_50.575012_5.535868@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491236,
+    "wof:geomhash":"553625b96b512b01210242ccbfc6b9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1041973183
+        }
+    ],
+    "wof:id":1041973183,
+    "wof:lastmodified":1473491236,
+    "wof:name":"Schaals Ch",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5358681679,
+    50.575012207,
+    5.5358681679,
+    50.575012207
+],
+  "geometry": {"coordinates":[5.5358681679,50.575012207],"type":"Point"}
+}

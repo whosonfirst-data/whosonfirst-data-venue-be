@@ -1,0 +1,79 @@
+{
+  "id": 1058619693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3523697853,50.8484687805,4.3523697853,50.8484687805",
+    "geom:latitude":50.848469,
+    "geom:longitude":4.35237,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galerie Du Centre 15",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 223 06 47",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BCagXlRbxSxZKqmwSxqkf_50.848469_4.352370@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533558,
+    "wof:geomhash":"541c17a5fab6f36060b3757cd7ce2833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058619693
+        }
+    ],
+    "wof:id":1058619693,
+    "wof:lastmodified":1473533558,
+    "wof:name":"Unep",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3523697853,
+    50.8484687805,
+    4.3523697853,
+    50.8484687805
+],
+  "geometry": {"coordinates":[4.3523697853,50.8484687805],"type":"Point"}
+}

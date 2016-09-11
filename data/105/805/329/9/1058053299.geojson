@@ -1,0 +1,66 @@
+{
+  "id": 1058053299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5059709549,50.7698516846,4.5059709549,50.7698516846",
+    "geom:latitude":50.769852,
+    "geom:longitude":4.505971,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fr. Verbeekstraat 146",
+    "sg:city":"Overijse",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 70 82",
+    "sg:postcode":"3090",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ocW1GBrDgZTdCrp0QUOJY_50.769852_4.505971@1306268435"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507634,
+    "wof:geomhash":"7df65c828e31292178c12bd4b0157928",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058053299
+        }
+    ],
+    "wof:id":1058053299,
+    "wof:lastmodified":1473507634,
+    "wof:name":"Ariane Bloemen",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5059709549,
+    50.7698516846,
+    4.5059709549,
+    50.7698516846
+],
+  "geometry": {"coordinates":[4.5059709549,50.7698516846],"type":"Point"}
+}

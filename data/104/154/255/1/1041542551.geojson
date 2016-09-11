@@ -1,0 +1,83 @@
+{
+  "id": 1041542551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3678689003,50.8086662292,4.3678689003,50.8086662292",
+    "geom:latitude":50.808666,
+    "geom:longitude":4.367869,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Beau S\u00e9jour 42",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 37 91",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85800787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6COx8wL47umzWBsYcNh8Tx_50.808666_4.367869@1306268338"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472903,
+    "wof:geomhash":"b051cda2490165342752df37955f1d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041542551
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041542551
+        }
+    ],
+    "wof:id":1041542551,
+    "wof:lastmodified":1473472903,
+    "wof:name":"Vanhoof J-c",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3678689003,
+    50.8086662292,
+    4.3678689003,
+    50.8086662292
+],
+  "geometry": {"coordinates":[4.3678689003,50.8086662292],"type":"Point"}
+}

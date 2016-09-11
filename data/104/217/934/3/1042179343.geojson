@@ -1,0 +1,79 @@
+{
+  "id": 1042179343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5715198517,50.6278038025,5.5715198517,50.6278038025",
+    "geom:latitude":50.627804,
+    "geom:longitude":5.57152,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Blonden 76",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 65 56",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yt7FXVO692bYbTkGhDtx7_50.627804_5.571520@1306268410"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500696,
+    "wof:geomhash":"a51515d0e7b0fb03d09a06e5bf2c9e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1042179343
+        }
+    ],
+    "wof:id":1042179343,
+    "wof:lastmodified":1473500696,
+    "wof:name":"Vranken Pemmey Belgium",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    5.5715198517,
+    50.6278038025,
+    5.5715198517,
+    50.6278038025
+],
+  "geometry": {"coordinates":[5.5715198517,50.6278038025],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058624177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4290938377,50.8490638733,4.4290938377,50.8490638733",
+    "geom:latitude":50.849064,
+    "geom:longitude":4.429094,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chemin Des Deux Maisons 8",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 94 37 96",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bo7YeKF2EzpTHwQOqWVyg_50.849064_4.429094@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533758,
+    "wof:geomhash":"f75d31fb8d3ff63e47aa5f92b077e8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1058624177
+        }
+    ],
+    "wof:id":1058624177,
+    "wof:lastmodified":1473533758,
+    "wof:name":"Biston-reichling J",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.4290938377,
+    50.8490638733,
+    4.4290938377,
+    50.8490638733
+],
+  "geometry": {"coordinates":[4.4290938377,50.8490638733],"type":"Point"}
+}

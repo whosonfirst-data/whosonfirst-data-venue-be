@@ -1,0 +1,81 @@
+{
+  "id": 1058143379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5506691933,50.6100082397,5.5506691933,50.6100082397",
+    "geom:latitude":50.610008,
+    "geom:longitude":5.550669,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'avenir 5",
+    "sg:city":"Li\u00e8ge 1 (sclessin)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 49 03",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801817,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m9Yeqj0CmfKCJ63GT57JV_50.610008_5.550669@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511661,
+    "wof:geomhash":"4173462f88797ff8ca8cb1bc2b430ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801817,
+            "region_id":85681691,
+            "venue_id":1058143379
+        }
+    ],
+    "wof:id":1058143379,
+    "wof:lastmodified":1473511661,
+    "wof:name":"Kenens-wevers",
+    "wof:parent_id":85801817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5506691933,
+    50.6100082397,
+    5.5506691933,
+    50.6100082397
+],
+  "geometry": {"coordinates":[5.5506691933,50.6100082397],"type":"Point"}
+}

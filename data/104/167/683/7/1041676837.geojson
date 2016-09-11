@@ -1,0 +1,77 @@
+{
+  "id": 1041676837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3393440247,50.8852081299,4.3393440247,50.8852081299",
+    "geom:latitude":50.885208,
+    "geom:longitude":4.339344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Smet De Naeyer 549",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 54 15",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tsq9Lb1mIViIfJtajlvWp_50.885208_4.339344@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478395,
+    "wof:geomhash":"a1ffd70369fec0a6324681b9173b90d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1041676837
+        }
+    ],
+    "wof:id":1041676837,
+    "wof:lastmodified":1473478395,
+    "wof:name":"Toubeau P",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.3393440247,
+    50.8852081299,
+    4.3393440247,
+    50.8852081299
+],
+  "geometry": {"coordinates":[4.3393440247,50.8852081299],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1041899189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7320649624,51.0481872559,3.7320649624,51.0481872559",
+    "geom:latitude":51.048187,
+    "geom:longitude":3.732065,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Vlaanderenpln 7",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 53 23 33 09",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RK5wcYY1FYrnnam1VpRV4_51.048187_3.732065@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487881,
+    "wof:geomhash":"2fafa3960fdce7d756a788647778398a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041899189
+        }
+    ],
+    "wof:id":1041899189,
+    "wof:lastmodified":1473487881,
+    "wof:name":"Banque Bruxelles Lambert Sa",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7320649624,
+    51.0481872559,
+    3.7320649624,
+    51.0481872559
+],
+  "geometry": {"coordinates":[3.7320649624,51.0481872559],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058554787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2390398979,51.2010803223,3.2390398979,51.2010803223",
+    "geom:latitude":51.20108,
+    "geom:longitude":3.23904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Evert Van 't Padstraat 27",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 07 87",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2luq2im80lvQEsYCRSU3o7_51.201080_3.239040@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530574,
+    "wof:geomhash":"17fbab50d2f69f2b1413a620bceaaf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058554787
+        }
+    ],
+    "wof:id":1058554787,
+    "wof:lastmodified":1473530574,
+    "wof:name":"Depuydt S",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2390398979,
+    51.2010803223,
+    3.2390398979,
+    51.2010803223
+],
+  "geometry": {"coordinates":[3.2390398979,51.2010803223],"type":"Point"}
+}

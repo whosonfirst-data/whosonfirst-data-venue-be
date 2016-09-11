@@ -1,0 +1,81 @@
+{
+  "id": 1042090949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4535531998,51.1747512817,4.4535531998,51.1747512817",
+    "geom:latitude":51.174751,
+    "geom:longitude":4.453553,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krijgsbaan 128",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 440 33 81",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CVNh2tlY1OYt1IetQLlaj_51.174751_4.453553@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495999,
+    "wof:geomhash":"5cda1c0014fa2737e32ed6dc17bcc853",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1042090949
+        }
+    ],
+    "wof:id":1042090949,
+    "wof:lastmodified":1473495999,
+    "wof:name":"Office Automation",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ]
+},
+  "bbox": [
+    4.4535531998,
+    51.1747512817,
+    4.4535531998,
+    51.1747512817
+],
+  "geometry": {"coordinates":[4.4535531998,51.1747512817],"type":"Point"}
+}

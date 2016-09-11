@@ -1,0 +1,83 @@
+{
+  "id": 1042149427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4035158157,50.8749275208,4.4035158157,50.8749275208",
+    "geom:latitude":50.874928,
+    "geom:longitude":4.403516,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 1031h",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 35 38 07",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16LCixevyQFBnlepWtRJeF_50.874928_4.403516@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498996,
+    "wof:geomhash":"4c786a064ca6c6e169dd57c283a82504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042149427
+        }
+    ],
+    "wof:id":1042149427,
+    "wof:lastmodified":1473498996,
+    "wof:name":"Herbalife",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ]
+},
+  "bbox": [
+    4.4035158157,
+    50.8749275208,
+    4.4035158157,
+    50.8749275208
+],
+  "geometry": {"coordinates":[4.4035158157,50.8749275208],"type":"Point"}
+}

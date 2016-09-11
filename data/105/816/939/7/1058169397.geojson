@@ -1,0 +1,79 @@
+{
+  "id": 1058169397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3660449982,50.851940155,4.3660449982,50.851940155",
+    "geom:latitude":50.85194,
+    "geom:longitude":4.366045,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Sablonni\u00e8re 15",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 29 69",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJH5yHEjIEmhOtpaDkNN0_50.851940_4.366045@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512876,
+    "wof:geomhash":"cd6474c41e7bbe820105947574fa7c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058169397
+        }
+    ],
+    "wof:id":1058169397,
+    "wof:lastmodified":1473512876,
+    "wof:name":"Jekeler Louis-nicolas",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3660449982,
+    50.851940155,
+    4.3660449982,
+    50.851940155
+],
+  "geometry": {"coordinates":[4.3660449982,50.851940155],"type":"Point"}
+}

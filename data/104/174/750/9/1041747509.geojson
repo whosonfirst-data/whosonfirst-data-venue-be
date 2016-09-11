@@ -1,0 +1,81 @@
+{
+  "id": 1041747509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7478749752,51.0593414307,3.7478749752,51.0593414307",
+    "geom:latitude":51.059341,
+    "geom:longitude":3.747875,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reginald Warnefordstraat 100",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 22 08 81",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "alternative",
+        "therapy",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pFjLtBUm6T5S91pGL6EbD_51.059341_3.747875@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481270,
+    "wof:geomhash":"d069ebc9894cdaa2fb24e4385be1e857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1041747509
+        }
+    ],
+    "wof:id":1041747509,
+    "wof:lastmodified":1473481270,
+    "wof:name":"Antajj",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "therapy",
+        "treatment"
+    ]
+},
+  "bbox": [
+    3.7478749752,
+    51.0593414307,
+    3.7478749752,
+    51.0593414307
+],
+  "geometry": {"coordinates":[3.7478749752,51.0593414307],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041984203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5745429993,50.6450805664,5.5745429993,50.6450805664",
+    "geom:latitude":50.645081,
+    "geom:longitude":5.574543,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bex 15",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 49 75",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A6Bv0u39sBOVgw8KoAo7u_50.645081_5.574543@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491681,
+    "wof:geomhash":"9e5dbc806d5811ee0157266f7cc11b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041984203
+        }
+    ],
+    "wof:id":1041984203,
+    "wof:lastmodified":1473491681,
+    "wof:name":"J L (boutique)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    5.5745429993,
+    50.6450805664,
+    5.5745429993,
+    50.6450805664
+],
+  "geometry": {"coordinates":[5.5745429993,50.6450805664],"type":"Point"}
+}

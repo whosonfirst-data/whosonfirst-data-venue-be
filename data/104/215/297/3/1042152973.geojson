@@ -1,0 +1,85 @@
+{
+  "id": 1042152973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7251830101,51.0513343811,3.7251830101,51.0513343811",
+    "geom:latitude":51.051334,
+    "geom:longitude":3.725183,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalanderberg 7",
+    "sg:city":"Gent-centrum",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 60 21",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "paris",
+        "voyage",
+        "de",
+        "disneyland",
+        "agences"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KA5EqciwOipO8BqijUPrK_51.051334_3.725183@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499172,
+    "wof:geomhash":"16804097acf6311c1a5ab5c30201bd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042152973
+        }
+    ],
+    "wof:id":1042152973,
+    "wof:lastmodified":1473499172,
+    "wof:name":"V.t.b.",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paris",
+        "voyage",
+        "de",
+        "disneyland",
+        "agences"
+    ]
+},
+  "bbox": [
+    3.7251830101,
+    51.0513343811,
+    3.7251830101,
+    51.0513343811
+],
+  "geometry": {"coordinates":[3.7251830101,51.0513343811],"type":"Point"}
+}

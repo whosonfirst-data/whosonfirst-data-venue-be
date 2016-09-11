@@ -1,0 +1,79 @@
+{
+  "id": 1058283133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4156417847,51.2213935852,4.4156417847,51.2213935852",
+    "geom:latitude":51.221394,
+    "geom:longitude":4.415642,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Boendalestraat 8",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 234 12 10",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WMgnhl6kEqcJKWI5tHSDe_51.221394_4.415642@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517835,
+    "wof:geomhash":"89da960fb4032aa22f5c9ac6f7eeb4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1058283133
+        }
+    ],
+    "wof:id":1058283133,
+    "wof:lastmodified":1473517835,
+    "wof:name":"Motonet Vzw",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "internet"
+    ]
+},
+  "bbox": [
+    4.4156417847,
+    51.2213935852,
+    4.4156417847,
+    51.2213935852
+],
+  "geometry": {"coordinates":[4.4156417847,51.2213935852],"type":"Point"}
+}

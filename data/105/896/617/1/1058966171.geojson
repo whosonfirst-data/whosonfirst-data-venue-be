@@ -1,0 +1,77 @@
+{
+  "id": 1058966171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.434319973,50.9261894226,4.434319973,50.9261894226",
+    "geom:latitude":50.926189,
+    "geom:longitude":4.43432,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Luchthavenlaan 1",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 481 84 10",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "weighbridge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801781,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uSbxxdDMUJyFLG0l5vXQ4_50.926189_4.434320@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549043,
+    "wof:geomhash":"a98b9bd2c5b4b48cec3af2a6bb246b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801781,
+            "region_id":85681731,
+            "venue_id":1058966171
+        }
+    ],
+    "wof:id":1058966171,
+    "wof:lastmodified":1473549043,
+    "wof:name":"Global Weighing Technologies",
+    "wof:parent_id":85801781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weighbridge"
+    ]
+},
+  "bbox": [
+    4.434319973,
+    50.9261894226,
+    4.434319973,
+    50.9261894226
+],
+  "geometry": {"coordinates":[4.434319973,50.9261894226],"type":"Point"}
+}

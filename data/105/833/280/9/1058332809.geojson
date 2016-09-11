@@ -1,0 +1,73 @@
+{
+  "id": 1058332809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3001608849,51.1511306763,4.3001608849,51.1511306763",
+    "geom:latitude":51.151131,
+    "geom:longitude":4.300161,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kruibekestraat 87",
+    "sg:city":"Kruibeke (bazel)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 744 20 05",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CmOu9Se5WaydNpuZhaqqC_51.151131_4.300161@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473520128,
+    "wof:geomhash":"c8332171dbae7c3001ba6512741a6c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058332809
+        }
+    ],
+    "wof:id":1058332809,
+    "wof:lastmodified":1473520128,
+    "wof:name":"Van Eynde",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    4.3001608849,
+    51.1511306763,
+    4.3001608849,
+    51.1511306763
+],
+  "geometry": {"coordinates":[4.3001608849,51.1511306763],"type":"Point"}
+}

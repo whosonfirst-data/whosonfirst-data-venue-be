@@ -1,0 +1,77 @@
+{
+  "id": 1058935729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4701151848,50.7740440369,4.4701151848,50.7740440369",
+    "geom:latitude":50.774044,
+    "geom:longitude":4.470115,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenbergstraat 19",
+    "sg:city":"Hoeilaart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 657 36 58",
+    "sg:postcode":"1560",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801811,
+        102191581,
+        85632997,
+        404227357,
+        101913235,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63MTFRZvWKMvPFFISrcWEs_50.774044_4.470115@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547570,
+    "wof:geomhash":"7fc541498d8e5d9417c8f81e422c687a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101913235,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801811,
+            "region_id":85681731,
+            "venue_id":1058935729
+        }
+    ],
+    "wof:id":1058935729,
+    "wof:lastmodified":1473547570,
+    "wof:name":"Snijders A",
+    "wof:parent_id":85801811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4701151848,
+    50.7740440369,
+    4.4701151848,
+    50.7740440369
+],
+  "geometry": {"coordinates":[4.4701151848,50.7740440369],"type":"Point"}
+}

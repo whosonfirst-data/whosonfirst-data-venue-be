@@ -1,0 +1,77 @@
+{
+  "id": 1058120139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4164571762,50.8382797241,4.4164571762,50.8382797241",
+    "geom:latitude":50.83828,
+    "geom:longitude":4.416457,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Louis Gribaumont 59",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 39 36",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RlFzLDmB9C2Fa2fL3Vm7l_50.838280_4.416457@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510529,
+    "wof:geomhash":"4db434cbe2ec7ceadbc219fa8d7acb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058120139
+        }
+    ],
+    "wof:id":1058120139,
+    "wof:lastmodified":1473510529,
+    "wof:name":"Gribaumont (le)",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.4164571762,
+    50.8382797241,
+    4.4164571762,
+    50.8382797241
+],
+  "geometry": {"coordinates":[4.4164571762,50.8382797241],"type":"Point"}
+}

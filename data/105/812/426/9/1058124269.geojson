@@ -1,0 +1,77 @@
+{
+  "id": 1058124269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7483069897,51.0538253784,3.7483069897,51.0538253784",
+    "geom:latitude":51.053825,
+    "geom:longitude":3.748307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heilig-hartstraat 11",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 42 20",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "groenten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YR8tiwWGF70T3xRpnopPt_51.053825_3.748307@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510731,
+    "wof:geomhash":"5384b1e611b5468a08b99fe6344f963c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058124269
+        }
+    ],
+    "wof:id":1058124269,
+    "wof:lastmodified":1473510731,
+    "wof:name":"Dimitri Knobbe",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "groenten"
+    ]
+},
+  "bbox": [
+    3.7483069897,
+    51.0538253784,
+    3.7483069897,
+    51.0538253784
+],
+  "geometry": {"coordinates":[3.7483069897,51.0538253784],"type":"Point"}
+}

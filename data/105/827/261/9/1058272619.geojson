@@ -1,0 +1,77 @@
+{
+  "id": 1058272619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.619287014,50.6060791016,5.619287014,50.6060791016",
+    "geom:latitude":50.606079,
+    "geom:longitude":5.619287,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Grands-pr\u00e9s 62",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 75 27",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xLw19orv1zzi815M0sVTe_50.606079_5.619287@1306268479"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517375,
+    "wof:geomhash":"288422123f4537c97b96ce7c082a316d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1058272619
+        }
+    ],
+    "wof:id":1058272619,
+    "wof:lastmodified":1473517375,
+    "wof:name":"Jidecca",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    5.619287014,
+    50.6060791016,
+    5.619287014,
+    50.6060791016
+],
+  "geometry": {"coordinates":[5.619287014,50.6060791016],"type":"Point"}
+}

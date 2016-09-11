@@ -1,0 +1,73 @@
+{
+  "id": 1058830873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5273852348,50.8346786499,4.5273852348,50.8346786499",
+    "geom:latitude":50.834679,
+    "geom:longitude":4.527385,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leuvensesteenweg 76",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 54 20",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q3ADwk5bQGvlxqsNnKP2w_50.834679_4.527385@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542893,
+    "wof:geomhash":"758479f1a5de5431eb6a2b7b05583550",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1058830873
+        }
+    ],
+    "wof:id":1058830873,
+    "wof:lastmodified":1473542893,
+    "wof:name":"Texaco",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    4.5273852348,
+    50.8346786499,
+    4.5273852348,
+    50.8346786499
+],
+  "geometry": {"coordinates":[4.5273852348,50.8346786499],"type":"Point"}
+}

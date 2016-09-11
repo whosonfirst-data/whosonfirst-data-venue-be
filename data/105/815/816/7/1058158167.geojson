@@ -1,0 +1,79 @@
+{
+  "id": 1058158167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3797807693,50.8760604858,4.3797807693,50.8760604858",
+    "geom:latitude":50.87606,
+    "geom:longitude":4.379781,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Emile Zola 41",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 68 13",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J6YQb0F5u00GKglogenwi_50.876060_4.379781@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512361,
+    "wof:geomhash":"2b55c2ee91a7edc684e21f7962fe1562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058158167
+        }
+    ],
+    "wof:id":1058158167,
+    "wof:lastmodified":1473512361,
+    "wof:name":"Coppe St\u00e9phane",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3797807693,
+    50.8760604858,
+    4.3797807693,
+    50.8760604858
+],
+  "geometry": {"coordinates":[4.3797807693,50.8760604858],"type":"Point"}
+}

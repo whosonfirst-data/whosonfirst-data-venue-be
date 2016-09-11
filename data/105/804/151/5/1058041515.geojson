@@ -1,0 +1,78 @@
+{
+  "id": 1058041515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3998260498,51.2183952332,4.3998260498,51.2183952332",
+    "geom:latitude":51.218395,
+    "geom:longitude":4.399826,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bergstraat 8-10",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IAvJihXpcpt0X9Ajov6gU_51.218395_4.399826@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507167,
+    "wof:geomhash":"fc88c3b4ec01829de709e0f35d59c119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058041515
+        }
+    ],
+    "wof:id":1058041515,
+    "wof:lastmodified":1473507167,
+    "wof:name":"Cape Calsil Belgium",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    4.3998260498,
+    51.2183952332,
+    4.3998260498,
+    51.2183952332
+],
+  "geometry": {"coordinates":[4.3998260498,51.2183952332],"type":"Point"}
+}

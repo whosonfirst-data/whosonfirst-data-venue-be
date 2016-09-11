@@ -1,0 +1,73 @@
+{
+  "id": 1041672823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4795942307,50.6535606384,5.4795942307,50.6535606384",
+    "geom:latitude":50.653561,
+    "geom:longitude":5.479594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue A\u00e9ropostale 8",
+    "sg:city":"Gr\u00e2ce-hollogne (bierset)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 77 00",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OpXIulMgl31dWU7gEA1mD_50.653561_5.479594@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478257,
+    "wof:geomhash":"5d37c0ab27efbfff3b2f0edfc3939751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1041672823
+        }
+    ],
+    "wof:id":1041672823,
+    "wof:lastmodified":1473478257,
+    "wof:name":"T.t.s.",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    5.4795942307,
+    50.6535606384,
+    5.4795942307,
+    50.6535606384
+],
+  "geometry": {"coordinates":[5.4795942307,50.6535606384],"type":"Point"}
+}

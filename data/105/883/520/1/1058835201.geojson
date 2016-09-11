@@ -1,0 +1,79 @@
+{
+  "id": 1058835201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4879522324,51.3050613403,4.4879522324,51.3050613403",
+    "geom:latitude":51.305061,
+    "geom:longitude":4.487952,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lage Kaart 339",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 651 46 32",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1stzVfAp4olikt6bWu5Otm_51.305061_4.487952@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543087,
+    "wof:geomhash":"aa20be27a3c0dab482611858329464e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1058835201
+        }
+    ],
+    "wof:id":1058835201,
+    "wof:lastmodified":1473543087,
+    "wof:name":"Wouters Plafonneringswerken Bvba",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4879522324,
+    51.3050613403,
+    4.4879522324,
+    51.3050613403
+],
+  "geometry": {"coordinates":[4.4879522324,51.3050613403],"type":"Point"}
+}

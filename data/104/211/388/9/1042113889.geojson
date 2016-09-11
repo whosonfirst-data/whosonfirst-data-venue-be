@@ -1,0 +1,83 @@
+{
+  "id": 1042113889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3667840958,50.8938751221,4.3667840958,50.8938751221",
+    "geom:latitude":50.893875,
+    "geom:longitude":4.366784,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Ferdauci 22",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 262 44 14",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32TT1Ua4cnmS6Oo1ryyeM0_50.893875_4.366784@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497036,
+    "wof:geomhash":"64fafea2dc00dbaa0a63cd064e2b6c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042113889
+        }
+    ],
+    "wof:id":1042113889,
+    "wof:lastmodified":1473497036,
+    "wof:name":"A.t.m.",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3667840958,
+    50.8938751221,
+    4.3667840958,
+    50.8938751221
+],
+  "geometry": {"coordinates":[4.3667840958,50.8938751221],"type":"Point"}
+}

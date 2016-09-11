@@ -1,0 +1,81 @@
+{
+  "id": 1058524279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4214901924,50.8440132141,4.4214901924,50.8440132141",
+    "geom:latitude":50.844013,
+    "geom:longitude":4.42149,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tomberg 234",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 34 07",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "mainten",
+        "-",
+        "parquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801913,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UVQTPchcTBJcyj1Gh8pNp_50.844013_4.421490@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529191,
+    "wof:geomhash":"3282ec184f7d02c16d9747a9aa4c50e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801913,
+            "region_id":85681713,
+            "venue_id":1058524279
+        }
+    ],
+    "wof:id":1058524279,
+    "wof:lastmodified":1473529191,
+    "wof:name":"A.c. Design Parquets",
+    "wof:parent_id":85801913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mainten",
+        "-",
+        "parquet"
+    ]
+},
+  "bbox": [
+    4.4214901924,
+    50.8440132141,
+    4.4214901924,
+    50.8440132141
+],
+  "geometry": {"coordinates":[4.4214901924,50.8440132141],"type":"Point"}
+}

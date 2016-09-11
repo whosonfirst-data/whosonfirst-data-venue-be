@@ -1,0 +1,77 @@
+{
+  "id": 1042023653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2460830212,51.2134094238,3.2460830212,51.2134094238",
+    "geom:latitude":51.213409,
+    "geom:longitude":3.246083,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moerkerkse Steenweg 104",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 17 60",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jEqCb5LT3PkZfTVu2KSAC_51.213409_3.246083@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493188,
+    "wof:geomhash":"e47bfd84dd27a2aed66a86a61b2e5a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1042023653
+        }
+    ],
+    "wof:id":1042023653,
+    "wof:lastmodified":1473493188,
+    "wof:name":"Michele Neirinck",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2460830212,
+    51.2134094238,
+    3.2460830212,
+    51.2134094238
+],
+  "geometry": {"coordinates":[3.2460830212,51.2134094238],"type":"Point"}
+}

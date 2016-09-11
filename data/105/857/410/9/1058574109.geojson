@@ -1,0 +1,77 @@
+{
+  "id": 1058574109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4303078651,50.8501434326,4.4303078651,50.8501434326",
+    "geom:latitude":50.850143,
+    "geom:longitude":4.430308,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Gilbert Mullie 28 Box 6",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 763 32 48",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xdILbxjD33i2geS9KMSll_50.850143_4.430308@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531483,
+    "wof:geomhash":"f6df1430c733852e3c8070f6c5574dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1058574109
+        }
+    ],
+    "wof:id":1058574109,
+    "wof:lastmodified":1473531483,
+    "wof:name":"Willocq C",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4303078651,
+    50.8501434326,
+    4.4303078651,
+    50.8501434326
+],
+  "geometry": {"coordinates":[4.4303078651,50.8501434326],"type":"Point"}
+}

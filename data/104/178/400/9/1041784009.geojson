@@ -1,0 +1,66 @@
+{
+  "id": 1041784009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2824440002,51.2504615784,3.2824440002,51.2504615784",
+    "geom:latitude":51.250462,
+    "geom:longitude":3.282444,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkweg 34",
+    "sg:city":"Damme (sijsele)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 08 08",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PNzSxOcfLp5eGuor4LYEW_51.250462_3.282444@1306268338"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483064,
+    "wof:geomhash":"30192527fa140e172524df319cc0b3ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041784009
+        }
+    ],
+    "wof:id":1041784009,
+    "wof:lastmodified":1473483064,
+    "wof:name":"Van Hulle E",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2824440002,
+    51.2504615784,
+    3.2824440002,
+    51.2504615784
+],
+  "geometry": {"coordinates":[3.2824440002,51.2504615784],"type":"Point"}
+}

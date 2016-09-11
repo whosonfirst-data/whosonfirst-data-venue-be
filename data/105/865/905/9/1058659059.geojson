@@ -1,0 +1,77 @@
+{
+  "id": 1058659059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2991399765,50.8377037048,4.2991399765,50.8377037048",
+    "geom:latitude":50.837704,
+    "geom:longitude":4.29914,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Alphonse Demunter 52",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 567 11 46",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SLbkVTaiMZfYUhgVB59fE_50.837704_4.299140@1306268548"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535370,
+    "wof:geomhash":"e188545f5c588b7c8cf4fce1c647704e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058659059
+        }
+    ],
+    "wof:id":1058659059,
+    "wof:lastmodified":1473535370,
+    "wof:name":"Future Move Sprl",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "removal"
+    ]
+},
+  "bbox": [
+    4.2991399765,
+    50.8377037048,
+    4.2991399765,
+    50.8377037048
+],
+  "geometry": {"coordinates":[4.2991399765,50.8377037048],"type":"Point"}
+}

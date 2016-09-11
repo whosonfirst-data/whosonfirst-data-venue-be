@@ -1,0 +1,83 @@
+{
+  "id": 1058232683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.2129898071,43.0613288879,-76.2129898071,43.0613288879",
+    "geom:latitude":43.061329,
+    "geom:longitude":-76.21299,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parc Industriel De Sainte Avenue Ernest Solvay 46",
+    "sg:city":"Sainte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 355 07 07",
+    "sg:postcode":"1480",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "information",
+        "peripheral",
+        "-",
+        "technology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881245,
+        102191575,
+        404522831,
+        85633793,
+        85977787,
+        102082351,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LkvW8BQsrkgZvE11TIVpd_43.061329_-76.212990@1306268472"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515642,
+    "wof:geomhash":"272c2e03915c7cda380fdf68841b6085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082351,
+            "localadmin_id":404522831,
+            "locality_id":85977787,
+            "neighbourhood_id":85881245,
+            "region_id":85688543,
+            "venue_id":1058232683
+        }
+    ],
+    "wof:id":1058232683,
+    "wof:lastmodified":1473515642,
+    "wof:name":"A.n.s. Benelux S.a.",
+    "wof:parent_id":85881245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "peripheral",
+        "-",
+        "technology"
+    ]
+},
+  "bbox": [
+    -76.2129898071,
+    43.0613288879,
+    -76.2129898071,
+    43.0613288879
+],
+  "geometry": {"coordinates":[-76.2129898071,43.0613288879],"type":"Point"}
+}

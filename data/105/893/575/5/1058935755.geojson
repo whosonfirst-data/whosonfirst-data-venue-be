@@ -1,0 +1,77 @@
+{
+  "id": 1058935755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7229099274,51.0299491882,3.7229099274,51.0299491882",
+    "geom:latitude":51.029949,
+    "geom:longitude":3.72291,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uilkensstraat 117",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 232 00 92",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yMN9wfY9V6s3pyoQa9MwO_51.029949_3.722910@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547572,
+    "wof:geomhash":"c2ff787fb17c92d256b5bab611844e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058935755
+        }
+    ],
+    "wof:id":1058935755,
+    "wof:lastmodified":1473547572,
+    "wof:name":"Spatz A",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    3.7229099274,
+    51.0299491882,
+    3.7229099274,
+    51.0299491882
+],
+  "geometry": {"coordinates":[3.7229099274,51.0299491882],"type":"Point"}
+}

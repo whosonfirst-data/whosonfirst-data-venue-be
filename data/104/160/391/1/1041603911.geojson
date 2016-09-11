@@ -1,0 +1,79 @@
+{
+  "id": 1041603911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5694060326,50.6280708313,5.5694060326,50.6280708313",
+    "geom:latitude":50.628071,
+    "geom:longitude":5.569406,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Vingt-deux 31",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 76 41",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U12aczrkShvsmW1IZ7pWi_50.628071_5.569406@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475468,
+    "wof:geomhash":"82713e05fa9b28030979b1c8b3812daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1041603911
+        }
+    ],
+    "wof:id":1041603911,
+    "wof:lastmodified":1473475468,
+    "wof:name":"Bury J",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5694060326,
+    50.6280708313,
+    5.5694060326,
+    50.6280708313
+],
+  "geometry": {"coordinates":[5.5694060326,50.6280708313],"type":"Point"}
+}

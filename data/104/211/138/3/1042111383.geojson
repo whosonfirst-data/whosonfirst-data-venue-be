@@ -1,0 +1,85 @@
+{
+  "id": 1042111383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3843078613,50.8714065552,4.3843078613,50.8714065552",
+    "geom:latitude":50.871407,
+    "geom:longitude":4.384308,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Helmet 112",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 245 57 80",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mumOo50LUTqa5Z5EngiJE_50.871407_4.384308@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496914,
+    "wof:geomhash":"f63a4cddaf9556fe1100bcc9eddc6efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1042111383
+        }
+    ],
+    "wof:id":1042111383,
+    "wof:lastmodified":1473496914,
+    "wof:name":"Aksys Computer",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3843078613,
+    50.8714065552,
+    4.3843078613,
+    50.8714065552
+],
+  "geometry": {"coordinates":[4.3843078613,50.8714065552],"type":"Point"}
+}

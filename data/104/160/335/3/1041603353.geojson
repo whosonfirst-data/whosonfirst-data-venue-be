@@ -1,0 +1,83 @@
+{
+  "id": 1041603353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.412320137,50.8464813232,4.412320137,50.8464813232",
+    "geom:latitude":50.846481,
+    "geom:longitude":4.41232,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"142 Avenue Lambeau",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 12 77",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "instrument",
+        "health",
+        "-",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R3GgXszwTujuJqCLwpc6V_50.846481_4.412320@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475447,
+    "wof:geomhash":"c18bd515cf73c2154eb44aae10e79210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041603353
+        }
+    ],
+    "wof:id":1041603353,
+    "wof:lastmodified":1473475447,
+    "wof:name":"Dentalbiolux International Sprl",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "health",
+        "-",
+        "precision"
+    ]
+},
+  "bbox": [
+    4.412320137,
+    50.8464813232,
+    4.412320137,
+    50.8464813232
+],
+  "geometry": {"coordinates":[4.412320137,50.8464813232],"type":"Point"}
+}

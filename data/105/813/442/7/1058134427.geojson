@@ -1,0 +1,83 @@
+{
+  "id": 1058134427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6804800034,51.0717010498,3.6804800034,51.0717010498",
+    "geom:latitude":51.071701,
+    "geom:longitude":3.68048,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maurice Claeysplein 2",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 97 96",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3elj7WSSOFIdUiCatt8Mxq_51.071701_3.680480@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511213,
+    "wof:geomhash":"82d69b90ca2e1c6d17ae68136f05780d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058134427
+        }
+    ],
+    "wof:id":1058134427,
+    "wof:lastmodified":1473511213,
+    "wof:name":"Krea's",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.6804800034,
+    51.0717010498,
+    3.6804800034,
+    51.0717010498
+],
+  "geometry": {"coordinates":[3.6804800034,51.0717010498],"type":"Point"}
+}

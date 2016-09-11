@@ -1,0 +1,88 @@
+{
+  "id": 1058121821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.388862133,50.8537483215,4.388862133,50.8537483215",
+    "geom:latitude":50.853748,
+    "geom:longitude":4.388862,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grande Rue Au Bois 160",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 19 89",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yeB5LDWVe3dZtGjHZy3MJ_50.853748_4.388862@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510617,
+    "wof:geomhash":"5dc5e25e9427abee810f7bfdb8724d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058121821
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058121821
+        }
+    ],
+    "wof:id":1058121821,
+    "wof:lastmodified":1473510617,
+    "wof:name":"Simsek",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.388862133,
+    50.8537483215,
+    4.388862133,
+    50.8537483215
+],
+  "geometry": {"coordinates":[4.388862133,50.8537483215],"type":"Point"}
+}

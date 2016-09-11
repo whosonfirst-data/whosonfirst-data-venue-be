@@ -1,0 +1,81 @@
+{
+  "id": 1058130307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3039550781,50.8634643555,4.3039550781,50.8634643555",
+    "geom:latitude":50.863464,
+    "geom:longitude":4.303955,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Basilique 75",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 68 90",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ammunition",
+        "-",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vh7npKnlzFQGvSvEvHN4A_50.863464_4.303955@1306268451"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511000,
+    "wof:geomhash":"5c43123713036dc0fb94f18efd665e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058130307
+        }
+    ],
+    "wof:id":1058130307,
+    "wof:lastmodified":1473511000,
+    "wof:name":"Nowak A",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ammunition",
+        "-",
+        "retail"
+    ]
+},
+  "bbox": [
+    4.3039550781,
+    50.8634643555,
+    4.3039550781,
+    50.8634643555
+],
+  "geometry": {"coordinates":[4.3039550781,50.8634643555],"type":"Point"}
+}

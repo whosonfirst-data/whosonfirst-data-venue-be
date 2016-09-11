@@ -1,0 +1,83 @@
+{
+  "id": 1042057307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4374117851,51.1919326782,4.4374117851,51.1919326782",
+    "geom:latitude":51.191933,
+    "geom:longitude":4.437412,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roderveldln. 1",
+    "sg:city":"Berchem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 280 54 11",
+    "sg:postcode":"2600",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical",
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PoVhf8WOqyKOt3IjcWSjQ_51.191933_4.437412@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494563,
+    "wof:geomhash":"1e767fe25efac826bcf9ee1c6191e804",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1042057307
+        }
+    ],
+    "wof:id":1042057307,
+    "wof:lastmodified":1473494563,
+    "wof:name":"Janssen-cilag Nv",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical",
+        "pharmacy"
+    ]
+},
+  "bbox": [
+    4.4374117851,
+    51.1919326782,
+    4.4374117851,
+    51.1919326782
+],
+  "geometry": {"coordinates":[4.4374117851,51.1919326782],"type":"Point"}
+}

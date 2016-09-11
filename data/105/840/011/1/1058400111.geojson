@@ -1,0 +1,79 @@
+{
+  "id": 1058400111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2969031334,50.8639564514,4.2969031334,50.8639564514",
+    "geom:latitude":50.863956,
+    "geom:longitude":4.296903,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Soldats 2 Box 3",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 45 93",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medium",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q3k4YdF7f4EBbegwyr8Tk_50.863956_4.296903@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523249,
+    "wof:geomhash":"115b47b0984c0dca3e132b534e5d71ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058400111
+        }
+    ],
+    "wof:id":1058400111,
+    "wof:lastmodified":1473523249,
+    "wof:name":"Colorado Sa",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medium",
+        "broker"
+    ]
+},
+  "bbox": [
+    4.2969031334,
+    50.8639564514,
+    4.2969031334,
+    50.8639564514
+],
+  "geometry": {"coordinates":[4.2969031334,50.8639564514],"type":"Point"}
+}

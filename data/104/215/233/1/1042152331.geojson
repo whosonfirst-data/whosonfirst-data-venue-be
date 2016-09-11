@@ -1,0 +1,77 @@
+{
+  "id": 1042152331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3473720551,50.8468399048,4.3473720551,50.8468399048",
+    "geom:latitude":50.84684,
+    "geom:longitude":4.347372,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Riches Claires 7",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 63 43",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "discotheque"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12HKHyE7iKKcP09shBzT9g_50.846840_4.347372@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499143,
+    "wof:geomhash":"6d18dbd09aeae5dea00fefd5f3254f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1042152331
+        }
+    ],
+    "wof:id":1042152331,
+    "wof:lastmodified":1473499143,
+    "wof:name":"Why Not Asbl",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "discotheque"
+    ]
+},
+  "bbox": [
+    4.3473720551,
+    50.8468399048,
+    4.3473720551,
+    50.8468399048
+],
+  "geometry": {"coordinates":[4.3473720551,50.8468399048],"type":"Point"}
+}

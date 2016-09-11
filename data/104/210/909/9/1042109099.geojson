@@ -1,0 +1,79 @@
+{
+  "id": 1042109099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3728117943,50.9027519226,4.3728117943,50.9027519226",
+    "geom:latitude":50.902752,
+    "geom:longitude":4.372812,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Romeinsesteenweg 171",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 44 12",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S4cwjoJTjMOU1jhjUYDBr_50.902752_4.372812@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496807,
+    "wof:geomhash":"a2b7147b8533ce143dcde3b42ede6544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042109099
+        }
+    ],
+    "wof:id":1042109099,
+    "wof:lastmodified":1473496807,
+    "wof:name":"Coco Brazil",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.3728117943,
+    50.9027519226,
+    4.3728117943,
+    50.9027519226
+],
+  "geometry": {"coordinates":[4.3728117943,50.9027519226],"type":"Point"}
+}

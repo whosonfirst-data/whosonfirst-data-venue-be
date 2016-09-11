@@ -1,0 +1,76 @@
+{
+  "id": 1042150353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2807331085,50.8655548096,4.2807331085,50.8655548096",
+    "geom:latitude":50.865555,
+    "geom:longitude":4.280733,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Chats 52",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QPi6Mgo5TCo3btBsvc05O_50.865555_4.280733@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499045,
+    "wof:geomhash":"ff55a644f3263e921cc88daca820013f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1042150353
+        }
+    ],
+    "wof:id":1042150353,
+    "wof:lastmodified":1473499045,
+    "wof:name":"Mme Hendrickx J",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dietitian"
+    ]
+},
+  "bbox": [
+    4.2807331085,
+    50.8655548096,
+    4.2807331085,
+    50.8655548096
+],
+  "geometry": {"coordinates":[4.2807331085,50.8655548096],"type":"Point"}
+}

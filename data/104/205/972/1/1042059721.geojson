@@ -1,0 +1,77 @@
+{
+  "id": 1042059721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6845290661,51.0686302185,3.6845290661,51.0686302185",
+    "geom:latitude":51.06863,
+    "geom:longitude":3.684529,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brugsesteenweg 343",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 22 49",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UM5jnU9dkh7s6p7YDTkp2_51.068630_3.684529@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494668,
+    "wof:geomhash":"e297c51f966020049010c9b0fc18f5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042059721
+        }
+    ],
+    "wof:id":1042059721,
+    "wof:lastmodified":1473494668,
+    "wof:name":"Hendrickx A",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.6845290661,
+    51.0686302185,
+    3.6845290661,
+    51.0686302185
+],
+  "geometry": {"coordinates":[3.6845290661,51.0686302185],"type":"Point"}
+}

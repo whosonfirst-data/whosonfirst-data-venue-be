@@ -1,0 +1,79 @@
+{
+  "id": 1058172085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6379542351,50.6353721619,5.6379542351,50.6353721619",
+    "geom:latitude":50.635372,
+    "geom:longitude":5.637954,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Thier Du Goreu 57",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 47 26",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800809,
+        102191581,
+        85632997,
+        404227353,
+        101755201,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ikOSvN5lSYEgZ7Ur8k1nU_50.635372_5.637954@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512990,
+    "wof:geomhash":"4c8d457cbd59c2de4db802685fad2e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755201,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800809,
+            "region_id":85681691,
+            "venue_id":1058172085
+        }
+    ],
+    "wof:id":1058172085,
+    "wof:lastmodified":1473512990,
+    "wof:name":"Lifrange Marc",
+    "wof:parent_id":85800809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6379542351,
+    50.6353721619,
+    5.6379542351,
+    50.6353721619
+],
+  "geometry": {"coordinates":[5.6379542351,50.6353721619],"type":"Point"}
+}

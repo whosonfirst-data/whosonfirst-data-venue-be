@@ -1,0 +1,81 @@
+{
+  "id": 1058148091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5759840012,50.6440582275,5.5759840012,50.6440582275",
+    "geom:latitude":50.644058,
+    "geom:longitude":5.575984,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Madeleine 21",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 25 05",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LdzGK5eAHOdsek3WHKaCU_50.644058_5.575984@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511914,
+    "wof:geomhash":"8c6ddc707ba627d39117c3b98ac8c397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058148091
+        }
+    ],
+    "wof:id":1058148091,
+    "wof:lastmodified":1473511914,
+    "wof:name":"Tilt Coiffure",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5759840012,
+    50.6440582275,
+    5.5759840012,
+    50.6440582275
+],
+  "geometry": {"coordinates":[5.5759840012,50.6440582275],"type":"Point"}
+}

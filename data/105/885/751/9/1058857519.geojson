@@ -1,0 +1,71 @@
+{
+  "id": 1058857519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6758198738,50.8848304749,4.6758198738,50.8848304749",
+    "geom:latitude":50.88483,
+    "geom:longitude":4.67582,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 91",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 20 01 26",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Mqj6OwjQA8PeYaZaxu42_50.884830_4.675820@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544033,
+    "wof:geomhash":"5b3a089295ad155d7b80b0caac2694bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058857519
+        }
+    ],
+    "wof:id":1058857519,
+    "wof:lastmodified":1473544033,
+    "wof:name":"St Rafael",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.6758198738,
+    50.8848304749,
+    4.6758198738,
+    50.8848304749
+],
+  "geometry": {"coordinates":[4.6758198738,50.8848304749],"type":"Point"}
+}

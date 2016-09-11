@@ -1,0 +1,81 @@
+{
+  "id": 1058136415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2341790199,51.207069397,3.2341790199,51.207069397",
+    "geom:latitude":51.207069,
+    "geom:longitude":3.234179,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaarstraat 37",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 04 37",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yPyN0LtFauAMcnqSb3dst_51.207069_3.234179@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511295,
+    "wof:geomhash":"8051c3a364aed9f31f1024c54a84d402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058136415
+        }
+    ],
+    "wof:id":1058136415,
+    "wof:lastmodified":1473511295,
+    "wof:name":"Babeche",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.2341790199,
+    51.207069397,
+    3.2341790199,
+    51.207069397
+],
+  "geometry": {"coordinates":[3.2341790199,51.207069397],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042176143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6693398952,51.093082428,3.6693398952,51.093082428",
+    "geom:latitude":51.093082,
+    "geom:longitude":3.66934,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Westbeke 9",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 81 90",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FmG0r26LVgJdvyfY8nBIy_51.093082_3.669340@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500492,
+    "wof:geomhash":"5f720ac66a134ef421a264a501ccf25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042176143
+        }
+    ],
+    "wof:id":1042176143,
+    "wof:lastmodified":1473500492,
+    "wof:name":"De Seranno R",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ]
+},
+  "bbox": [
+    3.6693398952,
+    51.093082428,
+    3.6693398952,
+    51.093082428
+],
+  "geometry": {"coordinates":[3.6693398952,51.093082428],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058118379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7138750553,51.0512657166,3.7138750553,51.0512657166",
+    "geom:latitude":51.051266,
+    "geom:longitude":3.713875,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galgenberg 9",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 14 45",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "postcard",
+        "picture",
+        "greeting",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o40BL30pGuxmFQ4GQUkgj_51.051266_3.713875@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510408,
+    "wof:geomhash":"948368406fbfe957e419afb15bea950f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058118379
+        }
+    ],
+    "wof:id":1058118379,
+    "wof:lastmodified":1473510408,
+    "wof:name":"Drukte Bvba",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postcard",
+        "picture",
+        "greeting",
+        "card"
+    ]
+},
+  "bbox": [
+    3.7138750553,
+    51.0512657166,
+    3.7138750553,
+    51.0512657166
+],
+  "geometry": {"coordinates":[3.7138750553,51.0512657166],"type":"Point"}
+}

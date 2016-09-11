@@ -1,0 +1,79 @@
+{
+  "id": 1058742579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4166479111,50.8625640869,4.4166479111,50.8625640869",
+    "geom:latitude":50.862564,
+    "geom:longitude":4.416648,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Cimeti\u00c8re Bruxelles 100",
+    "sg:city":"Evere",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 56 20",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QMv5TswgQ5MbyzbHdDx9n_50.862564_4.416648@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539006,
+    "wof:geomhash":"31b208acda94fdfae0d240fc72d93cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058742579
+        }
+    ],
+    "wof:id":1058742579,
+    "wof:lastmodified":1473539006,
+    "wof:name":"Freddy & Willy",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.4166479111,
+    50.8625640869,
+    4.4166479111,
+    50.8625640869
+],
+  "geometry": {"coordinates":[4.4166479111,50.8625640869],"type":"Point"}
+}

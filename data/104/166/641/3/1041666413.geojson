@@ -1,0 +1,66 @@
+{
+  "id": 1041666413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1879599094,51.2296600342,3.1879599094,51.2296600342",
+    "geom:latitude":51.22966,
+    "geom:longitude":3.18796,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oude Oostendse Steenweg 87",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 32 09 36",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w0zANVCU64xA09qb1qo1n_51.229660_3.187960@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477995,
+    "wof:geomhash":"fe483c31ff51463fab3affcac32c6b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1041666413
+        }
+    ],
+    "wof:id":1041666413,
+    "wof:lastmodified":1473477995,
+    "wof:name":"Tennisclub De Blauwe Reiger Bvba",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1879599094,
+    51.2296600342,
+    3.1879599094,
+    51.2296600342
+],
+  "geometry": {"coordinates":[3.1879599094,51.2296600342],"type":"Point"}
+}

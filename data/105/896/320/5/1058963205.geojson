@@ -1,0 +1,79 @@
+{
+  "id": 1058963205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3944449425,51.2981796265,4.3944449425,51.2981796265",
+    "geom:latitude":51.29818,
+    "geom:longitude":4.394445,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"4de Havendok",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 541 80 50",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "management",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jv5ugaLWIDMRZzy3OgZyX_51.298180_4.394445@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548922,
+    "wof:geomhash":"c6e8c6de42149916525bbe86dbf8146c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058963205
+        }
+    ],
+    "wof:id":1058963205,
+    "wof:lastmodified":1473548922,
+    "wof:name":"Containerdienst Vanheede Bvba",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "waste"
+    ]
+},
+  "bbox": [
+    4.3944449425,
+    51.2981796265,
+    4.3944449425,
+    51.2981796265
+],
+  "geometry": {"coordinates":[4.3944449425,51.2981796265],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058934935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5543169975,50.6266517639,5.5543169975,50.6266517639",
+    "geom:latitude":50.626652,
+    "geom:longitude":5.554317,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Faille 5",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 78 66",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WWBAlMKi5PXW8GHmk65xm_50.626652_5.554317@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547530,
+    "wof:geomhash":"a37bde09d89ee476b278255f61ce10f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058934935
+        }
+    ],
+    "wof:id":1058934935,
+    "wof:lastmodified":1473547530,
+    "wof:name":"Magy C",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    5.5543169975,
+    50.6266517639,
+    5.5543169975,
+    50.6266517639
+],
+  "geometry": {"coordinates":[5.5543169975,50.6266517639],"type":"Point"}
+}

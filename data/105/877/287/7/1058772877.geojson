@@ -1,0 +1,81 @@
+{
+  "id": 1058772877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.729640007,51.0695114136,3.729640007,51.0695114136",
+    "geom:latitude":51.069511,
+    "geom:longitude":3.72964,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Voormuide 93",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 57 27",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electrical",
+        "ship",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LCVgXWo0jQeDQaSSCtMVO_51.069511_3.729640@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540371,
+    "wof:geomhash":"45a00e0b8362760aa37152a3d51b73d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058772877
+        }
+    ],
+    "wof:id":1058772877,
+    "wof:lastmodified":1473540371,
+    "wof:name":"Electro Zeeland",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "ship",
+        "-"
+    ]
+},
+  "bbox": [
+    3.729640007,
+    51.0695114136,
+    3.729640007,
+    51.0695114136
+],
+  "geometry": {"coordinates":[3.729640007,51.0695114136],"type":"Point"}
+}

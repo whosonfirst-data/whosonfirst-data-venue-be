@@ -1,0 +1,77 @@
+{
+  "id": 1058270369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5848898888,50.6234207153,5.5848898888,50.6234207153",
+    "geom:latitude":50.623421,
+    "geom:longitude":5.58489,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Verviers 17",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 25 68",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJty8rokegAz9u2G3iKsZ_50.623421_5.584890@1306268478"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517278,
+    "wof:geomhash":"e9efe624190b9eb60ae7846748a8de67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058270369
+        }
+    ],
+    "wof:id":1058270369,
+    "wof:lastmodified":1473517278,
+    "wof:name":"Culot Bernard Emile-beca Sprl",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    5.5848898888,
+    50.6234207153,
+    5.5848898888,
+    50.6234207153
+],
+  "geometry": {"coordinates":[5.5848898888,50.6234207153],"type":"Point"}
+}

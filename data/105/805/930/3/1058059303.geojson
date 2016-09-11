@@ -1,0 +1,81 @@
+{
+  "id": 1058059303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6968040466,51.0234489441,3.6968040466,51.0234489441",
+    "geom:latitude":51.023449,
+    "geom:longitude":3.696804,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Derbystraat 329",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 372 05 30",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "industry",
+        "-",
+        "ingredient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00J7DCkeVy5ocug55HcV4l_51.023449_3.696804@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507890,
+    "wof:geomhash":"5fa207fc3a3eff678a94ceb97acc7239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1058059303
+        }
+    ],
+    "wof:id":1058059303,
+    "wof:lastmodified":1473507890,
+    "wof:name":"Flandria Foods",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "-",
+        "ingredient"
+    ]
+},
+  "bbox": [
+    3.6968040466,
+    51.0234489441,
+    3.6968040466,
+    51.0234489441
+],
+  "geometry": {"coordinates":[3.6968040466,51.0234489441],"type":"Point"}
+}

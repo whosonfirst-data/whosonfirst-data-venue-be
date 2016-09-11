@@ -1,0 +1,90 @@
+{
+  "id": 1058028481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4235310555,50.8375549316,4.4235310555,50.8375549316",
+    "geom:latitude":50.837555,
+    "geom:longitude":4.423531,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Medaets 10",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 63 63",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "designer",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85800817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vSClFadq0FWjpOzx7nwZ6_50.837555_4.423531@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506621,
+    "wof:geomhash":"334c398f7dd4fc4d797db0d8fcdf3a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058028481
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058028481
+        }
+    ],
+    "wof:id":1058028481,
+    "wof:lastmodified":1473506621,
+    "wof:name":"Andre-dumont G",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "stylist"
+    ]
+},
+  "bbox": [
+    4.4235310555,
+    50.8375549316,
+    4.4235310555,
+    50.8375549316
+],
+  "geometry": {"coordinates":[4.4235310555,50.8375549316],"type":"Point"}
+}

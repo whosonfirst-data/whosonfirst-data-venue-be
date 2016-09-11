@@ -1,0 +1,79 @@
+{
+  "id": 1058574781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3864998817,50.8208274841,4.3864998817,50.8208274841",
+    "geom:latitude":50.820827,
+    "geom:longitude":4.3865,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00e9n\u00e9ral Jacques 203",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 646 46 77",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "picture",
+        "framer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WOelqFc0cODvgxwLpAA1a_50.820827_4.386500@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531520,
+    "wof:geomhash":"d10b53530a144adeb685959d8cefd9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058574781
+        }
+    ],
+    "wof:id":1058574781,
+    "wof:lastmodified":1473531520,
+    "wof:name":"Bruxelles Encadrement",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "framer"
+    ]
+},
+  "bbox": [
+    4.3864998817,
+    50.8208274841,
+    4.3864998817,
+    50.8208274841
+],
+  "geometry": {"coordinates":[4.3864998817,50.8208274841],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058055811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3189167976,50.7679443359,4.3189167976,50.7679443359",
+    "geom:latitude":50.767944,
+    "geom:longitude":4.318917,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grote Baan 175",
+    "sg:city":"Beersel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 21 52 63",
+    "sg:postcode":"1650",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801035,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uxDvcr49ltcEM2XV7zosM_50.767944_4.318917@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507753,
+    "wof:geomhash":"2eb3ac6048e696d3ab122cdee9a0ee8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801035,
+            "region_id":85681731,
+            "venue_id":1058055811
+        }
+    ],
+    "wof:id":1058055811,
+    "wof:lastmodified":1473507753,
+    "wof:name":"October En Co",
+    "wof:parent_id":85801035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3189167976,
+    50.7679443359,
+    4.3189167976,
+    50.7679443359
+],
+  "geometry": {"coordinates":[4.3189167976,50.7679443359],"type":"Point"}
+}

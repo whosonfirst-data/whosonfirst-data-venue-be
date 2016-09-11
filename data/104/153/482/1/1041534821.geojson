@@ -1,0 +1,77 @@
+{
+  "id": 1041534821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7412650585,51.0359611511,3.7412650585,51.0359611511",
+    "geom:latitude":51.035961,
+    "geom:longitude":3.741265,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Friedrich Froebelstraat 1a",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 76 97",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MoHeD9A4LsMVEXQzdLPo1_51.035961_3.741265@1306268322"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472604,
+    "wof:geomhash":"6a1fba1120a08102d305da9b303baeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041534821
+        }
+    ],
+    "wof:id":1041534821,
+    "wof:lastmodified":1473472604,
+    "wof:name":"Faingnaert L",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.7412650585,
+    51.0359611511,
+    3.7412650585,
+    51.0359611511
+],
+  "geometry": {"coordinates":[3.7412650585,51.0359611511],"type":"Point"}
+}

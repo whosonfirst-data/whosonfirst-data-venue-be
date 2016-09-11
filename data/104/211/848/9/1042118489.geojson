@@ -1,0 +1,81 @@
+{
+  "id": 1042118489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3052830696,50.8382339478,4.3052830696,50.8382339478",
+    "geom:latitude":50.838234,
+    "geom:longitude":4.305283,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De Sainte-adresse 12",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 527 51 31",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bxlTy7M8AINgQ8GtsvTvY_50.838234_4.305283@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497303,
+    "wof:geomhash":"cc7d7439548281e9360b79cffb623bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1042118489
+        }
+    ],
+    "wof:id":1042118489,
+    "wof:lastmodified":1473497303,
+    "wof:name":"Infodidac",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3052830696,
+    50.8382339478,
+    4.3052830696,
+    50.8382339478
+],
+  "geometry": {"coordinates":[4.3052830696,50.8382339478],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058554493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5456662178,50.6344947815,5.5456662178,50.6344947815",
+    "geom:latitude":50.634495,
+    "geom:longitude":5.545666,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-nicolas 71",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 254 11 20",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03mopSh8eaeK4he2ASQKvR_50.634495_5.545666@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530563,
+    "wof:geomhash":"78b43564cdd38cdf75287b4eda1705d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1058554493
+        }
+    ],
+    "wof:id":1058554493,
+    "wof:lastmodified":1473530563,
+    "wof:name":"Demeuse Philippe",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5456662178,
+    50.6344947815,
+    5.5456662178,
+    50.6344947815
+],
+  "geometry": {"coordinates":[5.5456662178,50.6344947815],"type":"Point"}
+}

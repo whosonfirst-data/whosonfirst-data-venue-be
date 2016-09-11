@@ -1,0 +1,79 @@
+{
+  "id": 1042068671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3380222321,50.8444404602,4.3380222321,50.8444404602",
+    "geom:latitude":50.84444,
+    "geom:longitude":4.338022,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chaussee De Mons 14-24",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 14 73",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "movement",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58aDH1X99IKaOfaM0IyL7C_50.844440_4.338022@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495022,
+    "wof:geomhash":"8fa4f5ddfc798df4052ffbfcc37fc235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1042068671
+        }
+    ],
+    "wof:id":1042068671,
+    "wof:lastmodified":1473495022,
+    "wof:name":"The Swatch Group belgium Nv",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "movement",
+        "clock"
+    ]
+},
+  "bbox": [
+    4.3380222321,
+    50.8444404602,
+    4.3380222321,
+    50.8444404602
+],
+  "geometry": {"coordinates":[4.3380222321,50.8444404602],"type":"Point"}
+}

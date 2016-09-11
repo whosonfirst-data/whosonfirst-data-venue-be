@@ -1,0 +1,81 @@
+{
+  "id": 1042066077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2257609367,51.202747345,3.2257609367,51.202747345",
+    "geom:latitude":51.202747,
+    "geom:longitude":3.225761,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Katelijnestraat 45",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 37 54",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "cigarette",
+        "-",
+        "cigars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wFnykUpMC61tgdTR51Y8Z_51.202747_3.225761@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494912,
+    "wof:geomhash":"20c53224d1f049a24432967e665be21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042066077
+        }
+    ],
+    "wof:id":1042066077,
+    "wof:lastmodified":1473494912,
+    "wof:name":"Tobacco Store",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "-",
+        "cigars"
+    ]
+},
+  "bbox": [
+    3.2257609367,
+    51.202747345,
+    3.2257609367,
+    51.202747345
+],
+  "geometry": {"coordinates":[3.2257609367,51.202747345],"type":"Point"}
+}

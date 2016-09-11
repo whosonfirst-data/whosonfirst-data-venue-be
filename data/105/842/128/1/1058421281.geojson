@@ -1,0 +1,79 @@
+{
+  "id": 1058421281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3670601845,50.8179855347,4.3670601845,50.8179855347",
+    "geom:latitude":50.817986,
+    "geom:longitude":4.36706,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paul Lauters 69-5",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 41 08",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "movie",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2esCwnjtMBdt5d29LQlog0_50.817986_4.367060@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524230,
+    "wof:geomhash":"4c9deccefcbf4a377af9d617696c4541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058421281
+        }
+    ],
+    "wof:id":1058421281,
+    "wof:lastmodified":1473524230,
+    "wof:name":"Bastin E",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "movie",
+        "maker"
+    ]
+},
+  "bbox": [
+    4.3670601845,
+    50.8179855347,
+    4.3670601845,
+    50.8179855347
+],
+  "geometry": {"coordinates":[4.3670601845,50.8179855347],"type":"Point"}
+}

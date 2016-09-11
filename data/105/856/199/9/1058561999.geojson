@@ -1,0 +1,77 @@
+{
+  "id": 1058561999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5841622353,50.6275177002,5.5841622353,50.6275177002",
+    "geom:latitude":50.627518,
+    "geom:longitude":5.584162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Vennes 387",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 32 22",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WRLi5gbyawWFMpqTP2N6O_50.627518_5.584162@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530915,
+    "wof:geomhash":"e43be8b7601a2bcd230e9f92bce0ee8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058561999
+        }
+    ],
+    "wof:id":1058561999,
+    "wof:lastmodified":1473530915,
+    "wof:name":"Liebin B\u00e9n\u00e9dicte",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5841622353,
+    50.6275177002,
+    5.5841622353,
+    50.6275177002
+],
+  "geometry": {"coordinates":[5.5841622353,50.6275177002],"type":"Point"}
+}

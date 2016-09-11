@@ -1,0 +1,79 @@
+{
+  "id": 1058324707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3421602249,50.7981681824,4.3421602249,50.7981681824",
+    "geom:latitude":50.798168,
+    "geom:longitude":4.34216,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Colonel Chaltin 12",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 10 98",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q34EKQERdZDt8sZnVuGbm_50.798168_4.342160@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519726,
+    "wof:geomhash":"cc38aaf756250738c36586e83ffe19f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058324707
+        }
+    ],
+    "wof:id":1058324707,
+    "wof:lastmodified":1473519726,
+    "wof:name":"Adler Georges",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.3421602249,
+    50.7981681824,
+    4.3421602249,
+    50.7981681824
+],
+  "geometry": {"coordinates":[4.3421602249,50.7981681824],"type":"Point"}
+}

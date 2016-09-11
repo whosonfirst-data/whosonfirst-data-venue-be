@@ -1,0 +1,79 @@
+{
+  "id": 1058038645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3853678703,50.824886322,4.3853678703,50.824886322",
+    "geom:latitude":50.824886,
+    "geom:longitude":4.385368,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Couronne 314",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 646 08 32",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "producer",
+        "realizators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LP7ITIGsK2YRpBECOCcW4_50.824886_4.385368@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507052,
+    "wof:geomhash":"9049d2299ef861188a23a8aa49467ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058038645
+        }
+    ],
+    "wof:id":1058038645,
+    "wof:lastmodified":1473507052,
+    "wof:name":"Cin\u00e9-t\u00e9l\u00e9 Productions-callebaut",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer",
+        "realizators"
+    ]
+},
+  "bbox": [
+    4.3853678703,
+    50.824886322,
+    4.3853678703,
+    50.824886322
+],
+  "geometry": {"coordinates":[4.3853678703,50.824886322],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058021345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4328899384,50.877784729,4.4328899384,50.877784729",
+    "geom:latitude":50.877785,
+    "geom:longitude":4.43289,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Bourget 50",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 706 90 00",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801045,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AnmAQIkmGCH4sQDoUHl4z_50.877785_4.432890@1306268429"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506328,
+    "wof:geomhash":"a906d2fb51b1df7d4ade31c0c8d12c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801045,
+            "region_id":85681713,
+            "venue_id":1058021345
+        }
+    ],
+    "wof:id":1058021345,
+    "wof:lastmodified":1473506328,
+    "wof:name":"Tenneco Automotive",
+    "wof:parent_id":85801045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    4.4328899384,
+    50.877784729,
+    4.4328899384,
+    50.877784729
+],
+  "geometry": {"coordinates":[4.4328899384,50.877784729],"type":"Point"}
+}

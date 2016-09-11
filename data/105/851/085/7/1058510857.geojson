@@ -1,0 +1,79 @@
+{
+  "id": 1058510857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3340587616,50.7934951782,4.3340587616,50.7934951782",
+    "geom:latitude":50.793495,
+    "geom:longitude":4.334059,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 944",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 15 78",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V1DsMN4rzmgRBB8pD8UfC_50.793495_4.334059@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528571,
+    "wof:geomhash":"92eb975c6b7544ecbb54450a3642334d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058510857
+        }
+    ],
+    "wof:id":1058510857,
+    "wof:lastmodified":1473528571,
+    "wof:name":"Ab D\u00e9cor",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3340587616,
+    50.7934951782,
+    4.3340587616,
+    50.7934951782
+],
+  "geometry": {"coordinates":[4.3340587616,50.7934951782],"type":"Point"}
+}

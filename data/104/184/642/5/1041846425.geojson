@@ -1,0 +1,81 @@
+{
+  "id": 1041846425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3273220062,50.782875061,4.3273220062,50.782875061",
+    "geom:latitude":50.782875,
+    "geom:longitude":4.327322,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 1296",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 93 32",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pfg8N2tB1eZIgVC8ZBWLx_50.782875_4.327322@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485642,
+    "wof:geomhash":"2c6dbb8e8c2b2668bf505dfa7685b265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041846425
+        }
+    ],
+    "wof:id":1041846425,
+    "wof:lastmodified":1473485642,
+    "wof:name":"Europa-car",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3273220062,
+    50.782875061,
+    4.3273220062,
+    50.782875061
+],
+  "geometry": {"coordinates":[4.3273220062,50.782875061],"type":"Point"}
+}

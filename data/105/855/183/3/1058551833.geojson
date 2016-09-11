@@ -1,0 +1,77 @@
+{
+  "id": 1058551833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4675879478,50.8495330811,4.4675879478,50.8495330811",
+    "geom:latitude":50.849533,
+    "geom:longitude":4.467588,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Bluets 1",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 70 64",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801015,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33FtjtmKYpCImKm0eW3cZj_50.849533_4.467588@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530441,
+    "wof:geomhash":"b44362d7c73c27de48330e55391f56a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801015,
+            "region_id":85681731,
+            "venue_id":1058551833
+        }
+    ],
+    "wof:id":1058551833,
+    "wof:lastmodified":1473530441,
+    "wof:name":"Danneau D",
+    "wof:parent_id":85801015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4675879478,
+    50.8495330811,
+    4.4675879478,
+    50.8495330811
+],
+  "geometry": {"coordinates":[4.4675879478,50.8495330811],"type":"Point"}
+}

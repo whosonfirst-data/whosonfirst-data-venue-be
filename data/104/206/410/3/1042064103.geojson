@@ -1,0 +1,77 @@
+{
+  "id": 1042064103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3336467743,50.8095703125,4.3336467743,50.8095703125",
+    "geom:latitude":50.80957,
+    "geom:longitude":4.333647,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Maubel 2",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 25 67",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eEdhBiYVtoLLqGIApd41s_50.809570_4.333647@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494835,
+    "wof:geomhash":"f22f7e267872b95e64a4c45025d545db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1042064103
+        }
+    ],
+    "wof:id":1042064103,
+    "wof:lastmodified":1473494835,
+    "wof:name":"Pinnoy P",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    4.3336467743,
+    50.8095703125,
+    4.3336467743,
+    50.8095703125
+],
+  "geometry": {"coordinates":[4.3336467743,50.8095703125],"type":"Point"}
+}

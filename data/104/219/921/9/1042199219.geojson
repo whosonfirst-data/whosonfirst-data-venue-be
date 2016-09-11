@@ -1,0 +1,77 @@
+{
+  "id": 1042199219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4089031219,50.8656845093,4.4089031219,50.8656845093",
+    "geom:latitude":50.865685,
+    "geom:longitude":4.408903,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Anciens Combattants 200",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 18 89",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YCx6yzUU2ZZzjyudmA7Ba_50.865685_4.408903@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501911,
+    "wof:geomhash":"f3d00fdf85af2dcd009f29069e3a1d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042199219
+        }
+    ],
+    "wof:id":1042199219,
+    "wof:lastmodified":1473501911,
+    "wof:name":"K.a. Schaerbeek-evere Victor Hortaschool",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.4089031219,
+    50.8656845093,
+    4.4089031219,
+    50.8656845093
+],
+  "geometry": {"coordinates":[4.4089031219,50.8656845093],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041973043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5871601105,50.6133804321,5.5871601105,50.6133804321",
+    "geom:latitude":50.61338,
+    "geom:longitude":5.58716,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vaudr\u00e9e 245",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 62 62",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZBqYgEY46hrAIojypgWu_50.613380_5.587160@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491232,
+    "wof:geomhash":"018b45180567168873ee295b2fc83d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1041973043
+        }
+    ],
+    "wof:id":1041973043,
+    "wof:lastmodified":1473491232,
+    "wof:name":"Presse-papiers (le)",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5871601105,
+    50.6133804321,
+    5.5871601105,
+    50.6133804321
+],
+  "geometry": {"coordinates":[5.5871601105,50.6133804321],"type":"Point"}
+}

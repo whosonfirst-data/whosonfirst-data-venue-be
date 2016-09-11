@@ -1,0 +1,81 @@
+{
+  "id": 1041739181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3916039467,50.8178291321,4.3916039467,50.8178291321",
+    "geom:latitude":50.817829,
+    "geom:longitude":4.391604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue C\u00e9sar Franck 80",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 66 37",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gwuCgG92RHyo7MGpPQt33_50.817829_4.391604@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480871,
+    "wof:geomhash":"261e16e6bd998703c738d4c55385050c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041739181
+        }
+    ],
+    "wof:id":1041739181,
+    "wof:lastmodified":1473480871,
+    "wof:name":"Chis Service",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    4.3916039467,
+    50.8178291321,
+    4.3916039467,
+    50.8178291321
+],
+  "geometry": {"coordinates":[4.3916039467,50.8178291321],"type":"Point"}
+}

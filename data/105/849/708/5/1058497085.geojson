@@ -1,0 +1,77 @@
+{
+  "id": 1058497085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4390277863,50.9070587158,4.4390277863,50.9070587158",
+    "geom:latitude":50.907059,
+    "geom:longitude":4.439028,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koning Albertlaan 142",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 252 23 74",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801859,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ezz9hy9N59tu4NQCctlZy_50.907059_4.439028@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527956,
+    "wof:geomhash":"817554bfcd315ecb9ac4b66dfc67d95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801859,
+            "region_id":85681731,
+            "venue_id":1058497085
+        }
+    ],
+    "wof:id":1058497085,
+    "wof:lastmodified":1473527956,
+    "wof:name":"De Rooms H",
+    "wof:parent_id":85801859,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    4.4390277863,
+    50.9070587158,
+    4.4390277863,
+    50.9070587158
+],
+  "geometry": {"coordinates":[4.4390277863,50.9070587158],"type":"Point"}
+}

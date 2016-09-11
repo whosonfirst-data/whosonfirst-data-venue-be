@@ -1,0 +1,64 @@
+{
+  "id": 1058791333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8119249344,51.2012176514,3.8119249344,51.2012176514",
+    "geom:latitude":51.201218,
+    "geom:longitude":3.811925,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 42",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 337 95 95",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eNMUQ2B9ZQngb0upTAFfg_51.201218_3.811925@1306268572"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541139,
+    "wof:geomhash":"e8809b667ac0ce82b17984f03dca14c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058791333
+        }
+    ],
+    "wof:id":1058791333,
+    "wof:lastmodified":1473541139,
+    "wof:name":"De Vlier Beschut Wonen",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8119249344,
+    51.2012176514,
+    3.8119249344,
+    51.2012176514
+],
+  "geometry": {"coordinates":[3.8119249344,51.2012176514],"type":"Point"}
+}

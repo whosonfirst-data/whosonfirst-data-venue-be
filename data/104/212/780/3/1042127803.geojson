@@ -1,0 +1,79 @@
+{
+  "id": 1042127803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2193629742,51.2082176208,3.2193629742,51.2082176208",
+    "geom:latitude":51.208218,
+    "geom:longitude":3.219363,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ontvangersstraat 11a",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 24 39",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h5ZosGVHSThVjQVcavI91_51.208218_3.219363@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497833,
+    "wof:geomhash":"70e318bdc61fdd0b927ee75ab6d3f20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042127803
+        }
+    ],
+    "wof:id":1042127803,
+    "wof:lastmodified":1473497833,
+    "wof:name":"Vanroose P",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    3.2193629742,
+    51.2082176208,
+    3.2193629742,
+    51.2082176208
+],
+  "geometry": {"coordinates":[3.2193629742,51.2082176208],"type":"Point"}
+}

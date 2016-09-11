@@ -1,0 +1,79 @@
+{
+  "id": 1058401349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7161309719,51.0317649841,3.7161309719,51.0317649841",
+    "geom:latitude":51.031765,
+    "geom:longitude":3.716131,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Congreslaan 32",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 329 68 19",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "instrument",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43FWET98Di23lQUsdbVhvq_51.031765_3.716131@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523300,
+    "wof:geomhash":"16390bfd89fcd594e9c1695e7c2f2ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058401349
+        }
+    ],
+    "wof:id":1058401349,
+    "wof:lastmodified":1473523300,
+    "wof:name":"Labo-d Nv-medical Z",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    3.7161309719,
+    51.0317649841,
+    3.7161309719,
+    51.0317649841
+],
+  "geometry": {"coordinates":[3.7161309719,51.0317649841],"type":"Point"}
+}

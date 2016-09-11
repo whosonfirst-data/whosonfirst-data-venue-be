@@ -1,0 +1,79 @@
+{
+  "id": 1058029215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.639195919,50.6698188782,5.639195919,50.6698188782",
+    "geom:latitude":50.669819,
+    "geom:longitude":5.639196,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De La Licourt 37",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 240 16 01",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tyT9w30Hq4QeQENcf1dZy_50.669819_5.639196@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506646,
+    "wof:geomhash":"fb5f9c01a8ee9d732a00e00ae7d2b266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058029215
+        }
+    ],
+    "wof:id":1058029215,
+    "wof:lastmodified":1473506646,
+    "wof:name":"Friterie De La Licourt",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.639195919,
+    50.6698188782,
+    5.639195919,
+    50.6698188782
+],
+  "geometry": {"coordinates":[5.639195919,50.6698188782],"type":"Point"}
+}

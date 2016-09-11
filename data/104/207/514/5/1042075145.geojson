@@ -1,0 +1,81 @@
+{
+  "id": 1042075145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.344066143,50.8426551819,4.344066143,50.8426551819",
+    "geom:latitude":50.842655,
+    "geom:longitude":4.344066,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Maurice Lemonnier 104",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 13 10",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05HKQExOheAcVcXDyVkurj_50.842655_4.344066@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495286,
+    "wof:geomhash":"c3d17ef2f142cd79a36d37f7e3dfc2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1042075145
+        }
+    ],
+    "wof:id":1042075145,
+    "wof:lastmodified":1473495286,
+    "wof:name":"Barakat Couture",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    4.344066143,
+    50.8426551819,
+    4.344066143,
+    50.8426551819
+],
+  "geometry": {"coordinates":[4.344066143,50.8426551819],"type":"Point"}
+}

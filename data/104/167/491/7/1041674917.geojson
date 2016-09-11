@@ -1,0 +1,79 @@
+{
+  "id": 1041674917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6253972054,50.6635131836,5.6253972054,50.6635131836",
+    "geom:latitude":50.663513,
+    "geom:longitude":5.625397,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Nicolas Defr\u00eacheux 15",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 21 57",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ventilating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cCyHmTnk1nWpPx9Rmwj3J_50.663513_5.625397@1306268595"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478330,
+    "wof:geomhash":"d32f4fd3480310c3b55ba72de1a4d897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041674917
+        }
+    ],
+    "wof:id":1041674917,
+    "wof:lastmodified":1473478330,
+    "wof:name":"Iso-calor Sa",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "system"
+    ]
+},
+  "bbox": [
+    5.6253972054,
+    50.6635131836,
+    5.6253972054,
+    50.6635131836
+],
+  "geometry": {"coordinates":[5.6253972054,50.6635131836],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058158349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3758678436,50.8257675171,4.3758678436,50.8257675171",
+    "geom:latitude":50.825768,
+    "geom:longitude":4.375868,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Boondael 91",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 65 62",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AFEGcEt0RIyJayVmHW3ay_50.825768_4.375868@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512368,
+    "wof:geomhash":"31dce0cca41db4a2d305ddc0b4044613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058158349
+        }
+    ],
+    "wof:id":1058158349,
+    "wof:lastmodified":1473512368,
+    "wof:name":"Cornu Jean-pierre",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3758678436,
+    50.8257675171,
+    4.3758678436,
+    50.8257675171
+],
+  "geometry": {"coordinates":[4.3758678436,50.8257675171],"type":"Point"}
+}

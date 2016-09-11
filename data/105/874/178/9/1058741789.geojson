@@ -1,0 +1,79 @@
+{
+  "id": 1058741789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3042850494,50.8748588562,4.3042850494,50.8748588562",
+    "geom:latitude":50.874859,
+    "geom:longitude":4.304285,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vandervekenstraat 62",
+    "sg:city":"Ganshoren (brussel)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 09 71",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71mI08ZQcUq8dvkF2zo8wP_50.874859_4.304285@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538975,
+    "wof:geomhash":"119e8105f5b51f9fad28dc6116484333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058741789
+        }
+    ],
+    "wof:id":1058741789,
+    "wof:lastmodified":1473538975,
+    "wof:name":"De Mark",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.3042850494,
+    50.8748588562,
+    4.3042850494,
+    50.8748588562
+],
+  "geometry": {"coordinates":[4.3042850494,50.8748588562],"type":"Point"}
+}

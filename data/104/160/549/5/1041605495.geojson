@@ -1,0 +1,79 @@
+{
+  "id": 1041605495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5574698448,50.6452178955,5.5574698448,50.6452178955",
+    "geom:latitude":50.645218,
+    "geom:longitude":5.55747,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du G\u00e9n\u00e9ral Bertrand 36",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 18 02",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sVWvDyTJuxAERbwJ83MFJ_50.645218_5.557470@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475535,
+    "wof:geomhash":"e4b162a3d6878a8cc0e18dcaf6ea0782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041605495
+        }
+    ],
+    "wof:id":1041605495,
+    "wof:lastmodified":1473475535,
+    "wof:name":"Harroy N",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5574698448,
+    50.6452178955,
+    5.5574698448,
+    50.6452178955
+],
+  "geometry": {"coordinates":[5.5574698448,50.6452178955],"type":"Point"}
+}

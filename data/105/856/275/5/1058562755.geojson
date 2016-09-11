@@ -1,0 +1,77 @@
+{
+  "id": 1058562755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7160611153,51.0473632812,3.7160611153,51.0473632812",
+    "geom:latitude":51.047363,
+    "geom:longitude":3.716061,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Coupure Rechts 84",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 19 07",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XQPXLh83zG31PIyvuI0AJ_51.047363_3.716061@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530963,
+    "wof:geomhash":"ec080ca30442e1d42123c9663b6935c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058562755
+        }
+    ],
+    "wof:id":1058562755,
+    "wof:lastmodified":1473530963,
+    "wof:name":"Mangelschots Olivia",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7160611153,
+    51.0473632812,
+    3.7160611153,
+    51.0473632812
+],
+  "geometry": {"coordinates":[3.7160611153,51.0473632812],"type":"Point"}
+}

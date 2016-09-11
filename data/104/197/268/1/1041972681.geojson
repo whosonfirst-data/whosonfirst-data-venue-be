@@ -1,0 +1,77 @@
+{
+  "id": 1041972681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.36043787,50.9011001587,4.36043787,50.9011001587",
+    "geom:latitude":50.9011,
+    "geom:longitude":4.360438,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Wand 172",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 61 45",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dTPwjrPofhGi0O8vjLixz_50.901100_4.360438@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491204,
+    "wof:geomhash":"9ba9c5cb7dc5f74ce7b7f13fc9b8b7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1041972681
+        }
+    ],
+    "wof:id":1041972681,
+    "wof:lastmodified":1473491204,
+    "wof:name":"Mutsaard (de)",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.36043787,
+    50.9011001587,
+    4.36043787,
+    50.9011001587
+],
+  "geometry": {"coordinates":[4.36043787,50.9011001587],"type":"Point"}
+}

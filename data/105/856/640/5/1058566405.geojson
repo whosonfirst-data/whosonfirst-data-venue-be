@@ -1,0 +1,77 @@
+{
+  "id": 1058566405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4283280373,51.1585845947,4.4283280373,51.1585845947",
+    "geom:latitude":51.158585,
+    "geom:longitude":4.428328,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ter Voortlaan 36",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 23 82 83",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dT5i0XxTNx2swkIX5upW0_51.158585_4.428328@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531146,
+    "wof:geomhash":"525b2213735c564c2f86ec3f03135953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058566405
+        }
+    ],
+    "wof:id":1058566405,
+    "wof:lastmodified":1473531146,
+    "wof:name":"Restiau Cath\u00e9rine",
+    "wof:parent_id":85800769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4283280373,
+    51.1585845947,
+    4.4283280373,
+    51.1585845947
+],
+  "geometry": {"coordinates":[4.4283280373,51.1585845947],"type":"Point"}
+}

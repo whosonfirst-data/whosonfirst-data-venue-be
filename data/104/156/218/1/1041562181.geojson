@@ -1,0 +1,81 @@
+{
+  "id": 1041562181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3720030785,50.8047447205,4.3720030785,50.8047447205",
+    "geom:latitude":50.804745,
+    "geom:longitude":4.372003,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ch De Waterloo 1033",
+    "sg:city":"Uccle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 57 67",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Vs1oRhLHlqyA4JqPJYAP_50.804745_4.372003@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473718,
+    "wof:geomhash":"72dc1205aa8f8408daa71d9d73c9c083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041562181
+        }
+    ],
+    "wof:id":1041562181,
+    "wof:lastmodified":1473473718,
+    "wof:name":"Decapa Sa",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3720030785,
+    50.8047447205,
+    4.3720030785,
+    50.8047447205
+],
+  "geometry": {"coordinates":[4.3720030785,50.8047447205],"type":"Point"}
+}

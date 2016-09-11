@@ -1,0 +1,69 @@
+{
+  "id": 1058094015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8305959702,51.1886863708,3.8305959702,51.1886863708",
+    "geom:latitude":51.188686,
+    "geom:longitude":3.830596,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industriepark Rostijne 19",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 345 09 70",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ApTFkxSZ8Cj67HaqSmeWV_51.188686_3.830596@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509321,
+    "wof:geomhash":"f8bd87d9cef219d0c06b5b4073a1ea5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058094015
+        }
+    ],
+    "wof:id":1058094015,
+    "wof:lastmodified":1473509321,
+    "wof:name":"Opel Grensland Bvba",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    3.8305959702,
+    51.1886863708,
+    3.8305959702,
+    51.1886863708
+],
+  "geometry": {"coordinates":[3.8305959702,51.1886863708],"type":"Point"}
+}

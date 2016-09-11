@@ -1,0 +1,79 @@
+{
+  "id": 1058326703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4061508179,50.8072395325,4.4061508179,50.8072395325",
+    "geom:latitude":50.80724,
+    "geom:longitude":4.406151,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Epic\u00e9as 52",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 00 12",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rbIj6MYVsGJ9alI7ydP4a_50.807240_4.406151@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519833,
+    "wof:geomhash":"3d64f3fc55f09b2275a5a1d7968fe9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058326703
+        }
+    ],
+    "wof:id":1058326703,
+    "wof:lastmodified":1473519833,
+    "wof:name":"Vincent P",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.4061508179,
+    50.8072395325,
+    4.4061508179,
+    50.8072395325
+],
+  "geometry": {"coordinates":[4.4061508179,50.8072395325],"type":"Point"}
+}

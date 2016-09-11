@@ -1,0 +1,79 @@
+{
+  "id": 1058282571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4149470329,50.8579521179,4.4149470329,50.8579521179",
+    "geom:latitude":50.857952,
+    "geom:longitude":4.414947,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Dix Sept Avril 33",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 705 16 12",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54BfSqCKd3DtA2TKI8ZJ42_50.857952_4.414947@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517807,
+    "wof:geomhash":"445b8b092b3cfc7f2e240adfece3b4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058282571
+        }
+    ],
+    "wof:id":1058282571,
+    "wof:lastmodified":1473517807,
+    "wof:name":"Cyclone",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "internet"
+    ]
+},
+  "bbox": [
+    4.4149470329,
+    50.8579521179,
+    4.4149470329,
+    50.8579521179
+],
+  "geometry": {"coordinates":[4.4149470329,50.8579521179],"type":"Point"}
+}

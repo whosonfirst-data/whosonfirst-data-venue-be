@@ -1,0 +1,71 @@
+{
+  "id": 1058860101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4730358124,51.3938865662,4.4730358124,51.3938865662",
+    "geom:latitude":51.393887,
+    "geom:longitude":4.473036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Statiestraat 20",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 26 60",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "taxi's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801503,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lagn6hRl6uudsYuoR9SrU_51.393887_4.473036@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544161,
+    "wof:geomhash":"33f25346f45f7d9a68ae4bff587b7bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801503,
+            "region_id":85681715,
+            "venue_id":1058860101
+        }
+    ],
+    "wof:id":1058860101,
+    "wof:lastmodified":1473544161,
+    "wof:name":"Stena Courier Service",
+    "wof:parent_id":85801503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi's"
+    ]
+},
+  "bbox": [
+    4.4730358124,
+    51.3938865662,
+    4.4730358124,
+    51.3938865662
+],
+  "geometry": {"coordinates":[4.4730358124,51.3938865662],"type":"Point"}
+}

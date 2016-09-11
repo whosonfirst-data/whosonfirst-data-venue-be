@@ -1,0 +1,83 @@
+{
+  "id": 1058134175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4107198715,51.2040977478,4.4107198715,51.2040977478",
+    "geom:latitude":51.204098,
+    "geom:longitude":4.41072,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelse Steenweg 186",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 238 71 76",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PQ9RJWvAAgPE7dHST4O2B_51.204098_4.410720@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511197,
+    "wof:geomhash":"4cdc66ee0c9162b31cf23ba47a911a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058134175
+        }
+    ],
+    "wof:id":1058134175,
+    "wof:lastmodified":1473511197,
+    "wof:name":"J-style",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4107198715,
+    51.2040977478,
+    4.4107198715,
+    51.2040977478
+],
+  "geometry": {"coordinates":[4.4107198715,51.2040977478],"type":"Point"}
+}

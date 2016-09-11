@@ -1,0 +1,79 @@
+{
+  "id": 1058874853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3545107841,50.8494796753,4.3545107841,50.8494796753",
+    "geom:latitude":50.84948,
+    "geom:longitude":4.354511,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9opold 4",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 229 12 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "concert-halls",
+        "theatre"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AgE8sxnO0gPhh0XmOkHrj_50.849480_4.354511@1306268588"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544780,
+    "wof:geomhash":"56470bf1cb9b38ec624b2d4ce9d5bbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058874853
+        }
+    ],
+    "wof:id":1058874853,
+    "wof:lastmodified":1473544780,
+    "wof:name":"Munt (de)",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concert-halls",
+        "theatre"
+    ]
+},
+  "bbox": [
+    4.3545107841,
+    50.8494796753,
+    4.3545107841,
+    50.8494796753
+],
+  "geometry": {"coordinates":[4.3545107841,50.8494796753],"type":"Point"}
+}

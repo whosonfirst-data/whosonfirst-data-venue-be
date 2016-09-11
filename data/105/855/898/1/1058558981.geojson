@@ -1,0 +1,77 @@
+{
+  "id": 1058558981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7030329704,51.0700073242,3.7030329704,51.0700073242",
+    "geom:latitude":51.070007,
+    "geom:longitude":3.703033,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Francisco Ferrerlaan 127",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 03 93",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k3lAg3UGTMtvxcdHNYvd6_51.070007_3.703033@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530785,
+    "wof:geomhash":"c6628079ad6802327c10c5c536b436ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058558981
+        }
+    ],
+    "wof:id":1058558981,
+    "wof:lastmodified":1473530785,
+    "wof:name":"Herteleer J",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7030329704,
+    51.0700073242,
+    3.7030329704,
+    51.0700073242
+],
+  "geometry": {"coordinates":[3.7030329704,51.0700073242],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058934711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3297381401,50.9437484741,4.3297381401,50.9437484741",
+    "geom:latitude":50.943748,
+    "geom:longitude":4.329738,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vilvoordsesteenweg 173",
+    "sg:city":"Meise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 269 86 46",
+    "sg:postcode":"1860",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G3sCfdFMa2xMLzbCuLjqr_50.943748_4.329738@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547523,
+    "wof:geomhash":"55e8055b5cbc7862af5f3f50c85f3b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058934711
+        }
+    ],
+    "wof:id":1058934711,
+    "wof:lastmodified":1473547523,
+    "wof:name":"Larochaymond M",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.3297381401,
+    50.9437484741,
+    4.3297381401,
+    50.9437484741
+],
+  "geometry": {"coordinates":[4.3297381401,50.9437484741],"type":"Point"}
+}

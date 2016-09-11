@@ -1,0 +1,81 @@
+{
+  "id": 1058423375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5818080902,50.6416244507,5.5818080902,50.6416244507",
+    "geom:latitude":50.641624,
+    "geom:longitude":5.581808,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'eglise 3",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 12 14",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "teacher",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MYcmfQ9KMMuqVjPUlInMA_50.641624_5.581808@1306268507"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524331,
+    "wof:geomhash":"802fc61c7d1c2d681e2e16fc61a0be45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058423375
+        }
+    ],
+    "wof:id":1058423375,
+    "wof:lastmodified":1473524331,
+    "wof:name":"Acad\u00e9mie De Ch\u00ean\u00e9e",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "teacher",
+        "private"
+    ]
+},
+  "bbox": [
+    5.5818080902,
+    50.6416244507,
+    5.5818080902,
+    50.6416244507
+],
+  "geometry": {"coordinates":[5.5818080902,50.6416244507],"type":"Point"}
+}

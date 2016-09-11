@@ -1,0 +1,79 @@
+{
+  "id": 1058938841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7330439091,51.0558128357,3.7330439091,51.0558128357",
+    "geom:latitude":51.055813,
+    "geom:longitude":3.733044,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nieuwbrugkaai 93",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 37 59",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "report",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sw7PzYrwNK8k7nNGyAbsV_51.055813_3.733044@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547704,
+    "wof:geomhash":"11b9abb02a76bb134fd52f7d660f0b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058938841
+        }
+    ],
+    "wof:id":1058938841,
+    "wof:lastmodified":1473547704,
+    "wof:name":"Vidioom",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "report",
+        "video"
+    ]
+},
+  "bbox": [
+    3.7330439091,
+    51.0558128357,
+    3.7330439091,
+    51.0558128357
+],
+  "geometry": {"coordinates":[3.7330439091,51.0558128357],"type":"Point"}
+}

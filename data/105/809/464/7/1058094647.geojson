@@ -1,0 +1,77 @@
+{
+  "id": 1058094647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.463768959,50.8489875793,4.463768959,50.8489875793",
+    "geom:latitude":50.848988,
+    "geom:longitude":4.463769,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Verte 20",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 76 59",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801015,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64qWaMpOoJQafhs55hNugo_50.848988_4.463769@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509343,
+    "wof:geomhash":"c15fbf12286ec0bd269990e95c32686c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801015,
+            "region_id":85681731,
+            "venue_id":1058094647
+        }
+    ],
+    "wof:id":1058094647,
+    "wof:lastmodified":1473509343,
+    "wof:name":"Sam",
+    "wof:parent_id":85801015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.463768959,
+    50.8489875793,
+    4.463768959,
+    50.8489875793
+],
+  "geometry": {"coordinates":[4.463768959,50.8489875793],"type":"Point"}
+}

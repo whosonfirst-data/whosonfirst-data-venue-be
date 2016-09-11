@@ -1,0 +1,66 @@
+{
+  "id": 1058671293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.7056379318,50.726978302,5.7056379318,50.726978302",
+    "geom:latitude":50.726978,
+    "geom:longitude":5.705638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Dalhem 51",
+    "sg:city":"Vise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 374 11 01",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802007,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YDC3VXuSMuLoxLRH91o6c_50.726978_5.705638@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535903,
+    "wof:geomhash":"6bde2d1320c4bc9564bb700ca954eb22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802007,
+            "region_id":85681691,
+            "venue_id":1058671293
+        }
+    ],
+    "wof:id":1058671293,
+    "wof:lastmodified":1473535903,
+    "wof:name":"La Ferme De Loie D'or",
+    "wof:parent_id":85802007,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7056379318,
+    50.726978302,
+    5.7056379318,
+    50.726978302
+],
+  "geometry": {"coordinates":[5.7056379318,50.726978302],"type":"Point"}
+}

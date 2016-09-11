@@ -1,0 +1,83 @@
+{
+  "id": 1058890277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5135040283,50.6164131165,5.5135040283,50.6164131165",
+    "geom:latitude":50.616413,
+    "geom:longitude":5.513504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Greiner 1b",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 72 84",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "truck",
+        "-",
+        "dump",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j5JBGwhmJW4yrjSqE3KSS_50.616413_5.513504@1306268590"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545491,
+    "wof:geomhash":"780d875174cb171adc8db7117091d93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058890277
+        }
+    ],
+    "wof:id":1058890277,
+    "wof:lastmodified":1473545491,
+    "wof:name":"Recy-seraing",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "-",
+        "dump",
+        "transport"
+    ]
+},
+  "bbox": [
+    5.5135040283,
+    50.6164131165,
+    5.5135040283,
+    50.6164131165
+],
+  "geometry": {"coordinates":[5.5135040283,50.6164131165],"type":"Point"}
+}

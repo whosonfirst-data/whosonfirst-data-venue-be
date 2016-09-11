@@ -1,0 +1,79 @@
+{
+  "id": 1058033197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2957110405,50.8660545349,4.2957110405,50.8660545349",
+    "geom:latitude":50.866055,
+    "geom:longitude":4.295711,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentsesteenweg 1187",
+    "sg:city":"Sint-agatha-berchem/berchem-sainte-agathe",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 468 02 98",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P6qoSTZXcB0HoFN0NC5Ey_50.866055_4.295711@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506820,
+    "wof:geomhash":"3f10402b187110c64a08c28fb453a784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058033197
+        }
+    ],
+    "wof:id":1058033197,
+    "wof:lastmodified":1473506820,
+    "wof:name":"Restaurant Binh-minh",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2957110405,
+    50.8660545349,
+    4.2957110405,
+    50.8660545349
+],
+  "geometry": {"coordinates":[4.2957110405,50.8660545349],"type":"Point"}
+}

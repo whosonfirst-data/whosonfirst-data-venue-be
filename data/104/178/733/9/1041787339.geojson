@@ -1,0 +1,83 @@
+{
+  "id": 1041787339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3942070007,51.213634491,4.3942070007,51.213634491",
+    "geom:latitude":51.213634,
+    "geom:longitude":4.394207,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kloosterstraat 153",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 542 09 67",
+    "sg:postcode":"2180",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fkUgKHXxolFHsqZx0JNJf_51.213634_4.394207@1306268339"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483179,
+    "wof:geomhash":"8f856ba3f8a5b78bc2b15b2434999727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041787339
+        }
+    ],
+    "wof:id":1041787339,
+    "wof:lastmodified":1473483179,
+    "wof:name":"'t Scheepswinkeltje",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ]
+},
+  "bbox": [
+    4.3942070007,
+    51.213634491,
+    4.3942070007,
+    51.213634491
+],
+  "geometry": {"coordinates":[4.3942070007,51.213634491],"type":"Point"}
+}

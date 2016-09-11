@@ -1,0 +1,88 @@
+{
+  "id": 1058854883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3290948868,50.8786697388,4.3290948868,50.8786697388",
+    "geom:latitude":50.87867,
+    "geom:longitude":4.329095,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9on Theodor 191",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 26 09",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0gtRnzuD6kX5exXA16oK_50.878670_4.329095@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543932,
+    "wof:geomhash":"5256059b30ef0e4d1ec9c8339c705e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058854883
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058854883
+        }
+    ],
+    "wof:id":1058854883,
+    "wof:lastmodified":1473543932,
+    "wof:name":"De Profeet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3290948868,
+    50.8786697388,
+    4.3290948868,
+    50.8786697388
+],
+  "geometry": {"coordinates":[4.3290948868,50.8786697388],"type":"Point"}
+}

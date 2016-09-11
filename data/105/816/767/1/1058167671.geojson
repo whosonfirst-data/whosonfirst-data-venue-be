@@ -1,0 +1,73 @@
+{
+  "id": 1058167671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6823730469,50.8562164307,4.6823730469,50.8562164307",
+    "geom:latitude":50.856216,
+    "geom:longitude":4.682373,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waversebaan 261",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 89 60 43",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2foqHpb5EAk38vhfu6pXHW_50.856216_4.682373@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512780,
+    "wof:geomhash":"b910827630a714aff28e4cb445365a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058167671
+        }
+    ],
+    "wof:id":1058167671,
+    "wof:lastmodified":1473512780,
+    "wof:name":"Haven Frederic",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6823730469,
+    50.8562164307,
+    4.6823730469,
+    50.8562164307
+],
+  "geometry": {"coordinates":[4.6823730469,50.8562164307],"type":"Point"}
+}

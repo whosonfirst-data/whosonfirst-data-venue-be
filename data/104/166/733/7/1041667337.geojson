@@ -1,0 +1,73 @@
+{
+  "id": 1041667337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5215249062,50.7633514404,4.5215249062,50.7633514404",
+    "geom:latitude":50.763351,
+    "geom:longitude":4.521525,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hagaard 49",
+    "sg:city":"Overijse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 688 29 19",
+    "sg:postcode":"3090",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bvm10WfTFbNeAoBB8Hx3w_50.763351_4.521525@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478026,
+    "wof:geomhash":"ac8e70aaca11afbb07ec1a511ce23e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041667337
+        }
+    ],
+    "wof:id":1041667337,
+    "wof:lastmodified":1473478026,
+    "wof:name":"Ducuroir",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.5215249062,
+    50.7633514404,
+    4.5215249062,
+    50.7633514404
+],
+  "geometry": {"coordinates":[4.5215249062,50.7633514404],"type":"Point"}
+}

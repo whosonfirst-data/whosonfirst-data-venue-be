@@ -1,0 +1,77 @@
+{
+  "id": 1042010763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5814771652,50.6477851868,5.5814771652,50.6477851868",
+    "geom:latitude":50.647785,
+    "geom:longitude":5.581477,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hors-ch\u00c2teau 122",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 09 72",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RoqbUu9Gi5nRpQ4rs8YIa_50.647785_5.581477@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492713,
+    "wof:geomhash":"6c3e42fe7ad99139450eb3aece2184f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1042010763
+        }
+    ],
+    "wof:id":1042010763,
+    "wof:lastmodified":1473492713,
+    "wof:name":"Caf\u00c9 Le Clip",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5814771652,
+    50.6477851868,
+    5.5814771652,
+    50.6477851868
+],
+  "geometry": {"coordinates":[5.5814771652,50.6477851868],"type":"Point"}
+}

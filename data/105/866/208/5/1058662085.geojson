@@ -1,0 +1,72 @@
+{
+  "id": 1058662085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5003461838,50.7382164001,4.5003461838,50.7382164001",
+    "geom:latitude":50.738216,
+    "geom:longitude":4.500346,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Wolfers 9",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PDf1zl7XGb7nR8TOtBpdM_50.738216_4.500346@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535511,
+    "wof:geomhash":"738a9fe14d861c73b5693147547889f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058662085
+        }
+    ],
+    "wof:id":1058662085,
+    "wof:lastmodified":1473535511,
+    "wof:name":"Residence st-james",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.5003461838,
+    50.7382164001,
+    4.5003461838,
+    50.7382164001
+],
+  "geometry": {"coordinates":[4.5003461838,50.7382164001],"type":"Point"}
+}

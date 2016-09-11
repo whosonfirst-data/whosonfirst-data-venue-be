@@ -1,0 +1,66 @@
+{
+  "id": 1042131041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2591309547,50.8417396545,4.2591309547,50.8417396545",
+    "geom:latitude":50.84174,
+    "geom:longitude":4.259131,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalenbergstraat 36",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 569 73 73",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gND0smfaaoRZeMG7rGpRm_50.841740_4.259131@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498017,
+    "wof:geomhash":"dc2895e37b74a1438771c13be24e7e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1042131041
+        }
+    ],
+    "wof:id":1042131041,
+    "wof:lastmodified":1473498017,
+    "wof:name":"Debackere B",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2591309547,
+    50.8417396545,
+    4.2591309547,
+    50.8417396545
+],
+  "geometry": {"coordinates":[4.2591309547,50.8417396545],"type":"Point"}
+}

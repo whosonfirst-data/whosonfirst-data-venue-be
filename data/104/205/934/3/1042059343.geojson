@@ -1,0 +1,77 @@
+{
+  "id": 1042059343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3860998154,50.8141822815,4.3860998154,50.8141822815",
+    "geom:latitude":50.814182,
+    "geom:longitude":4.3861,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'universit\u00e9 78",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 36 58",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Cno8XsLn4NOYsRjcDoJQ_50.814182_4.386100@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494654,
+    "wof:geomhash":"4f1a8861c743cad030fe36e15d36f05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1042059343
+        }
+    ],
+    "wof:id":1042059343,
+    "wof:lastmodified":1473494654,
+    "wof:name":"Faucon Ph",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3860998154,
+    50.8141822815,
+    4.3860998154,
+    50.8141822815
+],
+  "geometry": {"coordinates":[4.3860998154,50.8141822815],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058159329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6428699493,50.6292266846,5.6428699493,50.6292266846",
+    "geom:latitude":50.629227,
+    "geom:longitude":5.64287,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Rousseli\u00e8re 35",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 28 35",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800809,
+        102191581,
+        85632997,
+        404227353,
+        101755201,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpdN39I3HmhE1EjwkaHFD_50.629227_5.642870@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512411,
+    "wof:geomhash":"b6b74c4f8917b2ff6e622926786bfcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755201,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800809,
+            "region_id":85681691,
+            "venue_id":1058159329
+        }
+    ],
+    "wof:id":1058159329,
+    "wof:lastmodified":1473512411,
+    "wof:name":"De Boe X",
+    "wof:parent_id":85800809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6428699493,
+    50.6292266846,
+    5.6428699493,
+    50.6292266846
+],
+  "geometry": {"coordinates":[5.6428699493,50.6292266846],"type":"Point"}
+}

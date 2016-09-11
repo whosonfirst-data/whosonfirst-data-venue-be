@@ -1,0 +1,71 @@
+{
+  "id": 1058855011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5018949509,51.1268692017,4.5018949509,51.1268692017",
+    "geom:latitude":51.126869,
+    "geom:longitude":4.501895,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Liersesteenweg 112",
+    "sg:city":"Lint",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 86 43",
+    "sg:postcode":"2547",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQF5iD9uSXEdESxXpqPej_51.126869_4.501895@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543937,
+    "wof:geomhash":"9e987f1715ef17a8d34fee397c2635b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058855011
+        }
+    ],
+    "wof:id":1058855011,
+    "wof:lastmodified":1473543937,
+    "wof:name":"Den Eyck Bvba",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.5018949509,
+    51.1268692017,
+    4.5018949509,
+    51.1268692017
+],
+  "geometry": {"coordinates":[4.5018949509,51.1268692017],"type":"Point"}
+}

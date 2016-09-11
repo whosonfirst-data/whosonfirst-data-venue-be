@@ -1,0 +1,77 @@
+{
+  "id": 1042049861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4241170883,51.2362670898,4.4241170883,51.2362670898",
+    "geom:latitude":51.236267,
+    "geom:longitude":4.424117,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredastraat 124",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 355 37 70",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "charcoal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pj0MU8YnBIMn7DSGtMWr7_51.236267_4.424117@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494249,
+    "wof:geomhash":"893d14c0513385acc5e5d4a5a8f27b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042049861
+        }
+    ],
+    "wof:id":1042049861,
+    "wof:lastmodified":1473494249,
+    "wof:name":"Matro Nv",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charcoal"
+    ]
+},
+  "bbox": [
+    4.4241170883,
+    51.2362670898,
+    4.4241170883,
+    51.2362670898
+],
+  "geometry": {"coordinates":[4.4241170883,51.2362670898],"type":"Point"}
+}

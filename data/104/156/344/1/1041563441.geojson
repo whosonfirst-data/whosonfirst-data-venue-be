@@ -1,0 +1,77 @@
+{
+  "id": 1041563441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5862002373,50.6382293701,5.5862002373,50.6382293701",
+    "geom:latitude":50.638229,
+    "geom:longitude":5.5862,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Th\u00c9odore Gobert 6",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 02 50",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20yCqDNK2SdT807vdzYuRU_50.638229_5.586200@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473773,
+    "wof:geomhash":"df167ba3fcd1bad62f8007771f6a904b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041563441
+        }
+    ],
+    "wof:id":1041563441,
+    "wof:lastmodified":1473473773,
+    "wof:name":"Caf\u00c9 Le Simenon",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5862002373,
+    50.6382293701,
+    5.5862002373,
+    50.6382293701
+],
+  "geometry": {"coordinates":[5.5862002373,50.6382293701],"type":"Point"}
+}

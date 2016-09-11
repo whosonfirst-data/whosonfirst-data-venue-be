@@ -1,0 +1,83 @@
+{
+  "id": 1041990069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5179729462,50.6000976562,5.5179729462,50.6000976562",
+    "geom:latitude":50.600098,
+    "geom:longitude":5.517973,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Buisson 74",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 63 96",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tn7GurwqryChOhswURT5N_50.600098_5.517973@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491919,
+    "wof:geomhash":"4c09c9d9ad7dd666e2ae7cc911445065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1041990069
+        }
+    ],
+    "wof:id":1041990069,
+    "wof:lastmodified":1473491919,
+    "wof:name":"Noben P Sprl",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ]
+},
+  "bbox": [
+    5.5179729462,
+    50.6000976562,
+    5.5179729462,
+    50.6000976562
+],
+  "geometry": {"coordinates":[5.5179729462,50.6000976562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1058381099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6566109657,51.0185089111,3.6566109657,51.0185089111",
+    "geom:latitude":51.018509,
+    "geom:longitude":3.656611,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Witbakkerstraat 3",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 234 29 10",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJNDW5xoCTumTGo4lfxiD_51.018509_3.656611@1306268499"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522403,
+    "wof:geomhash":"09d5b0e80a32737ec486df7dee5c5129",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058381099
+        }
+    ],
+    "wof:id":1058381099,
+    "wof:lastmodified":1473522403,
+    "wof:name":"Call Metrics",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    3.6566109657,
+    51.0185089111,
+    3.6566109657,
+    51.0185089111
+],
+  "geometry": {"coordinates":[3.6566109657,51.0185089111],"type":"Point"}
+}

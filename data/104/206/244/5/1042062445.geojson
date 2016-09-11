@@ -1,0 +1,77 @@
+{
+  "id": 1042062445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7252449989,51.0574150085,3.7252449989,51.0574150085",
+    "geom:latitude":51.057415,
+    "geom:longitude":3.725245,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vrijdagmarkt 9",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 85 45",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37dYn5OxHGOl92LT9TRfUD_51.057415_3.725245@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494769,
+    "wof:geomhash":"d53a9558b18c440a70b385a3c17e75b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042062445
+        }
+    ],
+    "wof:id":1042062445,
+    "wof:lastmodified":1473494769,
+    "wof:name":"Vooruit",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.7252449989,
+    51.0574150085,
+    3.7252449989,
+    51.0574150085
+],
+  "geometry": {"coordinates":[3.7252449989,51.0574150085],"type":"Point"}
+}

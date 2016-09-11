@@ -1,0 +1,83 @@
+{
+  "id": 1058972649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.728358984,51.0302124023,3.728358984,51.0302124023",
+    "geom:latitude":51.030212,
+    "geom:longitude":3.728359,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valkeniersstraat 21",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 23 23",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2deO7k9kIfRUsj44lVYGuQ_51.030212_3.728359@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549321,
+    "wof:geomhash":"8bb49eb5ed22df58aad98f052c9bec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058972649
+        }
+    ],
+    "wof:id":1058972649,
+    "wof:lastmodified":1473549321,
+    "wof:name":"Vinopalia",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    3.728358984,
+    51.0302124023,
+    3.728358984,
+    51.0302124023
+],
+  "geometry": {"coordinates":[3.728358984,51.0302124023],"type":"Point"}
+}

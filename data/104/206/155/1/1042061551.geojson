@@ -1,0 +1,77 @@
+{
+  "id": 1042061551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3858318329,50.8298950195,4.3858318329,50.8298950195",
+    "geom:latitude":50.829895,
+    "geom:longitude":4.385832,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-antoine 44",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 16 75",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AYinazwUGJb2MmRSC5xHF_50.829895_4.385832@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494735,
+    "wof:geomhash":"000c5e6065555197cfa74b252197b312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1042061551
+        }
+    ],
+    "wof:id":1042061551,
+    "wof:lastmodified":1473494735,
+    "wof:name":"Soille",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3858318329,
+    50.8298950195,
+    4.3858318329,
+    50.8298950195
+],
+  "geometry": {"coordinates":[4.3858318329,50.8298950195],"type":"Point"}
+}

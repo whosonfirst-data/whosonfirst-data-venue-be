@@ -1,0 +1,81 @@
+{
+  "id": 1058059005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6930129528,51.0229263306,3.6930129528,51.0229263306",
+    "geom:latitude":51.022926,
+    "geom:longitude":3.693013,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Putkapelstr 103",
+    "sg:city":"Sint-denijs-westrem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 23 32",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "frozen",
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D6fCZzDJrnavXE6CYgoTZ_51.022926_3.693013@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507880,
+    "wof:geomhash":"a44f40445c03ffeff7629a8c3aea3228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1058059005
+        }
+    ],
+    "wof:id":1058059005,
+    "wof:lastmodified":1473507880,
+    "wof:name":"Toledo International Nv",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    3.6930129528,
+    51.0229263306,
+    3.6930129528,
+    51.0229263306
+],
+  "geometry": {"coordinates":[3.6930129528,51.0229263306],"type":"Point"}
+}

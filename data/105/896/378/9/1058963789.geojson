@@ -1,0 +1,83 @@
+{
+  "id": 1058963789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5742950439,50.6426544189,5.5742950439,50.6426544189",
+    "geom:latitude":50.642654,
+    "geom:longitude":5.574295,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Donceel 4a",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 40 79",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uBvUrIoZdwK7na4he8QWt_50.642654_5.574295@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548947,
+    "wof:geomhash":"9ff3a46e82d5b0a0ae41f9cc2ca0fc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058963789
+        }
+    ],
+    "wof:id":1058963789,
+    "wof:lastmodified":1473548947,
+    "wof:name":"Horlogex",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [
+    5.5742950439,
+    50.6426544189,
+    5.5742950439,
+    50.6426544189
+],
+  "geometry": {"coordinates":[5.5742950439,50.6426544189],"type":"Point"}
+}

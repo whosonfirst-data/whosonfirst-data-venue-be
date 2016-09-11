@@ -1,0 +1,81 @@
+{
+  "id": 1041655853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4066572189,51.2156677246,4.4066572189,51.2156677246",
+    "geom:latitude":51.215668,
+    "geom:longitude":4.406657,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koning Leopoldstraat 2",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 830 43 98",
+    "sg:postcode":"2610",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "\u00c0",
+        "emporter",
+        "restaurants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GyN3X4IqHKKyTE7Hch1sE_51.215668_4.406657@1306268553"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477573,
+    "wof:geomhash":"cc0621ae75e4600e641c0e9a9850dfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041655853
+        }
+    ],
+    "wof:id":1041655853,
+    "wof:lastmodified":1473477573,
+    "wof:name":"Frituur Bently's",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "emporter",
+        "restaurants"
+    ]
+},
+  "bbox": [
+    4.4066572189,
+    51.2156677246,
+    4.4066572189,
+    51.2156677246
+],
+  "geometry": {"coordinates":[4.4066572189,51.2156677246],"type":"Point"}
+}

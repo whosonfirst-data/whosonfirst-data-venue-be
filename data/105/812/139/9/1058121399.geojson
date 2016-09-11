@@ -1,0 +1,77 @@
+{
+  "id": 1058121399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3481860161,50.8302574158,4.3481860161,50.8302574158",
+    "geom:latitude":50.830257,
+    "geom:longitude":4.348186,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Victoire 49",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 05 65",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KhP9Y8NkTxaDPtKonMCIK_50.830257_4.348186@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510601,
+    "wof:geomhash":"4450559dc386524eb22b8786fbb866cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058121399
+        }
+    ],
+    "wof:id":1058121399,
+    "wof:lastmodified":1473510601,
+    "wof:name":"Philips",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3481860161,
+    50.8302574158,
+    4.3481860161,
+    50.8302574158
+],
+  "geometry": {"coordinates":[4.3481860161,50.8302574158],"type":"Point"}
+}

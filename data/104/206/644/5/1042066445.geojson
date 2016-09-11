@@ -1,0 +1,79 @@
+{
+  "id": 1042066445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3588042259,50.8441085815,4.3588042259,50.8441085815",
+    "geom:latitude":50.844109,
+    "geom:longitude":4.358804,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galerie Ravenstein 4 Box 6",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"National",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 00 75",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "city",
+        "planner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sLpdMKCAAheAskhheYe52_50.844109_4.358804@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494926,
+    "wof:geomhash":"7176938d38fa6e1e967dca9dd07609dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1042066445
+        }
+    ],
+    "wof:id":1042066445,
+    "wof:lastmodified":1473494926,
+    "wof:name":"Geldof Ch",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planner"
+    ]
+},
+  "bbox": [
+    4.3588042259,
+    50.8441085815,
+    4.3588042259,
+    50.8441085815
+],
+  "geometry": {"coordinates":[4.3588042259,50.8441085815],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041563569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2945561409,50.822013855,4.2945561409,50.822013855",
+    "geom:latitude":50.822014,
+    "geom:longitude":4.294556,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Mons 1074",
+    "sg:city":"Anderlecht/anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 21 20",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ehDgysSH8cuy22uv1Sqjq_50.822014_4.294556@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473778,
+    "wof:geomhash":"96e99ebcdafd02c95633d4b1103c0205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041563569
+        }
+    ],
+    "wof:id":1041563569,
+    "wof:lastmodified":1473473778,
+    "wof:name":"Caf\u00c9 Pigeon De Rome",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.2945561409,
+    50.822013855,
+    4.2945561409,
+    50.822013855
+],
+  "geometry": {"coordinates":[4.2945561409,50.822013855],"type":"Point"}
+}

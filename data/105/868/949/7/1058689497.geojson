@@ -1,0 +1,83 @@
+{
+  "id": 1058689497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7525041103,51.0146827698,3.7525041103,51.0146827698",
+    "geom:latitude":51.014683,
+    "geom:longitude":3.752504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hundelgemsesteenweg 262",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 94 18",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GMDYQx4V4B2GJ6ztIyAK6_51.014683_3.752504@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536678,
+    "wof:geomhash":"06c928720bceb7868af75082b5057119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058689497
+        }
+    ],
+    "wof:id":1058689497,
+    "wof:lastmodified":1473536678,
+    "wof:name":"Restaurant De Bergstraat",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    3.7525041103,
+    51.0146827698,
+    3.7525041103,
+    51.0146827698
+],
+  "geometry": {"coordinates":[3.7525041103,51.0146827698],"type":"Point"}
+}

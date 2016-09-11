@@ -1,0 +1,79 @@
+{
+  "id": 1042049629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3657407761,50.8388366699,4.3657407761,50.8388366699",
+    "geom:latitude":50.838837,
+    "geom:longitude":4.365741,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Science",
+    "sg:city":"Nivelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 540 90 30",
+    "sg:postcode":"1400",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QLDJLluKV9I5J1fKalbpf_50.838837_4.365741@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494235,
+    "wof:geomhash":"2db24d91b6eed7430696dac83754936e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042049629
+        }
+    ],
+    "wof:id":1042049629,
+    "wof:lastmodified":1473494235,
+    "wof:name":"British Chamber Of Commerce In Belgium",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    4.3657407761,
+    50.8388366699,
+    4.3657407761,
+    50.8388366699
+],
+  "geometry": {"coordinates":[4.3657407761,50.8388366699],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041759683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4110770226,51.2746658325,4.4110770226,51.2746658325",
+    "geom:latitude":51.274666,
+    "geom:longitude":4.411077,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ferdinand Verbieststraat 10",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 541 65 10",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "construction",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801969,
+        102191581,
+        85632997,
+        404227357,
+        101754397,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kPze5XgpkhqQRkrbEMqTa_51.274666_4.411077@1306268334"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481846,
+    "wof:geomhash":"d6fee8c2b426ef7875740bacac529255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101754397,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801969,
+            "region_id":85681715,
+            "venue_id":1041759683
+        }
+    ],
+    "wof:id":1041759683,
+    "wof:lastmodified":1473481846,
+    "wof:name":"Versnel Bouwwerken B.v.b.a.",
+    "wof:parent_id":85801969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "apartment"
+    ]
+},
+  "bbox": [
+    4.4110770226,
+    51.2746658325,
+    4.4110770226,
+    51.2746658325
+],
+  "geometry": {"coordinates":[4.4110770226,51.2746658325],"type":"Point"}
+}

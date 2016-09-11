@@ -1,0 +1,77 @@
+{
+  "id": 1042019143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3299231529,50.885433197,4.3299231529,50.885433197",
+    "geom:latitude":50.885433,
+    "geom:longitude":4.329923,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Joseph Crocq 1",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 35 56",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yl49V63lk4i6yAv3h3SKV_50.885433_4.329923@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493023,
+    "wof:geomhash":"451b06c0221d83e64183e3f0b307037a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1042019143
+        }
+    ],
+    "wof:id":1042019143,
+    "wof:lastmodified":1473493023,
+    "wof:name":"Heymbosch Chalet",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3299231529,
+    50.885433197,
+    4.3299231529,
+    50.885433197
+],
+  "geometry": {"coordinates":[4.3299231529,50.885433197],"type":"Point"}
+}

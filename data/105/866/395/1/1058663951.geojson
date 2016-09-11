@@ -1,0 +1,72 @@
+{
+  "id": 1058663951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3378448486,50.8300857544,4.3378448486,50.8300857544",
+    "geom:latitude":50.830086,
+    "geom:longitude":4.337845,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bethlehemplein 9",
+    "sg:city":"Sint-gillis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 04 47",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EX13Je1k5hKwcpAuV0pgY_50.830086_4.337845@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535583,
+    "wof:geomhash":"edb116f93101c106856835c4fe466606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058663951
+        }
+    ],
+    "wof:id":1058663951,
+    "wof:lastmodified":1473535583,
+    "wof:name":"Au Bon Coeur",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3378448486,
+    50.8300857544,
+    4.3378448486,
+    50.8300857544
+],
+  "geometry": {"coordinates":[4.3378448486,50.8300857544],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058844073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4374880791,50.8522911072,4.4374880791,50.8522911072",
+    "geom:latitude":50.852291,
+    "geom:longitude":4.437488,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Th\u00e9odore De Cuyper 158",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 05 35",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZxXO0lJsT1zRIktDkP5bX_50.852291_4.437488@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543488,
+    "wof:geomhash":"25b1413768e38f4b78991533d32d73b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1058844073
+        }
+    ],
+    "wof:id":1058844073,
+    "wof:lastmodified":1473543488,
+    "wof:name":"Merulex",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4374880791,
+    50.8522911072,
+    4.4374880791,
+    50.8522911072
+],
+  "geometry": {"coordinates":[4.4374880791,50.8522911072],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1041990385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.264318943,51.214931488,3.264318943,51.214931488",
+    "geom:latitude":51.214931,
+    "geom:longitude":3.264319,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gemeneweideweg-noord 4",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 15 37",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_545EJtpzLsLahbSNJ2d868_51.214931_3.264319@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491941,
+    "wof:geomhash":"c7c879eed2ab54065104e31c38479234",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041990385
+        }
+    ],
+    "wof:id":1041990385,
+    "wof:lastmodified":1473491941,
+    "wof:name":"Coenco",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.264318943,
+    51.214931488,
+    3.264318943,
+    51.214931488
+],
+  "geometry": {"coordinates":[3.264318943,51.214931488],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1042062205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.693789959,50.8807563782,4.693789959,50.8807563782",
+    "geom:latitude":50.880756,
+    "geom:longitude":4.69379,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 136",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 22 15 30",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KV0xlTq1kPTxuZR4KKAlL_50.880756_4.693790@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494760,
+    "wof:geomhash":"5760562ec5bb747c0fc612ff9f94245e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1042062205
+        }
+    ],
+    "wof:id":1042062205,
+    "wof:lastmodified":1473494760,
+    "wof:name":"Vandenbosch C",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.693789959,
+    50.8807563782,
+    4.693789959,
+    50.8807563782
+],
+  "geometry": {"coordinates":[4.693789959,50.8807563782],"type":"Point"}
+}

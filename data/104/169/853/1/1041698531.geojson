@@ -1,0 +1,92 @@
+{
+  "id": 1041698531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3349142075,50.860874176,4.3349142075,50.860874176",
+    "geom:latitude":50.860874,
+    "geom:longitude":4.334914,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Montagne Aux Anges 26",
+    "sg:city":"Bruxelles (koekelberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 35 45",
+    "sg:postcode":"1081",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lJ2bP9b636kdAwyx1Mmen_50.860874_4.334914@1306268324"
+    },
+    "wof:country":"BE",
+    "wof:created":1473479223,
+    "wof:geomhash":"87c6ad6e7bccd2a24b3582da4128ccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041698531
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1041698531
+        }
+    ],
+    "wof:id":1041698531,
+    "wof:lastmodified":1473479223,
+    "wof:name":"L.g & F",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ]
+},
+  "bbox": [
+    4.3349142075,
+    50.860874176,
+    4.3349142075,
+    50.860874176
+],
+  "geometry": {"coordinates":[4.3349142075,50.860874176],"type":"Point"}
+}

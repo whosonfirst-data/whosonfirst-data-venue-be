@@ -1,0 +1,79 @@
+{
+  "id": 1042210041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5838451385,50.6689414978,5.5838451385,50.6689414978",
+    "geom:latitude":50.668941,
+    "geom:longitude":5.583845,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Fraisiers 91",
+    "sg:city":"Vottem",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 18 08",
+    "sg:postcode":"4041",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "engineering",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801945,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wpZec8efxFOq6d5ZcC5hK_50.668941_5.583845@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502428,
+    "wof:geomhash":"d796c4aa613f1a87fe1e66b38badfcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801945,
+            "region_id":85681691,
+            "venue_id":1042210041
+        }
+    ],
+    "wof:id":1042210041,
+    "wof:lastmodified":1473502428,
+    "wof:name":"Newelec S.a.",
+    "wof:parent_id":85801945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "electrical"
+    ]
+},
+  "bbox": [
+    5.5838451385,
+    50.6689414978,
+    5.5838451385,
+    50.6689414978
+],
+  "geometry": {"coordinates":[5.5838451385,50.6689414978],"type":"Point"}
+}

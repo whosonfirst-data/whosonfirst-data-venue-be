@@ -1,0 +1,81 @@
+{
+  "id": 1041846963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2330620289,51.1743850708,3.2330620289,51.1743850708",
+    "geom:latitude":51.174385,
+    "geom:longitude":3.233062,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gaston Roelandtsstraat 7",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 30 14",
+    "sg:postcode":"8020",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79VDpq8xaydUrfuIORpU6z_51.174385_3.233062@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485669,
+    "wof:geomhash":"a0208de0488378fb495e193a229aa3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1041846963
+        }
+    ],
+    "wof:id":1041846963,
+    "wof:lastmodified":1473485669,
+    "wof:name":"Lexus-van Belleghem",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2330620289,
+    51.1743850708,
+    3.2330620289,
+    51.1743850708
+],
+  "geometry": {"coordinates":[3.2330620289,51.1743850708],"type":"Point"}
+}

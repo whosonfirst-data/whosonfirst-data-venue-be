@@ -1,0 +1,85 @@
+{
+  "id": 1058179573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4182071686,50.8412895203,4.4182071686,50.8412895203",
+    "geom:latitude":50.84129,
+    "geom:longitude":4.418207,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Victor Gilsoul 42",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 784 28 38",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801913,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64NSMCM7UEgiSWVAlbhCvs_50.841290_4.418207@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513317,
+    "wof:geomhash":"c37b3a0b944927978c4b988b043ed3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801913,
+            "region_id":85681713,
+            "venue_id":1058179573
+        }
+    ],
+    "wof:id":1058179573,
+    "wof:lastmodified":1473513317,
+    "wof:name":"Thobel Jm",
+    "wof:parent_id":85801913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4182071686,
+    50.8412895203,
+    4.4182071686,
+    50.8412895203
+],
+  "geometry": {"coordinates":[4.4182071686,50.8412895203],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1058222513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3500089645,50.8165473938,4.3500089645,50.8165473938",
+    "geom:latitude":50.816547,
+    "geom:longitude":4.350009,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brugmann 160",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 248 07 42",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cEKOQyHk6SySCnzCsh4wP_50.816547_4.350009@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515196,
+    "wof:geomhash":"ccfa6abd49980d5532a9c559270c8fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058222513
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058222513
+        }
+    ],
+    "wof:id":1058222513,
+    "wof:lastmodified":1473515196,
+    "wof:name":"Technimex Industrie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3500089645,
+    50.8165473938,
+    4.3500089645,
+    50.8165473938
+],
+  "geometry": {"coordinates":[4.3500089645,50.8165473938],"type":"Point"}
+}

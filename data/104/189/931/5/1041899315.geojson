@@ -1,0 +1,64 @@
+{
+  "id": 1041899315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.5916004181,41.1602516174,-8.5916004181,41.1602516174",
+    "geom:latitude":41.160252,
+    "geom:longitude":-8.5916,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'yser 409",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 41610639",
+    "sg:postcode":"4300",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633735,
+        85798957,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M0rRAe5BEEuyxPzML85a0_41.160252_-8.591600@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487890,
+    "wof:geomhash":"94c27cd1d88fd7683fd3370111721189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "neighbourhood_id":85798957,
+            "region_id":85687411,
+            "venue_id":1041899315
+        }
+    ],
+    "wof:id":1041899315,
+    "wof:lastmodified":1473487890,
+    "wof:name":"Banque Nagelmackers",
+    "wof:parent_id":85798957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5916004181,
+    41.1602516174,
+    -8.5916004181,
+    41.1602516174
+],
+  "geometry": {"coordinates":[-8.5916004181,41.1602516174],"type":"Point"}
+}

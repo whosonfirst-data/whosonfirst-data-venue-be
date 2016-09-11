@@ -1,0 +1,71 @@
+{
+  "id": 1042150273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4847350121,51.3820075989,4.4847350121,51.3820075989",
+    "geom:latitude":51.382008,
+    "geom:longitude":4.484735,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Foxemaatstraat 72",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 55 00",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801503,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_078vm1ze7sdUVoEtzPsyuJ_51.382008_4.484735@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499042,
+    "wof:geomhash":"1b0558a354ace28213bfce0f6b5d1865",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801503,
+            "region_id":85681715,
+            "venue_id":1042150273
+        }
+    ],
+    "wof:id":1042150273,
+    "wof:lastmodified":1473499042,
+    "wof:name":"Konings-van Loon",
+    "wof:parent_id":85801503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dietitian"
+    ]
+},
+  "bbox": [
+    4.4847350121,
+    51.3820075989,
+    4.4847350121,
+    51.3820075989
+],
+  "geometry": {"coordinates":[4.4847350121,51.3820075989],"type":"Point"}
+}

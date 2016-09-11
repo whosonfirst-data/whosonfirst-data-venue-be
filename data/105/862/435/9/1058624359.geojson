@@ -1,0 +1,73 @@
+{
+  "id": 1058624359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2647979259,51.2118301392,3.2647979259,51.2118301392",
+    "geom:latitude":51.21183,
+    "geom:longitude":3.264798,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kastanjelaan 6",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 73 59",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Aw5yimm8H2W2EJr5QdUm_51.211830_3.264798@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533765,
+    "wof:geomhash":"2254ee090e648c3ced4f3f64ad05c9d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058624359
+        }
+    ],
+    "wof:id":1058624359,
+    "wof:lastmodified":1473533765,
+    "wof:name":"De Brabander Monique",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    3.2647979259,
+    51.2118301392,
+    3.2647979259,
+    51.2118301392
+],
+  "geometry": {"coordinates":[3.2647979259,51.2118301392],"type":"Point"}
+}

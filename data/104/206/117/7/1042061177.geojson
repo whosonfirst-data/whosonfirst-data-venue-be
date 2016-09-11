@@ -1,0 +1,77 @@
+{
+  "id": 1042061177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.7352170944,50.6319198608,5.7352170944,50.6319198608",
+    "geom:latitude":50.63192,
+    "geom:longitude":5.735217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue C\u00e9sar De Paepe 19",
+    "sg:city":"Soumagne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 377 10 32",
+    "sg:postcode":"4630",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801143,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4polWZbhp8IJ85qRa8Rpm3_50.631920_5.735217@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494721,
+    "wof:geomhash":"b731ebc7dc7111ca41c9c7564a41ce79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801143,
+            "region_id":85681691,
+            "venue_id":1042061177
+        }
+    ],
+    "wof:id":1042061177,
+    "wof:lastmodified":1473494721,
+    "wof:name":"Populaires De Verviers Soc Royale Coop",
+    "wof:parent_id":85801143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.7352170944,
+    50.6319198608,
+    5.7352170944,
+    50.6319198608
+],
+  "geometry": {"coordinates":[5.7352170944,50.6319198608],"type":"Point"}
+}

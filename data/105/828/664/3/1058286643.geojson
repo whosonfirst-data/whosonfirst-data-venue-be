@@ -1,0 +1,79 @@
+{
+  "id": 1058286643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4503388405,51.1430282593,4.4503388405,51.1430282593",
+    "geom:latitude":51.143028,
+    "geom:longitude":4.450339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steentjeslaan 24 Box 1",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 315 01 15",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "irrigation",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vUFk9L8eeUR3Srg0uCFnp_51.143028_4.450339@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517990,
+    "wof:geomhash":"d79ec01e101dd00147ecb97525ce7123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1058286643
+        }
+    ],
+    "wof:id":1058286643,
+    "wof:lastmodified":1473517990,
+    "wof:name":"Greco Bvba",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "system"
+    ]
+},
+  "bbox": [
+    4.4503388405,
+    51.1430282593,
+    4.4503388405,
+    51.1430282593
+],
+  "geometry": {"coordinates":[4.4503388405,51.1430282593],"type":"Point"}
+}

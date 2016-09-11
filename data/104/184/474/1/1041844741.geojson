@@ -1,0 +1,75 @@
+{
+  "id": 1041844741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5070872307,50.5824890137,5.5070872307,50.5824890137",
+    "geom:latitude":50.582489,
+    "geom:longitude":5.507087,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Plainevaux 159",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 20 36",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HwSKzLWoUWbvS5EFp5jGB_50.582489_5.507087@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485575,
+    "wof:geomhash":"b47f05679a2f7bb2f6495c667159da39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1041844741
+        }
+    ],
+    "wof:id":1041844741,
+    "wof:lastmodified":1473485575,
+    "wof:name":"Ford-peeters & Fils",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    5.5070872307,
+    50.5824890137,
+    5.5070872307,
+    50.5824890137
+],
+  "geometry": {"coordinates":[5.5070872307,50.5824890137],"type":"Point"}
+}

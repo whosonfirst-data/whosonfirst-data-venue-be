@@ -1,0 +1,79 @@
+{
+  "id": 1041881901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3785052299,51.1915245056,4.3785052299,51.1915245056",
+    "geom:latitude":51.191525,
+    "geom:longitude":4.378505,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zaanstraat",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 42 16",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69MlTX7R9eprKtZKkQwkkS_51.191525_4.378505@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487151,
+    "wof:geomhash":"09330a2794e5ec4b5bed785b15c67857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041881901
+        }
+    ],
+    "wof:id":1041881901,
+    "wof:lastmodified":1473487151,
+    "wof:name":"Heymans",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3785052299,
+    51.1915245056,
+    4.3785052299,
+    51.1915245056
+],
+  "geometry": {"coordinates":[4.3785052299,51.1915245056],"type":"Point"}
+}

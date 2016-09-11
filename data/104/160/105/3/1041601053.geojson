@@ -1,0 +1,81 @@
+{
+  "id": 1041601053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5648508072,50.6215782166,5.5648508072,50.6215782166",
+    "geom:latitude":50.621578,
+    "geom:longitude":5.564851,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Gustave-kleyer 18",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 24 07",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800997,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aAUiF8SXiM88cVT7auUlL_50.621578_5.564851@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475339,
+    "wof:geomhash":"34d38c3162fde9fc0479d5e18ed6d388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800997,
+            "region_id":85681691,
+            "venue_id":1041601053
+        }
+    ],
+    "wof:id":1041601053,
+    "wof:lastmodified":1473475339,
+    "wof:name":"Claude",
+    "wof:parent_id":85800997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5648508072,
+    50.6215782166,
+    5.5648508072,
+    50.6215782166
+],
+  "geometry": {"coordinates":[5.5648508072,50.6215782166],"type":"Point"}
+}

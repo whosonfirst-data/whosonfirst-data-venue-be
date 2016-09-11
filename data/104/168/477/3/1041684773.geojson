@@ -1,0 +1,77 @@
+{
+  "id": 1041684773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7024440765,51.0530166626,3.7024440765,51.0530166626",
+    "geom:latitude":51.053017,
+    "geom:longitude":3.702444,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krijgslaan 151",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 244 68 44",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NPwSBwbHsnYmT0GpZoe59_51.053017_3.702444@1306268322"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478711,
+    "wof:geomhash":"f9f3a763de0da9aeec7e9068d4fe3cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041684773
+        }
+    ],
+    "wof:id":1041684773,
+    "wof:lastmodified":1473478711,
+    "wof:name":"Comptafisc Cv",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.7024440765,
+    51.0530166626,
+    3.7024440765,
+    51.0530166626
+],
+  "geometry": {"coordinates":[3.7024440765,51.0530166626],"type":"Point"}
+}

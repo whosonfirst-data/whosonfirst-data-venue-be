@@ -1,0 +1,85 @@
+{
+  "id": 1042111695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3975901604,50.8691596985,4.3975901604,50.8691596985",
+    "geom:latitude":50.86916,
+    "geom:longitude":4.39759,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Godfroid Kurth 33",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 240 95 95",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0botYXuK8uKzGsWkqMX0UK_50.869160_4.397590@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496932,
+    "wof:geomhash":"0c82cc2d8ee680d240ecb4b731a44d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042111695
+        }
+    ],
+    "wof:id":1042111695,
+    "wof:lastmodified":1473496932,
+    "wof:name":"Samap Sa",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3975901604,
+    50.8691596985,
+    4.3975901604,
+    50.8691596985
+],
+  "geometry": {"coordinates":[4.3975901604,50.8691596985],"type":"Point"}
+}

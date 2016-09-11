@@ -1,0 +1,83 @@
+{
+  "id": 1041738595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.612475872,50.6479721069,5.612475872,50.6479721069",
+    "geom:latitude":50.647972,
+    "geom:longitude":5.612476,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Droixhe",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Crops",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 85 41",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "vegetable",
+        "fruit",
+        "agriculture",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53NU2IBM09nThilUJFDoZe_50.647972_5.612476@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480845,
+    "wof:geomhash":"c6fbb7e47dd1468d9166dffc3317af01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1041738595
+        }
+    ],
+    "wof:id":1041738595,
+    "wof:lastmodified":1473480845,
+    "wof:name":"Haenen Sa",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit",
+        "agriculture",
+        "livestock"
+    ]
+},
+  "bbox": [
+    5.612475872,
+    50.6479721069,
+    5.612475872,
+    50.6479721069
+],
+  "geometry": {"coordinates":[5.612475872,50.6479721069],"type":"Point"}
+}

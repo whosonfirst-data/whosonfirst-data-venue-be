@@ -1,0 +1,83 @@
+{
+  "id": 1058867555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5343699455,50.8908615112,4.5343699455,50.8908615112",
+    "geom:latitude":50.890862,
+    "geom:longitude":4.53437,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkhoflaan 66",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 252 68 86",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801697,
+        102191581,
+        85632997,
+        404227357,
+        101754327,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iR6IAwgvNlZLE0G0jRIsF_50.890862_4.534370@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544463,
+    "wof:geomhash":"f61d6ce1b5211f6305f80945d55dc397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754327,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801697,
+            "region_id":85681731,
+            "venue_id":1058867555
+        }
+    ],
+    "wof:id":1058867555,
+    "wof:lastmodified":1473544463,
+    "wof:name":"Multitronix",
+    "wof:parent_id":85801697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.5343699455,
+    50.8908615112,
+    4.5343699455,
+    50.8908615112
+],
+  "geometry": {"coordinates":[4.5343699455,50.8908615112],"type":"Point"}
+}

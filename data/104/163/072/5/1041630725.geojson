@@ -1,0 +1,83 @@
+{
+  "id": 1041630725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3352890015,50.867477417,4.3352890015,50.867477417",
+    "geom:latitude":50.867477,
+    "geom:longitude":4.335289,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean-bapt. Serkeyn 83",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 44 79",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "metallurgy",
+        "pipe",
+        "metalworking",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KWn5SX5rBrGzD8L8I1YlD_50.867477_4.335289@1306268504"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476547,
+    "wof:geomhash":"54c48eb3ab5d4deff3ff0484ab84388b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1041630725
+        }
+    ],
+    "wof:id":1041630725,
+    "wof:lastmodified":1473476547,
+    "wof:name":"Tibms Nv (tib)",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "pipe",
+        "metalworking",
+        "sheet"
+    ]
+},
+  "bbox": [
+    4.3352890015,
+    50.867477417,
+    4.3352890015,
+    50.867477417
+],
+  "geometry": {"coordinates":[4.3352890015,50.867477417],"type":"Point"}
+}

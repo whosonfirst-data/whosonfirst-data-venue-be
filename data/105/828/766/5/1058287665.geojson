@@ -1,0 +1,77 @@
+{
+  "id": 1058287665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2928309441,50.787071228,4.2928309441,50.787071228",
+    "geom:latitude":50.787071,
+    "geom:longitude":4.292831,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomkwekerijstraat 95",
+    "sg:city":"Sint-pieters-leeuw (ruisbroek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 59 31",
+    "sg:postcode":"1601",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801835,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jS5cvVUbYAksbCGYM4GjL_50.787071_4.292831@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518037,
+    "wof:geomhash":"df0a3fd7637edc3e2a19b4093e5083f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801835,
+            "region_id":85681731,
+            "venue_id":1058287665
+        }
+    ],
+    "wof:id":1058287665,
+    "wof:lastmodified":1473518037,
+    "wof:name":"Libretty Bvba",
+    "wof:parent_id":85801835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    4.2928309441,
+    50.787071228,
+    4.2928309441,
+    50.787071228
+],
+  "geometry": {"coordinates":[4.2928309441,50.787071228],"type":"Point"}
+}

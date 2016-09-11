@@ -1,0 +1,79 @@
+{
+  "id": 1058167819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5183610916,51.3188323975,4.5183610916,51.3188323975",
+    "geom:latitude":51.318832,
+    "geom:longitude":4.518361,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredabaan 943",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 663 53 84",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QRvmmSyktsC7r538EME9c_51.318832_4.518361@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512786,
+    "wof:geomhash":"e09bc493fbab0f88e71cf172263b6f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1058167819
+        }
+    ],
+    "wof:id":1058167819,
+    "wof:lastmodified":1473512786,
+    "wof:name":"Hellinckx J",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5183610916,
+    51.3188323975,
+    4.5183610916,
+    51.3188323975
+],
+  "geometry": {"coordinates":[4.5183610916,51.3188323975],"type":"Point"}
+}

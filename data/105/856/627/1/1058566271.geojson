@@ -1,0 +1,77 @@
+{
+  "id": 1058566271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3945198059,50.8324012756,4.3945198059,50.8324012756",
+    "geom:latitude":50.832401,
+    "geom:longitude":4.39452,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Alexandre Galopin 5",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 474 40 82 12",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O8AYK8CsBsXVnadLHAMkp_50.832401_4.394520@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531139,
+    "wof:geomhash":"9309573289dcb700b075b925c7732e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058566271
+        }
+    ],
+    "wof:id":1058566271,
+    "wof:lastmodified":1473531139,
+    "wof:name":"Regaert Marie",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3945198059,
+    50.8324012756,
+    4.3945198059,
+    50.8324012756
+],
+  "geometry": {"coordinates":[4.3945198059,50.8324012756],"type":"Point"}
+}

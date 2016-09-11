@@ -1,0 +1,77 @@
+{
+  "id": 1058287259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3923068047,50.8511581421,4.3923068047,50.8511581421",
+    "geom:latitude":50.851158,
+    "geom:longitude":4.392307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue L\u00e9on Mahillon 34",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 50 45",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NK8tb9eP22hLrq4WUmDYQ_50.851158_4.392307@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518021,
+    "wof:geomhash":"aaeb96253294f1c8cfc086c63af9729c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058287259
+        }
+    ],
+    "wof:id":1058287259,
+    "wof:lastmodified":1473518021,
+    "wof:name":"Compagnie Nationale De Nettoyage",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    4.3923068047,
+    50.8511581421,
+    4.3923068047,
+    50.8511581421
+],
+  "geometry": {"coordinates":[4.3923068047,50.8511581421],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041883525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3959851265,50.8693237305,4.3959851265,50.8693237305",
+    "geom:latitude":50.869324,
+    "geom:longitude":4.395985,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Tilleul 325",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 42 62",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q0dkxq5U365rVYZrZz7uv_50.869324_4.395985@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487229,
+    "wof:geomhash":"66eabd5cc13bead46189659e99a5e180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1041883525
+        }
+    ],
+    "wof:id":1041883525,
+    "wof:lastmodified":1473487229,
+    "wof:name":"Patisserie Martin",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3959851265,
+    50.8693237305,
+    4.3959851265,
+    50.8693237305
+],
+  "geometry": {"coordinates":[4.3959851265,50.8693237305],"type":"Point"}
+}

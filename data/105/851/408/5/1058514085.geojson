@@ -1,0 +1,79 @@
+{
+  "id": 1058514085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4226989746,50.8435516357,4.4226989746,50.8435516357",
+    "geom:latitude":50.843552,
+    "geom:longitude":4.422699,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tomberg 212",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 67 57",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801913,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WwaBc3zxqugDOIIjQAOqa_50.843552_4.422699@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528734,
+    "wof:geomhash":"1202fecd848a557fa92c2e70192ba22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801913,
+            "region_id":85681713,
+            "venue_id":1058514085
+        }
+    ],
+    "wof:id":1058514085,
+    "wof:lastmodified":1473528734,
+    "wof:name":"Pmt (promitec) Sprl",
+    "wof:parent_id":85801913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4226989746,
+    50.8435516357,
+    4.4226989746,
+    50.8435516357
+],
+  "geometry": {"coordinates":[4.4226989746,50.8435516357],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058072321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2848448753,51.2357063293,4.2848448753,51.2357063293",
+    "geom:latitude":51.235706,
+    "geom:longitude":4.284845,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trepelandstraat 1-2",
+    "sg:city":"Beveren (melsele)",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Crops",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 90 22",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "vegetable",
+        "fruit",
+        "-",
+        "grower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u9YgVh50FrLSWQFGs4Pos_51.235706_4.284845@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508407,
+    "wof:geomhash":"7d6ca0d39a3d86b7bf6e847ce0b926f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058072321
+        }
+    ],
+    "wof:id":1058072321,
+    "wof:lastmodified":1473508407,
+    "wof:name":"Van Gijsel F",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit",
+        "-",
+        "grower"
+    ]
+},
+  "bbox": [
+    4.2848448753,
+    51.2357063293,
+    4.2848448753,
+    51.2357063293
+],
+  "geometry": {"coordinates":[4.2848448753,51.2357063293],"type":"Point"}
+}

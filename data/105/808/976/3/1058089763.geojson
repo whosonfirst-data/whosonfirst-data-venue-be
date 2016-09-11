@@ -1,0 +1,77 @@
+{
+  "id": 1058089763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3527159691,50.7453117371,4.3527159691,50.7453117371",
+    "geom:latitude":50.745312,
+    "geom:longitude":4.352716,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La For\u00eat De Soignes 157",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 17 07",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69MKDucu8CeZz3EL7kz9R3_50.745312_4.352716@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509143,
+    "wof:geomhash":"857512cb6e00f8eccfb9e97b97e18ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058089763
+        }
+    ],
+    "wof:id":1058089763,
+    "wof:lastmodified":1473509143,
+    "wof:name":"Auto Invest Scrl",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3527159691,
+    50.7453117371,
+    4.3527159691,
+    50.7453117371
+],
+  "geometry": {"coordinates":[4.3527159691,50.7453117371],"type":"Point"}
+}

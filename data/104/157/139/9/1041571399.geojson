@@ -1,0 +1,77 @@
+{
+  "id": 1041571399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2957630157,50.8340339661,4.2957630157,50.8340339661",
+    "geom:latitude":50.834034,
+    "geom:longitude":4.295763,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Th\u00e9o Verbeeck 71",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 08 51",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "crematory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iQNRWkXglNAMCz5r2bxaK_50.834034_4.295763@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474096,
+    "wof:geomhash":"9e3e6b2cb5c48537483d62f71baeea1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041571399
+        }
+    ],
+    "wof:id":1041571399,
+    "wof:lastmodified":1473474096,
+    "wof:name":"Duch\u00eane L Sprl",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematory"
+    ]
+},
+  "bbox": [
+    4.2957630157,
+    50.8340339661,
+    4.2957630157,
+    50.8340339661
+],
+  "geometry": {"coordinates":[4.2957630157,50.8340339661],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1041973023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5663437843,50.626953125,5.5663437843,50.626953125",
+    "geom:latitude":50.626953,
+    "geom:longitude":5.566344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Guillemins 106",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 45 17",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691,
+        85801157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LJ5u1iu695wrhvNXGcLAn_50.626953_5.566344@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491230,
+    "wof:geomhash":"a32891cb9a65453f843d51e6d3b24820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1041973023
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1041973023
+        }
+    ],
+    "wof:id":1041973023,
+    "wof:lastmodified":1473491230,
+    "wof:name":"Press Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5663437843,
+    50.626953125,
+    5.5663437843,
+    50.626953125
+],
+  "geometry": {"coordinates":[5.5663437843,50.626953125],"type":"Point"}
+}

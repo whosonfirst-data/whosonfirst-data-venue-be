@@ -1,0 +1,77 @@
+{
+  "id": 1042011363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5726828575,50.6241912842,5.5726828575,50.6241912842",
+    "geom:latitude":50.624191,
+    "geom:longitude":5.572683,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Fragn\u00c9e 102",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 10 79",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IOJvgKfPlj2xcERZl7qRy_50.624191_5.572683@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492738,
+    "wof:geomhash":"74268b49b0bb6612273fa1bcee68e419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1042011363
+        }
+    ],
+    "wof:id":1042011363,
+    "wof:lastmodified":1473492738,
+    "wof:name":"Caf\u00c9 Le Rivageois",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5726828575,
+    50.6241912842,
+    5.5726828575,
+    50.6241912842
+],
+  "geometry": {"coordinates":[5.5726828575,50.6241912842],"type":"Point"}
+}

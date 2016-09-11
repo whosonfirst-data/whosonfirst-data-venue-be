@@ -1,0 +1,77 @@
+{
+  "id": 1058888343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3850498199,50.8272781372,4.3850498199,50.8272781372",
+    "geom:latitude":50.827278,
+    "geom:longitude":4.38505,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue F\u00e9lix Terlinden 25 Box 17",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 644 00 75",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "translator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71GvH35Lyzw0Jg7y0L06UI_50.827278_4.385050@1306268590"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545398,
+    "wof:geomhash":"23f9bf5e5f6317f2f2b034a3c31c65ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058888343
+        }
+    ],
+    "wof:id":1058888343,
+    "wof:lastmodified":1473545398,
+    "wof:name":"Letteram",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translator"
+    ]
+},
+  "bbox": [
+    4.3850498199,
+    50.8272781372,
+    4.3850498199,
+    50.8272781372
+],
+  "geometry": {"coordinates":[4.3850498199,50.8272781372],"type":"Point"}
+}

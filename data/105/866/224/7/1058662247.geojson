@@ -1,0 +1,79 @@
+{
+  "id": 1058662247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7062129974,51.1100654602,3.7062129974,51.1100654602",
+    "geom:latitude":51.110065,
+    "geom:longitude":3.706213,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoeksken 29",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 82 78",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lLR0yZzhGhEi82DJhVWu1_51.110065_3.706213@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535518,
+    "wof:geomhash":"f81246391f084db0bef37587e2077be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1058662247
+        }
+    ],
+    "wof:id":1058662247,
+    "wof:lastmodified":1473535518,
+    "wof:name":"Rvt Sint Jozef",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    3.7062129974,
+    51.1100654602,
+    3.7062129974,
+    51.1100654602
+],
+  "geometry": {"coordinates":[3.7062129974,51.1100654602],"type":"Point"}
+}

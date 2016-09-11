@@ -1,0 +1,79 @@
+{
+  "id": 1058365435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7443571091,51.0550994873,3.7443571091,51.0550994873",
+    "geom:latitude":51.055099,
+    "geom:longitude":3.744357,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nieuwhof 31",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 20 03",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I364T4LwK1c4q2RKLrELK_51.055099_3.744357@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521667,
+    "wof:geomhash":"ec7b20985a8f227a4bd3fa542724a85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058365435
+        }
+    ],
+    "wof:id":1058365435,
+    "wof:lastmodified":1473521667,
+    "wof:name":"Van Vlaenderen Luc",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    3.7443571091,
+    51.0550994873,
+    3.7443571091,
+    51.0550994873
+],
+  "geometry": {"coordinates":[3.7443571091,51.0550994873],"type":"Point"}
+}

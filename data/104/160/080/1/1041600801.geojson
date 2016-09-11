@@ -1,0 +1,81 @@
+{
+  "id": 1041600801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5989060402,50.6253509521,5.5989060402,50.6253509521",
+    "geom:latitude":50.625351,
+    "geom:longitude":5.598906,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Grivegn\u00e9e 6",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 32 40",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DT6CyJgCRXD2fxe5WAzjC_50.625351_5.598906@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475328,
+    "wof:geomhash":"e2b215375810b787ed5dff72e39102b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1041600801
+        }
+    ],
+    "wof:id":1041600801,
+    "wof:lastmodified":1473475328,
+    "wof:name":"Betty",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5989060402,
+    50.6253509521,
+    5.5989060402,
+    50.6253509521
+],
+  "geometry": {"coordinates":[5.5989060402,50.6253509521],"type":"Point"}
+}

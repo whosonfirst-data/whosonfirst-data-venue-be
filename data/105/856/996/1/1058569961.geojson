@@ -1,0 +1,77 @@
+{
+  "id": 1058569961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7263410091,51.0436630249,3.7263410091,51.0436630249",
+    "geom:latitude":51.043663,
+    "geom:longitude":3.726341,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-pietersnieuwstraat 115",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 15 04",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aK2EERmiHfNj3PXY7pMd1_51.043663_3.726341@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531305,
+    "wof:geomhash":"314b1b6ad106670e561652069f86fe15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058569961
+        }
+    ],
+    "wof:id":1058569961,
+    "wof:lastmodified":1473531305,
+    "wof:name":"Van Den Abeele Christian",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7263410091,
+    51.0436630249,
+    3.7263410091,
+    51.0436630249
+],
+  "geometry": {"coordinates":[3.7263410091,51.0436630249],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058204905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4585261345,51.3961219788,4.4585261345,51.3961219788",
+    "geom:latitude":51.396122,
+    "geom:longitude":4.458526,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Den Dijk 35",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 35 10",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ARrvVgyuPtng823GPmXeU_51.396122_4.458526@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514398,
+    "wof:geomhash":"aa698c43f1ec780ae00b5ab21ba4ddc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058204905
+        }
+    ],
+    "wof:id":1058204905,
+    "wof:lastmodified":1473514398,
+    "wof:name":"Villa Odyssee",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4585261345,
+    51.3961219788,
+    4.4585261345,
+    51.3961219788
+],
+  "geometry": {"coordinates":[4.4585261345,51.3961219788],"type":"Point"}
+}

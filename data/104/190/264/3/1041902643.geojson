@@ -1,0 +1,72 @@
+{
+  "id": 1041902643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5725908279,50.6450042725,5.5725908279,50.6450042725",
+    "geom:latitude":50.645004,
+    "geom:longitude":5.572591,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Colonies 1",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 232 47 47",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7besCr4073IfmbMfwyKFpW_50.645004_5.572591@1306268359"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488034,
+    "wof:geomhash":"8faa2b9a67e8131be3c44b4d6fd059a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041902643
+        }
+    ],
+    "wof:id":1041902643,
+    "wof:lastmodified":1473488034,
+    "wof:name":"Record Bank Cv",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5725908279,
+    50.6450042725,
+    5.5725908279,
+    50.6450042725
+],
+  "geometry": {"coordinates":[5.5725908279,50.6450042725],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058563487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5709080696,50.6335525513,5.5709080696,50.6335525513",
+    "geom:latitude":50.633553,
+    "geom:longitude":5.570908,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Fr\u00e8re-orban 21",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 44 94",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801883,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RLW2tfe3SM6DzCv4t16pk_50.633553_5.570908@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531001,
+    "wof:geomhash":"0f64ad6e40b4d33dee913ca3008e6d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801883,
+            "region_id":85681691,
+            "venue_id":1058563487
+        }
+    ],
+    "wof:id":1058563487,
+    "wof:lastmodified":1473531001,
+    "wof:name":"Mersch Nathalie",
+    "wof:parent_id":85801883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5709080696,
+    50.6335525513,
+    5.5709080696,
+    50.6335525513
+],
+  "geometry": {"coordinates":[5.5709080696,50.6335525513],"type":"Point"}
+}

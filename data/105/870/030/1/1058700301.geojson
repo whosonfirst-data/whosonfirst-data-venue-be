@@ -1,0 +1,79 @@
+{
+  "id": 1058700301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3946051598,51.1691131592,4.3946051598,51.1691131592",
+    "geom:latitude":51.169113,
+    "geom:longitude":4.394605,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Verbekehofdreef 44",
+    "sg:city":"Wilrijk",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 820 41 10",
+    "sg:postcode":"2610",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hbDMHG1YmYhVOlmYFTaCx_51.169113_4.394605@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537132,
+    "wof:geomhash":"3a51560eca13a587b641e399267db619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058700301
+        }
+    ],
+    "wof:id":1058700301,
+    "wof:lastmodified":1473537132,
+    "wof:name":"Vervoer- En Verhuisonderneming Van Goethem Ge Nv",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    4.3946051598,
+    51.1691131592,
+    4.3946051598,
+    51.1691131592
+],
+  "geometry": {"coordinates":[4.3946051598,51.1691131592],"type":"Point"}
+}

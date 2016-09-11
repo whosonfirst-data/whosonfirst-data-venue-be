@@ -1,0 +1,76 @@
+{
+  "id": 1058996379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.36201,50.828686,4.36201,50.828686",
+    "geom:latitude":50.828686,
+    "geom:longitude":4.36201,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Louise 149 12th Floor",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"B-1050",
+    "sg:tags":[
+        "mobile-business-platform"
+    ],
+    "sg:website":"http://www.roamware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nEoxHvWNuvxhHphRqXnIo_50.828686_4.362010@1308163238"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550369,
+    "wof:geomhash":"9a575e40dc850d49d2c6a7ba3cf92c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058996379
+        }
+    ],
+    "wof:id":1058996379,
+    "wof:lastmodified":1473550369,
+    "wof:name":"Roamware",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-business-platform"
+    ]
+},
+  "bbox": [
+    4.36201,
+    50.828686,
+    4.36201,
+    50.828686
+],
+  "geometry": {"coordinates":[4.36201,50.828686],"type":"Point"}
+}

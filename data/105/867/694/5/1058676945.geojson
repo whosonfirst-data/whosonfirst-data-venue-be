@@ -1,0 +1,72 @@
+{
+  "id": 1058676945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7084870338,51.0666160583,3.7084870338,51.0666160583",
+    "geom:latitude":51.066616,
+    "geom:longitude":3.708487,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frans Van Ryhovelaan 15b1a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 15 04",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kERukjlYZTDDKttrXFDgq_51.066616_3.708487@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536146,
+    "wof:geomhash":"a16072135693c03f89b00f6b2d6044dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058676945
+        }
+    ],
+    "wof:id":1058676945,
+    "wof:lastmodified":1473536146,
+    "wof:name":"Restaurant Flamingo",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7084870338,
+    51.0666160583,
+    3.7084870338,
+    51.0666160583
+],
+  "geometry": {"coordinates":[3.7084870338,51.0666160583],"type":"Point"}
+}

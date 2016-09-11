@@ -1,0 +1,83 @@
+{
+  "id": 1058176587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4699130058,50.8902931213,4.4699130058,50.8902931213",
+    "geom:latitude":50.890293,
+    "geom:longitude":4.469913,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Olmenstraat 7",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 13 56",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801287,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hLku8Y36niO6vEvs6prdK_50.890293_4.469913@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513187,
+    "wof:geomhash":"320a6776b85a310fb08ffebbc700f52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801287,
+            "region_id":85681731,
+            "venue_id":1058176587
+        }
+    ],
+    "wof:id":1058176587,
+    "wof:lastmodified":1473513187,
+    "wof:name":"Lenaerts R",
+    "wof:parent_id":85801287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4699130058,
+    50.8902931213,
+    4.4699130058,
+    50.8902931213
+],
+  "geometry": {"coordinates":[4.4699130058,50.8902931213],"type":"Point"}
+}

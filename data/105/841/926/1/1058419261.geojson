@@ -1,0 +1,83 @@
+{
+  "id": 1058419261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3322649002,50.8416862488,4.3322649002,50.8416862488",
+    "geom:latitude":50.841686,
+    "geom:longitude":4.332265,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Clemenceau 103",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 95 70",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "motorbike",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W4e4IAykjEw5humeA17ar_50.841686_4.332265@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524104,
+    "wof:geomhash":"7b5031a55ac3733603f3ffbc0d5e25cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1058419261
+        }
+    ],
+    "wof:id":1058419261,
+    "wof:lastmodified":1473524104,
+    "wof:name":"Kerozene Sprl",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "motorbike",
+        "equipment"
+    ]
+},
+  "bbox": [
+    4.3322649002,
+    50.8416862488,
+    4.3322649002,
+    50.8416862488
+],
+  "geometry": {"coordinates":[4.3322649002,50.8416862488],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041828973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3509478569,50.8242111206,4.3509478569,50.8242111206",
+    "geom:latitude":50.824211,
+    "geom:longitude":4.350948,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Waterloo 344",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 71 72",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wycF3qyzpCAxFgqu3ssir_50.824211_4.350948@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484893,
+    "wof:geomhash":"006c6463348c2b8f75df640a344ef145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041828973
+        }
+    ],
+    "wof:id":1041828973,
+    "wof:lastmodified":1473484893,
+    "wof:name":"E. Maes",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3509478569,
+    50.8242111206,
+    4.3509478569,
+    50.8242111206
+],
+  "geometry": {"coordinates":[4.3509478569,50.8242111206],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058574407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3307127953,50.8022117615,4.3307127953,50.8022117615",
+    "geom:latitude":50.802212,
+    "geom:longitude":4.330713,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'aulne 93 Box 14",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 06 75",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J2FGXU3HKmkWCH3O1kJQ4_50.802212_4.330713@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531502,
+    "wof:geomhash":"23c4f6d5a992084b64b1d76fe47d1455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058574407
+        }
+    ],
+    "wof:id":1058574407,
+    "wof:lastmodified":1473531502,
+    "wof:name":"Zicot M-h",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3307127953,
+    50.8022117615,
+    4.3307127953,
+    50.8022117615
+],
+  "geometry": {"coordinates":[4.3307127953,50.8022117615],"type":"Point"}
+}

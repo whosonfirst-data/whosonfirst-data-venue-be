@@ -1,0 +1,77 @@
+{
+  "id": 1041583747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3849511147,50.8132629395,4.3849511147,50.8132629395",
+    "geom:latitude":50.813263,
+    "geom:longitude":4.384951,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Adolphe Buyl 154",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 641 89 30",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consulate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FU8CUPRc6wvO00qdXJ86s_50.813263_4.384951@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474605,
+    "wof:geomhash":"57af347e1b2a0ebc692924d5d7b6d71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041583747
+        }
+    ],
+    "wof:id":1041583747,
+    "wof:lastmodified":1473474605,
+    "wof:name":"R\u00e9publique Tch\u00e8que (ambassade De La)",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulate"
+    ]
+},
+  "bbox": [
+    4.3849511147,
+    50.8132629395,
+    4.3849511147,
+    50.8132629395
+],
+  "geometry": {"coordinates":[4.3849511147,50.8132629395],"type":"Point"}
+}

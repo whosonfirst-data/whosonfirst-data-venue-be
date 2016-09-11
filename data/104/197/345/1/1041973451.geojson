@@ -1,0 +1,77 @@
+{
+  "id": 1041973451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5910801888,50.6490783691,5.5910801888,50.6490783691",
+    "geom:latitude":50.649078,
+    "geom:longitude":5.59108,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-l\u00e9onard 218",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 30 60",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BMq9oSFIiBa4iFxbr7MfY_50.649078_5.591080@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491245,
+    "wof:geomhash":"a2f31ccb1f18ec7a6427075fb0efaf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1041973451
+        }
+    ],
+    "wof:id":1041973451,
+    "wof:lastmodified":1473491245,
+    "wof:name":"Vieux Montagne",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5910801888,
+    50.6490783691,
+    5.5910801888,
+    50.6490783691
+],
+  "geometry": {"coordinates":[5.5910801888,50.6490783691],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041972583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.674279213,50.6392326355,5.674279213,50.6392326355",
+    "geom:latitude":50.639233,
+    "geom:longitude":5.674279,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Vandervelde 213",
+    "sg:city":"Beyne-heusay (queue-du-bois)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 18 58",
+    "sg:postcode":"4610",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801807,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vrW6xehcUOTVXdZ4rrD2d_50.639233_5.674279@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491196,
+    "wof:geomhash":"d3369a1945e06f76235ee5840d99b3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801807,
+            "region_id":85681691,
+            "venue_id":1041972583
+        }
+    ],
+    "wof:id":1041972583,
+    "wof:lastmodified":1473491196,
+    "wof:name":"Masson F",
+    "wof:parent_id":85801807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.674279213,
+    50.6392326355,
+    5.674279213,
+    50.6392326355
+],
+  "geometry": {"coordinates":[5.674279213,50.6392326355],"type":"Point"}
+}

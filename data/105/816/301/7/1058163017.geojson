@@ -1,0 +1,79 @@
+{
+  "id": 1058163017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2890930176,50.8295440674,4.2890930176,50.8295440674",
+    "geom:latitude":50.829544,
+    "geom:longitude":4.289093,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Antoine Nys 17",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 10 36",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IKJDl9Gawn9YZtyMOZtcl_50.829544_4.289093@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512561,
+    "wof:geomhash":"b942b88230bc49db112a7fdfb1a03bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1058163017
+        }
+    ],
+    "wof:id":1058163017,
+    "wof:lastmodified":1473512561,
+    "wof:name":"Devos Christian",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2890930176,
+    50.8295440674,
+    4.2890930176,
+    50.8295440674
+],
+  "geometry": {"coordinates":[4.2890930176,50.8295440674],"type":"Point"}
+}

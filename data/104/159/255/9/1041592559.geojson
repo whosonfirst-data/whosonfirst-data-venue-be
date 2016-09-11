@@ -1,0 +1,81 @@
+{
+  "id": 1041592559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6022977829,50.6367111206,5.6022977829,50.6367111206",
+    "geom:latitude":50.636711,
+    "geom:longitude":5.602298,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Robermont 234",
+    "sg:city":"Li\u00e8ge 1 (bressoux)",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 06 00",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I1yXRVXbmmk2lgT3s1cHR_50.636711_5.602298@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474984,
+    "wof:geomhash":"ab42b7edab8356ecc480dbabf0927e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041592559
+        }
+    ],
+    "wof:id":1041592559,
+    "wof:lastmodified":1473474984,
+    "wof:name":"Annie",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    5.6022977829,
+    50.6367111206,
+    5.6022977829,
+    50.6367111206
+],
+  "geometry": {"coordinates":[5.6022977829,50.6367111206],"type":"Point"}
+}

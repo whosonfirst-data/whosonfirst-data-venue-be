@@ -1,0 +1,77 @@
+{
+  "id": 1041645385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6165471077,50.6250457764,5.6165471077,50.6250457764",
+    "geom:latitude":50.625046,
+    "geom:longitude":5.616547,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Nicolas-spiroux 219",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 366 07 76",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Lq2b6XyuHn0YGkWlh0Wo_50.625046_5.616547@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477155,
+    "wof:geomhash":"6e5450e9a50f9a98c8aae0005bee5647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1041645385
+        }
+    ],
+    "wof:id":1041645385,
+    "wof:lastmodified":1473477155,
+    "wof:name":"Charlet Daniel",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.6165471077,
+    50.6250457764,
+    5.6165471077,
+    50.6250457764
+],
+  "geometry": {"coordinates":[5.6165471077,50.6250457764],"type":"Point"}
+}

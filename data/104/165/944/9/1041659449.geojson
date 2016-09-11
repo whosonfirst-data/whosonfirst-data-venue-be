@@ -1,0 +1,79 @@
+{
+  "id": 1041659449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4050831795,51.2310714722,4.4050831795,51.2310714722",
+    "geom:latitude":51.231071,
+    "geom:longitude":4.405083,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amsterdamstraat 24",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 226 07 31",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16sPlpfhcQekzozcu0rHj1_51.231071_4.405083@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477734,
+    "wof:geomhash":"ed83ac3958038ca1536b6e8ba673629c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041659449
+        }
+    ],
+    "wof:id":1041659449,
+    "wof:lastmodified":1473477734,
+    "wof:name":"Coiffure Hairport",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.4050831795,
+    51.2310714722,
+    4.4050831795,
+    51.2310714722
+],
+  "geometry": {"coordinates":[4.4050831795,51.2310714722],"type":"Point"}
+}

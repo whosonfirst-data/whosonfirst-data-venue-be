@@ -1,0 +1,79 @@
+{
+  "id": 1042247989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.555618763,50.642364502,5.555618763,50.642364502",
+    "geom:latitude":50.642365,
+    "geom:longitude":5.555619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Plumier 9",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 01 50",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "plant",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Krg3fD3UyveZc9spoG9re_50.642365_5.555619@1306268422"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504164,
+    "wof:geomhash":"abac2a5ec0847721f36f05c50657791a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042247989
+        }
+    ],
+    "wof:id":1042247989,
+    "wof:lastmodified":1473504164,
+    "wof:name":"Eiv S.p.r.l.",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "industrial"
+    ]
+},
+  "bbox": [
+    5.555618763,
+    50.642364502,
+    5.555618763,
+    50.642364502
+],
+  "geometry": {"coordinates":[5.555618763,50.642364502],"type":"Point"}
+}

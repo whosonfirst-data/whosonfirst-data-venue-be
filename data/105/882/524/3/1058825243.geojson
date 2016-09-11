@@ -1,0 +1,73 @@
+{
+  "id": 1058825243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5179190636,51.2040596008,4.5179190636,51.2040596008",
+    "geom:latitude":51.20406,
+    "geom:longitude":4.517919,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoevenstraat 25",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 64 34",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "sport",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y8JZfsckyGKOigzrph2HN_51.204060_4.517919@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542666,
+    "wof:geomhash":"57c5ce021a4664870dd916e4858ee77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058825243
+        }
+    ],
+    "wof:id":1058825243,
+    "wof:lastmodified":1473542666,
+    "wof:name":"Bego Sport Wommelgem Bvba",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "-"
+    ]
+},
+  "bbox": [
+    4.5179190636,
+    51.2040596008,
+    4.5179190636,
+    51.2040596008
+],
+  "geometry": {"coordinates":[4.5179190636,51.2040596008],"type":"Point"}
+}

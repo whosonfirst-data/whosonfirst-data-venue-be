@@ -1,0 +1,77 @@
+{
+  "id": 1042057905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2776098251,50.8352355957,4.2776098251,50.8352355957",
+    "geom:latitude":50.835236,
+    "geom:longitude":4.27761,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'itterbeek 402",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 85 59",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ke2d4a7Hmca90bGAxKNqc_50.835236_4.277610@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494586,
+    "wof:geomhash":"0179a262c4dd70191fee52fe1676cc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1042057905
+        }
+    ],
+    "wof:id":1042057905,
+    "wof:lastmodified":1473494586,
+    "wof:name":"Bon Air (pharmacie Du)",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.2776098251,
+    50.8352355957,
+    4.2776098251,
+    50.8352355957
+],
+  "geometry": {"coordinates":[4.2776098251,50.8352355957],"type":"Point"}
+}

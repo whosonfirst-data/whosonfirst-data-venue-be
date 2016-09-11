@@ -1,0 +1,83 @@
+{
+  "id": 1042208465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5811347961,50.6376190186,5.5811347961,50.6376190186",
+    "geom:latitude":50.637619,
+    "geom:longitude":5.581135,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai De L'ourthe 39-42",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 10 39",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kLJbsohqzK9MABpRuE0VV_50.637619_5.581135@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502355,
+    "wof:geomhash":"9f53a9b1c2c68c567ec719e40c1ced33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042208465
+        }
+    ],
+    "wof:id":1042208465,
+    "wof:lastmodified":1473502355,
+    "wof:name":"Weemaes M",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.5811347961,
+    50.6376190186,
+    5.5811347961,
+    50.6376190186
+],
+  "geometry": {"coordinates":[5.5811347961,50.6376190186],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058155289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7102780342,51.0293502808,3.7102780342,51.0293502808",
+    "geom:latitude":51.02935,
+    "geom:longitude":3.710278,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maaltebruggestraat 143",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 329 65 89",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cgfbeyVUDUs4QxM5g2s28_51.029350_3.710278@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512239,
+    "wof:geomhash":"8a48261c423b1fe1b38b746e8adf1ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058155289
+        }
+    ],
+    "wof:id":1058155289,
+    "wof:lastmodified":1473512239,
+    "wof:name":"Bockaert Geert",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7102780342,
+    51.0293502808,
+    3.7102780342,
+    51.0293502808
+],
+  "geometry": {"coordinates":[3.7102780342,51.0293502808],"type":"Point"}
+}

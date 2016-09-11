@@ -1,0 +1,83 @@
+{
+  "id": 1041841435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3110580444,50.8195381165,4.3110580444,50.8195381165",
+    "geom:latitude":50.819538,
+    "geom:longitude":4.311058,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Cerf 396",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 27 42",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "breakdown",
+        "automobile",
+        "-",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38YqF5h9qdauiFMDNlnUEP_50.819538_4.311058@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485428,
+    "wof:geomhash":"48594cf265e93372a71ba2fc3cbd466f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041841435
+        }
+    ],
+    "wof:id":1041841435,
+    "wof:lastmodified":1473485428,
+    "wof:name":"Massaux J",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakdown",
+        "automobile",
+        "-",
+        "recovery"
+    ]
+},
+  "bbox": [
+    4.3110580444,
+    50.8195381165,
+    4.3110580444,
+    50.8195381165
+],
+  "geometry": {"coordinates":[4.3110580444,50.8195381165],"type":"Point"}
+}

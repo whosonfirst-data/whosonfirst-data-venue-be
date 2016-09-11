@@ -1,0 +1,77 @@
+{
+  "id": 1058562427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3179049492,50.7923088074,4.3179049492,50.7923088074",
+    "geom:latitude":50.792309,
+    "geom:longitude":4.317905,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fleurbeek 30",
+    "sg:city":"Drogenbos",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 34 51 23",
+    "sg:postcode":"1620",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KR0Jbw3DcWGLn3yBNquUr_50.792309_4.317905@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530942,
+    "wof:geomhash":"c5fa090fd7c0b8bdb86ebc8ce9f8e85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058562427
+        }
+    ],
+    "wof:id":1058562427,
+    "wof:lastmodified":1473530942,
+    "wof:name":"L\u00e9v\u00eaque Fr\u00e9d\u00e9rique",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3179049492,
+    50.7923088074,
+    4.3179049492,
+    50.7923088074
+],
+  "geometry": {"coordinates":[4.3179049492,50.7923088074],"type":"Point"}
+}

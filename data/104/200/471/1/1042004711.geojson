@@ -1,0 +1,77 @@
+{
+  "id": 1042004711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3443989754,50.8638038635,4.3443989754,50.8638038635",
+    "geom:latitude":50.863804,
+    "geom:longitude":4.344399,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Picard 84",
+    "sg:city":"Sint-jans-molenbeek/molenbeek-saint-jean",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 28 53",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22iDpOTru1Y9Fg27fYwER0_50.863804_4.344399@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492478,
+    "wof:geomhash":"bfa1accfda86b5a7a8f431d87aa74c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042004711
+        }
+    ],
+    "wof:id":1042004711,
+    "wof:lastmodified":1473492478,
+    "wof:name":"Cafe-ben",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3443989754,
+    50.8638038635,
+    4.3443989754,
+    50.8638038635
+],
+  "geometry": {"coordinates":[4.3443989754,50.8638038635],"type":"Point"}
+}

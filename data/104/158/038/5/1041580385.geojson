@@ -1,0 +1,77 @@
+{
+  "id": 1041580385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4515299797,50.8469314575,4.4515299797,50.8469314575",
+    "geom:latitude":50.846931,
+    "geom:longitude":4.45153,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Albert Dumont 1",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 14 08",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801353,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yRjmgVhf9Cn8oA06dVEBd_50.846931_4.451530@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474470,
+    "wof:geomhash":"d2bd1508263b89cd6ffc64b207d83080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1041580385
+        }
+    ],
+    "wof:id":1041580385,
+    "wof:lastmodified":1473474470,
+    "wof:name":"St-jozefsschool",
+    "wof:parent_id":85801353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.4515299797,
+    50.8469314575,
+    4.4515299797,
+    50.8469314575
+],
+  "geometry": {"coordinates":[4.4515299797,50.8469314575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1058171879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6964178085,50.8791999817,4.6964178085,50.8791999817",
+    "geom:latitude":50.8792,
+    "geom:longitude":4.696418,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Onze-lieve-vrouwstraat 28",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 29 38 26",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Brnh7P9SkAtzjuX9RJqd3_50.879200_4.696418@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512983,
+    "wof:geomhash":"cbe06b58fe4045a31347836213bb431c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058171879
+        }
+    ],
+    "wof:id":1058171879,
+    "wof:lastmodified":1473512983,
+    "wof:name":"Leuridan O",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6964178085,
+    50.8791999817,
+    4.6964178085,
+    50.8791999817
+],
+  "geometry": {"coordinates":[4.6964178085,50.8791999817],"type":"Point"}
+}

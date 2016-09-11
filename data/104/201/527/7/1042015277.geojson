@@ -1,0 +1,77 @@
+{
+  "id": 1042015277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.345012188,50.8239784241,4.345012188,50.8239784241",
+    "geom:latitude":50.823978,
+    "geom:longitude":4.345012,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Savoie 68",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 539 14 19",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NDD1ccqz3Y6qHboVAewW8_50.823978_4.345012@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492886,
+    "wof:geomhash":"1f34999987b50f569773b2d84b0e6b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042015277
+        }
+    ],
+    "wof:id":1042015277,
+    "wof:lastmodified":1473492886,
+    "wof:name":"Chez Moeder Lambic",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.345012188,
+    50.8239784241,
+    4.345012188,
+    50.8239784241
+],
+  "geometry": {"coordinates":[4.345012188,50.8239784241],"type":"Point"}
+}

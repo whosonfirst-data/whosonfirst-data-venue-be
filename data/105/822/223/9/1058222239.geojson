@@ -1,0 +1,81 @@
+{
+  "id": 1058222239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4103660583,51.2249946594,4.4103660583,51.2249946594",
+    "geom:latitude":51.224995,
+    "geom:longitude":4.410366,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paardenmarkt 50",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 226 59 70",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cIhbobpMJmCwS2r0OoPT6_51.224995_4.410366@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515180,
+    "wof:geomhash":"6199173d94d62078603ef04ad47805b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1058222239
+        }
+    ],
+    "wof:id":1058222239,
+    "wof:lastmodified":1473515180,
+    "wof:name":"Ortali Import Export Bvba",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4103660583,
+    51.2249946594,
+    4.4103660583,
+    51.2249946594
+],
+  "geometry": {"coordinates":[4.4103660583,51.2249946594],"type":"Point"}
+}

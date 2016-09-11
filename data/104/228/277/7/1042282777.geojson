@@ -1,0 +1,78 @@
+{
+  "id": 1042282777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3889551163,50.8542480469,4.3889551163,50.8542480469",
+    "geom:latitude":50.854248,
+    "geom:longitude":4.388955,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Chazal 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[],
+    "sg:orig_category":"Epiceries",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 64 20",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T982Vnqvk2y31sVdtBGOs_50.854248_4.388955@1306268427"
+    },
+    "wof:country":"BE",
+    "wof:created":1473505777,
+    "wof:geomhash":"e4639f981842bcb6d5864e6b6fb84325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042282777
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042282777
+        }
+    ],
+    "wof:id":1042282777,
+    "wof:lastmodified":1473505777,
+    "wof:name":"Oremis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3889551163,
+    50.8542480469,
+    4.3889551163,
+    50.8542480469
+],
+  "geometry": {"coordinates":[4.3889551163,50.8542480469],"type":"Point"}
+}

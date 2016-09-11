@@ -1,0 +1,81 @@
+{
+  "id": 1041914369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3528308868,50.8490943909,4.3528308868,50.8490943909",
+    "geom:latitude":50.849094,
+    "geom:longitude":4.352831,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kleerkoperstraat 41/43",
+    "sg:city":"Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 51 49",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "shop",
+        "base",
+        "telecommunicatieapparaten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nYrXWTlWDfzfHaI1IzUdc_50.849094_4.352831@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488492,
+    "wof:geomhash":"eb1ec2d4370c0ce8dc6e97e1465d4c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041914369
+        }
+    ],
+    "wof:id":1041914369,
+    "wof:lastmodified":1473488492,
+    "wof:name":"Orange Bruxelles",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "base",
+        "telecommunicatieapparaten"
+    ]
+},
+  "bbox": [
+    4.3528308868,
+    50.8490943909,
+    4.3528308868,
+    50.8490943909
+],
+  "geometry": {"coordinates":[4.3528308868,50.8490943909],"type":"Point"}
+}

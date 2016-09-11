@@ -1,0 +1,61 @@
+{
+  "id": 1041978151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4928350449,50.5927581787,5.4928350449,50.5927581787",
+    "geom:latitude":50.592758,
+    "geom:longitude":5.492835,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Bergerie 28",
+    "sg:city":"Seraing",
+    "sg:classifiers":[],
+    "sg:orig_category":"Boucheries",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 30 17",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n28qzCC4x0vNUKcSk0t1w_50.592758_5.492835@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491421,
+    "wof:geomhash":"eb4799347596fc358ce73c194c167048",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1041978151
+        }
+    ],
+    "wof:id":1041978151,
+    "wof:lastmodified":1473491421,
+    "wof:name":"Jacques Rousseaux",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4928350449,
+    50.5927581787,
+    5.4928350449,
+    50.5927581787
+],
+  "geometry": {"coordinates":[5.4928350449,50.5927581787],"type":"Point"}
+}

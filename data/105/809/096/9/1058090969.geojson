@@ -1,0 +1,77 @@
+{
+  "id": 1058090969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4262871742,50.9206466675,4.4262871742,50.9206466675",
+    "geom:latitude":50.920647,
+    "geom:longitude":4.426287,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaarbeeklei 176",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 13 08",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801947,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4crasPu4X2I78mhYxMeP1y_50.920647_4.426287@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509191,
+    "wof:geomhash":"052ce5d744c88531cbb6b90e871615ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801947,
+            "region_id":85681731,
+            "venue_id":1058090969
+        }
+    ],
+    "wof:id":1058090969,
+    "wof:lastmodified":1473509191,
+    "wof:name":"De Coster",
+    "wof:parent_id":85801947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4262871742,
+    50.9206466675,
+    4.4262871742,
+    50.9206466675
+],
+  "geometry": {"coordinates":[4.4262871742,50.9206466675],"type":"Point"}
+}

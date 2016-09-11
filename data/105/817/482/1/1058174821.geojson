@@ -1,0 +1,83 @@
+{
+  "id": 1058174821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7542259693,51.0442276001,3.7542259693,51.0442276001",
+    "geom:latitude":51.044228,
+    "geom:longitude":3.754226,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tweekapellenstraat 40",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 79 95",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70c8Mj1nt28nrt8Xokm0VU_51.044228_3.754226@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513105,
+    "wof:geomhash":"4dc1a5656867c7ab9193889cbc189917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058174821
+        }
+    ],
+    "wof:id":1058174821,
+    "wof:lastmodified":1473513105,
+    "wof:name":"Andora Bvba",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    3.7542259693,
+    51.0442276001,
+    3.7542259693,
+    51.0442276001
+],
+  "geometry": {"coordinates":[3.7542259693,51.0442276001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058138393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6045107841,50.6309776306,5.6045107841,50.6309776306",
+    "geom:latitude":50.630978,
+    "geom:longitude":5.604511,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jules Destree 48",
+    "sg:city":"Grivegnee",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 79 44",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EVTiL8pt5FUGW01mwYWF5_50.630978_5.604511@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511381,
+    "wof:geomhash":"d2f8419cfa7f7a477c345a7ede41bbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058138393
+        }
+    ],
+    "wof:id":1058138393,
+    "wof:lastmodified":1473511381,
+    "wof:name":"Colette (coiffure)",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.6045107841,
+    50.6309776306,
+    5.6045107841,
+    50.6309776306
+],
+  "geometry": {"coordinates":[5.6045107841,50.6309776306],"type":"Point"}
+}

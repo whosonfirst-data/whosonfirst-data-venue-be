@@ -1,0 +1,79 @@
+{
+  "id": 1058875409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3486499786,50.8547286987,4.3486499786,50.8547286987",
+    "geom:latitude":50.854729,
+    "geom:longitude":4.34865,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marcq 79",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 95 24",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tie",
+        "scarf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nk6pOKL9OB2WN0an96llo_50.854729_4.348650@1306268588"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544803,
+    "wof:geomhash":"770bf42adb664e5f687787a362643e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058875409
+        }
+    ],
+    "wof:id":1058875409,
+    "wof:lastmodified":1473544803,
+    "wof:name":"I-ties",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tie",
+        "scarf"
+    ]
+},
+  "bbox": [
+    4.3486499786,
+    50.8547286987,
+    4.3486499786,
+    50.8547286987
+],
+  "geometry": {"coordinates":[4.3486499786,50.8547286987],"type":"Point"}
+}

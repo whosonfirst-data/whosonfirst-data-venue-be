@@ -1,0 +1,83 @@
+{
+  "id": 1058041261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3647351265,50.8188705444,4.3647351265,50.8188705444",
+    "geom:latitude":50.818871,
+    "geom:longitude":4.364735,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hector Denis 54",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 59 59",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "detection",
+        "installation",
+        "material",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PuKxwUWJ5FgEHQXvVTU0R_50.818871_4.364735@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507157,
+    "wof:geomhash":"5c29c291df5879dc9679ffa092f82b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058041261
+        }
+    ],
+    "wof:id":1058041261,
+    "wof:lastmodified":1473507157,
+    "wof:name":"Electronic Security Devices",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "installation",
+        "material",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3647351265,
+    50.8188705444,
+    4.3647351265,
+    50.8188705444
+],
+  "geometry": {"coordinates":[4.3647351265,50.8188705444],"type":"Point"}
+}

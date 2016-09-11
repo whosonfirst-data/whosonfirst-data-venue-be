@@ -1,0 +1,79 @@
+{
+  "id": 1041540025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3540549278,50.8435745239,4.3540549278,50.8435745239",
+    "geom:latitude":50.843575,
+    "geom:longitude":4.354055,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De L'empereur 5a",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 14 09",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "antiquarian",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dUWtnFpp9diJL5TBWwPT7_50.843575_4.354055@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472795,
+    "wof:geomhash":"4ff41eec54b312140d8a8ef0b43340fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041540025
+        }
+    ],
+    "wof:id":1041540025,
+    "wof:lastmodified":1473472795,
+    "wof:name":"Baes D",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antiquarian",
+        "trade"
+    ]
+},
+  "bbox": [
+    4.3540549278,
+    50.8435745239,
+    4.3540549278,
+    50.8435745239
+],
+  "geometry": {"coordinates":[4.3540549278,50.8435745239],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1041610127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6976041794,50.8802070618,4.6976041794,50.8802070618",
+    "geom:latitude":50.880207,
+    "geom:longitude":4.697604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsestraat 52",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 29 31 11",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dsmNDgZ24SnbyGRgvjZP2_50.880207_4.697604@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475712,
+    "wof:geomhash":"aa2f7e6e5daae46205d44e61d2c71426",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1041610127
+        }
+    ],
+    "wof:id":1041610127,
+    "wof:lastmodified":1473475712,
+    "wof:name":"Ibis",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6976041794,
+    50.8802070618,
+    4.6976041794,
+    50.8802070618
+],
+  "geometry": {"coordinates":[4.6976041794,50.8802070618],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042067119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3220472336,51.2189407349,4.3220472336,51.2189407349",
+    "geom:latitude":51.218941,
+    "geom:longitude":4.322047,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorp West 70",
+    "sg:city":"Zwijndrecht",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 252 82 10",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUtK2FkEmujPAgJ1UnFud_51.218941_4.322047@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494956,
+    "wof:geomhash":"00c6035ad3627b4fd948e5d39e8306cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1042067119
+        }
+    ],
+    "wof:id":1042067119,
+    "wof:lastmodified":1473494956,
+    "wof:name":"Ooms (droogkuis)",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    4.3220472336,
+    51.2189407349,
+    4.3220472336,
+    51.2189407349
+],
+  "geometry": {"coordinates":[4.3220472336,51.2189407349],"type":"Point"}
+}

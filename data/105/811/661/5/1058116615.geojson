@@ -1,0 +1,90 @@
+{
+  "id": 1058116615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3871870041,50.8540420532,4.3871870041,50.8540420532",
+    "geom:latitude":50.854042,
+    "geom:longitude":4.387187,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Coosemans 25",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 13 26",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "graphic",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F36it9kYfme6KrqUzBTYo_50.854042_4.387187@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510283,
+    "wof:geomhash":"f5e9207b76b0bf4d92bfb37892b1f718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058116615
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058116615
+        }
+    ],
+    "wof:id":1058116615,
+    "wof:lastmodified":1473510283,
+    "wof:name":"Gastout B",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [
+    4.3871870041,
+    50.8540420532,
+    4.3871870041,
+    50.8540420532
+],
+  "geometry": {"coordinates":[4.3871870041,50.8540420532],"type":"Point"}
+}

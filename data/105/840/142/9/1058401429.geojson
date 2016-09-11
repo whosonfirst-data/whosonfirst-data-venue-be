@@ -1,0 +1,76 @@
+{
+  "id": 1058401429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.0596852303,50.8637733459,6.0596852303,50.8637733459",
+    "geom:latitude":50.863773,
+    "geom:longitude":6.059685,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beekstraat 47",
+    "sg:city":"Sint-gillis-waas (sint-pauwels)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9170",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "instrument",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797617,
+        102191581,
+        404474489,
+        85633337,
+        101839255,
+        85687033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Mn4Try8aF4onnah97gyX_50.863773_6.059685@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523304,
+    "wof:geomhash":"27c4c83f0171ff16b3f156a7604341bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":101839255,
+            "neighbourhood_id":85797617,
+            "region_id":85687033,
+            "venue_id":1058401429
+        }
+    ],
+    "wof:id":1058401429,
+    "wof:lastmodified":1473523304,
+    "wof:name":"Medtronic Belgium Nv",
+    "wof:parent_id":85797617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    6.0596852303,
+    50.8637733459,
+    6.0596852303,
+    50.8637733459
+],
+  "geometry": {"coordinates":[6.0596852303,50.8637733459],"type":"Point"}
+}

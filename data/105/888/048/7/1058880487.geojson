@@ -1,0 +1,83 @@
+{
+  "id": 1058880487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2246460915,51.2035255432,3.2246460915,51.2035255432",
+    "geom:latitude":51.203526,
+    "geom:longitude":3.224646,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Katelijnestraat 4",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 27 71",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "tourism",
+        "interest",
+        "sight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CjsilkKXaJIQP5DIBXH9s_51.203526_3.224646@1306268589"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545035,
+    "wof:geomhash":"ecd520673a31443f1d7f7a799697d08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058880487
+        }
+    ],
+    "wof:id":1058880487,
+    "wof:lastmodified":1473545035,
+    "wof:name":"Stael Nv",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "tourism",
+        "interest",
+        "sight"
+    ]
+},
+  "bbox": [
+    3.2246460915,
+    51.2035255432,
+    3.2246460915,
+    51.2035255432
+],
+  "geometry": {"coordinates":[3.2246460915,51.2035255432],"type":"Point"}
+}

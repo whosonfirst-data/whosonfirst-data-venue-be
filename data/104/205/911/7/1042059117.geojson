@@ -1,0 +1,77 @@
+{
+  "id": 1042059117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5601477623,50.6651077271,5.5601477623,50.6651077271",
+    "geom:latitude":50.665108,
+    "geom:longitude":5.560148,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Tongres 41",
+    "sg:city":"Li\u00e8ge 1 (rocourt)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 02 59",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnvTjmP2Bn6O8vdkTd77p_50.665108_5.560148@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494645,
+    "wof:geomhash":"7d969249ad0991acf96947d326d17be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1042059117
+        }
+    ],
+    "wof:id":1042059117,
+    "wof:lastmodified":1473494645,
+    "wof:name":"Discry-evrard Sprl",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5601477623,
+    50.6651077271,
+    5.5601477623,
+    50.6651077271
+],
+  "geometry": {"coordinates":[5.5601477623,50.6651077271],"type":"Point"}
+}

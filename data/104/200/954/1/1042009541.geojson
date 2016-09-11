@@ -1,0 +1,77 @@
+{
+  "id": 1042009541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7669110298,51.0772323608,3.7669110298,51.0772323608",
+    "geom:latitude":51.077232,
+    "geom:longitude":3.766911,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Goedlevenstraat 101",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 31 40",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cGEUc8OcaqeHOngGj533N_51.077232_3.766911@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492670,
+    "wof:geomhash":"26144cab74478bc7e1908f8e60dd446f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042009541
+        }
+    ],
+    "wof:id":1042009541,
+    "wof:lastmodified":1473492670,
+    "wof:name":"Caf\u00c9 Het Witte Paard",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7669110298,
+    51.0772323608,
+    3.7669110298,
+    51.0772323608
+],
+  "geometry": {"coordinates":[3.7669110298,51.0772323608],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058122223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5611429214,50.6454238892,5.5611429214,50.6454238892",
+    "geom:latitude":50.645424,
+    "geom:longitude":5.561143,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-marguerite 63",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 17 77",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2etre71gkRq9sRhREbfib0_50.645424_5.561143@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510633,
+    "wof:geomhash":"8044eb84304b54ddfd4fa0dcb327a51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058122223
+        }
+    ],
+    "wof:id":1058122223,
+    "wof:lastmodified":1473510633,
+    "wof:name":"Tabarrant Sc-cv",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    5.5611429214,
+    50.6454238892,
+    5.5611429214,
+    50.6454238892
+],
+  "geometry": {"coordinates":[5.5611429214,50.6454238892],"type":"Point"}
+}

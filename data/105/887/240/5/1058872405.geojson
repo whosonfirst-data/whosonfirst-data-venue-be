@@ -1,0 +1,79 @@
+{
+  "id": 1058872405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3717188835,50.8701782227,4.3717188835,50.8701782227",
+    "geom:latitude":50.870178,
+    "geom:longitude":4.371719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois-joseph Navez 16",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 81 31",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "retail",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AAeJWO6C6r1ouszUo0f7o_50.870178_4.371719@1306268587"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544683,
+    "wof:geomhash":"2e3e18b414eb2bccf803c09b9f0021fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058872405
+        }
+    ],
+    "wof:id":1058872405,
+    "wof:lastmodified":1473544683,
+    "wof:name":"Teyub",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3717188835,
+    50.8701782227,
+    4.3717188835,
+    50.8701782227
+],
+  "geometry": {"coordinates":[4.3717188835,50.8701782227],"type":"Point"}
+}

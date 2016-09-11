@@ -1,0 +1,73 @@
+{
+  "id": 1041879513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5718708038,50.5942878723,5.5718708038,50.5942878723",
+    "geom:latitude":50.594288,
+    "geom:longitude":5.571871,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Sablonni\u00e8re 16",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 41 11",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801845,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KZH3DtXpH20otzfDdpqLB_50.594288_5.571871@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487052,
+    "wof:geomhash":"c92ffbd941c5465d3088f3c6e8888dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801845,
+            "region_id":85681691,
+            "venue_id":1041879513
+        }
+    ],
+    "wof:id":1041879513,
+    "wof:lastmodified":1473487052,
+    "wof:name":"Boulangerie Levaux",
+    "wof:parent_id":85801845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.5718708038,
+    50.5942878723,
+    5.5718708038,
+    50.5942878723
+],
+  "geometry": {"coordinates":[5.5718708038,50.5942878723],"type":"Point"}
+}

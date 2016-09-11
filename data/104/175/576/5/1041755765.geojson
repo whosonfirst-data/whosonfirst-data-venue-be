@@ -1,0 +1,88 @@
+{
+  "id": 1041755765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3289031982,50.8681221008,4.3289031982,50.8681221008",
+    "geom:latitude":50.868122,
+    "geom:longitude":4.328903,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 438",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 28 68",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "restoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E8y1ibmlK7kVN37Xe5Hc2_50.868122_4.328903@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481667,
+    "wof:geomhash":"689a223ebe911544de9e089e922e20f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1041755765
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041755765
+        }
+    ],
+    "wof:id":1041755765,
+    "wof:lastmodified":1473481667,
+    "wof:name":"Parent",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration"
+    ]
+},
+  "bbox": [
+    4.3289031982,
+    50.8681221008,
+    4.3289031982,
+    50.8681221008
+],
+  "geometry": {"coordinates":[4.3289031982,50.8681221008],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058699063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2631578445,50.8601646423,4.2631578445,50.8601646423",
+    "geom:latitude":50.860165,
+    "geom:longitude":4.263158,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elegemstraat 100",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 40 41",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "planning",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JcvKAATApfWjdRHySYiJI_50.860165_4.263158@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537075,
+    "wof:geomhash":"b5f7e97c48d13caa05eec30212a3decf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058699063
+        }
+    ],
+    "wof:id":1058699063,
+    "wof:lastmodified":1473537075,
+    "wof:name":"Timmermans B.v.b.a.",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "road"
+    ]
+},
+  "bbox": [
+    4.2631578445,
+    50.8601646423,
+    4.2631578445,
+    50.8601646423
+],
+  "geometry": {"coordinates":[4.2631578445,50.8601646423],"type":"Point"}
+}

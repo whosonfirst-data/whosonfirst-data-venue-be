@@ -1,0 +1,77 @@
+{
+  "id": 1058551663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7610468864,51.0403862,3.7610468864,51.0403862",
+    "geom:latitude":51.040386,
+    "geom:longitude":3.761047,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederik Burvenichstraat 276",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 239 31 11",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NlK6DWXJE8xoAYu0bZdC6_51.040386_3.761047@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530435,
+    "wof:geomhash":"28d3a4c6e8441d561baaf2b0a27dfbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058551663
+        }
+    ],
+    "wof:id":1058551663,
+    "wof:lastmodified":1473530435,
+    "wof:name":"D'hondt Philip",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7610468864,
+    51.0403862,
+    3.7610468864,
+    51.0403862
+],
+  "geometry": {"coordinates":[3.7610468864,51.0403862],"type":"Point"}
+}

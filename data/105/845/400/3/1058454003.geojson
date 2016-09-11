@@ -1,0 +1,77 @@
+{
+  "id": 1058454003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3522920609,50.8130149841,4.3522920609,50.8130149841",
+    "geom:latitude":50.813015,
+    "geom:longitude":4.352292,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marianne 39",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 31 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MBEBxoQNkTSzCOthJSCix_50.813015_4.352292@1306268511"
+    },
+    "wof:country":"BE",
+    "wof:created":1473525888,
+    "wof:geomhash":"ac10e97754b8d313aaf233bc6d13ced5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058454003
+        }
+    ],
+    "wof:id":1058454003,
+    "wof:lastmodified":1473525888,
+    "wof:name":"Guyaux",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    4.3522920609,
+    50.8130149841,
+    4.3522920609,
+    50.8130149841
+],
+  "geometry": {"coordinates":[4.3522920609,50.8130149841],"type":"Point"}
+}

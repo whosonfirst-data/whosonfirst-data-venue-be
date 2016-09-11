@@ -1,0 +1,73 @@
+{
+  "id": 1042109231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2781701088,50.8006820679,4.2781701088,50.8006820679",
+    "geom:latitude":50.800682,
+    "geom:longitude":4.27817,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korenbloemstraat 22",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 71 73 16",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ld7Wj1h3B7jmeOG2xv0eI_50.800682_4.278170@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496812,
+    "wof:geomhash":"1b8eaeeeb136c8d423a7f15105e2df0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1042109231
+        }
+    ],
+    "wof:id":1042109231,
+    "wof:lastmodified":1473496812,
+    "wof:name":"Denis P",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.2781701088,
+    50.8006820679,
+    4.2781701088,
+    50.8006820679
+],
+  "geometry": {"coordinates":[4.2781701088,50.8006820679],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041641427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4338488579,50.8124923706,4.4338488579,50.8124923706",
+    "geom:latitude":50.812492,
+    "geom:longitude":4.433849,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pierre Schoonejans 20",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 04 24",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BzQ5ynG6oAYYrN5wR24CM_50.812492_4.433849@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476977,
+    "wof:geomhash":"0108cd46b9c1a6a48493489ce91e4042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1041641427
+        }
+    ],
+    "wof:id":1041641427,
+    "wof:lastmodified":1473476977,
+    "wof:name":"Pierlot Ch",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4338488579,
+    50.8124923706,
+    4.4338488579,
+    50.8124923706
+],
+  "geometry": {"coordinates":[4.4338488579,50.8124923706],"type":"Point"}
+}

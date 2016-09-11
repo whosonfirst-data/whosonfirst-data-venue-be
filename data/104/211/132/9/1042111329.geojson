@@ -1,0 +1,83 @@
+{
+  "id": 1042111329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.413394928,50.839427948,4.413394928,50.839427948",
+    "geom:latitude":50.839428,
+    "geom:longitude":4.413395,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Ombrages 32",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 763 36 99",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cabling",
+        "processing",
+        "-",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sm7l9sjV4v8xsyxW9yVZD_50.839428_4.413395@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496913,
+    "wof:geomhash":"da79b5aa44f17729358e8810c7bd65b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1042111329
+        }
+    ],
+    "wof:id":1042111329,
+    "wof:lastmodified":1473496913,
+    "wof:name":"Vinosoft",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabling",
+        "processing",
+        "-",
+        "data"
+    ]
+},
+  "bbox": [
+    4.413394928,
+    50.839427948,
+    4.413394928,
+    50.839427948
+],
+  "geometry": {"coordinates":[4.413394928,50.839427948],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1058099849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.862621069,51.2158241272,3.862621069,51.2158241272",
+    "geom:latitude":51.215824,
+    "geom:longitude":3.862621,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Richier 2",
+    "sg:city":"Dinant",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"5500",
+    "sg:province":"Namur",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wn2S0Lqdtj3RyFS3cEiuR_51.215824_3.862621@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509578,
+    "wof:geomhash":"1f931d4e90ea61d3c3e71dd622c44161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058099849
+        }
+    ],
+    "wof:id":1058099849,
+    "wof:lastmodified":1473509578,
+    "wof:name":"Graszoden Van Waes",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    3.862621069,
+    51.2158241272,
+    3.862621069,
+    51.2158241272
+],
+  "geometry": {"coordinates":[3.862621069,51.2158241272],"type":"Point"}
+}

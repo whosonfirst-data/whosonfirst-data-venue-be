@@ -1,0 +1,77 @@
+{
+  "id": 1042247451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3826870918,50.8104133606,4.3826870918,50.8104133606",
+    "geom:latitude":50.810413,
+    "geom:longitude":4.382687,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Franklin Roosevelt 62",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 644 22 24",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consulate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4O9f0eQDHbtC8oGH1zvj_50.810413_4.382687@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504141,
+    "wof:geomhash":"e4d61c65388920c6bae8609e532487d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1042247451
+        }
+    ],
+    "wof:id":1042247451,
+    "wof:lastmodified":1473504141,
+    "wof:name":"San Marino (ambassade)",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulate"
+    ]
+},
+  "bbox": [
+    4.3826870918,
+    50.8104133606,
+    4.3826870918,
+    50.8104133606
+],
+  "geometry": {"coordinates":[4.3826870918,50.8104133606],"type":"Point"}
+}

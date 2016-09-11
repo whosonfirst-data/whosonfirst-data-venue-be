@@ -1,0 +1,77 @@
+{
+  "id": 1058912121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3140330315,50.873840332,4.3140330315,50.873840332",
+    "geom:latitude":50.87384,
+    "geom:longitude":4.314033,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Guido Gezelle 17",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 91 69",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tOs44sJ8JwTQwUsJdqMYM_50.873840_4.314033@1306268594"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546538,
+    "wof:geomhash":"f9c55cb9276dd89bd3fbe4b75d3c718f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058912121
+        }
+    ],
+    "wof:id":1058912121,
+    "wof:lastmodified":1473546538,
+    "wof:name":"Valdotaine Bvba",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    4.3140330315,
+    50.873840332,
+    4.3140330315,
+    50.873840332
+],
+  "geometry": {"coordinates":[4.3140330315,50.873840332],"type":"Point"}
+}

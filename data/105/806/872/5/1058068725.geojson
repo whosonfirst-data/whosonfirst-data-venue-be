@@ -1,0 +1,81 @@
+{
+  "id": 1058068725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5977940559,50.6557998657,5.5977940559,50.6557998657",
+    "geom:latitude":50.6558,
+    "geom:longitude":5.597794,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pont Des Bayards 159-161",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 96 10",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x0507q07E6b2G5JHlPU9y_50.655800_5.597794@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508265,
+    "wof:geomhash":"3d02a4f1d2627d8e95aac6d3b0913fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1058068725
+        }
+    ],
+    "wof:id":1058068725,
+    "wof:lastmodified":1473508265,
+    "wof:name":"Bayards (friterie Des)",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    5.5977940559,
+    50.6557998657,
+    5.5977940559,
+    50.6557998657
+],
+  "geometry": {"coordinates":[5.5977940559,50.6557998657],"type":"Point"}
+}

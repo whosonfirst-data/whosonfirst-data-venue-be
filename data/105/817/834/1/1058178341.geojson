@@ -1,0 +1,85 @@
+{
+  "id": 1058178341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6151990891,50.672794342,5.6151990891,50.672794342",
+    "geom:latitude":50.672794,
+    "geom:longitude":5.615199,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Muraille 109",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 24 34",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801533,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LgabUHt3Ms7rCWJEVerdR_50.672794_5.615199@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513260,
+    "wof:geomhash":"6ab1556ecee293ed3e7c3295b9fb12c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801533,
+            "region_id":85681691,
+            "venue_id":1058178341
+        }
+    ],
+    "wof:id":1058178341,
+    "wof:lastmodified":1473513260,
+    "wof:name":"Brian Andre",
+    "wof:parent_id":85801533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    5.6151990891,
+    50.672794342,
+    5.6151990891,
+    50.672794342
+],
+  "geometry": {"coordinates":[5.6151990891,50.672794342],"type":"Point"}
+}

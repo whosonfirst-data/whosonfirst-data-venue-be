@@ -1,0 +1,77 @@
+{
+  "id": 1042196209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3962359428,50.8542022705,4.3962359428,50.8542022705",
+    "geom:latitude":50.854202,
+    "geom:longitude":4.396236,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Milcamps 235",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 20 86",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O5INif4ZlJoDx32DNCRSZ_50.854202_4.396236@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501681,
+    "wof:geomhash":"d3e5e08d2d382e8bc1a072063a0c15fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1042196209
+        }
+    ],
+    "wof:id":1042196209,
+    "wof:lastmodified":1473501681,
+    "wof:name":"De Kleine Academie Vzw",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    4.3962359428,
+    50.8542022705,
+    4.3962359428,
+    50.8542022705
+],
+  "geometry": {"coordinates":[4.3962359428,50.8542022705],"type":"Point"}
+}

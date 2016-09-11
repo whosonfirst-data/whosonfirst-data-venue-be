@@ -1,0 +1,83 @@
+{
+  "id": 1041740401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.1929798126,48.6895484924,9.1929798126,48.6895484924",
+    "geom:latitude":48.689548,
+    "geom:longitude":9.19298,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Willem-elschoot-str. 5",
+    "sg:city":"Wilvorde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 759 80 27",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "sea",
+        "transport",
+        "road",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102549047,
+        85682567,
+        102191581,
+        404227549,
+        85633111,
+        101761809,
+        102063329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32m8AhuyWTVbLH0kHeDz4v_48.689548_9.192980@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480948,
+    "wof:geomhash":"06003f2b2cab52d28cdd3c58d1052c7a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102549047,
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063329,
+            "locality_id":101761809,
+            "macrocounty_id":404227549,
+            "region_id":85682567,
+            "venue_id":1041740401
+        }
+    ],
+    "wof:id":1041740401,
+    "wof:lastmodified":1473480948,
+    "wof:name":"Kdl Trans Nv",
+    "wof:parent_id":102549047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sea",
+        "transport",
+        "road",
+        "air"
+    ]
+},
+  "bbox": [
+    9.1929798126,
+    48.6895484924,
+    9.1929798126,
+    48.6895484924
+],
+  "geometry": {"coordinates":[9.1929798126,48.6895484924],"type":"Point"}
+}

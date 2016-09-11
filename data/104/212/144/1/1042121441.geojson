@@ -1,0 +1,83 @@
+{
+  "id": 1042121441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7202999592,51.0488891602,3.7202999592,51.0488891602",
+    "geom:latitude":51.048889,
+    "geom:longitude":3.7203,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ketelvest 16",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 08 75",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yKMsnSSDHg1KKXRh56KHy_51.048889_3.720300@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497454,
+    "wof:geomhash":"a71f6e176aaa3b1cd71e0ad5be3ded58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1042121441
+        }
+    ],
+    "wof:id":1042121441,
+    "wof:lastmodified":1473497454,
+    "wof:name":"Opnet Technologies Belgium",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    3.7202999592,
+    51.0488891602,
+    3.7202999592,
+    51.0488891602
+],
+  "geometry": {"coordinates":[3.7202999592,51.0488891602],"type":"Point"}
+}

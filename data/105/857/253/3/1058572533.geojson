@@ -1,0 +1,77 @@
+{
+  "id": 1058572533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.250649929,51.1896438599,3.250649929,51.1896438599",
+    "geom:latitude":51.189644,
+    "geom:longitude":3.25065,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Konijnenpad 10",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 15 24",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSo0HG0PuGZpPow8i3D8V_51.189644_3.250650@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531417,
+    "wof:geomhash":"1d7fb90dcf3fbfa37f5ce1d9387a693e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058572533
+        }
+    ],
+    "wof:id":1058572533,
+    "wof:lastmodified":1473531417,
+    "wof:name":"Verbeke A",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.250649929,
+    51.1896438599,
+    3.250649929,
+    51.1896438599
+],
+  "geometry": {"coordinates":[3.250649929,51.1896438599],"type":"Point"}
+}

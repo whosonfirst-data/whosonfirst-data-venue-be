@@ -1,0 +1,77 @@
+{
+  "id": 1042099007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3613519669,50.8187828064,4.3613519669,50.8187828064",
+    "geom:latitude":50.818783,
+    "geom:longitude":4.361352,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Renier Chalon 16",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 346 48 21",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EL3suOhg6nbHR4lGZIWn4_50.818783_4.361352@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496349,
+    "wof:geomhash":"09f6566cab57a9e696ea165613fdf731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042099007
+        }
+    ],
+    "wof:id":1042099007,
+    "wof:lastmodified":1473496349,
+    "wof:name":"Vacances Jeunes Du Groupe Ifac",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cultural"
+    ]
+},
+  "bbox": [
+    4.3613519669,
+    50.8187828064,
+    4.3613519669,
+    50.8187828064
+],
+  "geometry": {"coordinates":[4.3613519669,50.8187828064],"type":"Point"}
+}

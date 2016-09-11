@@ -1,0 +1,73 @@
+{
+  "id": 1042048709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2132050991,51.2473869324,3.2132050991,51.2473869324",
+    "geom:latitude":51.247387,
+    "geom:longitude":3.213205,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pathoekeweg 150",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 45 00 45",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "glass",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pkcf8S81CUWBOtyTGTAey_51.247387_3.213205@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494197,
+    "wof:geomhash":"4429e7857d26cf04d35b67eb93f1f463",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1042048709
+        }
+    ],
+    "wof:id":1042048709,
+    "wof:lastmodified":1473494197,
+    "wof:name":"Gupafa Nv",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    3.2132050991,
+    51.2473869324,
+    3.2132050991,
+    51.2473869324
+],
+  "geometry": {"coordinates":[3.2132050991,51.2473869324],"type":"Point"}
+}

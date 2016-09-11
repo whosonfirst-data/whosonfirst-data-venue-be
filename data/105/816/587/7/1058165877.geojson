@@ -1,0 +1,79 @@
+{
+  "id": 1058165877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7065439224,51.0390930176,3.7065439224,51.0390930176",
+    "geom:latitude":51.039093,
+    "geom:longitude":3.706544,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Distelstraat 52",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 11 76",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73xY8uGPFLm8a7ESMo24J9_51.039093_3.706544@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512709,
+    "wof:geomhash":"fabadadf33b33173ecba2aca770c58db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1058165877
+        }
+    ],
+    "wof:id":1058165877,
+    "wof:lastmodified":1473512709,
+    "wof:name":"Geiregat Luc",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7065439224,
+    51.0390930176,
+    3.7065439224,
+    51.0390930176
+],
+  "geometry": {"coordinates":[3.7065439224,51.0390930176],"type":"Point"}
+}

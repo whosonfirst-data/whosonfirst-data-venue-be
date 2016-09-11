@@ -1,0 +1,81 @@
+{
+  "id": 1058222069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2154219151,51.2136497498,3.2154219151,51.2136497498",
+    "geom:latitude":51.21365,
+    "geom:longitude":3.215422,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gulden-vlieslaan 53",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 44 43 10",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862073,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WvDNRGQzs5upqc8SpxWOc_51.213650_3.215422@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515173,
+    "wof:geomhash":"105d7ac2db0f8f5d8d0360576c1c8ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862073,
+            "region_id":85681709,
+            "venue_id":1058222069
+        }
+    ],
+    "wof:id":1058222069,
+    "wof:lastmodified":1473515173,
+    "wof:name":"Lebbe International Agencies Bvba",
+    "wof:parent_id":85862073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2154219151,
+    51.2136497498,
+    3.2154219151,
+    51.2136497498
+],
+  "geometry": {"coordinates":[3.2154219151,51.2136497498],"type":"Point"}
+}

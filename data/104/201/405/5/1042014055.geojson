@@ -1,0 +1,77 @@
+{
+  "id": 1042014055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2220470905,51.2059593201,3.2220470905,51.2059593201",
+    "geom:latitude":51.205959,
+    "geom:longitude":3.222047,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-salvatorskerkhof 5",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 03 51",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lR5f7qU8yrbnccnmaDANn_51.205959_3.222047@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492838,
+    "wof:geomhash":"b852e1988d78dd0c4e597bf10298e76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042014055
+        }
+    ],
+    "wof:id":1042014055,
+    "wof:lastmodified":1473492838,
+    "wof:name":"Caf\u00c9 The Top",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2220470905,
+    51.2059593201,
+    3.2220470905,
+    51.2059593201
+],
+  "geometry": {"coordinates":[3.2220470905,51.2059593201],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058122551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3376040459,50.8168029785,4.3376040459,50.8168029785",
+    "geom:latitude":50.816803,
+    "geom:longitude":4.337604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De L'altitude Cent 8",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 03 07",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCuT7cpiajfYWuWOz3FNt_50.816803_4.337604@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510645,
+    "wof:geomhash":"52e8092d2da5a60ee1d2110f066dcecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058122551
+        }
+    ],
+    "wof:id":1058122551,
+    "wof:lastmodified":1473510645,
+    "wof:name":"Verger (le)",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3376040459,
+    50.8168029785,
+    4.3376040459,
+    50.8168029785
+],
+  "geometry": {"coordinates":[4.3376040459,50.8168029785],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1042075803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3360280991,50.8025398254,4.3360280991,50.8025398254",
+    "geom:latitude":50.80254,
+    "geom:longitude":4.336028,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Victor Allard 16",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 57 94",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sUU94XQOnR1Li0esQq13H_50.802540_4.336028@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495315,
+    "wof:geomhash":"5f0eda3612ba7ea7f35c4db5ec247519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1042075803
+        }
+    ],
+    "wof:id":1042075803,
+    "wof:lastmodified":1473495315,
+    "wof:name":"Barboteuse (la)",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ]
+},
+  "bbox": [
+    4.3360280991,
+    50.8025398254,
+    4.3360280991,
+    50.8025398254
+],
+  "geometry": {"coordinates":[4.3360280991,50.8025398254],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041605173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2943248749,50.8292884827,4.2943248749,50.8292884827",
+    "geom:latitude":50.829288,
+    "geom:longitude":4.294325,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Roi Soldat 114",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 74 74",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vY5K60Leeo884fALh07DH_50.829288_4.294325@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475521,
+    "wof:geomhash":"72758c457bc15b3550e8531b0e1ab8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041605173
+        }
+    ],
+    "wof:id":1041605173,
+    "wof:lastmodified":1473475521,
+    "wof:name":"Fuchs Daniel",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2943248749,
+    50.8292884827,
+    4.2943248749,
+    50.8292884827
+],
+  "geometry": {"coordinates":[4.2943248749,50.8292884827],"type":"Point"}
+}

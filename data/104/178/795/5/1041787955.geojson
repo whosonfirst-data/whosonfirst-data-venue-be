@@ -1,0 +1,83 @@
+{
+  "id": 1041787955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3974399567,51.2115631104,4.3974399567,51.2115631104",
+    "geom:latitude":51.211563,
+    "geom:longitude":4.39744,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Geuzenstraat 13",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 91 31",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LKsk9rS1VTsbxRNbdZHUH_51.211563_4.397440@1306268339"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483205,
+    "wof:geomhash":"95850403d0cee6af8a816019d0921fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041787955
+        }
+    ],
+    "wof:id":1041787955,
+    "wof:lastmodified":1473483205,
+    "wof:name":"New Delasport",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ]
+},
+  "bbox": [
+    4.3974399567,
+    51.2115631104,
+    4.3974399567,
+    51.2115631104
+],
+  "geometry": {"coordinates":[4.3974399567,51.2115631104],"type":"Point"}
+}

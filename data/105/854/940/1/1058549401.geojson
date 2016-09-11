@@ -1,0 +1,77 @@
+{
+  "id": 1058549401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.372423172,50.8937988281,4.372423172,50.8937988281",
+    "geom:latitude":50.893799,
+    "geom:longitude":4.372423,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Pois De Senteur 175",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 65 23",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57JGw3Z6yGJa0yKqZla9se_50.893799_4.372423@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530336,
+    "wof:geomhash":"4e757bb28c9d1be437fa960ec42709dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058549401
+        }
+    ],
+    "wof:id":1058549401,
+    "wof:lastmodified":1473530336,
+    "wof:name":"Bricoult N",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.372423172,
+    50.8937988281,
+    4.372423172,
+    50.8937988281
+],
+  "geometry": {"coordinates":[4.372423172,50.8937988281],"type":"Point"}
+}

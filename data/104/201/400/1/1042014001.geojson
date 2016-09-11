@@ -1,0 +1,77 @@
+{
+  "id": 1042014001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4185009003,51.2295799255,4.4185009003,51.2295799255",
+    "geom:latitude":51.22958,
+    "geom:longitude":4.418501,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ellermanstraat 58",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 226 55 38",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nzYyPvZvE6Xc6LJ1SDFhh_51.229580_4.418501@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492836,
+    "wof:geomhash":"caa8475c56d095f3164a69f6f98435a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042014001
+        }
+    ],
+    "wof:id":1042014001,
+    "wof:lastmodified":1473492836,
+    "wof:name":"Caf\u00c9 The Jody\u00b4s",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4185009003,
+    51.2295799255,
+    4.4185009003,
+    51.2295799255
+],
+  "geometry": {"coordinates":[4.4185009003,51.2295799255],"type":"Point"}
+}

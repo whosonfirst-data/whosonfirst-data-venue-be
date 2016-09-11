@@ -1,0 +1,79 @@
+{
+  "id": 1058033269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4364538193,50.9052619934,4.4364538193,50.9052619934",
+    "geom:latitude":50.905262,
+    "geom:longitude":4.436454,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Melkstraat 100",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 25 19",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RQOm0G4NkRRfTUAioMjtp_50.905262_4.436454@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506823,
+    "wof:geomhash":"d25528cd16125ab46c0ad0971700367b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1058033269
+        }
+    ],
+    "wof:id":1058033269,
+    "wof:lastmodified":1473506823,
+    "wof:name":"Restaurant De Molen",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.4364538193,
+    50.9052619934,
+    4.4364538193,
+    50.9052619934
+],
+  "geometry": {"coordinates":[4.4364538193,50.9052619934],"type":"Point"}
+}

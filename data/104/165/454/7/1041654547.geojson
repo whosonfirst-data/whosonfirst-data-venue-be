@@ -1,0 +1,79 @@
+{
+  "id": 1041654547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4269337654,51.2222175598,4.4269337654,51.2222175598",
+    "geom:latitude":51.222218,
+    "geom:longitude":4.426934,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Duinstraat 21-23",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 236 18 90",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Z4Q9hKkwyeKlvL2jgW59_51.222218_4.426934@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477518,
+    "wof:geomhash":"4c4d756a19bc591092fc277efe8ed1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041654547
+        }
+    ],
+    "wof:id":1041654547,
+    "wof:lastmodified":1473477518,
+    "wof:name":"De Zavel",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.4269337654,
+    51.2222175598,
+    4.4269337654,
+    51.2222175598
+],
+  "geometry": {"coordinates":[4.4269337654,51.2222175598],"type":"Point"}
+}

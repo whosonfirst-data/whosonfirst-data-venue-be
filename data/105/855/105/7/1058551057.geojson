@@ -1,0 +1,77 @@
+{
+  "id": 1058551057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3901228905,50.8559608459,4.3901228905,50.8559608459",
+    "geom:latitude":50.855961,
+    "geom:longitude":4.390123,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Coosemans 116",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 63 03",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63VKaLhO5CaLYXs7ck8lMX_50.855961_4.390123@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530413,
+    "wof:geomhash":"ba9b7b4b13d95165a35d318f9e2491d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058551057
+        }
+    ],
+    "wof:id":1058551057,
+    "wof:lastmodified":1473530413,
+    "wof:name":"Copette M",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3901228905,
+    50.8559608459,
+    4.3901228905,
+    50.8559608459
+],
+  "geometry": {"coordinates":[4.3901228905,50.8559608459],"type":"Point"}
+}

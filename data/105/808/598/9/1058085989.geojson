@@ -1,0 +1,90 @@
+{
+  "id": 1058085989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3382291794,50.8683929443,4.3382291794,50.8683929443",
+    "geom:latitude":50.868393,
+    "geom:longitude":4.338229,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Dubrucq 154",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 30 53",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wTBXGGnRpYkmYZNx47o2K_50.868393_4.338229@1306268442"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508987,
+    "wof:geomhash":"bb1e7ed0f9588feabcb8f10ac2753894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058085989
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058085989
+        }
+    ],
+    "wof:id":1058085989,
+    "wof:lastmodified":1473508987,
+    "wof:name":"Joker Meubel Bvba",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "furniture"
+    ]
+},
+  "bbox": [
+    4.3382291794,
+    50.8683929443,
+    4.3382291794,
+    50.8683929443
+],
+  "geometry": {"coordinates":[4.3382291794,50.8683929443],"type":"Point"}
+}

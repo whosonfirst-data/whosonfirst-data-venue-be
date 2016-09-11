@@ -1,0 +1,79 @@
+{
+  "id": 1058773029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7393100262,51.0646095276,3.7393100262,51.0646095276",
+    "geom:latitude":51.06461,
+    "geom:longitude":3.73931,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Afrikalaan 48",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 95 20",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "ship",
+        "chandler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PNZWkusjkvOW9bR23WfDO_51.064610_3.739310@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540377,
+    "wof:geomhash":"c7405bc06cb6947b45a99423f6ca895f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058773029
+        }
+    ],
+    "wof:id":1058773029,
+    "wof:lastmodified":1473540377,
+    "wof:name":"New Generation Shipstores",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship",
+        "chandler"
+    ]
+},
+  "bbox": [
+    3.7393100262,
+    51.0646095276,
+    3.7393100262,
+    51.0646095276
+],
+  "geometry": {"coordinates":[3.7393100262,51.0646095276],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041562031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3988451958,50.8395576477,4.3988451958,50.8395576477",
+    "geom:latitude":50.839558,
+    "geom:longitude":4.398845,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av De Tervueren 14",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 10 14",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "body",
+        "advice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jh6VOZN8QWEyN4nYsunAg_50.839558_4.398845@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473712,
+    "wof:geomhash":"cf4fc759df53998602f300cbbc520f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041562031
+        }
+    ],
+    "wof:id":1041562031,
+    "wof:lastmodified":1473473712,
+    "wof:name":"Fedsa",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "advice"
+    ]
+},
+  "bbox": [
+    4.3988451958,
+    50.8395576477,
+    4.3988451958,
+    50.8395576477
+],
+  "geometry": {"coordinates":[4.3988451958,50.8395576477],"type":"Point"}
+}

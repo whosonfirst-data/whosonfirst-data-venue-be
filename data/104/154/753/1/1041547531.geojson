@@ -1,0 +1,81 @@
+{
+  "id": 1041547531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3508138657,50.8771438599,4.3508138657,50.8771438599",
+    "geom:latitude":50.877144,
+    "geom:longitude":4.350814,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Moorslede 13",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 25 02",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lgymn7tIPC3CoGsRNzfaL_50.877144_4.350814@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473092,
+    "wof:geomhash":"d9170f378d1687bcf13407f0b6f705df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1041547531
+        }
+    ],
+    "wof:id":1041547531,
+    "wof:lastmodified":1473473092,
+    "wof:name":"Seat Recup",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    4.3508138657,
+    50.8771438599,
+    4.3508138657,
+    50.8771438599
+],
+  "geometry": {"coordinates":[4.3508138657,50.8771438599],"type":"Point"}
+}

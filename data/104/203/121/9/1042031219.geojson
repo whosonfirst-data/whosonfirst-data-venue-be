@@ -1,0 +1,77 @@
+{
+  "id": 1042031219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5046858788,50.6157188416,5.5046858788,50.6157188416",
+    "geom:latitude":50.615719,
+    "geom:longitude":5.504686,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Des Quatre Grands 1",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 233 60 21",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27AcGyh4dVI7u4Atd0Dbld_50.615719_5.504686@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493493,
+    "wof:geomhash":"a647d7ebafefab33a29af1a2a1f67092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1042031219
+        }
+    ],
+    "wof:id":1042031219,
+    "wof:lastmodified":1473493493,
+    "wof:name":"Taverne La Couronne",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5046858788,
+    50.6157188416,
+    5.5046858788,
+    50.6157188416
+],
+  "geometry": {"coordinates":[5.5046858788,50.6157188416],"type":"Point"}
+}

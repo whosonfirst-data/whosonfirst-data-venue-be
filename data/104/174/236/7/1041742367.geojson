@@ -1,0 +1,83 @@
+{
+  "id": 1041742367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7706649303,51.0565452576,3.7706649303,51.0565452576",
+    "geom:latitude":51.056545,
+    "geom:longitude":3.770665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredenakkerstraat 123",
+    "sg:city":"Destelbergen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 238 17 55",
+    "sg:postcode":"9070",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iVbesHY1pjWkpatbqXpj2_51.056545_3.770665@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481051,
+    "wof:geomhash":"1130cb54938977da6893752bbeab71dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041742367
+        }
+    ],
+    "wof:id":1041742367,
+    "wof:lastmodified":1473481051,
+    "wof:name":"Avanse Bvba",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    3.7706649303,
+    51.0565452576,
+    3.7706649303,
+    51.0565452576
+],
+  "geometry": {"coordinates":[3.7706649303,51.0565452576],"type":"Point"}
+}

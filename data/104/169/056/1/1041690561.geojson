@@ -1,0 +1,79 @@
+{
+  "id": 1041690561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3485732079,50.8150253296,4.3485732079,50.8150253296",
+    "geom:latitude":50.815025,
+    "geom:longitude":4.348573,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brugmann 215",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 85 85",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "acoustic",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qnhI84N2Vmb8XBdbFU9V5_50.815025_4.348573@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478923,
+    "wof:geomhash":"f8b341d7b04b1c60d38dc4f385ed1b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041690561
+        }
+    ],
+    "wof:id":1041690561,
+    "wof:lastmodified":1473478923,
+    "wof:name":"Acoustic Technologies/ A-tech",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustic",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3485732079,
+    50.8150253296,
+    4.3485732079,
+    50.8150253296
+],
+  "geometry": {"coordinates":[4.3485732079,50.8150253296],"type":"Point"}
+}

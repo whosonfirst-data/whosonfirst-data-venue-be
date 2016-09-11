@@ -1,0 +1,79 @@
+{
+  "id": 1058164607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4313678741,51.1567764282,4.4313678741,51.1567764282",
+    "geom:latitude":51.156776,
+    "geom:longitude":4.431368,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prins Boudewijnlaan 195",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 448 07 75",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JvOObefGz640sTtaZkf3g_51.156776_4.431368@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512648,
+    "wof:geomhash":"08229cf6db6ee1c92b51227daf560204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058164607
+        }
+    ],
+    "wof:id":1058164607,
+    "wof:lastmodified":1473512648,
+    "wof:name":"Engelen S",
+    "wof:parent_id":85800769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4313678741,
+    51.1567764282,
+    4.4313678741,
+    51.1567764282
+],
+  "geometry": {"coordinates":[4.4313678741,51.1567764282],"type":"Point"}
+}

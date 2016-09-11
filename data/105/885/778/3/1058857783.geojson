@@ -1,0 +1,77 @@
+{
+  "id": 1058857783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5100507736,50.8247108459,4.5100507736,50.8247108459",
+    "geom:latitude":50.824711,
+    "geom:longitude":4.510051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 45",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 96 38",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801307,
+        102191581,
+        85632997,
+        404227357,
+        101754329,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55bawPMUe78Nx0Fl50p4V1_50.824711_4.510051@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544046,
+    "wof:geomhash":"1f77a12b9448d594ac2e98e512a93cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754329,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801307,
+            "region_id":85681731,
+            "venue_id":1058857783
+        }
+    ],
+    "wof:id":1058857783,
+    "wof:lastmodified":1473544046,
+    "wof:name":"The Best Inn",
+    "wof:parent_id":85801307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.5100507736,
+    50.8247108459,
+    4.5100507736,
+    50.8247108459
+],
+  "geometry": {"coordinates":[4.5100507736,50.8247108459],"type":"Point"}
+}

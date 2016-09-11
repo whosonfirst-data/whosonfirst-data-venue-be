@@ -1,0 +1,77 @@
+{
+  "id": 1058090507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6074581146,50.6644287109,5.6074581146,50.6644287109",
+    "geom:latitude":50.664429,
+    "geom:longitude":5.607458,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Oscar Beck 42",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 56 69",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801533,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IKs81SI146LNLs5Q0iNxr_50.664429_5.607458@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509172,
+    "wof:geomhash":"d1f6aec6f01996f77b15c5852613ab72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801533,
+            "region_id":85681691,
+            "venue_id":1058090507
+        }
+    ],
+    "wof:id":1058090507,
+    "wof:lastmodified":1473509172,
+    "wof:name":"Cechagias M",
+    "wof:parent_id":85801533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    5.6074581146,
+    50.6644287109,
+    5.6074581146,
+    50.6644287109
+],
+  "geometry": {"coordinates":[5.6074581146,50.6644287109],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058221587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5910282135,50.6408691406,5.5910282135,50.6408691406",
+    "geom:latitude":50.640869,
+    "geom:longitude":5.591028,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Bonaparte 46",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 19 51",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FEHYdZCQm4Y5YnwvhMByw_50.640869_5.591028@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515155,
+    "wof:geomhash":"6b3e7734d5d7c5cb24e4f75d30de11d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058221587
+        }
+    ],
+    "wof:id":1058221587,
+    "wof:lastmodified":1473515155,
+    "wof:name":"Cygnus-bates Intertrade Sprl",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5910282135,
+    50.6408691406,
+    5.5910282135,
+    50.6408691406
+],
+  "geometry": {"coordinates":[5.5910282135,50.6408691406],"type":"Point"}
+}

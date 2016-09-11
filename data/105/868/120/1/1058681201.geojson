@@ -1,0 +1,72 @@
+{
+  "id": 1058681201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4135899544,51.2191581726,4.4135899544,51.2191581726",
+    "geom:latitude":51.219158,
+    "geom:longitude":4.41359,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jezusstraat 19",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 225 19 04",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dKbFApXPlsmPBE9HH9IYE_51.219158_4.413590@1306268553"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536329,
+    "wof:geomhash":"3276a4135dc912b45b0eff74be9f025b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058681201
+        }
+    ],
+    "wof:id":1058681201,
+    "wof:lastmodified":1473536329,
+    "wof:name":"Trianon",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4135899544,
+    51.2191581726,
+    4.4135899544,
+    51.2191581726
+],
+  "geometry": {"coordinates":[4.4135899544,51.2191581726],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041580027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3612427711,50.8650665283,4.3612427711,50.8650665283",
+    "geom:latitude":50.865067,
+    "geom:longitude":4.361243,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gaucheret 124a",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 201 16 76",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZnGFwUC68n4i6t2uVDWFp_50.865067_4.361243@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474457,
+    "wof:geomhash":"a0ec4105dd062f838c9238a216fbfc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1041580027
+        }
+    ],
+    "wof:id":1041580027,
+    "wof:lastmodified":1473474457,
+    "wof:name":"Ecole Communale No 8",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.3612427711,
+    50.8650665283,
+    4.3612427711,
+    50.8650665283
+],
+  "geometry": {"coordinates":[4.3612427711,50.8650665283],"type":"Point"}
+}

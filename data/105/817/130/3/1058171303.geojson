@@ -1,0 +1,73 @@
+{
+  "id": 1058171303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5787267685,50.5673751831,5.5787267685,50.5673751831",
+    "geom:latitude":50.567375,
+    "geom:longitude":5.578727,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai De L'ourthe 31",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 17 77",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02VM79FK6EtttGlep5sTi7_50.567375_5.578727@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512961,
+    "wof:geomhash":"1861fa690607c6b8e2ca5b4a81bc925f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058171303
+        }
+    ],
+    "wof:id":1058171303,
+    "wof:lastmodified":1473512961,
+    "wof:name":"Lefebvre C",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5787267685,
+    50.5673751831,
+    5.5787267685,
+    50.5673751831
+],
+  "geometry": {"coordinates":[5.5787267685,50.5673751831],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041966563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4019107819,50.8117790222,4.4019107819,50.8117790222",
+    "geom:latitude":50.811779,
+    "geom:longitude":4.401911,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Martin P\u00eacheur 15 Box 24",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 42 40",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t1VjV7oiYii04k7Y22cQm_50.811779_4.401911@1306268369"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490762,
+    "wof:geomhash":"29c73b183fa3eaf6dbe1fc0fbdfb9cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041966563
+        }
+    ],
+    "wof:id":1041966563,
+    "wof:lastmodified":1473490762,
+    "wof:name":"Laurent Etienne",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.4019107819,
+    50.8117790222,
+    4.4019107819,
+    50.8117790222
+],
+  "geometry": {"coordinates":[4.4019107819,50.8117790222],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041546269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3158011436,50.806728363,4.3158011436,50.806728363",
+    "geom:latitude":50.806728,
+    "geom:longitude":4.315801,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue G\u00c9n\u00c9ral Dumonceau 15b5",
+    "sg:city":"Vorst/forest",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 32 04",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64QdYOxmb9g0P7wJaxIbXp_50.806728_4.315801@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473044,
+    "wof:geomhash":"9c500378695200243d300ec4bfabd1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041546269
+        }
+    ],
+    "wof:id":1041546269,
+    "wof:lastmodified":1473473044,
+    "wof:name":"Vanderheyden Et Fils",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3158011436,
+    50.806728363,
+    4.3158011436,
+    50.806728363
+],
+  "geometry": {"coordinates":[4.3158011436,50.806728363],"type":"Point"}
+}

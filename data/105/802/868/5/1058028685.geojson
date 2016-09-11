@@ -1,0 +1,79 @@
+{
+  "id": 1058028685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3669838905,50.8337936401,4.3669838905,50.8337936401",
+    "geom:latitude":50.833794,
+    "geom:longitude":4.366984,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Tulipe 9",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 61 36",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "designer",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Itr9rOd72XdHPpZcIVrri_50.833794_4.366984@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506627,
+    "wof:geomhash":"a494107ff7a1a4eb6e8bf27ea70a59c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058028685
+        }
+    ],
+    "wof:id":1058028685,
+    "wof:lastmodified":1473506627,
+    "wof:name":"Simonart A",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "stylist"
+    ]
+},
+  "bbox": [
+    4.3669838905,
+    50.8337936401,
+    4.3669838905,
+    50.8337936401
+],
+  "geometry": {"coordinates":[4.3669838905,50.8337936401],"type":"Point"}
+}

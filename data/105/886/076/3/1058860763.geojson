@@ -1,0 +1,71 @@
+{
+  "id": 1058860763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.561384201,50.8358192444,4.561384201,50.8358192444",
+    "geom:latitude":50.835819,
+    "geom:longitude":4.561384,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsstraat 40",
+    "sg:city":"Tervuren (vossem)",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 31 98",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rkjEcd5mf6c0hQWLDP83l_50.835819_4.561384@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544190,
+    "wof:geomhash":"80c4d61e3967cfed9b29983736dd786d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1058860763
+        }
+    ],
+    "wof:id":1058860763,
+    "wof:lastmodified":1473544190,
+    "wof:name":"Schepers Taxi Speedy",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    4.561384201,
+    50.8358192444,
+    4.561384201,
+    50.8358192444
+],
+  "geometry": {"coordinates":[4.561384201,50.8358192444],"type":"Point"}
+}

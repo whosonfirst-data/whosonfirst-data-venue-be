@@ -1,0 +1,77 @@
+{
+  "id": 1058855263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2912731171,50.8706855774,4.2912731171,50.8706855774",
+    "geom:latitude":50.870686,
+    "geom:longitude":4.291273,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 511",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 468 05 93",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xdEVvGTpnw67IzYR7Ooaw_50.870686_4.291273@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543946,
+    "wof:geomhash":"3b5b0ee263640e3deac04441d1eb0ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058855263
+        }
+    ],
+    "wof:id":1058855263,
+    "wof:lastmodified":1473543946,
+    "wof:name":"Ex-aequo (l')",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.2912731171,
+    50.8706855774,
+    4.2912731171,
+    50.8706855774
+],
+  "geometry": {"coordinates":[4.2912731171,50.8706855774],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058729573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6967110634,51.0234603882,3.6967110634,51.0234603882",
+    "geom:latitude":51.02346,
+    "geom:longitude":3.696711,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Derbystraat 345",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 242 99 88",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "coordinator",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4qkMXTaWDhvkI8wJzgzK_51.023460_3.696711@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538435,
+    "wof:geomhash":"6fc0947b90ce2e52e3561a12fb1ba0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1058729573
+        }
+    ],
+    "wof:id":1058729573,
+    "wof:lastmodified":1473538435,
+    "wof:name":"B T I",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coordinator",
+        "safety"
+    ]
+},
+  "bbox": [
+    3.6967110634,
+    51.0234603882,
+    3.6967110634,
+    51.0234603882
+],
+  "geometry": {"coordinates":[3.6967110634,51.0234603882],"type":"Point"}
+}

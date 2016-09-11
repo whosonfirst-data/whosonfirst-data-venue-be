@@ -1,0 +1,77 @@
+{
+  "id": 1042030021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4651861191,51.147026062,4.4651861191,51.147026062",
+    "geom:latitude":51.147026,
+    "geom:longitude":4.465186,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vredestraat 72",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 15 86",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53BHqlfbK4Cjn9iIbXShkc_51.147026_4.465186@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493443,
+    "wof:geomhash":"121fbbc5eba4517d3a4bad3a6ff2867f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042030021
+        }
+    ],
+    "wof:id":1042030021,
+    "wof:lastmodified":1473493443,
+    "wof:name":"Belle Epoque",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4651861191,
+    51.147026062,
+    4.4651861191,
+    51.147026062
+],
+  "geometry": {"coordinates":[4.4651861191,51.147026062],"type":"Point"}
+}

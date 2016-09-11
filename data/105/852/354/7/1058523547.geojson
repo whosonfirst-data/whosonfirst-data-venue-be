@@ -1,0 +1,79 @@
+{
+  "id": 1058523547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5907039642,50.5361862183,5.5907039642,50.5361862183",
+    "geom:latitude":50.536186,
+    "geom:longitude":5.590704,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Hayen 2",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 380 23 93",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801627,
+        102191581,
+        85632997,
+        404227353,
+        101755185,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RzsK7FzlyXKsosJvVm43N_50.536186_5.590704@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529157,
+    "wof:geomhash":"ce7ec9d359d9a9d0c1ef7ac902e5a0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755185,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801627,
+            "region_id":85681691,
+            "venue_id":1058523547
+        }
+    ],
+    "wof:id":1058523547,
+    "wof:lastmodified":1473529157,
+    "wof:name":"Henin L & Fils",
+    "wof:parent_id":85801627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    5.5907039642,
+    50.5361862183,
+    5.5907039642,
+    50.5361862183
+],
+  "geometry": {"coordinates":[5.5907039642,50.5361862183],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041749283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6409292221,50.6953392029,5.6409292221,50.6953392029",
+    "geom:latitude":50.695339,
+    "geom:longitude":5.640929,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean Volders 25",
+    "sg:city":"Oupeye (vivegnis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 94 00",
+    "sg:postcode":"4683",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AV6vieBhTGKlYwoBCZ6Qo_50.695339_5.640929@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481344,
+    "wof:geomhash":"72599ab55863283cd4104adf49111265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1041749283
+        }
+    ],
+    "wof:id":1041749283,
+    "wof:lastmodified":1473481344,
+    "wof:name":"Bergine (ambulances)",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    5.6409292221,
+    50.6953392029,
+    5.6409292221,
+    50.6953392029
+],
+  "geometry": {"coordinates":[5.6409292221,50.6953392029],"type":"Point"}
+}

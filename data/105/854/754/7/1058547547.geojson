@@ -1,0 +1,77 @@
+{
+  "id": 1058547547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3622508049,50.8159751892,4.3622508049,50.8159751892",
+    "geom:latitude":50.815975,
+    "geom:longitude":4.362251,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Moli\u00e8re 298",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 57 32",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PiwWygGlLbR446UB3HCoH_50.815975_4.362251@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530265,
+    "wof:geomhash":"0ac23788cd73c44e4e30d1674fc06245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058547547
+        }
+    ],
+    "wof:id":1058547547,
+    "wof:lastmodified":1473530265,
+    "wof:name":"Baguet P",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3622508049,
+    50.8159751892,
+    4.3622508049,
+    50.8159751892
+],
+  "geometry": {"coordinates":[4.3622508049,50.8159751892],"type":"Point"}
+}

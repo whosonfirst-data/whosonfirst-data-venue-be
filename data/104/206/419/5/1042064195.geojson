@@ -1,0 +1,77 @@
+{
+  "id": 1042064195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2915921211,50.8387527466,4.2915921211,50.8387527466",
+    "geom:latitude":50.838753,
+    "geom:longitude":4.291592,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Clos Hof Te Ophem 16 Box 7",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 08 00",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68lQ8MhQOOCdRTWlWklSLu_50.838753_4.291592@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494838,
+    "wof:geomhash":"4acd445601e562899466aff0681e1636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1042064195
+        }
+    ],
+    "wof:id":1042064195,
+    "wof:lastmodified":1473494838,
+    "wof:name":"Sleewagen",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    4.2915921211,
+    50.8387527466,
+    4.2915921211,
+    50.8387527466
+],
+  "geometry": {"coordinates":[4.2915921211,50.8387527466],"type":"Point"}
+}

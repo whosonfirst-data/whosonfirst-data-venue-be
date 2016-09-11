@@ -1,0 +1,81 @@
+{
+  "id": 1058379725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2562479973,51.2102775574,3.2562479973,51.2102775574",
+    "geom:latitude":51.210278,
+    "geom:longitude":3.256248,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akkerstraat 65",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 20 45",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "paint",
+        "grease",
+        "make-up"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pHdpNqrAkXiwK5HZ5H4nC_51.210278_3.256248@1306268499"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522350,
+    "wof:geomhash":"ab416479243d76a30e6d9ee55e2301c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1058379725
+        }
+    ],
+    "wof:id":1058379725,
+    "wof:lastmodified":1473522350,
+    "wof:name":"Scharminka B",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "grease",
+        "make-up"
+    ]
+},
+  "bbox": [
+    3.2562479973,
+    51.2102775574,
+    3.2562479973,
+    51.2102775574
+],
+  "geometry": {"coordinates":[3.2562479973,51.2102775574],"type":"Point"}
+}

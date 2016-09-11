@@ -1,0 +1,79 @@
+{
+  "id": 1058803981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8351800442,51.0499801636,3.8351800442,51.0499801636",
+    "geom:latitude":51.04998,
+    "geom:longitude":3.83518,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meerskant 30",
+    "sg:city":"Laarne",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 64 38",
+    "sg:postcode":"9270",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xp1fFgI4vahU3NGvB5PkE_51.049980_3.835180@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541727,
+    "wof:geomhash":"5f7e20962ec90169065b0542836cc615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058803981
+        }
+    ],
+    "wof:id":1058803981,
+    "wof:lastmodified":1473541727,
+    "wof:name":"Praet M",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    3.8351800442,
+    51.0499801636,
+    3.8351800442,
+    51.0499801636
+],
+  "geometry": {"coordinates":[3.8351800442,51.0499801636],"type":"Point"}
+}

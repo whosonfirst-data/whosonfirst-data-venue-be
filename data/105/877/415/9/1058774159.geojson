@@ -1,0 +1,77 @@
+{
+  "id": 1058774159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3995780945,50.8309516907,4.3995780945,50.8309516907",
+    "geom:latitude":50.830952,
+    "geom:longitude":4.399578,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Pervyse 29 Box 15",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 16 94",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "shoemaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M4zyi8LG4gsETaqrOpMoL_50.830952_4.399578@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540424,
+    "wof:geomhash":"5e909335f0d5aeaf4cbf4d4f5229b977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058774159
+        }
+    ],
+    "wof:id":1058774159,
+    "wof:lastmodified":1473540424,
+    "wof:name":"Multi Service Express",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoemaker"
+    ]
+},
+  "bbox": [
+    4.3995780945,
+    50.8309516907,
+    4.3995780945,
+    50.8309516907
+],
+  "geometry": {"coordinates":[4.3995780945,50.8309516907],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1042035473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2526669502,51.2328834534,3.2526669502,51.2328834534",
+    "geom:latitude":51.232883,
+    "geom:longitude":3.252667,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Noordreiestraat 67",
+    "sg:city":"Brugge (koolkerke)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 63 96",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IOYeriYixNYMSP7Od3MuW_51.232883_3.252667@1306268382"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493681,
+    "wof:geomhash":"cd72b6cde3ae6ae2b5e3351d7cd32af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1042035473
+        }
+    ],
+    "wof:id":1042035473,
+    "wof:lastmodified":1473493681,
+    "wof:name":"De Clerck Ph",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    3.2526669502,
+    51.2328834534,
+    3.2526669502,
+    51.2328834534
+],
+  "geometry": {"coordinates":[3.2526669502,51.2328834534],"type":"Point"}
+}

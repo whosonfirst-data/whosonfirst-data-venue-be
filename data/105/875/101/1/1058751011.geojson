@@ -1,0 +1,79 @@
+{
+  "id": 1058751011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.396905899,50.8691101074,4.396905899,50.8691101074",
+    "geom:latitude":50.86911,
+    "geom:longitude":4.396906,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Godfroid Kurth 19",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 243 17 17",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sanitary",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eXYNt5f3aIjzAYWNtsX2w_50.869110_4.396906@1306268565"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539378,
+    "wof:geomhash":"85eb20312b23b7ca871689c12c3766b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058751011
+        }
+    ],
+    "wof:id":1058751011,
+    "wof:lastmodified":1473539378,
+    "wof:name":"G. Dewilde Et Fils S.a.",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "facility"
+    ]
+},
+  "bbox": [
+    4.396905899,
+    50.8691101074,
+    4.396905899,
+    50.8691101074
+],
+  "geometry": {"coordinates":[4.396905899,50.8691101074],"type":"Point"}
+}

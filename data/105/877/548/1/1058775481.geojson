@@ -1,0 +1,79 @@
+{
+  "id": 1058775481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4042649269,51.2179718018,4.4042649269,51.2179718018",
+    "geom:latitude":51.217972,
+    "geom:longitude":4.404265,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wiegstraat 24",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 04 50",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VtIEal0qJjfjvK6f5ie0C_51.217972_4.404265@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540477,
+    "wof:geomhash":"fe7e4cfbef2005f000a4b1333242f90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058775481
+        }
+    ],
+    "wof:id":1058775481,
+    "wof:lastmodified":1473540477,
+    "wof:name":"Lola's Feet",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4042649269,
+    51.2179718018,
+    4.4042649269,
+    51.2179718018
+],
+  "geometry": {"coordinates":[4.4042649269,51.2179718018],"type":"Point"}
+}

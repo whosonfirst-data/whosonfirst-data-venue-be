@@ -1,0 +1,72 @@
+{
+  "id": 1042128393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3683071136,50.8178405762,4.3683071136,50.8178405762",
+    "geom:latitude":50.817841,
+    "geom:longitude":4.368307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-georges 55",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 60 25",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AfS51tbl9fLaAAtQ0EMjh_50.817841_4.368307@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497872,
+    "wof:geomhash":"ce998f3c1afdeef240d37ed49c29964a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042128393
+        }
+    ],
+    "wof:id":1042128393,
+    "wof:lastmodified":1473497872,
+    "wof:name":"Bardiaux M",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3683071136,
+    50.8178405762,
+    4.3683071136,
+    50.8178405762
+],
+  "geometry": {"coordinates":[4.3683071136,50.8178405762],"type":"Point"}
+}

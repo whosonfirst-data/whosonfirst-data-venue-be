@@ -1,0 +1,79 @@
+{
+  "id": 1058774969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2633948326,50.8713302612,4.2633948326,50.8713302612",
+    "geom:latitude":50.87133,
+    "geom:longitude":4.263395,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselstraat 248",
+    "sg:city":"Dilbeek (groot - Bijgaarden)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 27 64",
+    "sg:postcode":"1702",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Zg9dvjpE5GijnU8lgBYC_50.871330_4.263395@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540459,
+    "wof:geomhash":"bf631a0c5dd7c699b825f4ecf3c6a88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058774969
+        }
+    ],
+    "wof:id":1058774969,
+    "wof:lastmodified":1473540459,
+    "wof:name":"De Zaeger Shoe",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    4.2633948326,
+    50.8713302612,
+    4.2633948326,
+    50.8713302612
+],
+  "geometry": {"coordinates":[4.2633948326,50.8713302612],"type":"Point"}
+}

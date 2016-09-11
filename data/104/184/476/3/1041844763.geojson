@@ -1,0 +1,81 @@
+{
+  "id": 1041844763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3386378288,50.9063301086,4.3386378288,50.9063301086",
+    "geom:latitude":50.90633,
+    "geom:longitude":4.338638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentsestraat 45",
+    "sg:city":"Grimbergen (strombeek-bever)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 66 86",
+    "sg:postcode":"1853",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V64keHjvc4kcfcB3P2eN1_50.906330_4.338638@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485576,
+    "wof:geomhash":"0ccff1872e8da577f1ef26031c5eb97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1041844763
+        }
+    ],
+    "wof:id":1041844763,
+    "wof:lastmodified":1473485576,
+    "wof:name":"Gilbert Depannage Ets",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    4.3386378288,
+    50.9063301086,
+    4.3386378288,
+    50.9063301086
+],
+  "geometry": {"coordinates":[4.3386378288,50.9063301086],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1058669023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7214999199,51.0409889221,3.7214999199,51.0409889221",
+    "geom:latitude":51.040989,
+    "geom:longitude":3.7215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Charles De Kerchovelaan 81",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 43 85",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aawyPHizeRZLmr6EGBN2S_51.040989_3.721500@1306268550"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535797,
+    "wof:geomhash":"92b0b4ff7bb09e1bcbf497565a0b8c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058669023
+        }
+    ],
+    "wof:id":1058669023,
+    "wof:lastmodified":1473535797,
+    "wof:name":"Grade",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7214999199,
+    51.0409889221,
+    3.7214999199,
+    51.0409889221
+],
+  "geometry": {"coordinates":[3.7214999199,51.0409889221],"type":"Point"}
+}

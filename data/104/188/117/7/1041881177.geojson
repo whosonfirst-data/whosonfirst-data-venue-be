@@ -1,0 +1,79 @@
+{
+  "id": 1041881177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5768780708,50.6362533569,5.5768780708,50.6362533569",
+    "geom:latitude":50.636253,
+    "geom:longitude":5.576878,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Churchill 3b",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 15 64",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NWP9BsX6OFSRT5WwTjykF_50.636253_5.576878@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487122,
+    "wof:geomhash":"c5f7abbf7ddc0782e313cc604f60ae5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041881177
+        }
+    ],
+    "wof:id":1041881177,
+    "wof:lastmodified":1473487122,
+    "wof:name":"D\u00e9lices Du Pont Neuf (les)",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.5768780708,
+    50.6362533569,
+    5.5768780708,
+    50.6362533569
+],
+  "geometry": {"coordinates":[5.5768780708,50.6362533569],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1042130539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7289888859,51.0568313599,3.7289888859,51.0568313599",
+    "geom:latitude":51.056831,
+    "geom:longitude":3.728989,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Steenstraat 6",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 03 72",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r2IDKhvwqYJ5618lOsjOM_51.056831_3.728989@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497992,
+    "wof:geomhash":"f446731d32ca2b15ed4f3c5df4f13dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042130539
+        }
+    ],
+    "wof:id":1042130539,
+    "wof:lastmodified":1473497992,
+    "wof:name":"De Jaeger N",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7289888859,
+    51.0568313599,
+    3.7289888859,
+    51.0568313599
+],
+  "geometry": {"coordinates":[3.7289888859,51.0568313599],"type":"Point"}
+}

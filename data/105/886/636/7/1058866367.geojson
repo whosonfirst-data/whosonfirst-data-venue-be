@@ -1,0 +1,79 @@
+{
+  "id": 1058866367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3872270584,50.820892334,4.3872270584,50.820892334",
+    "geom:latitude":50.820892,
+    "geom:longitude":4.387227,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Eug\u00e8ne Cattoir 4",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 340 83 40",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "answering",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SjYT79wFxYmfCjEglqAr9_50.820892_4.387227@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544423,
+    "wof:geomhash":"6839c134dec550cdafbc6ecbd8f6e4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058866367
+        }
+    ],
+    "wof:id":1058866367,
+    "wof:lastmodified":1473544423,
+    "wof:name":"Switch Line",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "answering",
+        "telephone"
+    ]
+},
+  "bbox": [
+    4.3872270584,
+    50.820892334,
+    4.3872270584,
+    50.820892334
+],
+  "geometry": {"coordinates":[4.3872270584,50.820892334],"type":"Point"}
+}

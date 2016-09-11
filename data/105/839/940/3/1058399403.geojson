@@ -1,0 +1,81 @@
+{
+  "id": 1058399403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3067188263,50.820148468,4.3067188263,50.820148468",
+    "geom:latitude":50.820148,
+    "geom:longitude":4.306719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Bollinckx 24",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 07 80",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "machine",
+        "-",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QYZKMEcudpq8as6ADAX2V_50.820148_4.306719@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523190,
+    "wof:geomhash":"8ad68af701b24f34172bcde6dc7c7626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1058399403
+        }
+    ],
+    "wof:id":1058399403,
+    "wof:lastmodified":1473523190,
+    "wof:name":"Trox Belgium Sa",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "-",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    4.3067188263,
+    50.820148468,
+    4.3067188263,
+    50.820148468
+],
+  "geometry": {"coordinates":[4.3067188263,50.820148468],"type":"Point"}
+}

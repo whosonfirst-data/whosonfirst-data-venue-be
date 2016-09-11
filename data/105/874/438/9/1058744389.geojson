@@ -1,0 +1,79 @@
+{
+  "id": 1058744389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6880071163,51.1077575684,3.6880071163,51.1077575684",
+    "geom:latitude":51.107758,
+    "geom:longitude":3.688007,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schoonstraat 78",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 61 70",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76PvCqlU84JK7tvVTRLveN_51.107758_3.688007@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539086,
+    "wof:geomhash":"20d55a619c88e9db2e76c6a22f3c2cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1058744389
+        }
+    ],
+    "wof:id":1058744389,
+    "wof:lastmodified":1473539086,
+    "wof:name":"Jose Saverwijns",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.6880071163,
+    51.1077575684,
+    3.6880071163,
+    51.1077575684
+],
+  "geometry": {"coordinates":[3.6880071163,51.1077575684],"type":"Point"}
+}

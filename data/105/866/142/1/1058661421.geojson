@@ -1,0 +1,79 @@
+{
+  "id": 1058661421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3212709427,50.8619194031,4.3212709427,50.8619194031",
+    "geom:latitude":50.861919,
+    "geom:longitude":4.321271,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Libert\u00e9 80",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 05 25",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QhIBqiEJMrLognfz3tLet_50.861919_4.321271@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535480,
+    "wof:geomhash":"6ba65043da91eba2f5ef849d898a9cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058661421
+        }
+    ],
+    "wof:id":1058661421,
+    "wof:lastmodified":1473535480,
+    "wof:name":"Femarbel-ferubel",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.3212709427,
+    50.8619194031,
+    4.3212709427,
+    50.8619194031
+],
+  "geometry": {"coordinates":[4.3212709427,50.8619194031],"type":"Point"}
+}

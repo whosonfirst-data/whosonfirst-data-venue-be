@@ -1,0 +1,83 @@
+{
+  "id": 1058963541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5770139694,50.6105957031,5.5770139694,50.6105957031",
+    "geom:latitude":50.610596,
+    "geom:longitude":5.577014,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00eane 164",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 497 39 40 40",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801367,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IoBDni5xT42wVuvo8DNWO_50.610596_5.577014@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548935,
+    "wof:geomhash":"7ea2861e73fce83da27b91ce1b8c0bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801367,
+            "region_id":85681691,
+            "venue_id":1058963541
+        }
+    ],
+    "wof:id":1058963541,
+    "wof:lastmodified":1473548935,
+    "wof:name":"Atelier Vandooren Jc",
+    "wof:parent_id":85801367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [
+    5.5770139694,
+    50.6105957031,
+    5.5770139694,
+    50.6105957031
+],
+  "geometry": {"coordinates":[5.5770139694,50.6105957031],"type":"Point"}
+}

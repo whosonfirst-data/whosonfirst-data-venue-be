@@ -1,0 +1,77 @@
+{
+  "id": 1041963243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5876870155,50.6394691467,5.5876870155,50.6394691467",
+    "geom:latitude":50.639469,
+    "geom:longitude":5.587687,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai De La D\u00e9rivation 22-5",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 71 55",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EiX2TzVux6PEvch8ZwkS8_50.639469_5.587687@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490640,
+    "wof:geomhash":"31da18611e10ae0878404f3b6871ca9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041963243
+        }
+    ],
+    "wof:id":1041963243,
+    "wof:lastmodified":1473490640,
+    "wof:name":"Cogito Sprl",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    5.5876870155,
+    50.6394691467,
+    5.5876870155,
+    50.6394691467
+],
+  "geometry": {"coordinates":[5.5876870155,50.6394691467],"type":"Point"}
+}

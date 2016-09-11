@@ -1,0 +1,81 @@
+{
+  "id": 1042112397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3925528526,50.8534545898,4.3925528526,50.8534545898",
+    "geom:latitude":50.853455,
+    "geom:longitude":4.392553,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 488",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 96 42",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BKTE9s9ZvQj1P3tgkbcMn_50.853455_4.392553@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496964,
+    "wof:geomhash":"05c8264b5c7e92ecc073f03890391df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1042112397
+        }
+    ],
+    "wof:id":1042112397,
+    "wof:lastmodified":1473496964,
+    "wof:name":"Comware Computer",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3925528526,
+    50.8534545898,
+    4.3925528526,
+    50.8534545898
+],
+  "geometry": {"coordinates":[4.3925528526,50.8534545898],"type":"Point"}
+}

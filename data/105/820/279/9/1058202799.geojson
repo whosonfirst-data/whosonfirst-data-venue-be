@@ -1,0 +1,72 @@
+{
+  "id": 1058202799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3491950035,50.848613739,4.3491950035,50.848613739",
+    "geom:latitude":50.848614,
+    "geom:longitude":4.349195,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Auguste Orts 7",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 505 29 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bNA4PLwPnNkXbENa9dSUQ_50.848614_4.349195@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514317,
+    "wof:geomhash":"43c71d9b81e39aa2721f9232e959e4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058202799
+        }
+    ],
+    "wof:id":1058202799,
+    "wof:lastmodified":1473514317,
+    "wof:name":"Brussels Marriott Hotel",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3491950035,
+    50.848613739,
+    4.3491950035,
+    50.848613739
+],
+  "geometry": {"coordinates":[4.3491950035,50.848613739],"type":"Point"}
+}

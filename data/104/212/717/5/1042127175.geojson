@@ -1,0 +1,79 @@
+{
+  "id": 1042127175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.367401123,50.8552742004,4.367401123,50.8552742004",
+    "geom:latitude":50.855274,
+    "geom:longitude":4.367401,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 19",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 219 24 27",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tWTxbHUDizqUJ57wT7acx_50.855274_4.367401@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497781,
+    "wof:geomhash":"5f84c169019027e74bee33633be5d2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042127175
+        }
+    ],
+    "wof:id":1042127175,
+    "wof:lastmodified":1473497781,
+    "wof:name":"Clinique Dentaire (la)",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    4.367401123,
+    50.8552742004,
+    4.367401123,
+    50.8552742004
+],
+  "geometry": {"coordinates":[4.367401123,50.8552742004],"type":"Point"}
+}

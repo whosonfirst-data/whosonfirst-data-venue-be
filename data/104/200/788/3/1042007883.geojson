@@ -1,0 +1,77 @@
+{
+  "id": 1042007883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4304227829,51.2076835632,4.4304227829,51.2076835632",
+    "geom:latitude":51.207684,
+    "geom:longitude":4.430423,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dageraadplaats 15",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 235 16 11",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jNYfpk54OozFt85NrBZGZ_51.207684_4.430423@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492601,
+    "wof:geomhash":"97f3ad7339b28b4ff7ee8f9627b246c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042007883
+        }
+    ],
+    "wof:id":1042007883,
+    "wof:lastmodified":1473492601,
+    "wof:name":"Caf\u00c9 De Schraele Troost",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4304227829,
+    51.2076835632,
+    4.4304227829,
+    51.2076835632
+],
+  "geometry": {"coordinates":[4.4304227829,51.2076835632],"type":"Point"}
+}

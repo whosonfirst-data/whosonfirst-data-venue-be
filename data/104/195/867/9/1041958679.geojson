@@ -1,0 +1,79 @@
+{
+  "id": 1041958679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4968008995,50.6512260437,5.4968008995,50.6512260437",
+    "geom:latitude":50.651226,
+    "geom:longitude":5.496801,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'expansion 15",
+    "sg:city":"Gr\u00e2ce-hollogne (gr\u00e2ce-berleur)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 239 00 72",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boiler",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48JUKAzMnw5RAh6lbDDIoB_50.651226_5.496801@1306268367"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490460,
+    "wof:geomhash":"98a16fb02fb4d335fce4daf4da8b26d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1041958679
+        }
+    ],
+    "wof:id":1041958679,
+    "wof:lastmodified":1473490460,
+    "wof:name":"Legros M",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    5.4968008995,
+    50.6512260437,
+    5.4968008995,
+    50.6512260437
+],
+  "geometry": {"coordinates":[5.4968008995,50.6512260437],"type":"Point"}
+}

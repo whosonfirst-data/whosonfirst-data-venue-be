@@ -1,0 +1,73 @@
+{
+  "id": 1058163501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4907150269,51.1605415344,4.4907150269,51.1605415344",
+    "geom:latitude":51.160542,
+    "geom:longitude":4.490715,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Onze-lieve-vrouweplein 1",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 22 54",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U6MjA9UxhOSYPDy5XtE2B_51.160542_4.490715@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512582,
+    "wof:geomhash":"90fa548b33930dd62686e1f1f961930b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058163501
+        }
+    ],
+    "wof:id":1058163501,
+    "wof:lastmodified":1473512582,
+    "wof:name":"Dom Geert",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4907150269,
+    51.1605415344,
+    4.4907150269,
+    51.1605415344
+],
+  "geometry": {"coordinates":[4.4907150269,51.1605415344],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041545995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3926301003,50.8583106995,4.3926301003,50.8583106995",
+    "geom:latitude":50.858311,
+    "geom:longitude":4.39263,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Chardons 46b9",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 85 11",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13eF957kYcuPToOyWU5utI_50.858311_4.392630@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473029,
+    "wof:geomhash":"c76340e7c83aa91d0bae4ae4c2e4d3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041545995
+        }
+    ],
+    "wof:id":1041545995,
+    "wof:lastmodified":1473473029,
+    "wof:name":"Jacques Boels",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3926301003,
+    50.8583106995,
+    4.3926301003,
+    50.8583106995
+],
+  "geometry": {"coordinates":[4.3926301003,50.8583106995],"type":"Point"}
+}

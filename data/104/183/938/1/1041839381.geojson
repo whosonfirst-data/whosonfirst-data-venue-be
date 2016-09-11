@@ -1,0 +1,79 @@
+{
+  "id": 1041839381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4141101837,50.8774757385,4.4141101837,50.8774757385",
+    "geom:latitude":50.877476,
+    "geom:longitude":4.41411,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'aeronef 2",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 702 90 70",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "system",
+        "automation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZuBXhJTQqyxAvDy6RgooA_50.877476_4.414110@1306268347"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485331,
+    "wof:geomhash":"39df3773c6d7f1349a91f1deec821c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1041839381
+        }
+    ],
+    "wof:id":1041839381,
+    "wof:lastmodified":1473485331,
+    "wof:name":"Macq Electronique S.a.",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "automation"
+    ]
+},
+  "bbox": [
+    4.4141101837,
+    50.8774757385,
+    4.4141101837,
+    50.8774757385
+],
+  "geometry": {"coordinates":[4.4141101837,50.8774757385],"type":"Point"}
+}

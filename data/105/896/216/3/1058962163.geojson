@@ -1,0 +1,83 @@
+{
+  "id": 1058962163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3146162033,50.7820358276,4.3146162033,50.7820358276",
+    "geom:latitude":50.782036,
+    "geom:longitude":4.314616,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Castel 58",
+    "sg:city":"Drogenbos",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 13 75",
+    "sg:postcode":"1620",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "warehouse",
+        "equipment",
+        "premise",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801091,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QceeU7etRLvVkxLYZllwd_50.782036_4.314616@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548872,
+    "wof:geomhash":"9b9aa47308e996fbc7b4f43431cb80a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801091,
+            "region_id":85681731,
+            "venue_id":1058962163
+        }
+    ],
+    "wof:id":1058962163,
+    "wof:lastmodified":1473548872,
+    "wof:name":"Promi-art S.p.r.l.",
+    "wof:parent_id":85801091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "equipment",
+        "premise",
+        "business"
+    ]
+},
+  "bbox": [
+    4.3146162033,
+    50.7820358276,
+    4.3146162033,
+    50.7820358276
+],
+  "geometry": {"coordinates":[4.3146162033,50.7820358276],"type":"Point"}
+}

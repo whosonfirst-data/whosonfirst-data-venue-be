@@ -1,0 +1,77 @@
+{
+  "id": 1041548597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4360599518,51.2994384766,4.4360599518,51.2994384766",
+    "geom:latitude":51.299438,
+    "geom:longitude":4.43606,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lieven Gevaertstraat 2-4",
+    "sg:city":"Kapellen (mariaburg)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 40 77",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDUNC723c2qwGiwZeBj25_51.299438_4.436060@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473132,
+    "wof:geomhash":"4a7dd4bf84cce7b10008f35fba402090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1041548597
+        }
+    ],
+    "wof:id":1041548597,
+    "wof:lastmodified":1473473132,
+    "wof:name":"Willemen Carrosserie Nv",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.4360599518,
+    51.2994384766,
+    4.4360599518,
+    51.2994384766
+],
+  "geometry": {"coordinates":[4.4360599518,51.2994384766],"type":"Point"}
+}

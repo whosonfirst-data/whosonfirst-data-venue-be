@@ -1,0 +1,77 @@
+{
+  "id": 1041972459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5693860054,50.6374816895,5.5693860054,50.6374816895",
+    "geom:latitude":50.637482,
+    "geom:longitude":5.569386,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-jacques 12",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 16 01",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74VN9SzVmlr2VQxLq8Zb5i_50.637482_5.569386@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491184,
+    "wof:geomhash":"967ee615dc55a154cbcf588073d0f174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041972459
+        }
+    ],
+    "wof:id":1041972459,
+    "wof:lastmodified":1473491184,
+    "wof:name":"Librairie St-jacques (la)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5693860054,
+    50.6374816895,
+    5.5693860054,
+    50.6374816895
+],
+  "geometry": {"coordinates":[5.5693860054,50.6374816895],"type":"Point"}
+}

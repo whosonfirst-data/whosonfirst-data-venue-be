@@ -1,0 +1,79 @@
+{
+  "id": 1058330771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5577750206,50.6438827515,5.5577750206,50.6438827515",
+    "geom:latitude":50.643883,
+    "geom:longitude":5.557775,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Eracle 53",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 98 95",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J1KDxOwaolo4xo4xaRTOz_50.643883_5.557775@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473520025,
+    "wof:geomhash":"6524e2b36363eeca19de2d7fd3727956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058330771
+        }
+    ],
+    "wof:id":1058330771,
+    "wof:lastmodified":1473520025,
+    "wof:name":"Gonzalez Lopez Pilar",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [
+    5.5577750206,
+    50.6438827515,
+    5.5577750206,
+    50.6438827515
+],
+  "geometry": {"coordinates":[5.5577750206,50.6438827515],"type":"Point"}
+}

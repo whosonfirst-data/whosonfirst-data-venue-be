@@ -1,0 +1,79 @@
+{
+  "id": 1058282319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2918248177,50.8742828369,4.2918248177,50.8742828369",
+    "geom:latitude":50.874283,
+    "geom:longitude":4.291825,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Technologie 61",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 464 29 50",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nPFLlBL7bj18RKtUGqiBR_50.874283_4.291825@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517795,
+    "wof:geomhash":"cc86e9b35c9e2886ec190d251dc7a531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058282319
+        }
+    ],
+    "wof:id":1058282319,
+    "wof:lastmodified":1473517795,
+    "wof:name":"Arbalet Sa",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "internet"
+    ]
+},
+  "bbox": [
+    4.2918248177,
+    50.8742828369,
+    4.2918248177,
+    50.8742828369
+],
+  "geometry": {"coordinates":[4.2918248177,50.8742828369],"type":"Point"}
+}

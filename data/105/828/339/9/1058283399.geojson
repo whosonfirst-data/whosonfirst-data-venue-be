@@ -1,0 +1,79 @@
+{
+  "id": 1058283399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3888540268,51.2067298889,4.3888540268,51.2067298889",
+    "geom:latitude":51.20673,
+    "geom:longitude":4.388854,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gijzelaarsstraat 25",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 475 19 75",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i0SRMgv40P3y7qRTdhkd6_51.206730_4.388854@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517846,
+    "wof:geomhash":"9969e2f265c2802ffacc5b2b511a7bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058283399
+        }
+    ],
+    "wof:id":1058283399,
+    "wof:lastmodified":1473517846,
+    "wof:name":"Signpost Bvba",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "internet"
+    ]
+},
+  "bbox": [
+    4.3888540268,
+    51.2067298889,
+    4.3888540268,
+    51.2067298889
+],
+  "geometry": {"coordinates":[4.3888540268,51.2067298889],"type":"Point"}
+}

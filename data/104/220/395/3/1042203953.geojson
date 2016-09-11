@@ -1,0 +1,83 @@
+{
+  "id": 1042203953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3511471748,50.8764915466,4.3511471748,50.8764915466",
+    "geom:latitude":50.876492,
+    "geom:longitude":4.351147,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marie-christine 163",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 30 59 23",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZZmHolKb8S3br1uYu2znQ_50.876492_4.351147@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502168,
+    "wof:geomhash":"a9948e7ecba717f57b268fcfddc57231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1042203953
+        }
+    ],
+    "wof:id":1042203953,
+    "wof:lastmodified":1473502168,
+    "wof:name":"Beken L",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3511471748,
+    50.8764915466,
+    4.3511471748,
+    50.8764915466
+],
+  "geometry": {"coordinates":[4.3511471748,50.8764915466],"type":"Point"}
+}

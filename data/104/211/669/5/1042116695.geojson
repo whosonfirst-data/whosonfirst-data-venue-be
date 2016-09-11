@@ -1,0 +1,83 @@
+{
+  "id": 1042116695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3644981384,50.84790802,4.3644981384,50.84790802",
+    "geom:latitude":50.847908,
+    "geom:longitude":4.364498,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Croix De Fer 37",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 24 10",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nUUC569RyNNta16W2S9Bx_50.847908_4.364498@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497194,
+    "wof:geomhash":"892eb5613d18adff982bcbf595af3e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042116695
+        }
+    ],
+    "wof:id":1042116695,
+    "wof:lastmodified":1473497194,
+    "wof:name":"S & Ci",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3644981384,
+    50.84790802,
+    4.3644981384,
+    50.84790802
+],
+  "geometry": {"coordinates":[4.3644981384,50.84790802],"type":"Point"}
+}

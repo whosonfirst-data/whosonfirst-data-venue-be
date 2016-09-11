@@ -1,0 +1,81 @@
+{
+  "id": 1042075199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3071789742,50.8697280884,4.3071789742,50.8697280884",
+    "geom:latitude":50.869728,
+    "geom:longitude":4.307179,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 197",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 08 77",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bw59xQil6X1zm1NnX0DbF_50.869728_4.307179@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495287,
+    "wof:geomhash":"6b66e145aaf6ff375fa349ccbfbff292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1042075199
+        }
+    ],
+    "wof:id":1042075199,
+    "wof:lastmodified":1473495287,
+    "wof:name":"Couture Isabelle",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    4.3071789742,
+    50.8697280884,
+    4.3071789742,
+    50.8697280884
+],
+  "geometry": {"coordinates":[4.3071789742,50.8697280884],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042116313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4554691315,51.2497673035,4.4554691315,51.2497673035",
+    "geom:latitude":51.249767,
+    "geom:longitude":4.455469,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Praetlei 6",
+    "sg:city":"Antwerpen (merksem)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 644 35 82",
+    "sg:postcode":"2170",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801615,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L4MgL9n1Pi9miTlmQ29wd_51.249767_4.455469@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497179,
+    "wof:geomhash":"d4e7170a538cdd02fa8b659c08a73ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801615,
+            "region_id":85681715,
+            "venue_id":1042116313
+        }
+    ],
+    "wof:id":1042116313,
+    "wof:lastmodified":1473497179,
+    "wof:name":"Nexar",
+    "wof:parent_id":85801615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.4554691315,
+    51.2497673035,
+    4.4554691315,
+    51.2497673035
+],
+  "geometry": {"coordinates":[4.4554691315,51.2497673035],"type":"Point"}
+}

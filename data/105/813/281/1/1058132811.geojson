@@ -1,0 +1,83 @@
+{
+  "id": 1058132811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4915127754,50.8514060974,4.4915127754,50.8514060974",
+    "geom:latitude":50.851406,
+    "geom:longitude":4.491513,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ruisseau 110",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 77 38",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "equipment",
+        "hairdressing",
+        "-",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JWXcXR3sKpY7ug0D4SfG4_50.851406_4.491513@1306268451"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511138,
+    "wof:geomhash":"b5b0f0ace3369027d081966ae0aab1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1058132811
+        }
+    ],
+    "wof:id":1058132811,
+    "wof:lastmodified":1473511138,
+    "wof:name":"Alain Jonet Diffusion",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hairdressing",
+        "-",
+        "supply"
+    ]
+},
+  "bbox": [
+    4.4915127754,
+    50.8514060974,
+    4.4915127754,
+    50.8514060974
+],
+  "geometry": {"coordinates":[4.4915127754,50.8514060974],"type":"Point"}
+}

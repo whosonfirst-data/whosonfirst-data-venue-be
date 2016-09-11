@@ -1,0 +1,75 @@
+{
+  "id": 1042073699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5123300552,50.5864143372,5.5123300552,50.5864143372",
+    "geom:latitude":50.586414,
+    "geom:longitude":5.51233,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Camille Lemonnier",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 40 51",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10L8KVDAPQHCKA1zk9lG3a_50.586414_5.512330@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495227,
+    "wof:geomhash":"46b48d2d7536a3de19a692edba1fcd9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1042073699
+        }
+    ],
+    "wof:id":1042073699,
+    "wof:lastmodified":1473495227,
+    "wof:name":"Marjorie Boutique",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5123300552,
+    50.5864143372,
+    5.5123300552,
+    50.5864143372
+],
+  "geometry": {"coordinates":[5.5123300552,50.5864143372],"type":"Point"}
+}

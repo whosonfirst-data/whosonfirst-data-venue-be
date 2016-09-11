@@ -1,0 +1,77 @@
+{
+  "id": 1042058541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3883748055,51.1857528687,4.3883748055,51.1857528687",
+    "geom:latitude":51.185753,
+    "geom:longitude":4.388375,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomse Steenweg 406",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 42 78",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M1zDb6MRuXBaU3UVSgM3N_51.185753_4.388375@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494621,
+    "wof:geomhash":"b3a670ff51174f29dd7adee2732794b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1042058541
+        }
+    ],
+    "wof:id":1042058541,
+    "wof:lastmodified":1473494621,
+    "wof:name":"De Heyn Th",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3883748055,
+    51.1857528687,
+    4.3883748055,
+    51.1857528687
+],
+  "geometry": {"coordinates":[4.3883748055,51.1857528687],"type":"Point"}
+}

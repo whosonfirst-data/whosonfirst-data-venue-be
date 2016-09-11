@@ -1,0 +1,83 @@
+{
+  "id": 1058613103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3465080261,50.8932952881,4.3465080261,50.8932952881",
+    "geom:latitude":50.893295,
+    "geom:longitude":4.346508,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dikke Lindelaan 2",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 741 41 11",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "diffusion",
+        "production",
+        "de",
+        "programme"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l4a7CbTWHzKzpHqxtCL57_50.893295_4.346508@1306268539"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533233,
+    "wof:geomhash":"fb6a64eca6886ad1ae4edcf90ba89449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058613103
+        }
+    ],
+    "wof:id":1058613103,
+    "wof:lastmodified":1473533233,
+    "wof:name":"V.r.t.",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diffusion",
+        "production",
+        "de",
+        "programme"
+    ]
+},
+  "bbox": [
+    4.3465080261,
+    50.8932952881,
+    4.3465080261,
+    50.8932952881
+],
+  "geometry": {"coordinates":[4.3465080261,50.8932952881],"type":"Point"}
+}

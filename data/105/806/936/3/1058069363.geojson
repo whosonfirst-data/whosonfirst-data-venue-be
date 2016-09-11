@@ -1,0 +1,81 @@
+{
+  "id": 1058069363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7196140289,51.01770401,3.7196140289,51.01770401",
+    "geom:latitude":51.017704,
+    "geom:longitude":3.719614,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zwijnaardsesteenweg 814",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 56 15",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4u5jTCDbUDQJdqIq0Bj2_51.017704_3.719614@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508299,
+    "wof:geomhash":"80386a5866b792700686c15988e816b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058069363
+        }
+    ],
+    "wof:id":1058069363,
+    "wof:lastmodified":1473508299,
+    "wof:name":"Everaert N",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    3.7196140289,
+    51.01770401,
+    3.7196140289,
+    51.01770401
+],
+  "geometry": {"coordinates":[3.7196140289,51.01770401],"type":"Point"}
+}

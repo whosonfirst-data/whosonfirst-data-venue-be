@@ -1,0 +1,83 @@
+{
+  "id": 1058686937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3494710922,50.8774642944,4.3494710922,50.8774642944",
+    "geom:latitude":50.877464,
+    "geom:longitude":4.349471,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue St\u00c9phanie 155",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 63 38",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n3TY4myqZTsfPLDXs7U64_50.877464_4.349471@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536580,
+    "wof:geomhash":"b624312ee00c76cdda0093c748ca807b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1058686937
+        }
+    ],
+    "wof:id":1058686937,
+    "wof:lastmodified":1473536580,
+    "wof:name":"Restaurant Cheval D'or",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3494710922,
+    50.8774642944,
+    4.3494710922,
+    50.8774642944
+],
+  "geometry": {"coordinates":[4.3494710922,50.8774642944],"type":"Point"}
+}

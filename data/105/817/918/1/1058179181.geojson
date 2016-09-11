@@ -1,0 +1,85 @@
+{
+  "id": 1058179181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5164179802,50.6258392334,5.5164179802,50.6258392334",
+    "geom:latitude":50.625839,
+    "geom:longitude":5.516418,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Montegn\u00e9e 46",
+    "sg:city":"Seraing (jemeppe-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 234 41 62",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AENezj4FG5tdy3qnlT7EX_50.625839_5.516418@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513296,
+    "wof:geomhash":"041235a2dd9fbc669bc1a20a634d39d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058179181
+        }
+    ],
+    "wof:id":1058179181,
+    "wof:lastmodified":1473513296,
+    "wof:name":"Maesen G",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    5.5164179802,
+    50.6258392334,
+    5.5164179802,
+    50.6258392334
+],
+  "geometry": {"coordinates":[5.5164179802,50.6258392334],"type":"Point"}
+}

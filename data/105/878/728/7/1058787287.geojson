@@ -1,0 +1,77 @@
+{
+  "id": 1058787287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3755631447,50.8497810364,4.3755631447,50.8497810364",
+    "geom:latitude":50.849781,
+    "geom:longitude":4.375563,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Willems 9",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 67 68",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R3YJT0FHHndy5PItVka6G_50.849781_4.375563@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540972,
+    "wof:geomhash":"be757b525fe78885bbc5c24446d1e6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058787287
+        }
+    ],
+    "wof:id":1058787287,
+    "wof:lastmodified":1473540972,
+    "wof:name":"Gavroche",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.3755631447,
+    50.8497810364,
+    4.3755631447,
+    50.8497810364
+],
+  "geometry": {"coordinates":[4.3755631447,50.8497810364],"type":"Point"}
+}

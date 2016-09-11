@@ -1,0 +1,77 @@
+{
+  "id": 1042058647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7475941181,51.0603370667,3.7475941181,51.0603370667",
+    "geom:latitude":51.060337,
+    "geom:longitude":3.747594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpsesteenweg 312",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 23 21",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55laadLv4cNdaGPCy0IcVh_51.060337_3.747594@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494625,
+    "wof:geomhash":"0112528236692b3b76917552e673a055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1042058647
+        }
+    ],
+    "wof:id":1042058647,
+    "wof:lastmodified":1473494625,
+    "wof:name":"De Schauvre A",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.7475941181,
+    51.0603370667,
+    3.7475941181,
+    51.0603370667
+],
+  "geometry": {"coordinates":[3.7475941181,51.0603370667],"type":"Point"}
+}

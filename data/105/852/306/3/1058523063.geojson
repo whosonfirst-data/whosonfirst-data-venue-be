@@ -1,0 +1,73 @@
+{
+  "id": 1058523063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2610170841,51.2153167725,3.2610170841,51.2153167725",
+    "geom:latitude":51.215317,
+    "geom:longitude":3.261017,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Paallanden 14",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 14 67",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gzI1yIr2uuNVHgIjc2mjP_51.215317_3.261017@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529137,
+    "wof:geomhash":"96675aafb60c6ea5b9bbdb7af9dd8ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058523063
+        }
+    ],
+    "wof:id":1058523063,
+    "wof:lastmodified":1473529137,
+    "wof:name":"Blondeel O",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    3.2610170841,
+    51.2153167725,
+    3.2610170841,
+    51.2153167725
+],
+  "geometry": {"coordinates":[3.2610170841,51.2153167725],"type":"Point"}
+}

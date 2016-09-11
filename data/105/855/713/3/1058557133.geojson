@@ -1,0 +1,77 @@
+{
+  "id": 1058557133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2508490086,51.2062072754,3.2508490086,51.2062072754",
+    "geom:latitude":51.206207,
+    "geom:longitude":3.250849,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Welvaartstraat 42",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 14 06",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q7HpbvMzIYgnjhMwVGrJh_51.206207_3.250849@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530677,
+    "wof:geomhash":"8614d65385778b275458a1d8ae7aeb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1058557133
+        }
+    ],
+    "wof:id":1058557133,
+    "wof:lastmodified":1473530677,
+    "wof:name":"Gabri\u00ebls Johan",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2508490086,
+    51.2062072754,
+    3.2508490086,
+    51.2062072754
+],
+  "geometry": {"coordinates":[3.2508490086,51.2062072754],"type":"Point"}
+}

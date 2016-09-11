@@ -1,0 +1,81 @@
+{
+  "id": 1058137995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.339179039,50.8885269165,4.339179039,50.8885269165",
+    "geom:latitude":50.888527,
+    "geom:longitude":4.339179,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Houba De Strooper 77",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 58 95",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2czyZiR9mFEb7AZldG04c8_50.888527_4.339179@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511366,
+    "wof:geomhash":"ad518254e83b1eb2a75ddd903152f3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058137995
+        }
+    ],
+    "wof:id":1058137995,
+    "wof:lastmodified":1473511366,
+    "wof:name":"Coiffure 777-m. D'hont",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.339179039,
+    50.8885269165,
+    4.339179039,
+    50.8885269165
+],
+  "geometry": {"coordinates":[4.339179039,50.8885269165],"type":"Point"}
+}

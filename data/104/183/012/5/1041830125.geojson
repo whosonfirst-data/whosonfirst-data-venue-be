@@ -1,0 +1,77 @@
+{
+  "id": 1041830125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.41106987,50.8379364014,4.41106987,50.8379364014",
+    "geom:latitude":50.837936,
+    "geom:longitude":4.41107,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Duc 94",
+    "sg:city":"Sint-pieters-woluwe/woluwe-sai",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 776 04 46",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ft92U8fywHXd4cAOrmePd_50.837936_4.411070@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484947,
+    "wof:geomhash":"2e54d56e7798662785a17f2d3a63ea27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1041830125
+        }
+    ],
+    "wof:id":1041830125,
+    "wof:lastmodified":1473484947,
+    "wof:name":"Insurance Service",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.41106987,
+    50.8379364014,
+    4.41106987,
+    50.8379364014
+],
+  "geometry": {"coordinates":[4.41106987,50.8379364014],"type":"Point"}
+}

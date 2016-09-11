@@ -1,0 +1,77 @@
+{
+  "id": 1042123785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5834131241,50.7887458801,4.5834131241,50.7887458801",
+    "geom:latitude":50.788746,
+    "geom:longitude":4.583413,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gemeenteplein 3-5",
+    "sg:city":"Huldenberg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 34 34",
+    "sg:postcode":"3040",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74B5gpgmnUkLCLcG2NjAAV_50.788746_4.583413@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497595,
+    "wof:geomhash":"c1fef9a9398cc47aef06362aecd8b4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1042123785
+        }
+    ],
+    "wof:id":1042123785,
+    "wof:lastmodified":1473497595,
+    "wof:name":"Baby-box-biebelbox",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.5834131241,
+    50.7887458801,
+    4.5834131241,
+    50.7887458801
+],
+  "geometry": {"coordinates":[4.5834131241,50.7887458801],"type":"Point"}
+}

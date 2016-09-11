@@ -1,0 +1,83 @@
+{
+  "id": 1058483023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4468188286,51.192565918,4.4468188286,51.192565918",
+    "geom:latitude":51.192566,
+    "geom:longitude":4.446819,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leuvensesteenweg 325",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 281 16 60",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "database",
+        "producer",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ede4dK0Gz2vwOqXFgXQC_51.192566_4.446819@1306268516"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527280,
+    "wof:geomhash":"5524a1fa08846d1e6e38d6df8ae00d06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058483023
+        }
+    ],
+    "wof:id":1058483023,
+    "wof:lastmodified":1473527280,
+    "wof:name":"Compuguide",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "database",
+        "producer",
+        "online"
+    ]
+},
+  "bbox": [
+    4.4468188286,
+    51.192565918,
+    4.4468188286,
+    51.192565918
+],
+  "geometry": {"coordinates":[4.4468188286,51.192565918],"type":"Point"}
+}

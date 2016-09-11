@@ -1,0 +1,83 @@
+{
+  "id": 1058867785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.382463932,50.8932495117,4.382463932,50.8932495117",
+    "geom:latitude":50.89325,
+    "geom:longitude":4.382464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Heembeek 248",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 54 54",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xaLHCw9aH24cdAdk4Up80_50.893250_4.382464@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544474,
+    "wof:geomhash":"9f5fb8ec7c52deb20915c9ce3afcdd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1058867785
+        }
+    ],
+    "wof:id":1058867785,
+    "wof:lastmodified":1473544474,
+    "wof:name":"Tele Sound",
+    "wof:parent_id":85801665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.382463932,
+    50.8932495117,
+    4.382463932,
+    50.8932495117
+],
+  "geometry": {"coordinates":[4.382463932,50.8932495117],"type":"Point"}
+}

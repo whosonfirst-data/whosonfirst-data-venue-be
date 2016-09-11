@@ -1,0 +1,79 @@
+{
+  "id": 1041604017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2848210335,51.2213554382,4.2848210335,51.2213554382",
+    "geom:latitude":51.221355,
+    "geom:longitude":4.284821,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-elisabethstraat 36",
+    "sg:city":"Beveren (melsele)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 755 37 38",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A82mcRzXx5XqfyxJNPjFG_51.221355_4.284821@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475472,
+    "wof:geomhash":"caf4c303817df2496245f3ca3240b29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1041604017
+        }
+    ],
+    "wof:id":1041604017,
+    "wof:lastmodified":1473475472,
+    "wof:name":"Cattoir H",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2848210335,
+    51.2213554382,
+    4.2848210335,
+    51.2213554382
+],
+  "geometry": {"coordinates":[4.2848210335,51.2213554382],"type":"Point"}
+}

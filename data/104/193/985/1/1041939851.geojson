@@ -1,0 +1,77 @@
+{
+  "id": 1041939851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3466768265,50.8515396118,4.3466768265,50.8515396118",
+    "geom:latitude":50.85154,
+    "geom:longitude":4.346677,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Flandre 41",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 92 65",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bird"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kzAD2CdZiZv2KR98FEzwy_50.851540_4.346677@1306268365"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489658,
+    "wof:geomhash":"77ee376ac117ee508b90c8be7514e2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041939851
+        }
+    ],
+    "wof:id":1041939851,
+    "wof:lastmodified":1473489658,
+    "wof:name":"Paradis De L'oiseau",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bird"
+    ]
+},
+  "bbox": [
+    4.3466768265,
+    50.8515396118,
+    4.3466768265,
+    50.8515396118
+],
+  "geometry": {"coordinates":[4.3466768265,50.8515396118],"type":"Point"}
+}

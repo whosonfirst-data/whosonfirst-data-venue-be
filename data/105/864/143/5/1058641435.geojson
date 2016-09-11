@@ -1,0 +1,81 @@
+{
+  "id": 1058641435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3896517754,50.8208312988,4.3896517754,50.8208312988",
+    "geom:latitude":50.820831,
+    "geom:longitude":4.389652,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Couronne 265",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 00 78",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pump",
+        "industrial",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aLAmJXGs6s70Rp6LmRuBn_50.820831_4.389652@1306268545"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534558,
+    "wof:geomhash":"70e3aed250febc4bc7d156aae36d57d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058641435
+        }
+    ],
+    "wof:id":1058641435,
+    "wof:lastmodified":1473534558,
+    "wof:name":"Wolf-zondervan Nv-sa",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "industrial",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3896517754,
+    50.8208312988,
+    4.3896517754,
+    50.8208312988
+],
+  "geometry": {"coordinates":[4.3896517754,50.8208312988],"type":"Point"}
+}

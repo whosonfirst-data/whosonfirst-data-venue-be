@@ -1,0 +1,87 @@
+{
+  "id": 1041680229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3053297997,50.8000717163,4.3053297997,50.8000717163",
+    "geom:latitude":50.800072,
+    "geom:longitude":4.30533,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Humaniteitslaan 222-228",
+    "sg:city":"Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 370 13 70",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "torch",
+        "flame",
+        "soldering",
+        "torches",
+        "cutter",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801683,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63C1yjlfutKTDOVb9Ce2aj_50.800072_4.305330@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478528,
+    "wof:geomhash":"a95d26970b1d894a1cba96c83ad54e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801683,
+            "region_id":85681731,
+            "venue_id":1041680229
+        }
+    ],
+    "wof:id":1041680229,
+    "wof:lastmodified":1473478528,
+    "wof:name":"Castolin + Messer Nv",
+    "wof:parent_id":85801683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "torch",
+        "flame",
+        "soldering",
+        "torches",
+        "cutter",
+        "welding"
+    ]
+},
+  "bbox": [
+    4.3053297997,
+    50.8000717163,
+    4.3053297997,
+    50.8000717163
+],
+  "geometry": {"coordinates":[4.3053297997,50.8000717163],"type":"Point"}
+}

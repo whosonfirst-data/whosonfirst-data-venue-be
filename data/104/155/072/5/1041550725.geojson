@@ -1,0 +1,79 @@
+{
+  "id": 1041550725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2537431717,50.8711471558,4.2537431717,50.8711471558",
+    "geom:latitude":50.871147,
+    "geom:longitude":4.253743,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselstraat 370",
+    "sg:city":"Dilbeek (groot - Bijgaarden)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 36 09",
+    "sg:postcode":"1702",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HbEouKGy69UmGatXe4l8l_50.871147_4.253743@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473216,
+    "wof:geomhash":"5542ea228e5ea631d0ecb7fa47890b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1041550725
+        }
+    ],
+    "wof:id":1041550725,
+    "wof:lastmodified":1473473216,
+    "wof:name":"Hoeveke ('t)",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.2537431717,
+    50.8711471558,
+    4.2537431717,
+    50.8711471558
+],
+  "geometry": {"coordinates":[4.2537431717,50.8711471558],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1042197999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.351998806,50.8722381592,4.351998806,50.8722381592",
+    "geom:latitude":50.872238,
+    "geom:longitude":4.351999,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Molenbeek 173",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 61 23",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fGwK0Aso7ayoK5XQJufj1_50.872238_4.351999@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501801,
+    "wof:geomhash":"df5fc384e657d30b6fc5e2d6d60f0bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042197999
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1042197999
+        }
+    ],
+    "wof:id":1042197999,
+    "wof:lastmodified":1473501801,
+    "wof:name":"Spes-bklo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.351998806,
+    50.8722381592,
+    4.351998806,
+    50.8722381592
+],
+  "geometry": {"coordinates":[4.351998806,50.8722381592],"type":"Point"}
+}

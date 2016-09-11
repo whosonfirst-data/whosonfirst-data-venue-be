@@ -1,0 +1,77 @@
+{
+  "id": 1041654365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2298901081,51.2125282288,3.2298901081,51.2125282288",
+    "geom:latitude":51.212528,
+    "geom:longitude":3.22989,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-annaplein 32a",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 70 35",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "denture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R5Pgg59QQfwVKBDp0BuLP_51.212528_3.229890@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477510,
+    "wof:geomhash":"f80ad17bec190a93066cfd14ab6bed9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1041654365
+        }
+    ],
+    "wof:id":1041654365,
+    "wof:lastmodified":1473477510,
+    "wof:name":"Kerckhove R",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "denture"
+    ]
+},
+  "bbox": [
+    3.2298901081,
+    51.2125282288,
+    3.2298901081,
+    51.2125282288
+],
+  "geometry": {"coordinates":[3.2298901081,51.2125282288],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1058524021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2977547646,51.1512985229,4.2977547646,51.1512985229",
+    "geom:latitude":51.151299,
+    "geom:longitude":4.297755,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Andr\u00e9e Perdieusstraat 3",
+    "sg:city":"Kruibeke (bazel)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 774 42 68",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C758phs5p8yj6xKyw10HW_51.151299_4.297755@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529176,
+    "wof:geomhash":"eaf571f438d652ec91345a76e7a722f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058524021
+        }
+    ],
+    "wof:id":1058524021,
+    "wof:lastmodified":1473529176,
+    "wof:name":"Van Den Nieuwenhuysen M",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    4.2977547646,
+    51.1512985229,
+    4.2977547646,
+    51.1512985229
+],
+  "geometry": {"coordinates":[4.2977547646,51.1512985229],"type":"Point"}
+}

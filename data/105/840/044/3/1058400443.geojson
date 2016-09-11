@@ -1,0 +1,77 @@
+{
+  "id": 1058400443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3978219032,50.7224235535,4.3978219032,50.7224235535",
+    "geom:latitude":50.722424,
+    "geom:longitude":4.397822,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Bruxelles 146",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 61 04",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CAvB59K3pfhjSKaGh4Ppy_50.722424_4.397822@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523263,
+    "wof:geomhash":"06f0f6ab348e42bca645decda6348d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058400443
+        }
+    ],
+    "wof:id":1058400443,
+    "wof:lastmodified":1473523263,
+    "wof:name":"Centre De M\u00e9decine De Waterloo",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3978219032,
+    50.7224235535,
+    4.3978219032,
+    50.7224235535
+],
+  "geometry": {"coordinates":[4.3978219032,50.7224235535],"type":"Point"}
+}

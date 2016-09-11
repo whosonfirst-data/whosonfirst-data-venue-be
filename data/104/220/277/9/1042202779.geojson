@@ -1,0 +1,92 @@
+{
+  "id": 1042202779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3011240959,50.8657836914,4.3011240959,50.8657836914",
+    "geom:latitude":50.865784,
+    "geom:longitude":4.301124,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Josse Goffin 98",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 92 36",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PKtLnktyhhOaxbhmHUx3T_50.865784_4.301124@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502114,
+    "wof:geomhash":"4b94fd9b4186a6c999012f1b882fa05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1042202779
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1042202779
+        }
+    ],
+    "wof:id":1042202779,
+    "wof:lastmodified":1473502114,
+    "wof:name":"Demarest F",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3011240959,
+    50.8657836914,
+    4.3011240959,
+    50.8657836914
+],
+  "geometry": {"coordinates":[4.3011240959,50.8657836914],"type":"Point"}
+}

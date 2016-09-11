@@ -1,0 +1,83 @@
+{
+  "id": 1041770855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7325949669,51.0396347046,3.7325949669,51.0396347046",
+    "geom:latitude":51.039635,
+    "geom:longitude":3.732595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leeuwstraat 70",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 234 16 90",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733,
+        85801171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00iS34SvObPmREDCRp9ujy_51.039635_3.732595@1306268336"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482587,
+    "wof:geomhash":"2a569a23569abb8a9b76406edc05d58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041770855
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041770855
+        }
+    ],
+    "wof:id":1041770855,
+    "wof:lastmodified":1473482587,
+    "wof:name":"Anthonissen B",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7325949669,
+    51.0396347046,
+    3.7325949669,
+    51.0396347046
+],
+  "geometry": {"coordinates":[3.7325949669,51.0396347046],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041547489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6242380142,50.6268234253,5.6242380142,50.6268234253",
+    "geom:latitude":50.626823,
+    "geom:longitude":5.624238,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'espoir 34",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 30 32",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BECNprS68B5A0uepSF5Us_50.626823_5.624238@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473091,
+    "wof:geomhash":"24ee14e9ae6bc54a7f891ec4f6c589aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1041547489
+        }
+    ],
+    "wof:id":1041547489,
+    "wof:lastmodified":1473473091,
+    "wof:name":"Collignon F Sa",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    5.6242380142,
+    50.6268234253,
+    5.6242380142,
+    50.6268234253
+],
+  "geometry": {"coordinates":[5.6242380142,50.6268234253],"type":"Point"}
+}

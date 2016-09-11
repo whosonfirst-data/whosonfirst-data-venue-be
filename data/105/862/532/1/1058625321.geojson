@@ -1,0 +1,79 @@
+{
+  "id": 1058625321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6795859337,51.0297622681,3.6795859337,51.0297622681",
+    "geom:latitude":51.029762,
+    "geom:longitude":3.679586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beukenlaan 44",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 20 39",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CBrvvxpO1j20hTlS4ibwF_51.029762_3.679586@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533803,
+    "wof:geomhash":"653ac31e07552bedd0640cc9eedde06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1058625321
+        }
+    ],
+    "wof:id":1058625321,
+    "wof:lastmodified":1473533803,
+    "wof:name":"Van De Vijver Lieva",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    3.6795859337,
+    51.0297622681,
+    3.6795859337,
+    51.0297622681
+],
+  "geometry": {"coordinates":[3.6795859337,51.0297622681],"type":"Point"}
+}

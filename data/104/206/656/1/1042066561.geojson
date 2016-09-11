@@ -1,0 +1,81 @@
+{
+  "id": 1042066561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5135030746,50.6105766296,5.5135030746,50.6105766296",
+    "geom:latitude":50.610577,
+    "geom:longitude":5.513503,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zoning Industriel Val Saint-lambert 1",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 338 09 37",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "civil",
+        "engineering",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cBVyyZUtuZOigxUaL8Aba_50.610577_5.513503@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494935,
+    "wof:geomhash":"945f1780b82cf9a9cffd4d88f78fd05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1042066561
+        }
+    ],
+    "wof:id":1042066561,
+    "wof:lastmodified":1473494935,
+    "wof:name":"Mecaneurope",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "engineering",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5135030746,
+    50.6105766296,
+    5.5135030746,
+    50.6105766296
+],
+  "geometry": {"coordinates":[5.5135030746,50.6105766296],"type":"Point"}
+}

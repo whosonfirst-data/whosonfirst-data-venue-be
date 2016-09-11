@@ -1,0 +1,77 @@
+{
+  "id": 1058090129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3836679459,50.712688446,4.3836679459,50.712688446",
+    "geom:latitude":50.712688,
+    "geom:longitude":4.383668,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'infante 52",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 78 58",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Dd6YoelvI8Jeao7t9plq_50.712688_4.383668@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509157,
+    "wof:geomhash":"4ae947742b7696802c61bcbd0ff9c927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058090129
+        }
+    ],
+    "wof:id":1058090129,
+    "wof:lastmodified":1473509157,
+    "wof:name":"Blocry Garage Sprl",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3836679459,
+    50.712688446,
+    4.3836679459,
+    50.712688446
+],
+  "geometry": {"coordinates":[4.3836679459,50.712688446],"type":"Point"}
+}

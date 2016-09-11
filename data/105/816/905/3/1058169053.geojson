@@ -1,0 +1,73 @@
+{
+  "id": 1058169053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6969618797,50.7339248657,5.6969618797,50.7339248657",
+    "geom:latitude":50.733925,
+    "geom:longitude":5.696962,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rempart Des Arquebusiers 39c Box 4",
+    "sg:city":"Vis\u00e9",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 374 19 47",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sSgCGI5EZdkRINvpQiM93_50.733925_5.696962@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512853,
+    "wof:geomhash":"17fc9baf1c78f2e378e5ecb47aedc8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1058169053
+        }
+    ],
+    "wof:id":1058169053,
+    "wof:lastmodified":1473512853,
+    "wof:name":"Jacobs Xavier",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6969618797,
+    50.7339248657,
+    5.6969618797,
+    50.7339248657
+],
+  "geometry": {"coordinates":[5.6969618797,50.7339248657],"type":"Point"}
+}

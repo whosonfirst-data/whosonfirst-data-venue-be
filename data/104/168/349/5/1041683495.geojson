@@ -1,0 +1,77 @@
+{
+  "id": 1041683495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7096400261,51.0549507141,3.7096400261,51.0549507141",
+    "geom:latitude":51.054951,
+    "geom:longitude":3.70964,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Coupure 712",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 58 69",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gyJ14akZqolLXpa7totzB_51.054951_3.709640@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478658,
+    "wof:geomhash":"d08fa4f4f150cac517f80af3b11e1a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041683495
+        }
+    ],
+    "wof:id":1041683495,
+    "wof:lastmodified":1473478658,
+    "wof:name":"Accountancy Service Bvba",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.7096400261,
+    51.0549507141,
+    3.7096400261,
+    51.0549507141
+],
+  "geometry": {"coordinates":[3.7096400261,51.0549507141],"type":"Point"}
+}

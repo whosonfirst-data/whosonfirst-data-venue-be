@@ -1,0 +1,79 @@
+{
+  "id": 1042067021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6367321014,50.6679840088,5.6367321014,50.6679840088",
+    "geom:latitude":50.667984,
+    "geom:longitude":5.636732,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Large Voie 164",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 36 63",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wS7OTq6HlQdDTN3uNO1b3_50.667984_5.636732@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494952,
+    "wof:geomhash":"5baa54a5a643834c9049a0c78402a416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1042067021
+        }
+    ],
+    "wof:id":1042067021,
+    "wof:lastmodified":1473494952,
+    "wof:name":"Le Narcisse Blanc",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    5.6367321014,
+    50.6679840088,
+    5.6367321014,
+    50.6679840088
+],
+  "geometry": {"coordinates":[5.6367321014,50.6679840088],"type":"Point"}
+}

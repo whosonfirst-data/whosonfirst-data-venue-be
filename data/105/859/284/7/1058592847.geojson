@@ -1,0 +1,81 @@
+{
+  "id": 1058592847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3916769028,50.8561286926,4.3916769028,50.8561286926",
+    "geom:latitude":50.856129,
+    "geom:longitude":4.391677,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De La Patrie 51",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 02 40",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "equipment",
+        "plumber",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZCbRzIXjsDQJuCuCmGwhs_50.856129_4.391677@1306268535"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532309,
+    "wof:geomhash":"b39efd1bdca8e314f83b2f3ccd8e8537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058592847
+        }
+    ],
+    "wof:id":1058592847,
+    "wof:lastmodified":1473532309,
+    "wof:name":"Confort D'eau Sprl",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "plumber",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3916769028,
+    50.8561286926,
+    4.3916769028,
+    50.8561286926
+],
+  "geometry": {"coordinates":[4.3916769028,50.8561286926],"type":"Point"}
+}

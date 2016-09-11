@@ -1,0 +1,83 @@
+{
+  "id": 1058177557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4433779716,50.9119606018,4.4433779716,50.9119606018",
+    "geom:latitude":50.911961,
+    "geom:longitude":4.443378,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korenbloemstraat 41",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 13 13",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801859,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tGBsjrXRt6zkPbDU0l5zf_50.911961_4.443378@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513227,
+    "wof:geomhash":"0d4b0f3dc17f5a44321fc456b718180d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801859,
+            "region_id":85681731,
+            "venue_id":1058177557
+        }
+    ],
+    "wof:id":1058177557,
+    "wof:lastmodified":1473513227,
+    "wof:name":"Tubex Sprl",
+    "wof:parent_id":85801859,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4433779716,
+    50.9119606018,
+    4.4433779716,
+    50.9119606018
+],
+  "geometry": {"coordinates":[4.4433779716,50.9119606018],"type":"Point"}
+}

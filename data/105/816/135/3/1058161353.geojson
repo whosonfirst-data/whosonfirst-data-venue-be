@@ -1,0 +1,73 @@
+{
+  "id": 1058161353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6577439308,50.9967308044,3.6577439308,50.9967308044",
+    "geom:latitude":50.996731,
+    "geom:longitude":3.657744,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gloxinialaan 20",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 36 99",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42B04vcGLuy205h4NOd3NV_50.996731_3.657744@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512497,
+    "wof:geomhash":"23ab17b514398b50cdb73fa8b6f14c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058161353
+        }
+    ],
+    "wof:id":1058161353,
+    "wof:lastmodified":1473512497,
+    "wof:name":"Declercq M-t",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6577439308,
+    50.9967308044,
+    3.6577439308,
+    50.9967308044
+],
+  "geometry": {"coordinates":[3.6577439308,50.9967308044],"type":"Point"}
+}

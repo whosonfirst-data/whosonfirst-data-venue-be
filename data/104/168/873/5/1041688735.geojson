@@ -1,0 +1,77 @@
+{
+  "id": 1041688735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3035721779,50.8441314697,4.3035721779,50.8441314697",
+    "geom:latitude":50.844131,
+    "geom:longitude":4.303572,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Puccinistraat 102",
+    "sg:city":"Anderlecht/anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 72 48",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XycToIWpkPjfZVsM1gVQK_50.844131_4.303572@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478854,
+    "wof:geomhash":"fe63c0adb35b02e40314d270deb511da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041688735
+        }
+    ],
+    "wof:id":1041688735,
+    "wof:lastmodified":1473478854,
+    "wof:name":"Roger Van Dist",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.3035721779,
+    50.8441314697,
+    4.3035721779,
+    50.8441314697
+],
+  "geometry": {"coordinates":[4.3035721779,50.8441314697],"type":"Point"}
+}

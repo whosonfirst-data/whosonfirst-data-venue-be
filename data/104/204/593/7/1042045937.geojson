@@ -1,0 +1,77 @@
+{
+  "id": 1042045937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3354549408,50.8318557739,4.3354549408,50.8318557739",
+    "geom:latitude":50.831856,
+    "geom:longitude":4.335455,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De M\u00e9rode 162",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 58 46",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ceiling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_541UF7TQVFf1Tm6xqOYUrn_50.831856_4.335455@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494091,
+    "wof:geomhash":"45ca171a85d9d2a9cb45ad37a64f86e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1042045937
+        }
+    ],
+    "wof:id":1042045937,
+    "wof:lastmodified":1473494091,
+    "wof:name":"Renoba",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceiling"
+    ]
+},
+  "bbox": [
+    4.3354549408,
+    50.8318557739,
+    4.3354549408,
+    50.8318557739
+],
+  "geometry": {"coordinates":[4.3354549408,50.8318557739],"type":"Point"}
+}

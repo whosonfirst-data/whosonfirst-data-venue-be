@@ -1,0 +1,83 @@
+{
+  "id": 1041645185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3583202362,50.8972244263,4.3583202362,50.8972244263",
+    "geom:latitude":50.897224,
+    "geom:longitude":4.35832,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Brise 32",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 262 12 25",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZWjUvXZlTt4Zr3bg8azs4_50.897224_4.358320@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477147,
+    "wof:geomhash":"4c88f3cef4869ec2780fb6b55b815a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1041645185
+        }
+    ],
+    "wof:id":1041645185,
+    "wof:lastmodified":1473477147,
+    "wof:name":"Hobby Photo Video Sprl",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3583202362,
+    50.8972244263,
+    4.3583202362,
+    50.8972244263
+],
+  "geometry": {"coordinates":[4.3583202362,50.8972244263],"type":"Point"}
+}

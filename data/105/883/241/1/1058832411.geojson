@@ -1,0 +1,79 @@
+{
+  "id": 1058832411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2518110275,51.168838501,3.2518110275,51.168838501",
+    "geom:latitude":51.168839,
+    "geom:longitude":3.251811,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lieverstedestraat 23",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 82 75 66",
+    "sg:postcode":"8020",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "fixture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xh2zLYpSg71ovNuKP80XZ_51.168839_3.251811@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542958,
+    "wof:geomhash":"88eae75a54ad13f2039f67b872ddfdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058832411
+        }
+    ],
+    "wof:id":1058832411,
+    "wof:lastmodified":1473542958,
+    "wof:name":"Euro Design Apoteek Inrichtingen Bvba",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    3.2518110275,
+    51.168838501,
+    3.2518110275,
+    51.168838501
+],
+  "geometry": {"coordinates":[3.2518110275,51.168838501],"type":"Point"}
+}

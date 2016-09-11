@@ -1,0 +1,79 @@
+{
+  "id": 1058830475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4255747795,50.9189567566,4.4255747795,50.9189567566",
+    "geom:latitude":50.918957,
+    "geom:longitude":4.425575,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaarbeeklei 199",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 58 99",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801947,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k6fquz0wnLgebOqfLwIX2_50.918957_4.425575@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542877,
+    "wof:geomhash":"af11122fdf1cc5cbfe1e2d53864fe912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801947,
+            "region_id":85681731,
+            "venue_id":1058830475
+        }
+    ],
+    "wof:id":1058830475,
+    "wof:lastmodified":1473542877,
+    "wof:name":"Servauto-total",
+    "wof:parent_id":85801947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    4.4255747795,
+    50.9189567566,
+    4.4255747795,
+    50.9189567566
+],
+  "geometry": {"coordinates":[4.4255747795,50.9189567566],"type":"Point"}
+}

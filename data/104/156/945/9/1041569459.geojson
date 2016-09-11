@@ -1,0 +1,79 @@
+{
+  "id": 1041569459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5892829895,50.6486663818,5.5892829895,50.6486663818",
+    "geom:latitude":50.648666,
+    "geom:longitude":5.589283,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-l\u00e9onard 170",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 45 09",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuXAKKdRcPMVR2Ctwl3D2_50.648666_5.589283@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474021,
+    "wof:geomhash":"198d017a83512f04add03e5adf929e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1041569459
+        }
+    ],
+    "wof:id":1041569459,
+    "wof:lastmodified":1473474021,
+    "wof:name":"Luxor",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    5.5892829895,
+    50.6486663818,
+    5.5892829895,
+    50.6486663818
+],
+  "geometry": {"coordinates":[5.5892829895,50.6486663818],"type":"Point"}
+}

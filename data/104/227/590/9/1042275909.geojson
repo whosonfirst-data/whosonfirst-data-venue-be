@@ -1,0 +1,81 @@
+{
+  "id": 1042275909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.366560936,50.8547401428,4.366560936,50.8547401428",
+    "geom:latitude":50.85474,
+    "geom:longitude":4.366561,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Royale 171 Box 3",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 209 16 30",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1od4dsA0zV8B4LrY0xZ74I_50.854740_4.366561@1306268426"
+    },
+    "wof:country":"BE",
+    "wof:created":1473505485,
+    "wof:geomhash":"de8d3d3e1c403e7510fdbc5e1a6024cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042275909
+        }
+    ],
+    "wof:id":1042275909,
+    "wof:lastmodified":1473505485,
+    "wof:name":"Green Belgium",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ]
+},
+  "bbox": [
+    4.366560936,
+    50.8547401428,
+    4.366560936,
+    50.8547401428
+],
+  "geometry": {"coordinates":[4.366560936,50.8547401428],"type":"Point"}
+}

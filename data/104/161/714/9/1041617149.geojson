@@ -1,0 +1,77 @@
+{
+  "id": 1041617149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7078769207,51.0484237671,3.7078769207,51.0484237671",
+    "geom:latitude":51.048424,
+    "geom:longitude":3.707877,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Martelaarslaan 401a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 36 13",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lc6MCl6Elwf9zkybUoAk4_51.048424_3.707877@1306268478"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475993,
+    "wof:geomhash":"b5f1e99e9be3a534d4e6c5006c07d3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041617149
+        }
+    ],
+    "wof:id":1041617149,
+    "wof:lastmodified":1473475993,
+    "wof:name":"Delanghe C Bvba",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    3.7078769207,
+    51.0484237671,
+    3.7078769207,
+    51.0484237671
+],
+  "geometry": {"coordinates":[3.7078769207,51.0484237671],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058513933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2023699284,51.2021713257,3.2023699284,51.2021713257",
+    "geom:latitude":51.202171,
+    "geom:longitude":3.20237,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gistelse Steenweg 140 Box 5",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 37 87 70",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vT2sCP1wk7k4SbRv81QRa_51.202171_3.202370@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528727,
+    "wof:geomhash":"a608c2cbc5c6df958547524616a9832f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058513933
+        }
+    ],
+    "wof:id":1058513933,
+    "wof:lastmodified":1473528727,
+    "wof:name":"Pauli T",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.2023699284,
+    51.2021713257,
+    3.2023699284,
+    51.2021713257
+],
+  "geometry": {"coordinates":[3.2023699284,51.2021713257],"type":"Point"}
+}

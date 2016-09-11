@@ -1,0 +1,77 @@
+{
+  "id": 1042198091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.414375782,50.8444099426,4.414375782,50.8444099426",
+    "geom:latitude":50.84441,
+    "geom:longitude":4.414376,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Georges Henri 224",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 761 28 90",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wKLE6HeDQ0Pdj4AGafIbB_50.844410_4.414376@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501810,
+    "wof:geomhash":"cb2be82e52f0490e909749be380fce8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1042198091
+        }
+    ],
+    "wof:id":1042198091,
+    "wof:lastmodified":1473501810,
+    "wof:name":"Van Meyel",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.414375782,
+    50.8444099426,
+    4.414375782,
+    50.8444099426
+],
+  "geometry": {"coordinates":[4.414375782,50.8444099426],"type":"Point"}
+}

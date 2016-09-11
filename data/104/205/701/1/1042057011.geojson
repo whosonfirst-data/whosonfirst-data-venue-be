@@ -1,0 +1,79 @@
+{
+  "id": 1042057011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7450931072,51.0841255188,3.7450931072,51.0841255188",
+    "geom:latitude":51.084126,
+    "geom:longitude":3.745093,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Farmanstr 39",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 13 35",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "pharmaceutical",
+        "chemistry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eqaYGI8FOUR4Xt0jKwgwi_51.084126_3.745093@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494552,
+    "wof:geomhash":"8d3f2f12ad6dcde79b4e9063d9b13d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1042057011
+        }
+    ],
+    "wof:id":1042057011,
+    "wof:lastmodified":1473494552,
+    "wof:name":"Ensagent Nv",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "chemistry"
+    ]
+},
+  "bbox": [
+    3.7450931072,
+    51.0841255188,
+    3.7450931072,
+    51.0841255188
+],
+  "geometry": {"coordinates":[3.7450931072,51.0841255188],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041681653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4471998215,51.2966194153,4.4471998215,51.2966194153",
+    "geom:latitude":51.296619,
+    "geom:longitude":4.4472,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-antoniuslei 97",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 30 19",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vamEAHAz39CRgR54yLYOH_51.296619_4.447200@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478585,
+    "wof:geomhash":"81eb5ae3bf5710f441d135183c212d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1041681653
+        }
+    ],
+    "wof:id":1041681653,
+    "wof:lastmodified":1473478585,
+    "wof:name":"Antverpia Leven Nv",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    4.4471998215,
+    51.2966194153,
+    4.4471998215,
+    51.2966194153
+],
+  "geometry": {"coordinates":[4.4471998215,51.2966194153],"type":"Point"}
+}

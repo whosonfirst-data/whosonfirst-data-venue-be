@@ -1,0 +1,77 @@
+{
+  "id": 1058622609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4243979454,50.8184089661,4.4243979454,50.8184089661",
+    "geom:latitude":50.818409,
+    "geom:longitude":4.424398,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Henri De Brouck\u00e8re 56",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 93 49",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801955,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UAyj6zCEVZvIk31VgMEzt_50.818409_4.424398@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533681,
+    "wof:geomhash":"912d0d2c1eb63a7f59f5e74bd4977d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801955,
+            "region_id":85681713,
+            "venue_id":1058622609
+        }
+    ],
+    "wof:id":1058622609,
+    "wof:lastmodified":1473533681,
+    "wof:name":"Bastin Ch",
+    "wof:parent_id":85801955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    4.4243979454,
+    50.8184089661,
+    4.4243979454,
+    50.8184089661
+],
+  "geometry": {"coordinates":[4.4243979454,50.8184089661],"type":"Point"}
+}

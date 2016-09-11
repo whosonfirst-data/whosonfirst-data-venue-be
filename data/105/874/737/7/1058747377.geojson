@@ -1,0 +1,79 @@
+{
+  "id": 1058747377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3753972054,50.848236084,4.3753972054,50.848236084",
+    "geom:latitude":50.848236,
+    "geom:longitude":4.375397,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'artichaut 32",
+    "sg:city":"Sint-joost-ten-node/saint-josse-ten-noode",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 87 89",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dNKe0SXP8tjLhqQyV1Fje_50.848236_4.375397@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539208,
+    "wof:geomhash":"f9951175c50b0b6ecdb138346a623ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058747377
+        }
+    ],
+    "wof:id":1058747377,
+    "wof:lastmodified":1473539208,
+    "wof:name":"Ruell J",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.3753972054,
+    50.848236084,
+    4.3753972054,
+    50.848236084
+],
+  "geometry": {"coordinates":[4.3753972054,50.848236084],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042098233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7090229988,51.0381164551,3.7090229988,51.0381164551",
+    "geom:latitude":51.038116,
+    "geom:longitude":3.709023,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koning Boudewijnstraat 51",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 10 30",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "cultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ujqwFCVLcHcS8tOPleavL_51.038116_3.709023@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496308,
+    "wof:geomhash":"27c1fe004af35b2282fc7d8f9b22d959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1042098233
+        }
+    ],
+    "wof:id":1042098233,
+    "wof:lastmodified":1473496308,
+    "wof:name":"De Rozentuin Spirituele Vorming Vzw",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cultural"
+    ]
+},
+  "bbox": [
+    3.7090229988,
+    51.0381164551,
+    3.7090229988,
+    51.0381164551
+],
+  "geometry": {"coordinates":[3.7090229988,51.0381164551],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041742027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7677800655,51.0731239319,3.7677800655,51.0731239319",
+    "geom:latitude":51.073124,
+    "geom:longitude":3.76778,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karnemelkwegel 1",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 41 87",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j4IkNK3ryBspVkoJRsvZt_51.073124_3.767780@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481028,
+    "wof:geomhash":"26175c99dfa9ccde0c5ff2927073fd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1041742027
+        }
+    ],
+    "wof:id":1041742027,
+    "wof:lastmodified":1473481028,
+    "wof:name":"Hooghe S",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport"
+    ]
+},
+  "bbox": [
+    3.7677800655,
+    51.0731239319,
+    3.7677800655,
+    51.0731239319
+],
+  "geometry": {"coordinates":[3.7677800655,51.0731239319],"type":"Point"}
+}

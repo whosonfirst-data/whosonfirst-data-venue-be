@@ -1,0 +1,77 @@
+{
+  "id": 1042030749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3919038773,51.2132530212,4.3919038773,51.2132530212",
+    "geom:latitude":51.213253,
+    "geom:longitude":4.391904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Scheldeken 7",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 27 17",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uYMKlpBRY6e4RFZxdUgLb_51.213253_4.391904@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493469,
+    "wof:geomhash":"ae14de3317f5c66f74a9a70a9c755e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042030749
+        }
+    ],
+    "wof:id":1042030749,
+    "wof:lastmodified":1473493469,
+    "wof:name":"Taverne Bouquet Garni",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3919038773,
+    51.2132530212,
+    4.3919038773,
+    51.2132530212
+],
+  "geometry": {"coordinates":[4.3919038773,51.2132530212],"type":"Point"}
+}

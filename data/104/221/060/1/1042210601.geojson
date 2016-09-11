@@ -1,0 +1,77 @@
+{
+  "id": 1042210601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4140968323,51.252910614,4.4140968323,51.252910614",
+    "geom:latitude":51.252911,
+    "geom:longitude":4.414097,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boterhamvaartweg 2",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 542 33 40",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electrode"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gbJH9zji9XTSUfoik8SB7_51.252911_4.414097@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502449,
+    "wof:geomhash":"55e976a5471d23e1d6f86dc752f622d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042210601
+        }
+    ],
+    "wof:id":1042210601,
+    "wof:lastmodified":1473502449,
+    "wof:name":"Las Service",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrode"
+    ]
+},
+  "bbox": [
+    4.4140968323,
+    51.252910614,
+    4.4140968323,
+    51.252910614
+],
+  "geometry": {"coordinates":[4.4140968323,51.252910614],"type":"Point"}
+}

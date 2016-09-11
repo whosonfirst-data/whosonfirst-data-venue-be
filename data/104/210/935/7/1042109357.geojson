@@ -1,0 +1,79 @@
+{
+  "id": 1042109357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7461540699,51.0581092834,3.7461540699,51.0581092834",
+    "geom:latitude":51.058109,
+    "geom:longitude":3.746154,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Land Van Waaslaan 78",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 82 96",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eN3R8QqPkyXhz7P3M4fBr_51.058109_3.746154@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496821,
+    "wof:geomhash":"e8e2d31ffa4094b22a419ba3d03692a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1042109357
+        }
+    ],
+    "wof:id":1042109357,
+    "wof:lastmodified":1473496821,
+    "wof:name":"Ingang (de) Vzw",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    3.7461540699,
+    51.0581092834,
+    3.7461540699,
+    51.0581092834
+],
+  "geometry": {"coordinates":[3.7461540699,51.0581092834],"type":"Point"}
+}

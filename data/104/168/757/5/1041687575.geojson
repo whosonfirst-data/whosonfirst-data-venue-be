@@ -1,0 +1,77 @@
+{
+  "id": 1041687575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2919869423,50.8654251099,4.2919869423,50.8654251099",
+    "geom:latitude":50.865425,
+    "geom:longitude":4.291987,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koning Albertlaan 86",
+    "sg:city":"Sint-agatha-berchem/berchem-sainte-agathe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 22 30",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kg1Z999bVkjFUI5nUA72s_50.865425_4.291987@1306268322"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478814,
+    "wof:geomhash":"84af777d9d9af382ea9fa9c96abc59a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1041687575
+        }
+    ],
+    "wof:id":1041687575,
+    "wof:lastmodified":1473478814,
+    "wof:name":"Luc Duvivier",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.2919869423,
+    50.8654251099,
+    4.2919869423,
+    50.8654251099
+],
+  "geometry": {"coordinates":[4.2919869423,50.8654251099],"type":"Point"}
+}

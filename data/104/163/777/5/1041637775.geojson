@@ -1,0 +1,77 @@
+{
+  "id": 1041637775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3748021126,50.8659248352,4.3748021126,50.8659248352",
+    "geom:latitude":50.865925,
+    "geom:longitude":4.374802,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 362",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 21 99",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yIDACJ21n8MwEeakoM3TN_50.865925_4.374802@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476832,
+    "wof:geomhash":"0a6d866135bd5873d3a411bcc52a7056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041637775
+        }
+    ],
+    "wof:id":1041637775,
+    "wof:lastmodified":1473476832,
+    "wof:name":"C.p.s. Production",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture"
+    ]
+},
+  "bbox": [
+    4.3748021126,
+    50.8659248352,
+    4.3748021126,
+    50.8659248352
+],
+  "geometry": {"coordinates":[4.3748021126,50.8659248352],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1042075425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6747748852,51.0205383301,3.6747748852,51.0205383301",
+    "geom:latitude":51.020538,
+    "geom:longitude":3.674775,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-rochusplein 5",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 49 91",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Id4hCT59xavtU8LsjpAjq_51.020538_3.674775@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495298,
+    "wof:geomhash":"db0ed801a8ebcaacfdfa4f8061de542a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1042075425
+        }
+    ],
+    "wof:id":1042075425,
+    "wof:lastmodified":1473495298,
+    "wof:name":"Nuance",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    3.6747748852,
+    51.0205383301,
+    3.6747748852,
+    51.0205383301
+],
+  "geometry": {"coordinates":[3.6747748852,51.0205383301],"type":"Point"}
+}

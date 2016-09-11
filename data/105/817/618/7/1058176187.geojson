@@ -1,0 +1,94 @@
+{
+  "id": 1058176187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3393368721,50.8134689331,4.3393368721,50.8134689331",
+    "geom:latitude":50.813469,
+    "geom:longitude":4.339337,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Coghen 4 Box 17",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 60 33",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19xoOmbi6sACO2BbzBkptn_50.813469_4.339337@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513169,
+    "wof:geomhash":"1b2d803002c574938c6ba007b18780e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1058176187
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058176187
+        }
+    ],
+    "wof:id":1058176187,
+    "wof:lastmodified":1473513169,
+    "wof:name":"Hatefi Khosro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3393368721,
+    50.8134689331,
+    4.3393368721,
+    50.8134689331
+],
+  "geometry": {"coordinates":[4.3393368721,50.8134689331],"type":"Point"}
+}

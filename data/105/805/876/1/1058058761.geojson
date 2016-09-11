@@ -1,0 +1,79 @@
+{
+  "id": 1058058761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3805680275,50.8743515015,4.3805680275,50.8743515015",
+    "geom:latitude":50.874352,
+    "geom:longitude":4.380568,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Emile Vehaeren 43-45",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 11 12",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YWb35KLig78321ZjKMmH7_50.874352_4.380568@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507872,
+    "wof:geomhash":"a211dec03e2d68b461ef740db87c0899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058058761
+        }
+    ],
+    "wof:id":1058058761,
+    "wof:lastmodified":1473507872,
+    "wof:name":"Hons Theo",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    4.3805680275,
+    50.8743515015,
+    4.3805680275,
+    50.8743515015
+],
+  "geometry": {"coordinates":[4.3805680275,50.8743515015],"type":"Point"}
+}

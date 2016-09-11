@@ -1,0 +1,79 @@
+{
+  "id": 1058742545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6971590519,51.0586471558,3.6971590519,51.0586471558",
+    "geom:latitude":51.058647,
+    "geom:longitude":3.697159,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sparrestraat 77",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 19 34",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r1JQvr1eJxPp2cpUAxofa_51.058647_3.697159@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539004,
+    "wof:geomhash":"8b3e52190a0c57385479ad944427a67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058742545
+        }
+    ],
+    "wof:id":1058742545,
+    "wof:lastmodified":1473539004,
+    "wof:name":"Frank Van Herreweghe",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.6971590519,
+    51.0586471558,
+    3.6971590519,
+    51.0586471558
+],
+  "geometry": {"coordinates":[3.6971590519,51.0586471558],"type":"Point"}
+}

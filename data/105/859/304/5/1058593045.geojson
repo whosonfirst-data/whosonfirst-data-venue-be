@@ -1,0 +1,77 @@
+{
+  "id": 1058593045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4314670563,50.8091621399,4.4314670563,50.8091621399",
+    "geom:latitude":50.809162,
+    "geom:longitude":4.431467,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Bekaert 22",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 742 24 39",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjaSZVOLeyTcsiwnSJzp3_50.809162_4.431467@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532316,
+    "wof:geomhash":"ddca67929a88f8f0227e18e1228f15eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1058593045
+        }
+    ],
+    "wof:id":1058593045,
+    "wof:lastmodified":1473532316,
+    "wof:name":"Atelier Jean-claude",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4314670563,
+    50.8091621399,
+    4.4314670563,
+    50.8091621399
+],
+  "geometry": {"coordinates":[4.4314670563,50.8091621399],"type":"Point"}
+}

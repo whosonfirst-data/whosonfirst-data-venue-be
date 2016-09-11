@@ -1,0 +1,81 @@
+{
+  "id": 1058404979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7325749397,51.0683288574,3.7325749397,51.0683288574",
+    "geom:latitude":51.068329,
+    "geom:longitude":3.732575,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dok-noord 10",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 94 03",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S0HnKxNCUqgF16JTas6mv_51.068329_3.732575@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523454,
+    "wof:geomhash":"5275aa8f590da7e2bcd5083a6482b700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058404979
+        }
+    ],
+    "wof:id":1058404979,
+    "wof:lastmodified":1473523454,
+    "wof:name":"Gentse Metaalwerken Bvba",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking",
+        "processing"
+    ]
+},
+  "bbox": [
+    3.7325749397,
+    51.0683288574,
+    3.7325749397,
+    51.0683288574
+],
+  "geometry": {"coordinates":[3.7325749397,51.0683288574],"type":"Point"}
+}

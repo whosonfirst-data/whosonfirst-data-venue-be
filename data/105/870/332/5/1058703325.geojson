@@ -1,0 +1,81 @@
+{
+  "id": 1058703325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3632569313,50.8270339966,4.3632569313,50.8270339966",
+    "geom:latitude":50.827034,
+    "geom:longitude":4.363257,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Bailli 6",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 77 71",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nLE2WTkdW5ywKhWs2OThN_50.827034_4.363257@1306268557"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537256,
+    "wof:geomhash":"6837670d1e85590c13f775e7b93e9603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058703325
+        }
+    ],
+    "wof:id":1058703325,
+    "wof:lastmodified":1473537256,
+    "wof:name":"Cts Belgium Sprl",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    4.3632569313,
+    50.8270339966,
+    4.3632569313,
+    50.8270339966
+],
+  "geometry": {"coordinates":[4.3632569313,50.8270339966],"type":"Point"}
+}

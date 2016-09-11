@@ -1,0 +1,79 @@
+{
+  "id": 1058298199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3284091949,50.8630981445,4.3284091949,50.8630981445",
+    "geom:latitude":50.863098,
+    "geom:longitude":4.328409,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Parc Elisabeth 1a",
+    "sg:city":"Bruxelles (koekelberg)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 41 55 85",
+    "sg:postcode":"1081",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "box",
+        "juke"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v46eraYH7VgDbpq52BhRz_50.863098_4.328409@1306268484"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518510,
+    "wof:geomhash":"4818de7ff76204840bd3b1daca4aa0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058298199
+        }
+    ],
+    "wof:id":1058298199,
+    "wof:lastmodified":1473518510,
+    "wof:name":"Antic Slot Machines Bvba",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "juke"
+    ]
+},
+  "bbox": [
+    4.3284091949,
+    50.8630981445,
+    4.3284091949,
+    50.8630981445
+],
+  "geometry": {"coordinates":[4.3284091949,50.8630981445],"type":"Point"}
+}

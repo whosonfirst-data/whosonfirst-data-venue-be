@@ -1,0 +1,79 @@
+{
+  "id": 1041623771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.396337986,50.8340148926,4.396337986,50.8340148926",
+    "geom:latitude":50.834015,
+    "geom:longitude":4.396338,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Du Rinsdelle 30",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 82 61",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "self",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZKBDslKrbyfNmuXIKe6Nb_50.834015_4.396338@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476256,
+    "wof:geomhash":"85c669bb06caf55ea9dd1194dcf779b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041623771
+        }
+    ],
+    "wof:id":1041623771,
+    "wof:lastmodified":1473476256,
+    "wof:name":"Lav O Net",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "-"
+    ]
+},
+  "bbox": [
+    4.396337986,
+    50.8340148926,
+    4.396337986,
+    50.8340148926
+],
+  "geometry": {"coordinates":[4.396337986,50.8340148926],"type":"Point"}
+}

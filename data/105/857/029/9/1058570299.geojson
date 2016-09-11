@@ -1,0 +1,71 @@
+{
+  "id": 1058570299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4881119728,51.1964912415,4.4881119728,51.1964912415",
+    "geom:latitude":51.196491,
+    "geom:longitude":4.488112,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Corneel Smitslei 20",
+    "sg:city":"Borsbeek",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 321 07 11",
+    "sg:postcode":"2150",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75pD70tFLKr9xD4Pa0Z3hn_51.196491_4.488112@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531318,
+    "wof:geomhash":"22124c899f9828543f2030262bc5d5fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058570299
+        }
+    ],
+    "wof:id":1058570299,
+    "wof:lastmodified":1473531318,
+    "wof:name":"Van Dessel J",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4881119728,
+    51.1964912415,
+    4.4881119728,
+    51.1964912415
+],
+  "geometry": {"coordinates":[4.4881119728,51.1964912415],"type":"Point"}
+}

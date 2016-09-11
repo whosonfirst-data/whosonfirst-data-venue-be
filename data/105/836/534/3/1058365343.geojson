@@ -1,0 +1,79 @@
+{
+  "id": 1058365343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3695149422,50.8077125549,4.3695149422,50.8077125549",
+    "geom:latitude":50.807713,
+    "geom:longitude":4.369515,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Framboisier 49",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 27 14",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AbSVCJUGdJuOkNtwiNXrS_50.807713_4.369515@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521663,
+    "wof:geomhash":"816ef57df70e00f41cbd6f7324c259f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1058365343
+        }
+    ],
+    "wof:id":1058365343,
+    "wof:lastmodified":1473521663,
+    "wof:name":"Rosseau R - Uccle",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    4.3695149422,
+    50.8077125549,
+    4.3695149422,
+    50.8077125549
+],
+  "geometry": {"coordinates":[4.3695149422,50.8077125549],"type":"Point"}
+}

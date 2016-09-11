@@ -1,0 +1,79 @@
+{
+  "id": 1058932055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1504299641,51.1939048767,3.1504299641,51.1939048767",
+    "geom:latitude":51.193905,
+    "geom:longitude":3.15043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groenwalle 9",
+    "sg:city":"Jabbeke",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 39 50 82",
+    "sg:postcode":"8490",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26jcam3rw0xmXbPS1VmIoC_51.193905_3.150430@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547428,
+    "wof:geomhash":"dba624e2e5b302fdda064cd5bbb24baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058932055
+        }
+    ],
+    "wof:id":1058932055,
+    "wof:lastmodified":1473547428,
+    "wof:name":"Vandewyngaerde",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    3.1504299641,
+    51.1939048767,
+    3.1504299641,
+    51.1939048767
+],
+  "geometry": {"coordinates":[3.1504299641,51.1939048767],"type":"Point"}
+}

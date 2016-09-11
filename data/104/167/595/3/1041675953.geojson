@@ -1,0 +1,79 @@
+{
+  "id": 1041675953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2537100315,51.2122344971,3.2537100315,51.2122344971",
+    "geom:latitude":51.212234,
+    "geom:longitude":3.25371,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaakstraat 66",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 27 02",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mLNea8dL5Ad9gAEp886Va_51.212234_3.253710@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478366,
+    "wof:geomhash":"9c6e6b5ead1c9437eb371119229d45e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1041675953
+        }
+    ],
+    "wof:id":1041675953,
+    "wof:lastmodified":1473478366,
+    "wof:name":"N.m.k.n.",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    3.2537100315,
+    51.2122344971,
+    3.2537100315,
+    51.2122344971
+],
+  "geometry": {"coordinates":[3.2537100315,51.2122344971],"type":"Point"}
+}

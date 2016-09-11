@@ -1,0 +1,79 @@
+{
+  "id": 1042067243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2735137939,50.8849220276,4.2735137939,50.8849220276",
+    "geom:latitude":50.884922,
+    "geom:longitude":4.273514,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 495",
+    "sg:city":"Asse (zellik)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 49 85",
+    "sg:postcode":"1731",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mtuECiClTx6fuwVcFadsy_50.884922_4.273514@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494960,
+    "wof:geomhash":"ec8ea811a873a01a74c26e0a5a2991d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1042067243
+        }
+    ],
+    "wof:id":1042067243,
+    "wof:lastmodified":1473494960,
+    "wof:name":"Royal Shop",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    4.2735137939,
+    50.8849220276,
+    4.2735137939,
+    50.8849220276
+],
+  "geometry": {"coordinates":[4.2735137939,50.8849220276],"type":"Point"}
+}

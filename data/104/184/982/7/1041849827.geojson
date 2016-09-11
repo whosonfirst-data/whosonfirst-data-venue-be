@@ -1,0 +1,71 @@
+{
+  "id": 1041849827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2328190804,50.9248733521,4.2328190804,50.9248733521",
+    "geom:latitude":50.924873,
+    "geom:longitude":4.232819,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Velm 52",
+    "sg:city":"Asse (mollem)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 452 77 18",
+    "sg:postcode":"1730",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800941,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6El7LiRHfeGw2OfUZJDiiO_50.924873_4.232819@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485798,
+    "wof:geomhash":"03de6e4f63f372c2eaa28d1a0a51d7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800941,
+            "region_id":85681731,
+            "venue_id":1041849827
+        }
+    ],
+    "wof:id":1041849827,
+    "wof:lastmodified":1473485798,
+    "wof:name":"Lauwers L",
+    "wof:parent_id":85800941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.2328190804,
+    50.9248733521,
+    4.2328190804,
+    50.9248733521
+],
+  "geometry": {"coordinates":[4.2328190804,50.9248733521],"type":"Point"}
+}

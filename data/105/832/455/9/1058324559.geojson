@@ -1,0 +1,81 @@
+{
+  "id": 1058324559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3352241516,50.8415527344,4.3352241516,50.8415527344",
+    "geom:latitude":50.841553,
+    "geom:longitude":4.335224,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gheude 41",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 63 10",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "blouse",
+        "ladies'",
+        "dress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vs3Rpz612LDyEtK1xQel9_50.841553_4.335224@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519718,
+    "wof:geomhash":"e016a6d23ef5c6750b9afc22b567dff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058324559
+        }
+    ],
+    "wof:id":1058324559,
+    "wof:lastmodified":1473519718,
+    "wof:name":"Rivoli S.a.",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blouse",
+        "ladies'",
+        "dress"
+    ]
+},
+  "bbox": [
+    4.3352241516,
+    50.8415527344,
+    4.3352241516,
+    50.8415527344
+],
+  "geometry": {"coordinates":[4.3352241516,50.8415527344],"type":"Point"}
+}

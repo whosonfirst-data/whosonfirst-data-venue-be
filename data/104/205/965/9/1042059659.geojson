@@ -1,0 +1,77 @@
+{
+  "id": 1042059659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6235780716,50.6444511414,5.6235780716,50.6444511414",
+    "geom:latitude":50.644451,
+    "geom:longitude":5.623578,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Vis\u00e9 26",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 03 04",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801339,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CDWOopaXQI2ndgJsHYf2a_50.644451_5.623578@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494666,
+    "wof:geomhash":"a71d53ac02a2cf5193ed45256cc507f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801339,
+            "region_id":85681691,
+            "venue_id":1042059659
+        }
+    ],
+    "wof:id":1042059659,
+    "wof:lastmodified":1473494666,
+    "wof:name":"Halkin C",
+    "wof:parent_id":85801339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.6235780716,
+    50.6444511414,
+    5.6235780716,
+    50.6444511414
+],
+  "geometry": {"coordinates":[5.6235780716,50.6444511414],"type":"Point"}
+}

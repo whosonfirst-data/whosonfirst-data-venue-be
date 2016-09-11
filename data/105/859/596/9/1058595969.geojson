@@ -1,0 +1,71 @@
+{
+  "id": 1058595969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4967689514,51.1635856628,4.4967689514,51.1635856628",
+    "geom:latitude":51.163586,
+    "geom:longitude":4.496769,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heuvelstraat 91",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 460 06 66",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wjdJhOptDm39J4GaXPaEw_51.163586_4.496769@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532440,
+    "wof:geomhash":"0750148af83c0baf1c283db24184382d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058595969
+        }
+    ],
+    "wof:id":1058595969,
+    "wof:lastmodified":1473532440,
+    "wof:name":"Federale Politie",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    4.4967689514,
+    51.1635856628,
+    4.4967689514,
+    51.1635856628
+],
+  "geometry": {"coordinates":[4.4967689514,51.1635856628],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058892891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3319511414,50.8410835266,4.3319511414,50.8410835266",
+    "geom:latitude":50.841084,
+    "geom:longitude":4.331951,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sergent De Bruyne 32",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 43 81",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fDuucK4dath851MetjQ9r_50.841084_4.331951@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545587,
+    "wof:geomhash":"3a5ad90774f3bfea2649265430d94075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1058892891
+        }
+    ],
+    "wof:id":1058892891,
+    "wof:lastmodified":1473545587,
+    "wof:name":"Perdaens G Sprl",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3319511414,
+    50.8410835266,
+    4.3319511414,
+    50.8410835266
+],
+  "geometry": {"coordinates":[4.3319511414,50.8410835266],"type":"Point"}
+}

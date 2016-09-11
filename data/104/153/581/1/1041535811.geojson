@@ -1,0 +1,77 @@
+{
+  "id": 1041535811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4144740105,51.2187004089,4.4144740105,51.2187004089",
+    "geom:latitude":51.2187,
+    "geom:longitude":4.414474,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kipdorpvest 24",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 233 37 90",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Xqhoe4NJ9tPq1jTmeJ38_51.218700_4.414474@1306268324"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472638,
+    "wof:geomhash":"2cb5aea1372eca807527112c9dd5612f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041535811
+        }
+    ],
+    "wof:id":1041535811,
+    "wof:lastmodified":1473472638,
+    "wof:name":"Stedelijk Centrum Voor Volwassenenonderwijs",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    4.4144740105,
+    51.2187004089,
+    4.4144740105,
+    51.2187004089
+],
+  "geometry": {"coordinates":[4.4144740105,51.2187004089],"type":"Point"}
+}

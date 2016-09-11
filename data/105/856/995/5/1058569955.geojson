@@ -1,0 +1,77 @@
+{
+  "id": 1058569955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3846731186,50.7253913879,4.3846731186,50.7253913879",
+    "geom:latitude":50.725391,
+    "geom:longitude":4.384673,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'ontario 3",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 32 45",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38CKjkpk6t7kjH2UOWt1KH_50.725391_4.384673@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531305,
+    "wof:geomhash":"028d952d4ceeae76a7e82f259bb61231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058569955
+        }
+    ],
+    "wof:id":1058569955,
+    "wof:lastmodified":1473531305,
+    "wof:name":"Van Delft Vinciane",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3846731186,
+    50.7253913879,
+    4.3846731186,
+    50.7253913879
+],
+  "geometry": {"coordinates":[4.3846731186,50.7253913879],"type":"Point"}
+}

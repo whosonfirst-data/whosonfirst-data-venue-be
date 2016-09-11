@@ -1,0 +1,79 @@
+{
+  "id": 1058618251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3980431557,51.214263916,4.3980431557,51.214263916",
+    "geom:latitude":51.214264,
+    "geom:longitude":4.398043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nationalestraat 111-113",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 760 13 10",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FbEYvI8izM54o6d8JY6u8_51.214264_4.398043@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533496,
+    "wof:geomhash":"e5fb7c0f299adafabc5c4d0e86f7f609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058618251
+        }
+    ],
+    "wof:id":1058618251,
+    "wof:lastmodified":1473533496,
+    "wof:name":"Acv",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3980431557,
+    51.214263916,
+    4.3980431557,
+    51.214263916
+],
+  "geometry": {"coordinates":[4.3980431557,51.214263916],"type":"Point"}
+}

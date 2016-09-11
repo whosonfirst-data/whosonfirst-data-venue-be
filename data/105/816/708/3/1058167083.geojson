@@ -1,0 +1,79 @@
+{
+  "id": 1058167083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3566608429,50.8649177551,4.3566608429,50.8649177551",
+    "geom:latitude":50.864918,
+    "geom:longitude":4.356661,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'h\u00e9liport 33",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 201 62 49",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UaSNt9jl1TXi0UOSVDDq2_50.864918_4.356661@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512756,
+    "wof:geomhash":"a5be92d92f278e3f2186cb45164bfb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058167083
+        }
+    ],
+    "wof:id":1058167083,
+    "wof:lastmodified":1473512756,
+    "wof:name":"Guedjio Wandji Viviane",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3566608429,
+    50.8649177551,
+    4.3566608429,
+    50.8649177551
+],
+  "geometry": {"coordinates":[4.3566608429,50.8649177551],"type":"Point"}
+}

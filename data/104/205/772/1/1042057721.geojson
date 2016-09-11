@@ -1,0 +1,77 @@
+{
+  "id": 1042057721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5975761414,50.6430435181,5.5975761414,50.6430435181",
+    "geom:latitude":50.643044,
+    "geom:longitude":5.597576,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Foidart 50",
+    "sg:city":"Li\u00e8ge 1 (bressoux)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 74 66",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qCb7p8xBb59kIl2hFhUcB_50.643044_5.597576@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494578,
+    "wof:geomhash":"e3438ae79c6b043b2fb954c801e727ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1042057721
+        }
+    ],
+    "wof:id":1042057721,
+    "wof:lastmodified":1473494578,
+    "wof:name":"Barras B",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5975761414,
+    50.6430435181,
+    5.5975761414,
+    50.6430435181
+],
+  "geometry": {"coordinates":[5.5975761414,50.6430435181],"type":"Point"}
+}

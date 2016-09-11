@@ -1,0 +1,83 @@
+{
+  "id": 1042043925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7248771191,51.0282173157,3.7248771191,51.0282173157",
+    "geom:latitude":51.028217,
+    "geom:longitude":3.724877,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Pintelaan 137",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 22 91",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d2iG1q1Pn8CcwG3IvRTyg_51.028217_3.724877@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494015,
+    "wof:geomhash":"75f6dd1428016dc97c8acd5955e23c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042043925
+        }
+    ],
+    "wof:id":1042043925,
+    "wof:lastmodified":1473494015,
+    "wof:name":"Taverne 't Garnierke",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ]
+},
+  "bbox": [
+    3.7248771191,
+    51.0282173157,
+    3.7248771191,
+    51.0282173157
+],
+  "geometry": {"coordinates":[3.7248771191,51.0282173157],"type":"Point"}
+}

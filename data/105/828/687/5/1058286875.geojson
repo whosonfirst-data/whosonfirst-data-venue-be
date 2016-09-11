@@ -1,0 +1,71 @@
+{
+  "id": 1058286875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6631112099,50.870223999,4.6631112099,50.870223999",
+    "geom:latitude":50.870224,
+    "geom:longitude":4.663111,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groeneweg 41",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 23 64 68",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YejUHpBdZiLhlR84SBPvJ_50.870224_4.663111@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518001,
+    "wof:geomhash":"9ad04e08e89e0796e835fb8417175a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058286875
+        }
+    ],
+    "wof:id":1058286875,
+    "wof:lastmodified":1473518001,
+    "wof:name":"'t Sponske",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    4.6631112099,
+    50.870223999,
+    4.6631112099,
+    50.870223999
+],
+  "geometry": {"coordinates":[4.6631112099,50.870223999],"type":"Point"}
+}

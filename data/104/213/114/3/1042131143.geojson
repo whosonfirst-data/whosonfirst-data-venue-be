@@ -1,0 +1,66 @@
+{
+  "id": 1042131143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5548028946,50.8341751099,4.5548028946,50.8341751099",
+    "geom:latitude":50.834175,
+    "geom:longitude":4.554803,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smisstraat 17",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 26 87",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ml7wp2YxqVYk2a8DUR0p8_50.834175_4.554803@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498021,
+    "wof:geomhash":"51efb4cb39789104f4fa94de2b764767",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1042131143
+        }
+    ],
+    "wof:id":1042131143,
+    "wof:lastmodified":1473498021,
+    "wof:name":"Declerck Mathieu",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5548028946,
+    50.8341751099,
+    4.5548028946,
+    50.8341751099
+],
+  "geometry": {"coordinates":[4.5548028946,50.8341751099],"type":"Point"}
+}

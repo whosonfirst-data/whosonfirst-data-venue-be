@@ -1,0 +1,79 @@
+{
+  "id": 1058031541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3972139359,50.7314414978,4.3972139359,50.7314414978",
+    "geom:latitude":50.731441,
+    "geom:longitude":4.397214,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Bruxelles 30",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 15 16",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V7AzTduhqfkUGjHsfsavn_50.731441_4.397214@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506755,
+    "wof:geomhash":"ab4072cd519cde20a4a81ea1d296f622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058031541
+        }
+    ],
+    "wof:id":1058031541,
+    "wof:lastmodified":1473506755,
+    "wof:name":"Asie Imp\u00c9riale",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3972139359,
+    50.7314414978,
+    4.3972139359,
+    50.7314414978
+],
+  "geometry": {"coordinates":[4.3972139359,50.7314414978],"type":"Point"}
+}

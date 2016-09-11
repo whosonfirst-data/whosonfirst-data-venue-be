@@ -1,0 +1,79 @@
+{
+  "id": 1058537417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6208949089,50.5860595703,5.6208949089,50.5860595703",
+    "geom:latitude":50.58606,
+    "geom:longitude":5.620895,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Au Trihay 9",
+    "sg:city":"Chaudfontaine (embourg)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 25 45",
+    "sg:postcode":"4053",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801253,
+        102191581,
+        85632997,
+        404227353,
+        101758521,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZXYDKCoJYilSPD4r8lCY_50.586060_5.620895@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529830,
+    "wof:geomhash":"283666da10a0a575fa3979357d49228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101758521,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801253,
+            "region_id":85681691,
+            "venue_id":1058537417
+        }
+    ],
+    "wof:id":1058537417,
+    "wof:lastmodified":1473529830,
+    "wof:name":"Hitachi Chimical Diagnostic",
+    "wof:parent_id":85801253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    5.6208949089,
+    50.5860595703,
+    5.6208949089,
+    50.5860595703
+],
+  "geometry": {"coordinates":[5.6208949089,50.5860595703],"type":"Point"}
+}

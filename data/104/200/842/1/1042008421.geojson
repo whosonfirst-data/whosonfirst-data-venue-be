@@ -1,0 +1,77 @@
+{
+  "id": 1042008421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7428910732,51.041431427,3.7428910732,51.041431427",
+    "geom:latitude":51.041431,
+    "geom:longitude":3.742891,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arthur Latourstraat 37",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 65 05",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xVwvP7T87MWNYOHcOR81L_51.041431_3.742891@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492632,
+    "wof:geomhash":"c2931979c0d8b8ab795c33a1da98a47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042008421
+        }
+    ],
+    "wof:id":1042008421,
+    "wof:lastmodified":1473492632,
+    "wof:name":"Caf\u00c9 Den Hemel",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7428910732,
+    51.041431427,
+    3.7428910732,
+    51.041431427
+],
+  "geometry": {"coordinates":[3.7428910732,51.041431427],"type":"Point"}
+}

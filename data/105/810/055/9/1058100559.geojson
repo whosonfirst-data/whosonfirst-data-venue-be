@@ -1,0 +1,75 @@
+{
+  "id": 1058100559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1991350651,51.2465324402,3.1991350651,51.2465324402",
+    "geom:latitude":51.246532,
+    "geom:longitude":3.199135,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoge Hul 45",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 92 06",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N3qhEjv5aBiYfPKj6rNU6_51.246532_3.199135@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509614,
+    "wof:geomhash":"f5309a5b98214cfd0024bbb757afc0cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1058100559
+        }
+    ],
+    "wof:id":1058100559,
+    "wof:lastmodified":1473509614,
+    "wof:name":"Lagrou Geert",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    3.1991350651,
+    51.2465324402,
+    3.1991350651,
+    51.2465324402
+],
+  "geometry": {"coordinates":[3.1991350651,51.2465324402],"type":"Point"}
+}

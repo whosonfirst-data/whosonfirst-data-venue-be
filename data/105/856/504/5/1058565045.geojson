@@ -1,0 +1,77 @@
+{
+  "id": 1058565045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3360137939,50.8828544617,4.3360137939,50.8828544617",
+    "geom:latitude":50.882854,
+    "geom:longitude":4.336014,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Duysburgh 58",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 15 26",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aIvrCXZqXDoLVgaKeDGZC_50.882854_4.336014@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531079,
+    "wof:geomhash":"33b3dcafde03263e441f5c7d4e46f139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058565045
+        }
+    ],
+    "wof:id":1058565045,
+    "wof:lastmodified":1473531079,
+    "wof:name":"Parmentier C",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3360137939,
+    50.8828544617,
+    4.3360137939,
+    50.8828544617
+],
+  "geometry": {"coordinates":[4.3360137939,50.8828544617],"type":"Point"}
+}

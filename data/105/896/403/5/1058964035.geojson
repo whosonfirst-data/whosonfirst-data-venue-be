@@ -1,0 +1,83 @@
+{
+  "id": 1058964035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3680357933,50.8598098755,4.3680357933,50.8598098755",
+    "geom:latitude":50.85981,
+    "geom:longitude":4.368036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Palais 53",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 223 16 34",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fh4QotJKyaGJ45LJOcdd6_50.859810_4.368036@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548955,
+    "wof:geomhash":"f9e9701ad26b7d1ab03746658569bf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058964035
+        }
+    ],
+    "wof:id":1058964035,
+    "wof:lastmodified":1473548955,
+    "wof:name":"Super Quartz",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [
+    4.3680357933,
+    50.8598098755,
+    4.3680357933,
+    50.8598098755
+],
+  "geometry": {"coordinates":[4.3680357933,50.8598098755],"type":"Point"}
+}

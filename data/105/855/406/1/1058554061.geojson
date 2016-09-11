@@ -1,0 +1,77 @@
+{
+  "id": 1058554061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2972521782,50.8610687256,4.2972521782,50.8610687256",
+    "geom:latitude":50.861069,
+    "geom:longitude":4.297252,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Ren\u00e9 Comhaire 58",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 51 10",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18CKGHmpc6B4IOxN5RmDHx_50.861069_4.297252@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530545,
+    "wof:geomhash":"1c2e7fe07e1bfef7bf0ab26e016b1446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058554061
+        }
+    ],
+    "wof:id":1058554061,
+    "wof:lastmodified":1473530545,
+    "wof:name":"Dekeyser Jean-marc",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.2972521782,
+    50.8610687256,
+    4.2972521782,
+    50.8610687256
+],
+  "geometry": {"coordinates":[4.2972521782,50.8610687256],"type":"Point"}
+}

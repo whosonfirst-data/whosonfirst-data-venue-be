@@ -1,0 +1,77 @@
+{
+  "id": 1041829635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3405938148,50.7896270752,4.3405938148,50.7896270752",
+    "geom:latitude":50.789627,
+    "geom:longitude":4.340594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Papenkasteel 120",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 69 00",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uCywDUYFNicNVt3pmdPK4_50.789627_4.340594@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484916,
+    "wof:geomhash":"2b7cebe7c69d1d455e8fc1c3c9f62e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041829635
+        }
+    ],
+    "wof:id":1041829635,
+    "wof:lastmodified":1473484916,
+    "wof:name":"General Service Office",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3405938148,
+    50.7896270752,
+    4.3405938148,
+    50.7896270752
+],
+  "geometry": {"coordinates":[4.3405938148,50.7896270752],"type":"Point"}
+}

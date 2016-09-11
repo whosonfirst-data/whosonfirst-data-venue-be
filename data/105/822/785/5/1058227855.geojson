@@ -1,0 +1,83 @@
+{
+  "id": 1058227855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6242380142,50.6268234253,5.6242380142,50.6268234253",
+    "geom:latitude":50.626823,
+    "geom:longitude":5.624238,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L' Espoir 34",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 30 32",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "transport",
+        "motor-cars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LrB3im8CzAp3GvsRe8bHd_50.626823_5.624238@1306268471"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515431,
+    "wof:geomhash":"24ee14e9ae6bc54a7f891ec4f6c589aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058227855
+        }
+    ],
+    "wof:id":1058227855,
+    "wof:lastmodified":1473515431,
+    "wof:name":"Etablissements Francis Collignon Sa",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial",
+        "transport",
+        "motor-cars"
+    ]
+},
+  "bbox": [
+    5.6242380142,
+    50.6268234253,
+    5.6242380142,
+    50.6268234253
+],
+  "geometry": {"coordinates":[5.6242380142,50.6268234253],"type":"Point"}
+}

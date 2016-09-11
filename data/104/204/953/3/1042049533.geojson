@@ -1,0 +1,81 @@
+{
+  "id": 1042049533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3734021187,51.1188201904,4.3734021187,51.1188201904",
+    "geom:latitude":51.11882,
+    "geom:longitude":4.373402,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomse Steenweg 31",
+    "sg:city":"Schelle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 888 03 69",
+    "sg:postcode":"2627",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chamber",
+        "industry",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XbOYSFcQDnHaHEyMn8sAm_51.118820_4.373402@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494232,
+    "wof:geomhash":"64676d0c01efe25a463b17b25e60ac99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1042049533
+        }
+    ],
+    "wof:id":1042049533,
+    "wof:lastmodified":1473494232,
+    "wof:name":"Be.ne.lux. Centrum",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "industry",
+        "commerce"
+    ]
+},
+  "bbox": [
+    4.3734021187,
+    51.1188201904,
+    4.3734021187,
+    51.1188201904
+],
+  "geometry": {"coordinates":[4.3734021187,51.1188201904],"type":"Point"}
+}

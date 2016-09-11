@@ -1,0 +1,79 @@
+{
+  "id": 1042032719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2517061234,50.7611503601,4.2517061234,50.7611503601",
+    "geom:latitude":50.76115,
+    "geom:longitude":4.251706,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bergensesteenweg 764",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 356 85 72",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "equipment",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j5LyyXmmEp7ZCURO1yFt9_50.761150_4.251706@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493558,
+    "wof:geomhash":"ac349d163eb8ea813737dce0489e3fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1042032719
+        }
+    ],
+    "wof:id":1042032719,
+    "wof:lastmodified":1473493558,
+    "wof:name":"Blondeel Caravans",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "camping"
+    ]
+},
+  "bbox": [
+    4.2517061234,
+    50.7611503601,
+    4.2517061234,
+    50.7611503601
+],
+  "geometry": {"coordinates":[4.2517061234,50.7611503601],"type":"Point"}
+}

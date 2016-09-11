@@ -1,0 +1,83 @@
+{
+  "id": 1058601037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3984751701,51.2142677307,4.3984751701,51.2142677307",
+    "geom:latitude":51.214268,
+    "geom:longitude":4.398475,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nationalestraat 99",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 233 08 37",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Eo2MihaU2WSnkUiFTAT4K_51.214268_4.398475@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532655,
+    "wof:geomhash":"b5e5d668bd64a3910e4c8237a6b92de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058601037
+        }
+    ],
+    "wof:id":1058601037,
+    "wof:lastmodified":1473532655,
+    "wof:name":"Dokter Marcus",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3984751701,
+    51.2142677307,
+    4.3984751701,
+    51.2142677307
+],
+  "geometry": {"coordinates":[4.3984751701,51.2142677307],"type":"Point"}
+}

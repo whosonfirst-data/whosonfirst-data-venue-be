@@ -1,0 +1,73 @@
+{
+  "id": 1041603999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5305738449,50.7278213501,4.5305738449,50.7278213501",
+    "geom:latitude":50.727821,
+    "geom:longitude":4.530574,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Hulpe 138a",
+    "sg:city":"Rixensart (rosi\u00e8res)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 25 00",
+    "sg:postcode":"1331",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OHDavcDJARQ8J2iyQmq8K_50.727821_4.530574@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475471,
+    "wof:geomhash":"23988508316f012f55f944be25688ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041603999
+        }
+    ],
+    "wof:id":1041603999,
+    "wof:lastmodified":1473475471,
+    "wof:name":"Castadot Jean",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5305738449,
+    50.7278213501,
+    4.5305738449,
+    50.7278213501
+],
+  "geometry": {"coordinates":[4.5305738449,50.7278213501],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058763247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3823251724,50.845703125,4.3823251724,50.845703125",
+    "geom:latitude":50.845703,
+    "geom:longitude":4.382325,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Charlemagne 80",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 85 55",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "organisation",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZhXjPOh5lei4I8cP1gJB_50.845703_4.382325@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539915,
+    "wof:geomhash":"b56dd6b345706e7927a50eca1192bc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058763247
+        }
+    ],
+    "wof:id":1058763247,
+    "wof:lastmodified":1473539915,
+    "wof:name":"Eurovillage",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation",
+        "seminar"
+    ]
+},
+  "bbox": [
+    4.3823251724,
+    50.845703125,
+    4.3823251724,
+    50.845703125
+],
+  "geometry": {"coordinates":[4.3823251724,50.845703125],"type":"Point"}
+}

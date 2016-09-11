@@ -1,0 +1,79 @@
+{
+  "id": 1058844133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.416162014,50.8188667297,4.416162014,50.8188667297",
+    "geom:latitude":50.818867,
+    "geom:longitude":4.416162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Wavre 1424 Box 12",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 65 71",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Km6LRJFLD32ZNRp8zR3LA_50.818867_4.416162@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543490,
+    "wof:geomhash":"526b662b7a98fab2e0f54d8d3e8b4d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058844133
+        }
+    ],
+    "wof:id":1058844133,
+    "wof:lastmodified":1473543490,
+    "wof:name":"Seron & Co Sprl",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "-"
+    ]
+},
+  "bbox": [
+    4.416162014,
+    50.8188667297,
+    4.416162014,
+    50.8188667297
+],
+  "geometry": {"coordinates":[4.416162014,50.8188667297],"type":"Point"}
+}

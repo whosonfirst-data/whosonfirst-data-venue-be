@@ -1,0 +1,77 @@
+{
+  "id": 1041645407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3956160545,50.855304718,4.3956160545,50.855304718",
+    "geom:latitude":50.855305,
+    "geom:longitude":4.395616,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Rogier 387",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 37 19",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tb9YR37M06gXbnwGYX38S_50.855305_4.395616@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477155,
+    "wof:geomhash":"37fc0c24575865135ada2e1941f9e1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041645407
+        }
+    ],
+    "wof:id":1041645407,
+    "wof:lastmodified":1473477155,
+    "wof:name":"Cox N",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3956160545,
+    50.855304718,
+    4.3956160545,
+    50.855304718
+],
+  "geometry": {"coordinates":[4.3956160545,50.855304718],"type":"Point"}
+}

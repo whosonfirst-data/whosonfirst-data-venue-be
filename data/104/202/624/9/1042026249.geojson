@@ -1,0 +1,77 @@
+{
+  "id": 1042026249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5745840073,50.6434593201,5.5745840073,50.6434593201",
+    "geom:latitude":50.643459,
+    "geom:longitude":5.574584,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-etienne 5",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 07 81",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61qfxeB5NbNV8xsJ2tVrTb_50.643459_5.574584@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493292,
+    "wof:geomhash":"c9216c7dda404d2f829bcdb96b970127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042026249
+        }
+    ],
+    "wof:id":1042026249,
+    "wof:lastmodified":1473493292,
+    "wof:name":"Sarja",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5745840073,
+    50.6434593201,
+    5.5745840073,
+    50.6434593201
+],
+  "geometry": {"coordinates":[5.5745840073,50.6434593201],"type":"Point"}
+}

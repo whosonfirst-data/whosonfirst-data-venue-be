@@ -1,0 +1,83 @@
+{
+  "id": 1042206549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5067529678,50.5909881592,5.5067529678,50.5909881592",
+    "geom:latitude":50.590988,
+    "geom:longitude":5.506753,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Coop\u00e9ration 69",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 48 41",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NugJvo9orL50f4dFA8WKw_50.590988_5.506753@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502277,
+    "wof:geomhash":"fb4f5f3499e8a9412136d5c3da0f4b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1042206549
+        }
+    ],
+    "wof:id":1042206549,
+    "wof:lastmodified":1473502277,
+    "wof:name":"Larue J-m",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.5067529678,
+    50.5909881592,
+    5.5067529678,
+    50.5909881592
+],
+  "geometry": {"coordinates":[5.5067529678,50.5909881592],"type":"Point"}
+}

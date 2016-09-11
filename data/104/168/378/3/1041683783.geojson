@@ -1,0 +1,77 @@
+{
+  "id": 1041683783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6682169437,51.0791053772,3.6682169437,51.0791053772",
+    "geom:latitude":51.079105,
+    "geom:longitude":3.668217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jupiterstraat 17",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 02 25",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s4SHlj2cYc9Q1Lx7Ichjj_51.079105_3.668217@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478668,
+    "wof:geomhash":"381077c0dbbbebebc6a89ef40733efd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1041683783
+        }
+    ],
+    "wof:id":1041683783,
+    "wof:lastmodified":1473478668,
+    "wof:name":"Albert Bauwens",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.6682169437,
+    51.0791053772,
+    3.6682169437,
+    51.0791053772
+],
+  "geometry": {"coordinates":[3.6682169437,51.0791053772],"type":"Point"}
+}

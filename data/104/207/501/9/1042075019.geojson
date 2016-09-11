@@ -1,0 +1,83 @@
+{
+  "id": 1042075019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3307561874,50.8367881775,4.3307561874,50.8367881775",
+    "geom:latitude":50.836788,
+    "geom:longitude":4.330756,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'instruction 121",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 81 28",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "leather",
+        "-",
+        "buckskin",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BmbWWMR6UiRqOVCTQB3Si_50.836788_4.330756@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495281,
+    "wof:geomhash":"6145fbcbe3a8585c1d31e44bcea84fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1042075019
+        }
+    ],
+    "wof:id":1042075019,
+    "wof:lastmodified":1473495281,
+    "wof:name":"Isaco",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "-",
+        "buckskin",
+        "clothing"
+    ]
+},
+  "bbox": [
+    4.3307561874,
+    50.8367881775,
+    4.3307561874,
+    50.8367881775
+],
+  "geometry": {"coordinates":[4.3307561874,50.8367881775],"type":"Point"}
+}

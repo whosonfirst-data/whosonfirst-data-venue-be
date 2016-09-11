@@ -1,0 +1,77 @@
+{
+  "id": 1058788627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.365363121,50.8619880676,4.365363121,50.8619880676",
+    "geom:latitude":50.861988,
+    "geom:longitude":4.365363,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Rogier 153",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 02 29",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cyF8D4z4Dr9g9xEiHoMox_50.861988_4.365363@1306268572"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541025,
+    "wof:geomhash":"3b9a0d48c355d74adfd31acfbda0bf4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058788627
+        }
+    ],
+    "wof:id":1058788627,
+    "wof:lastmodified":1473541025,
+    "wof:name":"Rendez-vous Chez C\u00fcneyt",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.365363121,
+    50.8619880676,
+    4.365363121,
+    50.8619880676
+],
+  "geometry": {"coordinates":[4.365363121,50.8619880676],"type":"Point"}
+}

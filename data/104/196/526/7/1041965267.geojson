@@ -1,0 +1,77 @@
+{
+  "id": 1041965267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6204957962,50.6126594543,5.6204957962,50.6126594543",
+    "geom:latitude":50.612659,
+    "geom:longitude":5.620496,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Ch\u00e8vremont 8",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 42 45",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OXY3viS94gDOWQ57Whte7_50.612659_5.620496@1306268369"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490710,
+    "wof:geomhash":"dd45e5de7d7a7decab30d4b2e945cb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1041965267
+        }
+    ],
+    "wof:id":1041965267,
+    "wof:lastmodified":1473490710,
+    "wof:name":"Francois L",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    5.6204957962,
+    50.6126594543,
+    5.6204957962,
+    50.6126594543
+],
+  "geometry": {"coordinates":[5.6204957962,50.6126594543],"type":"Point"}
+}

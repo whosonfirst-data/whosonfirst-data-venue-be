@@ -1,0 +1,73 @@
+{
+  "id": 1058802499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.276597023,50.7926063538,4.276597023,50.7926063538",
+    "geom:latitude":50.792606,
+    "geom:longitude":4.276597,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arthur Quintusstraat 36",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 11 72",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01xgThalQ4yHUwAdr2VEro_50.792606_4.276597@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541666,
+    "wof:geomhash":"6b627c3bbbb015d5a7a03922398f63a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1058802499
+        }
+    ],
+    "wof:id":1058802499,
+    "wof:lastmodified":1473541666,
+    "wof:name":"Carpentier A",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    4.276597023,
+    50.7926063538,
+    4.276597023,
+    50.7926063538
+],
+  "geometry": {"coordinates":[4.276597023,50.7926063538],"type":"Point"}
+}

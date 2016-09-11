@@ -1,0 +1,79 @@
+{
+  "id": 1058699377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3512730598,50.9112625122,4.3512730598,50.9112625122",
+    "geom:latitude":50.911263,
+    "geom:longitude":4.351273,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meisestr 93",
+    "sg:city":"Strombeek-bever",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 03 04",
+    "sg:postcode":"1853",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uuwyN51NgbZCJzA0nCUUv_50.911263_4.351273@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537089,
+    "wof:geomhash":"f50d4a9fdb85718eb98ccffecf487dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058699377
+        }
+    ],
+    "wof:id":1058699377,
+    "wof:lastmodified":1473537089,
+    "wof:name":"Easy Move Bvba",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    4.3512730598,
+    50.9112625122,
+    4.3512730598,
+    50.9112625122
+],
+  "geometry": {"coordinates":[4.3512730598,50.9112625122],"type":"Point"}
+}

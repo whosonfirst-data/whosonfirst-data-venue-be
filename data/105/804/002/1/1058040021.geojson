@@ -1,0 +1,81 @@
+{
+  "id": 1058040021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.69658494,51.1021614075,3.69658494,51.1021614075",
+    "geom:latitude":51.102161,
+    "geom:longitude":3.696585,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Durmakker 17",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 22 88",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RJ1ShWeLJnixWw2MYb94J_51.102161_3.696585@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507106,
+    "wof:geomhash":"40d06ac4f93e40058c20609a62aa528e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1058040021
+        }
+    ],
+    "wof:id":1058040021,
+    "wof:lastmodified":1473507106,
+    "wof:name":"Lerou",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ]
+},
+  "bbox": [
+    3.69658494,
+    51.1021614075,
+    3.69658494,
+    51.1021614075
+],
+  "geometry": {"coordinates":[3.69658494,51.1021614075],"type":"Point"}
+}

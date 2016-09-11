@@ -1,0 +1,83 @@
+{
+  "id": 1058600917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3598270416,50.8987007141,4.3598270416,50.8987007141",
+    "geom:latitude":50.898701,
+    "geom:longitude":4.359827,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Wand 131",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 44 81",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54r5no6u5IfGtktZ45SzYo_50.898701_4.359827@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532650,
+    "wof:geomhash":"ef0f923f778c95619280549da27dad1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058600917
+        }
+    ],
+    "wof:id":1058600917,
+    "wof:lastmodified":1473532650,
+    "wof:name":"Bogaert",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3598270416,
+    50.8987007141,
+    4.3598270416,
+    50.8987007141
+],
+  "geometry": {"coordinates":[4.3598270416,50.8987007141],"type":"Point"}
+}

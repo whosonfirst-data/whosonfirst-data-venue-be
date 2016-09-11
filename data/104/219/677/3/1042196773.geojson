@@ -1,0 +1,71 @@
+{
+  "id": 1042196773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5600042343,50.8360710144,4.5600042343,50.8360710144",
+    "geom:latitude":50.836071,
+    "geom:longitude":4.560004,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsstraat 3",
+    "sg:city":"Tervuren (vossem)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 30 98",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65RZumcmUw707dyHEqB20T_50.836071_4.560004@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501711,
+    "wof:geomhash":"cdc6a0e03dd8585a5d4589a569b185d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1042196773
+        }
+    ],
+    "wof:id":1042196773,
+    "wof:lastmodified":1473501711,
+    "wof:name":"British Primary Bvba",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.5600042343,
+    50.8360710144,
+    4.5600042343,
+    50.8360710144
+],
+  "geometry": {"coordinates":[4.5600042343,50.8360710144],"type":"Point"}
+}

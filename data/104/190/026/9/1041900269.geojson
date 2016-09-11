@@ -1,0 +1,71 @@
+{
+  "id": 1041900269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7167201042,51.000289917,3.7167201042,51.000289917",
+    "geom:latitude":51.00029,
+    "geom:longitude":3.71672,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Waterloo 37",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aqs1MT2UEN807y9dXieJf_51.000290_3.716720@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487924,
+    "wof:geomhash":"7982b7b2ff11b7774622695614f61f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041900269
+        }
+    ],
+    "wof:id":1041900269,
+    "wof:lastmodified":1473487924,
+    "wof:name":"Equifin Sa",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7167201042,
+    51.000289917,
+    3.7167201042,
+    51.000289917
+],
+  "geometry": {"coordinates":[3.7167201042,51.000289917],"type":"Point"}
+}

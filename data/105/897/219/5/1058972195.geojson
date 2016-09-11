@@ -1,0 +1,83 @@
+{
+  "id": 1058972195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4163870811,50.8281707764,4.4163870811,50.8281707764",
+    "geom:latitude":50.828171,
+    "geom:longitude":4.416387,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Eglantines 21",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 88 47",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800813,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54w7LtxvAcf0R86RoaeunA_50.828171_4.416387@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549301,
+    "wof:geomhash":"9949f2ea5f6c3b8208ee950857bc85fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800813,
+            "region_id":85681713,
+            "venue_id":1058972195
+        }
+    ],
+    "wof:id":1058972195,
+    "wof:lastmodified":1473549301,
+    "wof:name":"Le Madec Sprl",
+    "wof:parent_id":85800813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    4.4163870811,
+    50.8281707764,
+    4.4163870811,
+    50.8281707764
+],
+  "geometry": {"coordinates":[4.4163870811,50.8281707764],"type":"Point"}
+}

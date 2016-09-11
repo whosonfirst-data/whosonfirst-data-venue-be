@@ -1,0 +1,66 @@
+{
+  "id": 1041774553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2822699547,51.252784729,3.2822699547,51.252784729",
+    "geom:latitude":51.252785,
+    "geom:longitude":3.28227,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slekstraat 7",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 49 97",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26x1EbppM9Sg3Nmrttu0zL_51.252785_3.282270@1306268336"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482720,
+    "wof:geomhash":"a10d5117d93d546c1183b566a5fa6e5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041774553
+        }
+    ],
+    "wof:id":1041774553,
+    "wof:lastmodified":1473482720,
+    "wof:name":"De Vlieger H",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2822699547,
+    51.252784729,
+    3.2822699547,
+    51.252784729
+],
+  "geometry": {"coordinates":[3.2822699547,51.252784729],"type":"Point"}
+}

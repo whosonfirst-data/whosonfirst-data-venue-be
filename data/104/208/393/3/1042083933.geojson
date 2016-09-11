@@ -1,0 +1,77 @@
+{
+  "id": 1042083933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5876870155,50.6124153137,5.5876870155,50.6124153137",
+    "geom:latitude":50.612415,
+    "geom:longitude":5.587687,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue F\u00c9lix-paulsen 31",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 19 42",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800763,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78fUOJ8myK9pBlFAehhcG3_50.612415_5.587687@1306268392"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495683,
+    "wof:geomhash":"c91720c6be0367b3257dfed4a78ea651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1042083933
+        }
+    ],
+    "wof:id":1042083933,
+    "wof:lastmodified":1473495683,
+    "wof:name":"Sports Decouvertes",
+    "wof:parent_id":85800763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    5.5876870155,
+    50.6124153137,
+    5.5876870155,
+    50.6124153137
+],
+  "geometry": {"coordinates":[5.5876870155,50.6124153137],"type":"Point"}
+}

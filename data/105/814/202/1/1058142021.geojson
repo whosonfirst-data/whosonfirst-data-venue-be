@@ -1,0 +1,81 @@
+{
+  "id": 1058142021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2833771706,50.8056106567,4.2833771706,50.8056106567",
+    "geom:latitude":50.805611,
+    "geom:longitude":4.283377,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bezemstraat 5",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 17 10",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BRleSlmdfBqaSjAFBf1lv_50.805611_4.283377@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511576,
+    "wof:geomhash":"aa708e4095c7b80ab3f72e9b9ac46644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1058142021
+        }
+    ],
+    "wof:id":1058142021,
+    "wof:lastmodified":1473511576,
+    "wof:name":"Hairservice Leen",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.2833771706,
+    50.8056106567,
+    4.2833771706,
+    50.8056106567
+],
+  "geometry": {"coordinates":[4.2833771706,50.8056106567],"type":"Point"}
+}

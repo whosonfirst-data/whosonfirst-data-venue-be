@@ -1,0 +1,77 @@
+{
+  "id": 1058858043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3651108742,50.8275222778,4.3651108742,50.8275222778",
+    "geom:latitude":50.827522,
+    "geom:longitude":4.365111,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Lens 2",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 28 01",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02CuFkVq6u9BL4up9RPzmZ_50.827522_4.365111@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544063,
+    "wof:geomhash":"f03e356e214ee6350e4248164db9acce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058858043
+        }
+    ],
+    "wof:id":1058858043,
+    "wof:lastmodified":1473544063,
+    "wof:name":"Victoria",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3651108742,
+    50.8275222778,
+    4.3651108742,
+    50.8275222778
+],
+  "geometry": {"coordinates":[4.3651108742,50.8275222778],"type":"Point"}
+}

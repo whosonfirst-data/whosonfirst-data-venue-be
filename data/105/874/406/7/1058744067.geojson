@@ -1,0 +1,79 @@
+{
+  "id": 1058744067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.356262207,50.8485603333,4.356262207,50.8485603333",
+    "geom:latitude":50.84856,
+    "geom:longitude":4.356262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D'arenberg 10",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 27 82",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vXyYqfBupI06rNITC1aKE_50.848560_4.356262@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539068,
+    "wof:geomhash":"bdbf71585a1670783f64103b5ff08cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058744067
+        }
+    ],
+    "wof:id":1058744067,
+    "wof:lastmodified":1473539068,
+    "wof:name":"Jacques Dessange",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.356262207,
+    50.8485603333,
+    4.356262207,
+    50.8485603333
+],
+  "geometry": {"coordinates":[4.356262207,50.8485603333],"type":"Point"}
+}

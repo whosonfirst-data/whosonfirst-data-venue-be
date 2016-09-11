@@ -1,0 +1,77 @@
+{
+  "id": 1041564593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5786809921,50.6371002197,5.5786809921,50.6371002197",
+    "geom:latitude":50.6371,
+    "geom:longitude":5.578681,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gr\u00c9try 18",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 41 97",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lQnRvZx9PbIG0RRg1U64Q_50.637100_5.578681@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473824,
+    "wof:geomhash":"20d4a7f1f45da41ad51e8cec282cd7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041564593
+        }
+    ],
+    "wof:id":1041564593,
+    "wof:lastmodified":1473473824,
+    "wof:name":"Taverne Le Will\u00b4s",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5786809921,
+    50.6371002197,
+    5.5786809921,
+    50.6371002197
+],
+  "geometry": {"coordinates":[5.5786809921,50.6371002197],"type":"Point"}
+}

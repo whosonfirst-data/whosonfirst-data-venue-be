@@ -1,0 +1,79 @@
+{
+  "id": 1058738915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3525629044,50.8767280579,4.3525629044,50.8767280579",
+    "geom:latitude":50.876728,
+    "geom:longitude":4.352563,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Royaut\u00c9 41",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 40 57",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43BaWvqGkBKpMdXPW35iXU_50.876728_4.352563@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538855,
+    "wof:geomhash":"5e64b6ae81fa3b80a76092c0b0ccaee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1058738915
+        }
+    ],
+    "wof:id":1058738915,
+    "wof:lastmodified":1473538855,
+    "wof:name":"Coiffure Marie-h\u00c9l\u00c8ne",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.3525629044,
+    50.8767280579,
+    4.3525629044,
+    50.8767280579
+],
+  "geometry": {"coordinates":[4.3525629044,50.8767280579],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1058798371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4606747627,50.8859825134,4.4606747627,50.8859825134",
+    "geom:latitude":50.885983,
+    "geom:longitude":4.460675,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maalbeekweg 51",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 721 58 21",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "soldering",
+        "equipment",
+        "welding",
+        "-",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801287,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AvmDYWmETuQwR24j02vfm_50.885983_4.460675@1306268573"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541486,
+    "wof:geomhash":"a5dd67defeb5a19aa95771d13de8998a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801287,
+            "region_id":85681731,
+            "venue_id":1058798371
+        }
+    ],
+    "wof:id":1058798371,
+    "wof:lastmodified":1473541486,
+    "wof:name":"Cavignac Nv",
+    "wof:parent_id":85801287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soldering",
+        "equipment",
+        "welding",
+        "-",
+        "supply"
+    ]
+},
+  "bbox": [
+    4.4606747627,
+    50.8859825134,
+    4.4606747627,
+    50.8859825134
+],
+  "geometry": {"coordinates":[4.4606747627,50.8859825134],"type":"Point"}
+}

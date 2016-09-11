@@ -1,0 +1,77 @@
+{
+  "id": 1042247157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3653650284,50.8231468201,4.3653650284,50.8231468201",
+    "geom:latitude":50.823147,
+    "geom:longitude":4.365365,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tenbosch 34",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 644 20 08",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consulate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YUZEmrIUZiDeq147jAm9y_50.823147_4.365365@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504130,
+    "wof:geomhash":"c6e155900da95c91069eb7c00262db6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042247157
+        }
+    ],
+    "wof:id":1042247157,
+    "wof:lastmodified":1473504130,
+    "wof:name":"Bosnie-herz\u00e9govine",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulate"
+    ]
+},
+  "bbox": [
+    4.3653650284,
+    50.8231468201,
+    4.3653650284,
+    50.8231468201
+],
+  "geometry": {"coordinates":[4.3653650284,50.8231468201],"type":"Point"}
+}

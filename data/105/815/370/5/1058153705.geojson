@@ -1,0 +1,79 @@
+{
+  "id": 1058153705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.362965107,50.8968849182,4.362965107,50.8968849182",
+    "geom:latitude":50.896885,
+    "geom:longitude":4.362965,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'araucaria 109",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 22 76",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e2KcZCiZPiydSUa8l4C0t_50.896885_4.362965@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512171,
+    "wof:geomhash":"6c987fe4ac241df433968711ef281ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058153705
+        }
+    ],
+    "wof:id":1058153705,
+    "wof:lastmodified":1473512171,
+    "wof:name":"Andr\u00e9 Jacqueline",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.362965107,
+    50.8968849182,
+    4.362965107,
+    50.8968849182
+],
+  "geometry": {"coordinates":[4.362965107,50.8968849182],"type":"Point"}
+}

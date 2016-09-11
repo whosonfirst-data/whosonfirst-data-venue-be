@@ -1,0 +1,77 @@
+{
+  "id": 1058285227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3981461525,50.8460121155,4.3981461525,50.8460121155",
+    "geom:latitude":50.846012,
+    "geom:longitude":4.398146,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue G\u00e9n\u00e9ral Gratry 4",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 55 05",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "interpreter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dXqCDBfaVOmvjlW3xA6HW_50.846012_4.398146@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517931,
+    "wof:geomhash":"c5a687dc256b1a8a9960e7168dd4e1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058285227
+        }
+    ],
+    "wof:id":1058285227,
+    "wof:lastmodified":1473517931,
+    "wof:name":"Kapitanova L",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interpreter"
+    ]
+},
+  "bbox": [
+    4.3981461525,
+    50.8460121155,
+    4.3981461525,
+    50.8460121155
+],
+  "geometry": {"coordinates":[4.3981461525,50.8460121155],"type":"Point"}
+}

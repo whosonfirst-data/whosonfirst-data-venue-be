@@ -1,0 +1,83 @@
+{
+  "id": 1041656083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5820631981,50.6479911804,5.5820631981,50.6479911804",
+    "geom:latitude":50.647991,
+    "geom:longitude":5.582063,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hors-ch\u00c2teau 136",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 11 26",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S5VG0MdnygL7RGnosioaa_50.647991_5.582063@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477580,
+    "wof:geomhash":"44ea23b9b79e87c6cfd5ba8f883f59ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1041656083
+        }
+    ],
+    "wof:id":1041656083,
+    "wof:lastmodified":1473477580,
+    "wof:name":"La Frite Dor\u00c9e",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5820631981,
+    50.6479911804,
+    5.5820631981,
+    50.6479911804
+],
+  "geometry": {"coordinates":[5.5820631981,50.6479911804],"type":"Point"}
+}

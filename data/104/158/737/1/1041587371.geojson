@@ -1,0 +1,83 @@
+{
+  "id": 1041587371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3595070839,50.8460502625,4.3595070839,50.8460502625",
+    "geom:latitude":50.84605,
+    "geom:longitude":4.359507,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Warandeberg 4",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Customs House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 545 30 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "affair",
+        "consulting",
+        "management",
+        "european"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Vi2n2BeEnY4tlDsQyRIO_50.846050_4.359507@1306268428"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474748,
+    "wof:geomhash":"509541f2cd32b9acb57853518ea671f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041587371
+        }
+    ],
+    "wof:id":1041587371,
+    "wof:lastmodified":1473474748,
+    "wof:name":"Arthur Andersen Cvb",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "affair",
+        "consulting",
+        "management",
+        "european"
+    ]
+},
+  "bbox": [
+    4.3595070839,
+    50.8460502625,
+    4.3595070839,
+    50.8460502625
+],
+  "geometry": {"coordinates":[4.3595070839,50.8460502625],"type":"Point"}
+}

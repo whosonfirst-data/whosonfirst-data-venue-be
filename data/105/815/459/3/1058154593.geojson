@@ -1,0 +1,79 @@
+{
+  "id": 1058154593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2916917801,50.8344993591,4.2916917801,50.8344993591",
+    "geom:latitude":50.834499,
+    "geom:longitude":4.291692,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Albert De Coster 8",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 19 33",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NwI4xJFktuY2GulQmkZqV_50.834499_4.291692@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512209,
+    "wof:geomhash":"1891705a2d70a1d825523ea8d07a4845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058154593
+        }
+    ],
+    "wof:id":1058154593,
+    "wof:lastmodified":1473512209,
+    "wof:name":"Becquevort P",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2916917801,
+    50.8344993591,
+    4.2916917801,
+    50.8344993591
+],
+  "geometry": {"coordinates":[4.2916917801,50.8344993591],"type":"Point"}
+}

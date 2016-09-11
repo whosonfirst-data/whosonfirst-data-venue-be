@@ -1,0 +1,66 @@
+{
+  "id": 1058791487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.298140049,53.3882865906,-6.298140049,53.3882865906",
+    "geom:latitude":53.388287,
+    "geom:longitude":-6.29814,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Finglas Road 23",
+    "sg:city":"Dublin 11",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0074",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794275,
+        102191581,
+        85633241,
+        101751737,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FEagjH5lNq7VMNRff4FLD_53.388287_-6.298140@1306268572"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541145,
+    "wof:geomhash":"79f4e0f1f57c9062d310c473c0d1909d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794275,
+            "region_id":85685015,
+            "venue_id":1058791487
+        }
+    ],
+    "wof:id":1058791487,
+    "wof:lastmodified":1473541145,
+    "wof:name":"Eamonn Murphy",
+    "wof:parent_id":85794275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.298140049,
+    53.3882865906,
+    -6.298140049,
+    53.3882865906
+],
+  "geometry": {"coordinates":[-6.298140049,53.3882865906],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1041922771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2121839523,51.2429656982,3.2121839523,51.2429656982",
+    "geom:latitude":51.242966,
+    "geom:longitude":3.212184,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peraltastraat 11-13",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 36 17",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "ale",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w7SDXbuArO4k4L9MJIwol_51.242966_3.212184@1306268362"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488862,
+    "wof:geomhash":"6ff209ee3348f1cfa7cb900a8c23e46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1041922771
+        }
+    ],
+    "wof:id":1041922771,
+    "wof:lastmodified":1473488862,
+    "wof:name":"Van Gheluwe W",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2121839523,
+    51.2429656982,
+    3.2121839523,
+    51.2429656982
+],
+  "geometry": {"coordinates":[3.2121839523,51.2429656982],"type":"Point"}
+}

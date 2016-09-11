@@ -1,0 +1,79 @@
+{
+  "id": 1058324061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2143380642,51.2108955383,3.2143380642,51.2108955383",
+    "geom:latitude":51.210896,
+    "geom:longitude":3.214338,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gulden-vlieslaan 15",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 77 12",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "laboratory",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862073,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q4tziAzw8LxghBO1HzBA5_51.210896_3.214338@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519698,
+    "wof:geomhash":"24b324373799fe655b9d5ddd6ee2130d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862073,
+            "region_id":85681709,
+            "venue_id":1058324061
+        }
+    ],
+    "wof:id":1058324061,
+    "wof:lastmodified":1473519698,
+    "wof:name":"Labo Voor Medische Biologie Bvba",
+    "wof:parent_id":85862073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "medical"
+    ]
+},
+  "bbox": [
+    3.2143380642,
+    51.2108955383,
+    3.2143380642,
+    51.2108955383
+],
+  "geometry": {"coordinates":[3.2143380642,51.2108955383],"type":"Point"}
+}

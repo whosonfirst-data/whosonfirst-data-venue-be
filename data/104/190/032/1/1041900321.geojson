@@ -1,0 +1,72 @@
+{
+  "id": 1041900321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2207360268,51.2160873413,3.2207360268,51.2160873413",
+    "geom:latitude":51.216087,
+    "geom:longitude":3.220736,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlamingstr 13",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 94 34",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OAWHIlYFPgptvbkJhqDCY_51.216087_3.220736@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487926,
+    "wof:geomhash":"a6cbfe18a1c4048219872accc09945cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1041900321
+        }
+    ],
+    "wof:id":1041900321,
+    "wof:lastmodified":1473487926,
+    "wof:name":"Europabank",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2207360268,
+    51.2160873413,
+    3.2207360268,
+    51.2160873413
+],
+  "geometry": {"coordinates":[3.2207360268,51.2160873413],"type":"Point"}
+}

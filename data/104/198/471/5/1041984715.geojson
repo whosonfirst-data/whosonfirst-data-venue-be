@@ -1,0 +1,88 @@
+{
+  "id": 1041984715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3354868889,50.8684158325,4.3354868889,50.8684158325",
+    "geom:latitude":50.868416,
+    "geom:longitude":4.335487,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Auguste Hainaut 4",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 91 73",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bjV6uYrR79tAnDma5P0Z8_50.868416_4.335487@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491703,
+    "wof:geomhash":"7202881c319d44fd87991f9b1d329619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1041984715
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041984715
+        }
+    ],
+    "wof:id":1041984715,
+    "wof:lastmodified":1473491703,
+    "wof:name":"Mariposa (la)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.3354868889,
+    50.8684158325,
+    4.3354868889,
+    50.8684158325
+],
+  "geometry": {"coordinates":[4.3354868889,50.8684158325],"type":"Point"}
+}

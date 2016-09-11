@@ -1,0 +1,77 @@
+{
+  "id": 1041595807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3353681564,50.7955131531,4.3353681564,50.7955131531",
+    "geom:latitude":50.795513,
+    "geom:longitude":4.335368,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 880",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 14 31",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jhpNBBpD02zqjq34881ZE_50.795513_4.335368@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475123,
+    "wof:geomhash":"bdb5a3c8bd501ef1f4223673145ec774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041595807
+        }
+    ],
+    "wof:id":1041595807,
+    "wof:lastmodified":1473475123,
+    "wof:name":"Leurquin J-p (garage)",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3353681564,
+    50.7955131531,
+    4.3353681564,
+    50.7955131531
+],
+  "geometry": {"coordinates":[4.3353681564,50.7955131531],"type":"Point"}
+}

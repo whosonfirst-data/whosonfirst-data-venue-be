@@ -1,0 +1,79 @@
+{
+  "id": 1058172367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7202899456,51.0262145996,3.7202899456,51.0262145996",
+    "geom:latitude":51.026215,
+    "geom:longitude":3.72029,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galglaan 12",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 63 60",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ua5E9ssBnDB1VDUQC51M6_51.026215_3.720290@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513001,
+    "wof:geomhash":"0aa1307548c9dbb3068bd4cb7c25f8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058172367
+        }
+    ],
+    "wof:id":1058172367,
+    "wof:lastmodified":1473513001,
+    "wof:name":"Louagie H",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7202899456,
+    51.0262145996,
+    3.7202899456,
+    51.0262145996
+],
+  "geometry": {"coordinates":[3.7202899456,51.0262145996],"type":"Point"}
+}

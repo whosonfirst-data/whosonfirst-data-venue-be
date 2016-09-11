@@ -1,0 +1,79 @@
+{
+  "id": 1058163807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3851079941,50.8268508911,4.3851079941,50.8268508911",
+    "geom:latitude":50.826851,
+    "geom:longitude":4.385108,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Nouvelle 84",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 477 26 44",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05zlgA0slXvoKum7KlyOt1_50.826851_4.385108@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512598,
+    "wof:geomhash":"958f5e0da58cf4865d301e11339bc30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058163807
+        }
+    ],
+    "wof:id":1058163807,
+    "wof:lastmodified":1473512598,
+    "wof:name":"Dratwa M",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3851079941,
+    50.8268508911,
+    4.3851079941,
+    50.8268508911
+],
+  "geometry": {"coordinates":[4.3851079941,50.8268508911],"type":"Point"}
+}

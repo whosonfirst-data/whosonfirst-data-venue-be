@@ -1,0 +1,73 @@
+{
+  "id": 1058163193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6534249783,50.9871253967,3.6534249783,50.9871253967",
+    "geom:latitude":50.987125,
+    "geom:longitude":3.653425,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koningin Fabiolalaan 29",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 50 60",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51YAbhmqDrDQJwedsMdmjG_50.987125_3.653425@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512568,
+    "wof:geomhash":"9afcf9976e57d04edc647a92026dc556",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058163193
+        }
+    ],
+    "wof:id":1058163193,
+    "wof:lastmodified":1473512568,
+    "wof:name":"Dhaenens P",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6534249783,
+    50.9871253967,
+    3.6534249783,
+    50.9871253967
+],
+  "geometry": {"coordinates":[3.6534249783,50.9871253967],"type":"Point"}
+}

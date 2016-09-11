@@ -1,0 +1,79 @@
+{
+  "id": 1058157865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3973169327,50.8313713074,4.3973169327,50.8313713074",
+    "geom:latitude":50.831371,
+    "geom:longitude":4.397317,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Camille Joset 11",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 09 50",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ReuQuHT2Bc3ENzPzw1FO_50.831371_4.397317@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512350,
+    "wof:geomhash":"a5a2f2271a7afc029832118c576531d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058157865
+        }
+    ],
+    "wof:id":1058157865,
+    "wof:lastmodified":1473512350,
+    "wof:name":"Cohen L",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3973169327,
+    50.8313713074,
+    4.3973169327,
+    50.8313713074
+],
+  "geometry": {"coordinates":[4.3973169327,50.8313713074],"type":"Point"}
+}

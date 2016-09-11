@@ -1,0 +1,88 @@
+{
+  "id": 1042062357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4028930664,51.2198562622,4.4028930664,51.2198562622",
+    "geom:latitude":51.219856,
+    "geom:longitude":4.402893,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Melkmarkt 33",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 226 08 97",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715,
+        85801623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16N818lZ07qRBbTqQLwSuw_51.219856_4.402893@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494766,
+    "wof:geomhash":"90982334799a4cb9601d9dd3a0294c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042062357
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042062357
+        }
+    ],
+    "wof:id":1042062357,
+    "wof:lastmodified":1473494766,
+    "wof:name":"Verhille B",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.4028930664,
+    51.2198562622,
+    4.4028930664,
+    51.2198562622
+],
+  "geometry": {"coordinates":[4.4028930664,51.2198562622],"type":"Point"}
+}

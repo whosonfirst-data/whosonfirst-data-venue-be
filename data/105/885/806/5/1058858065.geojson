@@ -1,0 +1,77 @@
+{
+  "id": 1058858065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6154389381,50.6102142334,5.6154389381,50.6102142334",
+    "geom:latitude":50.610214,
+    "geom:longitude":5.615439,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Gravier 16",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 366 02 91",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ggMw1CwqbHU7HDnTNikmS_50.610214_5.615439@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544064,
+    "wof:geomhash":"466659a32677a50c131c01782327d181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1058858065
+        }
+    ],
+    "wof:id":1058858065,
+    "wof:lastmodified":1473544064,
+    "wof:name":"Vieux Moulin (le)",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    5.6154389381,
+    50.6102142334,
+    5.6154389381,
+    50.6102142334
+],
+  "geometry": {"coordinates":[5.6154389381,50.6102142334],"type":"Point"}
+}

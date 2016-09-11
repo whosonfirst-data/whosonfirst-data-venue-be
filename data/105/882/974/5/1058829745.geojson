@@ -1,0 +1,73 @@
+{
+  "id": 1058829745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.9948339462,50.7314376831,5.9948339462,50.7314376831",
+    "geom:latitude":50.731438,
+    "geom:longitude":5.994834,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Chapelle 97",
+    "sg:city":"Plombieres/plombieres",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 65 83 55",
+    "sg:postcode":"4850",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85794893,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o938zQTKHc2DQQocu6c0Q_50.731438_5.994834@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542847,
+    "wof:geomhash":"fa7436119699d18a827480c34892d209",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85794893,
+            "region_id":85681691,
+            "venue_id":1058829745
+        }
+    ],
+    "wof:id":1058829745,
+    "wof:lastmodified":1473542847,
+    "wof:name":"Guy Ernst",
+    "wof:parent_id":85794893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    5.9948339462,
+    50.7314376831,
+    5.9948339462,
+    50.7314376831
+],
+  "geometry": {"coordinates":[5.9948339462,50.7314376831],"type":"Point"}
+}

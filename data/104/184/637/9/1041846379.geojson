@@ -1,0 +1,81 @@
+{
+  "id": 1041846379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.566655159,50.6461906433,5.566655159,50.6461906433",
+    "geom:latitude":50.646191,
+    "geom:longitude":5.566655,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Agimont 16",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 04 12",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rwwxTxbM4dzJAmap53CCh_50.646191_5.566655@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485641,
+    "wof:geomhash":"6acb3d7f77ebe54ffe87f28cd48f6aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041846379
+        }
+    ],
+    "wof:id":1041846379,
+    "wof:lastmodified":1473485641,
+    "wof:name":"Duhaut C Ets",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    5.566655159,
+    50.6461906433,
+    5.566655159,
+    50.6461906433
+],
+  "geometry": {"coordinates":[5.566655159,50.6461906433],"type":"Point"}
+}

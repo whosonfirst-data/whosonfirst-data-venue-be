@@ -1,0 +1,81 @@
+{
+  "id": 1042029629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6353440285,50.8826408386,5.6353440285,50.8826408386",
+    "geom:latitude":50.882641,
+    "geom:longitude":5.635344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tongersesteenweg 47",
+    "sg:city":"Lanaken",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 89 71 42 00",
+    "sg:postcode":"3620",
+    "sg:province":"Limburg",
+    "sg:tags":[
+        "stations-service",
+        "caf\u00e9s",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797237,
+        102191581,
+        85632997,
+        404227357,
+        101754295,
+        102049959,
+        85681705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66SJg6Hf0LK90GTXtrIE5e_50.882641_5.635344@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493428,
+    "wof:geomhash":"b9927167e005a2bc841d55b1bfe2033b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049959,
+            "locality_id":101754295,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85797237,
+            "region_id":85681705,
+            "venue_id":1042029629
+        }
+    ],
+    "wof:id":1042029629,
+    "wof:lastmodified":1473493428,
+    "wof:name":"Caf\u00c9 Modern",
+    "wof:parent_id":85797237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "caf\u00e9s",
+        "carburants"
+    ]
+},
+  "bbox": [
+    5.6353440285,
+    50.8826408386,
+    5.6353440285,
+    50.8826408386
+],
+  "geometry": {"coordinates":[5.6353440285,50.8826408386],"type":"Point"}
+}

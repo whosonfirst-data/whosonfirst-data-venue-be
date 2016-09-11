@@ -1,0 +1,77 @@
+{
+  "id": 1058555829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6445651054,50.586479187,5.6445651054,50.586479187",
+    "geom:latitude":50.586479,
+    "geom:longitude":5.644565,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. William Et Philippe Grisard 4",
+    "sg:city":"Chaudfontaine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 07 92",
+    "sg:postcode":"4050",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801253,
+        102191581,
+        85632997,
+        404227353,
+        101758521,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VkfOOjsGSHyN3oG4Dwj1B_50.586479_5.644565@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530621,
+    "wof:geomhash":"551054b435517b16db3f4a33f52d035d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101758521,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801253,
+            "region_id":85681691,
+            "venue_id":1058555829
+        }
+    ],
+    "wof:id":1058555829,
+    "wof:lastmodified":1473530621,
+    "wof:name":"Dubru St\u00e9phane",
+    "wof:parent_id":85801253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.6445651054,
+    50.586479187,
+    5.6445651054,
+    50.586479187
+],
+  "geometry": {"coordinates":[5.6445651054,50.586479187],"type":"Point"}
+}

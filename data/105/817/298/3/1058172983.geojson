@@ -1,0 +1,79 @@
+{
+  "id": 1058172983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3285207748,50.8395729065,4.3285207748,50.8395729065",
+    "geom:latitude":50.839573,
+    "geom:longitude":4.328521,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Van Lint 11",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 54 28",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FBenjnO9rUv6aercWY2kU_50.839573_4.328521@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513025,
+    "wof:geomhash":"c1557844e5bea8f6680ca47bf14a0358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1058172983
+        }
+    ],
+    "wof:id":1058172983,
+    "wof:lastmodified":1473513025,
+    "wof:name":"Manelewitsch N",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3285207748,
+    50.8395729065,
+    4.3285207748,
+    50.8395729065
+],
+  "geometry": {"coordinates":[4.3285207748,50.8395729065],"type":"Point"}
+}

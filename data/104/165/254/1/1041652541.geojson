@@ -1,0 +1,81 @@
+{
+  "id": 1041652541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3349170685,50.7391433716,4.3349170685,50.7391433716",
+    "geom:latitude":50.739143,
+    "geom:longitude":4.334917,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Hal 47",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 03 49",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "pump",
+        "industrial",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5byFjOc8GHTd1pclZB9NIW_50.739143_4.334917@1306268545"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477435,
+    "wof:geomhash":"15840dd4e52c56d5cee63c46753b2443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1041652541
+        }
+    ],
+    "wof:id":1041652541,
+    "wof:lastmodified":1473477435,
+    "wof:name":"Setanco Sprl",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "industrial",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3349170685,
+    50.7391433716,
+    4.3349170685,
+    50.7391433716
+],
+  "geometry": {"coordinates":[4.3349170685,50.7391433716],"type":"Point"}
+}

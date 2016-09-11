@@ -1,0 +1,81 @@
+{
+  "id": 1041570329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5735049248,50.6418647766,5.5735049248,50.6418647766",
+    "geom:latitude":50.641865,
+    "geom:longitude":5.573505,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cath\u00e9drale 79",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 232 05 50",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5bvpZSvC7kGvmPEmeFEY_50.641865_5.573505@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474058,
+    "wof:geomhash":"12ae056517842bbfaea72e44e662f1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041570329
+        }
+    ],
+    "wof:id":1041570329,
+    "wof:lastmodified":1473474058,
+    "wof:name":"H\u00e9t\u00e9roclite",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5735049248,
+    50.6418647766,
+    5.5735049248,
+    50.6418647766
+],
+  "geometry": {"coordinates":[5.5735049248,50.6418647766],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042060751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3661551476,50.8367958069,4.3661551476,50.8367958069",
+    "geom:latitude":50.836796,
+    "geom:longitude":4.366155,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Wavre 88",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 15 87",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10fA6E3VvwNQ3jCJwahYHz_50.836796_4.366155@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494705,
+    "wof:geomhash":"4d3d7aeeda959d192240d6e6636cc5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042060751
+        }
+    ],
+    "wof:id":1042060751,
+    "wof:lastmodified":1473494705,
+    "wof:name":"Paix (pharmacie De La)",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3661551476,
+    50.8367958069,
+    4.3661551476,
+    50.8367958069
+],
+  "geometry": {"coordinates":[4.3661551476,50.8367958069],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1058775103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5964818001,50.6152572632,5.5964818001,50.6152572632",
+    "geom:latitude":50.615257,
+    "geom:longitude":5.596482,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belle Ile En Li\u00e8ge",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 47 95",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691,
+        85800763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OolaQyXRUoMv8dePA2y4b_50.615257_5.596482@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540463,
+    "wof:geomhash":"01529bf45463b201039a10f222de8149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058775103
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1058775103
+        }
+    ],
+    "wof:id":1058775103,
+    "wof:lastmodified":1473540463,
+    "wof:name":"Espace Jeune",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5964818001,
+    50.6152572632,
+    5.5964818001,
+    50.6152572632
+],
+  "geometry": {"coordinates":[5.5964818001,50.6152572632],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058114659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3614940643,50.8395500183,4.3614940643,50.8395500183",
+    "geom:latitude":50.83955,
+    "geom:longitude":4.361494,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Th\u00e9r\u00e9sienne 3",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 09 30",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "plating",
+        "silver",
+        "gold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CBwHtWsOIrzdfgUfaY0Ef_50.839550_4.361494@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510207,
+    "wof:geomhash":"4ec9c3783a553ad9d48e4e7d03489953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058114659
+        }
+    ],
+    "wof:id":1058114659,
+    "wof:lastmodified":1473510207,
+    "wof:name":"Poin\u00e7on (le)",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating",
+        "silver",
+        "gold"
+    ]
+},
+  "bbox": [
+    4.3614940643,
+    50.8395500183,
+    4.3614940643,
+    50.8395500183
+],
+  "geometry": {"coordinates":[4.3614940643,50.8395500183],"type":"Point"}
+}

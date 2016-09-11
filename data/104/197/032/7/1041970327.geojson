@@ -1,0 +1,77 @@
+{
+  "id": 1041970327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3292431831,50.8362464905,4.3292431831,50.8362464905",
+    "geom:latitude":50.836246,
+    "geom:longitude":4.329243,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De La R\u00e9vision 24 Box 13",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 92 57",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QitB0lNSGloa9cADUDKHH_50.836246_4.329243@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490908,
+    "wof:geomhash":"c920ced5c83610040c68688f84c35ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1041970327
+        }
+    ],
+    "wof:id":1041970327,
+    "wof:lastmodified":1473490908,
+    "wof:name":"Woters M",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.3292431831,
+    50.8362464905,
+    4.3292431831,
+    50.8362464905
+],
+  "geometry": {"coordinates":[4.3292431831,50.8362464905],"type":"Point"}
+}

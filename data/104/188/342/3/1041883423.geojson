@@ -1,0 +1,79 @@
+{
+  "id": 1041883423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3579411507,50.804019928,4.3579411507,50.804019928",
+    "geom:latitude":50.80402,
+    "geom:longitude":4.357941,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Fr\u00e9 209",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 63 11",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SdRVa9gpFoG236kCtimq4_50.804020_4.357941@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487225,
+    "wof:geomhash":"c3c4c6c849a9916e5c96e2203fbe0c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041883423
+        }
+    ],
+    "wof:id":1041883423,
+    "wof:lastmodified":1473487225,
+    "wof:name":"Pains Et Saveurs Sucr\u00e9es",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3579411507,
+    50.804019928,
+    4.3579411507,
+    50.804019928
+],
+  "geometry": {"coordinates":[4.3579411507,50.804019928],"type":"Point"}
+}

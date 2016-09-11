@@ -1,0 +1,81 @@
+{
+  "id": 1058535199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3954567909,51.2092094421,4.3954567909,51.2092094421",
+    "geom:latitude":51.209209,
+    "geom:longitude":4.395457,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schildersstraat 23",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 54 03 26",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "personnel",
+        "-selection",
+        "recruitment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qMbI9ryNnBGOibwM9uTmk_51.209209_4.395457@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529717,
+    "wof:geomhash":"87e813d30733f8a827f3097c508203d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058535199
+        }
+    ],
+    "wof:id":1058535199,
+    "wof:lastmodified":1473529717,
+    "wof:name":"Geerdens I",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel",
+        "-selection",
+        "recruitment"
+    ]
+},
+  "bbox": [
+    4.3954567909,
+    51.2092094421,
+    4.3954567909,
+    51.2092094421
+],
+  "geometry": {"coordinates":[4.3954567909,51.2092094421],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058935987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3137998581,50.8518180847,4.3137998581,50.8518180847",
+    "geom:latitude":50.851818,
+    "geom:longitude":4.3138,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Edmond Machtens 75 Box 17",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 415 92 22",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01LPFNfK459vajrffTffIw_50.851818_4.313800@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547580,
+    "wof:geomhash":"089ef478ccdf4da7addbc5fb6ecf90e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058935987
+        }
+    ],
+    "wof:id":1058935987,
+    "wof:lastmodified":1473547580,
+    "wof:name":"Van Den Borre M",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.3137998581,
+    50.8518180847,
+    4.3137998581,
+    50.8518180847
+],
+  "geometry": {"coordinates":[4.3137998581,50.8518180847],"type":"Point"}
+}

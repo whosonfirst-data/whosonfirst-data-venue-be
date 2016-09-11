@@ -1,0 +1,85 @@
+{
+  "id": 1058179343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3151531219,50.8483123779,4.3151531219,50.8483123779",
+    "geom:latitude":50.848312,
+    "geom:longitude":4.315153,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Ninove 297",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 31 61",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1laL4u2SwIewdVzoFMl4Jd_50.848312_4.315153@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513303,
+    "wof:geomhash":"d07fb91c588507891218333f7c9b743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058179343
+        }
+    ],
+    "wof:id":1058179343,
+    "wof:lastmodified":1473513303,
+    "wof:name":"Pilato",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3151531219,
+    50.8483123779,
+    4.3151531219,
+    50.8483123779
+],
+  "geometry": {"coordinates":[4.3151531219,50.8483123779],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058059183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6947300434,51.0736656189,3.6947300434,51.0736656189",
+    "geom:latitude":51.073666,
+    "geom:longitude":3.69473,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eeklostr 114",
+    "sg:city":"Mariakerke",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 15 80",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "food",
+        "cooked",
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sN9IpGnTRiHV4k82ayS5Y_51.073666_3.694730@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507886,
+    "wof:geomhash":"2798cced7cf567cef3f0549c4b99c5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058059183
+        }
+    ],
+    "wof:id":1058059183,
+    "wof:lastmodified":1473507886,
+    "wof:name":"Vleeswaren Noyen Nv",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "cooked",
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    3.6947300434,
+    51.0736656189,
+    3.6947300434,
+    51.0736656189
+],
+  "geometry": {"coordinates":[3.6947300434,51.0736656189],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058663387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2258958817,51.2119903564,3.2258958817,51.2119903564",
+    "geom:latitude":51.21199,
+    "geom:longitude":3.225896,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Genthof 5",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 07 81",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709,
+        85862111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QAsXcsNxq84i4FusF0WCo_51.211990_3.225896@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535559,
+    "wof:geomhash":"eed409728266d7fae4770b7611ca40c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1058663387
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1058663387
+        }
+    ],
+    "wof:id":1058663387,
+    "wof:lastmodified":1473535559,
+    "wof:name":"'t Zonneke",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2258958817,
+    51.2119903564,
+    3.2258958817,
+    51.2119903564
+],
+  "geometry": {"coordinates":[3.2258958817,51.2119903564],"type":"Point"}
+}

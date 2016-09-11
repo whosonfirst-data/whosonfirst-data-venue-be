@@ -1,0 +1,73 @@
+{
+  "id": 1041603333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2587881088,50.8342666626,4.2587881088,50.8342666626",
+    "geom:latitude":50.834267,
+    "geom:longitude":4.258788,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vlasendael 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 527 03 09",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "head-hunting",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e9N5s7SSf5Gap5nE7IUSs_50.834267_4.258788@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475447,
+    "wof:geomhash":"1cd91e7fdfc10fd2354f5a6ad406cb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1041603333
+        }
+    ],
+    "wof:id":1041603333,
+    "wof:lastmodified":1473475447,
+    "wof:name":"Mottet Associat.",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "head-hunting",
+        "consulting"
+    ]
+},
+  "bbox": [
+    4.2587881088,
+    50.8342666626,
+    4.2587881088,
+    50.8342666626
+],
+  "geometry": {"coordinates":[4.2587881088,50.8342666626],"type":"Point"}
+}

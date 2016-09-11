@@ -1,0 +1,79 @@
+{
+  "id": 1041640979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3721189499,50.8937759399,4.3721189499,50.8937759399",
+    "geom:latitude":50.893776,
+    "geom:longitude":4.372119,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Pois De Senteur 169",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 10 31",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p2688tETDYMSuqETbDOEM_50.893776_4.372119@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476959,
+    "wof:geomhash":"d08f96350ff0d84dacc4e6e7c7599f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1041640979
+        }
+    ],
+    "wof:id":1041640979,
+    "wof:lastmodified":1473476959,
+    "wof:name":"All At Once Sprl",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3721189499,
+    50.8937759399,
+    4.3721189499,
+    50.8937759399
+],
+  "geometry": {"coordinates":[4.3721189499,50.8937759399],"type":"Point"}
+}

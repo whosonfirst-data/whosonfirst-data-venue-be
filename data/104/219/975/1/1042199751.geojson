@@ -1,0 +1,77 @@
+{
+  "id": 1042199751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4356741905,51.1300086975,4.4356741905,51.1300086975",
+    "geom:latitude":51.130009,
+    "geom:longitude":4.435674,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pierstraat 1",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 12 51",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MVBR80rfE6Pdrb22CdhDl_51.130009_4.435674@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501942,
+    "wof:geomhash":"22c00f9f77c57716bd8f601f7dd69f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042199751
+        }
+    ],
+    "wof:id":1042199751,
+    "wof:lastmodified":1473501942,
+    "wof:name":"Sint-ritacollege Nv",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.4356741905,
+    51.1300086975,
+    4.4356741905,
+    51.1300086975
+],
+  "geometry": {"coordinates":[4.4356741905,51.1300086975],"type":"Point"}
+}

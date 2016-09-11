@@ -1,0 +1,79 @@
+{
+  "id": 1058089099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4319720268,50.8370857239,4.4319720268,50.8370857239",
+    "geom:latitude":50.837086,
+    "geom:longitude":4.431972,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ren\u00e9 Declercq 2",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 69 94",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "computer",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qsRoADBnFxZh7pOo2qpM1_50.837086_4.431972@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509116,
+    "wof:geomhash":"129dfd68eeb34a17c81464de3b15dc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058089099
+        }
+    ],
+    "wof:id":1058089099,
+    "wof:lastmodified":1473509116,
+    "wof:name":"Wolunet",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computer",
+        "video"
+    ]
+},
+  "bbox": [
+    4.4319720268,
+    50.8370857239,
+    4.4319720268,
+    50.8370857239
+],
+  "geometry": {"coordinates":[4.4319720268,50.8370857239],"type":"Point"}
+}

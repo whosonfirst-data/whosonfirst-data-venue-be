@@ -1,0 +1,77 @@
+{
+  "id": 1058042563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3502678871,50.8444862366,4.3502678871,50.8444862366",
+    "geom:latitude":50.844486,
+    "geom:longitude":4.350268,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00eane 9",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 23 05",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "firework"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j886lq0ugGjORpeiP6tjs_50.844486_4.350268@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507208,
+    "wof:geomhash":"a9269c17b50763ca9e50cb5d551aa1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058042563
+        }
+    ],
+    "wof:id":1058042563,
+    "wof:lastmodified":1473507208,
+    "wof:name":"Van Cleemput's Boutique",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firework"
+    ]
+},
+  "bbox": [
+    4.3502678871,
+    50.8444862366,
+    4.3502678871,
+    50.8444862366
+],
+  "geometry": {"coordinates":[4.3502678871,50.8444862366],"type":"Point"}
+}

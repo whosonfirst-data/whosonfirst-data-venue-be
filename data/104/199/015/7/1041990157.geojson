@@ -1,0 +1,82 @@
+{
+  "id": 1041990157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3252301216,50.7788047791,4.3252301216,50.7788047791",
+    "geom:latitude":50.778805,
+    "geom:longitude":4.32523,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"85",
+    "sg:city":"Steenweg Op Ukkel 1650 Beersel",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 05 60",
+    "sg:postcode":"85",
+    "sg:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801295,
+        102191581,
+        85632997,
+        404227357,
+        101755541,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NnZkiKVdSx53r9ZQxkEkp_50.778805_4.325230@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491922,
+    "wof:geomhash":"ae5257804c8862da517692e1dd0fad8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755541,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801295,
+            "region_id":85681731,
+            "venue_id":1041990157
+        }
+    ],
+    "wof:id":1041990157,
+    "wof:lastmodified":1473491922,
+    "wof:name":"Van Wonterghem Adrien M.",
+    "wof:parent_id":85801295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ]
+},
+  "bbox": [
+    4.3252301216,
+    50.7788047791,
+    4.3252301216,
+    50.7788047791
+],
+  "geometry": {"coordinates":[4.3252301216,50.7788047791],"type":"Point"}
+}

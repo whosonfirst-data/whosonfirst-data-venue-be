@@ -1,0 +1,75 @@
+{
+  "id": 1042203037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5736808777,50.5940208435,5.5736808777,50.5940208435",
+    "geom:latitude":50.594021,
+    "geom:longitude":5.573681,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Route Du Condroz 471",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 09 14",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801845,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ied4vBJ6ycmoMtzO4WO5P_50.594021_5.573681@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502123,
+    "wof:geomhash":"cf5a4fb516b2bd48b17eb41a171bedd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801845,
+            "region_id":85681691,
+            "venue_id":1042203037
+        }
+    ],
+    "wof:id":1042203037,
+    "wof:lastmodified":1473502123,
+    "wof:name":"Franssen P Sprl",
+    "wof:parent_id":85801845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.5736808777,
+    50.5940208435,
+    5.5736808777,
+    50.5940208435
+],
+  "geometry": {"coordinates":[5.5736808777,50.5940208435],"type":"Point"}
+}

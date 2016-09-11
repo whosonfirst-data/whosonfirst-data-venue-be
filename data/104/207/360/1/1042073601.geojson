@@ -1,0 +1,80 @@
+{
+  "id": 1042073601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3619627953,50.8589019775,4.3619627953,50.8589019775",
+    "geom:latitude":50.858902,
+    "geom:longitude":4.361963,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Brabant 187",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vMpHSpUEoYmXlocHFruKG_50.858902_4.361963@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495223,
+    "wof:geomhash":"7a1b7528ecf42429bcaba164866b6557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042073601
+        }
+    ],
+    "wof:id":1042073601,
+    "wof:lastmodified":1473495223,
+    "wof:name":"M.l.k. Textiles",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3619627953,
+    50.8589019775,
+    4.3619627953,
+    50.8589019775
+],
+  "geometry": {"coordinates":[4.3619627953,50.8589019775],"type":"Point"}
+}

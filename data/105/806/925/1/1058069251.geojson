@@ -1,0 +1,81 @@
+{
+  "id": 1058069251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.729640007,51.0323829651,3.729640007,51.0323829651",
+    "geom:latitude":51.032383,
+    "geom:longitude":3.72964,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ottergemsesteenweg 210",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 88 33",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F4wXRWpbYfncwTVzIzFUa_51.032383_3.729640@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508295,
+    "wof:geomhash":"779c44bfff8ca51d64918309c7eb61c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058069251
+        }
+    ],
+    "wof:id":1058069251,
+    "wof:lastmodified":1473508295,
+    "wof:name":"Den Hieten Friet",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    3.729640007,
+    51.0323829651,
+    3.729640007,
+    51.0323829651
+],
+  "geometry": {"coordinates":[3.729640007,51.0323829651],"type":"Point"}
+}

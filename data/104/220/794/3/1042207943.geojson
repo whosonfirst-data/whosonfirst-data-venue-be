@@ -1,0 +1,77 @@
+{
+  "id": 1042207943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2196850777,50.8269271851,4.2196850777,50.8269271851",
+    "geom:latitude":50.826927,
+    "geom:longitude":4.219685,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roomstraat 236",
+    "sg:city":"Dilbeek (itterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 567 01 62",
+    "sg:postcode":"1701",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ITiHYaHNtBcKWCYcrG6jB_50.826927_4.219685@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502329,
+    "wof:geomhash":"613ba1f9c8dd82e5a2c3c563958a7ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1042207943
+        }
+    ],
+    "wof:id":1042207943,
+    "wof:lastmodified":1473502329,
+    "wof:name":"Van Den Berghe J",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.2196850777,
+    50.8269271851,
+    4.2196850777,
+    50.8269271851
+],
+  "geometry": {"coordinates":[4.2196850777,50.8269271851],"type":"Point"}
+}

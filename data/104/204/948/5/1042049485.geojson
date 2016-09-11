@@ -1,0 +1,85 @@
+{
+  "id": 1042049485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3426351547,50.7550125122,4.3426351547,50.7550125122",
+    "geom:latitude":50.755013,
+    "geom:longitude":4.342635,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galgstraat 50",
+    "sg:city":"Alsemberg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 18 70",
+    "sg:postcode":"1652",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "house",
+        "chair",
+        "hotels",
+        "public",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TxAToZ4PIKtqxMcxBnAJx_50.755013_4.342635@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494230,
+    "wof:geomhash":"7db2b4f15f9805e7bee5d5a5a338bca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042049485
+        }
+    ],
+    "wof:id":1042049485,
+    "wof:lastmodified":1473494230,
+    "wof:name":"Fantoni Belgium Nv",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "chair",
+        "hotels",
+        "public",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3426351547,
+    50.7550125122,
+    4.3426351547,
+    50.7550125122
+],
+  "geometry": {"coordinates":[4.3426351547,50.7550125122],"type":"Point"}
+}

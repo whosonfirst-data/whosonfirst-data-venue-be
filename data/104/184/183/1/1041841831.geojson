@@ -1,0 +1,83 @@
+{
+  "id": 1041841831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3638429642,50.933883667,4.3638429642,50.933883667",
+    "geom:latitude":50.933884,
+    "geom:longitude":4.363843,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 26",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 269 69 54",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "automobile",
+        "servic",
+        "electrical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E56VgMtqDTeLsque0CPVy_50.933884_4.363843@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485448,
+    "wof:geomhash":"26e82c22985ea3b4e67e877aed317cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1041841831
+        }
+    ],
+    "wof:id":1041841831,
+    "wof:lastmodified":1473485448,
+    "wof:name":"Auto-elektra",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "servic",
+        "electrical",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3638429642,
+    50.933883667,
+    4.3638429642,
+    50.933883667
+],
+  "geometry": {"coordinates":[4.3638429642,50.933883667],"type":"Point"}
+}

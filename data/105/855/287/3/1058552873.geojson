@@ -1,0 +1,71 @@
+{
+  "id": 1058552873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4900422096,50.7323188782,4.4900422096,50.7323188782",
+    "geom:latitude":50.732319,
+    "geom:longitude":4.490042,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'argentine 29",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 18 51",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21xpEU2vUwCV0aPjuRSXI1_50.732319_4.490042@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530498,
+    "wof:geomhash":"afec19d8763f62ea1f6bb083643df988",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058552873
+        }
+    ],
+    "wof:id":1058552873,
+    "wof:lastmodified":1473530498,
+    "wof:name":"De Page A",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4900422096,
+    50.7323188782,
+    4.4900422096,
+    50.7323188782
+],
+  "geometry": {"coordinates":[4.4900422096,50.7323188782],"type":"Point"}
+}

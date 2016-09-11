@@ -1,0 +1,79 @@
+{
+  "id": 1042039829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3496379852,51.2020797729,4.3496379852,51.2020797729",
+    "geom:latitude":51.20208,
+    "geom:longitude":4.349638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaaiplein 7",
+    "sg:city":"Zwijndrecht (burcht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 772 30 51",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "register",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hVt0n8HNguJUz5hZUKm9G_51.202080_4.349638@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493858,
+    "wof:geomhash":"26b613d359e9b48caa07369dddfc2332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1042039829
+        }
+    ],
+    "wof:id":1042039829,
+    "wof:lastmodified":1473493858,
+    "wof:name":"Kas-pc Bvba",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "cash"
+    ]
+},
+  "bbox": [
+    4.3496379852,
+    51.2020797729,
+    4.3496379852,
+    51.2020797729
+],
+  "geometry": {"coordinates":[4.3496379852,51.2020797729],"type":"Point"}
+}

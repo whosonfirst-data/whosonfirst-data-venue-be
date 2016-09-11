@@ -1,0 +1,79 @@
+{
+  "id": 1041643741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3928427696,50.8094749451,4.3928427696,50.8094749451",
+    "geom:latitude":50.809475,
+    "geom:longitude":4.392843,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue George Bergmann 38-2",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 34 40",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cq6GvHyPU6AiWUg4ADlbj_50.809475_4.392843@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477093,
+    "wof:geomhash":"67f862a014dc0fdb068597ca77ed4cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041643741
+        }
+    ],
+    "wof:id":1041643741,
+    "wof:lastmodified":1473477093,
+    "wof:name":"C.e. Far",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    4.3928427696,
+    50.8094749451,
+    4.3928427696,
+    50.8094749451
+],
+  "geometry": {"coordinates":[4.3928427696,50.8094749451],"type":"Point"}
+}

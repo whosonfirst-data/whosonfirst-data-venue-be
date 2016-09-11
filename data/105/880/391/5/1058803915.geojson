@@ -1,0 +1,79 @@
+{
+  "id": 1058803915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5053610802,50.6436653137,5.5053610802,50.6436653137",
+    "geom:latitude":50.643665,
+    "geom:longitude":5.505361,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean Jaur\u00e8s 12",
+    "sg:city":"Gr\u00e2ce-hollogne (gr\u00e2ce-berleur)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 231 31 85",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pwAO4Wl8IRKnPB6bsuNkR_50.643665_5.505361@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541724,
+    "wof:geomhash":"ad799d224d3ce6119214c210a45062f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1058803915
+        }
+    ],
+    "wof:id":1058803915,
+    "wof:lastmodified":1473541724,
+    "wof:name":"Perizonius K",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    5.5053610802,
+    50.6436653137,
+    5.5053610802,
+    50.6436653137
+],
+  "geometry": {"coordinates":[5.5053610802,50.6436653137],"type":"Point"}
+}

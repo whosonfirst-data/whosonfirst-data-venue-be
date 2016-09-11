@@ -1,0 +1,71 @@
+{
+  "id": 1041849601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.0036549568,50.716960907,6.0036549568,50.716960907",
+    "geom:latitude":50.716961,
+    "geom:longitude":6.003655,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bachstrasse 44",
+    "sg:city":"Kelmis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 65 34 99",
+    "sg:postcode":"4720",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85794893,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mUsSzIOfMIRb8k1dhIRpg_50.716961_6.003655@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485785,
+    "wof:geomhash":"dad4a260c7c7921ebeca88774e0ba5cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85794893,
+            "region_id":85681691,
+            "venue_id":1041849601
+        }
+    ],
+    "wof:id":1041849601,
+    "wof:lastmodified":1473485785,
+    "wof:name":"Geron F",
+    "wof:parent_id":85794893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    6.0036549568,
+    50.716960907,
+    6.0036549568,
+    50.716960907
+],
+  "geometry": {"coordinates":[6.0036549568,50.716960907],"type":"Point"}
+}

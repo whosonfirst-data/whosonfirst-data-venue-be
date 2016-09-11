@@ -1,0 +1,73 @@
+{
+  "id": 1058168561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.7238330841,50.7123222351,5.7238330841,50.7123222351",
+    "geom:latitude":50.712322,
+    "geom:longitude":5.723833,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue G\u00e9n\u00e9ral Thys 38",
+    "sg:city":"Dalhem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 374 15 03",
+    "sg:postcode":"4607",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802007,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPJW6fRINvMTTruW9uXux_50.712322_5.723833@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512834,
+    "wof:geomhash":"2abe1ae091a599a06020121184700349",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802007,
+            "region_id":85681691,
+            "venue_id":1058168561
+        }
+    ],
+    "wof:id":1058168561,
+    "wof:lastmodified":1473512834,
+    "wof:name":"Hotterbeex F",
+    "wof:parent_id":85802007,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.7238330841,
+    50.7123222351,
+    5.7238330841,
+    50.7123222351
+],
+  "geometry": {"coordinates":[5.7238330841,50.7123222351],"type":"Point"}
+}

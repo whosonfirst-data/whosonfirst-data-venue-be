@@ -1,0 +1,66 @@
+{
+  "id": 1058674953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4716892242,51.2062339783,4.4716892242,51.2062339783",
+    "geom:latitude":51.206234,
+    "geom:longitude":4.471689,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Florent Pauwelslei 6",
+    "sg:city":"Deurne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 366 05 15",
+    "sg:postcode":"2100",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64EkL8kgIT2yRsE7vcvEuN_51.206234_4.471689@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536062,
+    "wof:geomhash":"05b61b798517f30eeb5914a0df946a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058674953
+        }
+    ],
+    "wof:id":1058674953,
+    "wof:lastmodified":1473536062,
+    "wof:name":"Napoleon",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4716892242,
+    51.2062339783,
+    4.4716892242,
+    51.2062339783
+],
+  "geometry": {"coordinates":[4.4716892242,51.2062339783],"type":"Point"}
+}

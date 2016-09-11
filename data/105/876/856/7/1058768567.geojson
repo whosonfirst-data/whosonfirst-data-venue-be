@@ -1,0 +1,77 @@
+{
+  "id": 1058768567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6953361034,51.0421295166,3.6953361034,51.0421295166",
+    "geom:latitude":51.04213,
+    "geom:longitude":3.695336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gordunakaai 85",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 244 70 00",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "financier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SN9rmmbeAR7mSVum32Nco_51.042130_3.695336@1306268568"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540173,
+    "wof:geomhash":"7f08b4310e7083510c2816d366e2d5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1058768567
+        }
+    ],
+    "wof:id":1058768567,
+    "wof:lastmodified":1473540173,
+    "wof:name":"Goffin Airport Change",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financier"
+    ]
+},
+  "bbox": [
+    3.6953361034,
+    51.0421295166,
+    3.6953361034,
+    51.0421295166
+],
+  "geometry": {"coordinates":[3.6953361034,51.0421295166],"type":"Point"}
+}

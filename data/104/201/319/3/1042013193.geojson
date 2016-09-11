@@ -1,0 +1,77 @@
+{
+  "id": 1042013193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7298328876,51.0776290894,3.7298328876,51.0776290894",
+    "geom:latitude":51.077629,
+    "geom:longitude":3.729833,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meulesteedsesteenweg 185",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 08 49",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U4YaXWFePAsDP4JrElA4C_51.077629_3.729833@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492799,
+    "wof:geomhash":"8395fcecc1c1923c4e8faae7853b41cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1042013193
+        }
+    ],
+    "wof:id":1042013193,
+    "wof:lastmodified":1473492799,
+    "wof:name":"Caf\u00c9 Rood Wit",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7298328876,
+    51.0776290894,
+    3.7298328876,
+    51.0776290894
+],
+  "geometry": {"coordinates":[3.7298328876,51.0776290894],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041786159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4436001778,50.9322013855,4.4436001778,50.9322013855",
+    "geom:latitude":50.932201,
+    "geom:longitude":4.4436,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Houtemsesteenweg 84",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 21 83",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "concrete",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801781,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gnSAF5B6NiB9hDncZtCLW_50.932201_4.443600@1306268339"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483140,
+    "wof:geomhash":"1fc18716cd030c59e143e46857d9c8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801781,
+            "region_id":85681731,
+            "venue_id":1041786159
+        }
+    ],
+    "wof:id":1041786159,
+    "wof:lastmodified":1473483140,
+    "wof:name":"Bergamini Et Fils",
+    "wof:parent_id":85801781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "architectural"
+    ]
+},
+  "bbox": [
+    4.4436001778,
+    50.9322013855,
+    4.4436001778,
+    50.9322013855
+],
+  "geometry": {"coordinates":[4.4436001778,50.9322013855],"type":"Point"}
+}

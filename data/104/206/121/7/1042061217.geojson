@@ -1,0 +1,77 @@
+{
+  "id": 1042061217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5870990753,50.6434707642,5.5870990753,50.6434707642",
+    "geom:latitude":50.643471,
+    "geom:longitude":5.587099,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Province 8",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 38 19",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cz2xJWV2zjPVpqadWkgK2_50.643471_5.587099@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494723,
+    "wof:geomhash":"810f10a0c235d7b1c01ed45efda4f8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042061217
+        }
+    ],
+    "wof:id":1042061217,
+    "wof:lastmodified":1473494723,
+    "wof:name":"P\u00e9tr\u00e9 L",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5870990753,
+    50.6434707642,
+    5.5870990753,
+    50.6434707642
+],
+  "geometry": {"coordinates":[5.5870990753,50.6434707642],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058124617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3870139122,50.895160675,4.3870139122,50.895160675",
+    "geom:latitude":50.895161,
+    "geom:longitude":4.387014,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frans Vekemansstraat 126",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 25 77",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "groenten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xmt4OgeHI3rRNx39X5kVZ_50.895161_4.387014@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510744,
+    "wof:geomhash":"18137e3d7b8cb6b6e8c1d4bcbad05be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1058124617
+        }
+    ],
+    "wof:id":1058124617,
+    "wof:lastmodified":1473510744,
+    "wof:name":"Huis De Meester",
+    "wof:parent_id":85801665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "groenten"
+    ]
+},
+  "bbox": [
+    4.3870139122,
+    50.895160675,
+    4.3870139122,
+    50.895160675
+],
+  "geometry": {"coordinates":[4.3870139122,50.895160675],"type":"Point"}
+}

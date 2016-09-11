@@ -1,0 +1,81 @@
+{
+  "id": 1058146589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3744010925,50.8491134644,4.3744010925,50.8491134644",
+    "geom:latitude":50.849113,
+    "geom:longitude":4.374401,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Deux Eglises 121",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 95 12",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GD8rNpNKD2ZMlMBSa6sMY_50.849113_4.374401@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511848,
+    "wof:geomhash":"4e7d37119e987fe54edf7876e25ee98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058146589
+        }
+    ],
+    "wof:id":1058146589,
+    "wof:lastmodified":1473511848,
+    "wof:name":"Positifs",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3744010925,
+    50.8491134644,
+    4.3744010925,
+    50.8491134644
+],
+  "geometry": {"coordinates":[4.3744010925,50.8491134644],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042201577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4003391266,50.8556213379,4.4003391266,50.8556213379",
+    "geom:latitude":50.855621,
+    "geom:longitude":4.400339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 539",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 705 82 66",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZrwHVGKi0t0HZt6O7DKAH_50.855621_4.400339@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502059,
+    "wof:geomhash":"303db95c3b3bd9f7954479056cc8df13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1042201577
+        }
+    ],
+    "wof:id":1042201577,
+    "wof:lastmodified":1473502059,
+    "wof:name":"Krefel",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "electric"
+    ]
+},
+  "bbox": [
+    4.4003391266,
+    50.8556213379,
+    4.4003391266,
+    50.8556213379
+],
+  "geometry": {"coordinates":[4.4003391266,50.8556213379],"type":"Point"}
+}

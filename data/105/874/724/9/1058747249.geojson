@@ -1,0 +1,79 @@
+{
+  "id": 1058747249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6517090797,50.6967124939,5.6517090797,50.6967124939",
+    "geom:latitude":50.696712,
+    "geom:longitude":5.651709,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Wauters 68",
+    "sg:city":"Oupeye",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 56 12",
+    "sg:postcode":"4683",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TWhmI35eAf8rN2XuKfQqX_50.696712_5.651709@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539204,
+    "wof:geomhash":"b088f890abb35bacdad35695fbc47024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1058747249
+        }
+    ],
+    "wof:id":1058747249,
+    "wof:lastmodified":1473539204,
+    "wof:name":"Robert Robert",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.6517090797,
+    50.6967124939,
+    5.6517090797,
+    50.6967124939
+],
+  "geometry": {"coordinates":[5.6517090797,50.6967124939],"type":"Point"}
+}

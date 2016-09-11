@@ -1,0 +1,77 @@
+{
+  "id": 1041568699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2958159447,50.8639945984,4.2958159447,50.8639945984",
+    "geom:latitude":50.863995,
+    "geom:longitude":4.295816,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'eglise 26",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 53 50",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20X5MXqrGjX8CRtbGRNhTU_50.863995_4.295816@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473992,
+    "wof:geomhash":"e3bf8065d3441e891a3de1e38e6878bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1041568699
+        }
+    ],
+    "wof:id":1041568699,
+    "wof:lastmodified":1473473992,
+    "wof:name":"Van Schelvergem M",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.2958159447,
+    50.8639945984,
+    4.2958159447,
+    50.8639945984
+],
+  "geometry": {"coordinates":[4.2958159447,50.8639945984],"type":"Point"}
+}

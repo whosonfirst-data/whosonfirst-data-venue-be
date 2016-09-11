@@ -1,0 +1,79 @@
+{
+  "id": 1058964395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5505261421,50.6423912048,5.5505261421,50.6423912048",
+    "geom:latitude":50.642391,
+    "geom:longitude":5.550526,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Mons 64",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 13 13",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aU9sCF9fMMYYSBHVwMT0V_50.642391_5.550526@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548969,
+    "wof:geomhash":"3364c7eaaedeac152de876f6b448bfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1058964395
+        }
+    ],
+    "wof:id":1058964395,
+    "wof:lastmodified":1473548969,
+    "wof:name":"Sanidel (anc Noirotherm)",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    5.5505261421,
+    50.6423912048,
+    5.5505261421,
+    50.6423912048
+],
+  "geometry": {"coordinates":[5.5505261421,50.6423912048],"type":"Point"}
+}

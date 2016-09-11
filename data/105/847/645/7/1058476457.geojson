@@ -1,0 +1,77 @@
+{
+  "id": 1058476457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6269030571,50.6613883972,5.6269030571,50.6613883972",
+    "geom:latitude":50.661388,
+    "geom:longitude":5.626903,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hoyoux 87",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 11 88",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bnOMf3Rs7iQZFzV5W3f8t_50.661388_5.626903@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473526981,
+    "wof:geomhash":"3dae99c0fcb138a3a5c0362dfab0c85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058476457
+        }
+    ],
+    "wof:id":1058476457,
+    "wof:lastmodified":1473526981,
+    "wof:name":"De Block T",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    5.6269030571,
+    50.6613883972,
+    5.6269030571,
+    50.6613883972
+],
+  "geometry": {"coordinates":[5.6269030571,50.6613883972],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1041675753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5246801376,51.2009811401,4.5246801376,51.2009811401",
+    "geom:latitude":51.200981,
+    "geom:longitude":4.52468,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Welkomstraat 72",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 98 07",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fCGJWJeQMamgRxlcZZW6E_51.200981_4.524680@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478359,
+    "wof:geomhash":"05d2ef410fecbf255cda225246735bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1041675753
+        }
+    ],
+    "wof:id":1041675753,
+    "wof:lastmodified":1473478359,
+    "wof:name":"Gyvago",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.5246801376,
+    51.2009811401,
+    4.5246801376,
+    51.2009811401
+],
+  "geometry": {"coordinates":[4.5246801376,51.2009811401],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1058996291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.700737,50.867206,4.700737,50.867206",
+    "geom:latitude":50.867206,
+    "geom:longitude":4.700737,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Broekstraat 36",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3001",
+    "sg:tags":[
+        "webdesign",
+        "development",
+        "symfony",
+        "open-source"
+    ],
+    "sg:website":"http://www.digitalbase.eu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C1BxXvsDQWwoTn9s7GXfS_50.867206_4.700737@1308163239"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550366,
+    "wof:geomhash":"df7f321f941efa3089bc3fde23a6f543",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058996291
+        }
+    ],
+    "wof:id":1058996291,
+    "wof:lastmodified":1473550366,
+    "wof:name":"Digital Base",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "webdesign",
+        "development",
+        "symfony",
+        "open-source"
+    ]
+},
+  "bbox": [
+    4.700737,
+    50.867206,
+    4.700737,
+    50.867206
+],
+  "geometry": {"coordinates":[4.700737,50.867206],"type":"Point"}
+}

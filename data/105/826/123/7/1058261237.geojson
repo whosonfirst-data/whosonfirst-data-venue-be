@@ -1,0 +1,85 @@
+{
+  "id": 1058261237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3331160545,50.8211631775,4.3331160545,50.8211631775",
+    "geom:latitude":50.821163,
+    "geom:longitude":4.333116,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Massenet 28",
+    "sg:city":"Vorst/forest",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 81 54",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jF18g4LFcaemqfBht9wEy_50.821163_4.333116@1306268476"
+    },
+    "wof:country":"BE",
+    "wof:created":1473516891,
+    "wof:geomhash":"f8cb0bf2699ede73040fe5fcf4966fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058261237
+        }
+    ],
+    "wof:id":1058261237,
+    "wof:lastmodified":1473516891,
+    "wof:name":"R.c. Kibubu Ixelles",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ]
+},
+  "bbox": [
+    4.3331160545,
+    50.8211631775,
+    4.3331160545,
+    50.8211631775
+],
+  "geometry": {"coordinates":[4.3331160545,50.8211631775],"type":"Point"}
+}

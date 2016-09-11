@@ -1,0 +1,77 @@
+{
+  "id": 1041563591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.744412899,51.0367202759,3.744412899,51.0367202759",
+    "geom:latitude":51.03672,
+    "geom:longitude":3.744413,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langestraat 84ba",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 232 19 58",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LD32pmLFj0vGuZo3IWq6d_51.036720_3.744413@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473780,
+    "wof:geomhash":"101354f15ff3a266e2cbc33d9fa0d973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041563591
+        }
+    ],
+    "wof:id":1041563591,
+    "wof:lastmodified":1473473780,
+    "wof:name":"Caf\u00c9 Rubens",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.744412899,
+    51.0367202759,
+    3.744412899,
+    51.0367202759
+],
+  "geometry": {"coordinates":[3.744412899,51.0367202759],"type":"Point"}
+}

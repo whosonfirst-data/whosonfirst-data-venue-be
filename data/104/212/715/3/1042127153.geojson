@@ -1,0 +1,79 @@
+{
+  "id": 1042127153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3477349281,50.825668335,4.3477349281,50.825668335",
+    "geom:latitude":50.825668,
+    "geom:longitude":4.347735,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 270",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 62 73 03",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31JFhDRFEThSwcWD74qYvp_50.825668_4.347735@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497780,
+    "wof:geomhash":"c3c14e10293d9f5ea45b6a3c33a3a09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042127153
+        }
+    ],
+    "wof:id":1042127153,
+    "wof:lastmodified":1473497780,
+    "wof:name":"Centre De Soins Dentaires",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    4.3477349281,
+    50.825668335,
+    4.3477349281,
+    50.825668335
+],
+  "geometry": {"coordinates":[4.3477349281,50.825668335],"type":"Point"}
+}

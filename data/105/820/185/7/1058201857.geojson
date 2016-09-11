@@ -1,0 +1,66 @@
+{
+  "id": 1058201857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4959049225,50.5803604126,5.4959049225,50.5803604126",
+    "geom:latitude":50.58036,
+    "geom:longitude":5.495905,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Laplace",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 338 70 00",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XVCG7P3Eocyda4dFz9dr4_50.580360_5.495905@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514279,
+    "wof:geomhash":"9ae46e334de120a8593b4cd040531d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1058201857
+        }
+    ],
+    "wof:id":1058201857,
+    "wof:lastmodified":1473514279,
+    "wof:name":"Centre Hospitalier Du Bois De L'abbaye Et De Hesbaye",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4959049225,
+    50.5803604126,
+    5.4959049225,
+    50.5803604126
+],
+  "geometry": {"coordinates":[5.4959049225,50.5803604126],"type":"Point"}
+}

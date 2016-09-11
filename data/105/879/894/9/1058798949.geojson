@@ -1,0 +1,81 @@
+{
+  "id": 1058798949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6168718338,50.6248779297,5.6168718338,50.6248779297",
+    "geom:latitude":50.624878,
+    "geom:longitude":5.616872,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Nicolas-spiroux 229",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 17 47",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "sound",
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LlRDqIKG31bFUyNRHUfWp_50.624878_5.616872@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541518,
+    "wof:geomhash":"d854a37481048b9e8fe00bc854434b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058798949
+        }
+    ],
+    "wof:id":1058798949,
+    "wof:lastmodified":1473541518,
+    "wof:name":"Roxane Recording Studio",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    5.6168718338,
+    50.6248779297,
+    5.6168718338,
+    50.6248779297
+],
+  "geometry": {"coordinates":[5.6168718338,50.6248779297],"type":"Point"}
+}

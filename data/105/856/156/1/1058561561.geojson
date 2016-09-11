@@ -1,0 +1,77 @@
+{
+  "id": 1058561561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5627388954,50.5263214111,5.5627388954,50.5263214111",
+    "geom:latitude":50.526321,
+    "geom:longitude":5.562739,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"La Salte 6",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 380 41 22",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801627,
+        102191581,
+        85632997,
+        404227353,
+        101755185,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jw0NkUkMhMorDJOGMhQnb_50.526321_5.562739@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530888,
+    "wof:geomhash":"e43bb22fd5c20a19871218611215dec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755185,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801627,
+            "region_id":85681691,
+            "venue_id":1058561561
+        }
+    ],
+    "wof:id":1058561561,
+    "wof:lastmodified":1473530888,
+    "wof:name":"Lemaire M-c",
+    "wof:parent_id":85801627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5627388954,
+    50.5263214111,
+    5.5627388954,
+    50.5263214111
+],
+  "geometry": {"coordinates":[5.5627388954,50.5263214111],"type":"Point"}
+}

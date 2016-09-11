@@ -1,0 +1,79 @@
+{
+  "id": 1058880619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7365539074,51.0567436218,3.7365539074,51.0567436218",
+    "geom:latitude":51.056744,
+    "geom:longitude":3.736554,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dampoortstraat 66",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 269 08 06",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "toy",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d61M4YbgPjGBbPhRQ0IZS_51.056744_3.736554@1306268589"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545045,
+    "wof:geomhash":"8c4e6be9e6ae1faaacad3dadf917813d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058880619
+        }
+    ],
+    "wof:id":1058880619,
+    "wof:lastmodified":1473545045,
+    "wof:name":"De Meyer Y",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7365539074,
+    51.0567436218,
+    3.7365539074,
+    51.0567436218
+],
+  "geometry": {"coordinates":[3.7365539074,51.0567436218],"type":"Point"}
+}

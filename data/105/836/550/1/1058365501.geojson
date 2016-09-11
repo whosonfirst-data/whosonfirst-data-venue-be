@@ -1,0 +1,79 @@
+{
+  "id": 1058365501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3194270134,50.870262146,4.3194270134,50.870262146",
+    "geom:latitude":50.870262,
+    "geom:longitude":4.319427,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Georges Simpson 34",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 86 49",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "long-keeping",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LANA6ZOPAckL5ErJ41U2P_50.870262_4.319427@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521670,
+    "wof:geomhash":"a57ff069d8be9551ce8654cfa121150e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058365501
+        }
+    ],
+    "wof:id":1058365501,
+    "wof:lastmodified":1473521670,
+    "wof:name":"Sira S.a.",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "long-keeping",
+        "pastry"
+    ]
+},
+  "bbox": [
+    4.3194270134,
+    50.870262146,
+    4.3194270134,
+    50.870262146
+],
+  "geometry": {"coordinates":[4.3194270134,50.870262146],"type":"Point"}
+}

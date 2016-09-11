@@ -1,0 +1,85 @@
+{
+  "id": 1058178741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3237662315,50.7766838074,4.3237662315,50.7766838074",
+    "geom:latitude":50.776684,
+    "geom:longitude":4.323766,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Hess De Lilez 23",
+    "sg:city":"Linkebeek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 52 14",
+    "sg:postcode":"1630",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801091,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rZRNnL0TSi4r8eTBRlymP_50.776684_4.323766@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513279,
+    "wof:geomhash":"f57a581b090915fa5e684988e9bf7498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801091,
+            "region_id":85681731,
+            "venue_id":1058178741
+        }
+    ],
+    "wof:id":1058178741,
+    "wof:lastmodified":1473513279,
+    "wof:name":"Electro T",
+    "wof:parent_id":85801091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3237662315,
+    50.7766838074,
+    4.3237662315,
+    50.7766838074
+],
+  "geometry": {"coordinates":[4.3237662315,50.7766838074],"type":"Point"}
+}

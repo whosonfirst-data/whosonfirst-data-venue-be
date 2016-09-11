@@ -1,0 +1,77 @@
+{
+  "id": 1058121647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4263367653,51.2117004395,4.4263367653,51.2117004395",
+    "geom:latitude":51.2117,
+    "geom:longitude":4.426337,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bleekhofstraat 2",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 16 87",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZGkvNi9XzodtJS4jHKQJB_51.211700_4.426337@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510611,
+    "wof:geomhash":"1151b38547a029211499f2db8b094f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058121647
+        }
+    ],
+    "wof:id":1058121647,
+    "wof:lastmodified":1473510611,
+    "wof:name":"Risala",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.4263367653,
+    51.2117004395,
+    4.4263367653,
+    51.2117004395
+],
+  "geometry": {"coordinates":[4.4263367653,51.2117004395],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041654279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4357800484,50.8375396729,4.4357800484,50.8375396729",
+    "geom:latitude":50.83754,
+    "geom:longitude":4.43578,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Station De Woluwe 40",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 96 63",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "energy",
+        "renewable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lBU1diYTT05671xVF4W5d_50.837540_4.435780@1306268548"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477508,
+    "wof:geomhash":"4bfdedf7f4d8c40ab020849e82d2426e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1041654279
+        }
+    ],
+    "wof:id":1041654279,
+    "wof:lastmodified":1473477508,
+    "wof:name":"Courtejoie V",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "renewable"
+    ]
+},
+  "bbox": [
+    4.4357800484,
+    50.8375396729,
+    4.4357800484,
+    50.8375396729
+],
+  "geometry": {"coordinates":[4.4357800484,50.8375396729],"type":"Point"}
+}

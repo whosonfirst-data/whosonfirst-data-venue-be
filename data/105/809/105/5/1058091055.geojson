@@ -1,0 +1,77 @@
+{
+  "id": 1058091055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3333477974,50.8702926636,4.3333477974,50.8702926636",
+    "geom:latitude":50.870293,
+    "geom:longitude":4.333348,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Longtin 151",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 40 74",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JWIQAh004TgI2gIZm4u37_50.870293_4.333348@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509194,
+    "wof:geomhash":"de0f4a1a0f463515d6482a0940f7986f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058091055
+        }
+    ],
+    "wof:id":1058091055,
+    "wof:lastmodified":1473509194,
+    "wof:name":"De Plu Bvba",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3333477974,
+    50.8702926636,
+    4.3333477974,
+    50.8702926636
+],
+  "geometry": {"coordinates":[4.3333477974,50.8702926636],"type":"Point"}
+}

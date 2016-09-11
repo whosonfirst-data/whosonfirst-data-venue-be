@@ -1,0 +1,77 @@
+{
+  "id": 1042193361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7491428852,51.0395355225,3.7491428852,51.0395355225",
+    "geom:latitude":51.039536,
+    "geom:longitude":3.749143,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frederik Burvenichstraat 71",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 91 32",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "ecological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vnS8mZJMgrFV73kpipgfh_51.039536_3.749143@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501545,
+    "wof:geomhash":"2ea5c24048f5c41003d2fdbc0d88749c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042193361
+        }
+    ],
+    "wof:id":1042193361,
+    "wof:lastmodified":1473501545,
+    "wof:name":"Wonen En Gezondheid Vzw",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ecological"
+    ]
+},
+  "bbox": [
+    3.7491428852,
+    51.0395355225,
+    3.7491428852,
+    51.0395355225
+],
+  "geometry": {"coordinates":[3.7491428852,51.0395355225],"type":"Point"}
+}

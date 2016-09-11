@@ -1,0 +1,79 @@
+{
+  "id": 1041623305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4249420166,50.8109893799,4.4249420166,50.8109893799",
+    "geom:latitude":50.810989,
+    "geom:longitude":4.424942,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Th\u00e9o Vanp\u00e9 66",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 25 50",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sIq1S9CpsMDFwhjDn8gur_50.810989_4.424942@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476239,
+    "wof:geomhash":"49e99b56eb24c8ad0dc37da7aa8dcada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1041623305
+        }
+    ],
+    "wof:id":1041623305,
+    "wof:lastmodified":1473476239,
+    "wof:name":"Verteneuil C",
+    "wof:parent_id":85801147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.4249420166,
+    50.8109893799,
+    4.4249420166,
+    50.8109893799
+],
+  "geometry": {"coordinates":[4.4249420166,50.8109893799],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058034569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5857210159,50.6509094238,5.5857210159,50.6509094238",
+    "geom:latitude":50.650909,
+    "geom:longitude":5.585721,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vivegnis 48",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 26 81",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fa\u00e7ade",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gDsxuMIXd5NSnBnA0u6p2_50.650909_5.585721@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506877,
+    "wof:geomhash":"39578241af426bcf6bc642188c3b0d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1058034569
+        }
+    ],
+    "wof:id":1058034569,
+    "wof:lastmodified":1473506877,
+    "wof:name":"L'artisan Des Facades",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fa\u00e7ade",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    5.5857210159,
+    50.6509094238,
+    5.5857210159,
+    50.6509094238
+],
+  "geometry": {"coordinates":[5.5857210159,50.6509094238],"type":"Point"}
+}

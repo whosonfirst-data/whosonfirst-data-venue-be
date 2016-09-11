@@ -1,0 +1,77 @@
+{
+  "id": 1041742025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4392619133,51.2069816589,4.4392619133,51.2069816589",
+    "geom:latitude":51.206982,
+    "geom:longitude":4.439262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlijtstraat 50",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"General Aviation",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 43 54",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kic9h3D2t8cnhIWlcguBx_51.206982_4.439262@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481028,
+    "wof:geomhash":"ccf8b70fdcac5a05a78e24cc4b3d4483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041742025
+        }
+    ],
+    "wof:id":1041742025,
+    "wof:lastmodified":1473481028,
+    "wof:name":"Goldy's Courier- & Airportservice",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport"
+    ]
+},
+  "bbox": [
+    4.4392619133,
+    51.2069816589,
+    4.4392619133,
+    51.2069816589
+],
+  "geometry": {"coordinates":[4.4392619133,51.2069816589],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058162541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3532671928,50.8133506775,4.3532671928,50.8133506775",
+    "geom:latitude":50.813351,
+    "geom:longitude":4.353267,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Cuylits 25",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 340 08 10",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yKAHVQW8hk9VFpapPMZOS_50.813351_4.353267@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512539,
+    "wof:geomhash":"66b3f0c35cbebe8ae02eca3c0921f8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058162541
+        }
+    ],
+    "wof:id":1058162541,
+    "wof:lastmodified":1473512539,
+    "wof:name":"Deraux Philippe",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3532671928,
+    50.8133506775,
+    4.3532671928,
+    50.8133506775
+],
+  "geometry": {"coordinates":[4.3532671928,50.8133506775],"type":"Point"}
+}

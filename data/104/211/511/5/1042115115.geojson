@@ -1,0 +1,83 @@
+{
+  "id": 1042115115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5646800995,50.6351890564,5.5646800995,50.6351890564",
+    "geom:latitude":50.635189,
+    "geom:longitude":5.56468,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Augustins 45",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 237 00 12",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801883,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48QFHqHL9OSSaPxq85Ot92_50.635189_5.564680@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497117,
+    "wof:geomhash":"e08ace75151f0582bde93f0bed7e414a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801883,
+            "region_id":85681691,
+            "venue_id":1042115115
+        }
+    ],
+    "wof:id":1042115115,
+    "wof:lastmodified":1473497117,
+    "wof:name":"Entreprise Traitex Scrl",
+    "wof:parent_id":85801883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    5.5646800995,
+    50.6351890564,
+    5.5646800995,
+    50.6351890564
+],
+  "geometry": {"coordinates":[5.5646800995,50.6351890564],"type":"Point"}
+}

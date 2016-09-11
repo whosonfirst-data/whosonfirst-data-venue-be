@@ -1,0 +1,77 @@
+{
+  "id": 1058573793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3204112053,50.8790092468,4.3204112053,50.8790092468",
+    "geom:latitude":50.879009,
+    "geom:longitude":4.320411,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Huybreghts 8",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 99 32",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50NmSceUKCm0fE3kp1LZBN_50.879009_4.320411@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531470,
+    "wof:geomhash":"9b49f17f58e80d2c49ff0bead0789ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058573793
+        }
+    ],
+    "wof:id":1058573793,
+    "wof:lastmodified":1473531470,
+    "wof:name":"Wattiez J-f",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3204112053,
+    50.8790092468,
+    4.3204112053,
+    50.8790092468
+],
+  "geometry": {"coordinates":[4.3204112053,50.8790092468],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058091361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3629188538,50.8713340759,4.3629188538,50.8713340759",
+    "geom:latitude":50.871334,
+    "geom:longitude":4.362919,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paleizenstraat 297",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 203 90 33",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a5WlidoLj3lAFHLnFCXrZ_50.871334_4.362919@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509206,
+    "wof:geomhash":"bec9387b27ff2343a777fbec3678265e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058091361
+        }
+    ],
+    "wof:id":1058091361,
+    "wof:lastmodified":1473509206,
+    "wof:name":"Demcar",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3629188538,
+    50.8713340759,
+    4.3629188538,
+    50.8713340759
+],
+  "geometry": {"coordinates":[4.3629188538,50.8713340759],"type":"Point"}
+}

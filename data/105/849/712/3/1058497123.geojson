@@ -1,0 +1,77 @@
+{
+  "id": 1058497123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3409609795,50.8613739014,4.3409609795,50.8613739014",
+    "geom:latitude":50.861374,
+    "geom:longitude":4.340961,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'intendant 116",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 427 68 58",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pyEH8NLcce17lGOCbGweU_50.861374_4.340961@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527957,
+    "wof:geomhash":"2153c0dd8681becac97e95a922ac27e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058497123
+        }
+    ],
+    "wof:id":1058497123,
+    "wof:lastmodified":1473527957,
+    "wof:name":"Guillaume Orthoprotec Bvba",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    4.3409609795,
+    50.8613739014,
+    4.3409609795,
+    50.8613739014
+],
+  "geometry": {"coordinates":[4.3409609795,50.8613739014],"type":"Point"}
+}

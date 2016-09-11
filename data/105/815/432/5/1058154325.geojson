@@ -1,0 +1,79 @@
+{
+  "id": 1058154325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3198709488,50.9225883484,4.3198709488,50.9225883484",
+    "geom:latitude":50.922588,
+    "geom:longitude":4.319871,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Erasme 25",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 38 33",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sT3llOti2AZGdTH5FIOQL_50.922588_4.319871@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512199,
+    "wof:geomhash":"d1a4c13e468779df6edfbda6f371c34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058154325
+        }
+    ],
+    "wof:id":1058154325,
+    "wof:lastmodified":1473512199,
+    "wof:name":"Barvais L",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3198709488,
+    50.9225883484,
+    4.3198709488,
+    50.9225883484
+],
+  "geometry": {"coordinates":[4.3198709488,50.9225883484],"type":"Point"}
+}

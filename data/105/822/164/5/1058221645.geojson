@@ -1,0 +1,81 @@
+{
+  "id": 1058221645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3390879631,50.840473175,4.3390879631,50.840473175",
+    "geom:latitude":50.840473,
+    "geom:longitude":4.339088,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Square De L'aviation 28",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 95 61",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gYIVxYrmzKKNQ03kY18ma_50.840473_4.339088@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515157,
+    "wof:geomhash":"90338d33178daf7a08783a4c6c78214c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058221645
+        }
+    ],
+    "wof:id":1058221645,
+    "wof:lastmodified":1473515157,
+    "wof:name":"Dm Diffusion",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3390879631,
+    50.840473175,
+    4.3390879631,
+    50.840473175
+],
+  "geometry": {"coordinates":[4.3390879631,50.840473175],"type":"Point"}
+}

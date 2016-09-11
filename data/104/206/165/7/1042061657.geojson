@@ -1,0 +1,71 @@
+{
+  "id": 1042061657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.482448101,51.2037811279,4.482448101,51.2037811279",
+    "geom:latitude":51.203781,
+    "geom:longitude":4.482448,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herentalsebaan 1",
+    "sg:city":"Borsbeek",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 321 59 35",
+    "sg:postcode":"2150",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aPKqoYQBInFlo7VFVIb8S_51.203781_4.482448@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494740,
+    "wof:geomhash":"f0d24a7fc5d7865621e576a34ebe3732",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1042061657
+        }
+    ],
+    "wof:id":1042061657,
+    "wof:lastmodified":1473494740,
+    "wof:name":"Stockman J",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.482448101,
+    51.2037811279,
+    4.482448101,
+    51.2037811279
+],
+  "geometry": {"coordinates":[4.482448101,51.2037811279],"type":"Point"}
+}

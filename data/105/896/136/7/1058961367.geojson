@@ -1,0 +1,77 @@
+{
+  "id": 1058961367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6872839928,51.0669670105,3.6872839928,51.0669670105",
+    "geom:latitude":51.066967,
+    "geom:longitude":3.687284,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brugsesteenweg 261",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"City Walls",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 26 13",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H9fl7SywNhsKC0w8iwHBk_51.066967_3.687284@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548828,
+    "wof:geomhash":"a1bb422aad48424bd4873213e19fbd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058961367
+        }
+    ],
+    "wof:id":1058961367,
+    "wof:lastmodified":1473548828,
+    "wof:name":"Vandaele Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "covering"
+    ]
+},
+  "bbox": [
+    3.6872839928,
+    51.0669670105,
+    3.6872839928,
+    51.0669670105
+],
+  "geometry": {"coordinates":[3.6872839928,51.0669670105],"type":"Point"}
+}

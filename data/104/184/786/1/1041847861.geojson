@@ -1,0 +1,81 @@
+{
+  "id": 1041847861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7313001156,51.0643081665,3.7313001156,51.0643081665",
+    "geom:latitude":51.064308,
+    "geom:longitude":3.7313,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doornzelestraat 23",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 03 84",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cHKkGTQ8DNYGtgRbs7B0V_51.064308_3.731300@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485707,
+    "wof:geomhash":"bf895afebaa221c2e8de41358c5d24bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1041847861
+        }
+    ],
+    "wof:id":1041847861,
+    "wof:lastmodified":1473485707,
+    "wof:name":"Vernaeve Nv",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7313001156,
+    51.0643081665,
+    3.7313001156,
+    51.0643081665
+],
+  "geometry": {"coordinates":[3.7313001156,51.0643081665],"type":"Point"}
+}

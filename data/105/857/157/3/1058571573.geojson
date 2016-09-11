@@ -1,0 +1,77 @@
+{
+  "id": 1058571573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4295611382,50.836555481,4.4295611382,50.836555481",
+    "geom:latitude":50.836555,
+    "geom:longitude":4.429561,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jules De Trooz 55",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 51 51",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TfbLpsZB43zFotqFNw6Cb_50.836555_4.429561@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531377,
+    "wof:geomhash":"b0f4eb3fa61dc048b849150108c8a831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058571573
+        }
+    ],
+    "wof:id":1058571573,
+    "wof:lastmodified":1473531377,
+    "wof:name":"Vanden Gucht E",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4295611382,
+    50.836555481,
+    4.4295611382,
+    50.836555481
+],
+  "geometry": {"coordinates":[4.4295611382,50.836555481],"type":"Point"}
+}

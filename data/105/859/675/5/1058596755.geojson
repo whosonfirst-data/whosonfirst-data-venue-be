@@ -1,0 +1,77 @@
+{
+  "id": 1058596755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5841469765,50.6423492432,5.5841469765,50.6423492432",
+    "geom:latitude":50.642349,
+    "geom:longitude":5.584147,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gaston Gr\u00c9goire 23",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 31 36",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aOuC0gHu0QZ5eURuMGX3R_50.642349_5.584147@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532475,
+    "wof:geomhash":"48ea199ca1e8e38f3fe9b6c18ec9ecc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058596755
+        }
+    ],
+    "wof:id":1058596755,
+    "wof:lastmodified":1473532475,
+    "wof:name":"Police F\u00c9d\u00c9rale",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    5.5841469765,
+    50.6423492432,
+    5.5841469765,
+    50.6423492432
+],
+  "geometry": {"coordinates":[5.5841469765,50.6423492432],"type":"Point"}
+}

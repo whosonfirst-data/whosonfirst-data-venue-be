@@ -1,0 +1,77 @@
+{
+  "id": 1058596849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3986282349,50.8544578552,4.3986282349,50.8544578552",
+    "geom:latitude":50.854458,
+    "geom:longitude":4.398628,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Auguste Reyers 1",
+    "sg:city":"Schaarbeek/schaerbeek",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 01 48",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_066Y8MTn3O6j7dl9dBiB42_50.854458_4.398628@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532479,
+    "wof:geomhash":"c49c739a78ec8609878243c4eba9f43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058596849
+        }
+    ],
+    "wof:id":1058596849,
+    "wof:lastmodified":1473532479,
+    "wof:name":"Police F\u00c9d\u00c9rale/federale Politie",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    4.3986282349,
+    50.8544578552,
+    4.3986282349,
+    50.8544578552
+],
+  "geometry": {"coordinates":[4.3986282349,50.8544578552],"type":"Point"}
+}

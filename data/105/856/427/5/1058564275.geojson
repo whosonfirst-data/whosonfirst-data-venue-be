@@ -1,0 +1,77 @@
+{
+  "id": 1058564275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.341012001,50.8030166626,4.341012001,50.8030166626",
+    "geom:latitude":50.803017,
+    "geom:longitude":4.341012,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Doyenn\u00e9 128",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 372 16 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HoVumgnK3P4JyZHqB1lRE_50.803017_4.341012@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531043,
+    "wof:geomhash":"f95b905b47ef79f72884becd715fa7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1058564275
+        }
+    ],
+    "wof:id":1058564275,
+    "wof:lastmodified":1473531043,
+    "wof:name":"Moyson M",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.341012001,
+    50.8030166626,
+    4.341012001,
+    50.8030166626
+],
+  "geometry": {"coordinates":[4.341012001,50.8030166626],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1041698783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3503789902,50.817855835,4.3503789902,50.817855835",
+    "geom:latitude":50.817856,
+    "geom:longitude":4.350379,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brugmann 145",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 25 70",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BrCt7rwWxAHzyibsrePhL_50.817856_4.350379@1306268324"
+    },
+    "wof:country":"BE",
+    "wof:created":1473479231,
+    "wof:geomhash":"08b6fc50bef810603984ff5f28a7b7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041698783
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041698783
+        }
+    ],
+    "wof:id":1041698783,
+    "wof:lastmodified":1473479231,
+    "wof:name":"Mission Communication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ]
+},
+  "bbox": [
+    4.3503789902,
+    50.817855835,
+    4.3503789902,
+    50.817855835
+],
+  "geometry": {"coordinates":[4.3503789902,50.817855835],"type":"Point"}
+}

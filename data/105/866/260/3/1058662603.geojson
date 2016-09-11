@@ -1,0 +1,73 @@
+{
+  "id": 1058662603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6283631325,50.8602790833,4.6283631325,50.8602790833",
+    "geom:latitude":50.860279,
+    "geom:longitude":4.628363,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Egenhovenstraat 22",
+    "sg:city":"Bertem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 49 08 11",
+    "sg:postcode":"3060",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aLZ6h6gwYBd80n4kSoXBl_50.860279_4.628363@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535530,
+    "wof:geomhash":"98af9b9cf5fc19eab4e6a929ef5dc133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058662603
+        }
+    ],
+    "wof:id":1058662603,
+    "wof:lastmodified":1473535530,
+    "wof:name":"St-bernardus Vzw",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.6283631325,
+    50.8602790833,
+    4.6283631325,
+    50.8602790833
+],
+  "geometry": {"coordinates":[4.6283631325,50.8602790833],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058802935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3308057785,50.805847168,4.3308057785,50.805847168",
+    "geom:latitude":50.805847,
+    "geom:longitude":4.330806,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'aulne 15 Box 9",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 92 97",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v8I9F59X1zVzOaV2e0vYc_50.805847_4.330806@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541687,
+    "wof:geomhash":"af792a46976d019c130a655b7502c6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1058802935
+        }
+    ],
+    "wof:id":1058802935,
+    "wof:lastmodified":1473541687,
+    "wof:name":"Denis M-p",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    4.3308057785,
+    50.805847168,
+    4.3308057785,
+    50.805847168
+],
+  "geometry": {"coordinates":[4.3308057785,50.805847168],"type":"Point"}
+}

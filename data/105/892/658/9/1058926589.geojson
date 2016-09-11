@@ -1,0 +1,79 @@
+{
+  "id": 1058926589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3631949425,50.8141975403,4.3631949425,50.8141975403",
+    "geom:latitude":50.814198,
+    "geom:longitude":4.363195,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lincolnstraat 55",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 346 97 57",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kyN7qopb41NHULpC9ACu6_50.814198_4.363195@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547201,
+    "wof:geomhash":"41b44a656e2d672387e37bd0156a1ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058926589
+        }
+    ],
+    "wof:id":1058926589,
+    "wof:lastmodified":1473547201,
+    "wof:name":"Bureau Belfor",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.3631949425,
+    50.8141975403,
+    4.3631949425,
+    50.8141975403
+],
+  "geometry": {"coordinates":[4.3631949425,50.8141975403],"type":"Point"}
+}

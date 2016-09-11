@@ -1,0 +1,77 @@
+{
+  "id": 1041947677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7214519978,51.0323486328,3.7214519978,51.0323486328",
+    "geom:latitude":51.032349,
+    "geom:longitude":3.721452,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Achilles Musschestraat 57",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 23 30",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "boarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sLQONOkH8RHgGNAs6KmMD_51.032349_3.721452@1306268366"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489994,
+    "wof:geomhash":"06caa9505f32b43ed27c922a74ef5601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041947677
+        }
+    ],
+    "wof:id":1041947677,
+    "wof:lastmodified":1473489994,
+    "wof:name":"Internaat Gemeenschapsonderwijs Kon Lyceum Gent",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding"
+    ]
+},
+  "bbox": [
+    3.7214519978,
+    51.0323486328,
+    3.7214519978,
+    51.0323486328
+],
+  "geometry": {"coordinates":[3.7214519978,51.0323486328],"type":"Point"}
+}

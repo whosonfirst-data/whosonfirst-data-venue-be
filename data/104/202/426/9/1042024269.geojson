@@ -1,0 +1,77 @@
+{
+  "id": 1042024269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.311727047,50.8398971558,4.311727047,50.8398971558",
+    "geom:latitude":50.839897,
+    "geom:longitude":4.311727,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Du Repos 1",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 00 82",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ysccFNLQEoeG9C7J1OWC0_50.839897_4.311727@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493215,
+    "wof:geomhash":"d861c9dfbd923ad3527812b90d358276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1042024269
+        }
+    ],
+    "wof:id":1042024269,
+    "wof:lastmodified":1473493215,
+    "wof:name":"Nouvelles Caves D'artois",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.311727047,
+    50.8398971558,
+    4.311727047,
+    50.8398971558
+],
+  "geometry": {"coordinates":[4.311727047,50.8398971558],"type":"Point"}
+}

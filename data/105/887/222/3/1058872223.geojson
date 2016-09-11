@@ -1,0 +1,79 @@
+{
+  "id": 1058872223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.334376812,50.8396873474,4.334376812,50.8396873474",
+    "geom:latitude":50.839687,
+    "geom:longitude":4.334377,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Brogniez 106",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 67 56",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "retail",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801025,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QM8K9N2ED6poQFnIXKcd9_50.839687_4.334377@1306268587"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544664,
+    "wof:geomhash":"758e76ffa7e1683610f9cc93b3c02c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801025,
+            "region_id":85681713,
+            "venue_id":1058872223
+        }
+    ],
+    "wof:id":1058872223,
+    "wof:lastmodified":1473544664,
+    "wof:name":"Mon Choix Mode Bvba",
+    "wof:parent_id":85801025,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "-"
+    ]
+},
+  "bbox": [
+    4.334376812,
+    50.8396873474,
+    4.334376812,
+    50.8396873474
+],
+  "geometry": {"coordinates":[4.334376812,50.8396873474],"type":"Point"}
+}

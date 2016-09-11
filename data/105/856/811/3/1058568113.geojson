@@ -1,0 +1,77 @@
+{
+  "id": 1058568113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3530778885,50.8587989807,4.3530778885,50.8587989807",
+    "geom:latitude":50.858799,
+    "geom:longitude":4.353078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Fl\u00e8che 11",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 203 47 86",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gxewEM03E85xXcKtWLOYF_50.858799_4.353078@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531218,
+    "wof:geomhash":"f7cb2d09f6524f55c1b61379dcde9403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058568113
+        }
+    ],
+    "wof:id":1058568113,
+    "wof:lastmodified":1473531218,
+    "wof:name":"Soufflet M",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3530778885,
+    50.8587989807,
+    4.3530778885,
+    50.8587989807
+],
+  "geometry": {"coordinates":[4.3530778885,50.8587989807],"type":"Point"}
+}

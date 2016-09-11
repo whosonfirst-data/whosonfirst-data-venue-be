@@ -1,0 +1,77 @@
+{
+  "id": 1058383495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2898230553,50.8615455627,4.2898230553,50.8615455627",
+    "geom:latitude":50.861546,
+    "geom:longitude":4.289823,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Van Overstraeten 24",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 21 00",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ma4jmIfeQNodeJk9S6T8M_50.861546_4.289823@1306268499"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522509,
+    "wof:geomhash":"599d4dcfa61ccd90902fd1ad4fcb0977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058383495
+        }
+    ],
+    "wof:id":1058383495,
+    "wof:lastmodified":1473522509,
+    "wof:name":"Leon International Consultancy",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.2898230553,
+    50.8615455627,
+    4.2898230553,
+    50.8615455627
+],
+  "geometry": {"coordinates":[4.2898230553,50.8615455627],"type":"Point"}
+}

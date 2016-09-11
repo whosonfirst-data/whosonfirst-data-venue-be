@@ -1,0 +1,83 @@
+{
+  "id": 1058133425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2438511848,50.7786102295,4.2438511848,50.7786102295",
+    "geom:latitude":50.77861,
+    "geom:longitude":4.243851,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rink 22",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 22 42",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801075,
+        102191581,
+        85632997,
+        404227357,
+        101755459,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_532wFWGpA5rQiHffd4aoUk_50.778610_4.243851@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511166,
+    "wof:geomhash":"7906f434abd0705f4a69ecebe6648990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755459,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801075,
+            "region_id":85681731,
+            "venue_id":1058133425
+        }
+    ],
+    "wof:id":1058133425,
+    "wof:lastmodified":1473511166,
+    "wof:name":"Coiffure Freddy",
+    "wof:parent_id":85801075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.2438511848,
+    50.7786102295,
+    4.2438511848,
+    50.7786102295
+],
+  "geometry": {"coordinates":[4.2438511848,50.7786102295],"type":"Point"}
+}

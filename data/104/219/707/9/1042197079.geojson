@@ -1,0 +1,77 @@
+{
+  "id": 1042197079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4541039467,50.8256034851,4.4541039467,50.8256034851",
+    "geom:latitude":50.825603,
+    "geom:longitude":4.454104,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Val Des Epinettes 5",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 773 18 09",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801589,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmEXz9MS8Jgv8a9kffdiI_50.825603_4.454104@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501733,
+    "wof:geomhash":"8e3a734cf900f3c2b20d9f3076b95885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801589,
+            "region_id":85681713,
+            "venue_id":1042197079
+        }
+    ],
+    "wof:id":1042197079,
+    "wof:lastmodified":1473501733,
+    "wof:name":"Ecole D'enseignement Individuel",
+    "wof:parent_id":85801589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.4541039467,
+    50.8256034851,
+    4.4541039467,
+    50.8256034851
+],
+  "geometry": {"coordinates":[4.4541039467,50.8256034851],"type":"Point"}
+}

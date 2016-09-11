@@ -1,0 +1,77 @@
+{
+  "id": 1058525437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6106982231,50.606010437,5.6106982231,50.606010437",
+    "geom:latitude":50.60601,
+    "geom:longitude":5.610698,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Digue 9",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 366 06 61",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "partition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800763,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06XTSJufjV64cyFyB0V06n_50.606010_5.610698@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529246,
+    "wof:geomhash":"6fa3eb3054082d9095563f1db8026a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1058525437
+        }
+    ],
+    "wof:id":1058525437,
+    "wof:lastmodified":1473529246,
+    "wof:name":"Alphatech Sa",
+    "wof:parent_id":85800763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "partition"
+    ]
+},
+  "bbox": [
+    5.6106982231,
+    50.606010437,
+    5.6106982231,
+    50.606010437
+],
+  "geometry": {"coordinates":[5.6106982231,50.606010437],"type":"Point"}
+}

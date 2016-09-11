@@ -1,0 +1,83 @@
+{
+  "id": 1042121435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7121500969,51.0310707092,3.7121500969,51.0310707092",
+    "geom:latitude":51.031071,
+    "geom:longitude":3.71215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maaltebruggestraat 46",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 84 03 64",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EEpT0My0HW7UHimln4eSB_51.031071_3.712150@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497454,
+    "wof:geomhash":"aac65b0e9154197a8b85a34af15519e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042121435
+        }
+    ],
+    "wof:id":1042121435,
+    "wof:lastmodified":1473497454,
+    "wof:name":"Open Systems Bvba",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    3.7121500969,
+    51.0310707092,
+    3.7121500969,
+    51.0310707092
+],
+  "geometry": {"coordinates":[3.7121500969,51.0310707092],"type":"Point"}
+}

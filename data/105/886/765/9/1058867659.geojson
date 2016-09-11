@@ -1,0 +1,83 @@
+{
+  "id": 1058867659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6557312012,50.6670837402,5.6557312012,50.6670837402",
+    "geom:latitude":50.667084,
+    "geom:longitude":5.655731,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Pr\u00e9s 158",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 60 95",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tflwwk0TWAa3djn8UzqtC_50.667084_5.655731@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544467,
+    "wof:geomhash":"dfa87d58b9d9e23307c79685ed5522d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058867659
+        }
+    ],
+    "wof:id":1058867659,
+    "wof:lastmodified":1473544467,
+    "wof:name":"Rossi J",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    5.6557312012,
+    50.6670837402,
+    5.6557312012,
+    50.6670837402
+],
+  "geometry": {"coordinates":[5.6557312012,50.6670837402],"type":"Point"}
+}

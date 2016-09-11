@@ -1,0 +1,73 @@
+{
+  "id": 1058172929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5980710983,50.5874328613,5.5980710983,50.5874328613",
+    "geom:latitude":50.587433,
+    "geom:longitude":5.598071,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-roch 2",
+    "sg:city":"Chaudfontaine (embourg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 37 10",
+    "sg:postcode":"4053",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EpXHXx6IWudSjJobAIeHC_50.587433_5.598071@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513024,
+    "wof:geomhash":"73d8623b3332dc320034d0104ae60615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058172929
+        }
+    ],
+    "wof:id":1058172929,
+    "wof:lastmodified":1473513024,
+    "wof:name":"Malengreaux P",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5980710983,
+    50.5874328613,
+    5.5980710983,
+    50.5874328613
+],
+  "geometry": {"coordinates":[5.5980710983,50.5874328613],"type":"Point"}
+}

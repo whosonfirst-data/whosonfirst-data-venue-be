@@ -1,0 +1,77 @@
+{
+  "id": 1058094303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.378262043,50.8162918091,4.378262043,50.8162918091",
+    "geom:latitude":50.816292,
+    "geom:longitude":4.378262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Courses 12",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 29 47",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U3wCgWZoWvBalLDTLk3c4_50.816292_4.378262@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509331,
+    "wof:geomhash":"c4064418e7cee4bf1411854f4344862c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058094303
+        }
+    ],
+    "wof:id":1058094303,
+    "wof:lastmodified":1473509331,
+    "wof:name":"Polytech",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.378262043,
+    50.8162918091,
+    4.378262043,
+    50.8162918091
+],
+  "geometry": {"coordinates":[4.378262043,50.8162918091],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058629035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3100042343,51.1669921875,4.3100042343,51.1669921875",
+    "geom:latitude":51.166992,
+    "geom:longitude":4.310004,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bazelstraat 79",
+    "sg:city":"Kruibeke",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 774 04 33",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0URRG9gT4ZlkezvHTc34zv_51.166992_4.310004@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533978,
+    "wof:geomhash":"7958e36525deb746acbaed2efb298e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058629035
+        }
+    ],
+    "wof:id":1058629035,
+    "wof:lastmodified":1473533978,
+    "wof:name":"Busstop",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3100042343,
+    51.1669921875,
+    4.3100042343,
+    51.1669921875
+],
+  "geometry": {"coordinates":[4.3100042343,51.1669921875],"type":"Point"}
+}

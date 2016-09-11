@@ -1,0 +1,79 @@
+{
+  "id": 1058968553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6149191856,50.6602554321,5.6149191856,50.6602554321",
+    "geom:latitude":50.660255,
+    "geom:longitude":5.614919,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Vignes 21",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 33 98 83",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "cleaner",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u02m1iaoPrGdUeRfWNkWu_50.660255_5.614919@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549145,
+    "wof:geomhash":"8c062f9a3ee52d38284eb511a60c4e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058968553
+        }
+    ],
+    "wof:id":1058968553,
+    "wof:lastmodified":1473549145,
+    "wof:name":"Collin Ets",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "window"
+    ]
+},
+  "bbox": [
+    5.6149191856,
+    50.6602554321,
+    5.6149191856,
+    50.6602554321
+],
+  "geometry": {"coordinates":[5.6149191856,50.6602554321],"type":"Point"}
+}

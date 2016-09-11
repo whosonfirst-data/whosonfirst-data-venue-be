@@ -1,0 +1,72 @@
+{
+  "id": 1058665745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3922147751,50.8293304443,4.3922147751,50.8293304443",
+    "geom:latitude":50.82933,
+    "geom:longitude":4.392215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Wavre 782",
+    "sg:city":"Etterbeek",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 68 14",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27sIqFbgu4afe6CeSWCuLW_50.829330_4.392215@1306268550"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535662,
+    "wof:geomhash":"e24d608d9e58af652b90617a917b199d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058665745
+        }
+    ],
+    "wof:id":1058665745,
+    "wof:lastmodified":1473535662,
+    "wof:name":"Chez Jacques",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3922147751,
+    50.8293304443,
+    4.3922147751,
+    50.8293304443
+],
+  "geometry": {"coordinates":[4.3922147751,50.8293304443],"type":"Point"}
+}

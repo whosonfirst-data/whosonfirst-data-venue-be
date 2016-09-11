@@ -1,0 +1,77 @@
+{
+  "id": 1042009951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3941640854,50.8307342529,4.3941640854,50.8307342529",
+    "geom:latitude":50.830734,
+    "geom:longitude":4.394164,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Champs 92",
+    "sg:city":"Etterbeek/etterbeek",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 02 66",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aLWUeqrN9rY0iwUev5apt_50.830734_4.394164@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492685,
+    "wof:geomhash":"51f3940a35f49d1152772781114d69e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1042009951
+        }
+    ],
+    "wof:id":1042009951,
+    "wof:lastmodified":1473492685,
+    "wof:name":"Caf\u00c9 L'alyssia",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3941640854,
+    50.8307342529,
+    4.3941640854,
+    50.8307342529
+],
+  "geometry": {"coordinates":[4.3941640854,50.8307342529],"type":"Point"}
+}

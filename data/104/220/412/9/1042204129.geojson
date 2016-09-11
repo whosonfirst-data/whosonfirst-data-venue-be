@@ -1,0 +1,83 @@
+{
+  "id": 1042204129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3569331169,50.8087234497,4.3569331169,50.8087234497",
+    "geom:latitude":50.808723,
+    "geom:longitude":4.356933,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Edith Cavell 107",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 24 34",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iRXng28nTTCTVE9zhsuds_50.808723_4.356933@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502176,
+    "wof:geomhash":"5c4b571f81b6b8c54746d15deb0e5bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1042204129
+        }
+    ],
+    "wof:id":1042204129,
+    "wof:lastmodified":1473502176,
+    "wof:name":"Brahy G-gbe Sprl",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3569331169,
+    50.8087234497,
+    4.3569331169,
+    50.8087234497
+],
+  "geometry": {"coordinates":[4.3569331169,50.8087234497],"type":"Point"}
+}

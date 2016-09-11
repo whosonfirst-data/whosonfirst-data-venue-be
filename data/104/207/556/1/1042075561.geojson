@@ -1,0 +1,81 @@
+{
+  "id": 1042075561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4032101631,50.8093605042,4.4032101631,50.8093605042",
+    "geom:latitude":50.809361,
+    "geom:longitude":4.40321,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Eug\u00e8ne Keym 75",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 58 44",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tGhgWuNVIFECb47UjyyWm_50.809361_4.403210@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495305,
+    "wof:geomhash":"44a8c29833d0d01751a8a8ac4553e386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1042075561
+        }
+    ],
+    "wof:id":1042075561,
+    "wof:lastmodified":1473495305,
+    "wof:name":"Wash & Co",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    4.4032101631,
+    50.8093605042,
+    4.4032101631,
+    50.8093605042
+],
+  "geometry": {"coordinates":[4.4032101631,50.8093605042],"type":"Point"}
+}

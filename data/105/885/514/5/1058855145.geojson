@@ -1,0 +1,77 @@
+{
+  "id": 1058855145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3523821831,50.8513031006,4.3523821831,50.8513031006",
+    "geom:latitude":50.851303,
+    "geom:longitude":4.352382,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De Brouckere 14",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 49 92",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KZniXGfqi9bSuCASeHcw0_50.851303_4.352382@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543942,
+    "wof:geomhash":"0edd91d234597a4087b44cb781439a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058855145
+        }
+    ],
+    "wof:id":1058855145,
+    "wof:lastmodified":1473543942,
+    "wof:name":"Ecu D'or (l')",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3523821831,
+    50.8513031006,
+    4.3523821831,
+    50.8513031006
+],
+  "geometry": {"coordinates":[4.3523821831,50.8513031006],"type":"Point"}
+}

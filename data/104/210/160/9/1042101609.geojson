@@ -1,0 +1,73 @@
+{
+  "id": 1042101609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2411539555,51.2460823059,3.2411539555,51.2460823059",
+    "geom:latitude":51.246082,
+    "geom:longitude":3.241154,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ronselarestraat 49",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 59 34",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "product",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801391,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HDz7NC1I7LOQpzXRCsgeq_51.246082_3.241154@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496459,
+    "wof:geomhash":"08ea8812819dc7750bfd000aa8455c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801391,
+            "region_id":85681709,
+            "venue_id":1042101609
+        }
+    ],
+    "wof:id":1042101609,
+    "wof:lastmodified":1473496459,
+    "wof:name":"Vercruyce F",
+    "wof:parent_id":85801391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2411539555,
+    51.2460823059,
+    3.2411539555,
+    51.2460823059
+],
+  "geometry": {"coordinates":[3.2411539555,51.2460823059],"type":"Point"}
+}

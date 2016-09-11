@@ -1,0 +1,77 @@
+{
+  "id": 1041548523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.632130146,50.6621398926,5.632130146,50.6621398926",
+    "geom:latitude":50.66214,
+    "geom:longitude":5.63213,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Z\u00e9nobe Gramme 25",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 61 51",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52WkCycISwT8lnSnT9Jnzj_50.662140_5.632130@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473130,
+    "wof:geomhash":"ab0872c0c72cea1e81be7eaa9a8dc6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041548523
+        }
+    ],
+    "wof:id":1041548523,
+    "wof:lastmodified":1473473130,
+    "wof:name":"Stepcar Sc",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.632130146,
+    50.6621398926,
+    5.632130146,
+    50.6621398926
+],
+  "geometry": {"coordinates":[5.632130146,50.6621398926],"type":"Point"}
+}

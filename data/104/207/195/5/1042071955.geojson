@@ -1,0 +1,81 @@
+{
+  "id": 1042071955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5693287849,50.6419715881,5.5693287849,50.6419715881",
+    "geom:latitude":50.641972,
+    "geom:longitude":5.569329,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-adalbert 16",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 232 41 39",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRdCXqolfa5CNkcwcsMPK_50.641972_5.569329@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495157,
+    "wof:geomhash":"b0492e0430d5a11f4fb8246277a9e1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042071955
+        }
+    ],
+    "wof:id":1042071955,
+    "wof:lastmodified":1473495157,
+    "wof:name":"Vincent Verlaine",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    5.5693287849,
+    50.6419715881,
+    5.5693287849,
+    50.6419715881
+],
+  "geometry": {"coordinates":[5.5693287849,50.6419715881],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041562257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3977088928,50.8544387817,4.3977088928,50.8544387817",
+    "geom:latitude":50.854439,
+    "geom:longitude":4.397709,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Eug\u00e8ne Plasky 212",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 75 30",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PsDPkdTQ5GEcokD1L6zkM_50.854439_4.397709@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473722,
+    "wof:geomhash":"7a866e988a21c9f245cb8a36d168b4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041562257
+        }
+    ],
+    "wof:id":1041562257,
+    "wof:lastmodified":1473473722,
+    "wof:name":"Hotel Plasky Sprl",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3977088928,
+    50.8544387817,
+    4.3977088928,
+    50.8544387817
+],
+  "geometry": {"coordinates":[4.3977088928,50.8544387817],"type":"Point"}
+}

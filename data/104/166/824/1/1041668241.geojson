@@ -1,0 +1,79 @@
+{
+  "id": 1041668241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3462557793,50.8781852722,4.3462557793,50.8781852722",
+    "geom:latitude":50.878185,
+    "geom:longitude":4.346256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fransman 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 424 09 40",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "salvage",
+        "surplus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i9VO1gDySW6l3uZYp9mcj_50.878185_4.346256@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478066,
+    "wof:geomhash":"6caa01d446afc119ae87d03c09d036c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1041668241
+        }
+    ],
+    "wof:id":1041668241,
+    "wof:lastmodified":1473478066,
+    "wof:name":"Promobis Sprl",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "surplus"
+    ]
+},
+  "bbox": [
+    4.3462557793,
+    50.8781852722,
+    4.3462557793,
+    50.8781852722
+],
+  "geometry": {"coordinates":[4.3462557793,50.8781852722],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042061487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5399699211,50.6525001526,5.5399699211,50.6525001526",
+    "geom:latitude":50.6525,
+    "geom:longitude":5.53997,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Walth\u00e8re Jamar 151",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 01 43",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sy4vagQIF2MO4Vv2tvYoI_50.652500_5.539970@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494733,
+    "wof:geomhash":"72dbf32857c1504b4cacb6c6120acf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1042061487
+        }
+    ],
+    "wof:id":1042061487,
+    "wof:lastmodified":1473494733,
+    "wof:name":"Senterre M",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5399699211,
+    50.6525001526,
+    5.5399699211,
+    50.6525001526
+],
+  "geometry": {"coordinates":[5.5399699211,50.6525001526],"type":"Point"}
+}

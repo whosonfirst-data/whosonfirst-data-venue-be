@@ -1,0 +1,79 @@
+{
+  "id": 1058166409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4432621002,50.8480186462,4.4432621002,50.8480186462",
+    "geom:latitude":50.848019,
+    "geom:longitude":4.443262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00e2teau Kieffelt 16",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 35 40",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801353,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G4E9VNhV2cPAxd13wM4J3_50.848019_4.443262@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512730,
+    "wof:geomhash":"bbb8c929c6380f8b0bef193f4bb922a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1058166409
+        }
+    ],
+    "wof:id":1058166409,
+    "wof:lastmodified":1473512730,
+    "wof:name":"Gindt M",
+    "wof:parent_id":85801353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4432621002,
+    50.8480186462,
+    4.4432621002,
+    50.8480186462
+],
+  "geometry": {"coordinates":[4.4432621002,50.8480186462],"type":"Point"}
+}

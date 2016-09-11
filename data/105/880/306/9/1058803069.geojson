@@ -1,0 +1,79 @@
+{
+  "id": 1058803069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3856081963,50.8781852722,4.3856081963,50.8781852722",
+    "geom:latitude":50.878185,
+    "geom:longitude":4.385608,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Jaur\u00e8s 60 Box 1",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 99 43",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zq5rsOMTdYX7M9UYT5kH8_50.878185_4.385608@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541691,
+    "wof:geomhash":"de1006fa2f201f4fe3b50c93961e4c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058803069
+        }
+    ],
+    "wof:id":1058803069,
+    "wof:lastmodified":1473541691,
+    "wof:name":"Dusart D",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    4.3856081963,
+    50.8781852722,
+    4.3856081963,
+    50.8781852722
+],
+  "geometry": {"coordinates":[4.3856081963,50.8781852722],"type":"Point"}
+}

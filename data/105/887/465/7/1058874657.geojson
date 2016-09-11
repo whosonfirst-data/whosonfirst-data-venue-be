@@ -1,0 +1,79 @@
+{
+  "id": 1058874657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3548488617,50.87317276,4.3548488617,50.87317276",
+    "geom:latitude":50.873173,
+    "geom:longitude":4.354849,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Wauters 71",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 97 74",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "group",
+        "theatre"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kgVQZoJO4tPuMBCwBvh7g_50.873173_4.354849@1306268588"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544773,
+    "wof:geomhash":"e6928ff244dac64aeab1ed92418dbffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1058874657
+        }
+    ],
+    "wof:id":1058874657,
+    "wof:lastmodified":1473544773,
+    "wof:name":"Th\u00e9\u00e2tre Du Copeau",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "theatre"
+    ]
+},
+  "bbox": [
+    4.3548488617,
+    50.87317276,
+    4.3548488617,
+    50.87317276
+],
+  "geometry": {"coordinates":[4.3548488617,50.87317276],"type":"Point"}
+}

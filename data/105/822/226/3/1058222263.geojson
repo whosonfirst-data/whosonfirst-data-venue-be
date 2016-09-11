@@ -1,0 +1,81 @@
+{
+  "id": 1058222263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.319674015,50.7987327576,4.319674015,50.7987327576",
+    "geom:latitude":50.798733,
+    "geom:longitude":4.319674,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Neerstalle 392",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 42 53",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2teQxApqerzUvcYlr1pzVv_50.798733_4.319674@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515180,
+    "wof:geomhash":"538bafb9db0636f5f46fc9ab5289231e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058222263
+        }
+    ],
+    "wof:id":1058222263,
+    "wof:lastmodified":1473515180,
+    "wof:name":"Perfect Business",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.319674015,
+    50.7987327576,
+    4.319674015,
+    50.7987327576
+],
+  "geometry": {"coordinates":[4.319674015,50.7987327576],"type":"Point"}
+}

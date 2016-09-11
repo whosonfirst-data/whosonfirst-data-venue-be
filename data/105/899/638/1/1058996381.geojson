@@ -1,0 +1,90 @@
+{
+  "id": 1058996381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.75144,51.044163,3.75144,51.044163",
+    "geom:latitude":51.044163,
+    "geom:longitude":3.75144,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 108",
+    "sg:city":"Ghent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9050",
+    "sg:tags":[
+        "navigation",
+        "routes",
+        "route-search",
+        "route-database",
+        "walking",
+        "cycling",
+        "route-planning",
+        "outdoor-navigation"
+    ],
+    "sg:website":"http://www.routeyou.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uwfmFBt57jD8LaAbGgr7Y_51.044163_3.751440@1308163238"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550369,
+    "wof:geomhash":"880e5b0e2cb1f718a1256a10b5fbe1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058996381
+        }
+    ],
+    "wof:id":1058996381,
+    "wof:lastmodified":1473550369,
+    "wof:name":"RouteYou",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "navigation",
+        "routes",
+        "route-search",
+        "route-database",
+        "walking",
+        "cycling",
+        "route-planning",
+        "outdoor-navigation"
+    ]
+},
+  "bbox": [
+    3.75144,
+    51.044163,
+    3.75144,
+    51.044163
+],
+  "geometry": {"coordinates":[3.75144,51.044163],"type":"Point"}
+}

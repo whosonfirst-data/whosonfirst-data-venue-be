@@ -1,0 +1,79 @@
+{
+  "id": 1041752665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4524641037,50.8811988831,4.4524641037,50.8811988831",
+    "geom:latitude":50.881199,
+    "geom:longitude":4.452464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Excelsiorlaan 31",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 721 50 02",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "antenna",
+        "booster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801067,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63qxAPRyUbigkKEpdTDnl5_50.881199_4.452464@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481480,
+    "wof:geomhash":"89ee4da81e6e599a8f1583ebdf5cfac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801067,
+            "region_id":85681731,
+            "venue_id":1041752665
+        }
+    ],
+    "wof:id":1041752665,
+    "wof:lastmodified":1473481480,
+    "wof:name":"Rohde & Schwarz Belgium Nv",
+    "wof:parent_id":85801067,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antenna",
+        "booster"
+    ]
+},
+  "bbox": [
+    4.4524641037,
+    50.8811988831,
+    4.4524641037,
+    50.8811988831
+],
+  "geometry": {"coordinates":[4.4524641037,50.8811988831],"type":"Point"}
+}

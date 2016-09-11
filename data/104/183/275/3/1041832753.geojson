@@ -1,0 +1,71 @@
+{
+  "id": 1041832753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.478456974,51.197227478,4.478456974,51.197227478",
+    "geom:latitude":51.197227,
+    "geom:longitude":4.478457,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mertensstraat 22",
+    "sg:city":"Borsbeek",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 366 09 80",
+    "sg:postcode":"2150",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m79QejXhOinI0UwhY5At5_51.197227_4.478457@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485060,
+    "wof:geomhash":"23589866cdaedc5d7edee16f00e11d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1041832753
+        }
+    ],
+    "wof:id":1041832753,
+    "wof:lastmodified":1473485060,
+    "wof:name":"Van Aert Kris",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.478456974,
+    51.197227478,
+    4.478456974,
+    51.197227478
+],
+  "geometry": {"coordinates":[4.478456974,51.197227478],"type":"Point"}
+}

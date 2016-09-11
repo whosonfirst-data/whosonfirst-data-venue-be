@@ -1,0 +1,81 @@
+{
+  "id": 1042070785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5946779251,50.6430931091,5.5946779251,50.6430931091",
+    "geom:latitude":50.643093,
+    "geom:longitude":5.594678,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Vennes 33b",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 18 51",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79ogzbdKHPJ22RTKG7JCtP_50.643093_5.594678@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495111,
+    "wof:geomhash":"3867075527a379f8249c7494c540059b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1042070785
+        }
+    ],
+    "wof:id":1042070785,
+    "wof:lastmodified":1473495111,
+    "wof:name":"Texroc",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "child"
+    ]
+},
+  "bbox": [
+    5.5946779251,
+    50.6430931091,
+    5.5946779251,
+    50.6430931091
+],
+  "geometry": {"coordinates":[5.5946779251,50.6430931091],"type":"Point"}
+}

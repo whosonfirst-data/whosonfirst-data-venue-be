@@ -1,0 +1,83 @@
+{
+  "id": 1058867851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3808240891,50.8699188232,4.3808240891,50.8699188232",
+    "geom:latitude":50.869919,
+    "geom:longitude":4.380824,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Helmet 49",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 47 71",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PkjZcmh0ExfvLazTc6ogK_50.869919_4.380824@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544478,
+    "wof:geomhash":"9bd9f5c51a04dd29a1be146bace9ba3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058867851
+        }
+    ],
+    "wof:id":1058867851,
+    "wof:lastmodified":1473544478,
+    "wof:name":"V.a.t. Sprl",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3808240891,
+    50.8699188232,
+    4.3808240891,
+    50.8699188232
+],
+  "geometry": {"coordinates":[4.3808240891,50.8699188232],"type":"Point"}
+}

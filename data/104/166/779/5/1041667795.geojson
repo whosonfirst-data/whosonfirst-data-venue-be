@@ -1,0 +1,83 @@
+{
+  "id": 1041667795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3116030693,50.8325080872,4.3116030693,50.8325080872",
+    "geom:latitude":50.832508,
+    "geom:longitude":4.311603,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Mons 629",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 26 14",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "technical",
+        "industrial",
+        "-",
+        "subcontracting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OUed8bhe8k0o9H6h9GR9X_50.832508_4.311603@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478042,
+    "wof:geomhash":"59d27aaba4fc768d315356d291dab2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1041667795
+        }
+    ],
+    "wof:id":1041667795,
+    "wof:lastmodified":1473478042,
+    "wof:name":"Heymans Technology Sprl",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "industrial",
+        "-",
+        "subcontracting"
+    ]
+},
+  "bbox": [
+    4.3116030693,
+    50.8325080872,
+    4.3116030693,
+    50.8325080872
+],
+  "geometry": {"coordinates":[4.3116030693,50.8325080872],"type":"Point"}
+}

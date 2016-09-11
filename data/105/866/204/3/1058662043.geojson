@@ -1,0 +1,79 @@
+{
+  "id": 1058662043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4920759201,51.2969932556,4.4920759201,51.2969932556",
+    "geom:latitude":51.296993,
+    "geom:longitude":4.492076,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prins Kavelhof 35",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 650 13 30",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iDXpT2opbe2iEcXC1eJFj_51.296993_4.492076@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535505,
+    "wof:geomhash":"49d3acc3403e84bda541f476044094d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1058662043
+        }
+    ],
+    "wof:id":1058662043,
+    "wof:lastmodified":1473535505,
+    "wof:name":"Prins Kavelhof (ocmw)",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.4920759201,
+    51.2969932556,
+    4.4920759201,
+    51.2969932556
+],
+  "geometry": {"coordinates":[4.4920759201,51.2969932556],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042206671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7558870316,51.0215148926,3.7558870316,51.0215148926",
+    "geom:latitude":51.021515,
+    "geom:longitude":3.755887,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Florastraat 35",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 252 15 00",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QcMEzvr1okvavLvaSsc2A_51.021515_3.755887@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502281,
+    "wof:geomhash":"962311c95b2a0d8dd090ca8b1e38a551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042206671
+        }
+    ],
+    "wof:id":1042206671,
+    "wof:lastmodified":1473502281,
+    "wof:name":"Lips Tec",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.7558870316,
+    51.0215148926,
+    3.7558870316,
+    51.0215148926
+],
+  "geometry": {"coordinates":[3.7558870316,51.0215148926],"type":"Point"}
+}

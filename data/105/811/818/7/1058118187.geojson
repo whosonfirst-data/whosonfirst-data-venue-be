@@ -1,0 +1,77 @@
+{
+  "id": 1058118187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5331368446,50.6146888733,5.5331368446,50.6146888733",
+    "geom:latitude":50.614689,
+    "geom:longitude":5.533137,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ernest Solvay 376",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 234 05 25",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801867,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vrt4Zbnu1tN5KWJWPmS3D_50.614689_5.533137@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510391,
+    "wof:geomhash":"0aeaa821c1c32f01437c1497f7d9df6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801867,
+            "region_id":85681691,
+            "venue_id":1058118187
+        }
+    ],
+    "wof:id":1058118187,
+    "wof:lastmodified":1473510391,
+    "wof:name":"Perfo Jaspar M\u00e9tal S.a.",
+    "wof:parent_id":85801867,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grate"
+    ]
+},
+  "bbox": [
+    5.5331368446,
+    50.6146888733,
+    5.5331368446,
+    50.6146888733
+],
+  "geometry": {"coordinates":[5.5331368446,50.6146888733],"type":"Point"}
+}

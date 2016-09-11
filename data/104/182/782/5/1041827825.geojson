@@ -1,0 +1,77 @@
+{
+  "id": 1041827825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2976112366,50.7889671326,4.2976112366,50.7889671326",
+    "geom:latitude":50.788967,
+    "geom:longitude":4.297611,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkplein 23",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 378 04 53",
+    "sg:postcode":"1601",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801835,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G9tcPaWuYJcfOY8sd3Pay_50.788967_4.297611@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484826,
+    "wof:geomhash":"ddb91cd09a2e49a750c5004fef81921b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801835,
+            "region_id":85681731,
+            "venue_id":1041827825
+        }
+    ],
+    "wof:id":1041827825,
+    "wof:lastmodified":1473484826,
+    "wof:name":"Bureau Pleysier J. & Zn",
+    "wof:parent_id":85801835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.2976112366,
+    50.7889671326,
+    4.2976112366,
+    50.7889671326
+],
+  "geometry": {"coordinates":[4.2976112366,50.7889671326],"type":"Point"}
+}

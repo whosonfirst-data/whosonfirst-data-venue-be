@@ -1,0 +1,83 @@
+{
+  "id": 1042124575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4600157738,50.8618164062,4.4600157738,50.8618164062",
+    "geom:latitude":50.861816,
+    "geom:longitude":4.460016,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Sorbiers 35",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 306 45 80",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801405,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zZsT0DMg331tVJFmJTwBS_50.861816_4.460016@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497638,
+    "wof:geomhash":"3fa803565e2ae0dcfe2ae4ed2f21bdc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801405,
+            "region_id":85681731,
+            "venue_id":1042124575
+        }
+    ],
+    "wof:id":1042124575,
+    "wof:lastmodified":1473497638,
+    "wof:name":"Kraaiennestje ('t)",
+    "wof:parent_id":85801405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.4600157738,
+    50.8618164062,
+    4.4600157738,
+    50.8618164062
+],
+  "geometry": {"coordinates":[4.4600157738,50.8618164062],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058858497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4130702019,50.8636856079,4.4130702019,50.8636856079",
+    "geom:latitude":50.863686,
+    "geom:longitude":4.41307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Henry Dunant 21 Box 72",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 705 82 37",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tax-consultants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7aTUjgDL7oLDm0QVOkwu_50.863686_4.413070@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544080,
+    "wof:geomhash":"09ea5da29913c26416e6d9c1103b5bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058858497
+        }
+    ],
+    "wof:id":1058858497,
+    "wof:lastmodified":1473544080,
+    "wof:name":"Corioni Fabrice Sprl",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tax-consultants"
+    ]
+},
+  "bbox": [
+    4.4130702019,
+    50.8636856079,
+    4.4130702019,
+    50.8636856079
+],
+  "geometry": {"coordinates":[4.4130702019,50.8636856079],"type":"Point"}
+}

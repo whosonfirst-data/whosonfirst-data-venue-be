@@ -1,0 +1,79 @@
+{
+  "id": 1058170997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3774561882,50.8240470886,4.3774561882,50.8240470886",
+    "geom:latitude":50.824047,
+    "geom:longitude":4.377456,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Boondael 151-153",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 75 76",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IFdoZsrGvsuomFhOdP8U6_50.824047_4.377456@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512949,
+    "wof:geomhash":"8617d3f63450410248629d2aeb583fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058170997
+        }
+    ],
+    "wof:id":1058170997,
+    "wof:lastmodified":1473512949,
+    "wof:name":"Le Cl\u00e9ment De Saint-marcq Catherine",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3774561882,
+    50.8240470886,
+    4.3774561882,
+    50.8240470886
+],
+  "geometry": {"coordinates":[4.3774561882,50.8240470886],"type":"Point"}
+}

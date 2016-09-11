@@ -1,0 +1,77 @@
+{
+  "id": 1041647685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4210982323,50.8372764587,4.4210982323,50.8372764587",
+    "geom:latitude":50.837276,
+    "geom:longitude":4.421098,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Gay 209",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 63 67",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47DKnArHlimM6AWyVMfAhY_50.837276_4.421098@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477256,
+    "wof:geomhash":"294f0cfb79e1afff4a215da5c0567284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1041647685
+        }
+    ],
+    "wof:id":1041647685,
+    "wof:lastmodified":1473477256,
+    "wof:name":"De Paoli-saint Michel Sa",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4210982323,
+    50.8372764587,
+    4.4210982323,
+    50.8372764587
+],
+  "geometry": {"coordinates":[4.4210982323,50.8372764587],"type":"Point"}
+}

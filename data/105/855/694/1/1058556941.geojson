@@ -1,0 +1,71 @@
+{
+  "id": 1058556941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5305981636,50.7165184021,4.5305981636,50.7165184021",
+    "geom:latitude":50.716518,
+    "geom:longitude":4.530598,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'institut 12",
+    "sg:city":"Rixensart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 63 31",
+    "sg:postcode":"1330",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E1xobknyy0bgF9S0CnxVJ_50.716518_4.530598@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530670,
+    "wof:geomhash":"a6270c81e39fc421669761c82b7b0cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058556941
+        }
+    ],
+    "wof:id":1058556941,
+    "wof:lastmodified":1473530670,
+    "wof:name":"Francis C",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.5305981636,
+    50.7165184021,
+    4.5305981636,
+    50.7165184021
+],
+  "geometry": {"coordinates":[4.5305981636,50.7165184021],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058972667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3318519592,50.8715591431,4.3318519592,50.8715591431",
+    "geom:latitude":50.871559,
+    "geom:longitude":4.331852,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Edouard Faes 100",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 427 20 12",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QTfet5iCBjmXccJ1Plkp2_50.871559_4.331852@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549321,
+    "wof:geomhash":"a1a5b1d3ccf5f25bbbfb85e73e9c2848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058972667
+        }
+    ],
+    "wof:id":1058972667,
+    "wof:lastmodified":1473549321,
+    "wof:name":"Vins Sur Vins",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    4.3318519592,
+    50.8715591431,
+    4.3318519592,
+    50.8715591431
+],
+  "geometry": {"coordinates":[4.3318519592,50.8715591431],"type":"Point"}
+}

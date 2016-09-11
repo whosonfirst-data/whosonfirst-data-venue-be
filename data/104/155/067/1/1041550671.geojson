@@ -1,0 +1,79 @@
+{
+  "id": 1041550671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3990049362,50.8726654053,4.3990049362,50.8726654053",
+    "geom:latitude":50.872665,
+    "geom:longitude":4.399005,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 988",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 91 01",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w98odlmXkagK9X4F2lPwi_50.872665_4.399005@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473215,
+    "wof:geomhash":"7aafad46dcc0ecc02a146b160b3049fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1041550671
+        }
+    ],
+    "wof:id":1041550671,
+    "wof:lastmodified":1473473215,
+    "wof:name":"Gouwy M.",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3990049362,
+    50.8726654053,
+    4.3990049362,
+    50.8726654053
+],
+  "geometry": {"coordinates":[4.3990049362,50.8726654053],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042020823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7521851063,51.0760383606,3.7521851063,51.0760383606",
+    "geom:latitude":51.076038,
+    "geom:longitude":3.752185,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-bernadettestraat 251",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 29 98",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uvl4huKiYAnwKhUhgHyFw_51.076038_3.752185@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493079,
+    "wof:geomhash":"54dd93dda4809ad930792b78b944631f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042020823
+        }
+    ],
+    "wof:id":1042020823,
+    "wof:lastmodified":1473493079,
+    "wof:name":"Karina Claus",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7521851063,
+    51.0760383606,
+    3.7521851063,
+    51.0760383606
+],
+  "geometry": {"coordinates":[3.7521851063,51.0760383606],"type":"Point"}
+}

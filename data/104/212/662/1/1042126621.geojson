@@ -1,0 +1,77 @@
+{
+  "id": 1042126621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.713146925,51.0368499756,3.713146925,51.0368499756",
+    "geom:latitude":51.03685,
+    "geom:longitude":3.713147,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koningin Elisabethlaan 55",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 37 71",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WwwX6UEPqdW9ad6j1fXJf_51.036850_3.713147@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497741,
+    "wof:geomhash":"5dfe0a674be771deb2bf00cc789f27ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042126621
+        }
+    ],
+    "wof:id":1042126621,
+    "wof:lastmodified":1473497741,
+    "wof:name":"Grimod Bvba",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    3.713146925,
+    51.0368499756,
+    3.713146925,
+    51.0368499756
+],
+  "geometry": {"coordinates":[3.713146925,51.0368499756],"type":"Point"}
+}

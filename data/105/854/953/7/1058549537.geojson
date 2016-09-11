@@ -1,0 +1,77 @@
+{
+  "id": 1058549537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4116210938,50.8486824036,4.4116210938,50.8486824036",
+    "geom:latitude":50.848682,
+    "geom:longitude":4.411621,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'avril 54",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 94 38 61",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qVt7wVEdNvIDkEBC23w74_50.848682_4.411621@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530341,
+    "wof:geomhash":"32aacbe81a1f807a50c338157698b6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058549537
+        }
+    ],
+    "wof:id":1058549537,
+    "wof:lastmodified":1473530341,
+    "wof:name":"Bruder P",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4116210938,
+    50.8486824036,
+    4.4116210938,
+    50.8486824036
+],
+  "geometry": {"coordinates":[4.4116210938,50.8486824036],"type":"Point"}
+}

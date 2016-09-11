@@ -1,0 +1,77 @@
+{
+  "id": 1041595853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4545989037,50.8647270203,4.4545989037,50.8647270203",
+    "geom:latitude":50.864727,
+    "geom:longitude":4.454599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jef. Thumas 19",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 37 99",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801919,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TDaJncY8TFUu7axFMfADe_50.864727_4.454599@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475125,
+    "wof:geomhash":"d7139f743d343fe2f804607ac5e97199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801919,
+            "region_id":85681731,
+            "venue_id":1041595853
+        }
+    ],
+    "wof:id":1041595853,
+    "wof:lastmodified":1473475125,
+    "wof:name":"Makukatin M",
+    "wof:parent_id":85801919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4545989037,
+    50.8647270203,
+    4.4545989037,
+    50.8647270203
+],
+  "geometry": {"coordinates":[4.4545989037,50.8647270203],"type":"Point"}
+}

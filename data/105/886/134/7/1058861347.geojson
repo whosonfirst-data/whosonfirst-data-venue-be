@@ -1,0 +1,72 @@
+{
+  "id": 1058861347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5861740112,50.6185493469,5.5861740112,50.6185493469",
+    "geom:latitude":50.618549,
+    "geom:longitude":5.586174,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Biez 67",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 93 07",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yns1kgijlczTSdvxPt9jD_50.618549_5.586174@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544213,
+    "wof:geomhash":"68b7fe2f92c6dd1089ba9645890d975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058861347
+        }
+    ],
+    "wof:id":1058861347,
+    "wof:lastmodified":1473544213,
+    "wof:name":"Angleur Taxis",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5861740112,
+    50.6185493469,
+    5.5861740112,
+    50.6185493469
+],
+  "geometry": {"coordinates":[5.5861740112,50.6185493469],"type":"Point"}
+}

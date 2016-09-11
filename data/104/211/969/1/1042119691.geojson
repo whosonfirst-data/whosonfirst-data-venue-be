@@ -1,0 +1,83 @@
+{
+  "id": 1042119691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3486452103,50.8252716064,4.3486452103,50.8252716064",
+    "geom:latitude":50.825272,
+    "geom:longitude":4.348645,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 292",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 21 38 93",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LVLDYqYEzNiaCJxmypAvl_50.825272_4.348645@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497380,
+    "wof:geomhash":"1c39c4b0a1e511812f07ee7f3338af76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042119691
+        }
+    ],
+    "wof:id":1042119691,
+    "wof:lastmodified":1473497380,
+    "wof:name":"Data-concept",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.3486452103,
+    50.8252716064,
+    4.3486452103,
+    50.8252716064
+],
+  "geometry": {"coordinates":[4.3486452103,50.8252716064],"type":"Point"}
+}

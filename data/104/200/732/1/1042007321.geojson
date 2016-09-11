@@ -1,0 +1,77 @@
+{
+  "id": 1042007321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2231080532,51.2101211548,3.2231080532,51.2101211548",
+    "geom:latitude":51.210121,
+    "geom:longitude":3.223108,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kuipersstraat 19",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 39 20",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47LuCsGuee6BaaHXu1mmIX_51.210121_3.223108@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492581,
+    "wof:geomhash":"d7edf3e8b24bda4589f02b7b8142f8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1042007321
+        }
+    ],
+    "wof:id":1042007321,
+    "wof:lastmodified":1473492581,
+    "wof:name":"Caf\u00c9 De Kuppe",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2231080532,
+    51.2101211548,
+    3.2231080532,
+    51.2101211548
+],
+  "geometry": {"coordinates":[3.2231080532,51.2101211548],"type":"Point"}
+}

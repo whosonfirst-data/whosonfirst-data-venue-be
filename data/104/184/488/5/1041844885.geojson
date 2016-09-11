@@ -1,0 +1,81 @@
+{
+  "id": 1041844885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2730140686,50.7808876038,4.2730140686,50.7808876038",
+    "geom:latitude":50.780888,
+    "geom:longitude":4.273014,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bergensesteenweg 452a",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 59 79",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78chCTpcBIhtu4JwhEKMZJ_50.780888_4.273014@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485581,
+    "wof:geomhash":"2bcc893628eeec25e00ed915b4cc329e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1041844885
+        }
+    ],
+    "wof:id":1041844885,
+    "wof:lastmodified":1473485581,
+    "wof:name":"Rugtier L",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    4.2730140686,
+    50.7808876038,
+    4.2730140686,
+    50.7808876038
+],
+  "geometry": {"coordinates":[4.2730140686,50.7808876038],"type":"Point"}
+}

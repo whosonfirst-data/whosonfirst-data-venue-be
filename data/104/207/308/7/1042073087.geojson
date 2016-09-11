@@ -1,0 +1,81 @@
+{
+  "id": 1042073087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2214939594,51.2086372375,3.2214939594,51.2086372375",
+    "geom:latitude":51.208637,
+    "geom:longitude":3.221494,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Geldmuntstraat 30",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 68 55",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LN5fAblvg8xaRnN9Xwx5r_51.208637_3.221494@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495200,
+    "wof:geomhash":"f2c5687732c72a71f3ca5b0313a495d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042073087
+        }
+    ],
+    "wof:id":1042073087,
+    "wof:lastmodified":1473495200,
+    "wof:name":"Fiore",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2214939594,
+    51.2086372375,
+    3.2214939594,
+    51.2086372375
+],
+  "geometry": {"coordinates":[3.2214939594,51.2086372375],"type":"Point"}
+}

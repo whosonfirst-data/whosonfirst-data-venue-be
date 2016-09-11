@@ -1,0 +1,79 @@
+{
+  "id": 1058172783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6219890118,51.0315437317,3.6219890118,51.0315437317",
+    "geom:latitude":51.031544,
+    "geom:longitude":3.621989,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Helftwinning 4",
+    "sg:city":"Sint-martens-latem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 281 01 87",
+    "sg:postcode":"9830",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800739,
+        102191581,
+        85632997,
+        404227357,
+        101755677,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LZWUjfGkeqoWlQ8UqsKs7_51.031544_3.621989@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513018,
+    "wof:geomhash":"8ba3a1130893c554a6087a22c1ad9d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101755677,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800739,
+            "region_id":85681733,
+            "venue_id":1058172783
+        }
+    ],
+    "wof:id":1058172783,
+    "wof:lastmodified":1473513018,
+    "wof:name":"Mahy I",
+    "wof:parent_id":85800739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6219890118,
+    51.0315437317,
+    3.6219890118,
+    51.0315437317
+],
+  "geometry": {"coordinates":[3.6219890118,51.0315437317],"type":"Point"}
+}

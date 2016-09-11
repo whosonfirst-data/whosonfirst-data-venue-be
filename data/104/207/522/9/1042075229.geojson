@@ -1,0 +1,81 @@
+{
+  "id": 1042075229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3243069649,50.8982963562,4.3243069649,50.8982963562",
+    "geom:latitude":50.898296,
+    "geom:longitude":4.324307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e Romaine 326",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 08 07",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACKDlXSeEhJhQpOxuqEK9_50.898296_4.324307@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495289,
+    "wof:geomhash":"195239f3bb5125b4325209d7c38ccb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1042075229
+        }
+    ],
+    "wof:id":1042075229,
+    "wof:lastmodified":1473495289,
+    "wof:name":"De Fil En Aiguille",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    4.3243069649,
+    50.8982963562,
+    4.3243069649,
+    50.8982963562
+],
+  "geometry": {"coordinates":[4.3243069649,50.8982963562],"type":"Point"}
+}

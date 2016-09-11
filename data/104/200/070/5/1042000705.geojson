@@ -1,0 +1,81 @@
+{
+  "id": 1042000705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2773098946,50.8666687012,4.2773098946,50.8666687012",
+    "geom:latitude":50.866669,
+    "geom:longitude":4.27731,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Westpoint Hofveld 6 B 3",
+    "sg:city":"Grand-bigard",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 481 69 32",
+    "sg:postcode":"1702",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t1YnQiwAvAhgJp6sjIsNk_50.866669_4.277310@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492339,
+    "wof:geomhash":"7e25818ce5c5c95ac831639008aad593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1042000705
+        }
+    ],
+    "wof:id":1042000705,
+    "wof:lastmodified":1473492339,
+    "wof:name":"Ibis Hotels Belgium Nv",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2773098946,
+    50.8666687012,
+    4.2773098946,
+    50.8666687012
+],
+  "geometry": {"coordinates":[4.2773098946,50.8666687012],"type":"Point"}
+}

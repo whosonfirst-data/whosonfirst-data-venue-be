@@ -1,0 +1,72 @@
+{
+  "id": 1058679997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.400575161,50.8769721985,4.400575161,50.8769721985",
+    "geom:latitude":50.876972,
+    "geom:longitude":4.400575,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De La Paix 2",
+    "sg:city":"Evere",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 49 66",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1coiPp22XsA7WQ6iLWnk95_50.876972_4.400575@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536280,
+    "wof:geomhash":"d0266c3b37727f8b2904f2691e454cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1058679997
+        }
+    ],
+    "wof:id":1058679997,
+    "wof:lastmodified":1473536280,
+    "wof:name":"Taverne De La Paix",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.400575161,
+    50.8769721985,
+    4.400575161,
+    50.8769721985
+],
+  "geometry": {"coordinates":[4.400575161,50.8769721985],"type":"Point"}
+}

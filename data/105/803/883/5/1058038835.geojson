@@ -1,0 +1,90 @@
+{
+  "id": 1058038835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3940358162,50.8659324646,4.3940358162,50.8659324646",
+    "geom:latitude":50.865932,
+    "geom:longitude":4.394036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D\u00e9sir\u00e9 Desmet 14",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 245 66 63",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "producer",
+        "realizators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32WD98FVJcH5eoOhpalGE6_50.865932_4.394036@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507058,
+    "wof:geomhash":"7b0723c49ada4cf769a6d336834a7266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058038835
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058038835
+        }
+    ],
+    "wof:id":1058038835,
+    "wof:lastmodified":1473507058,
+    "wof:name":"Max Le Producteur",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer",
+        "realizators"
+    ]
+},
+  "bbox": [
+    4.3940358162,
+    50.8659324646,
+    4.3940358162,
+    50.8659324646
+],
+  "geometry": {"coordinates":[4.3940358162,50.8659324646],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041972767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2822089195,51.250793457,3.2822089195,51.250793457",
+    "geom:latitude":51.250793,
+    "geom:longitude":3.282209,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pottenbakkersstraat 6",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 69 84 00",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lkIJQbgBFsxXCn4OJhOq7_51.250793_3.282209@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491207,
+    "wof:geomhash":"eed43219528b8c92e7c5c5d2aa75fd07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041972767
+        }
+    ],
+    "wof:id":1041972767,
+    "wof:lastmodified":1473491207,
+    "wof:name":"Open Boek ('t)",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    3.2822089195,
+    51.250793457,
+    3.2822089195,
+    51.250793457
+],
+  "geometry": {"coordinates":[3.2822089195,51.250793457],"type":"Point"}
+}

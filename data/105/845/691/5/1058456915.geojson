@@ -1,0 +1,79 @@
+{
+  "id": 1058456915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5671548843,50.6276092529,5.5671548843,50.6276092529",
+    "geom:latitude":50.627609,
+    "geom:longitude":5.567155,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Guillemins 73",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 229 32 69",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "shop",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vc0oetZ8YnIkd7KSAKYMH_50.627609_5.567155@1306268512"
+    },
+    "wof:country":"BE",
+    "wof:created":1473526035,
+    "wof:geomhash":"4c0a6ad68f506453ccb68f10193f3344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058456915
+        }
+    ],
+    "wof:id":1058456915,
+    "wof:lastmodified":1473526035,
+    "wof:name":"Euro Entreprise Sprl",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "night"
+    ]
+},
+  "bbox": [
+    5.5671548843,
+    50.6276092529,
+    5.5671548843,
+    50.6276092529
+],
+  "geometry": {"coordinates":[5.5671548843,50.6276092529],"type":"Point"}
+}

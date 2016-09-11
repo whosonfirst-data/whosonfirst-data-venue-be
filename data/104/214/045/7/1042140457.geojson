@@ -1,0 +1,66 @@
+{
+  "id": 1042140457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2323439121,51.229598999,3.2323439121,51.229598999",
+    "geom:latitude":51.229599,
+    "geom:longitude":3.232344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tijl Uilenspiegelstraat 26",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 71 00",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B9fBMEqBjbDgF9V89kRH3_51.229599_3.232344@1306268403"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498530,
+    "wof:geomhash":"5198ebbf400845a3e2264ae8359bdba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1042140457
+        }
+    ],
+    "wof:id":1042140457,
+    "wof:lastmodified":1473498530,
+    "wof:name":"Verhaeghe Guido",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2323439121,
+    51.229598999,
+    3.2323439121,
+    51.229598999
+],
+  "geometry": {"coordinates":[3.2323439121,51.229598999],"type":"Point"}
+}

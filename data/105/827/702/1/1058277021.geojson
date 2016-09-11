@@ -1,0 +1,79 @@
+{
+  "id": 1058277021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3526558876,50.8543052673,4.3526558876,50.8543052673",
+    "geom:latitude":50.854305,
+    "geom:longitude":4.352656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Pont Neuf 9",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 250 42 20",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "representative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JiOKfGthDEn9xbPACDaGL_50.854305_4.352656@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517574,
+    "wof:geomhash":"b6f6fec0678eea54c957dbe3a664e615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058277021
+        }
+    ],
+    "wof:id":1058277021,
+    "wof:lastmodified":1473517574,
+    "wof:name":"Providis",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "representative"
+    ]
+},
+  "bbox": [
+    4.3526558876,
+    50.8543052673,
+    4.3526558876,
+    50.8543052673
+],
+  "geometry": {"coordinates":[4.3526558876,50.8543052673],"type":"Point"}
+}

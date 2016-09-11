@@ -1,0 +1,77 @@
+{
+  "id": 1041755431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7547309399,51.0623397827,3.7547309399,51.0623397827",
+    "geom:latitude":51.06234,
+    "geom:longitude":3.754731,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salviastraat 24",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 49 23",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "restoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hZghPImVwqVjKyfmpWzEA_51.062340_3.754731@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481650,
+    "wof:geomhash":"a9d3e042b6af373d0e87a373d26fe4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1041755431
+        }
+    ],
+    "wof:id":1041755431,
+    "wof:lastmodified":1473481650,
+    "wof:name":"Acanthus",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration"
+    ]
+},
+  "bbox": [
+    3.7547309399,
+    51.0623397827,
+    3.7547309399,
+    51.0623397827
+],
+  "geometry": {"coordinates":[3.7547309399,51.0623397827],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058094073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6231341362,50.6514129639,5.6231341362,50.6514129639",
+    "geom:latitude":50.651413,
+    "geom:longitude":5.623134,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Georges-truffaut 50b",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 345 98 20",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EEfNpdSliVLZfWGsbiOiQ_50.651413_5.623134@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509322,
+    "wof:geomhash":"f17314e24f634dea714925cf3e1751ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1058094073
+        }
+    ],
+    "wof:id":1058094073,
+    "wof:lastmodified":1473509322,
+    "wof:name":"Paisse & Fils Bressoux Sa",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    5.6231341362,
+    50.6514129639,
+    5.6231341362,
+    50.6514129639
+],
+  "geometry": {"coordinates":[5.6231341362,50.6514129639],"type":"Point"}
+}

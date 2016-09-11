@@ -1,0 +1,79 @@
+{
+  "id": 1058804221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3820619583,50.8302650452,4.3820619583,50.8302650452",
+    "geom:latitude":50.830265,
+    "geom:longitude":4.382062,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Victor Jacobs 69 Box 7",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 28 64",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TZKOuNNWFZIQiiUh4q50e_50.830265_4.382062@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541736,
+    "wof:geomhash":"37334b2383d1f94e1704710c09a1a094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058804221
+        }
+    ],
+    "wof:id":1058804221,
+    "wof:lastmodified":1473541736,
+    "wof:name":"Strebelle D",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    4.3820619583,
+    50.8302650452,
+    4.3820619583,
+    50.8302650452
+],
+  "geometry": {"coordinates":[4.3820619583,50.8302650452],"type":"Point"}
+}

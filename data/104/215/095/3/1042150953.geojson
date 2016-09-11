@@ -1,0 +1,83 @@
+{
+  "id": 1042150953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3515992165,50.8125953674,4.3515992165,50.8125953674",
+    "geom:latitude":50.812595,
+    "geom:longitude":4.351599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Winston Churchill 70",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 27 05",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "marketing",
+        "-",
+        "direct",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EZV99pPOOfrCjntGKcbD5_50.812595_4.351599@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499077,
+    "wof:geomhash":"aa90e2ae2ad2abb01993bdcbcae4dd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1042150953
+        }
+    ],
+    "wof:id":1042150953,
+    "wof:lastmodified":1473499077,
+    "wof:name":"Event Management",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "-",
+        "direct",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3515992165,
+    50.8125953674,
+    4.3515992165,
+    50.8125953674
+],
+  "geometry": {"coordinates":[4.3515992165,50.8125953674],"type":"Point"}
+}

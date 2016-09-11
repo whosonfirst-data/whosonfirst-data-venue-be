@@ -1,0 +1,83 @@
+{
+  "id": 1058546203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3823680878,50.8703536987,4.3823680878,50.8703536987",
+    "geom:latitude":50.870354,
+    "geom:longitude":4.382368,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Helmet 77",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 52 58",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MXdrsQ62R2BL8Jp2vb8EK_50.870354_4.382368@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530194,
+    "wof:geomhash":"a708146a21a45cd5568883f921f4470f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058546203
+        }
+    ],
+    "wof:id":1058546203,
+    "wof:lastmodified":1473530194,
+    "wof:name":"Marin Photo",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3823680878,
+    50.8703536987,
+    4.3823680878,
+    50.8703536987
+],
+  "geometry": {"coordinates":[4.3823680878,50.8703536987],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058154789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3770952225,50.8278923035,4.3770952225,50.8278923035",
+    "geom:latitude":50.827892,
+    "geom:longitude":4.377095,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Li\u00e9geois 73",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 78 60",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JHxpyi9Aw9pKmEw6dZ5xX_50.827892_4.377095@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512216,
+    "wof:geomhash":"bbd73ef434f7e06406dc1358f1aedeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058154789
+        }
+    ],
+    "wof:id":1058154789,
+    "wof:lastmodified":1473512216,
+    "wof:name":"Berger Pierre",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3770952225,
+    50.8278923035,
+    4.3770952225,
+    50.8278923035
+],
+  "geometry": {"coordinates":[4.3770952225,50.8278923035],"type":"Point"}
+}

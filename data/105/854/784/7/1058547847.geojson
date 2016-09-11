@@ -1,0 +1,77 @@
+{
+  "id": 1058547847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3581690788,50.8210945129,4.3581690788,50.8210945129",
+    "geom:latitude":50.821095,
+    "geom:longitude":4.358169,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Mail 109",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 95 75",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J2WLHkyXjfPav84CLqe3C_50.821095_4.358169@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530276,
+    "wof:geomhash":"248a9097ec1da9b06e03f0179a8cc960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058547847
+        }
+    ],
+    "wof:id":1058547847,
+    "wof:lastmodified":1473530276,
+    "wof:name":"Bauweleers Sophie",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3581690788,
+    50.8210945129,
+    4.3581690788,
+    50.8210945129
+],
+  "geometry": {"coordinates":[4.3581690788,50.8210945129],"type":"Point"}
+}

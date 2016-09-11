@@ -1,0 +1,83 @@
+{
+  "id": 1058214471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3124098778,50.8966712952,4.3124098778,50.8966712952",
+    "geom:latitude":50.896671,
+    "geom:longitude":4.31241,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Is. Meyskensstraat 224",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 456 80 40",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "hr",
+        "development",
+        "resource",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jg5xC4926pmpz4Li88plv_50.896671_4.312410@1306268469"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514851,
+    "wof:geomhash":"fe47a4b76def3d66217333aefe2e3967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1058214471
+        }
+    ],
+    "wof:id":1058214471,
+    "wof:lastmodified":1473514851,
+    "wof:name":"Gitp B.v.",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hr",
+        "development",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    4.3124098778,
+    50.8966712952,
+    4.3124098778,
+    50.8966712952
+],
+  "geometry": {"coordinates":[4.3124098778,50.8966712952],"type":"Point"}
+}

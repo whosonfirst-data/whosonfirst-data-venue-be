@@ -1,0 +1,79 @@
+{
+  "id": 1042195821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.406624794,50.8268852234,4.406624794,50.8268852234",
+    "geom:latitude":50.826885,
+    "geom:longitude":4.406625,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Palmiers 22",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 18 10",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t7htvI63OavUHiwfVhYow_50.826885_4.406625@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501667,
+    "wof:geomhash":"d52b9597cb1449c3d6ef35f05e2cdc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1042195821
+        }
+    ],
+    "wof:id":1042195821,
+    "wof:lastmodified":1473501667,
+    "wof:name":"Eurolangues Academie Scrl",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "private"
+    ]
+},
+  "bbox": [
+    4.406624794,
+    50.8268852234,
+    4.406624794,
+    50.8268852234
+],
+  "geometry": {"coordinates":[4.406624794,50.8268852234],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058100733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4319181442,50.8341751099,4.4319181442,50.8341751099",
+    "geom:latitude":50.834175,
+    "geom:longitude":4.431918,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Louis Titeca 47",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 70 39",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uKTWTNE8dN34LVrfsOpN5_50.834175_4.431918@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509620,
+    "wof:geomhash":"bf253f714758cdd6ccc931549b47bcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058100733
+        }
+    ],
+    "wof:id":1058100733,
+    "wof:lastmodified":1473509620,
+    "wof:name":"Loison Y",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.4319181442,
+    50.8341751099,
+    4.4319181442,
+    50.8341751099
+],
+  "geometry": {"coordinates":[4.4319181442,50.8341751099],"type":"Point"}
+}

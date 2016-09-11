@@ -1,0 +1,77 @@
+{
+  "id": 1041681369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5768270493,50.6106147766,5.5768270493,50.6106147766",
+    "geom:latitude":50.610615,
+    "geom:longitude":5.576827,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00eane 168",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 58 66",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801367,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TFux6DqNhsJnOAFDOj0jw_50.610615_5.576827@1306268608"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478575,
+    "wof:geomhash":"05bd739c0f533e7fdf5ff23a24fa5ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801367,
+            "region_id":85681691,
+            "venue_id":1041681369
+        }
+    ],
+    "wof:id":1041681369,
+    "wof:lastmodified":1473478575,
+    "wof:name":"Centre De Jeunes De Kinkempois",
+    "wof:parent_id":85801367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    5.5768270493,
+    50.6106147766,
+    5.5768270493,
+    50.6106147766
+],
+  "geometry": {"coordinates":[5.5768270493,50.6106147766],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042124785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2279360294,51.2006645203,3.2279360294,51.2006645203",
+    "geom:latitude":51.200665,
+    "geom:longitude":3.227936,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Katelijnestraat 122",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 80 93",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62LcMl3dTienwqrz7y6VpV_51.200665_3.227936@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497651,
+    "wof:geomhash":"7024a5d244dde78218e6b056981419d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042124785
+        }
+    ],
+    "wof:id":1042124785,
+    "wof:lastmodified":1473497651,
+    "wof:name":"Opvang Buiten De School",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    3.2279360294,
+    51.2006645203,
+    3.2279360294,
+    51.2006645203
+],
+  "geometry": {"coordinates":[3.2279360294,51.2006645203],"type":"Point"}
+}

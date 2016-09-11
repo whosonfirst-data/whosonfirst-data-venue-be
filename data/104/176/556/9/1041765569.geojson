@@ -1,0 +1,79 @@
+{
+  "id": 1041765569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3356909752,50.8769264221,4.3356909752,50.8769264221",
+    "geom:latitude":50.876926,
+    "geom:longitude":4.335691,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Esseghem 129",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 09 80",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "aquarium",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7llBJka10y9vfht797ROb9_50.876926_4.335691@1306268335"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482174,
+    "wof:geomhash":"34489272db8d6a2e33eb90cf7984ea8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041765569
+        }
+    ],
+    "wof:id":1041765569,
+    "wof:lastmodified":1473482174,
+    "wof:name":"Aqua Tropical Life Location Sprl",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3356909752,
+    50.8769264221,
+    4.3356909752,
+    50.8769264221
+],
+  "geometry": {"coordinates":[4.3356909752,50.8769264221],"type":"Point"}
+}

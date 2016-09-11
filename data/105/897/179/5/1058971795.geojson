@@ -1,0 +1,83 @@
+{
+  "id": 1058971795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3384099007,50.9254684448,4.3384099007,50.9254684448",
+    "geom:latitude":50.925468,
+    "geom:longitude":4.33841,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strombeek Beverselaan 96",
+    "sg:city":"Meise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 07 13",
+    "sg:postcode":"1860",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S6U06v9GajyROhuFzTQwK_50.925468_4.338410@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549287,
+    "wof:geomhash":"c03d894ce085847dfa5cc2f4cf8b421b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058971795
+        }
+    ],
+    "wof:id":1058971795,
+    "wof:lastmodified":1473549287,
+    "wof:name":"Dave Et Frere",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    4.3384099007,
+    50.9254684448,
+    4.3384099007,
+    50.9254684448
+],
+  "geometry": {"coordinates":[4.3384099007,50.9254684448],"type":"Point"}
+}

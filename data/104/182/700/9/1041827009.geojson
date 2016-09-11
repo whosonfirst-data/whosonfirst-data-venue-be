@@ -1,0 +1,71 @@
+{
+  "id": 1041827009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6541419029,50.9927253723,3.6541419029,50.9927253723",
+    "geom:latitude":50.992725,
+    "geom:longitude":3.654142,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baron De Gieylaan 43",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 281 26 95",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gsSCGd6GxjWMJ5DLAI6cj_50.992725_3.654142@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484790,
+    "wof:geomhash":"9b53affe678fd3a26ccbca244bf4e38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1041827009
+        }
+    ],
+    "wof:id":1041827009,
+    "wof:lastmodified":1473484790,
+    "wof:name":"B. De Clerck",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    3.6541419029,
+    50.9927253723,
+    3.6541419029,
+    50.9927253723
+],
+  "geometry": {"coordinates":[3.6541419029,50.9927253723],"type":"Point"}
+}

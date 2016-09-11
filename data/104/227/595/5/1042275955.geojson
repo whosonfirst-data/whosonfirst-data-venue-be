@@ -1,0 +1,81 @@
+{
+  "id": 1042275955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2785820961,51.2302055359,4.2785820961,51.2302055359",
+    "geom:latitude":51.230206,
+    "geom:longitude":4.278582,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bergmolenstraat 52",
+    "sg:city":"Beveren (melsele)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 27 70",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qP4sWTjsE9zRbfY394guS_51.230206_4.278582@1306268426"
+    },
+    "wof:country":"BE",
+    "wof:created":1473505487,
+    "wof:geomhash":"88f6063d8b65b4d6454edff1674fa9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1042275955
+        }
+    ],
+    "wof:id":1042275955,
+    "wof:lastmodified":1473505487,
+    "wof:name":"Natuurpunt Waasland Noord",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ]
+},
+  "bbox": [
+    4.2785820961,
+    51.2302055359,
+    4.2785820961,
+    51.2302055359
+],
+  "geometry": {"coordinates":[4.2785820961,51.2302055359],"type":"Point"}
+}

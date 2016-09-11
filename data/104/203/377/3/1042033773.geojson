@@ -1,0 +1,79 @@
+{
+  "id": 1042033773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4943971634,51.3134002686,4.4943971634,51.3134002686",
+    "geom:latitude":51.3134,
+    "geom:longitude":4.494397,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoge Kaart 273",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 644 23 98",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "car",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gKGOtPdbozizaBxMnFEic_51.313400_4.494397@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493602,
+    "wof:geomhash":"9d139ed58d0c03de3695ecccea52f29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1042033773
+        }
+    ],
+    "wof:id":1042033773,
+    "wof:lastmodified":1473493602,
+    "wof:name":"Leda B.v.b.a.",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "equipment"
+    ]
+},
+  "bbox": [
+    4.4943971634,
+    51.3134002686,
+    4.4943971634,
+    51.3134002686
+],
+  "geometry": {"coordinates":[4.4943971634,51.3134002686],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058602241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2840237617,50.8746795654,4.2840237617,50.8746795654",
+    "geom:latitude":50.87468,
+    "geom:longitude":4.284024,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pastoor Cooremansstraat 3",
+    "sg:city":"Groot-bijgaarden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 481 07 70",
+    "sg:postcode":"1702",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "equipment",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m24N7f7fbBY3a7C7XXpnn_50.874680_4.284024@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532708,
+    "wof:geomhash":"a5d0c4fa2ae317a30695fc991955fe49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058602241
+        }
+    ],
+    "wof:id":1058602241,
+    "wof:lastmodified":1473532708,
+    "wof:name":"Sensormatic Bvba",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "precision"
+    ]
+},
+  "bbox": [
+    4.2840237617,
+    50.8746795654,
+    4.2840237617,
+    50.8746795654
+],
+  "geometry": {"coordinates":[4.2840237617,50.8746795654],"type":"Point"}
+}

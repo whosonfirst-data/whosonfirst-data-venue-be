@@ -1,0 +1,79 @@
+{
+  "id": 1058523573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.255628109,51.2121772766,4.255628109,51.2121772766",
+    "geom:latitude":51.212177,
+    "geom:longitude":4.255628,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peperdam 10",
+    "sg:city":"Beveren (vrasene)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 16 84",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YRjvPZyuhNgQq8NYkKs2c_51.212177_4.255628@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529159,
+    "wof:geomhash":"f9a5c17dedba4354f9dcf87734bce17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058523573
+        }
+    ],
+    "wof:id":1058523573,
+    "wof:lastmodified":1473529159,
+    "wof:name":"Hollanders G",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    4.255628109,
+    51.2121772766,
+    4.255628109,
+    51.2121772766
+],
+  "geometry": {"coordinates":[4.255628109,51.2121772766],"type":"Point"}
+}

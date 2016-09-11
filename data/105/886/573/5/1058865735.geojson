@@ -1,0 +1,76 @@
+{
+  "id": 1058865735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3826699257,50.7666282654,4.3826699257,50.7666282654",
+    "geom:latitude":50.766628,
+    "geom:longitude":4.38267,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"843",
+    "sg:city":"Chaussee De Waterloo 1180 Uccle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 373 98 98",
+    "sg:postcode":"843",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801965,
+        102191581,
+        85632997,
+        404227355,
+        101913249,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y439dskXoZflCipL1Dv81_50.766628_4.382670@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544386,
+    "wof:geomhash":"c2f7c8e7904770b487efeb722f7e005f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913249,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801965,
+            "region_id":85681713,
+            "venue_id":1058865735
+        }
+    ],
+    "wof:id":1058865735,
+    "wof:lastmodified":1473544386,
+    "wof:name":"Belgium Telecom La Maison Du Telephone Sa",
+    "wof:parent_id":85801965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    4.3826699257,
+    50.7666282654,
+    4.3826699257,
+    50.7666282654
+],
+  "geometry": {"coordinates":[4.3826699257,50.7666282654],"type":"Point"}
+}

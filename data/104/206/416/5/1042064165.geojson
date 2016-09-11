@@ -1,0 +1,71 @@
+{
+  "id": 1042064165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6593420506,50.9918556213,3.6593420506,50.9918556213",
+    "geom:latitude":50.991856,
+    "geom:longitude":3.659342,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cyriel Buysselaan 32",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 85 26",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Ldf0Tbull9K38RxrKOSk_50.991856_3.659342@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494837,
+    "wof:geomhash":"a74df02de004ca81b73f7b30fd70bbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1042064165
+        }
+    ],
+    "wof:id":1042064165,
+    "wof:lastmodified":1473494837,
+    "wof:name":"Schelstraete C",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    3.6593420506,
+    50.9918556213,
+    3.6593420506,
+    50.9918556213
+],
+  "geometry": {"coordinates":[3.6593420506,50.9918556213],"type":"Point"}
+}

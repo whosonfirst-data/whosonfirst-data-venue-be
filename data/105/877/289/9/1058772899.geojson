@@ -1,0 +1,83 @@
+{
+  "id": 1058772899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7227299213,51.0672492981,3.7227299213,51.0672492981",
+    "geom:latitude":51.067249,
+    "geom:longitude":3.72273,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gasmeterlaan 191c",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 64 23",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "repair",
+        "ship",
+        "mainten",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rr4Ifo45ViRVPwM02J4Sf_51.067249_3.722730@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540372,
+    "wof:geomhash":"1ab270c6cbf0ef300d929ca899ddf8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058772899
+        }
+    ],
+    "wof:id":1058772899,
+    "wof:lastmodified":1473540372,
+    "wof:name":"Antheunis D & Zn",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "ship",
+        "mainten",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7227299213,
+    51.0672492981,
+    3.7227299213,
+    51.0672492981
+],
+  "geometry": {"coordinates":[3.7227299213,51.0672492981],"type":"Point"}
+}

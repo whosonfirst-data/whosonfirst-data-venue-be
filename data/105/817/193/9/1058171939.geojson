@@ -1,0 +1,79 @@
+{
+  "id": 1058171939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3761348724,51.1104202271,4.3761348724,51.1104202271",
+    "geom:latitude":51.11042,
+    "geom:longitude":4.376135,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pierstraat 204",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 290 80 30",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37OH0fDOthtNFOWJaudj0W_51.110420_4.376135@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512985,
+    "wof:geomhash":"24ab1b783834a12acc1e70219a5ef7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058171939
+        }
+    ],
+    "wof:id":1058171939,
+    "wof:lastmodified":1473512985,
+    "wof:name":"Leyman Paul",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3761348724,
+    51.1104202271,
+    4.3761348724,
+    51.1104202271
+],
+  "geometry": {"coordinates":[4.3761348724,51.1104202271],"type":"Point"}
+}

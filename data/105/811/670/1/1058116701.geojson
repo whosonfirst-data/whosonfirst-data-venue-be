@@ -1,0 +1,90 @@
+{
+  "id": 1058116701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3681139946,50.8090591431,4.3681139946,50.8090591431",
+    "geom:latitude":50.809059,
+    "geom:longitude":4.368114,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Beau S\u00e9jour 41",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 633 40 56",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "graphic",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85800787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fv3r96nfkCS0m6Iu60CbX_50.809059_4.368114@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510286,
+    "wof:geomhash":"25b954cd5c05ccd58c75c345e867dea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1058116701
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058116701
+        }
+    ],
+    "wof:id":1058116701,
+    "wof:lastmodified":1473510286,
+    "wof:name":"Gregoire C",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [
+    4.3681139946,
+    50.8090591431,
+    4.3681139946,
+    50.8090591431
+],
+  "geometry": {"coordinates":[4.3681139946,50.8090591431],"type":"Point"}
+}

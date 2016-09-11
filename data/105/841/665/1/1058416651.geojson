@@ -1,0 +1,79 @@
+{
+  "id": 1058416651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6206321716,50.6401252747,5.6206321716,50.6401252747",
+    "geom:latitude":50.640125,
+    "geom:longitude":5.620632,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bois-de-breux 233",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Memorial",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 09 37",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SCZCeyIHC1xuIgM4qTm35_50.640125_5.620632@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523970,
+    "wof:geomhash":"ed49ad250329718da64ad3d169942e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1058416651
+        }
+    ],
+    "wof:id":1058416651,
+    "wof:lastmodified":1473523970,
+    "wof:name":"Mathy Jacques",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "monument"
+    ]
+},
+  "bbox": [
+    5.6206321716,
+    50.6401252747,
+    5.6206321716,
+    50.6401252747
+],
+  "geometry": {"coordinates":[5.6206321716,50.6401252747],"type":"Point"}
+}

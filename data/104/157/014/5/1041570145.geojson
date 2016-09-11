@@ -1,0 +1,81 @@
+{
+  "id": 1041570145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3572440147,50.8338737488,4.3572440147,50.8338737488",
+    "geom:latitude":50.833874,
+    "geom:longitude":4.357244,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Louise 52",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 92 81",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R3TwgRulVsXy5KBOPcfNL_50.833874_4.357244@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474050,
+    "wof:geomhash":"fa1f8bf528e55ad895e2962b011d38c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041570145
+        }
+    ],
+    "wof:id":1041570145,
+    "wof:lastmodified":1473474050,
+    "wof:name":"Throttlemen",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    4.3572440147,
+    50.8338737488,
+    4.3572440147,
+    50.8338737488
+],
+  "geometry": {"coordinates":[4.3572440147,50.8338737488],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058164491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4376292229,50.8324508667,4.4376292229,50.8324508667",
+    "geom:latitude":50.832451,
+    "geom:longitude":4.437629,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Kelle 99",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 15 98",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NnZQiM0XEfmoE36I0Ud1L_50.832451_4.437629@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512644,
+    "wof:geomhash":"58ae67d6f5d7add276b6afeff8b686f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058164491
+        }
+    ],
+    "wof:id":1058164491,
+    "wof:lastmodified":1473512644,
+    "wof:name":"Eiffling Roger",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4376292229,
+    50.8324508667,
+    4.4376292229,
+    50.8324508667
+],
+  "geometry": {"coordinates":[4.4376292229,50.8324508667],"type":"Point"}
+}

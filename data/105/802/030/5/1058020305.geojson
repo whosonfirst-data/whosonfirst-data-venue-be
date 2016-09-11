@@ -1,0 +1,79 @@
+{
+  "id": 1058020305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4454140663,51.1735191345,4.4454140663,51.1735191345",
+    "geom:latitude":51.173519,
+    "geom:longitude":4.445414,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hendrik Consciencelaan 1",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 440 18 08",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "organisation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q3RKfGAe1y0nj2sEN6OrN_51.173519_4.445414@1306268428"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506269,
+    "wof:geomhash":"a788b5b84348749838cff464ccde3a8b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058020305
+        }
+    ],
+    "wof:id":1058020305,
+    "wof:lastmodified":1473506269,
+    "wof:name":"Funeral Consult-office",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation"
+    ]
+},
+  "bbox": [
+    4.4454140663,
+    51.1735191345,
+    4.4454140663,
+    51.1735191345
+],
+  "geometry": {"coordinates":[4.4454140663,51.1735191345],"type":"Point"}
+}

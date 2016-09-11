@@ -1,0 +1,81 @@
+{
+  "id": 1041602425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4339299202,50.8505363464,4.4339299202,50.8505363464",
+    "geom:latitude":50.850536,
+    "geom:longitude":4.43393,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Th\u00e9odore De Cuyper 106",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 11 43",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01xbTXINwIhY8btCJ7vXql_50.850536_4.433930@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475407,
+    "wof:geomhash":"afcc20a95f2f04afd8f7d65522bb3d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1041602425
+        }
+    ],
+    "wof:id":1041602425,
+    "wof:lastmodified":1473475407,
+    "wof:name":"Orphee",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4339299202,
+    50.8505363464,
+    4.4339299202,
+    50.8505363464
+],
+  "geometry": {"coordinates":[4.4339299202,50.8505363464],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041999893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3428640366,50.8444862366,4.3428640366,50.8444862366",
+    "geom:latitude":50.844486,
+    "geom:longitude":4.342864,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Anneessens 11",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 551 02 10",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "training",
+        "advice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MZkLNGNdXgHdw2lgGPvbp_50.844486_4.342864@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492312,
+    "wof:geomhash":"4f668deed935d84e949402d0c63a3794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041999893
+        }
+    ],
+    "wof:id":1041999893,
+    "wof:lastmodified":1473492312,
+    "wof:name":"Institut Cooremans",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "advice"
+    ]
+},
+  "bbox": [
+    4.3428640366,
+    50.8444862366,
+    4.3428640366,
+    50.8444862366
+],
+  "geometry": {"coordinates":[4.3428640366,50.8444862366],"type":"Point"}
+}

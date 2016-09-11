@@ -1,0 +1,77 @@
+{
+  "id": 1041971189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3507471085,50.8393135071,4.3507471085,50.8393135071",
+    "geom:latitude":50.839314,
+    "geom:longitude":4.350747,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Haute 130",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 03 72",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62FJhPl3BirNnKzCpxefoJ_50.839314_4.350747@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490941,
+    "wof:geomhash":"ad6e976bd75caa4eda90ab279a8d9272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041971189
+        }
+    ],
+    "wof:id":1041971189,
+    "wof:lastmodified":1473490941,
+    "wof:name":"Breughel",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3507471085,
+    50.8393135071,
+    4.3507471085,
+    50.8393135071
+],
+  "geometry": {"coordinates":[4.3507471085,50.8393135071],"type":"Point"}
+}

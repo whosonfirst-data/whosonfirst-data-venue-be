@@ -1,0 +1,83 @@
+{
+  "id": 1041631681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4447231293,51.158203125,4.4447231293,51.158203125",
+    "geom:latitude":51.158203,
+    "geom:longitude":4.444723,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oude Godstraat 3",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 22 22",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "scooter",
+        "-",
+        "moped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lovPfriwJB7h7HCCFnUbr_51.158203_4.444723@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476583,
+    "wof:geomhash":"132a226cad5590dcb05f763ab71a4d1d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1041631681
+        }
+    ],
+    "wof:id":1041631681,
+    "wof:lastmodified":1473476583,
+    "wof:name":"Motorkid",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "-",
+        "moped"
+    ]
+},
+  "bbox": [
+    4.4447231293,
+    51.158203125,
+    4.4447231293,
+    51.158203125
+],
+  "geometry": {"coordinates":[4.4447231293,51.158203125],"type":"Point"}
+}

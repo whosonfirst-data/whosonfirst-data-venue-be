@@ -1,0 +1,77 @@
+{
+  "id": 1041848385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5330219269,50.6433563232,5.5330219269,50.6433563232",
+    "geom:latitude":50.643356,
+    "geom:longitude":5.533022,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-nicolas 672",
+    "sg:city":"Li\u00e8ge 1 (glain)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 34 54",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KWgEohkkXZS4EctUmgFEW_50.643356_5.533022@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485739,
+    "wof:geomhash":"84aaf62804f4a2704941632c090d9100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1041848385
+        }
+    ],
+    "wof:id":1041848385,
+    "wof:lastmodified":1473485739,
+    "wof:name":"Ad Car Motor Sprl",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.5330219269,
+    50.6433563232,
+    5.5330219269,
+    50.6433563232
+],
+  "geometry": {"coordinates":[5.5330219269,50.6433563232],"type":"Point"}
+}

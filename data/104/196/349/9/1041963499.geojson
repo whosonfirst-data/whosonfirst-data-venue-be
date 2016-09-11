@@ -1,0 +1,77 @@
+{
+  "id": 1041963499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.317401886,50.8581962585,4.317401886,50.8581962585",
+    "geom:latitude":50.858196,
+    "geom:longitude":4.317402,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 443",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 413 07 30",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XurKiQzWLBOiseB7ksVMP_50.858196_4.317402@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490650,
+    "wof:geomhash":"b8ca6958b3b698c954c797f55c81dd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1041963499
+        }
+    ],
+    "wof:id":1041963499,
+    "wof:lastmodified":1473490650,
+    "wof:name":"D'hennezel B",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.317401886,
+    50.8581962585,
+    4.317401886,
+    50.8581962585
+],
+  "geometry": {"coordinates":[4.317401886,50.8581962585],"type":"Point"}
+}

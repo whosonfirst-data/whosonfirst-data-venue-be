@@ -1,0 +1,81 @@
+{
+  "id": 1058130295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6389298439,50.676612854,5.6389298439,50.676612854",
+    "geom:latitude":50.676613,
+    "geom:longitude":5.63893,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Bellenay 111",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 90 54",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ammunition",
+        "-",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51yUQxvCbaFfapSl7ySgNZ_50.676613_5.638930@1306268451"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511000,
+    "wof:geomhash":"81695a140c29833358f3c6aa5141e23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1058130295
+        }
+    ],
+    "wof:id":1058130295,
+    "wof:lastmodified":1473511000,
+    "wof:name":"Li\u00e8ge Arms Scrl",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ammunition",
+        "-",
+        "retail"
+    ]
+},
+  "bbox": [
+    5.6389298439,
+    50.676612854,
+    5.6389298439,
+    50.676612854
+],
+  "geometry": {"coordinates":[5.6389298439,50.676612854],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058121487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3372569084,50.8299827576,4.3372569084,50.8299827576",
+    "geom:latitude":50.829983,
+    "geom:longitude":4.337257,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fernand Bernier 3",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 94 70",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H5isjnounpzv0yQJnBHhl_50.829983_4.337257@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510605,
+    "wof:geomhash":"3eb0dc83c4a60f05c43b5964c8c68045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058121487
+        }
+    ],
+    "wof:id":1058121487,
+    "wof:lastmodified":1473510605,
+    "wof:name":"Portuguese Alimentar",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3372569084,
+    50.8299827576,
+    4.3372569084,
+    50.8299827576
+],
+  "geometry": {"coordinates":[4.3372569084,50.8299827576],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058906379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2916460037,51.1388244629,4.2916460037,51.1388244629",
+    "geom:latitude":51.138824,
+    "geom:longitude":4.291646,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nobeekstraat 23",
+    "sg:city":"Kruibeke (bazel)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 744 09 67",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "van",
+        "hire",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1trfqObjOx1mNtzTtYr8ju_51.138824_4.291646@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546242,
+    "wof:geomhash":"62b8ce10ecd44334f3ecfe457416a62e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058906379
+        }
+    ],
+    "wof:id":1058906379,
+    "wof:lastmodified":1473546242,
+    "wof:name":"B.i.p.",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "van",
+        "hire",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.2916460037,
+    51.1388244629,
+    4.2916460037,
+    51.1388244629
+],
+  "geometry": {"coordinates":[4.2916460037,51.1388244629],"type":"Point"}
+}

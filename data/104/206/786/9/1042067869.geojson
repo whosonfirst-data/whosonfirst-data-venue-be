@@ -1,0 +1,81 @@
+{
+  "id": 1042067869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3331160545,50.7379722595,4.3331160545,50.7379722595",
+    "geom:latitude":50.737972,
+    "geom:longitude":4.333116,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Hal 95",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 23 82",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "product",
+        "cleaning",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tl9oT4B3NyfIaJnpUduHm_50.737972_4.333116@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494986,
+    "wof:geomhash":"96f01f80a37c2aac40c108ba807b35f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042067869
+        }
+    ],
+    "wof:id":1042067869,
+    "wof:lastmodified":1473494986,
+    "wof:name":"Delta Industries",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "cleaning",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3331160545,
+    50.7379722595,
+    4.3331160545,
+    50.7379722595
+],
+  "geometry": {"coordinates":[4.3331160545,50.7379722595],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1041573801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5580148697,50.6235046387,5.5580148697,50.6235046387",
+    "geom:latitude":50.623505,
+    "geom:longitude":5.558015,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Bruy\u00e8res 4",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 51 41",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGurj4SPIUPtnC69hWrty_50.623505_5.558015@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474201,
+    "wof:geomhash":"b7b7e8859c7aa79f9023ef7b8f292b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1041573801
+        }
+    ],
+    "wof:id":1041573801,
+    "wof:lastmodified":1473474201,
+    "wof:name":"Au Pays Des Petits Pandas Sprl",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    5.5580148697,
+    50.6235046387,
+    5.5580148697,
+    50.6235046387
+],
+  "geometry": {"coordinates":[5.5580148697,50.6235046387],"type":"Point"}
+}

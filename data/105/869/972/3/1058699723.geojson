@@ -1,0 +1,79 @@
+{
+  "id": 1058699723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3975601196,50.8362388611,4.3975601196,50.8362388611",
+    "geom:latitude":50.836239,
+    "geom:longitude":4.39756,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Grande Haie 36",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 82 00",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34LHZ8BfAN85GkCwGrhLYA_50.836239_4.397560@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537103,
+    "wof:geomhash":"98f40ac7c57eddf1adee739d13b7e68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058699723
+        }
+    ],
+    "wof:id":1058699723,
+    "wof:lastmodified":1473537103,
+    "wof:name":"Morvan Sprl",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    4.3975601196,
+    50.8362388611,
+    4.3975601196,
+    50.8362388611
+],
+  "geometry": {"coordinates":[4.3975601196,50.8362388611],"type":"Point"}
+}

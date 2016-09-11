@@ -1,0 +1,79 @@
+{
+  "id": 1058156831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4044961929,50.8307723999,4.4044961929,50.8307723999",
+    "geom:latitude":50.830772,
+    "geom:longitude":4.404496,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Louis Schmidt 107-109",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 07 57",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ws0gjtuNPBGX0dU1WEqMl_50.830772_4.404496@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512306,
+    "wof:geomhash":"5b3b67d50cb3f65140ebbdabaecb74de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058156831
+        }
+    ],
+    "wof:id":1058156831,
+    "wof:lastmodified":1473512306,
+    "wof:name":"Cambier Pierre",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4044961929,
+    50.8307723999,
+    4.4044961929,
+    50.8307723999
+],
+  "geometry": {"coordinates":[4.4044961929,50.8307723999],"type":"Point"}
+}

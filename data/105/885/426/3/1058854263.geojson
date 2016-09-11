@@ -1,0 +1,77 @@
+{
+  "id": 1058854263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7244720459,51.0549850464,3.7244720459,51.0549850464",
+    "geom:latitude":51.054985,
+    "geom:longitude":3.724472,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoogpoort 41",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 81 11",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hnytf1Y8LkDBLHF7zck9U_51.054985_3.724472@1306268583"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543906,
+    "wof:geomhash":"3bf69560daec9403ac3982bac42b2c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058854263
+        }
+    ],
+    "wof:id":1058854263,
+    "wof:lastmodified":1473543906,
+    "wof:name":"Caf\u00e9 Hungaria Bvba",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    3.7244720459,
+    51.0549850464,
+    3.7244720459,
+    51.0549850464
+],
+  "geometry": {"coordinates":[3.7244720459,51.0549850464],"type":"Point"}
+}

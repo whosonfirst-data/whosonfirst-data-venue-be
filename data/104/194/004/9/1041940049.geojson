@@ -1,0 +1,71 @@
+{
+  "id": 1041940049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.479719162,50.6003952026,5.479719162,50.6003952026",
+    "geom:latitude":50.600395,
+    "geom:longitude":5.479719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marihaye 20",
+    "sg:city":"Fl\u00e9malle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 234 32 94",
+    "sg:postcode":"4400",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sPZBCwnVETnh2qcJ8rzHG_50.600395_5.479719@1306268365"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489665,
+    "wof:geomhash":"862fdefeba9000b580cb5574ec5ad1af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1041940049
+        }
+    ],
+    "wof:id":1041940049,
+    "wof:lastmodified":1473489665,
+    "wof:name":"Nouvelles Forges Longree Sa",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    5.479719162,
+    50.6003952026,
+    5.479719162,
+    50.6003952026
+],
+  "geometry": {"coordinates":[5.479719162,50.6003952026],"type":"Point"}
+}

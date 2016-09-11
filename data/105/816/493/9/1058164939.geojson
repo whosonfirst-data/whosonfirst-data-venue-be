@@ -1,0 +1,73 @@
+{
+  "id": 1058164939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.1177110672,50.6714744568,6.1177110672,50.6714744568",
+    "geom:latitude":50.671474,
+    "geom:longitude":6.117711,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hauptstrasse 129",
+    "sg:city":"Raeren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 86 63 49",
+    "sg:postcode":"4730",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85795135,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hNkONs2mAMwdTqVkorHbh_50.671474_6.117711@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512660,
+    "wof:geomhash":"876c8ad40635a69f12235846488f1f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85795135,
+            "region_id":85681691,
+            "venue_id":1058164939
+        }
+    ],
+    "wof:id":1058164939,
+    "wof:lastmodified":1473512660,
+    "wof:name":"Favoreel C",
+    "wof:parent_id":85795135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    6.1177110672,
+    50.6714744568,
+    6.1177110672,
+    50.6714744568
+],
+  "geometry": {"coordinates":[6.1177110672,50.6714744568],"type":"Point"}
+}

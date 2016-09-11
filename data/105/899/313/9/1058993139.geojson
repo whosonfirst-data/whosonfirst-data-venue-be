@@ -1,0 +1,77 @@
+{
+  "id": 1058993139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6984479427,51.0625190735,3.6984479427,51.0625190735",
+    "geom:latitude":51.062519,
+    "geom:longitude":3.698448,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bevrijdingslaan 165",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 94 20",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24RqpspmA6AokFfbhyHilA_51.062519_3.698448@1306268609"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550232,
+    "wof:geomhash":"e8c2eb043f8cb3fe5b812b6cec4d3372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058993139
+        }
+    ],
+    "wof:id":1058993139,
+    "wof:lastmodified":1473550232,
+    "wof:name":"Meisjeshuis Brugse Poort",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    3.6984479427,
+    51.0625190735,
+    3.6984479427,
+    51.0625190735
+],
+  "geometry": {"coordinates":[3.6984479427,51.0625190735],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042120045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4308261871,50.8089828491,4.4308261871,50.8089828491",
+    "geom:latitude":50.808983,
+    "geom:longitude":4.430826,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Daniel Boon 75",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 662 13 07",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78o1IgZSUYAsgVYbtGx37p_50.808983_4.430826@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497396,
+    "wof:geomhash":"aeb66335c88c1ce156bf838cc371da65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1042120045
+        }
+    ],
+    "wof:id":1042120045,
+    "wof:lastmodified":1473497396,
+    "wof:name":"Elips",
+    "wof:parent_id":85801147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.4308261871,
+    50.8089828491,
+    4.4308261871,
+    50.8089828491
+],
+  "geometry": {"coordinates":[4.4308261871,50.8089828491],"type":"Point"}
+}

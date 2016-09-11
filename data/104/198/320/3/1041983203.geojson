@@ -1,0 +1,77 @@
+{
+  "id": 1041983203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6156249046,50.6108322144,5.6156249046,50.6108322144",
+    "geom:latitude":50.610832,
+    "geom:longitude":5.615625,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Gravier 15",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 66 87",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69cWqhR5rKtoQm4cy96o9W_50.610832_5.615625@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491632,
+    "wof:geomhash":"8a84488bc434ff55cda7b480d54649c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1041983203
+        }
+    ],
+    "wof:id":1041983203,
+    "wof:lastmodified":1473491632,
+    "wof:name":"Clermont A Boutique",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    5.6156249046,
+    50.6108322144,
+    5.6156249046,
+    50.6108322144
+],
+  "geometry": {"coordinates":[5.6156249046,50.6108322144],"type":"Point"}
+}

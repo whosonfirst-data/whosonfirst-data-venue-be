@@ -1,0 +1,79 @@
+{
+  "id": 1042250353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5529699326,50.6428604126,5.5529699326,50.6428604126",
+    "geom:latitude":50.64286,
+    "geom:longitude":5.55297,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Mons 3",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 71 40",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lighting",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07e3rlT0svpvGEKLIIpisY_50.642860_5.552970@1306268422"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504254,
+    "wof:geomhash":"ec1e1a1e86397d1a0c2affe73d72305a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1042250353
+        }
+    ],
+    "wof:id":1042250353,
+    "wof:lastmodified":1473504254,
+    "wof:name":"R Tech Sa",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5529699326,
+    50.6428604126,
+    5.5529699326,
+    50.6428604126
+],
+  "geometry": {"coordinates":[5.5529699326,50.6428604126],"type":"Point"}
+}

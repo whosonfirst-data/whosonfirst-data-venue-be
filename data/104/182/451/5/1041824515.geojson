@@ -1,0 +1,79 @@
+{
+  "id": 1041824515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4256567955,51.2271270752,4.4256567955,51.2271270752",
+    "geom:latitude":51.227127,
+    "geom:longitude":4.425657,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Everaertsstraat 78",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 272 06 87",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "asphalt",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nec0Mdubnla4HvyqtWnhu_51.227127_4.425657@1306268344"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484694,
+    "wof:geomhash":"0dd2bda5782b7360359b9e864aaad76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041824515
+        }
+    ],
+    "wof:id":1041824515,
+    "wof:lastmodified":1473484694,
+    "wof:name":"Roofing Service",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asphalt",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4256567955,
+    51.2271270752,
+    4.4256567955,
+    51.2271270752
+],
+  "geometry": {"coordinates":[4.4256567955,51.2271270752],"type":"Point"}
+}

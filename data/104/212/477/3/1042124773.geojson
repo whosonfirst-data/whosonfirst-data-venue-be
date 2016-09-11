@@ -1,0 +1,83 @@
+{
+  "id": 1042124773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7787880898,51.0774612427,3.7787880898,51.0774612427",
+    "geom:latitude":51.077461,
+    "geom:longitude":3.778788,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meerakker 15",
+    "sg:city":"Gent (oostakker)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 18 27",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10w8TCr7AZn616poqy5IE7_51.077461_3.778788@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497650,
+    "wof:geomhash":"5c6d0a6b6b836eff32abb211420fcddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042124773
+        }
+    ],
+    "wof:id":1042124773,
+    "wof:lastmodified":1473497650,
+    "wof:name":"Nijs-vandevyvere Vof",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    3.7787880898,
+    51.0774612427,
+    3.7787880898,
+    51.0774612427
+],
+  "geometry": {"coordinates":[3.7787880898,51.0774612427],"type":"Point"}
+}

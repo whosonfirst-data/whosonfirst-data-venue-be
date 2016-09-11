@@ -1,0 +1,79 @@
+{
+  "id": 1041572221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5704250336,50.6427345276,5.5704250336,50.6427345276",
+    "geom:latitude":50.642735,
+    "geom:longitude":5.570425,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Georges Cl\u00e9menceau 19",
+    "sg:city":"Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 16 78",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dUbr8MvkRAvaeNdslOwH0_50.642735_5.570425@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474127,
+    "wof:geomhash":"a6b5cf7871b67607280f4b9c3235efa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041572221
+        }
+    ],
+    "wof:id":1041572221,
+    "wof:lastmodified":1473474127,
+    "wof:name":"Maison Lemlyn Sprl",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    5.5704250336,
+    50.6427345276,
+    5.5704250336,
+    50.6427345276
+],
+  "geometry": {"coordinates":[5.5704250336,50.6427345276],"type":"Point"}
+}

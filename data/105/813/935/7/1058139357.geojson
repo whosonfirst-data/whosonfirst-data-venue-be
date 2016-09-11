@@ -1,0 +1,81 @@
+{
+  "id": 1058139357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3180608749,50.8706169128,4.3180608749,50.8706169128",
+    "geom:latitude":50.870617,
+    "geom:longitude":4.318061,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Louis Delhove 2",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 82 03",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zpTKGAp16I0mgErcRysP1_50.870617_4.318061@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511421,
+    "wof:geomhash":"e928feef16a058a7ec7a525e20be5909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058139357
+        }
+    ],
+    "wof:id":1058139357,
+    "wof:lastmodified":1473511421,
+    "wof:name":"Dominique De Paris",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3180608749,
+    50.8706169128,
+    4.3180608749,
+    50.8706169128
+],
+  "geometry": {"coordinates":[4.3180608749,50.8706169128],"type":"Point"}
+}

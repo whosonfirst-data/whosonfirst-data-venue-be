@@ -1,0 +1,81 @@
+{
+  "id": 1042057277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3695778847,50.8371696472,4.3695778847,50.8371696472",
+    "geom:latitude":50.83717,
+    "geom:longitude":4.369578,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Tr\u00f4ne 108",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 626 25 55",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemical",
+        "pharmaceutical",
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQiZnmH2cvx1ehZsiAfOv_50.837170_4.369578@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494562,
+    "wof:geomhash":"c38191d2419b69fb3e3bb174931e7556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042057277
+        }
+    ],
+    "wof:id":1042057277,
+    "wof:lastmodified":1473494562,
+    "wof:name":"Federation Europeenne Des Associations De Livres",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "pharmaceutical",
+        "pharmacy"
+    ]
+},
+  "bbox": [
+    4.3695778847,
+    50.8371696472,
+    4.3695778847,
+    50.8371696472
+],
+  "geometry": {"coordinates":[4.3695778847,50.8371696472],"type":"Point"}
+}

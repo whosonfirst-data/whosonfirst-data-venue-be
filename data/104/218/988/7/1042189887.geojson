@@ -1,0 +1,79 @@
+{
+  "id": 1042189887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4005541801,50.8729705811,4.4005541801,50.8729705811",
+    "geom:latitude":50.872971,
+    "geom:longitude":4.400554,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Hendrik Consciencelaan 193",
+    "sg:city":"Bruxelles-brussel",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 245 09 01",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "e-mail",
+        "server"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xY5cCzYlKD9CZvlb0MpGj_50.872971_4.400554@1306268411"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501369,
+    "wof:geomhash":"08e5fc6f3496713343d84ecb34998c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042189887
+        }
+    ],
+    "wof:id":1042189887,
+    "wof:lastmodified":1473501369,
+    "wof:name":"Bits Over Atoms - Boat Sprl/bvba",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "e-mail",
+        "server"
+    ]
+},
+  "bbox": [
+    4.4005541801,
+    50.8729705811,
+    4.4005541801,
+    50.8729705811
+],
+  "geometry": {"coordinates":[4.4005541801,50.8729705811],"type":"Point"}
+}

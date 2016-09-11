@@ -1,0 +1,77 @@
+{
+  "id": 1058594221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3062090874,50.8430137634,4.3062090874,50.8430137634",
+    "geom:latitude":50.843014,
+    "geom:longitude":4.306209,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'obus 130",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 46 88",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y1ch78NP3EgbnJUmKYSbY_50.843014_4.306209@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532365,
+    "wof:geomhash":"0bd68203fec9eae0449f0a3e49eef212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058594221
+        }
+    ],
+    "wof:id":1058594221,
+    "wof:lastmodified":1473532365,
+    "wof:name":"Podevyn F",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3062090874,
+    50.8430137634,
+    4.3062090874,
+    50.8430137634
+],
+  "geometry": {"coordinates":[4.3062090874,50.8430137634],"type":"Point"}
+}

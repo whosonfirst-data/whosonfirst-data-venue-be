@@ -1,0 +1,79 @@
+{
+  "id": 1042090773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4507389069,51.2494773865,4.4507389069,51.2494773865",
+    "geom:latitude":51.249477,
+    "geom:longitude":4.450739,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr M. Timmermanslaan 54",
+    "sg:city":"Merksem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 644 70 45",
+    "sg:postcode":"2170",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801615,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fIouQvmWfcc3wb7c6WHbv_51.249477_4.450739@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495990,
+    "wof:geomhash":"0d0a23cd510a5d1229d6b31d676f1279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801615,
+            "region_id":85681715,
+            "venue_id":1042090773
+        }
+    ],
+    "wof:id":1042090773,
+    "wof:lastmodified":1473495990,
+    "wof:name":"Ade Advanced Data Engineering",
+    "wof:parent_id":85801615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ]
+},
+  "bbox": [
+    4.4507389069,
+    51.2494773865,
+    4.4507389069,
+    51.2494773865
+],
+  "geometry": {"coordinates":[4.4507389069,51.2494773865],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041676393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4200558662,50.8372879028,4.4200558662,50.8372879028",
+    "geom:latitude":50.837288,
+    "geom:longitude":4.420056,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue P\u00e8re Damien 51",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 35 13",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGi3tiV7mMpnTqNy9AKdr_50.837288_4.420056@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478380,
+    "wof:geomhash":"d524be80df0e59c66b2eb8b9ca038908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1041676393
+        }
+    ],
+    "wof:id":1041676393,
+    "wof:lastmodified":1473478380,
+    "wof:name":"Dhem A",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4200558662,
+    50.8372879028,
+    4.4200558662,
+    50.8372879028
+],
+  "geometry": {"coordinates":[4.4200558662,50.8372879028],"type":"Point"}
+}

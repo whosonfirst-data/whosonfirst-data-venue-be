@@ -1,0 +1,79 @@
+{
+  "id": 1058537539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3380842209,51.1281700134,4.3380842209,51.1281700134",
+    "geom:latitude":51.12817,
+    "geom:longitude":4.338084,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Molenberglei 20",
+    "sg:city":"Schelle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 880 87 70",
+    "sg:postcode":"2627",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73DTllN1CxFtS9CpTZtIf6_51.128170_4.338084@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529835,
+    "wof:geomhash":"8315ee1df4680e4c11f47d29147ce70a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058537539
+        }
+    ],
+    "wof:id":1058537539,
+    "wof:lastmodified":1473529835,
+    "wof:name":"Phare Belgium",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    4.3380842209,
+    51.1281700134,
+    4.3380842209,
+    51.1281700134
+],
+  "geometry": {"coordinates":[4.3380842209,51.1281700134],"type":"Point"}
+}

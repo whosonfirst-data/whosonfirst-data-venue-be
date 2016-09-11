@@ -1,0 +1,79 @@
+{
+  "id": 1041605561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3323550224,50.8745498657,4.3323550224,50.8745498657",
+    "geom:latitude":50.87455,
+    "geom:longitude":4.332355,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9opold I 421",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 14 29",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UxNhgrW0quLWMlJq8zARs_50.874550_4.332355@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475537,
+    "wof:geomhash":"2668e79afd51efbe7aa91cd553670bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041605561
+        }
+    ],
+    "wof:id":1041605561,
+    "wof:lastmodified":1473475537,
+    "wof:name":"Herchuelz J",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3323550224,
+    50.8745498657,
+    4.3323550224,
+    50.8745498657
+],
+  "geometry": {"coordinates":[4.3323550224,50.8745498657],"type":"Point"}
+}

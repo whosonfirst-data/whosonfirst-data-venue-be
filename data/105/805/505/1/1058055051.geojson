@@ -1,0 +1,66 @@
+{
+  "id": 1058055051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5215249062,51.1713562012,4.5215249062,51.1713562012",
+    "geom:latitude":51.171356,
+    "geom:longitude":4.521525,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vremdesesteenweg 246",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 10 06",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qtt8nnMqRvRRy3zBM74nR_51.171356_4.521525@1306268435"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507722,
+    "wof:geomhash":"a13beffba4e7b71efaee5b5fc40354f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058055051
+        }
+    ],
+    "wof:id":1058055051,
+    "wof:lastmodified":1473507722,
+    "wof:name":"Heydepet",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5215249062,
+    51.1713562012,
+    4.5215249062,
+    51.1713562012
+],
+  "geometry": {"coordinates":[4.5215249062,51.1713562012],"type":"Point"}
+}

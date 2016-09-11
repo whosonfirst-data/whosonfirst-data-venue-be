@@ -1,0 +1,81 @@
+{
+  "id": 1041824665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4023652077,51.2689781189,4.4023652077,51.2689781189",
+    "geom:latitude":51.268978,
+    "geom:longitude":4.402365,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halifaxstraat 3",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 545 18 11",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "subassemblies",
+        "assembly",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19FoeM6n6LOFdjd0ywaN0T_51.268978_4.402365@1306268344"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484700,
+    "wof:geomhash":"fa568fa745b737620273d2a7758c4a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041824665
+        }
+    ],
+    "wof:id":1041824665,
+    "wof:lastmodified":1473484700,
+    "wof:name":"Electron Antwerpen Nv",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "subassemblies",
+        "assembly",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    4.4023652077,
+    51.2689781189,
+    4.4023652077,
+    51.2689781189
+],
+  "geometry": {"coordinates":[4.4023652077,51.2689781189],"type":"Point"}
+}

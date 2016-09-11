@@ -1,0 +1,79 @@
+{
+  "id": 1041885285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4102811813,51.2057571411,4.4102811813,51.2057571411",
+    "geom:latitude":51.205757,
+    "geom:longitude":4.410281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelse Steenweg 139",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 288 57 91",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pl1iXTwlYkbvfgaDlvvSo_51.205757_4.410281@1306268356"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487300,
+    "wof:geomhash":"d7d67e6110f71311831935b1df02d24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041885285
+        }
+    ],
+    "wof:id":1041885285,
+    "wof:lastmodified":1473487300,
+    "wof:name":"Vereecke M",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4102811813,
+    51.2057571411,
+    4.4102811813,
+    51.2057571411
+],
+  "geometry": {"coordinates":[4.4102811813,51.2057571411],"type":"Point"}
+}

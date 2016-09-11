@@ -1,0 +1,77 @@
+{
+  "id": 1041984947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3561649323,50.8367042542,4.3561649323,50.8367042542",
+    "geom:latitude":50.836704,
+    "geom:longitude":4.356165,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Waterloo 55",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 99 48",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1awHvE8MQSW5G3Nv8epo6V_50.836704_4.356165@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491712,
+    "wof:geomhash":"d711208307a685dec1036b06bd612679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041984947
+        }
+    ],
+    "wof:id":1041984947,
+    "wof:lastmodified":1473491712,
+    "wof:name":"Namani Franck",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.3561649323,
+    50.8367042542,
+    4.3561649323,
+    50.8367042542
+],
+  "geometry": {"coordinates":[4.3561649323,50.8367042542],"type":"Point"}
+}

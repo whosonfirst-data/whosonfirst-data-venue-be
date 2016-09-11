@@ -1,0 +1,78 @@
+{
+  "id": 1058832313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3413720131,50.8583869934,4.3413720131,50.8583869934",
+    "geom:latitude":50.858387,
+    "geom:longitude":4.341372,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Choeur 47",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fixture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29dW2qyFXY0TItW8cw6KCK_50.858387_4.341372@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542953,
+    "wof:geomhash":"dbb262fd5fc94ccdce36eeb6a6c45079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058832313
+        }
+    ],
+    "wof:id":1058832313,
+    "wof:lastmodified":1473542953,
+    "wof:name":"Alexandria",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    4.3413720131,
+    50.8583869934,
+    4.3413720131,
+    50.8583869934
+],
+  "geometry": {"coordinates":[4.3413720131,50.8583869934],"type":"Point"}
+}

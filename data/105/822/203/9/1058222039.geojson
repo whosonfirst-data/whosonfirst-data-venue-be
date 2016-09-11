@@ -1,0 +1,75 @@
+{
+  "id": 1058222039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.469042778,51.4285545349,4.469042778,51.4285545349",
+    "geom:latitude":51.428555,
+    "geom:longitude":4.469043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beylestraat 3",
+    "sg:city":"Essen",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 667 31 16",
+    "sg:postcode":"2910",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nWFejz355IMmcMcjQgeN8_51.428555_4.469043@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515172,
+    "wof:geomhash":"1cde59a727f807233087a902891ca0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058222039
+        }
+    ],
+    "wof:id":1058222039,
+    "wof:lastmodified":1473515172,
+    "wof:name":"Karakoram",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.469042778,
+    51.4285545349,
+    4.469042778,
+    51.4285545349
+],
+  "geometry": {"coordinates":[4.469042778,51.4285545349],"type":"Point"}
+}

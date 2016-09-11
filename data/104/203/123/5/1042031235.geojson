@@ -1,0 +1,77 @@
+{
+  "id": 1042031235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3325438499,50.7918205261,4.3325438499,50.7918205261",
+    "geom:latitude":50.791821,
+    "geom:longitude":4.332544,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsembergse Steenweg 1063",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 06 06",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42LFDa9NtBkKpGdsUuNWmi_50.791821_4.332544@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493493,
+    "wof:geomhash":"4bfc1c8a93d3cd42dab32c24e1cfe3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1042031235
+        }
+    ],
+    "wof:id":1042031235,
+    "wof:lastmodified":1473493493,
+    "wof:name":"Taverne La Goualante",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3325438499,
+    50.7918205261,
+    4.3325438499,
+    50.7918205261
+],
+  "geometry": {"coordinates":[4.3325438499,50.7918205261],"type":"Point"}
+}

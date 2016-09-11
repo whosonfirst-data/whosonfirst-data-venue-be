@@ -1,0 +1,83 @@
+{
+  "id": 1041542795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3880929947,50.8215332031,4.3880929947,50.8215332031",
+    "geom:latitude":50.821533,
+    "geom:longitude":4.388093,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00c9n\u00c9ral Jacques 243",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 03 79",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ggCqD1lRly6hgdCT6xLKP_50.821533_4.388093@1306268339"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472911,
+    "wof:geomhash":"c781b6794ff54c550998660321e3f23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041542795
+        }
+    ],
+    "wof:id":1041542795,
+    "wof:lastmodified":1473472911,
+    "wof:name":"Maison Du Cavalier",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "article",
+        "de",
+        "sport",
+        "camping"
+    ]
+},
+  "bbox": [
+    4.3880929947,
+    50.8215332031,
+    4.3880929947,
+    50.8215332031
+],
+  "geometry": {"coordinates":[4.3880929947,50.8215332031],"type":"Point"}
+}

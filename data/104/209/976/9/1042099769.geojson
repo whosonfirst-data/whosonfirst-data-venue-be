@@ -1,0 +1,83 @@
+{
+  "id": 1042099769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3948540688,50.8554458618,4.3948540688,50.8554458618",
+    "geom:latitude":50.855446,
+    "geom:longitude":4.394854,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Rogier 383",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 742 11 03",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "shop",
+        "clearers",
+        "curiosity",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bIiI8dPj8KbkZhFc1oTQC_50.855446_4.394854@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496389,
+    "wof:geomhash":"be1ab59858d75fb72d7f7a06e8e7de9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042099769
+        }
+    ],
+    "wof:id":1042099769,
+    "wof:lastmodified":1473496389,
+    "wof:name":"Trocadepot",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "clearers",
+        "curiosity",
+        "furniture"
+    ]
+},
+  "bbox": [
+    4.3948540688,
+    50.8554458618,
+    4.3948540688,
+    50.8554458618
+],
+  "geometry": {"coordinates":[4.3948540688,50.8554458618],"type":"Point"}
+}

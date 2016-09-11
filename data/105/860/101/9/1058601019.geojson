@@ -1,0 +1,83 @@
+{
+  "id": 1058601019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5852909088,50.6392936707,5.5852909088,50.6392936707",
+    "geom:latitude":50.639294,
+    "geom:longitude":5.585291,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Puits-en-sock 99",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 97 70",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pa5MIGztTXFzFy4MdJ3h5_50.639294_5.585291@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532654,
+    "wof:geomhash":"d2e881127a847c2a1b60c62f5fdf7935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058601019
+        }
+    ],
+    "wof:id":1058601019,
+    "wof:lastmodified":1473532654,
+    "wof:name":"Dekeyser (maison)",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5852909088,
+    50.6392936707,
+    5.5852909088,
+    50.6392936707
+],
+  "geometry": {"coordinates":[5.5852909088,50.6392936707],"type":"Point"}
+}

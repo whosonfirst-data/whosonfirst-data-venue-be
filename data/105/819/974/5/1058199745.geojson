@@ -1,0 +1,77 @@
+{
+  "id": 1058199745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3930430412,51.1298522949,4.3930430412,51.1298522949",
+    "geom:latitude":51.129852,
+    "geom:longitude":4.393043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hendrik Consciencelaan 56",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 79 65",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WjdSR9pImJhMYD4je1pIJ_51.129852_4.393043@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514187,
+    "wof:geomhash":"26744a2a3e6c1d621a6d4c6fc74bea67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058199745
+        }
+    ],
+    "wof:id":1058199745,
+    "wof:lastmodified":1473514187,
+    "wof:name":"Van Den Broeck",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    4.3930430412,
+    51.1298522949,
+    4.3930430412,
+    51.1298522949
+],
+  "geometry": {"coordinates":[4.3930430412,51.1298522949],"type":"Point"}
+}

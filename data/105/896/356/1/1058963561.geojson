@@ -1,0 +1,83 @@
+{
+  "id": 1058963561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7435948849,51.0376052856,3.7435948849,51.0376052856",
+    "geom:latitude":51.037605,
+    "geom:longitude":3.743595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoveniersstraat 37a",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 64 28",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IFC2EU8RuLC4JAgv5f6eQ_51.037605_3.743595@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548936,
+    "wof:geomhash":"6da828b574989ef0239dcc2b6c390638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058963561
+        }
+    ],
+    "wof:id":1058963561,
+    "wof:lastmodified":1473548936,
+    "wof:name":"Berghmans (huis)",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [
+    3.7435948849,
+    51.0376052856,
+    3.7435948849,
+    51.0376052856
+],
+  "geometry": {"coordinates":[3.7435948849,51.0376052856],"type":"Point"}
+}

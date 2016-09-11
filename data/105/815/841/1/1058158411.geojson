@@ -1,0 +1,73 @@
+{
+  "id": 1058158411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5179772377,50.8856163025,4.5179772377,50.8856163025",
+    "geom:latitude":50.885616,
+    "geom:longitude":4.517977,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Walenstraat 46",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 759 82 46",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801313,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36MUAwg1arlRSADK0saXWu_50.885616_4.517977@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512375,
+    "wof:geomhash":"86cea2b0eefc064c9504ca3222c1ede5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801313,
+            "region_id":85681731,
+            "venue_id":1058158411
+        }
+    ],
+    "wof:id":1058158411,
+    "wof:lastmodified":1473512375,
+    "wof:name":"Cosyns P",
+    "wof:parent_id":85801313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5179772377,
+    50.8856163025,
+    4.5179772377,
+    50.8856163025
+],
+  "geometry": {"coordinates":[4.5179772377,50.8856163025],"type":"Point"}
+}

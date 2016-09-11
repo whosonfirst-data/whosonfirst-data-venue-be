@@ -1,0 +1,79 @@
+{
+  "id": 1042195823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.396463871,50.7254219055,4.396463871,50.7254219055",
+    "geom:latitude":50.725422,
+    "geom:longitude":4.396464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Beau S\u00e9jour 12",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 00 33",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wBKYIuRJyAbGvUQbCT5Hm_50.725422_4.396464@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501667,
+    "wof:geomhash":"b42e0dc23129ca28756f6ca2b9ef3cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042195823
+        }
+    ],
+    "wof:id":1042195823,
+    "wof:lastmodified":1473501667,
+    "wof:name":"European Montessori (school)",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "private"
+    ]
+},
+  "bbox": [
+    4.396463871,
+    50.7254219055,
+    4.396463871,
+    50.7254219055
+],
+  "geometry": {"coordinates":[4.396463871,50.7254219055],"type":"Point"}
+}

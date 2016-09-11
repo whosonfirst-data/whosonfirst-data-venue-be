@@ -1,0 +1,77 @@
+{
+  "id": 1058082791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3182730675,50.8856735229,4.3182730675,50.8856735229",
+    "geom:latitude":50.885674,
+    "geom:longitude":4.318273,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Eug\u00e8ne De Smet 5",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 70 67",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wfHwjdNghWK6Zk4Ov6kfi_50.885674_4.318273@1306268441"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508830,
+    "wof:geomhash":"48a314be7881d849ec0251f81f6a0e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058082791
+        }
+    ],
+    "wof:id":1058082791,
+    "wof:lastmodified":1473508830,
+    "wof:name":"De Witte",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    4.3182730675,
+    50.8856735229,
+    4.3182730675,
+    50.8856735229
+],
+  "geometry": {"coordinates":[4.3182730675,50.8856735229],"type":"Point"}
+}

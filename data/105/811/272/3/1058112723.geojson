@@ -1,0 +1,77 @@
+{
+  "id": 1058112723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6100111008,50.6704864502,5.6100111008,50.6704864502",
+    "geom:latitude":50.670486,
+    "geom:longitude":5.610011,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pied Du Bois Gilles 53",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 240 26 12",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "glazier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801533,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qput63gQD0nWUrdvocmji_50.670486_5.610011@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510116,
+    "wof:geomhash":"2f9d5ca6fde3fc9abb65752e4d688e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801533,
+            "region_id":85681691,
+            "venue_id":1058112723
+        }
+    ],
+    "wof:id":1058112723,
+    "wof:lastmodified":1473510116,
+    "wof:name":"A.d. Vitrerie-miroiterie",
+    "wof:parent_id":85801533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glazier"
+    ]
+},
+  "bbox": [
+    5.6100111008,
+    50.6704864502,
+    5.6100111008,
+    50.6704864502
+],
+  "geometry": {"coordinates":[5.6100111008,50.6704864502],"type":"Point"}
+}

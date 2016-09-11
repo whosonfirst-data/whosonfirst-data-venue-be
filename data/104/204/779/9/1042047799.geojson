@@ -1,0 +1,79 @@
+{
+  "id": 1042047799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5170369148,50.6667671204,5.5170369148,50.6667671204",
+    "geom:latitude":50.666767,
+    "geom:longitude":5.517037,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hubert Streel 153",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 10 30",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "salon",
+        "de",
+        "bien-\u00eatre",
+        "coiffure",
+        "relaxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4795v38e8q80p39aEeZGSV_50.666767_5.517037@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494164,
+    "wof:geomhash":"6ed2136c2a026a6ae68f8e3a40ed892c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1042047799
+        }
+    ],
+    "wof:id":1042047799,
+    "wof:lastmodified":1473494164,
+    "wof:name":"Coiffure Lagamme",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "de",
+        "bien-\u00eatre",
+        "coiffure",
+        "relaxation"
+    ]
+},
+  "bbox": [
+    5.5170369148,
+    50.6667671204,
+    5.5170369148,
+    50.6667671204
+],
+  "geometry": {"coordinates":[5.5170369148,50.6667671204],"type":"Point"}
+}

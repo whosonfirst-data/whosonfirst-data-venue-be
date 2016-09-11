@@ -1,0 +1,79 @@
+{
+  "id": 1041649859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5785207748,50.6390113831,5.5785207748,50.6390113831",
+    "geom:latitude":50.639011,
+    "geom:longitude":5.578521,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Edouard Van Beneden 25",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 349 85 10",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J68wB5VIFffAK1DoK7CCR_50.639011_5.578521@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477339,
+    "wof:geomhash":"28e7ff45d838509ffb829607c416cc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041649859
+        }
+    ],
+    "wof:id":1041649859,
+    "wof:lastmodified":1473477339,
+    "wof:name":"Interface Entreprises-universit\u00e9",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    5.5785207748,
+    50.6390113831,
+    5.5785207748,
+    50.6390113831
+],
+  "geometry": {"coordinates":[5.5785207748,50.6390113831],"type":"Point"}
+}

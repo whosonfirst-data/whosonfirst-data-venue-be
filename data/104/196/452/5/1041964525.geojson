@@ -1,0 +1,77 @@
+{
+  "id": 1041964525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4152808189,50.8448448181,4.4152808189,50.8448448181",
+    "geom:latitude":50.844845,
+    "geom:longitude":4.415281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue J.b. Timmermans 12",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 80 43",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hfDxnjtMvT0Ym0aCervx5_50.844845_4.415281@1306268369"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490684,
+    "wof:geomhash":"50178ae82bb43e0bf82c8790ab8d9985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041964525
+        }
+    ],
+    "wof:id":1041964525,
+    "wof:lastmodified":1473490684,
+    "wof:name":"Dock S",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.4152808189,
+    50.8448448181,
+    4.4152808189,
+    50.8448448181
+],
+  "geometry": {"coordinates":[4.4152808189,50.8448448181],"type":"Point"}
+}

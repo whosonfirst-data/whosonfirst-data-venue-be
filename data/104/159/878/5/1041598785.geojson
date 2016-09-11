@@ -1,0 +1,77 @@
+{
+  "id": 1041598785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3742289543,50.8316917419,4.3742289543,50.8316917419",
+    "geom:latitude":50.831692,
+    "geom:longitude":4.374229,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Malibran 91",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 00 84",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fIFJV2zUOqSDLt4MpGkHc_50.831692_4.374229@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475238,
+    "wof:geomhash":"fee9ee695c086db297344894cb75d3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041598785
+        }
+    ],
+    "wof:id":1041598785,
+    "wof:lastmodified":1473475238,
+    "wof:name":"Jardin Du Monde Exotique (au)",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3742289543,
+    50.8316917419,
+    4.3742289543,
+    50.8316917419
+],
+  "geometry": {"coordinates":[4.3742289543,50.8316917419],"type":"Point"}
+}

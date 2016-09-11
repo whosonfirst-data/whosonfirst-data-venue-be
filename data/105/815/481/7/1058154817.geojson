@@ -1,0 +1,79 @@
+{
+  "id": 1058154817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3603048325,50.8271217346,4.3603048325,50.8271217346",
+    "geom:latitude":50.827122,
+    "geom:longitude":4.360305,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paul Emile Janson 44",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 89 86",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Uon7CnXzwGmD6J41irob_50.827122_4.360305@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512216,
+    "wof:geomhash":"90c8d4d5483884918d9d191ecdaafdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058154817
+        }
+    ],
+    "wof:id":1058154817,
+    "wof:lastmodified":1473512216,
+    "wof:name":"Berkenbaum C",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3603048325,
+    50.8271217346,
+    4.3603048325,
+    50.8271217346
+],
+  "geometry": {"coordinates":[4.3603048325,50.8271217346],"type":"Point"}
+}

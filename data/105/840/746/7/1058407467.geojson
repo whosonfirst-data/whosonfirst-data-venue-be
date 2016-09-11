@@ -1,0 +1,79 @@
+{
+  "id": 1058407467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3262238503,50.7997589111,4.3262238503,50.7997589111",
+    "geom:latitude":50.799759,
+    "geom:longitude":4.326224,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Merlo 149",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 19 27",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "non-ferrous",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_625F5BFBA8nvleWyzy7PUu_50.799759_4.326224@1306268504"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523569,
+    "wof:geomhash":"049adc68438cdd026edb71bfb04357e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058407467
+        }
+    ],
+    "wof:id":1058407467,
+    "wof:lastmodified":1473523569,
+    "wof:name":"Bimeta Sprl",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "non-ferrous",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3262238503,
+    50.7997589111,
+    4.3262238503,
+    50.7997589111
+],
+  "geometry": {"coordinates":[4.3262238503,50.7997589111],"type":"Point"}
+}

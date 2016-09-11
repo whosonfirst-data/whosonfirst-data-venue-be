@@ -1,0 +1,81 @@
+{
+  "id": 1041602421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4298381805,51.3156280518,4.4298381805,51.3156280518",
+    "geom:latitude":51.315628,
+    "geom:longitude":4.429838,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Christiaan Pallemansstraat 11",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 55 85",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CZk4dgxud2bC5nQX78nKO_51.315628_4.429838@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475407,
+    "wof:geomhash":"44cd670ce7e80be9fbb848b55495ea65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1041602421
+        }
+    ],
+    "wof:id":1041602421,
+    "wof:lastmodified":1473475407,
+    "wof:name":"Olymp",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4298381805,
+    51.3156280518,
+    4.4298381805,
+    51.3156280518
+],
+  "geometry": {"coordinates":[4.4298381805,51.3156280518],"type":"Point"}
+}

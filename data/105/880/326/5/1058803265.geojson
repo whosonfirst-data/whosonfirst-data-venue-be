@@ -1,0 +1,79 @@
+{
+  "id": 1058803265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7569069862,51.0767021179,3.7569069862,51.0767021179",
+    "geom:latitude":51.076702,
+    "geom:longitude":3.756907,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ombeekhof 52",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 75 21 74",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61mQBHibDZJdHeiaol1Dwd_51.076702_3.756907@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541699,
+    "wof:geomhash":"6707240abec2edcd426191401584b8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058803265
+        }
+    ],
+    "wof:id":1058803265,
+    "wof:lastmodified":1473541699,
+    "wof:name":"Happaerts Wendy",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    3.7569069862,
+    51.0767021179,
+    3.7569069862,
+    51.0767021179
+],
+  "geometry": {"coordinates":[3.7569069862,51.0767021179],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058802715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4345231056,50.9113769531,4.4345231056,50.9113769531",
+    "geom:latitude":50.911377,
+    "geom:longitude":4.434523,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cornelis Peetersstraat 34 Box 4",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 30 46",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nueqMQSg2UidjseSWRM9F_50.911377_4.434523@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541674,
+    "wof:geomhash":"46ba477e9aafdfb1b85190d7ab301479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1058802715
+        }
+    ],
+    "wof:id":1058802715,
+    "wof:lastmodified":1473541674,
+    "wof:name":"De Briey B",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    4.4345231056,
+    50.9113769531,
+    4.4345231056,
+    50.9113769531
+],
+  "geometry": {"coordinates":[4.4345231056,50.9113769531],"type":"Point"}
+}

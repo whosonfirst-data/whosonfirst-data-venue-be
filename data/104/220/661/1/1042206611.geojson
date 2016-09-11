@@ -1,0 +1,83 @@
+{
+  "id": 1042206611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2262840271,51.2053604126,4.2262840271,51.2053604126",
+    "geom:latitude":51.20536,
+    "geom:longitude":4.226284,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klaveren Aas 53-55",
+    "sg:city":"Beveren (beveren-waas)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 750 91 40",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QQQqWpw8ch1LiUGKN4w0v_51.205360_4.226284@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502279,
+    "wof:geomhash":"f0ea4a00ad0e2c327a99b5be60e5bc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1042206611
+        }
+    ],
+    "wof:id":1042206611,
+    "wof:lastmodified":1473502279,
+    "wof:name":"Leon Smet Bvba",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.2262840271,
+    51.2053604126,
+    4.2262840271,
+    51.2053604126
+],
+  "geometry": {"coordinates":[4.2262840271,51.2053604126],"type":"Point"}
+}

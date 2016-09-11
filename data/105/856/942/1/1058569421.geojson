@@ -1,0 +1,77 @@
+{
+  "id": 1058569421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3541111946,50.8242111206,4.3541111946,50.8242111206",
+    "geom:latitude":50.824211,
+    "geom:longitude":4.354111,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Charleroi 249",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 67 10",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V8I2uRzqkiNcOqFZSCPiV_50.824211_4.354111@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531282,
+    "wof:geomhash":"2381d699b52d528fd7122bbae92ed5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058569421
+        }
+    ],
+    "wof:id":1058569421,
+    "wof:lastmodified":1473531282,
+    "wof:name":"Uylenbroeck Thierry",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3541111946,
+    50.8242111206,
+    4.3541111946,
+    50.8242111206
+],
+  "geometry": {"coordinates":[4.3541111946,50.8242111206],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042035767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6582920551,51.1003265381,3.6582920551,51.1003265381",
+    "geom:latitude":51.100327,
+    "geom:longitude":3.658292,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belzeelsestraat 25",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 05 02",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nUAaEIuyd4C8HUJZEjlsH_51.100327_3.658292@1306268382"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493692,
+    "wof:geomhash":"e16cdd117f692267314b09c3e79df213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042035767
+        }
+    ],
+    "wof:id":1042035767,
+    "wof:lastmodified":1473493692,
+    "wof:name":"Decri-projekt Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    3.6582920551,
+    51.1003265381,
+    3.6582920551,
+    51.1003265381
+],
+  "geometry": {"coordinates":[3.6582920551,51.1003265381],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042151899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7241909504,51.0346641541,3.7241909504,51.0346641541",
+    "geom:latitude":51.034664,
+    "geom:longitude":3.724191,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Victoriastraat 42",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 44 12",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "disc-jockeys"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48sQ2roXV6ArWjeWDfFC3Q_51.034664_3.724191@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499118,
+    "wof:geomhash":"b4f9a8319e9e5f75a25b762c8837548a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042151899
+        }
+    ],
+    "wof:id":1042151899,
+    "wof:lastmodified":1473499118,
+    "wof:name":"Supersound",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disc-jockeys"
+    ]
+},
+  "bbox": [
+    3.7241909504,
+    51.0346641541,
+    3.7241909504,
+    51.0346641541
+],
+  "geometry": {"coordinates":[3.7241909504,51.0346641541],"type":"Point"}
+}

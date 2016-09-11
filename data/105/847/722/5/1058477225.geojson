@@ -1,0 +1,77 @@
+{
+  "id": 1058477225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2029290199,51.2019615173,3.2029290199,51.2019615173",
+    "geom:latitude":51.201962,
+    "geom:longitude":3.202929,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gistelse Steenweg 138-1",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 11 11",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s8pgO5RCcKQdfaBAhQEV0_51.201962_3.202929@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527023,
+    "wof:geomhash":"baa563b59c27ae0b5f7337c87d574333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058477225
+        }
+    ],
+    "wof:id":1058477225,
+    "wof:lastmodified":1473527023,
+    "wof:name":"Van Damme Michel",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    3.2029290199,
+    51.2019615173,
+    3.2029290199,
+    51.2019615173
+],
+  "geometry": {"coordinates":[3.2029290199,51.2019615173],"type":"Point"}
+}

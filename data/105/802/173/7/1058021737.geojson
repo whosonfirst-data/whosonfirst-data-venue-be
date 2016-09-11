@@ -1,0 +1,81 @@
+{
+  "id": 1058021737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3689627647,50.7909011841,4.3689627647,50.7909011841",
+    "geom:latitude":50.790901,
+    "geom:longitude":4.368963,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ham 99",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 99 40",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "handwriting",
+        "-",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GJyYMfr3brVB2L28m0vr4_50.790901_4.368963@1306268429"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506349,
+    "wof:geomhash":"0979dc8555307fc6eb7e7736e0b1de69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058021737
+        }
+    ],
+    "wof:id":1058021737,
+    "wof:lastmodified":1473506349,
+    "wof:name":"Stevens E",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handwriting",
+        "-",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.3689627647,
+    50.7909011841,
+    4.3689627647,
+    50.7909011841
+],
+  "geometry": {"coordinates":[4.3689627647,50.7909011841],"type":"Point"}
+}

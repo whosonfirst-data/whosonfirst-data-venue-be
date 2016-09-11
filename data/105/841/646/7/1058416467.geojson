@@ -1,0 +1,79 @@
+{
+  "id": 1058416467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6523637772,50.7027206421,5.6523637772,50.7027206421",
+    "geom:latitude":50.702721,
+    "geom:longitude":5.652364,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Roi Albert 5",
+    "sg:city":"Oupeye",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Memorial",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 22 57",
+    "sg:postcode":"4680",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mJE6PzsS303eziOZbcuBU_50.702721_5.652364@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523963,
+    "wof:geomhash":"8a334115fd2fe91e49e26c42541c268a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1058416467
+        }
+    ],
+    "wof:id":1058416467,
+    "wof:lastmodified":1473523963,
+    "wof:name":"Charlier A",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "monument"
+    ]
+},
+  "bbox": [
+    5.6523637772,
+    50.7027206421,
+    5.6523637772,
+    50.7027206421
+],
+  "geometry": {"coordinates":[5.6523637772,50.7027206421],"type":"Point"}
+}

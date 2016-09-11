@@ -1,0 +1,77 @@
+{
+  "id": 1058547527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3950500488,50.8110771179,4.3950500488,50.8110771179",
+    "geom:latitude":50.811077,
+    "geom:longitude":4.39505,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Vis\u00e9 62 Box 6",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 07 38",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qNEJ7BTjMwVOZQXRPYnrC_50.811077_4.395050@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530264,
+    "wof:geomhash":"3c37b4a78ff755d6747dcd0af40d0be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058547527
+        }
+    ],
+    "wof:id":1058547527,
+    "wof:lastmodified":1473530264,
+    "wof:name":"Baeyens Michel",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3950500488,
+    50.8110771179,
+    4.3950500488,
+    50.8110771179
+],
+  "geometry": {"coordinates":[4.3950500488,50.8110771179],"type":"Point"}
+}

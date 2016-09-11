@@ -1,0 +1,83 @@
+{
+  "id": 1058252209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4645719528,51.224067688,4.4645719528,51.224067688",
+    "geom:latitude":51.224068,
+    "geom:longitude":4.464572,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vaartstraat 150",
+    "sg:city":"Balen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 324 68 52",
+    "sg:postcode":"2490",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "supraregional",
+        "plant",
+        "installation",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mlj3jOMJ53YRZJZhd8qAK_51.224068_4.464572@1306268475"
+    },
+    "wof:country":"BE",
+    "wof:created":1473516498,
+    "wof:geomhash":"10e7b9944841652d4b4632ec8e488cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058252209
+        }
+    ],
+    "wof:id":1058252209,
+    "wof:lastmodified":1473516498,
+    "wof:name":"Willems B.v.b.a.",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supraregional",
+        "plant",
+        "installation",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4645719528,
+    51.224067688,
+    4.4645719528,
+    51.224067688
+],
+  "geometry": {"coordinates":[4.4645719528,51.224067688],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058927017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3056721687,50.8383026123,4.3056721687,50.8383026123",
+    "geom:latitude":50.838303,
+    "geom:longitude":4.305672,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eedstraat 40",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 02 33",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AtHUmxiUaLv0CUOSbHgG7_50.838303_4.305672@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547216,
+    "wof:geomhash":"3e95a898bc4b9deda8ad9292dfc9fb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058927017
+        }
+    ],
+    "wof:id":1058927017,
+    "wof:lastmodified":1473547216,
+    "wof:name":"Bureau Pleckspaen",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.3056721687,
+    50.8383026123,
+    4.3056721687,
+    50.8383026123
+],
+  "geometry": {"coordinates":[4.3056721687,50.8383026123],"type":"Point"}
+}

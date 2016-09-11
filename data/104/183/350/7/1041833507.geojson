@@ -1,0 +1,77 @@
+{
+  "id": 1041833507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7253611088,51.0545158386,3.7253611088,51.0545158386",
+    "geom:latitude":51.054516,
+    "geom:longitude":3.725361,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Botestraat 1bb",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 258 15 68",
+    "sg:postcode":"9032",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nLJjBU86eK70VMskkn29w_51.054516_3.725361@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485091,
+    "wof:geomhash":"3576b844fb24cced8c7b08a06e115ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041833507
+        }
+    ],
+    "wof:id":1041833507,
+    "wof:lastmodified":1473485091,
+    "wof:name":"Zakenkantoor De Riek",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    3.7253611088,
+    51.0545158386,
+    3.7253611088,
+    51.0545158386
+],
+  "geometry": {"coordinates":[3.7253611088,51.0545158386],"type":"Point"}
+}

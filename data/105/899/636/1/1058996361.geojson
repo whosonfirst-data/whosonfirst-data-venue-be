@@ -1,0 +1,84 @@
+{
+  "id": 1058996361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.348295,50.8263475,4.348295,50.8263475",
+    "geom:latitude":50.826347,
+    "geom:longitude":4.348295,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 rue de tamines",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1060",
+    "sg:tags":[
+        "football",
+        "soccer",
+        "social",
+        "network",
+        "media"
+    ],
+    "sg:website":"http://www.extrafootie.co.uk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ulYRULykbpNllrK1CumUh_50.826347_4.348295@1308163241"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550369,
+    "wof:geomhash":"31fe5f2e44d3cf6fd618e0a75cc819ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058996361
+        }
+    ],
+    "wof:id":1058996361,
+    "wof:lastmodified":1473550369,
+    "wof:name":"ExtraFootie",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "football",
+        "soccer",
+        "social",
+        "network",
+        "media"
+    ]
+},
+  "bbox": [
+    4.348295,
+    50.8263475,
+    4.348295,
+    50.8263475
+],
+  "geometry": {"coordinates":[4.348295,50.8263475],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042113227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.391520977,50.8567733765,4.391520977,50.8567733765",
+    "geom:latitude":50.856773,
+    "geom:longitude":4.391521,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De La Patrie 32",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 245 84 28",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RYpTgx2I1kunn5oasCMqs_50.856773_4.391521@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496996,
+    "wof:geomhash":"7bc4e8a5676f3186abf03b89c39d2e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042113227
+        }
+    ],
+    "wof:id":1042113227,
+    "wof:lastmodified":1473496996,
+    "wof:name":"Micromedia-microcity",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    4.391520977,
+    50.8567733765,
+    4.391520977,
+    50.8567733765
+],
+  "geometry": {"coordinates":[4.391520977,50.8567733765],"type":"Point"}
+}

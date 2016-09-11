@@ -1,0 +1,77 @@
+{
+  "id": 1041696601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3276557922,50.8036346436,4.3276557922,50.8036346436",
+    "geom:latitude":50.803635,
+    "geom:longitude":4.327656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gatti De Gamond 95",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 11 66",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U0eFG2ZSURcOVXbnij3SG_50.803635_4.327656@1306268324"
+    },
+    "wof:country":"BE",
+    "wof:created":1473479155,
+    "wof:geomhash":"63bb7e303ec89a5400751c67eb769586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1041696601
+        }
+    ],
+    "wof:id":1041696601,
+    "wof:lastmodified":1473479155,
+    "wof:name":"Institut D'enseignement De Promotion Sociale De La Communaut\u00e9 Fran\u00e7aise",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    4.3276557922,
+    50.8036346436,
+    4.3276557922,
+    50.8036346436
+],
+  "geometry": {"coordinates":[4.3276557922,50.8036346436],"type":"Point"}
+}

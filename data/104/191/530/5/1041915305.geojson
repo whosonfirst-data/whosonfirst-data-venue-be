@@ -1,0 +1,81 @@
+{
+  "id": 1041915305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3010430336,50.8714523315,4.3010430336,50.8714523315",
+    "geom:latitude":50.871452,
+    "geom:longitude":4.301043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 333 Box 10",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 468 54 08",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "product",
+        "-",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTOGtqO1dUTFTUtq4KJ4p_50.871452_4.301043@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488538,
+    "wof:geomhash":"fbc0a63fecbc8424ff2c9f61c02b3136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1041915305
+        }
+    ],
+    "wof:id":1041915305,
+    "wof:lastmodified":1473488538,
+    "wof:name":"Van Tilborgh",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "-",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    4.3010430336,
+    50.8714523315,
+    4.3010430336,
+    50.8714523315
+],
+  "geometry": {"coordinates":[4.3010430336,50.8714523315],"type":"Point"}
+}

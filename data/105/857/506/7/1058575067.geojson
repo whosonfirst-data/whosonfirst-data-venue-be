@@ -1,0 +1,79 @@
+{
+  "id": 1058575067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4288921356,51.3153038025,4.4288921356,51.3153038025",
+    "geom:latitude":51.315304,
+    "geom:longitude":4.428892,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsstraat 7",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 665 42 84",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "picture",
+        "framer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y8VUOtPngel4U69g4NiQI_51.315304_4.428892@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531531,
+    "wof:geomhash":"549bfb392e7e80781eff9cb049b9a4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058575067
+        }
+    ],
+    "wof:id":1058575067,
+    "wof:lastmodified":1473531531,
+    "wof:name":"Nice To Frame",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "framer"
+    ]
+},
+  "bbox": [
+    4.4288921356,
+    51.3153038025,
+    4.4288921356,
+    51.3153038025
+],
+  "geometry": {"coordinates":[4.4288921356,51.3153038025],"type":"Point"}
+}

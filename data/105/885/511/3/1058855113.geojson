@@ -1,0 +1,77 @@
+{
+  "id": 1058855113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7627549171,51.0203704834,3.7627549171,51.0203704834",
+    "geom:latitude":51.02037,
+    "geom:longitude":3.762755,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mellestraat 95",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 232 25 44",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_456gIJmWKCUPZ0K35sSCa4_51.020370_3.762755@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543941,
+    "wof:geomhash":"ca811cc5ee750a0854c77f167a0a4806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058855113
+        }
+    ],
+    "wof:id":1058855113,
+    "wof:lastmodified":1473543941,
+    "wof:name":"Droopij's Taverne",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    3.7627549171,
+    51.0203704834,
+    3.7627549171,
+    51.0203704834
+],
+  "geometry": {"coordinates":[3.7627549171,51.0203704834],"type":"Point"}
+}

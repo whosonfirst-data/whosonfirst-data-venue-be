@@ -1,0 +1,81 @@
+{
+  "id": 1042069271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3337759972,50.8378562927,4.3337759972,50.8378562927",
+    "geom:latitude":50.837856,
+    "geom:longitude":4.333776,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Bara 43",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 26 78",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "textile",
+        "clothing",
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801025,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j4YMuUTL7qpRE8duUofEw_50.837856_4.333776@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495045,
+    "wof:geomhash":"df03f3fa2d046e58a60148c58958d71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801025,
+            "region_id":85681713,
+            "venue_id":1042069271
+        }
+    ],
+    "wof:id":1042069271,
+    "wof:lastmodified":1473495045,
+    "wof:name":"Novex Sa",
+    "wof:parent_id":85801025,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "clothing",
+        "clothes"
+    ]
+},
+  "bbox": [
+    4.3337759972,
+    50.8378562927,
+    4.3337759972,
+    50.8378562927
+],
+  "geometry": {"coordinates":[4.3337759972,50.8378562927],"type":"Point"}
+}

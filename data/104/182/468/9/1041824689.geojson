@@ -1,0 +1,81 @@
+{
+  "id": 1041824689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4584197998,51.2328605652,4.4584197998,51.2328605652",
+    "geom:latitude":51.232861,
+    "geom:longitude":4.45842,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vrijheidweg 5",
+    "sg:city":"Tongeren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 324 40 00",
+    "sg:postcode":"3700",
+    "sg:province":"Limburg",
+    "sg:tags":[
+        "units",
+        "assembly",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IdnGhQIMt5tTIrG0QkA5j_51.232861_4.458420@1306268344"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484700,
+    "wof:geomhash":"c037cfb227983489438c6082cf9bdc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1041824689
+        }
+    ],
+    "wof:id":1041824689,
+    "wof:lastmodified":1473484700,
+    "wof:name":"Kranen Michielsens Nv",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "units",
+        "assembly",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    4.4584197998,
+    51.2328605652,
+    4.4584197998,
+    51.2328605652
+],
+  "geometry": {"coordinates":[4.4584197998,51.2328605652],"type":"Point"}
+}

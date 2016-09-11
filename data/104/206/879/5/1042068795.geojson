@@ -1,0 +1,81 @@
+{
+  "id": 1042068795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.453895092,51.2341918945,4.453895092,51.2341918945",
+    "geom:latitude":51.234192,
+    "geom:longitude":4.453895,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tweemontstraat 65-67",
+    "sg:city":"Deurne",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 325 47 50",
+    "sg:postcode":"2100",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "textile",
+        "clothing",
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C6V1DEJj6g9oROI3VaZvh_51.234192_4.453895@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495027,
+    "wof:geomhash":"7e7367781ad944dc2514fb0c4c9abee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1042068795
+        }
+    ],
+    "wof:id":1042068795,
+    "wof:lastmodified":1473495027,
+    "wof:name":"Bathys Bvba",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "clothing",
+        "clothes"
+    ]
+},
+  "bbox": [
+    4.453895092,
+    51.2341918945,
+    4.453895092,
+    51.2341918945
+],
+  "geometry": {"coordinates":[4.453895092,51.2341918945],"type":"Point"}
+}

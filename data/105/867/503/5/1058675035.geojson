@@ -1,0 +1,66 @@
+{
+  "id": 1058675035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2298059464,50.8296508789,4.2298059464,50.8296508789",
+    "geom:latitude":50.829651,
+    "geom:longitude":4.229806,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rollestraat 130",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 569 13 61",
+    "sg:postcode":"1701",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EO0aX3eTmILh7eNXcbgDx_50.829651_4.229806@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536065,
+    "wof:geomhash":"d0411cd277c0a73b0f8d9c513dc37720",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1058675035
+        }
+    ],
+    "wof:id":1058675035,
+    "wof:lastmodified":1473536065,
+    "wof:name":"New Gits",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2298059464,
+    50.8296508789,
+    4.2298059464,
+    50.8296508789
+],
+  "geometry": {"coordinates":[4.2298059464,50.8296508789],"type":"Point"}
+}

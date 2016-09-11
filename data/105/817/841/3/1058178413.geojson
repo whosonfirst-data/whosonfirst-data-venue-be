@@ -1,0 +1,85 @@
+{
+  "id": 1058178413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7589759827,51.0621109009,3.7589759827,51.0621109009",
+    "geom:latitude":51.062111,
+    "geom:longitude":3.758976,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bromeliastraat 63",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 238 20 29",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PzSpZ5YxrOcdRnDJHwHRg_51.062111_3.758976@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513264,
+    "wof:geomhash":"cf0e9baa89a6709bcba16009ed7d492b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058178413
+        }
+    ],
+    "wof:id":1058178413,
+    "wof:lastmodified":1473513264,
+    "wof:name":"Chamonix",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    3.7589759827,
+    51.0621109009,
+    3.7589759827,
+    51.0621109009
+],
+  "geometry": {"coordinates":[3.7589759827,51.0621109009],"type":"Point"}
+}

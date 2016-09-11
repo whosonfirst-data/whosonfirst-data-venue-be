@@ -1,0 +1,77 @@
+{
+  "id": 1041965607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2892432213,50.8332977295,4.2892432213,50.8332977295",
+    "geom:latitude":50.833298,
+    "geom:longitude":4.289243,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Capitaine Fossoul 13a",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 43 61",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eR8nzQWFfsJmJAvw8wK0K_50.833298_4.289243@1306268369"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490721,
+    "wof:geomhash":"8d2292e03b166098385a9dd4d8f151e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041965607
+        }
+    ],
+    "wof:id":1041965607,
+    "wof:lastmodified":1473490721,
+    "wof:name":"Goffin Marcel Sprl",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.2892432213,
+    50.8332977295,
+    4.2892432213,
+    50.8332977295
+],
+  "geometry": {"coordinates":[4.2892432213,50.8332977295],"type":"Point"}
+}

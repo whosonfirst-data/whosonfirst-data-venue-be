@@ -1,0 +1,77 @@
+{
+  "id": 1042210211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3975811005,50.9253730774,4.3975811005,50.9253730774",
+    "geom:latitude":50.925373,
+    "geom:longitude":4.397581,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vilvoordsesteenweg 420",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 705 52 51",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801947,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10byRsvfYiYO5VsKAks0hj_50.925373_4.397581@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502435,
+    "wof:geomhash":"fa2cf9821de28ee51f265677a1c0154f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801947,
+            "region_id":85681731,
+            "venue_id":1042210211
+        }
+    ],
+    "wof:id":1042210211,
+    "wof:lastmodified":1473502435,
+    "wof:name":"P.g.r. Partners Sa Nv",
+    "wof:parent_id":85801947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3975811005,
+    50.9253730774,
+    4.3975811005,
+    50.9253730774
+],
+  "geometry": {"coordinates":[4.3975811005,50.9253730774],"type":"Point"}
+}

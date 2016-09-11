@@ -1,0 +1,94 @@
+{
+  "id": 1042115701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3290038109,50.8224830627,4.3290038109,50.8224830627",
+    "geom:latitude":50.822483,
+    "geom:longitude":4.329004,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jef Devos 59",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 33 26 17",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801379,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16JJvpvUhmyFOqapLxy9mW_50.822483_4.329004@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497155,
+    "wof:geomhash":"9b0df8112d4dc010ca2f28d8f5478de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801379,
+            "region_id":85681713,
+            "venue_id":1042115701
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042115701
+        }
+    ],
+    "wof:id":1042115701,
+    "wof:lastmodified":1473497155,
+    "wof:name":"It Doors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3290038109,
+    50.8224830627,
+    4.3290038109,
+    50.8224830627
+],
+  "geometry": {"coordinates":[4.3290038109,50.8224830627],"type":"Point"}
+}

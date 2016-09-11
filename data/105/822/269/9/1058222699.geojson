@@ -1,0 +1,81 @@
+{
+  "id": 1058222699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.365732193,50.8144493103,4.365732193,50.8144493103",
+    "geom:latitude":50.814449,
+    "geom:longitude":4.365732,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vanderkindere 475a",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 71 19",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02EEZfl9Gbi8PukDdBAukV_50.814449_4.365732@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515203,
+    "wof:geomhash":"c7046172fd11aa68f50e9dc83d62d797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058222699
+        }
+    ],
+    "wof:id":1058222699,
+    "wof:lastmodified":1473515203,
+    "wof:name":"Zaprzalka A Ets",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.365732193,
+    50.8144493103,
+    4.365732193,
+    50.8144493103
+],
+  "geometry": {"coordinates":[4.365732193,50.8144493103],"type":"Point"}
+}

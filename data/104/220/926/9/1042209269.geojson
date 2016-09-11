@@ -1,0 +1,81 @@
+{
+  "id": 1042209269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4003148079,50.8708648682,4.4003148079,50.8708648682",
+    "geom:latitude":50.870865,
+    "geom:longitude":4.400315,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Henri Conscience 154",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 09 41",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "retail",
+        "-",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SQoVLBwdnwaZIT4QpiXrZ_50.870865_4.400315@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502394,
+    "wof:geomhash":"75e4c429341d33d6af76a1202c6b2b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042209269
+        }
+    ],
+    "wof:id":1042209269,
+    "wof:lastmodified":1473502394,
+    "wof:name":"Deloose",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "-",
+        "electric"
+    ]
+},
+  "bbox": [
+    4.4003148079,
+    50.8708648682,
+    4.4003148079,
+    50.8708648682
+],
+  "geometry": {"coordinates":[4.4003148079,50.8708648682],"type":"Point"}
+}

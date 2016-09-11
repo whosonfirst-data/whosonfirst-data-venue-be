@@ -1,0 +1,92 @@
+{
+  "id": 1058058193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3611087799,50.8708534241,4.3611087799,50.8708534241",
+    "geom:latitude":50.870853,
+    "geom:longitude":4.361109,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Reine 194",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 67 12",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "plant",
+        "flower",
+        "artificial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RrDOMCmvU9goqKDbqBTyL_50.870853_4.361109@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507851,
+    "wof:geomhash":"50c7b41ed12f9f554459187ca2f7ab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058058193
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1058058193
+        }
+    ],
+    "wof:id":1058058193,
+    "wof:lastmodified":1473507851,
+    "wof:name":"Capadocia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "flower",
+        "artificial"
+    ]
+},
+  "bbox": [
+    4.3611087799,
+    50.8708534241,
+    4.3611087799,
+    50.8708534241
+],
+  "geometry": {"coordinates":[4.3611087799,50.8708534241],"type":"Point"}
+}

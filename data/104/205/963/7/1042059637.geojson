@@ -1,0 +1,77 @@
+{
+  "id": 1042059637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.678208828,50.6854019165,5.678208828,50.6854019165",
+    "geom:latitude":50.685402,
+    "geom:longitude":5.678209,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Aux Communes 80",
+    "sg:city":"Vis\u00e9 (cheratte)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 86 19",
+    "sg:postcode":"4602",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b3o3FypTpL1UoSSq1slZ0_50.685402_5.678209@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494665,
+    "wof:geomhash":"38f43d4c3b0bcbbd2114ddd147de7107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1042059637
+        }
+    ],
+    "wof:id":1042059637,
+    "wof:lastmodified":1473494665,
+    "wof:name":"G\u00e9rard M-c",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.678208828,
+    50.6854019165,
+    5.678208828,
+    50.6854019165
+],
+  "geometry": {"coordinates":[5.678208828,50.6854019165],"type":"Point"}
+}

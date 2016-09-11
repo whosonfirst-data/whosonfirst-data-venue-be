@@ -1,0 +1,77 @@
+{
+  "id": 1041559933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4305329323,50.8105812073,4.4305329323,50.8105812073",
+    "geom:latitude":50.810581,
+    "geom:longitude":4.430533,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Moulin \u00e0 Papier 43",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 39 34",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58QZRJT3Zaqu4wXHGUswD0_50.810581_4.430533@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473618,
+    "wof:geomhash":"ccb5b39bb31dc26fa449882a6980768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1041559933
+        }
+    ],
+    "wof:id":1041559933,
+    "wof:lastmodified":1473473618,
+    "wof:name":"Moulin \u00e0 Papier",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.4305329323,
+    50.8105812073,
+    4.4305329323,
+    50.8105812073
+],
+  "geometry": {"coordinates":[4.4305329323,50.8105812073],"type":"Point"}
+}

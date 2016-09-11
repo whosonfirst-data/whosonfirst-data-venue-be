@@ -1,0 +1,79 @@
+{
+  "id": 1058624823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3411622047,50.8244781494,4.3411622047,50.8244781494",
+    "geom:latitude":50.824478,
+    "geom:longitude":4.341162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Villas 45",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 68 76",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54c2huuaE2DUHdFNfJzynM_50.824478_4.341162@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533783,
+    "wof:geomhash":"bbf997eefa895919c248467e56a7801d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058624823
+        }
+    ],
+    "wof:id":1058624823,
+    "wof:lastmodified":1473533783,
+    "wof:name":"Lazarou A.",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.3411622047,
+    50.8244781494,
+    4.3411622047,
+    50.8244781494
+],
+  "geometry": {"coordinates":[4.3411622047,50.8244781494],"type":"Point"}
+}

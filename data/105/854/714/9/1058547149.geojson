@@ -1,0 +1,77 @@
+{
+  "id": 1058547149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5207858086,50.6024208069,5.5207858086,50.6024208069",
+    "geom:latitude":50.602421,
+    "geom:longitude":5.520786,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paquay 2",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 34 63",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rfFZbGD2oFfcE3JR9j53O_50.602421_5.520786@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530240,
+    "wof:geomhash":"19d7b43d42ce526c551ff67ed128b89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058547149
+        }
+    ],
+    "wof:id":1058547149,
+    "wof:lastmodified":1473530240,
+    "wof:name":"Anciaux Deborsu A Et B",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5207858086,
+    50.6024208069,
+    5.5207858086,
+    50.6024208069
+],
+  "geometry": {"coordinates":[5.5207858086,50.6024208069],"type":"Point"}
+}

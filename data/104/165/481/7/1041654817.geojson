@@ -1,0 +1,79 @@
+{
+  "id": 1041654817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2838039398,50.8376197815,4.2838039398,50.8376197815",
+    "geom:latitude":50.83762,
+    "geom:longitude":4.283804,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Sillon 121",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 526 86 11",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gqF4PZzEqaoJD0BVIPTiD_50.837620_4.283804@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477528,
+    "wof:geomhash":"70237dfea989001dbd1d05e204930c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1041654817
+        }
+    ],
+    "wof:id":1041654817,
+    "wof:lastmodified":1473477528,
+    "wof:name":"R\u00e9sidences Services (les)",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.2838039398,
+    50.8376197815,
+    4.2838039398,
+    50.8376197815
+],
+  "geometry": {"coordinates":[4.2838039398,50.8376197815],"type":"Point"}
+}

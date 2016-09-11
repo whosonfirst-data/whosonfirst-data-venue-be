@@ -1,0 +1,81 @@
+{
+  "id": 1042070171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3364138603,50.8015861511,4.3364138603,50.8015861511",
+    "geom:latitude":50.801586,
+    "geom:longitude":4.336414,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 825",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 15 38",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_732WaVbgmIVZhBrwwafV4b_50.801586_4.336414@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495081,
+    "wof:geomhash":"b32dd5e7d744c6e23c3cb97f95c43219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1042070171
+        }
+    ],
+    "wof:id":1042070171,
+    "wof:lastmodified":1473495081,
+    "wof:name":"Kid Cool",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "child"
+    ]
+},
+  "bbox": [
+    4.3364138603,
+    50.8015861511,
+    4.3364138603,
+    50.8015861511
+],
+  "geometry": {"coordinates":[4.3364138603,50.8015861511],"type":"Point"}
+}

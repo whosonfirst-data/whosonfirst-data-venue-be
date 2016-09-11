@@ -1,0 +1,77 @@
+{
+  "id": 1042122293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4844269753,51.1530456543,4.4844269753,51.1530456543",
+    "geom:latitude":51.153046,
+    "geom:longitude":4.484427,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jos Coveliersstraat 52",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 87 18",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P0B1xwzkCC0UlGGt8VCdy_51.153046_4.484427@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497516,
+    "wof:geomhash":"cea7e56101729b9017aba07fc66dff49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042122293
+        }
+    ],
+    "wof:id":1042122293,
+    "wof:lastmodified":1473497516,
+    "wof:name":"Task",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.4844269753,
+    51.1530456543,
+    4.4844269753,
+    51.1530456543
+],
+  "geometry": {"coordinates":[4.4844269753,51.1530456543],"type":"Point"}
+}

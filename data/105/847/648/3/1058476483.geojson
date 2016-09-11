@@ -1,0 +1,77 @@
+{
+  "id": 1058476483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4024381638,51.1945877075,4.4024381638,51.1945877075",
+    "geom:latitude":51.194588,
+    "geom:longitude":4.402438,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jan Van Rijswijcklaan 142 Box 1",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 238 52 93",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yv3OBH0d8ToEDGHIPMxaE_51.194588_4.402438@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473526988,
+    "wof:geomhash":"42eeacf7c8bb18eef97bb929140f349b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058476483
+        }
+    ],
+    "wof:id":1058476483,
+    "wof:lastmodified":1473526988,
+    "wof:name":"De Groof P",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    4.4024381638,
+    51.1945877075,
+    4.4024381638,
+    51.1945877075
+],
+  "geometry": {"coordinates":[4.4024381638,51.1945877075],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058479583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3434529305,50.8575515747,4.3434529305,50.8575515747",
+    "geom:latitude":50.857552,
+    "geom:longitude":4.343453,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Ateliers 7-9",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 412 10 00",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "firm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GvcKT7ZjRzIkaSE9DJD8b_50.857552_4.343453@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527126,
+    "wof:geomhash":"37f48fd02f5319a6cecd41b94b07d1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058479583
+        }
+    ],
+    "wof:id":1058479583,
+    "wof:lastmodified":1473527126,
+    "wof:name":"Centre D'entreprise Molenbeek",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm"
+    ]
+},
+  "bbox": [
+    4.3434529305,
+    50.8575515747,
+    4.3434529305,
+    50.8575515747
+],
+  "geometry": {"coordinates":[4.3434529305,50.8575515747],"type":"Point"}
+}

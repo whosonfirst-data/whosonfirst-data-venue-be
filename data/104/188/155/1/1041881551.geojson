@@ -1,0 +1,79 @@
+{
+  "id": 1041881551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6306939125,50.6717643738,5.6306939125,50.6717643738",
+    "geom:latitude":50.671764,
+    "geom:longitude":5.630694,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean-baptiste Clobert 50",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 61 85",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IRyoyGDMXFrlXNVziTHWJ_50.671764_5.630694@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487137,
+    "wof:geomhash":"c4bd45a4ce46e4b63f2c641e70a0197d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041881551
+        }
+    ],
+    "wof:id":1041881551,
+    "wof:lastmodified":1473487137,
+    "wof:name":"Ghysens P",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.6306939125,
+    50.6717643738,
+    5.6306939125,
+    50.6717643738
+],
+  "geometry": {"coordinates":[5.6306939125,50.6717643738],"type":"Point"}
+}

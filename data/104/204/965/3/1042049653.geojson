@@ -1,0 +1,79 @@
+{
+  "id": 1042049653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.373360157,50.8405342102,4.373360157,50.8405342102",
+    "geom:latitude":50.840534,
+    "geom:longitude":4.37336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Rue Montoyer",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 506 88 11",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dRB9OyiO5eADzvHhohWrV_50.840534_4.373360@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494236,
+    "wof:geomhash":"2c1c8ca3f8dad7f4258715645ae11cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042049653
+        }
+    ],
+    "wof:id":1042049653,
+    "wof:lastmodified":1473494236,
+    "wof:name":"French Chamber Of Commerce In Belgium",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    4.373360157,
+    50.8405342102,
+    4.373360157,
+    50.8405342102
+],
+  "geometry": {"coordinates":[4.373360157,50.8405342102],"type":"Point"}
+}

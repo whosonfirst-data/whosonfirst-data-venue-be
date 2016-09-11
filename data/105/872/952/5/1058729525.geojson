@@ -1,0 +1,79 @@
+{
+  "id": 1058729525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4195661545,51.2218055725,4.4195661545,51.2218055725",
+    "geom:latitude":51.221806,
+    "geom:longitude":4.419566,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Stralenstraat 76",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 20 65",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "coordinator",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HYatsGM87m84Ws1nyKaZc_51.221806_4.419566@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538433,
+    "wof:geomhash":"ed9372d0234a110576b5542e7c4094ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058729525
+        }
+    ],
+    "wof:id":1058729525,
+    "wof:lastmodified":1473538433,
+    "wof:name":"A.c.r.v. Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coordinator",
+        "safety"
+    ]
+},
+  "bbox": [
+    4.4195661545,
+    51.2218055725,
+    4.4195661545,
+    51.2218055725
+],
+  "geometry": {"coordinates":[4.4195661545,51.2218055725],"type":"Point"}
+}

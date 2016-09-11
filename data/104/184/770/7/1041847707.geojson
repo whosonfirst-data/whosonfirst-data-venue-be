@@ -1,0 +1,81 @@
+{
+  "id": 1041847707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.72417593,51.0877723694,3.72417593,51.0877723694",
+    "geom:latitude":51.087772,
+    "geom:longitude":3.724176,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kapiteinstraat 39",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 91 49",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ogoZEPYn48aYvK8G5LvEw_51.087772_3.724176@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485701,
+    "wof:geomhash":"1379e9e3d7ac30690052dd8a246796b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1041847707
+        }
+    ],
+    "wof:id":1041847707,
+    "wof:lastmodified":1473485701,
+    "wof:name":"Van Eenaeme",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    3.72417593,
+    51.0877723694,
+    3.72417593,
+    51.0877723694
+],
+  "geometry": {"coordinates":[3.72417593,51.0877723694],"type":"Point"}
+}

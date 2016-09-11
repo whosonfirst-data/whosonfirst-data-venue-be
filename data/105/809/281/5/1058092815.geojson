@@ -1,0 +1,71 @@
+{
+  "id": 1058092815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.699848175,50.7358818054,5.699848175,50.7358818054",
+    "geom:latitude":50.735882,
+    "geom:longitude":5.699848,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Fontaine 55",
+    "sg:city":"Vis\u00e9",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 379 49 57",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ayP3Mea4UbVso5aYFCzBe_50.735882_5.699848@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509268,
+    "wof:geomhash":"1fab59b9785bf7a7915ddcaa36020c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1058092815
+        }
+    ],
+    "wof:id":1058092815,
+    "wof:lastmodified":1473509268,
+    "wof:name":"Horten Garage",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    5.699848175,
+    50.7358818054,
+    5.699848175,
+    50.7358818054
+],
+  "geometry": {"coordinates":[5.699848175,50.7358818054],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042207787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4803500175,50.8420677185,4.4803500175,50.8420677185",
+    "geom:latitude":50.842068,
+    "geom:longitude":4.48035,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grand Chemin D'oppem 132",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 00 07",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WMjbOitZHFDzaB3CHgRJ0_50.842068_4.480350@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502323,
+    "wof:geomhash":"bfafd2671f110dc56e4be526cc3c1b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1042207787
+        }
+    ],
+    "wof:id":1042207787,
+    "wof:lastmodified":1473502323,
+    "wof:name":"Tissot P",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4803500175,
+    50.8420677185,
+    4.4803500175,
+    50.8420677185
+],
+  "geometry": {"coordinates":[4.4803500175,50.8420677185],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041984663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5701498985,50.6426086426,5.5701498985,50.6426086426",
+    "geom:latitude":50.642609,
+    "geom:longitude":5.57015,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Dominicains 18",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 232 09 18",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WPIZZiER02zLC33Yicy01_50.642609_5.570150@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491696,
+    "wof:geomhash":"6889dea2eb82c7aef4467d11111649a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041984663
+        }
+    ],
+    "wof:id":1041984663,
+    "wof:lastmodified":1473491696,
+    "wof:name":"Marc O'polo Store",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    5.5701498985,
+    50.6426086426,
+    5.5701498985,
+    50.6426086426
+],
+  "geometry": {"coordinates":[5.5701498985,50.6426086426],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042065267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4712171555,50.8837509155,4.4712171555,50.8837509155",
+    "geom:latitude":50.883751,
+    "geom:longitude":4.471217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stationsstraat 109",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 725 91 00",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802033,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yENELRgxBcAtC8Awl1ILE_50.883751_4.471217@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494882,
+    "wof:geomhash":"abbf29c49f99ece7b7649f8e2fcc9a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802033,
+            "region_id":85681731,
+            "venue_id":1042065267
+        }
+    ],
+    "wof:id":1042065267,
+    "wof:lastmodified":1473494882,
+    "wof:name":"Leonidas-criollo",
+    "wof:parent_id":85802033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4712171555,
+    50.8837509155,
+    4.4712171555,
+    50.8837509155
+],
+  "geometry": {"coordinates":[4.4712171555,50.8837509155],"type":"Point"}
+}

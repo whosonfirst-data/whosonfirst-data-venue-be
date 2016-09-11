@@ -1,0 +1,85 @@
+{
+  "id": 1042122773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2313449383,51.202419281,3.2313449383,51.202419281",
+    "geom:latitude":51.202419,
+    "geom:longitude":3.231345,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oude Gentweg 96",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 58 95 88",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gFl1gzoRvtL4D29ke2eEX_51.202419_3.231345@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497540,
+    "wof:geomhash":"8fb162640a4c77872a59cba898c21b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042122773
+        }
+    ],
+    "wof:id":1042122773,
+    "wof:lastmodified":1473497540,
+    "wof:name":"Computerkliniek Brugge (de)",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ]
+},
+  "bbox": [
+    3.2313449383,
+    51.202419281,
+    3.2313449383,
+    51.202419281
+],
+  "geometry": {"coordinates":[3.2313449383,51.202419281],"type":"Point"}
+}

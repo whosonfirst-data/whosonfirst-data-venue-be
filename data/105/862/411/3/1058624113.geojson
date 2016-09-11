@@ -1,0 +1,79 @@
+{
+  "id": 1058624113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3653001785,50.8230247498,4.3653001785,50.8230247498",
+    "geom:latitude":50.823025,
+    "geom:longitude":4.3653,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Foresti\u00e8re 8",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 40 39 77",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aqK0QnksouxmAfAqxxwss_50.823025_4.365300@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533756,
+    "wof:geomhash":"9b7edf4b2eb4bcd089bfa0d457e40d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058624113
+        }
+    ],
+    "wof:id":1058624113,
+    "wof:lastmodified":1473533756,
+    "wof:name":"Banneux Nathalie",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.3653001785,
+    50.8230247498,
+    4.3653001785,
+    50.8230247498
+],
+  "geometry": {"coordinates":[4.3653001785,50.8230247498],"type":"Point"}
+}

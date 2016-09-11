@@ -1,0 +1,77 @@
+{
+  "id": 1058857701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3543248177,50.8384132385,4.3543248177,50.8384132385",
+    "geom:latitude":50.838413,
+    "geom:longitude":4.354325,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La R\u00e9gence 38",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 69 08",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UNu2dtqdeRc9BQMUy57FI_50.838413_4.354325@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544042,
+    "wof:geomhash":"ce2e36e26e680d066d344c73177cf234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058857701
+        }
+    ],
+    "wof:id":1058857701,
+    "wof:lastmodified":1473544042,
+    "wof:name":"Taverne Du Palais",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3543248177,
+    50.8384132385,
+    4.3543248177,
+    50.8384132385
+],
+  "geometry": {"coordinates":[4.3543248177,50.8384132385],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058789329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4001040459,50.8683128357,4.4001040459,50.8683128357",
+    "geom:latitude":50.868313,
+    "geom:longitude":4.400104,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Godfroid Kurth 109",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 248 09 13",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FVsUG6gaIXoGXvote4sKQ_50.868313_4.400104@1306268572"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541060,
+    "wof:geomhash":"c4a0f2b3377d9dee0c460ea86bc2c60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058789329
+        }
+    ],
+    "wof:id":1058789329,
+    "wof:lastmodified":1473541060,
+    "wof:name":"Willy's (le)",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.4001040459,
+    50.8683128357,
+    4.4001040459,
+    50.8683128357
+],
+  "geometry": {"coordinates":[4.4001040459,50.8683128357],"type":"Point"}
+}

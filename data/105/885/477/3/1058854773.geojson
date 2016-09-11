@@ -1,0 +1,71 @@
+{
+  "id": 1058854773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.471739769,51.1620445251,4.471739769,51.1620445251",
+    "geom:latitude":51.162045,
+    "geom:longitude":4.47174,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boechoutselei",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 23 56",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z7kTa5LjdqhZX3Eiu3OTI_51.162045_4.471740@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543927,
+    "wof:geomhash":"4be08aa5bafdbcbe66215c31681d81db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058854773
+        }
+    ],
+    "wof:id":1058854773,
+    "wof:lastmodified":1473543927,
+    "wof:name":"De Jongste Telg",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.471739769,
+    51.1620445251,
+    4.471739769,
+    51.1620445251
+],
+  "geometry": {"coordinates":[4.471739769,51.1620445251],"type":"Point"}
+}

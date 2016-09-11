@@ -1,0 +1,73 @@
+{
+  "id": 1058825677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3115429878,51.1690444946,4.3115429878,51.1690444946",
+    "geom:latitude":51.169044,
+    "geom:longitude":4.311543,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bazelstraat 32",
+    "sg:city":"Kruibeke",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 774 33 30",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "sport",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qlrhZKWRbWJGLw7l6kGl9_51.169044_4.311543@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542681,
+    "wof:geomhash":"093de76e7d30ee352649bdc7d072aca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058825677
+        }
+    ],
+    "wof:id":1058825677,
+    "wof:lastmodified":1473542681,
+    "wof:name":"Pardaf Sport",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3115429878,
+    51.1690444946,
+    4.3115429878,
+    51.1690444946
+],
+  "geometry": {"coordinates":[4.3115429878,51.1690444946],"type":"Point"}
+}

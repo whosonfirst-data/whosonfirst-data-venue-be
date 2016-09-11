@@ -1,0 +1,77 @@
+{
+  "id": 1042203847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.7076759338,50.6453971863,5.7076759338,50.6453971863",
+    "geom:latitude":50.645397,
+    "geom:longitude":5.707676,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Thier-\u00e0-li\u00e8ge 157",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 92 54",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801807,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J5Y14NZh1YKVT3C2G8NZR_50.645397_5.707676@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502163,
+    "wof:geomhash":"46bbeba821173a0a8c9fbb1fa1c87910",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801807,
+            "region_id":85681691,
+            "venue_id":1042203847
+        }
+    ],
+    "wof:id":1042203847,
+    "wof:lastmodified":1473502163,
+    "wof:name":"Aselec",
+    "wof:parent_id":85801807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.7076759338,
+    50.6453971863,
+    5.7076759338,
+    50.6453971863
+],
+  "geometry": {"coordinates":[5.7076759338,50.6453971863],"type":"Point"}
+}

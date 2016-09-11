@@ -1,0 +1,66 @@
+{
+  "id": 1058823655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5349397659,50.7703094482,4.5349397659,50.7703094482",
+    "geom:latitude":50.770309,
+    "geom:longitude":4.53494,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Begijnhof",
+    "sg:city":"Overijse",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 686 90 20",
+    "sg:postcode":"3090",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45jr0g8i1Q1tMCDTJAXl5U_50.770309_4.534940@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542601,
+    "wof:geomhash":"6129e6ddd78ca018655bff6b01751ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058823655
+        }
+    ],
+    "wof:id":1058823655,
+    "wof:lastmodified":1473542601,
+    "wof:name":"Sporeo Sportdienst Overijse Vzw",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5349397659,
+    50.7703094482,
+    4.5349397659,
+    50.7703094482
+],
+  "geometry": {"coordinates":[4.5349397659,50.7703094482],"type":"Point"}
+}

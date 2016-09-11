@@ -1,0 +1,77 @@
+{
+  "id": 1041749373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4203400612,51.2526092529,4.4203400612,51.2526092529",
+    "geom:latitude":51.252609,
+    "geom:longitude":4.42034,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tweede Havendok Noordkaai 142kaai",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 541 00 23",
+    "sg:postcode":"2030",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O0Wp3Yj0bFqdtztTzDn93_51.252609_4.420340@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481346,
+    "wof:geomhash":"0cb6642dbc4ffc03a73e7a53f805e83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041749373
+        }
+    ],
+    "wof:id":1041749373,
+    "wof:lastmodified":1473481346,
+    "wof:name":"Rode Kruis Vlaanderen Ambulancedienst Antwerpen Haven",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    4.4203400612,
+    51.2526092529,
+    4.4203400612,
+    51.2526092529
+],
+  "geometry": {"coordinates":[4.4203400612,51.2526092529],"type":"Point"}
+}

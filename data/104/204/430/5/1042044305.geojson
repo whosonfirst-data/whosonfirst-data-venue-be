@@ -1,0 +1,77 @@
+{
+  "id": 1042044305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3695559502,50.8437080383,4.3695559502,50.8437080383",
+    "geom:latitude":50.843708,
+    "geom:longitude":4.369556,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Guimard 9",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 502 87 08",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oUsnOPwRgIZ6C6LG5I6xY_50.843708_4.369556@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494030,
+    "wof:geomhash":"e0bad420007541ca7105a146ea978626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042044305
+        }
+    ],
+    "wof:id":1042044305,
+    "wof:lastmodified":1473494030,
+    "wof:name":"Horeservi Catering Nv",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    4.3695559502,
+    50.8437080383,
+    4.3695559502,
+    50.8437080383
+],
+  "geometry": {"coordinates":[4.3695559502,50.8437080383],"type":"Point"}
+}

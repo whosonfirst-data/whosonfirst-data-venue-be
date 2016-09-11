@@ -1,0 +1,81 @@
+{
+  "id": 1058149477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3769798279,50.9059410095,4.3769798279,50.9059410095",
+    "geom:latitude":50.905941,
+    "geom:longitude":4.37698,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Streekbaan 199",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 93 05",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801659,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BkxAJJbV030q2ySjlaoty_50.905941_4.376980@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511973,
+    "wof:geomhash":"bf949d3919b8356e4f1e5506b9dddb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801659,
+            "region_id":85681731,
+            "venue_id":1058149477
+        }
+    ],
+    "wof:id":1058149477,
+    "wof:lastmodified":1473511973,
+    "wof:name":"Come-inn",
+    "wof:parent_id":85801659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    4.3769798279,
+    50.9059410095,
+    4.3769798279,
+    50.9059410095
+],
+  "geometry": {"coordinates":[4.3769798279,50.9059410095],"type":"Point"}
+}

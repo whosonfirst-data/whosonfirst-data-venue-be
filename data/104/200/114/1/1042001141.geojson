@@ -1,0 +1,80 @@
+{
+  "id": 1042001141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4001350403,51.2199668884,4.4001350403,51.2199668884",
+    "geom:latitude":51.219967,
+    "geom:longitude":4.400135,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"16",
+    "sg:city":"Oude Koornmarkt 2000 Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 61 70",
+    "sg:postcode":"16",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DYIHBpRz0yquLUx7YuA6s_51.219967_4.400135@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492353,
+    "wof:geomhash":"f92958ffaea3768bcdca277427a95b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042001141
+        }
+    ],
+    "wof:id":1042001141,
+    "wof:lastmodified":1473492353,
+    "wof:name":"Sir Antony Van Dyck Bvba",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.4001350403,
+    51.2199668884,
+    4.4001350403,
+    51.2199668884
+],
+  "geometry": {"coordinates":[4.4001350403,51.2199668884],"type":"Point"}
+}

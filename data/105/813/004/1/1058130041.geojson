@@ -1,0 +1,79 @@
+{
+  "id": 1058130041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2046511173,51.2025375366,3.2046511173,51.2025375366",
+    "geom:latitude":51.202538,
+    "geom:longitude":3.204651,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gistelse Steenweg 119",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 39 03 91",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "gsm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qDvScUo1cLC8q9doLiV5T_51.202538_3.204651@1306268451"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510981,
+    "wof:geomhash":"a8acb17930098b80cd0f7e9dc60c638e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058130041
+        }
+    ],
+    "wof:id":1058130041,
+    "wof:lastmodified":1473510981,
+    "wof:name":"Cc & T Brugge Bvba",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "gsm"
+    ]
+},
+  "bbox": [
+    3.2046511173,
+    51.2025375366,
+    3.2046511173,
+    51.2025375366
+],
+  "geometry": {"coordinates":[3.2046511173,51.2025375366],"type":"Point"}
+}

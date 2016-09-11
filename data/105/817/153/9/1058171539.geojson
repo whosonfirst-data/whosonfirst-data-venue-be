@@ -1,0 +1,79 @@
+{
+  "id": 1058171539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6763930321,50.6142272949,5.6763930321,50.6142272949",
+    "geom:latitude":50.614227,
+    "geom:longitude":5.676393,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Roi Albert I 8",
+    "sg:city":"Fl\u00e9ron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 355 29 05",
+    "sg:postcode":"4620",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801143,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60yejdCobVgL3kFQltJxX1_50.614227_5.676393@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512970,
+    "wof:geomhash":"3cd6a4df4069bc5cc209b662af8df7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801143,
+            "region_id":85681691,
+            "venue_id":1058171539
+        }
+    ],
+    "wof:id":1058171539,
+    "wof:lastmodified":1473512970,
+    "wof:name":"Lembreghts M",
+    "wof:parent_id":85801143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6763930321,
+    50.6142272949,
+    5.6763930321,
+    50.6142272949
+],
+  "geometry": {"coordinates":[5.6763930321,50.6142272949],"type":"Point"}
+}

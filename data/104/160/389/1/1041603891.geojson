@@ -1,0 +1,79 @@
+{
+  "id": 1041603891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3559398651,50.7980308533,4.3559398651,50.7980308533",
+    "geom:latitude":50.798031,
+    "geom:longitude":4.35594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Circulaire 144d Box 15",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 71 49",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801073,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q9Jmn9WEZXxvRhy1RV6y8_50.798031_4.355940@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475467,
+    "wof:geomhash":"493fad8fc8c650aab8ac2f9ba8832b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801073,
+            "region_id":85681713,
+            "venue_id":1041603891
+        }
+    ],
+    "wof:id":1041603891,
+    "wof:lastmodified":1473475467,
+    "wof:name":"Bruyns Andr\u00e9",
+    "wof:parent_id":85801073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3559398651,
+    50.7980308533,
+    4.3559398651,
+    50.7980308533
+],
+  "geometry": {"coordinates":[4.3559398651,50.7980308533],"type":"Point"}
+}

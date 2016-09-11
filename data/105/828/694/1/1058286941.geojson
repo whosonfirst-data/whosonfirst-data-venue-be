@@ -1,0 +1,77 @@
+{
+  "id": 1058286941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3783431053,50.8497390747,4.3783431053,50.8497390747",
+    "geom:latitude":50.849739,
+    "geom:longitude":4.378343,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 196",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 10 83",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RgYiR8yCQMC137pRDOe2o_50.849739_4.378343@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518003,
+    "wof:geomhash":"4ce8cbe6eb2e5b7da02c00057bf13fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058286941
+        }
+    ],
+    "wof:id":1058286941,
+    "wof:lastmodified":1473518003,
+    "wof:name":"Ad.ci. Sa-nv",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    4.3783431053,
+    50.8497390747,
+    4.3783431053,
+    50.8497390747
+],
+  "geometry": {"coordinates":[4.3783431053,50.8497390747],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058552143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7632529736,51.055896759,3.7632529736,51.055896759",
+    "geom:latitude":51.055897,
+    "geom:longitude":3.763253,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bijlokestraat 2",
+    "sg:city":"Destelbergen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 15 39",
+    "sg:postcode":"9070",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T6ujCm0JypNWax3t75vl7_51.055897_3.763253@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530456,
+    "wof:geomhash":"2bb311d13d443d1d6c415a1f8f58fcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058552143
+        }
+    ],
+    "wof:id":1058552143,
+    "wof:lastmodified":1473530456,
+    "wof:name":"De Canck Katrien",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7632529736,
+    51.055896759,
+    3.7632529736,
+    51.055896759
+],
+  "geometry": {"coordinates":[3.7632529736,51.055896759],"type":"Point"}
+}

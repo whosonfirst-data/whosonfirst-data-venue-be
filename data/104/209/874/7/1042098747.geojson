@@ -1,0 +1,77 @@
+{
+  "id": 1042098747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4046750069,50.8388175964,4.4046750069,50.8388175964",
+    "geom:latitude":50.838818,
+    "geom:longitude":4.404675,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Tr\u00e9vires 3",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 737 97 20",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TPpba0UkQDHHJ3Y6lNrCu_50.838818_4.404675@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496335,
+    "wof:geomhash":"446f66ae3303d9b352cc0bf948b05f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042098747
+        }
+    ],
+    "wof:id":1042098747,
+    "wof:lastmodified":1473496335,
+    "wof:name":"O.c.i.p.e Asbl",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cultural"
+    ]
+},
+  "bbox": [
+    4.4046750069,
+    50.8388175964,
+    4.4046750069,
+    50.8388175964
+],
+  "geometry": {"coordinates":[4.4046750069,50.8388175964],"type":"Point"}
+}

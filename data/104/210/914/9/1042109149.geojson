@@ -1,0 +1,73 @@
+{
+  "id": 1042109149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7406361103,51.1793441772,3.7406361103,51.1793441772",
+    "geom:latitude":51.179344,
+    "geom:longitude":3.740636,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eeklostraat 50",
+    "sg:city":"Evergem (ertvelde)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 344 52 04",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85862069,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b81aZ698HdxDhqA7cAue1_51.179344_3.740636@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496809,
+    "wof:geomhash":"3f1cd876716bbc5f75203bf3ce07c08e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85862069,
+            "region_id":85681733,
+            "venue_id":1042109149
+        }
+    ],
+    "wof:id":1042109149,
+    "wof:lastmodified":1473496809,
+    "wof:name":"Dansclub Evergem",
+    "wof:parent_id":85862069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    3.7406361103,
+    51.1793441772,
+    3.7406361103,
+    51.1793441772
+],
+  "geometry": {"coordinates":[3.7406361103,51.1793441772],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1058399195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4986047745,50.6567153931,5.4986047745,50.6567153931",
+    "geom:latitude":50.656715,
+    "geom:longitude":5.498605,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"7",
+    "sg:city":"Rue Du Travail 4460 Grace-hollogne",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 246 92 92",
+    "sg:postcode":"7",
+    "sg:tags":[
+        "machine",
+        "-",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QhpL25tJsIZpgIYWeMTkw_50.656715_5.498605@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523180,
+    "wof:geomhash":"90fb72d07e20e7291a924dbabedc00ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1058399195
+        }
+    ],
+    "wof:id":1058399195,
+    "wof:lastmodified":1473523180,
+    "wof:name":"Polytherm Sa",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "-",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    5.4986047745,
+    50.6567153931,
+    5.4986047745,
+    50.6567153931
+],
+  "geometry": {"coordinates":[5.4986047745,50.6567153931],"type":"Point"}
+}

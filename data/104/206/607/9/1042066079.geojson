@@ -1,0 +1,81 @@
+{
+  "id": 1042066079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3788337708,50.8487205505,4.3788337708,50.8487205505",
+    "geom:latitude":50.848721,
+    "geom:longitude":4.378834,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Eburons 20",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 280 18 08",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cigarette",
+        "-",
+        "cigars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36gP5Vor8hDZbKGo2JDZ27_50.848721_4.378834@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494912,
+    "wof:geomhash":"29d3ff59e9e900e3cf91237d45e430a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042066079
+        }
+    ],
+    "wof:id":1042066079,
+    "wof:lastmodified":1473494912,
+    "wof:name":"Tony (chez)",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "-",
+        "cigars"
+    ]
+},
+  "bbox": [
+    4.3788337708,
+    50.8487205505,
+    4.3788337708,
+    50.8487205505
+],
+  "geometry": {"coordinates":[4.3788337708,50.8487205505],"type":"Point"}
+}

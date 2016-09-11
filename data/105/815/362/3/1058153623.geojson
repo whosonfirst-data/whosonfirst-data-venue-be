@@ -1,0 +1,73 @@
+{
+  "id": 1058153623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2573361397,50.7976341248,4.2573361397,50.7976341248",
+    "geom:latitude":50.797634,
+    "geom:longitude":4.257336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasteelstraat 8",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 16 97",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rLN8jp8tsFMRutoUPpj25_50.797634_4.257336@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512169,
+    "wof:geomhash":"501787d450dba2599279991253cac5a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1058153623
+        }
+    ],
+    "wof:id":1058153623,
+    "wof:lastmodified":1473512169,
+    "wof:name":"Amrom Dina",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2573361397,
+    50.7976341248,
+    4.2573361397,
+    50.7976341248
+],
+  "geometry": {"coordinates":[4.2573361397,50.7976341248],"type":"Point"}
+}

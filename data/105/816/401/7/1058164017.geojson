@@ -1,0 +1,79 @@
+{
+  "id": 1058164017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3522610664,50.7968063354,4.3522610664,50.7968063354",
+    "geom:latitude":50.796806,
+    "geom:longitude":4.352261,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Fran\u00e7ois Folie 3",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 379 29 20",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801073,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yTpOzMd22JwkwhjE3XsGe_50.796806_4.352261@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512606,
+    "wof:geomhash":"21e0b3f6e234c4d5db8712f8d0072466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801073,
+            "region_id":85681713,
+            "venue_id":1058164017
+        }
+    ],
+    "wof:id":1058164017,
+    "wof:lastmodified":1473512606,
+    "wof:name":"Duchateau M",
+    "wof:parent_id":85801073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3522610664,
+    50.7968063354,
+    4.3522610664,
+    50.7968063354
+],
+  "geometry": {"coordinates":[4.3522610664,50.7968063354],"type":"Point"}
+}

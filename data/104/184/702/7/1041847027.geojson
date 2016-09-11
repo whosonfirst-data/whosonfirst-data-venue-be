@@ -1,0 +1,81 @@
+{
+  "id": 1041847027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5631861687,50.6453094482,5.5631861687,50.6453094482",
+    "geom:latitude":50.645309,
+    "geom:longitude":5.563186,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Foss\u00e9s 5",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 77 97",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63R2Ld85tSIEEYE8riB0Cb_50.645309_5.563186@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485671,
+    "wof:geomhash":"1c4c405bb94d3f6f01a53f6f136d5c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041847027
+        }
+    ],
+    "wof:id":1041847027,
+    "wof:lastmodified":1473485671,
+    "wof:name":"Maglio C",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5631861687,
+    50.6453094482,
+    5.5631861687,
+    50.6453094482
+],
+  "geometry": {"coordinates":[5.5631861687,50.6453094482],"type":"Point"}
+}

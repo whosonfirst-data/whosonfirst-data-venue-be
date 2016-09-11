@@ -1,0 +1,79 @@
+{
+  "id": 1058360935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.425535202,50.9128189087,4.425535202,50.9128189087",
+    "geom:latitude":50.912819,
+    "geom:longitude":4.425535,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chaussee De Wavre",
+    "sg:city":"Perwez",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 255 98 00",
+    "sg:postcode":"1360",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "shovel",
+        "loading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QYneqO24t1LxI2rOjT5Lg_50.912819_4.425535@1306268495"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521463,
+    "wof:geomhash":"c4bf60aa1bf51cd654b677d6dc18822a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1058360935
+        }
+    ],
+    "wof:id":1058360935,
+    "wof:lastmodified":1473521463,
+    "wof:name":"Orenstein & Koppel Nv",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shovel",
+        "loading"
+    ]
+},
+  "bbox": [
+    4.425535202,
+    50.9128189087,
+    4.425535202,
+    50.9128189087
+],
+  "geometry": {"coordinates":[4.425535202,50.9128189087],"type":"Point"}
+}

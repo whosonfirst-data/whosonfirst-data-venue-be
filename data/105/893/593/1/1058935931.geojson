@@ -1,0 +1,71 @@
+{
+  "id": 1058935931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4625511169,51.4245414734,4.4625511169,51.4245414734",
+    "geom:latitude":51.424541,
+    "geom:longitude":4.462551,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalmthoutsesteenweg 256",
+    "sg:city":"Essen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 677 23 80",
+    "sg:postcode":"2910",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pLARSAwPzummbTmfwRPXF_51.424541_4.462551@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547578,
+    "wof:geomhash":"3837fdde81a45d53e0f33c14a47eb365",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058935931
+        }
+    ],
+    "wof:id":1058935931,
+    "wof:lastmodified":1473547578,
+    "wof:name":"Van Bunder S",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4625511169,
+    51.4245414734,
+    4.4625511169,
+    51.4245414734
+],
+  "geometry": {"coordinates":[4.4625511169,51.4245414734],"type":"Point"}
+}

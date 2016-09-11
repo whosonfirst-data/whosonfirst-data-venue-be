@@ -1,0 +1,79 @@
+{
+  "id": 1041588597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5442299843,50.6284790039,5.5442299843,50.6284790039",
+    "geom:latitude":50.628479,
+    "geom:longitude":5.54423,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Grands-champs 21",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 99 73",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VuN00oz7aP2rm5qjePAj0_50.628479_5.544230@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474809,
+    "wof:geomhash":"ce0134edee18ab37fdbc69a6c33fa1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1041588597
+        }
+    ],
+    "wof:id":1041588597,
+    "wof:lastmodified":1473474809,
+    "wof:name":"Les Grands Champs",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5442299843,
+    50.6284790039,
+    5.5442299843,
+    50.6284790039
+],
+  "geometry": {"coordinates":[5.5442299843,50.6284790039],"type":"Point"}
+}

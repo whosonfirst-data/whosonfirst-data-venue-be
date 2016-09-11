@@ -1,0 +1,77 @@
+{
+  "id": 1058479247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3471508026,50.8524017334,4.3471508026,50.8524017334",
+    "geom:latitude":50.852402,
+    "geom:longitude":4.347151,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Aux Briques 56",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 496 74 34 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSw3sXR3OndZcoZBA8d8K_50.852402_4.347151@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527109,
+    "wof:geomhash":"352603859ae5f95f515b21c91a29a4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058479247
+        }
+    ],
+    "wof:id":1058479247,
+    "wof:lastmodified":1473527109,
+    "wof:name":"Litheor Construct",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture"
+    ]
+},
+  "bbox": [
+    4.3471508026,
+    50.8524017334,
+    4.3471508026,
+    50.8524017334
+],
+  "geometry": {"coordinates":[4.3471508026,50.8524017334],"type":"Point"}
+}

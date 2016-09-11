@@ -1,0 +1,77 @@
+{
+  "id": 1058093437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2813010216,50.8057441711,4.2813010216,50.8057441711",
+    "geom:latitude":50.805744,
+    "geom:longitude":4.281301,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kloosterbergstraat 44",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 378 19 97",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Okl1T1F3Ihk6iV4XTUsd3_50.805744_4.281301@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509298,
+    "wof:geomhash":"c0f5da9a7e4917b28a42a078f413fcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1058093437
+        }
+    ],
+    "wof:id":1058093437,
+    "wof:lastmodified":1473509298,
+    "wof:name":"Loubers J",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.2813010216,
+    50.8057441711,
+    4.2813010216,
+    50.8057441711
+],
+  "geometry": {"coordinates":[4.2813010216,50.8057441711],"type":"Point"}
+}

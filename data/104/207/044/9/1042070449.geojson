@@ -1,0 +1,81 @@
+{
+  "id": 1042070449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3631620407,50.8188858032,4.3631620407,50.8188858032",
+    "geom:latitude":50.818886,
+    "geom:longitude":4.363162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Washington 206",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 51 79",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qsfqvYh0ZwrXiQJSfUdS8_50.818886_4.363162@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495094,
+    "wof:geomhash":"6db1a0684dafd09edd747df648ebb56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042070449
+        }
+    ],
+    "wof:id":1042070449,
+    "wof:lastmodified":1473495094,
+    "wof:name":"Monkey Square",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "child"
+    ]
+},
+  "bbox": [
+    4.3631620407,
+    50.8188858032,
+    4.3631620407,
+    50.8188858032
+],
+  "geometry": {"coordinates":[4.3631620407,50.8188858032],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058526233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5656528473,50.6289596558,5.5656528473,50.6289596558",
+    "geom:latitude":50.62896,
+    "geom:longitude":5.565653,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De Bronckart 24",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 02 01",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "party",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ev69fY5SVUYjDSdTyfz79_50.628960_5.565653@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529298,
+    "wof:geomhash":"432e26dc767513730365f633aff2aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058526233
+        }
+    ],
+    "wof:id":1058526233,
+    "wof:lastmodified":1473529298,
+    "wof:name":"Hanlet O",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning"
+    ]
+},
+  "bbox": [
+    5.5656528473,
+    50.6289596558,
+    5.5656528473,
+    50.6289596558
+],
+  "geometry": {"coordinates":[5.5656528473,50.6289596558],"type":"Point"}
+}

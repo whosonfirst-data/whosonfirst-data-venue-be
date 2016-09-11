@@ -1,0 +1,71 @@
+{
+  "id": 1058550401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.507463932,50.5783119202,5.507463932,50.5783119202",
+    "geom:latitude":50.578312,
+    "geom:longitude":5.507464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Plainevaux 325",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 15 77",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGYJmQCIn6cMLH2VoIsVK_50.578312_5.507464@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530383,
+    "wof:geomhash":"f03ee3309e805d0d56a92bcd949fb530",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1058550401
+        }
+    ],
+    "wof:id":1058550401,
+    "wof:lastmodified":1473530383,
+    "wof:name":"Champagne G",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.507463932,
+    50.5783119202,
+    5.507463932,
+    50.5783119202
+],
+  "geometry": {"coordinates":[5.507463932,50.5783119202],"type":"Point"}
+}

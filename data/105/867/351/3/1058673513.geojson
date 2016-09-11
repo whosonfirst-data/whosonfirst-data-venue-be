@@ -1,0 +1,66 @@
+{
+  "id": 1058673513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6958899498,50.7343902588,5.6958899498,50.7343902588",
+    "geom:latitude":50.73439,
+    "geom:longitude":5.69589,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Raskinroy 8",
+    "sg:city":"Vis\u00c9",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 379 09 99",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JB6hIs1QoqDS4L0uLL2A2_50.734390_5.695890@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535997,
+    "wof:geomhash":"7d43c0a2fdc2ff6212d97c7a8fdd727b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1058673513
+        }
+    ],
+    "wof:id":1058673513,
+    "wof:lastmodified":1473535997,
+    "wof:name":"Le Raskin Roy",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6958899498,
+    50.7343902588,
+    5.6958899498,
+    50.7343902588
+],
+  "geometry": {"coordinates":[5.6958899498,50.7343902588],"type":"Point"}
+}

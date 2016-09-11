@@ -1,0 +1,77 @@
+{
+  "id": 1058119917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4366512299,51.2220802307,4.4366512299,51.2220802307",
+    "geom:latitude":51.22208,
+    "geom:longitude":4.436651,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pothoekstraat 75",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 272 02 43",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5weGFYgNcGcm6To6i4aa8k_51.222080_4.436651@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510518,
+    "wof:geomhash":"41a6d5a6e99b2fd2628a27897918a308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058119917
+        }
+    ],
+    "wof:id":1058119917,
+    "wof:lastmodified":1473510518,
+    "wof:name":"F.nur",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.4366512299,
+    51.2220802307,
+    4.4366512299,
+    51.2220802307
+],
+  "geometry": {"coordinates":[4.4366512299,51.2220802307],"type":"Point"}
+}

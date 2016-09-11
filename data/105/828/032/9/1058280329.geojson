@@ -1,0 +1,79 @@
+{
+  "id": 1058280329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4235467911,51.2236404419,4.4235467911,51.2236404419",
+    "geom:latitude":51.22364,
+    "geom:longitude":4.423547,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nachtegaallaan 14",
+    "sg:city":"Antwerpen (hoboken)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 827 58 29",
+    "sg:postcode":"2660",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1djNXIIWVnhn6z9CDK2JWH_51.223640_4.423547@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517706,
+    "wof:geomhash":"b9a7dbc1773baf05d3aa92b1354b7be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058280329
+        }
+    ],
+    "wof:id":1058280329,
+    "wof:lastmodified":1473517706,
+    "wof:name":"Wenseleers G",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    4.4235467911,
+    51.2236404419,
+    4.4235467911,
+    51.2236404419
+],
+  "geometry": {"coordinates":[4.4235467911,51.2236404419],"type":"Point"}
+}

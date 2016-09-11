@@ -1,0 +1,90 @@
+{
+  "id": 1041618641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.372563839,50.8029098511,4.372563839,50.8029098511",
+    "geom:latitude":50.80291,
+    "geom:longitude":4.372564,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 1069",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 68 13",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YTTxKMii2zt3Y15kVOum8_50.802910_4.372564@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476048,
+    "wof:geomhash":"9290a19f0510ebd76126b90c5990b6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1041618641
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041618641
+        }
+    ],
+    "wof:id":1041618641,
+    "wof:lastmodified":1473476048,
+    "wof:name":"Terrachiara Sprl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    4.372563839,
+    50.8029098511,
+    4.372563839,
+    50.8029098511
+],
+  "geometry": {"coordinates":[4.372563839,50.8029098511],"type":"Point"}
+}

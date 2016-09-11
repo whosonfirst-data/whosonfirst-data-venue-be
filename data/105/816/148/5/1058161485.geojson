@@ -1,0 +1,73 @@
+{
+  "id": 1058161485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5599842072,50.9437294006,4.5599842072,50.9437294006",
+    "geom:latitude":50.943729,
+    "geom:longitude":4.559984,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rood-kloosterlaan 15",
+    "sg:city":"Kampenhout",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 65 58 57",
+    "sg:postcode":"1910",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801313,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Xue6GkrTHQbfV6uECYNx_50.943729_4.559984@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512501,
+    "wof:geomhash":"0ab119d262d7940b2e48ec3875cc1157",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801313,
+            "region_id":85681731,
+            "venue_id":1058161485
+        }
+    ],
+    "wof:id":1058161485,
+    "wof:lastmodified":1473512501,
+    "wof:name":"Defossez W",
+    "wof:parent_id":85801313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5599842072,
+    50.9437294006,
+    4.5599842072,
+    50.9437294006
+],
+  "geometry": {"coordinates":[4.5599842072,50.9437294006],"type":"Point"}
+}

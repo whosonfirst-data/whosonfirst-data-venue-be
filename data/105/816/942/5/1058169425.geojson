@@ -1,0 +1,79 @@
+{
+  "id": 1058169425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6124010086,50.6554145813,5.6124010086,50.6554145813",
+    "geom:latitude":50.655415,
+    "geom:longitude":5.612401,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Coronmeuse 8",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 11 59",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hw78cfRkRwO6LfcNL5ts4_50.655415_5.612401@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512878,
+    "wof:geomhash":"497c57ac46f5184f06e7e01b64f83f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1058169425
+        }
+    ],
+    "wof:id":1058169425,
+    "wof:lastmodified":1473512878,
+    "wof:name":"Jeukens Jean-michel",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6124010086,
+    50.6554145813,
+    5.6124010086,
+    50.6554145813
+],
+  "geometry": {"coordinates":[5.6124010086,50.6554145813],"type":"Point"}
+}

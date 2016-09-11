@@ -1,0 +1,79 @@
+{
+  "id": 1041623107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3216848373,50.8098678589,4.3216848373,50.8098678589",
+    "geom:latitude":50.809868,
+    "geom:longitude":4.321685,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Monte Carlo 40",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 06 52",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31E9lrdVUCVkI6oN3dTF4n_50.809868_4.321685@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476231,
+    "wof:geomhash":"77ce6aa257e90fc8d4c7f1342ca5d85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041623107
+        }
+    ],
+    "wof:id":1041623107,
+    "wof:lastmodified":1473476231,
+    "wof:name":"Kapri\u00e9lian C",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.3216848373,
+    50.8098678589,
+    4.3216848373,
+    50.8098678589
+],
+  "geometry": {"coordinates":[4.3216848373,50.8098678589],"type":"Point"}
+}

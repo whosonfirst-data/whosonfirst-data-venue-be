@@ -1,0 +1,88 @@
+{
+  "id": 1042017169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2189180851,51.2051239014,3.2189180851,51.2051239014",
+    "geom:latitude":51.205124,
+    "geom:longitude":3.218918,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zuidzandstraat 39",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 58 39",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709,
+        85862095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ecujA1AuVCRtlaXpgVYfC_51.205124_3.218918@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492957,
+    "wof:geomhash":"cc9b01dd35e836635fa04195c4bac680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042017169
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1042017169
+        }
+    ],
+    "wof:id":1042017169,
+    "wof:lastmodified":1473492957,
+    "wof:name":"Erik Dumalin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2189180851,
+    51.2051239014,
+    3.2189180851,
+    51.2051239014
+],
+  "geometry": {"coordinates":[3.2189180851,51.2051239014],"type":"Point"}
+}

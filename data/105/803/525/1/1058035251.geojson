@@ -1,0 +1,77 @@
+{
+  "id": 1058035251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7161428928,51.056224823,3.7161428928,51.056224823",
+    "geom:latitude":51.056225,
+    "geom:longitude":3.716143,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Burgstraat 103",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 18 31",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "feather"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gqB7OS1uyu637tSW7wPwZ_51.056225_3.716143@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506903,
+    "wof:geomhash":"59bf61060f45b5cc6ffdca0eb08bbb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058035251
+        }
+    ],
+    "wof:id":1058035251,
+    "wof:lastmodified":1473506903,
+    "wof:name":"Depape (slaapcirkel)",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feather"
+    ]
+},
+  "bbox": [
+    3.7161428928,
+    51.056224823,
+    3.7161428928,
+    51.056224823
+],
+  "geometry": {"coordinates":[3.7161428928,51.056224823],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058698757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7671968937,50.9925460815,3.7671968937,50.9925460815",
+    "geom:latitude":50.992546,
+    "geom:longitude":3.767197,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salisburylaan 36",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 252 53 77",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "signalling",
+        "yard",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bvEcZ98UxgPFyPwqzdSci_50.992546_3.767197@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537063,
+    "wof:geomhash":"8c218f065063a765cc5255c575be6293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058698757
+        }
+    ],
+    "wof:id":1058698757,
+    "wof:lastmodified":1473537063,
+    "wof:name":"De Groote Gaston Nv",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "signalling",
+        "yard",
+        "road"
+    ]
+},
+  "bbox": [
+    3.7671968937,
+    50.9925460815,
+    3.7671968937,
+    50.9925460815
+],
+  "geometry": {"coordinates":[3.7671968937,50.9925460815],"type":"Point"}
+}

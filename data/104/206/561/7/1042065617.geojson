@@ -1,0 +1,79 @@
+{
+  "id": 1042065617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4609680176,50.8273124695,4.4609680176,50.8273124695",
+    "geom:latitude":50.827312,
+    "geom:longitude":4.460968,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Van Der Meerschen 101",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 60 40",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801333,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E68VVJ5E73h159FIe3Mab_50.827312_4.460968@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494895,
+    "wof:geomhash":"5405266078c7bcfa2e9399f7b9678077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801333,
+            "region_id":85681713,
+            "venue_id":1042065617
+        }
+    ],
+    "wof:id":1042065617,
+    "wof:lastmodified":1473494895,
+    "wof:name":"Valerie",
+    "wof:parent_id":85801333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4609680176,
+    50.8273124695,
+    4.4609680176,
+    50.8273124695
+],
+  "geometry": {"coordinates":[4.4609680176,50.8273124695],"type":"Point"}
+}

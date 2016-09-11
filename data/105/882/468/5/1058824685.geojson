@@ -1,0 +1,77 @@
+{
+  "id": 1058824685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4643387794,50.8387947083,4.4643387794,50.8387947083",
+    "geom:latitude":50.838795,
+    "geom:longitude":4.464339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Orban 225",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 15 84",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801937,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZAxfgcRbZyU7QJhE4975U_50.838795_4.464339@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542640,
+    "wof:geomhash":"4a8e513b34477137a06aff4ff13e8d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801937,
+            "region_id":85681713,
+            "venue_id":1058824685
+        }
+    ],
+    "wof:id":1058824685,
+    "wof:lastmodified":1473542640,
+    "wof:name":"Aikido-union Belge U.be.a.",
+    "wof:parent_id":85801937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federation"
+    ]
+},
+  "bbox": [
+    4.4643387794,
+    50.8387947083,
+    4.4643387794,
+    50.8387947083
+],
+  "geometry": {"coordinates":[4.4643387794,50.8387947083],"type":"Point"}
+}

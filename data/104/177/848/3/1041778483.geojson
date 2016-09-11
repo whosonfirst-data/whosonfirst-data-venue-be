@@ -1,0 +1,83 @@
+{
+  "id": 1041778483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7282860279,51.0718460083,3.7282860279,51.0718460083",
+    "geom:latitude":51.071846,
+    "geom:longitude":3.728286,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Terneuzenlaan 35",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 234 00 63",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733,
+        85862051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dnvRwPJ57IS5Vd2tWm9Ri_51.071846_3.728286@1306268337"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482861,
+    "wof:geomhash":"7e74be60b37e4aa36010c5e5d62b226b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1041778483
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1041778483
+        }
+    ],
+    "wof:id":1041778483,
+    "wof:lastmodified":1473482861,
+    "wof:name":"Lahousse W",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7282860279,
+    51.0718460083,
+    3.7282860279,
+    51.0718460083
+],
+  "geometry": {"coordinates":[3.7282860279,51.0718460083],"type":"Point"}
+}

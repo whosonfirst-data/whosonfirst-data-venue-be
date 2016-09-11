@@ -1,0 +1,77 @@
+{
+  "id": 1042006823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3776068687,50.8455657959,4.3776068687,50.8455657959",
+    "geom:latitude":50.845566,
+    "geom:longitude":4.377607,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stevinstraat 54",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 36 39",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53LjFTrzFZiEtfM9fAWA8u_50.845566_4.377607@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492559,
+    "wof:geomhash":"f163c08cbc7f41099b6393cc5f8e9e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042006823
+        }
+    ],
+    "wof:id":1042006823,
+    "wof:lastmodified":1473492559,
+    "wof:name":"Caf\u00c9 Das Bierfas",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3776068687,
+    50.8455657959,
+    4.3776068687,
+    50.8455657959
+],
+  "geometry": {"coordinates":[4.3776068687,50.8455657959],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1041550701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5040860176,50.5825653076,5.5040860176,50.5825653076",
+    "geom:latitude":50.582565,
+    "geom:longitude":5.504086,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Rotheux 177",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 50 35",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LFfjMGPHb9ZkTKICU8q4C_50.582565_5.504086@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473216,
+    "wof:geomhash":"8a200443d6ac36b75e08ec58f54daf19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1041550701
+        }
+    ],
+    "wof:id":1041550701,
+    "wof:lastmodified":1473473216,
+    "wof:name":"Henrion R",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.5040860176,
+    50.5825653076,
+    5.5040860176,
+    50.5825653076
+],
+  "geometry": {"coordinates":[5.5040860176,50.5825653076],"type":"Point"}
+}

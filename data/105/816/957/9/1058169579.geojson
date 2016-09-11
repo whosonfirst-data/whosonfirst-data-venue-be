@@ -1,0 +1,79 @@
+{
+  "id": 1058169579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6560788155,50.6700553894,5.6560788155,50.6700553894",
+    "geom:latitude":50.670055,
+    "geom:longitude":5.656079,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Trixhay 15",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 37 31",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10BXgVa1NAKn1rcEK5eRC6_50.670055_5.656079@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512888,
+    "wof:geomhash":"ac16e440683a251d238122aacabc26c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058169579
+        }
+    ],
+    "wof:id":1058169579,
+    "wof:lastmodified":1473512888,
+    "wof:name":"Joris M",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6560788155,
+    50.6700553894,
+    5.6560788155,
+    50.6700553894
+],
+  "geometry": {"coordinates":[5.6560788155,50.6700553894],"type":"Point"}
+}

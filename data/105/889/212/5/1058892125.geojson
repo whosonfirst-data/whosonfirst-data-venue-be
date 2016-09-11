@@ -1,0 +1,79 @@
+{
+  "id": 1058892125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3589148521,50.7938308716,4.3589148521,50.7938308716",
+    "geom:latitude":50.793831,
+    "geom:longitude":4.358915,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La P\u00eacherie 77",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 37 74",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yrj6gzXam6W99IGG6sSdJ_50.793831_4.358915@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545558,
+    "wof:geomhash":"07f4e7fc587fe04b0c70454f722d8c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058892125
+        }
+    ],
+    "wof:id":1058892125,
+    "wof:lastmodified":1473545558,
+    "wof:name":"International Transit Sa",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3589148521,
+    50.7938308716,
+    4.3589148521,
+    50.7938308716
+],
+  "geometry": {"coordinates":[4.3589148521,50.7938308716],"type":"Point"}
+}

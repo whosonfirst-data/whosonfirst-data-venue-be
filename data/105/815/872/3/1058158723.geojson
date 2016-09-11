@@ -1,0 +1,79 @@
+{
+  "id": 1058158723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6882810593,50.6188430786,5.6882810593,50.6188430786",
+    "geom:latitude":50.618843,
+    "geom:longitude":5.688281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr\u00e8ve Du Ch\u00e2teau 5",
+    "sg:city":"Fl\u00e9ron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 358 53 48",
+    "sg:postcode":"4620",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801143,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LjhPyyk3KhLdf1S9pfffs_50.618843_5.688281@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512386,
+    "wof:geomhash":"7800efaf048a5ac701b1770c424c7f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801143,
+            "region_id":85681691,
+            "venue_id":1058158723
+        }
+    ],
+    "wof:id":1058158723,
+    "wof:lastmodified":1473512386,
+    "wof:name":"Cuypers Charles",
+    "wof:parent_id":85801143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6882810593,
+    50.6188430786,
+    5.6882810593,
+    50.6188430786
+],
+  "geometry": {"coordinates":[5.6882810593,50.6188430786],"type":"Point"}
+}

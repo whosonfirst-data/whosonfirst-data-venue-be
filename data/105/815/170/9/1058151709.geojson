@@ -1,0 +1,94 @@
+{
+  "id": 1058151709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3858160973,50.8997039795,4.3858160973,50.8997039795",
+    "geom:latitude":50.899704,
+    "geom:longitude":4.385816,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Wimpelberg 197",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 41 13",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "handicapped",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801659,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K4Q1BbivGbX1GOAfgaX7b_50.899704_4.385816@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512069,
+    "wof:geomhash":"34305fe61a81ffe74332d23d1980674d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1058151709
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801659,
+            "region_id":85681731,
+            "venue_id":1058151709
+        }
+    ],
+    "wof:id":1058151709,
+    "wof:lastmodified":1473512069,
+    "wof:name":"Potelier (le) Asbl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3858160973,
+    50.8997039795,
+    4.3858160973,
+    50.8997039795
+],
+  "geometry": {"coordinates":[4.3858160973,50.8997039795],"type":"Point"}
+}

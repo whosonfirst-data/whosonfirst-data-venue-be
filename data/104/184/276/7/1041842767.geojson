@@ -1,0 +1,85 @@
+{
+  "id": 1041842767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5146560669,50.6078796387,5.5146560669,50.6078796387",
+    "geom:latitude":50.60788,
+    "geom:longitude":5.514656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Charbonnage 1",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 63 68",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile",
+        "product",
+        "-",
+        "cleaning",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50gN3eQLkf4cvJ1A4onGjn_50.607880_5.514656@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485500,
+    "wof:geomhash":"2d5c76e05925e13d93e3ca28a4b0575a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1041842767
+        }
+    ],
+    "wof:id":1041842767,
+    "wof:lastmodified":1473485500,
+    "wof:name":"Carwash Hydronet",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "product",
+        "-",
+        "cleaning",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    5.5146560669,
+    50.6078796387,
+    5.5146560669,
+    50.6078796387
+],
+  "geometry": {"coordinates":[5.5146560669,50.6078796387],"type":"Point"}
+}

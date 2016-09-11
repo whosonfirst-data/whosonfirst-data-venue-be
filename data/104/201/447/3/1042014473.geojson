@@ -1,0 +1,77 @@
+{
+  "id": 1042014473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3450160027,50.8636054993,4.3450160027,50.8636054993",
+    "geom:latitude":50.863605,
+    "geom:longitude":4.345016,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Picard 74",
+    "sg:city":"Sint-jans-molenbeek/molenbeek-saint-jean",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 72 72",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSkDbv9IaJ9SejGMuFB9L_50.863605_4.345016@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492853,
+    "wof:geomhash":"f03b99f080ffe2ba63b0b4d8ee7519a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042014473
+        }
+    ],
+    "wof:id":1042014473,
+    "wof:lastmodified":1473492853,
+    "wof:name":"Caf\u00c9 Welcom",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3450160027,
+    50.8636054993,
+    4.3450160027,
+    50.8636054993
+],
+  "geometry": {"coordinates":[4.3450160027,50.8636054993],"type":"Point"}
+}

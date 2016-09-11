@@ -1,0 +1,77 @@
+{
+  "id": 1041568377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.344976902,50.8424453735,4.344976902,50.8424453735",
+    "geom:latitude":50.842445,
+    "geom:longitude":4.344977,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Stalingrad 13",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 32 14",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Eu4i2la6USx4JoPl8X3RP_50.842445_4.344977@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473976,
+    "wof:geomhash":"de1b534b02a3971b621a83631910e4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041568377
+        }
+    ],
+    "wof:id":1041568377,
+    "wof:lastmodified":1473473976,
+    "wof:name":"Pharmacie De La Place Rouppe",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.344976902,
+    50.8424453735,
+    4.344976902,
+    50.8424453735
+],
+  "geometry": {"coordinates":[4.344976902,50.8424453735],"type":"Point"}
+}

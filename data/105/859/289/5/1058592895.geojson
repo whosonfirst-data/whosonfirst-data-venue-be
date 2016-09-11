@@ -1,0 +1,77 @@
+{
+  "id": 1058592895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2930550575,50.8243904114,4.2930550575,50.8243904114",
+    "geom:latitude":50.82439,
+    "geom:longitude":4.293055,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Frans Hals 15",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 497 68 70 70",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QHLt4F8T3X6kWGxaA2BK1_50.824390_4.293055@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532311,
+    "wof:geomhash":"9dc4796bb28de1b414986e77e5970b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1058592895
+        }
+    ],
+    "wof:id":1058592895,
+    "wof:lastmodified":1473532311,
+    "wof:name":"A. Sanilanc",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.2930550575,
+    50.8243904114,
+    4.2930550575,
+    50.8243904114
+],
+  "geometry": {"coordinates":[4.2930550575,50.8243904114],"type":"Point"}
+}

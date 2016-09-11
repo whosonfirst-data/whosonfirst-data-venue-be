@@ -1,0 +1,73 @@
+{
+  "id": 1041878607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8225209713,51.2000770569,3.8225209713,51.2000770569",
+    "geom:latitude":51.200077,
+    "geom:longitude":3.822521,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boekweitstraat 2",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 345 65 50",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "baker",
+        "-",
+        "ingredient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bU9zparnEMApaHn3vXN7R_51.200077_3.822521@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487011,
+    "wof:geomhash":"41749f3e2a3425070408aba3d48bfd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1041878607
+        }
+    ],
+    "wof:id":1041878607,
+    "wof:lastmodified":1473487011,
+    "wof:name":"De Saer",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "-",
+        "ingredient"
+    ]
+},
+  "bbox": [
+    3.8225209713,
+    51.2000770569,
+    3.8225209713,
+    51.2000770569
+],
+  "geometry": {"coordinates":[3.8225209713,51.2000770569],"type":"Point"}
+}

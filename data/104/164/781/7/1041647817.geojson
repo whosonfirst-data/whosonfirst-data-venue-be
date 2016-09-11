@@ -1,0 +1,77 @@
+{
+  "id": 1041647817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3883771896,50.8335990906,4.3883771896,50.8335990906",
+    "geom:latitude":50.833599,
+    "geom:longitude":4.388377,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'auderghem 225",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 646 25 05",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QG4Xoo2JP6kJlTjzbaABN_50.833599_4.388377@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477262,
+    "wof:geomhash":"dbdd5093e1acf8d8918907116863044e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041647817
+        }
+    ],
+    "wof:id":1041647817,
+    "wof:lastmodified":1473477262,
+    "wof:name":"Mondial Sani",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3883771896,
+    50.8335990906,
+    4.3883771896,
+    50.8335990906
+],
+  "geometry": {"coordinates":[4.3883771896,50.8335990906],"type":"Point"}
+}

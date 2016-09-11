@@ -1,0 +1,77 @@
+{
+  "id": 1041963221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3262190819,50.8717002869,4.3262190819,50.8717002869",
+    "geom:latitude":50.8717,
+    "geom:longitude":4.326219,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 603 Box 2",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 59 39",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nYgdyIC7D2fWvGSrKs2I8_50.871700_4.326219@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490639,
+    "wof:geomhash":"defe51321fdc6b65225a5ddd8920ed47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041963221
+        }
+    ],
+    "wof:id":1041963221,
+    "wof:lastmodified":1473490639,
+    "wof:name":"Cofinco Fiduciaire Scprl",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.3262190819,
+    50.8717002869,
+    4.3262190819,
+    50.8717002869
+],
+  "geometry": {"coordinates":[4.3262190819,50.8717002869],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1042001149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5726699829,50.6431694031,5.5726699829,50.6431694031",
+    "geom:latitude":50.643169,
+    "geom:longitude":5.57267,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"41",
+    "sg:city":"Place De La Republique-francaise 4000 Li\u00e8ge",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 230 33 33",
+    "sg:postcode":"41",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oKRINNly2Q96msax3WkyV_50.643169_5.572670@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492354,
+    "wof:geomhash":"4525ed62030e61d76c89644f3300200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042001149
+        }
+    ],
+    "wof:id":1042001149,
+    "wof:lastmodified":1473492354,
+    "wof:name":"Societe Hoteliere Opera Sa",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5726699829,
+    50.6431694031,
+    5.5726699829,
+    50.6431694031
+],
+  "geometry": {"coordinates":[5.5726699829,50.6431694031],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042204965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4244089127,51.2112960815,4.4244089127,51.2112960815",
+    "geom:latitude":51.211296,
+    "geom:longitude":4.424409,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wipstraat 32 Box 33",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 90 68 90",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KLWAowgNEyQapSHXtBvNR_51.211296_4.424409@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502218,
+    "wof:geomhash":"95b644097546abb3faee2fc5c060832d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042204965
+        }
+    ],
+    "wof:id":1042204965,
+    "wof:lastmodified":1473502218,
+    "wof:name":"Dennis",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4244089127,
+    51.2112960815,
+    4.4244089127,
+    51.2112960815
+],
+  "geometry": {"coordinates":[4.4244089127,51.2112960815],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041592855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.679872036,51.0354042053,3.679872036,51.0354042053",
+    "geom:latitude":51.035404,
+    "geom:longitude":3.679872,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Afsneesedijkweg 5",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 61 81",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B4XsMxTC1gJ2pe8vyr0kb_51.035404_3.679872@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475001,
+    "wof:geomhash":"d4546a0462dbc40221d4af38d090275a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1041592855
+        }
+    ],
+    "wof:id":1041592855,
+    "wof:lastmodified":1473475001,
+    "wof:name":"Van Hove L",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    3.679872036,
+    51.0354042053,
+    3.679872036,
+    51.0354042053
+],
+  "geometry": {"coordinates":[3.679872036,51.0354042053],"type":"Point"}
+}

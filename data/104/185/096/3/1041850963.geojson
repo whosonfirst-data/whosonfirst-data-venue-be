@@ -1,0 +1,85 @@
+{
+  "id": 1041850963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6808679104,51.0954742432,3.6808679104,51.0954742432",
+    "geom:latitude":51.095474,
+    "geom:longitude":3.680868,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Durmakker 47",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 258 17 43",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "washing",
+        "truck",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E4l1jJrsAK15Pe2G5k2W3_51.095474_3.680868@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485848,
+    "wof:geomhash":"25f3eb26fbe1941c36eb2bfa99c53cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1041850963
+        }
+    ],
+    "wof:id":1041850963,
+    "wof:lastmodified":1473485848,
+    "wof:name":"Autowas Techniek Flandria",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "washing",
+        "truck",
+        "equipment"
+    ]
+},
+  "bbox": [
+    3.6808679104,
+    51.0954742432,
+    3.6808679104,
+    51.0954742432
+],
+  "geometry": {"coordinates":[3.6808679104,51.0954742432],"type":"Point"}
+}

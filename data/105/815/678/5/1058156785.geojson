@@ -1,0 +1,79 @@
+{
+  "id": 1058156785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.38545084,50.9338760376,4.38545084,50.9338760376",
+    "geom:latitude":50.933876,
+    "geom:longitude":4.385451,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Priesterlindestraat 21",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 01 76",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439oxEY8238Tm6FCDGP3oH_50.933876_4.385451@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512300,
+    "wof:geomhash":"f9c7aa3010fde63d7df9be461b6fe7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058156785
+        }
+    ],
+    "wof:id":1058156785,
+    "wof:lastmodified":1473512300,
+    "wof:name":"Callens M",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.38545084,
+    50.9338760376,
+    4.38545084,
+    50.9338760376
+],
+  "geometry": {"coordinates":[4.38545084,50.9338760376],"type":"Point"}
+}

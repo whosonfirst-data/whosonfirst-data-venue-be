@@ -1,0 +1,88 @@
+{
+  "id": 1041982577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4111452103,50.840221405,4.4111452103,50.840221405",
+    "geom:latitude":50.840221,
+    "geom:longitude":4.411145,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-lambert 20",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 03 37",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kvV26RDwVF37Xm0xCq3yo_50.840221_4.411145@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491610,
+    "wof:geomhash":"e8cc1496176c991737e2268f53d9725d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1041982577
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041982577
+        }
+    ],
+    "wof:id":1041982577,
+    "wof:lastmodified":1473491610,
+    "wof:name":"Bam Boo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.4111452103,
+    50.840221405,
+    4.4111452103,
+    50.840221405
+],
+  "geometry": {"coordinates":[4.4111452103,50.840221405],"type":"Point"}
+}

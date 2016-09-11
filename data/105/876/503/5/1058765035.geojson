@@ -1,0 +1,66 @@
+{
+  "id": 1058765035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5760259628,50.5642852783,5.5760259628,50.5642852783",
+    "geom:latitude":50.564285,
+    "geom:longitude":5.576026,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Ardennes 8",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 34 42",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oWktxeJqtaXOR3Ivoz2b1_50.564285_5.576026@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539997,
+    "wof:geomhash":"fb2dc0655694a95961829ffae266c1c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058765035
+        }
+    ],
+    "wof:id":1058765035,
+    "wof:lastmodified":1473539997,
+    "wof:name":"Shell",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5760259628,
+    50.5642852783,
+    5.5760259628,
+    50.5642852783
+],
+  "geometry": {"coordinates":[5.5760259628,50.5642852783],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042195589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7252619267,51.041934967,3.7252619267,51.041934967",
+    "geom:latitude":51.041935,
+    "geom:longitude":3.725262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-pietersplein 44",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 244 55 55",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QIGRieqG4LMa0pHziYczf_51.041935_3.725262@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501659,
+    "wof:geomhash":"37411b413a65e87aa4b6083de4fc2cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1042195589
+        }
+    ],
+    "wof:id":1042195589,
+    "wof:lastmodified":1473501659,
+    "wof:name":"Campus Studiebegeleiding",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "private"
+    ]
+},
+  "bbox": [
+    3.7252619267,
+    51.041934967,
+    3.7252619267,
+    51.041934967
+],
+  "geometry": {"coordinates":[3.7252619267,51.041934967],"type":"Point"}
+}

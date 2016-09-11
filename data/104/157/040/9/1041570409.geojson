@@ -1,0 +1,81 @@
+{
+  "id": 1041570409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3126311302,50.9042129517,4.3126311302,50.9042129517",
+    "geom:latitude":50.904213,
+    "geom:longitude":4.312631,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Lieutenant Graff 6-8",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 48 32",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SFPo2YqFLivDQxpmV2a63_50.904213_4.312631@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474061,
+    "wof:geomhash":"f8b21568762afcb92f202f6dd45b0094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1041570409
+        }
+    ],
+    "wof:id":1041570409,
+    "wof:lastmodified":1473474061,
+    "wof:name":"Naturel",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3126311302,
+    50.9042129517,
+    4.3126311302,
+    50.9042129517
+],
+  "geometry": {"coordinates":[4.3126311302,50.9042129517],"type":"Point"}
+}

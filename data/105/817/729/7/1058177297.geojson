@@ -1,0 +1,94 @@
+{
+  "id": 1058177297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4443712234,50.8398208618,4.4443712234,50.8398208618",
+    "geom:latitude":50.839821,
+    "geom:longitude":4.444371,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Bleuet 48",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 477 40 59 80",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801589,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ppc0NpQSfrHUcPJFV1lKM_50.839821_4.444371@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513216,
+    "wof:geomhash":"5e29adf187b9745e482d3265f519244f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801589,
+            "region_id":85681713,
+            "venue_id":1058177297
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1058177297
+        }
+    ],
+    "wof:id":1058177297,
+    "wof:lastmodified":1473513216,
+    "wof:name":"Schroeder F",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4443712234,
+    50.8398208618,
+    4.4443712234,
+    50.8398208618
+],
+  "geometry": {"coordinates":[4.4443712234,50.8398208618],"type":"Point"}
+}

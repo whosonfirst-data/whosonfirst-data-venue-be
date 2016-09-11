@@ -1,0 +1,79 @@
+{
+  "id": 1058279683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4475989342,50.8313713074,4.4475989342,50.8313713074",
+    "geom:latitude":50.831371,
+    "geom:longitude":4.447599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Mareyde 29",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 26 19",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801589,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gzHouizic7c5LkKmu0BAG_50.831371_4.447599@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517680,
+    "wof:geomhash":"3b092d604e56280d2c3a9f4727d7153f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801589,
+            "region_id":85681713,
+            "venue_id":1058279683
+        }
+    ],
+    "wof:id":1058279683,
+    "wof:lastmodified":1473517680,
+    "wof:name":"Propel Decoration",
+    "wof:parent_id":85801589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    4.4475989342,
+    50.8313713074,
+    4.4475989342,
+    50.8313713074
+],
+  "geometry": {"coordinates":[4.4475989342,50.8313713074],"type":"Point"}
+}

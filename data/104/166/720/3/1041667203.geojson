@@ -1,0 +1,79 @@
+{
+  "id": 1041667203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4169020653,51.2227134705,4.4169020653,51.2227134705",
+    "geom:latitude":51.222713,
+    "geom:longitude":4.416902,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Goudbloemstraat 8 Box 2",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 226 48 21",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "fixture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aaLIMYygKJZCdrtrmcBBz_51.222713_4.416902@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478021,
+    "wof:geomhash":"3233d4a9f1b6b7d66a5be61ef9147d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041667203
+        }
+    ],
+    "wof:id":1041667203,
+    "wof:lastmodified":1473478021,
+    "wof:name":"Interieurstudio T Van Oort",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    4.4169020653,
+    51.2227134705,
+    4.4169020653,
+    51.2227134705
+],
+  "geometry": {"coordinates":[4.4169020653,51.2227134705],"type":"Point"}
+}

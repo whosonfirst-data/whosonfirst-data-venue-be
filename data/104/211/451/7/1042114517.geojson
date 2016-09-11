@@ -1,0 +1,83 @@
+{
+  "id": 1042114517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6819400787,51.0751838684,3.6819400787,51.0751838684",
+    "geom:latitude":51.075184,
+    "geom:longitude":3.68194,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"G\u00e9rard Willemotlaan 87",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 65 88",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oJrZy8TWyIJFfRJnR1tKR_51.075184_3.681940@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497072,
+    "wof:geomhash":"4235dee049568b170b466941f28058fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042114517
+        }
+    ],
+    "wof:id":1042114517,
+    "wof:lastmodified":1473497072,
+    "wof:name":"Certify",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    3.6819400787,
+    51.0751838684,
+    3.6819400787,
+    51.0751838684
+],
+  "geometry": {"coordinates":[3.6819400787,51.0751838684],"type":"Point"}
+}

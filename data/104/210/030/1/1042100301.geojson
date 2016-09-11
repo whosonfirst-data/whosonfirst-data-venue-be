@@ -1,0 +1,81 @@
+{
+  "id": 1042100301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5156931877,51.2791862488,4.5156931877,51.2791862488",
+    "geom:latitude":51.279186,
+    "geom:longitude":4.515693,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spoorwegbaan 8",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 653 18 42",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "curtain",
+        "-",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801969,
+        102191581,
+        85632997,
+        404227357,
+        101754397,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UeBoXgna5iYskAf4lGMcg_51.279186_4.515693@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496408,
+    "wof:geomhash":"ad7a53fa11767af1e10717ef8fe6c7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101754397,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801969,
+            "region_id":85681715,
+            "venue_id":1042100301
+        }
+    ],
+    "wof:id":1042100301,
+    "wof:lastmodified":1473496408,
+    "wof:name":"Josee Konfektie Bvba",
+    "wof:parent_id":85801969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "-",
+        "fixture"
+    ]
+},
+  "bbox": [
+    4.5156931877,
+    51.2791862488,
+    4.5156931877,
+    51.2791862488
+],
+  "geometry": {"coordinates":[4.5156931877,51.2791862488],"type":"Point"}
+}

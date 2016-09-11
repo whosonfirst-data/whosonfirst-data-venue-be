@@ -1,0 +1,81 @@
+{
+  "id": 1058701229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5859727859,50.6213951111,5.5859727859,50.6213951111",
+    "geom:latitude":50.621395,
+    "geom:longitude":5.585973,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Paris 19",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 06 29",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "rental",
+        "-",
+        "furnished"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iY6nawErqp5gpyIyMfvGL_50.621395_5.585973@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537168,
+    "wof:geomhash":"9cfeb9120b14a41057fa6c56c19e3e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058701229
+        }
+    ],
+    "wof:id":1058701229,
+    "wof:lastmodified":1473537168,
+    "wof:name":"Printemps (le)",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "furnished"
+    ]
+},
+  "bbox": [
+    5.5859727859,
+    50.6213951111,
+    5.5859727859,
+    50.6213951111
+],
+  "geometry": {"coordinates":[5.5859727859,50.6213951111],"type":"Point"}
+}

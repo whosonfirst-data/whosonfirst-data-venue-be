@@ -1,0 +1,77 @@
+{
+  "id": 1058112903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3478660583,50.8734359741,4.3478660583,50.8734359741",
+    "geom:latitude":50.873436,
+    "geom:longitude":4.347866,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gustave Demanet 55-59",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 45 68",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "glazier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rC22gF5j20K0TyKIV9wXx_50.873436_4.347866@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510133,
+    "wof:geomhash":"67d3cf7c5755f9209525fe13c2e30dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058112903
+        }
+    ],
+    "wof:id":1058112903,
+    "wof:lastmodified":1473510133,
+    "wof:name":"Engetravi",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glazier"
+    ]
+},
+  "bbox": [
+    4.3478660583,
+    50.8734359741,
+    4.3478660583,
+    50.8734359741
+],
+  "geometry": {"coordinates":[4.3478660583,50.8734359741],"type":"Point"}
+}

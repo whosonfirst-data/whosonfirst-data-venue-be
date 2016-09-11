@@ -1,0 +1,77 @@
+{
+  "id": 1042199119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5608592033,50.6456832886,5.5608592033,50.6456832886",
+    "geom:latitude":50.645683,
+    "geom:longitude":5.560859,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-marguerite 64",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 36 25",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kc8CWGjaj12Vkd4eLr1ax_50.645683_5.560859@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501902,
+    "wof:geomhash":"835be4dca1cd6903e649b45571ffa2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042199119
+        }
+    ],
+    "wof:id":1042199119,
+    "wof:lastmodified":1473501902,
+    "wof:name":"Institut St-joseph",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    5.5608592033,
+    50.6456832886,
+    5.5608592033,
+    50.6456832886
+],
+  "geometry": {"coordinates":[5.5608592033,50.6456832886],"type":"Point"}
+}

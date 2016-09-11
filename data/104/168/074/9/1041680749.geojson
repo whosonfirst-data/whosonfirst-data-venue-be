@@ -1,0 +1,81 @@
+{
+  "id": 1041680749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4005842209,51.2078857422,4.4005842209,51.2078857422",
+    "geom:latitude":51.207886,
+    "geom:longitude":4.400584,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amerikalei 37",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 238 48 84",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yAaLTZhBv70Tx1SObuVle_51.207886_4.400584@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478547,
+    "wof:geomhash":"be908018715826b2fe9e2ecd20014ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041680749
+        }
+    ],
+    "wof:id":1041680749,
+    "wof:lastmodified":1473478547,
+    "wof:name":"Bourgogne Wijnen Bvba",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    4.4005842209,
+    51.2078857422,
+    4.4005842209,
+    51.2078857422
+],
+  "geometry": {"coordinates":[4.4005842209,51.2078857422],"type":"Point"}
+}

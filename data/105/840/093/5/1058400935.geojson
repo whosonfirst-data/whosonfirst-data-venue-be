@@ -1,0 +1,77 @@
+{
+  "id": 1058400935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3733439445,50.8301200867,4.3733439445,50.8301200867",
+    "geom:latitude":50.83012,
+    "geom:longitude":4.373344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Malibran 43",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 31 75",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YxApO8fCGq2Y57BGfpFSO_50.830120_4.373344@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523283,
+    "wof:geomhash":"8b24da220f33317a0595dbdaffaf8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058400935
+        }
+    ],
+    "wof:id":1058400935,
+    "wof:lastmodified":1473523283,
+    "wof:name":"Polyclinique Malibran Asbl",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3733439445,
+    50.8301200867,
+    4.3733439445,
+    50.8301200867
+],
+  "geometry": {"coordinates":[4.3733439445,50.8301200867],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042175885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4110479355,51.2217788696,4.4110479355,51.2217788696",
+    "geom:latitude":51.221779,
+    "geom:longitude":4.411048,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinsesstraat 15",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 234 97 64",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "double",
+        "glazing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PI6dvQ3KZe7MC4aVTnGbP_51.221779_4.411048@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500468,
+    "wof:geomhash":"7f88e3355293a5942f4cfb435802639b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042175885
+        }
+    ],
+    "wof:id":1042175885,
+    "wof:lastmodified":1473500468,
+    "wof:name":"Peeters Bvba",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "double",
+        "glazing"
+    ]
+},
+  "bbox": [
+    4.4110479355,
+    51.2217788696,
+    4.4110479355,
+    51.2217788696
+],
+  "geometry": {"coordinates":[4.4110479355,51.2217788696],"type":"Point"}
+}

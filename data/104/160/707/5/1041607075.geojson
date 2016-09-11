@@ -1,0 +1,85 @@
+{
+  "id": 1041607075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3738431931,50.8558540344,4.3738431931,50.8558540344",
+    "geom:latitude":50.855854,
+    "geom:longitude":4.373843,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Potag\u00e8re 156",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 71 62",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M5YbBGWjWLVQAZAT8L2YY_50.855854_4.373843@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475594,
+    "wof:geomhash":"3765122e86ac7604e180c4c04b438fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1041607075
+        }
+    ],
+    "wof:id":1041607075,
+    "wof:lastmodified":1473475594,
+    "wof:name":"Greco G",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3738431931,
+    50.8558540344,
+    4.3738431931,
+    50.8558540344
+],
+  "geometry": {"coordinates":[4.3738431931,50.8558540344],"type":"Point"}
+}

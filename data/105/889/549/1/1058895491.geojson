@@ -1,0 +1,79 @@
+{
+  "id": 1058895491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.400539875,50.8679084778,4.400539875,50.8679084778",
+    "geom:latitude":50.867908,
+    "geom:longitude":4.40054,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Auguste De Boeck 66",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 22 22",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5etu7PjMM7MEIBq1MfA1Hd_50.867908_4.400540@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545693,
+    "wof:geomhash":"f483339b6c0ad6b9b25b0ec024fc1b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058895491
+        }
+    ],
+    "wof:id":1058895491,
+    "wof:lastmodified":1473545693,
+    "wof:name":"Paris France Porteur Sprl",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.400539875,
+    50.8679084778,
+    4.400539875,
+    50.8679084778
+],
+  "geometry": {"coordinates":[4.400539875,50.8679084778],"type":"Point"}
+}

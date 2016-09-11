@@ -1,0 +1,77 @@
+{
+  "id": 1042210181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6353240013,50.6433906555,5.6353240013,50.6433906555",
+    "geom:latitude":50.643391,
+    "geom:longitude":5.635324,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Argili\u00e8res 20",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 40 96",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801339,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uILUy6maPKRNJxR8yuzzq_50.643391_5.635324@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502433,
+    "wof:geomhash":"980c632dcd133b2323152aaf65d2a9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801339,
+            "region_id":85681691,
+            "venue_id":1042210181
+        }
+    ],
+    "wof:id":1042210181,
+    "wof:lastmodified":1473502433,
+    "wof:name":"Hannon",
+    "wof:parent_id":85801339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating"
+    ]
+},
+  "bbox": [
+    5.6353240013,
+    50.6433906555,
+    5.6353240013,
+    50.6433906555
+],
+  "geometry": {"coordinates":[5.6353240013,50.6433906555],"type":"Point"}
+}

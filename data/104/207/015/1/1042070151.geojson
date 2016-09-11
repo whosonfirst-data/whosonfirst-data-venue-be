@@ -1,0 +1,81 @@
+{
+  "id": 1042070151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5663261414,50.6263084412,5.5663261414,50.6263084412",
+    "geom:latitude":50.626308,
+    "geom:longitude":5.566326,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Guillemins 89",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 15 03",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "clothing",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EPsjGXsFy3drw66jSVG5O_50.626308_5.566326@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495080,
+    "wof:geomhash":"298961ec117f7df1a0aa44cb09cc79c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1042070151
+        }
+    ],
+    "wof:id":1042070151,
+    "wof:lastmodified":1473495080,
+    "wof:name":"Kate Boutique",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "clothing",
+        "child"
+    ]
+},
+  "bbox": [
+    5.5663261414,
+    50.6263084412,
+    5.5663261414,
+    50.6263084412
+],
+  "geometry": {"coordinates":[5.5663261414,50.6263084412],"type":"Point"}
+}

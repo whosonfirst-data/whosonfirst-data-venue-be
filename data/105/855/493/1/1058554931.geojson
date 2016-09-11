@@ -1,0 +1,77 @@
+{
+  "id": 1058554931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6937398911,51.0558013916,3.6937398911,51.0558013916",
+    "geom:latitude":51.055801,
+    "geom:longitude":3.69374,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drongensesteenweg 211",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 30 26",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862083,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fcPH9WNIkSV2AJSQAsxFV_51.055801_3.693740@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530580,
+    "wof:geomhash":"f3491d948cd73d7bc210f953e22c51c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862083,
+            "region_id":85681733,
+            "venue_id":1058554931
+        }
+    ],
+    "wof:id":1058554931,
+    "wof:lastmodified":1473530580,
+    "wof:name":"Deschamps Daan",
+    "wof:parent_id":85862083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.6937398911,
+    51.0558013916,
+    3.6937398911,
+    51.0558013916
+],
+  "geometry": {"coordinates":[3.6937398911,51.0558013916],"type":"Point"}
+}

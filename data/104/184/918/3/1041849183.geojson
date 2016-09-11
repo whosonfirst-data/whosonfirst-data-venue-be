@@ -1,0 +1,77 @@
+{
+  "id": 1041849183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4839468002,51.3052978516,4.4839468002,51.3052978516",
+    "geom:latitude":51.305298,
+    "geom:longitude":4.483947,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waterstraat",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 651 73 80",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gn9D3wazNaTmgY0HmbWYQ_51.305298_4.483947@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485770,
+    "wof:geomhash":"4cb1a7d829303bc5013c4045751e646d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1041849183
+        }
+    ],
+    "wof:id":1041849183,
+    "wof:lastmodified":1473485770,
+    "wof:name":"De Vinck T",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.4839468002,
+    51.3052978516,
+    4.4839468002,
+    51.3052978516
+],
+  "geometry": {"coordinates":[4.4839468002,51.3052978516],"type":"Point"}
+}

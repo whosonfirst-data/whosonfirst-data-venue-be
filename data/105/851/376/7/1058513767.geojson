@@ -1,0 +1,79 @@
+{
+  "id": 1058513767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4266400337,50.9030418396,4.4266400337,50.9030418396",
+    "geom:latitude":50.903042,
+    "geom:longitude":4.42664,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenweg Buda 62",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 22 70",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_686uz4QKaUZedstw7dKkot_50.903042_4.426640@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528719,
+    "wof:geomhash":"a713816a379c12c30db985beeb9b9370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1058513767
+        }
+    ],
+    "wof:id":1058513767,
+    "wof:lastmodified":1473528719,
+    "wof:name":"Motquin A",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4266400337,
+    50.9030418396,
+    4.4266400337,
+    50.9030418396
+],
+  "geometry": {"coordinates":[4.4266400337,50.9030418396],"type":"Point"}
+}

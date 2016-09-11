@@ -1,0 +1,81 @@
+{
+  "id": 1041547987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6859679222,51.0281105042,3.6859679222,51.0281105042",
+    "geom:latitude":51.028111,
+    "geom:longitude":3.685968,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poortakkerstraat 47",
+    "sg:city":"Gent (sint-denijs-westrem - Afsnee)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 05 84",
+    "sg:postcode":"9051",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5e9YRYFxiG2OPH6JtW8f_51.028111_3.685968@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473111,
+    "wof:geomhash":"d3382348f5e9c69499c25c6db3f692a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1041547987
+        }
+    ],
+    "wof:id":1041547987,
+    "wof:lastmodified":1473473111,
+    "wof:name":"Van Troos",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    3.6859679222,
+    51.0281105042,
+    3.6859679222,
+    51.0281105042
+],
+  "geometry": {"coordinates":[3.6859679222,51.0281105042],"type":"Point"}
+}

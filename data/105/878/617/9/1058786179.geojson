@@ -1,0 +1,77 @@
+{
+  "id": 1058786179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3281168938,50.8492698669,4.3281168938,50.8492698669",
+    "geom:latitude":50.84927,
+    "geom:longitude":4.328117,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Ninove 106",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 49 13",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V2pnu2HMur0ghWEYPyLwe_50.849270_4.328117@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540921,
+    "wof:geomhash":"8023d97b44f2d31e6d5a94dc02d29369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058786179
+        }
+    ],
+    "wof:id":1058786179,
+    "wof:lastmodified":1473540921,
+    "wof:name":"Anatolie Sprl",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.3281168938,
+    50.8492698669,
+    4.3281168938,
+    50.8492698669
+],
+  "geometry": {"coordinates":[4.3281168938,50.8492698669],"type":"Point"}
+}

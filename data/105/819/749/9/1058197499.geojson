@@ -1,0 +1,77 @@
+{
+  "id": 1058197499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7342579365,51.0572471619,3.7342579365,51.0572471619",
+    "geom:latitude":51.057247,
+    "geom:longitude":3.734258,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keizer Leopoldstraat 5",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 81 21 71",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hK6PoKiEdLfIx3DzKmUZR_51.057247_3.734258@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514093,
+    "wof:geomhash":"6d6e88b4a43cbd4fb966723ca74ed653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058197499
+        }
+    ],
+    "wof:id":1058197499,
+    "wof:lastmodified":1473514093,
+    "wof:name":"De Can Yann Bvba",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    3.7342579365,
+    51.0572471619,
+    3.7342579365,
+    51.0572471619
+],
+  "geometry": {"coordinates":[3.7342579365,51.0572471619],"type":"Point"}
+}

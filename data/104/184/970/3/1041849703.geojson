@@ -1,0 +1,77 @@
+{
+  "id": 1041849703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3205652237,50.8186912537,4.3205652237,50.8186912537",
+    "geom:latitude":50.818691,
+    "geom:longitude":4.320565,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-denis 148",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 78 31",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801379,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b9NiYIvKMA2mlO15y3Jxe_50.818691_4.320565@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485794,
+    "wof:geomhash":"dd34d19bf6026d15b93ee1aae03dad9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801379,
+            "region_id":85681713,
+            "venue_id":1041849703
+        }
+    ],
+    "wof:id":1041849703,
+    "wof:lastmodified":1473485794,
+    "wof:name":"Herr J & Partners",
+    "wof:parent_id":85801379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.3205652237,
+    50.8186912537,
+    4.3205652237,
+    50.8186912537
+],
+  "geometry": {"coordinates":[4.3205652237,50.8186912537],"type":"Point"}
+}

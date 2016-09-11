@@ -1,0 +1,87 @@
+{
+  "id": 1042068327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3982591629,50.8415222168,4.3982591629,50.8415222168",
+    "geom:latitude":50.841522,
+    "geom:longitude":4.398259,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D'oultremont 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 49 77",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "shop",
+        "plants",
+        "technical",
+        "factory",
+        "machine",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XNfNyIlL7RB7qXdYSjc6X_50.841522_4.398259@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495009,
+    "wof:geomhash":"a72dea02d0be72f29438e61fa18975d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042068327
+        }
+    ],
+    "wof:id":1042068327,
+    "wof:lastmodified":1473495009,
+    "wof:name":"Ece S.c.r.l.",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "plants",
+        "technical",
+        "factory",
+        "machine",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    4.3982591629,
+    50.8415222168,
+    4.3982591629,
+    50.8415222168
+],
+  "geometry": {"coordinates":[4.3982591629,50.8415222168],"type":"Point"}
+}

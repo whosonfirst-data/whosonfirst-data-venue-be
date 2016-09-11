@@ -1,0 +1,83 @@
+{
+  "id": 1041581625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3920879364,51.1234016418,4.3920879364,51.1234016418",
+    "geom:latitude":51.123402,
+    "geom:longitude":4.392088,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reetsesteenweg 41",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 877 42 29",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5htchIUuaCxalXe9DEGgiX_51.123402_4.392088@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474516,
+    "wof:geomhash":"bc8dd08bdcdc086015b98feac36e05f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1041581625
+        }
+    ],
+    "wof:id":1041581625,
+    "wof:lastmodified":1473474516,
+    "wof:name":"Hennin W",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3920879364,
+    51.1234016418,
+    4.3920879364,
+    51.1234016418
+],
+  "geometry": {"coordinates":[4.3920879364,51.1234016418],"type":"Point"}
+}

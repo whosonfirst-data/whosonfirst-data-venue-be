@@ -1,0 +1,77 @@
+{
+  "id": 1058121375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3294358253,50.7339553833,4.3294358253,50.7339553833",
+    "geom:latitude":50.733955,
+    "geom:longitude":4.329436,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Tenbroek 32",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 56 34",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ed3wJ5lzykyI8t8ci8RQ_50.733955_4.329436@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510600,
+    "wof:geomhash":"fadf3271dccb6f15307d274d6b303004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058121375
+        }
+    ],
+    "wof:id":1058121375,
+    "wof:lastmodified":1473510600,
+    "wof:name":"Petit Monde De Don Carmelo",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3294358253,
+    50.7339553833,
+    4.3294358253,
+    50.7339553833
+],
+  "geometry": {"coordinates":[4.3294358253,50.7339553833],"type":"Point"}
+}

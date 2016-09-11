@@ -1,0 +1,84 @@
+{
+  "id": 1042001355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.277009964,50.745300293,4.277009964,50.745300293",
+    "geom:latitude":50.7453,
+    "geom:longitude":4.27701,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"100",
+    "sg:city":"H. Torleylaan 1654 Beersel Huizingen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 07 43",
+    "sg:postcode":"100",
+    "sg:tags":[
+        "professional",
+        "hotels",
+        "fair",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Ocz6CikS2m9A4MlW8DrM_50.745300_4.277010@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492362,
+    "wof:geomhash":"3526cef436242fa1aea850c789b1cc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1042001355
+        }
+    ],
+    "wof:id":1042001355,
+    "wof:lastmodified":1473492362,
+    "wof:name":"Het Kasteel Van Huizingen Nv",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "hotels",
+        "fair",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.277009964,
+    50.745300293,
+    4.277009964,
+    50.745300293
+],
+  "geometry": {"coordinates":[4.277009964,50.745300293],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042110069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3820090294,50.8507270813,4.3820090294,50.8507270813",
+    "geom:latitude":50.850727,
+    "geom:longitude":4.382009,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leuvensesteenweg 286",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 41 72",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "nachtclubs",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sVylwPEm5JKDrk6c2YqlY_50.850727_4.382009@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496848,
+    "wof:geomhash":"4aa881c509f24deb344896ae2660fda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1042110069
+        }
+    ],
+    "wof:id":1042110069,
+    "wof:lastmodified":1473496848,
+    "wof:name":"Sogedex",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nachtclubs",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.3820090294,
+    50.8507270813,
+    4.3820090294,
+    50.8507270813
+],
+  "geometry": {"coordinates":[4.3820090294,50.8507270813],"type":"Point"}
+}

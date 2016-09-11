@@ -1,0 +1,79 @@
+{
+  "id": 1042033129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5702080727,50.5395011902,5.5702080727,50.5395011902",
+    "geom:latitude":50.539501,
+    "geom:longitude":5.570208,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chemin D'enonck 57",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 380 19 87",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "site",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801627,
+        102191581,
+        85632997,
+        404227353,
+        101755185,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s274j19TK2ZU2BSR2ZBmJ_50.539501_5.570208@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493574,
+    "wof:geomhash":"a7396e2f4eb732d98e1669ffac791497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755185,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801627,
+            "region_id":85681691,
+            "venue_id":1042033129
+        }
+    ],
+    "wof:id":1042033129,
+    "wof:lastmodified":1473493574,
+    "wof:name":"Murets (camping Les)",
+    "wof:parent_id":85801627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "site",
+        "camping"
+    ]
+},
+  "bbox": [
+    5.5702080727,
+    50.5395011902,
+    5.5702080727,
+    50.5395011902
+],
+  "geometry": {"coordinates":[5.5702080727,50.5395011902],"type":"Point"}
+}

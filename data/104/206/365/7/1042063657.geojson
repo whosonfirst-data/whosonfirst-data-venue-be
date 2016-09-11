@@ -1,0 +1,71 @@
+{
+  "id": 1042063657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4999599457,50.5888671875,5.4999599457,50.5888671875",
+    "geom:latitude":50.588867,
+    "geom:longitude":5.49996,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Croupet 191",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 54 20",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33rTjgMMsfaQVmvPP7xB0x_50.588867_5.499960@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494816,
+    "wof:geomhash":"522d3cf50963ef17dc44b302d9f8460c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1042063657
+        }
+    ],
+    "wof:id":1042063657,
+    "wof:lastmodified":1473494816,
+    "wof:name":"Danel M",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    5.4999599457,
+    50.5888671875,
+    5.4999599457,
+    50.5888671875
+],
+  "geometry": {"coordinates":[5.4999599457,50.5888671875],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058934547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.346077919,51.1389884949,4.346077919,51.1389884949",
+    "geom:latitude":51.138988,
+    "geom:longitude":4.346078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"U.n.o. Laan 141",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 59 09",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fbWPBtLnn0tgd4xH7QNzQ_51.138988_4.346078@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547518,
+    "wof:geomhash":"d2ba0a892eda96f93e9972ce2df32267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058934547
+        }
+    ],
+    "wof:id":1058934547,
+    "wof:lastmodified":1473547518,
+    "wof:name":"Janssens G - Janssen K",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.346077919,
+    51.1389884949,
+    4.346077919,
+    51.1389884949
+],
+  "geometry": {"coordinates":[4.346077919,51.1389884949],"type":"Point"}
+}

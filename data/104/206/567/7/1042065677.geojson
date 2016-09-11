@@ -1,0 +1,79 @@
+{
+  "id": 1042065677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5465240479,50.6322975159,5.5465240479,50.6322975159",
+    "geom:latitude":50.632298,
+    "geom:longitude":5.546524,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tilleur 10",
+    "sg:city":"Saint-nicolas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 47 01",
+    "sg:postcode":"4420",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lry97JZfNKyiwMJ0h4u5c_50.632298_5.546524@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494897,
+    "wof:geomhash":"8b991524483e1d084d816ffa9ccdacb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1042065677
+        }
+    ],
+    "wof:id":1042065677,
+    "wof:lastmodified":1473494897,
+    "wof:name":"Zeleznik-p\u00e8re Et Fils",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5465240479,
+    50.6322975159,
+    5.5465240479,
+    50.6322975159
+],
+  "geometry": {"coordinates":[5.5465240479,50.6322975159],"type":"Point"}
+}

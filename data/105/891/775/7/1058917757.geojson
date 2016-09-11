@@ -1,0 +1,79 @@
+{
+  "id": 1058917757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.408288002,50.8332214355,4.408288002,50.8332214355",
+    "geom:latitude":50.833221,
+    "geom:longitude":4.408288,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Charles De Buck 5",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 24 12",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ventilating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GnMCAWp4L48teMmEk1BMu_50.833221_4.408288@1306268595"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546775,
+    "wof:geomhash":"0034447aa10a8532d029da239ec84adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058917757
+        }
+    ],
+    "wof:id":1058917757,
+    "wof:lastmodified":1473546775,
+    "wof:name":"Balasse M",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "system"
+    ]
+},
+  "bbox": [
+    4.408288002,
+    50.8332214355,
+    4.408288002,
+    50.8332214355
+],
+  "geometry": {"coordinates":[4.408288002,50.8332214355],"type":"Point"}
+}

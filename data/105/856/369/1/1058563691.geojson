@@ -1,0 +1,77 @@
+{
+  "id": 1058563691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2978792191,50.8663063049,4.2978792191,50.8663063049",
+    "geom:latitude":50.866306,
+    "geom:longitude":4.297879,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Openveld 58",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 08 47",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H0qZZjyRz6oPC1h9lTLmJ_50.866306_4.297879@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531012,
+    "wof:geomhash":"96b8988e221c1805524afae8eb84d4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058563691
+        }
+    ],
+    "wof:id":1058563691,
+    "wof:lastmodified":1473531012,
+    "wof:name":"Michel Fran\u00e7oise",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.2978792191,
+    50.8663063049,
+    4.2978792191,
+    50.8663063049
+],
+  "geometry": {"coordinates":[4.2978792191,50.8663063049],"type":"Point"}
+}

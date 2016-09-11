@@ -1,0 +1,77 @@
+{
+  "id": 1058620373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2053740025,51.2154922485,3.2053740025,51.2154922485",
+    "geom:latitude":51.215492,
+    "geom:longitude":3.205374,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karel De Floustraat 69",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 15 09",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801895,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQ5yDow2ZcelneZsQUgCh_51.215492_3.205374@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533586,
+    "wof:geomhash":"ad4fd7198b88e1cd7ce05c1316b8ceab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801895,
+            "region_id":85681709,
+            "venue_id":1058620373
+        }
+    ],
+    "wof:id":1058620373,
+    "wof:lastmodified":1473533586,
+    "wof:name":"Leersecretariaat Pieter Lievens",
+    "wof:parent_id":85801895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional"
+    ]
+},
+  "bbox": [
+    3.2053740025,
+    51.2154922485,
+    3.2053740025,
+    51.2154922485
+],
+  "geometry": {"coordinates":[3.2053740025,51.2154922485],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058933495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3734397888,50.9354095459,4.3734397888,50.9354095459",
+    "geom:latitude":50.93541,
+    "geom:longitude":4.37344,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rijkenhoekstraat 13",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 17 78",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72nhPcgh0JTCuUGSGzzCkR_50.935410_4.373440@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547479,
+    "wof:geomhash":"19e90e52f5ce6fa97c3b29ebe379bfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058933495
+        }
+    ],
+    "wof:id":1058933495,
+    "wof:lastmodified":1473547479,
+    "wof:name":"De Keyser Ph",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.3734397888,
+    50.9354095459,
+    4.3734397888,
+    50.9354095459
+],
+  "geometry": {"coordinates":[4.3734397888,50.9354095459],"type":"Point"}
+}

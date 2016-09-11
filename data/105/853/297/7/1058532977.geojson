@@ -1,0 +1,79 @@
+{
+  "id": 1058532977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3891677856,50.8448143005,4.3891677856,50.8448143005",
+    "geom:latitude":50.844814,
+    "geom:longitude":4.389168,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Cortenbergh 116",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 737 72 20",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fund",
+        "pension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jOePGNSR8tnbHTmd1V7if_50.844814_4.389168@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529622,
+    "wof:geomhash":"69184a89c734ed95c2608d8d0109c9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058532977
+        }
+    ],
+    "wof:id":1058532977,
+    "wof:lastmodified":1473529622,
+    "wof:name":"Interfederale",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "pension"
+    ]
+},
+  "bbox": [
+    4.3891677856,
+    50.8448143005,
+    4.3891677856,
+    50.8448143005
+],
+  "geometry": {"coordinates":[4.3891677856,50.8448143005],"type":"Point"}
+}

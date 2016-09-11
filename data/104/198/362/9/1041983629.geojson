@@ -1,0 +1,77 @@
+{
+  "id": 1041983629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3613138199,50.8387947083,4.3613138199,50.8387947083",
+    "geom:latitude":50.838795,
+    "geom:longitude":4.361314,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Waterloo 4",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 77 65",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06QG7oyVpZiZCkbdJu4KHh_50.838795_4.361314@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491652,
+    "wof:geomhash":"e430af96bfabc6bacd97b2dc58ab38f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041983629
+        }
+    ],
+    "wof:id":1041983629,
+    "wof:lastmodified":1473491652,
+    "wof:name":"Escada",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.3613138199,
+    50.8387947083,
+    4.3613138199,
+    50.8387947083
+],
+  "geometry": {"coordinates":[4.3613138199,50.8387947083],"type":"Point"}
+}

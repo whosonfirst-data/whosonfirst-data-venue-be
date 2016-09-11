@@ -1,0 +1,79 @@
+{
+  "id": 1058840833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6596140862,51.1009407043,3.6596140862,51.1009407043",
+    "geom:latitude":51.100941,
+    "geom:longitude":3.659614,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belzeelsestraat 18",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 02 44",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "department",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQj9sCvxQpXqyM3viDKY4_51.100941_3.659614@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543348,
+    "wof:geomhash":"cb195412c920c32028e3857a509fee60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058840833
+        }
+    ],
+    "wof:id":1058840833,
+    "wof:lastmodified":1473543348,
+    "wof:name":"Spar Evergem",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "store"
+    ]
+},
+  "bbox": [
+    3.6596140862,
+    51.1009407043,
+    3.6596140862,
+    51.1009407043
+],
+  "geometry": {"coordinates":[3.6596140862,51.1009407043],"type":"Point"}
+}

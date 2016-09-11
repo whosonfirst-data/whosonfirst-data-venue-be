@@ -1,0 +1,77 @@
+{
+  "id": 1058559915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4115900993,50.8369941711,4.4115900993,50.8369941711",
+    "geom:latitude":50.836994,
+    "geom:longitude":4.41159,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Georges Et Jacques Martin 2b",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 53 04",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bcUErSpn6I7tm9D5ZerYF_50.836994_4.411590@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530820,
+    "wof:geomhash":"0930af851c0cb3a92e6d56fa2d136326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058559915
+        }
+    ],
+    "wof:id":1058559915,
+    "wof:lastmodified":1473530820,
+    "wof:name":"Janssens S",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4115900993,
+    50.8369941711,
+    4.4115900993,
+    50.8369941711
+],
+  "geometry": {"coordinates":[4.4115900993,50.8369941711],"type":"Point"}
+}

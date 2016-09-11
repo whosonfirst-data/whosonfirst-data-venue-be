@@ -1,0 +1,83 @@
+{
+  "id": 1058671491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3400101662,50.8371925354,4.3400101662,50.8371925354",
+    "geom:latitude":50.837193,
+    "geom:longitude":4.34001,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'argonne 21",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 68 18",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801025,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nJGcrlXzbVtF7m5JUemEP_50.837193_4.340010@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535912,
+    "wof:geomhash":"7c851d71e068586310f6f43182dd27c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801025,
+            "region_id":85681713,
+            "venue_id":1058671491
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058671491
+        }
+    ],
+    "wof:id":1058671491,
+    "wof:lastmodified":1473535912,
+    "wof:name":"La Laguna",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3400101662,
+    50.8371925354,
+    4.3400101662,
+    50.8371925354
+],
+  "geometry": {"coordinates":[4.3400101662,50.8371925354],"type":"Point"}
+}

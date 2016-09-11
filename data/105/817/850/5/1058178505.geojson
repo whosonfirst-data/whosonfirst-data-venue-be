@@ -1,0 +1,85 @@
+{
+  "id": 1058178505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3295860291,50.8749694824,4.3295860291,50.8749694824",
+    "geom:latitude":50.874969,
+    "geom:longitude":4.329586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Tilmont 64",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 41 48",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RiQ83nQtjRvfbWsWmGrCH_50.874969_4.329586@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513270,
+    "wof:geomhash":"e01fd93a9756780ada883e78eddf3397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058178505
+        }
+    ],
+    "wof:id":1058178505,
+    "wof:lastmodified":1473513270,
+    "wof:name":"D H T Sprl",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3295860291,
+    50.8749694824,
+    4.3295860291,
+    50.8749694824
+],
+  "geometry": {"coordinates":[4.3295860291,50.8749694824],"type":"Point"}
+}

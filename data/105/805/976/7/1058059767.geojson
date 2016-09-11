@@ -1,0 +1,79 @@
+{
+  "id": 1058059767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2686910629,51.2170562744,4.2686910629,51.2170562744",
+    "geom:latitude":51.217056,
+    "geom:longitude":4.268691,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vesten 9",
+    "sg:city":"Beveren (beveren-waas)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 88 94",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "frozen",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SnHjQtfgQSL8cWsvJPTdo_51.217056_4.268691@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507910,
+    "wof:geomhash":"5eaf121c2ba6bd2278de32e8f48fb423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058059767
+        }
+    ],
+    "wof:id":1058059767,
+    "wof:lastmodified":1473507910,
+    "wof:name":"Van Der Heyden P",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "-"
+    ]
+},
+  "bbox": [
+    4.2686910629,
+    51.2170562744,
+    4.2686910629,
+    51.2170562744
+],
+  "geometry": {"coordinates":[4.2686910629,51.2170562744],"type":"Point"}
+}

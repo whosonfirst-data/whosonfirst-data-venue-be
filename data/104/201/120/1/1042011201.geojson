@@ -1,0 +1,77 @@
+{
+  "id": 1042011201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3294482231,50.8394508362,4.3294482231,50.8394508362",
+    "geom:latitude":50.839451,
+    "geom:longitude":4.329448,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Du Conseil 3",
+    "sg:city":"Anderlecht/anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 43 00",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b1mj7iMU9vXdWMgzcAJxs_50.839451_4.329448@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492728,
+    "wof:geomhash":"56fd30ee7f86e28f3caab861652026da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1042011201
+        }
+    ],
+    "wof:id":1042011201,
+    "wof:lastmodified":1473492728,
+    "wof:name":"Caf\u00c9 Le Petit Moulin",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3294482231,
+    50.8394508362,
+    4.3294482231,
+    50.8394508362
+],
+  "geometry": {"coordinates":[4.3294482231,50.8394508362],"type":"Point"}
+}

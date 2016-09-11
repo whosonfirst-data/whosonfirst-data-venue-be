@@ -1,0 +1,79 @@
+{
+  "id": 1058743363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7091710567,51.0650405884,3.7091710567,51.0650405884",
+    "geom:latitude":51.065041,
+    "geom:longitude":3.709171,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wondelgemstraat 201",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 40 01",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zTIR9gy8Y7LssR5UyJFD0_51.065041_3.709171@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539042,
+    "wof:geomhash":"b0fa1a1430b33eb8760c6cb49a6e24d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058743363
+        }
+    ],
+    "wof:id":1058743363,
+    "wof:lastmodified":1473539042,
+    "wof:name":"Hair-style",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.7091710567,
+    51.0650405884,
+    3.7091710567,
+    51.0650405884
+],
+  "geometry": {"coordinates":[3.7091710567,51.0650405884],"type":"Point"}
+}

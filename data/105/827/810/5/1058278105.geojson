@@ -1,0 +1,79 @@
+{
+  "id": 1058278105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7804560661,51.0188674927,3.7804560661,51.0188674927",
+    "geom:latitude":51.018867,
+    "geom:longitude":3.780456,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 125",
+    "sg:city":"Melle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 56 48",
+    "sg:postcode":"9090",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1osN23U2q9ScVnGfm8nUsN_51.018867_3.780456@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517617,
+    "wof:geomhash":"ad45ba4a9747a3c033dfb7f43e14c38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058278105
+        }
+    ],
+    "wof:id":1058278105,
+    "wof:lastmodified":1473517617,
+    "wof:name":"De Coster Yves",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    3.7804560661,
+    51.0188674927,
+    3.7804560661,
+    51.0188674927
+],
+  "geometry": {"coordinates":[3.7804560661,51.0188674927],"type":"Point"}
+}

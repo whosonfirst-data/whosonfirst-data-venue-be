@@ -1,0 +1,79 @@
+{
+  "id": 1058159973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3109908104,50.7771339417,4.3109908104,50.7771339417",
+    "geom:latitude":50.777134,
+    "geom:longitude":4.310991,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Singel 11",
+    "sg:city":"Beersel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 72 59",
+    "sg:postcode":"1650",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801039,
+        102191581,
+        85632997,
+        404227357,
+        101755535,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YWRzyUvtT9DwysEnzj8x1_50.777134_4.310991@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512442,
+    "wof:geomhash":"2716018026fa7f8bbd288cdd3434b66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755535,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801039,
+            "region_id":85681731,
+            "venue_id":1058159973
+        }
+    ],
+    "wof:id":1058159973,
+    "wof:lastmodified":1473512442,
+    "wof:name":"De Koster J",
+    "wof:parent_id":85801039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3109908104,
+    50.7771339417,
+    4.3109908104,
+    50.7771339417
+],
+  "geometry": {"coordinates":[4.3109908104,50.7771339417],"type":"Point"}
+}

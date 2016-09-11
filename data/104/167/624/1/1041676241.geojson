@@ -1,0 +1,77 @@
+{
+  "id": 1041676241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4159269333,50.8251266479,4.4159269333,50.8251266479",
+    "geom:latitude":50.825127,
+    "geom:longitude":4.415927,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Chant D'oiseau 52",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 44 47",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800813,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1McdgYrFJ7R65er0nJ8YmS_50.825127_4.415927@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478375,
+    "wof:geomhash":"bf3448346e9a5050b56c7e7f82bf85ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800813,
+            "region_id":85681713,
+            "venue_id":1041676241
+        }
+    ],
+    "wof:id":1041676241,
+    "wof:lastmodified":1473478375,
+    "wof:name":"Carpet F Mme",
+    "wof:parent_id":85800813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4159269333,
+    50.8251266479,
+    4.4159269333,
+    50.8251266479
+],
+  "geometry": {"coordinates":[4.4159269333,50.8251266479],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1042200569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7678499222,51.029964447,3.7678499222,51.029964447",
+    "geom:latitude":51.029964,
+    "geom:longitude":3.76785,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Voetbalstr 39a",
+    "sg:city":"Gentbrugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 210 45 70",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "equipment",
+        "electrical",
+        "component",
+        "electric",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fsekc9NTGYoLqvpJhVk1k_51.029964_3.767850@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501977,
+    "wof:geomhash":"1830a2006926d14d3f80fd82c935bfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042200569
+        }
+    ],
+    "wof:id":1042200569,
+    "wof:lastmodified":1473501977,
+    "wof:name":"Teletask Bvba",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrical",
+        "component",
+        "electric",
+        "electronic"
+    ]
+},
+  "bbox": [
+    3.7678499222,
+    51.029964447,
+    3.7678499222,
+    51.029964447
+],
+  "geometry": {"coordinates":[3.7678499222,51.029964447],"type":"Point"}
+}

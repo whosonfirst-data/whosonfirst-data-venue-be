@@ -1,0 +1,77 @@
+{
+  "id": 1041647941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6203098297,50.6435203552,5.6203098297,50.6435203552",
+    "geom:latitude":50.64352,
+    "geom:longitude":5.62031,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Li\u00e8ge 41",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 67 62",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mhnfuE0EaWOVPr4R4tNEU_50.643520_5.620310@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477266,
+    "wof:geomhash":"1a7ce0220061caa4f0089520a4082218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1041647941
+        }
+    ],
+    "wof:id":1041647941,
+    "wof:lastmodified":1473477266,
+    "wof:name":"Wouters Guy Sprl",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.6203098297,
+    50.6435203552,
+    5.6203098297,
+    50.6435203552
+],
+  "geometry": {"coordinates":[5.6203098297,50.6435203552],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058879657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3453512192,50.8381462097,4.3453512192,50.8381462097",
+    "geom:latitude":50.838146,
+    "geom:longitude":4.345351,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Tanneurs 116",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 510 09 20",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tool",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lquQQfyc0GHB4lqOkDOus_50.838146_4.345351@1306268589"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544998,
+    "wof:geomhash":"e13324e60926245b2588f7db880e59ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058879657
+        }
+    ],
+    "wof:id":1058879657,
+    "wof:lastmodified":1473544998,
+    "wof:name":"Bosch-huyghe",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "electric"
+    ]
+},
+  "bbox": [
+    4.3453512192,
+    50.8381462097,
+    4.3453512192,
+    50.8381462097
+],
+  "geometry": {"coordinates":[4.3453512192,50.8381462097],"type":"Point"}
+}

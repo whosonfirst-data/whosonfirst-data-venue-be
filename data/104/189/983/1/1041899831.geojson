@@ -1,0 +1,65 @@
+{
+  "id": 1041899831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6956720352,50.8805732727,4.6956720352,50.8805732727",
+    "geom:latitude":50.880573,
+    "geom:longitude":4.695672,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parijsstr 52",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ev2cIXaBKbp0BMZGX7yDc_50.880573_4.695672@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487908,
+    "wof:geomhash":"96f4d9c55a13f904262bb08d3b5bf01e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1041899831
+        }
+    ],
+    "wof:id":1041899831,
+    "wof:lastmodified":1473487908,
+    "wof:name":"Cerafund Management Nv",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6956720352,
+    50.8805732727,
+    4.6956720352,
+    50.8805732727
+],
+  "geometry": {"coordinates":[4.6956720352,50.8805732727],"type":"Point"}
+}

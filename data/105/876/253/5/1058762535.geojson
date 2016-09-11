@@ -1,0 +1,77 @@
+{
+  "id": 1058762535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3448019028,50.8629989624,4.3448019028,50.8629989624",
+    "geom:latitude":50.862999,
+    "geom:longitude":4.344802,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Le Lorrain 50",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 14 33",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZD2YNI7MOV9jvVLi9PIRS_50.862999_4.344802@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539882,
+    "wof:geomhash":"5c2554a5f14124bb73c1c0d8454a3243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058762535
+        }
+    ],
+    "wof:id":1058762535,
+    "wof:lastmodified":1473539882,
+    "wof:name":"L.m. Protect Sprl",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3448019028,
+    50.8629989624,
+    4.3448019028,
+    50.8629989624
+],
+  "geometry": {"coordinates":[4.3448019028,50.8629989624],"type":"Point"}
+}

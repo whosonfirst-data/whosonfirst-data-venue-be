@@ -1,0 +1,79 @@
+{
+  "id": 1041540031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3487858772,50.8453102112,4.3487858772,50.8453102112",
+    "geom:latitude":50.84531,
+    "geom:longitude":4.348786,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Grands Carmes 17",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 61 40",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "antiquarian",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oj3lVhhtexiQ57KuamJ5q_50.845310_4.348786@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472795,
+    "wof:geomhash":"3f8b58f1b1facac8f30b6ed1843696de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041540031
+        }
+    ],
+    "wof:id":1041540031,
+    "wof:lastmodified":1473472795,
+    "wof:name":"De Slegte (boekhandel)",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antiquarian",
+        "trade"
+    ]
+},
+  "bbox": [
+    4.3487858772,
+    50.8453102112,
+    4.3487858772,
+    50.8453102112
+],
+  "geometry": {"coordinates":[4.3487858772,50.8453102112],"type":"Point"}
+}

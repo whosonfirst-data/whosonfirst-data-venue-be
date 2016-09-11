@@ -1,0 +1,71 @@
+{
+  "id": 1058527397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1976881027,51.2481422424,3.1976881027,51.2481422424",
+    "geom:latitude":51.248142,
+    "geom:longitude":3.197688,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Monnikenwerve 43",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 63 20 36",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "pasta"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cNgOYeQwseWWSifyqP3jy_51.248142_3.197688@1306268524"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529359,
+    "wof:geomhash":"3df2a1586abce9c391d51044fa66f672",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1058527397
+        }
+    ],
+    "wof:id":1058527397,
+    "wof:lastmodified":1473529359,
+    "wof:name":"Pasta E Basta",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pasta"
+    ]
+},
+  "bbox": [
+    3.1976881027,
+    51.2481422424,
+    3.1976881027,
+    51.2481422424
+],
+  "geometry": {"coordinates":[3.1976881027,51.2481422424],"type":"Point"}
+}

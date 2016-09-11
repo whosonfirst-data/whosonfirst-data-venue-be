@@ -1,0 +1,77 @@
+{
+  "id": 1042059263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3488740921,50.8773956299,4.3488740921,50.8773956299",
+    "geom:latitude":50.877396,
+    "geom:longitude":4.348874,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue St\u00e9phanie 173",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 427 81 30",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FAXJo1zcy14avgKOrQBdP_50.877396_4.348874@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494651,
+    "wof:geomhash":"c367d4ef792ac1fd007b851e2c29bbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1042059263
+        }
+    ],
+    "wof:id":1042059263,
+    "wof:lastmodified":1473494651,
+    "wof:name":"Engels Sprl",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3488740921,
+    50.8773956299,
+    4.3488740921,
+    50.8773956299
+],
+  "geometry": {"coordinates":[4.3488740921,50.8773956299],"type":"Point"}
+}

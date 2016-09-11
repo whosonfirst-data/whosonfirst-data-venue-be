@@ -1,0 +1,81 @@
+{
+  "id": 1058042085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5496850014,50.6503562927,5.5496850014,50.6503562927",
+    "geom:latitude":50.650356,
+    "geom:longitude":5.549685,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Mabiet 8",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 43 23",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "armoured",
+        "door",
+        "fireproof"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BTIokjchGVpEEKnowqyGs_50.650356_5.549685@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507191,
+    "wof:geomhash":"b33d90ec53248c29bd18e735a2d88bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1058042085
+        }
+    ],
+    "wof:id":1058042085,
+    "wof:lastmodified":1473507191,
+    "wof:name":"Blindoor",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armoured",
+        "door",
+        "fireproof"
+    ]
+},
+  "bbox": [
+    5.5496850014,
+    50.6503562927,
+    5.5496850014,
+    50.6503562927
+],
+  "geometry": {"coordinates":[5.5496850014,50.6503562927],"type":"Point"}
+}

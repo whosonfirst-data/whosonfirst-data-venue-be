@@ -1,0 +1,77 @@
+{
+  "id": 1041618999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4158258438,51.2101211548,4.4158258438,51.2101211548",
+    "geom:latitude":51.210121,
+    "geom:longitude":4.415826,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Eycklei 39 Box 10",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 227 22 29",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "interpreter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UtKVflsRJEo0UNc8f1gm8_51.210121_4.415826@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476067,
+    "wof:geomhash":"c5996210b1aaeeccc8d6ac82840c3cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041618999
+        }
+    ],
+    "wof:id":1041618999,
+    "wof:lastmodified":1473476067,
+    "wof:name":"A.l.o. Bvba",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interpreter"
+    ]
+},
+  "bbox": [
+    4.4158258438,
+    51.2101211548,
+    4.4158258438,
+    51.2101211548
+],
+  "geometry": {"coordinates":[4.4158258438,51.2101211548],"type":"Point"}
+}

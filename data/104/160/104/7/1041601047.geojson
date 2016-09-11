@@ -1,0 +1,81 @@
+{
+  "id": 1041601047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5660219193,50.6420783997,5.5660219193,50.6420783997",
+    "geom:latitude":50.642078,
+    "geom:longitude":5.566022,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De La Sauveni\u00e8re 122",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 55 27",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1La13e98yjGsSsZatvv5Vt_50.642078_5.566022@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475339,
+    "wof:geomhash":"a894b710227eb91d83218e46e21fac69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041601047
+        }
+    ],
+    "wof:id":1041601047,
+    "wof:lastmodified":1473475339,
+    "wof:name":"Clarice & Dominique",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5660219193,
+    50.6420783997,
+    5.5660219193,
+    50.6420783997
+],
+  "geometry": {"coordinates":[5.5660219193,50.6420783997],"type":"Point"}
+}

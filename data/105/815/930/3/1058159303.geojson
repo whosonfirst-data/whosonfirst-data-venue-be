@@ -1,0 +1,73 @@
+{
+  "id": 1058159303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2309908867,50.9559822083,4.2309908867,50.9559822083",
+    "geom:latitude":50.955982,
+    "geom:longitude":4.230991,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mieregemstraat 60a",
+    "sg:city":"Merchtem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 52 37 10 53",
+    "sg:postcode":"1785",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800941,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43CLbjfak7qdOPcPVy4p43_50.955982_4.230991@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512410,
+    "wof:geomhash":"ba6ffba7abcee02692b4463c8f39b67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800941,
+            "region_id":85681731,
+            "venue_id":1058159303
+        }
+    ],
+    "wof:id":1058159303,
+    "wof:lastmodified":1473512410,
+    "wof:name":"De Block Maggie",
+    "wof:parent_id":85800941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2309908867,
+    50.9559822083,
+    4.2309908867,
+    50.9559822083
+],
+  "geometry": {"coordinates":[4.2309908867,50.9559822083],"type":"Point"}
+}

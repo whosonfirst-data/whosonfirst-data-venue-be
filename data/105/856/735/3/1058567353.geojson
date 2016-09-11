@@ -1,0 +1,71 @@
+{
+  "id": 1058567353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.1131210327,50.6742172241,6.1131210327,50.6742172241",
+    "geom:latitude":50.674217,
+    "geom:longitude":6.113121,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hauptstrasse 77",
+    "sg:city":"Raeren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 85 07 60",
+    "sg:postcode":"4730",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85795135,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60CKg9A9JIsWl2SZQ0Po6F_50.674217_6.113121@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531187,
+    "wof:geomhash":"93d19952293e48ba8d9e6199be15ee2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85795135,
+            "region_id":85681691,
+            "venue_id":1058567353
+        }
+    ],
+    "wof:id":1058567353,
+    "wof:lastmodified":1473531187,
+    "wof:name":"Schnackers P",
+    "wof:parent_id":85795135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    6.1131210327,
+    50.6742172241,
+    6.1131210327,
+    50.6742172241
+],
+  "geometry": {"coordinates":[6.1131210327,50.6742172241],"type":"Point"}
+}

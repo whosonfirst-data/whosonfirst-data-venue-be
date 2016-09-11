@@ -1,0 +1,79 @@
+{
+  "id": 1058803697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6597909927,50.6680870056,5.6597909927,50.6680870056",
+    "geom:latitude":50.668087,
+    "geom:longitude":5.659791,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Vis\u00e9 766",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 14 60",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_787K52OWnLY1ht918sZeiQ_50.668087_5.659791@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541715,
+    "wof:geomhash":"64673e2eec4a185cf8e956104ba31393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058803697
+        }
+    ],
+    "wof:id":1058803697,
+    "wof:lastmodified":1473541715,
+    "wof:name":"Mar\u00e9chal A",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    5.6597909927,
+    50.6680870056,
+    5.6597909927,
+    50.6680870056
+],
+  "geometry": {"coordinates":[5.6597909927,50.6680870056],"type":"Point"}
+}

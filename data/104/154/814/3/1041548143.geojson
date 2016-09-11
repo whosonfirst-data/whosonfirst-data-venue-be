@@ -1,0 +1,77 @@
+{
+  "id": 1041548143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4051270485,50.821762085,4.4051270485,50.821762085",
+    "geom:latitude":50.821762,
+    "geom:longitude":4.405127,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Wavre 1233",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 29 50",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mz1o9rDZHxvogSUbetqFV_50.821762_4.405127@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473116,
+    "wof:geomhash":"33881b05c319e4576d4c3e80996ed6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1041548143
+        }
+    ],
+    "wof:id":1041548143,
+    "wof:lastmodified":1473473116,
+    "wof:name":"Bourgeois Ets",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.4051270485,
+    50.821762085,
+    4.4051270485,
+    50.821762085
+],
+  "geometry": {"coordinates":[4.4051270485,50.821762085],"type":"Point"}
+}

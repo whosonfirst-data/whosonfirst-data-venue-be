@@ -1,0 +1,79 @@
+{
+  "id": 1058740167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7153179646,51.0350227356,3.7153179646,51.0350227356",
+    "geom:latitude":51.035023,
+    "geom:longitude":3.715318,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinses Clementinalaan 30",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 72 34",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ufJQXaZEEGy8X2nM91KGx_51.035023_3.715318@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538909,
+    "wof:geomhash":"19c3594b35b72721cd58643ec771bab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058740167
+        }
+    ],
+    "wof:id":1058740167,
+    "wof:lastmodified":1473538909,
+    "wof:name":"Coiffure Phila",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.7153179646,
+    51.0350227356,
+    3.7153179646,
+    51.0350227356
+],
+  "geometry": {"coordinates":[3.7153179646,51.0350227356],"type":"Point"}
+}

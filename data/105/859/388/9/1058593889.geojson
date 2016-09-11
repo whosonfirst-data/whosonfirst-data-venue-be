@@ -1,0 +1,77 @@
+{
+  "id": 1058593889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4006581306,50.8038101196,4.4006581306,50.8038101196",
+    "geom:latitude":50.80381,
+    "geom:longitude":4.400658,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Pierres Rouges 31",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 02 78",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJgs9J6WSqjrD7d0UBxfM_50.803810_4.400658@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532352,
+    "wof:geomhash":"e8811213ff876b65aa72729d538e0493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058593889
+        }
+    ],
+    "wof:id":1058593889,
+    "wof:lastmodified":1473532352,
+    "wof:name":"Jordens A",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4006581306,
+    50.8038101196,
+    4.4006581306,
+    50.8038101196
+],
+  "geometry": {"coordinates":[4.4006581306,50.8038101196],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042198321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.629090786,50.6434135437,5.629090786,50.6434135437",
+    "geom:latitude":50.643414,
+    "geom:longitude":5.629091,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bois-de-breux",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 345 60 45",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801339,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3win5Qxxmk1O3tELlh3V2A_50.643414_5.629091@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501818,
+    "wof:geomhash":"dfd266ef53ab06158de66441d6f6ef62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801339,
+            "region_id":85681691,
+            "venue_id":1042198321
+        }
+    ],
+    "wof:id":1042198321,
+    "wof:lastmodified":1473501818,
+    "wof:name":"Ath\u00e9n\u00e9e Royal Charlemagne",
+    "wof:parent_id":85801339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    5.629090786,
+    50.6434135437,
+    5.629090786,
+    50.6434135437
+],
+  "geometry": {"coordinates":[5.629090786,50.6434135437],"type":"Point"}
+}

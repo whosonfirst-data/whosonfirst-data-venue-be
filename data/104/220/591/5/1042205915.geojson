@@ -1,0 +1,77 @@
+{
+  "id": 1042205915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4839038849,51.1227149963,4.4839038849,51.1227149963",
+    "geom:latitude":51.122715,
+    "geom:longitude":4.483904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaapdries 19",
+    "sg:city":"Lint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 288 77 97",
+    "sg:postcode":"2547",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gaE4STkOKBTBJ5ozhVVZU_51.122715_4.483904@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502253,
+    "wof:geomhash":"fd8628d16e1a0b1b76964851c4fe633f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042205915
+        }
+    ],
+    "wof:id":1042205915,
+    "wof:lastmodified":1473502253,
+    "wof:name":"Fnc Solar",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4839038849,
+    51.1227149963,
+    4.4839038849,
+    51.1227149963
+],
+  "geometry": {"coordinates":[4.4839038849,51.1227149963],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058173237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3313531876,50.8698883057,4.3313531876,50.8698883057",
+    "geom:latitude":50.869888,
+    "geom:longitude":4.331353,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Odon Warland 73",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 44 70 35",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08gWjfc5hQIi1YySY1JMPv_50.869888_4.331353@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513035,
+    "wof:geomhash":"16af7e501d49bf2067e8c0bf05a357af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058173237
+        }
+    ],
+    "wof:id":1058173237,
+    "wof:lastmodified":1473513035,
+    "wof:name":"Markine-goriaynoff Jean-pierre",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3313531876,
+    50.8698883057,
+    4.3313531876,
+    50.8698883057
+],
+  "geometry": {"coordinates":[4.3313531876,50.8698883057],"type":"Point"}
+}

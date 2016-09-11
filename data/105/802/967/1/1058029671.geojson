@@ -1,0 +1,79 @@
+{
+  "id": 1058029671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3439698219,51.1566581726,4.3439698219,51.1566581726",
+    "geom:latitude":51.156658,
+    "geom:longitude":4.34397,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredestraat 1",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 51 80",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8mYKXVTpOs887HwWPYZH_51.156658_4.343970@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506672,
+    "wof:geomhash":"cd0f3cfa4c10dc0fa22e541c9ee45916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1058029671
+        }
+    ],
+    "wof:id":1058029671,
+    "wof:lastmodified":1473506672,
+    "wof:name":"Frituur Den Halt",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3439698219,
+    51.1566581726,
+    4.3439698219,
+    51.1566581726
+],
+  "geometry": {"coordinates":[4.3439698219,51.1566581726],"type":"Point"}
+}

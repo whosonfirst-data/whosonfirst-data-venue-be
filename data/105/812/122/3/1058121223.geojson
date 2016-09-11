@@ -1,0 +1,77 @@
+{
+  "id": 1058121223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.373418808,50.8573760986,4.373418808,50.8573760986",
+    "geom:latitude":50.857376,
+    "geom:longitude":4.373419,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Josaphat 68-70",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 36 14",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55L7mHM9yjss4LKGDzM33N_50.857376_4.373419@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510591,
+    "wof:geomhash":"bacebd924152e3459023d9cb70e3aea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058121223
+        }
+    ],
+    "wof:id":1058121223,
+    "wof:lastmodified":1473510591,
+    "wof:name":"Oz-migros",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.373418808,
+    50.8573760986,
+    4.373418808,
+    50.8573760986
+],
+  "geometry": {"coordinates":[4.373418808,50.8573760986],"type":"Point"}
+}

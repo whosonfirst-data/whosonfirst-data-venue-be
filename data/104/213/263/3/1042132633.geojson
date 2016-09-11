@@ -1,0 +1,83 @@
+{
+  "id": 1042132633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3324780464,50.878200531,4.3324780464,50.878200531",
+    "geom:latitude":50.878201,
+    "geom:longitude":4.332478,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Smet De Naeyer 277",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 77 71",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16sM64VEccUk9fbcIQqhjN_50.878201_4.332478@1306268402"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498087,
+    "wof:geomhash":"28a54f86a606596577be1f024d9e7b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1042132633
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1042132633
+        }
+    ],
+    "wof:id":1042132633,
+    "wof:lastmodified":1473498087,
+    "wof:name":"Frankfort Marc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3324780464,
+    50.878200531,
+    4.3324780464,
+    50.878200531
+],
+  "geometry": {"coordinates":[4.3324780464,50.878200531],"type":"Point"}
+}

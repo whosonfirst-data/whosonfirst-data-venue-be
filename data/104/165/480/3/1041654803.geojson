@@ -1,0 +1,79 @@
+{
+  "id": 1041654803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2672519684,50.8491744995,4.2672519684,50.8491744995",
+    "geom:latitude":50.849174,
+    "geom:longitude":4.267252,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henri Moeremanslaan 8",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 12 72",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rcPmsL4DL4D2g6ajcyifz_50.849174_4.267252@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477527,
+    "wof:geomhash":"5f5a4edf3af6de0507f9a6c99cd64dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1041654803
+        }
+    ],
+    "wof:id":1041654803,
+    "wof:lastmodified":1473477527,
+    "wof:name":"R\u00e9sidence Maria Assumpta",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.2672519684,
+    50.8491744995,
+    4.2672519684,
+    50.8491744995
+],
+  "geometry": {"coordinates":[4.2672519684,50.8491744995],"type":"Point"}
+}

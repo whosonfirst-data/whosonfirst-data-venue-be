@@ -1,0 +1,66 @@
+{
+  "id": 1058663535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.7018928528,50.8782501221,4.7018928528,50.8782501221",
+    "geom:latitude":50.87825,
+    "geom:longitude":4.701893,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muntstraat 18",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 22 85 88",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ajs8drt7exM0x11W3WLZv_50.878250_4.701893@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535568,
+    "wof:geomhash":"610b26d6d9686d7a6295274883cda72c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058663535
+        }
+    ],
+    "wof:id":1058663535,
+    "wof:lastmodified":1473535568,
+    "wof:name":"Acquasanta",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7018928528,
+    50.8782501221,
+    4.7018928528,
+    50.8782501221
+],
+  "geometry": {"coordinates":[4.7018928528,50.8782501221],"type":"Point"}
+}

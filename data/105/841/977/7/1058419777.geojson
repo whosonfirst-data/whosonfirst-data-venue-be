@@ -1,0 +1,77 @@
+{
+  "id": 1058419777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3722300529,50.8706550598,4.3722300529,50.8706550598",
+    "geom:latitude":50.870655,
+    "geom:longitude":4.37223,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois-joseph Navez 23",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 33 83",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "motorbike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ihh9WYHrAIPTT6Sa30rqS_50.870655_4.372230@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524131,
+    "wof:geomhash":"456c91682c445aec98b3140091765b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058419777
+        }
+    ],
+    "wof:id":1058419777,
+    "wof:lastmodified":1473524131,
+    "wof:name":"Moto Alex",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorbike"
+    ]
+},
+  "bbox": [
+    4.3722300529,
+    50.8706550598,
+    4.3722300529,
+    50.8706550598
+],
+  "geometry": {"coordinates":[4.3722300529,50.8706550598],"type":"Point"}
+}

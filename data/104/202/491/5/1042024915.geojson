@@ -1,0 +1,77 @@
+{
+  "id": 1042024915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4692411423,51.1508979797,4.4692411423,51.1508979797",
+    "geom:latitude":51.150898,
+    "geom:longitude":4.469241,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nieuwstraat 84",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 19 23",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LoLC5akgxZP7tDYrFTXNF_51.150898_4.469241@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493245,
+    "wof:geomhash":"156759b816b4b9063d49de42f8fa1e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042024915
+        }
+    ],
+    "wof:id":1042024915,
+    "wof:lastmodified":1473493245,
+    "wof:name":"Paul Van Hee",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4692411423,
+    51.1508979797,
+    4.4692411423,
+    51.1508979797
+],
+  "geometry": {"coordinates":[4.4692411423,51.1508979797],"type":"Point"}
+}

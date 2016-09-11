@@ -1,0 +1,77 @@
+{
+  "id": 1058865827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.339430809,51.1795082092,4.339430809,51.1795082092",
+    "geom:latitude":51.179508,
+    "geom:longitude":4.339431,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boombekelaan 14",
+    "sg:city":"Hoboken",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 820 02 00",
+    "sg:postcode":"2660",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XpWFTRlzNWz83FWK5YeAZ_51.179508_4.339431@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544400,
+    "wof:geomhash":"8124df1fc29ef0ec70a43580cb1a9cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1058865827
+        }
+    ],
+    "wof:id":1058865827,
+    "wof:lastmodified":1473544400,
+    "wof:name":"Interkommunale Voor Teledistributie Van Het Gewest A Cvba",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    4.339430809,
+    51.1795082092,
+    4.339430809,
+    51.1795082092
+],
+  "geometry": {"coordinates":[4.339430809,51.1795082092],"type":"Point"}
+}

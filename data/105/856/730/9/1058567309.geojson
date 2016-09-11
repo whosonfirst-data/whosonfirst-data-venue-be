@@ -1,0 +1,71 @@
+{
+  "id": 1058567309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5135531425,50.6720085144,5.5135531425,50.6720085144",
+    "geom:latitude":50.672009,
+    "geom:longitude":5.513553,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Reine Astrid 63",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 42 14",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtC8YqTxaoDNpiN2ItYgq_50.672009_5.513553@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531186,
+    "wof:geomhash":"80b6bd076e12bb2d57081bfbacde8c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1058567309
+        }
+    ],
+    "wof:id":1058567309,
+    "wof:lastmodified":1473531186,
+    "wof:name":"Schepers R",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5135531425,
+    50.6720085144,
+    5.5135531425,
+    50.6720085144
+],
+  "geometry": {"coordinates":[5.5135531425,50.6720085144],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058860283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3291540146,50.7864265442,4.3291540146,50.7864265442",
+    "geom:latitude":50.786427,
+    "geom:longitude":4.329154,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsembergse Steenweg 1191",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 16 18",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "taxi's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76lJp2Guswcmz2o9TWMXBI_50.786427_4.329154@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544173,
+    "wof:geomhash":"315afee37328d2f521cc73a5be95ce5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058860283
+        }
+    ],
+    "wof:id":1058860283,
+    "wof:lastmodified":1473544173,
+    "wof:name":"Touraya Et Cie",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi's"
+    ]
+},
+  "bbox": [
+    4.3291540146,
+    50.7864265442,
+    4.3291540146,
+    50.7864265442
+],
+  "geometry": {"coordinates":[4.3291540146,50.7864265442],"type":"Point"}
+}

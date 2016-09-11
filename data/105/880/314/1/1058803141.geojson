@@ -1,0 +1,79 @@
+{
+  "id": 1058803141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5561571121,50.635017395,5.5561571121,50.635017395",
+    "geom:latitude":50.635017,
+    "geom:longitude":5.556157,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ramoux 12",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 56 93",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QF2lm5ti5FRyfhQGjInQJ_50.635017_5.556157@1306268574"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541694,
+    "wof:geomhash":"237dc67727d6f874fbc11c48b81a9f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058803141
+        }
+    ],
+    "wof:id":1058803141,
+    "wof:lastmodified":1473541694,
+    "wof:name":"Fr\u00e8res C",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    5.5561571121,
+    50.635017395,
+    5.5561571121,
+    50.635017395
+],
+  "geometry": {"coordinates":[5.5561571121,50.635017395],"type":"Point"}
+}

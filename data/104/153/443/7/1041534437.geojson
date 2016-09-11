@@ -1,0 +1,81 @@
+{
+  "id": 1041534437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3259949684,50.8472824097,4.3259949684,50.8472824097",
+    "geom:latitude":50.847282,
+    "geom:longitude":4.325995,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Birmingham 56",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 01 86",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "spilled",
+        "liquid",
+        "absorbent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5evkjsvulgWk5LyUABafR3_50.847282_4.325995@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472587,
+    "wof:geomhash":"39c04f0ad0c90247789fbf2da8f50eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1041534437
+        }
+    ],
+    "wof:id":1041534437,
+    "wof:lastmodified":1473472587,
+    "wof:name":"Decloedt S.a.-n.v.",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spilled",
+        "liquid",
+        "absorbent"
+    ]
+},
+  "bbox": [
+    4.3259949684,
+    50.8472824097,
+    4.3259949684,
+    50.8472824097
+],
+  "geometry": {"coordinates":[4.3259949684,50.8472824097],"type":"Point"}
+}

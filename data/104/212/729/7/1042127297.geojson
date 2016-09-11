@@ -1,0 +1,79 @@
+{
+  "id": 1042127297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4723558426,51.1583518982,4.4723558426,51.1583518982",
+    "geom:latitude":51.158352,
+    "geom:longitude":4.472356,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Louis Van Lindenstraat 40",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 71 52",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X5EW9UG93tj7UWrZohBuc_51.158352_4.472356@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497797,
+    "wof:geomhash":"d7f30a9954690656a57aa05a9c87e428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042127297
+        }
+    ],
+    "wof:id":1042127297,
+    "wof:lastmodified":1473497797,
+    "wof:name":"Bouly A",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    4.4723558426,
+    51.1583518982,
+    4.4723558426,
+    51.1583518982
+],
+  "geometry": {"coordinates":[4.4723558426,51.1583518982],"type":"Point"}
+}

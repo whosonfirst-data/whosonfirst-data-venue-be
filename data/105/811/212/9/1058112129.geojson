@@ -1,0 +1,79 @@
+{
+  "id": 1058112129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4113488197,51.2426834106,4.4113488197,51.2426834106",
+    "geom:latitude":51.242683,
+    "geom:longitude":4.411349,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Octave Mahieu 37",
+    "sg:city":"Hautrage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 542 01 05",
+    "sg:postcode":"7334",
+    "sg:province":"Hainaut",
+    "sg:tags":[
+        "building",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PfE8Ce45ddcqRJUQ2y2A3_51.242683_4.411349@1306268447"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510095,
+    "wof:geomhash":"aba7d54a974b5393418365fd97a3a8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1058112129
+        }
+    ],
+    "wof:id":1058112129,
+    "wof:lastmodified":1473510095,
+    "wof:name":"Baeck Industri\u00cble Bekledingen Nv",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "material"
+    ]
+},
+  "bbox": [
+    4.4113488197,
+    51.2426834106,
+    4.4113488197,
+    51.2426834106
+],
+  "geometry": {"coordinates":[4.4113488197,51.2426834106],"type":"Point"}
+}

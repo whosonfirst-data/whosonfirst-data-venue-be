@@ -1,0 +1,71 @@
+{
+  "id": 1042149925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5228390694,50.6678276062,5.5228390694,50.6678276062",
+    "geom:latitude":50.667828,
+    "geom:longitude":5.522839,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Nations Unies 55",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 50 66",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63vdvuMG6yaoiUG0p9s9uT_50.667828_5.522839@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499023,
+    "wof:geomhash":"839648e03637b5cf98ee3219bfa9b450",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1042149925
+        }
+    ],
+    "wof:id":1042149925,
+    "wof:lastmodified":1473499023,
+    "wof:name":"Association Belge Des Dieteticiens",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dietitian"
+    ]
+},
+  "bbox": [
+    5.5228390694,
+    50.6678276062,
+    5.5228390694,
+    50.6678276062
+],
+  "geometry": {"coordinates":[5.5228390694,50.6678276062],"type":"Point"}
+}

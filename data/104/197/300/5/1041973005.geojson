@@ -1,0 +1,77 @@
+{
+  "id": 1041973005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3684520721,50.8115615845,4.3684520721,50.8115615845",
+    "geom:latitude":50.811562,
+    "geom:longitude":4.368452,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 789",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 346 52 83",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nSHIUuVfjcIBEdXYe20kh_50.811562_4.368452@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491230,
+    "wof:geomhash":"6e2c4d3860020a2e0d400d9ca7cf7d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041973005
+        }
+    ],
+    "wof:id":1041973005,
+    "wof:lastmodified":1473491230,
+    "wof:name":"Press Shop Longchamps",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3684520721,
+    50.8115615845,
+    4.3684520721,
+    50.8115615845
+],
+  "geometry": {"coordinates":[4.3684520721,50.8115615845],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042123407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.7050199509,50.6427078247,5.7050199509,50.6427078247",
+    "geom:latitude":50.642708,
+    "geom:longitude":5.70502,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Matefosse 8",
+    "sg:city":"Evegn\u00e9e",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 377 17 76",
+    "sg:postcode":"4631",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "training",
+        "application",
+        "processing",
+        "consulting",
+        "course",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801807,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ML2KdMKB3jHwf90OKMPOe_50.642708_5.705020@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497574,
+    "wof:geomhash":"275dba2deec088558fe904967d813592",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801807,
+            "region_id":85681691,
+            "venue_id":1042123407
+        }
+    ],
+    "wof:id":1042123407,
+    "wof:lastmodified":1473497574,
+    "wof:name":"Gibeltec",
+    "wof:parent_id":85801807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "application",
+        "processing",
+        "consulting",
+        "course",
+        "data"
+    ]
+},
+  "bbox": [
+    5.7050199509,
+    50.6427078247,
+    5.7050199509,
+    50.6427078247
+],
+  "geometry": {"coordinates":[5.7050199509,50.6427078247],"type":"Point"}
+}

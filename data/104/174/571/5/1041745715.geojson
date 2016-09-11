@@ -1,0 +1,79 @@
+{
+  "id": 1041745715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4189939499,51.218372345,4.4189939499,51.218372345",
+    "geom:latitude":51.218372,
+    "geom:longitude":4.418994,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Statiestraat 15",
+    "sg:city":"Antwerpen (ekeren)",
+    "sg:classifiers":[
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 29 32",
+    "sg:postcode":"2180",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "terrain",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aqFudo2pcwdorGkwjzy2f_51.218372_4.418994@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481197,
+    "wof:geomhash":"b85aed94694fef5b88a7a3e31bf13986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041745715
+        }
+    ],
+    "wof:id":1041745715,
+    "wof:lastmodified":1473481197,
+    "wof:name":"A Splendid 4 X 4 Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terrain",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    4.4189939499,
+    51.218372345,
+    4.4189939499,
+    51.218372345
+],
+  "geometry": {"coordinates":[4.4189939499,51.218372345],"type":"Point"}
+}

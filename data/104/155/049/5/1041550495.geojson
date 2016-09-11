@@ -1,0 +1,79 @@
+{
+  "id": 1041550495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3469772339,50.835521698,4.3469772339,50.835521698",
+    "geom:latitude":50.835522,
+    "geom:longitude":4.346977,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Haute 305",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 60 44",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W6y5sA4elncY4YDDOrggO_50.835522_4.346977@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473208,
+    "wof:geomhash":"994e17d8bae6b0ff9b90d6d78f89c529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041550495
+        }
+    ],
+    "wof:id":1041550495,
+    "wof:lastmodified":1473473208,
+    "wof:name":"Didion A",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3469772339,
+    50.835521698,
+    4.3469772339,
+    50.835521698
+],
+  "geometry": {"coordinates":[4.3469772339,50.835521698],"type":"Point"}
+}

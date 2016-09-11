@@ -1,0 +1,73 @@
+{
+  "id": 1058164727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6869258881,50.8761100769,4.6869258881,50.8761100769",
+    "geom:latitude":50.87611,
+    "geom:longitude":4.686926,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bankstraat 91",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 29 32 08",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tDndnB4lysmHQ1n3bq1RN_50.876110_4.686926@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512653,
+    "wof:geomhash":"81c8e4c04aa28b1328a57a4cce415fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058164727
+        }
+    ],
+    "wof:id":1058164727,
+    "wof:lastmodified":1473512653,
+    "wof:name":"Evenepoel P",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6869258881,
+    50.8761100769,
+    4.6869258881,
+    50.8761100769
+],
+  "geometry": {"coordinates":[4.6869258881,50.8761100769],"type":"Point"}
+}

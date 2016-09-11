@@ -1,0 +1,79 @@
+{
+  "id": 1058533645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5691652298,50.6257247925,5.5691652298,50.6257247925",
+    "geom:latitude":50.625725,
+    "geom:longitude":5.569165,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paradis 61a",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 254 24 27",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "perfumery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ieHjzBxJnPZfTV4A37c3_50.625725_5.569165@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529649,
+    "wof:geomhash":"d3762f6d0acf2016aeab1a64e82fdb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1058533645
+        }
+    ],
+    "wof:id":1058533645,
+    "wof:lastmodified":1473529649,
+    "wof:name":"Belysa Cosm\u00e9tique",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "perfumery"
+    ]
+},
+  "bbox": [
+    5.5691652298,
+    50.6257247925,
+    5.5691652298,
+    50.6257247925
+],
+  "geometry": {"coordinates":[5.5691652298,50.6257247925],"type":"Point"}
+}

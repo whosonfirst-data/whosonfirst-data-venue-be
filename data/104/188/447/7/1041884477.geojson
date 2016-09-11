@@ -1,0 +1,79 @@
+{
+  "id": 1041884477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6440200806,50.6423606873,5.6440200806,50.6423606873",
+    "geom:latitude":50.642361,
+    "geom:longitude":5.64402,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Couvent 80",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 64 32",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800809,
+        102191581,
+        85632997,
+        404227353,
+        101755201,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YGs3a9qAkLVcL7kGz1lq6_50.642361_5.644020@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487269,
+    "wof:geomhash":"bf0cb1a7b84832af53c2724149c0f5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755201,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800809,
+            "region_id":85681691,
+            "venue_id":1041884477
+        }
+    ],
+    "wof:id":1041884477,
+    "wof:lastmodified":1473487269,
+    "wof:name":"T C M E-spits Boulangerie",
+    "wof:parent_id":85800809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.6440200806,
+    50.6423606873,
+    5.6440200806,
+    50.6423606873
+],
+  "geometry": {"coordinates":[5.6440200806,50.6423606873],"type":"Point"}
+}

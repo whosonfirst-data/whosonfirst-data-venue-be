@@ -1,0 +1,81 @@
+{
+  "id": 1058101179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5370550156,50.8789482117,4.5370550156,50.8789482117",
+    "geom:latitude":50.878948,
+    "geom:longitude":4.537055,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vogelenzangstraat 123",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 757 01 01",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801697,
+        102191581,
+        85632997,
+        404227357,
+        101754327,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VsLI2U7rTlMMWU0ZPnyjv_50.878948_4.537055@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509643,
+    "wof:geomhash":"8d78deae00447f51c2007545b74a762f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754327,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801697,
+            "region_id":85681731,
+            "venue_id":1058101179
+        }
+    ],
+    "wof:id":1058101179,
+    "wof:lastmodified":1473509643,
+    "wof:name":"Parnassia Bvba",
+    "wof:parent_id":85801697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.5370550156,
+    50.8789482117,
+    4.5370550156,
+    50.8789482117
+],
+  "geometry": {"coordinates":[4.5370550156,50.8789482117],"type":"Point"}
+}

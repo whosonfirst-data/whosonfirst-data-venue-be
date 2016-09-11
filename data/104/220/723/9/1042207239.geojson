@@ -1,0 +1,83 @@
+{
+  "id": 1042207239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2597789764,50.8599205017,4.2597789764,50.8599205017",
+    "geom:latitude":50.859921,
+    "geom:longitude":4.259779,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zonlaan 67",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 46 94",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35h3iDqHIbsc5UZpENwLF4_50.859921_4.259779@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502303,
+    "wof:geomhash":"8c12d70f4a822828e39d94946d9d3346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1042207239
+        }
+    ],
+    "wof:id":1042207239,
+    "wof:lastmodified":1473502303,
+    "wof:name":"Praet Filip Com V",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.2597789764,
+    50.8599205017,
+    4.2597789764,
+    50.8599205017
+],
+  "geometry": {"coordinates":[4.2597789764,50.8599205017],"type":"Point"}
+}

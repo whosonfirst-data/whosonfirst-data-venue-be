@@ -1,0 +1,77 @@
+{
+  "id": 1041947629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7245569229,51.0480690002,3.7245569229,51.0480690002",
+    "geom:latitude":51.048069,
+    "geom:longitude":3.724557,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pollepelstraat 15",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 03 49",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "boarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p0YH2vUCRXOE9TUMYtPta_51.048069_3.724557@1306268366"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489991,
+    "wof:geomhash":"5412ebb7f26c98485013bd4dc2e4fec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041947629
+        }
+    ],
+    "wof:id":1041947629,
+    "wof:lastmodified":1473489991,
+    "wof:name":"Home Charles De Kerchove",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding"
+    ]
+},
+  "bbox": [
+    3.7245569229,
+    51.0480690002,
+    3.7245569229,
+    51.0480690002
+],
+  "geometry": {"coordinates":[3.7245569229,51.0480690002],"type":"Point"}
+}

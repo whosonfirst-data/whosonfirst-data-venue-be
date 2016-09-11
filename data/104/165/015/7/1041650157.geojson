@@ -1,0 +1,77 @@
+{
+  "id": 1041650157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4035949707,50.8379058838,4.4035949707,50.8379058838",
+    "geom:latitude":50.837906,
+    "geom:longitude":4.403595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Tervueren 103 Box 1",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 99 74",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40z2p8utSudPYhwopEv3pU_50.837906_4.403595@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477351,
+    "wof:geomhash":"03cd69250777e18e557aab8a2ecbb5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041650157
+        }
+    ],
+    "wof:id":1041650157,
+    "wof:lastmodified":1473477351,
+    "wof:name":"De Mol J",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    4.4035949707,
+    50.8379058838,
+    4.4035949707,
+    50.8379058838
+],
+  "geometry": {"coordinates":[4.4035949707,50.8379058838],"type":"Point"}
+}

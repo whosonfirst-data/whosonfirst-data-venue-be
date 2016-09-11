@@ -1,0 +1,71 @@
+{
+  "id": 1042059767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5205159187,51.1761932373,4.5205159187,51.1761932373",
+    "geom:latitude":51.176193,
+    "geom:longitude":4.520516,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Weverstraat 41",
+    "sg:city":"Boechout (vremde)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 454 13 06",
+    "sg:postcode":"2531",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DP9tong9P9VXD6V59NkK1_51.176193_4.520516@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494670,
+    "wof:geomhash":"b764da57c296a62a00b21289bcb0e2fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042059767
+        }
+    ],
+    "wof:id":1042059767,
+    "wof:lastmodified":1473494670,
+    "wof:name":"Herreman M",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.5205159187,
+    51.1761932373,
+    4.5205159187,
+    51.1761932373
+],
+  "geometry": {"coordinates":[4.5205159187,51.1761932373],"type":"Point"}
+}

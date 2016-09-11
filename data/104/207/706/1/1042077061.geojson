@@ -1,0 +1,77 @@
+{
+  "id": 1042077061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2914252281,50.8358345032,4.2914252281,50.8358345032",
+    "geom:latitude":50.835835,
+    "geom:longitude":4.291425,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue K. Vande Woestijne 80",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 26 74",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jtXvgdtb8yIrj69gWGIiq_50.835835_4.291425@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495375,
+    "wof:geomhash":"a694217889e1b1f000a1a23d249d8906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1042077061
+        }
+    ],
+    "wof:id":1042077061,
+    "wof:lastmodified":1473495375,
+    "wof:name":"B.c. Education Bruxelles",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    4.2914252281,
+    50.8358345032,
+    4.2914252281,
+    50.8358345032
+],
+  "geometry": {"coordinates":[4.2914252281,50.8358345032],"type":"Point"}
+}

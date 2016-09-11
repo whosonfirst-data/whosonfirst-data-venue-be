@@ -1,0 +1,83 @@
+{
+  "id": 1041548669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4054150581,50.827671051,4.4054150581,50.827671051",
+    "geom:latitude":50.827671,
+    "geom:longitude":4.405415,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Commandant Lothaire 72",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 90 15",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77qAz3rnGMHDHuiM5S5Fm1_50.827671_4.405415@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473135,
+    "wof:geomhash":"baad4e5a81f2d13b35bb559d9f1a3959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1041548669
+        }
+    ],
+    "wof:id":1041548669,
+    "wof:lastmodified":1473473135,
+    "wof:name":"Mike's Hand Wash Sprl",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.4054150581,
+    50.827671051,
+    4.4054150581,
+    50.827671051
+],
+  "geometry": {"coordinates":[4.4054150581,50.827671051],"type":"Point"}
+}

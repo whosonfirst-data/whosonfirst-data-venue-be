@@ -1,0 +1,79 @@
+{
+  "id": 1058748445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.349820137,50.8474578857,4.349820137,50.8474578857",
+    "geom:latitude":50.847458,
+    "geom:longitude":4.34982,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Pierres 24",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 14 59",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ZOhb50MVqOECw1NCnYQI_50.847458_4.349820@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539257,
+    "wof:geomhash":"d255fdb6f9eb5d0f8fbe6e75a5a898e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058748445
+        }
+    ],
+    "wof:id":1058748445,
+    "wof:lastmodified":1473539257,
+    "wof:name":"Yves Bartier New Look",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.349820137,
+    50.8474578857,
+    4.349820137,
+    50.8474578857
+],
+  "geometry": {"coordinates":[4.349820137,50.8474578857],"type":"Point"}
+}

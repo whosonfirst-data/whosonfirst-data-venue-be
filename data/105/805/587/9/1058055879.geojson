@@ -1,0 +1,72 @@
+{
+  "id": 1058055879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2151629925,51.2159423828,3.2151629925,51.2159423828",
+    "geom:latitude":51.215942,
+    "geom:longitude":3.215163,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Werfstraat 1",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 76 35",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801895,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Anjt0IJ4Am9aWzNt9WJxP_51.215942_3.215163@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507755,
+    "wof:geomhash":"5168b7cc5ae68cc0db703ad9b5f24fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801895,
+            "region_id":85681709,
+            "venue_id":1058055879
+        }
+    ],
+    "wof:id":1058055879,
+    "wof:lastmodified":1473507755,
+    "wof:name":"Palladio",
+    "wof:parent_id":85801895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2151629925,
+    51.2159423828,
+    3.2151629925,
+    51.2159423828
+],
+  "geometry": {"coordinates":[3.2151629925,51.2159423828],"type":"Point"}
+}

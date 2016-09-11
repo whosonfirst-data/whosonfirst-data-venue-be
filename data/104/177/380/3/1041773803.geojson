@@ -1,0 +1,66 @@
+{
+  "id": 1041773803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.465528965,50.665309906,5.465528965,50.665309906",
+    "geom:latitude":50.66531,
+    "geom:longitude":5.465529,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean Schoenaerts 20",
+    "sg:city":"Awans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 49 90",
+    "sg:postcode":"4340",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O8ExaOWaUN5dq7TeGe5aD_50.665310_5.465529@1306268336"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482685,
+    "wof:geomhash":"9d6049bff173eb1c04b96be086651bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1041773803
+        }
+    ],
+    "wof:id":1041773803,
+    "wof:lastmodified":1473482685,
+    "wof:name":"David Ph",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.465528965,
+    50.665309906,
+    5.465528965,
+    50.665309906
+],
+  "geometry": {"coordinates":[5.465528965,50.665309906],"type":"Point"}
+}

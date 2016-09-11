@@ -1,0 +1,77 @@
+{
+  "id": 1058556565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3714981079,50.8608665466,4.3714981079,50.8608665466",
+    "geom:latitude":50.860867,
+    "geom:longitude":4.371498,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 191",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 98 15",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAF8uLct0KqHM0Sb7nB5g_50.860867_4.371498@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530652,
+    "wof:geomhash":"a028888db1317d29cbd93008d241b954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058556565
+        }
+    ],
+    "wof:id":1058556565,
+    "wof:lastmodified":1473530652,
+    "wof:name":"Favresse R",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3714981079,
+    50.8608665466,
+    4.3714981079,
+    50.8608665466
+],
+  "geometry": {"coordinates":[4.3714981079,50.8608665466],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042044783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3552041054,50.825881958,4.3552041054,50.825881958",
+    "geom:latitude":50.825882,
+    "geom:longitude":4.355204,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Defacqz 137",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 73 85",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "cd's",
+        "recorded",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Afa5PYYYSIA56jfZUlRbl_50.825882_4.355204@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494047,
+    "wof:geomhash":"f4126c56548ef0f1a24a497f1060de05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042044783
+        }
+    ],
+    "wof:id":1042044783,
+    "wof:lastmodified":1473494047,
+    "wof:name":"Music Room (the)",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "cd's",
+        "recorded",
+        "cassette"
+    ]
+},
+  "bbox": [
+    4.3552041054,
+    50.825881958,
+    4.3552041054,
+    50.825881958
+],
+  "geometry": {"coordinates":[4.3552041054,50.825881958],"type":"Point"}
+}

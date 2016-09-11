@@ -1,0 +1,81 @@
+{
+  "id": 1058221717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4196400642,51.2076377869,4.4196400642,51.2076377869",
+    "geom:latitude":51.207638,
+    "geom:longitude":4.41964,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Charlottalei 57",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 281 83 16",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UL9ieGVY6y4SZ8vp86OoO_51.207638_4.419640@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515160,
+    "wof:geomhash":"3e56c0c51338aa2855de3d058d1793be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058221717
+        }
+    ],
+    "wof:id":1058221717,
+    "wof:lastmodified":1473515160,
+    "wof:name":"Eurogroup-be Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4196400642,
+    51.2076377869,
+    4.4196400642,
+    51.2076377869
+],
+  "geometry": {"coordinates":[4.4196400642,51.2076377869],"type":"Point"}
+}

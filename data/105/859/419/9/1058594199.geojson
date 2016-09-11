@@ -1,0 +1,77 @@
+{
+  "id": 1058594199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3732209206,50.8623542786,4.3732209206,50.8623542786",
+    "geom:latitude":50.862354,
+    "geom:longitude":4.373221,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Ruche 1",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 74 32",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LtrvS5J50d5n0gRCY0HMd_50.862354_4.373221@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532364,
+    "wof:geomhash":"e88d21d9f2494ded97e3d6d24ee0281e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058594199
+        }
+    ],
+    "wof:id":1058594199,
+    "wof:lastmodified":1473532364,
+    "wof:name":"Plomberie 2000",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3732209206,
+    50.8623542786,
+    4.3732209206,
+    50.8623542786
+],
+  "geometry": {"coordinates":[4.3732209206,50.8623542786],"type":"Point"}
+}

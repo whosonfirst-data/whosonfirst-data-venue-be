@@ -1,0 +1,90 @@
+{
+  "id": 1058875021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3885350227,50.8543014526,4.3885350227,50.8543014526",
+    "geom:latitude":50.854301,
+    "geom:longitude":4.388535,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Chazal 46",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 94 83 79",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "theatrical",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ld2YsXBSXiXmwq2Aw8xq_50.854301_4.388535@1306268588"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544787,
+    "wof:geomhash":"22a6e05fc3fb93a8ee5425fbfad42661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058875021
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058875021
+        }
+    ],
+    "wof:id":1058875021,
+    "wof:lastmodified":1473544787,
+    "wof:name":"Albatros Sprl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "agency"
+    ]
+},
+  "bbox": [
+    4.3885350227,
+    50.8543014526,
+    4.3885350227,
+    50.8543014526
+],
+  "geometry": {"coordinates":[4.3885350227,50.8543014526],"type":"Point"}
+}

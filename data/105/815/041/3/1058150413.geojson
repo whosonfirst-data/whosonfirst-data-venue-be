@@ -1,0 +1,81 @@
+{
+  "id": 1058150413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3501391411,50.8386421204,4.3501391411,50.8386421204",
+    "geom:latitude":50.838642,
+    "geom:longitude":4.350139,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Haute 139",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 502 58 50",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahpguAh3ReJrLrKT3gDga_50.838642_4.350139@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512015,
+    "wof:geomhash":"71cd8f075d96a9cd6a0bbb8edf01f5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058150413
+        }
+    ],
+    "wof:id":1058150413,
+    "wof:lastmodified":1473512015,
+    "wof:name":"Orangerie D'egmont (l')",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    4.3501391411,
+    50.8386421204,
+    4.3501391411,
+    50.8386421204
+],
+  "geometry": {"coordinates":[4.3501391411,50.8386421204],"type":"Point"}
+}

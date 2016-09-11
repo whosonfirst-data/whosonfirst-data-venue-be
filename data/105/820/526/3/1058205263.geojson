@@ -1,0 +1,81 @@
+{
+  "id": 1058205263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6925640106,51.1091880798,3.6925640106,51.1091880798",
+    "geom:latitude":51.109188,
+    "geom:longitude":3.692564,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schoonstraat 55",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 50 02",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "supply",
+        "hotels",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RL7vSTs0FQie7jYodh8yr_51.109188_3.692564@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514414,
+    "wof:geomhash":"396d978fc8d775e6f5faf00db162bb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1058205263
+        }
+    ],
+    "wof:id":1058205263,
+    "wof:lastmodified":1473514414,
+    "wof:name":"Van Driessche Eddy Bvba",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "hotels",
+        "catering"
+    ]
+},
+  "bbox": [
+    3.6925640106,
+    51.1091880798,
+    3.6925640106,
+    51.1091880798
+],
+  "geometry": {"coordinates":[3.6925640106,51.1091880798],"type":"Point"}
+}

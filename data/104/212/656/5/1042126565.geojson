@@ -1,0 +1,77 @@
+{
+  "id": 1042126565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3915400505,50.7255706787,4.3915400505,50.7255706787",
+    "geom:latitude":50.725571,
+    "geom:longitude":4.39154,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Lilas 101",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 42 01",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uVyv8b9wAro14uODIyW4m_50.725571_4.391540@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497734,
+    "wof:geomhash":"cc9dd18bdc650c3713654dd65f4cbd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042126565
+        }
+    ],
+    "wof:id":1042126565,
+    "wof:lastmodified":1473497734,
+    "wof:name":"Escargoti\u00e8re De Waterloo",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    4.3915400505,
+    50.7255706787,
+    4.3915400505,
+    50.7255706787
+],
+  "geometry": {"coordinates":[4.3915400505,50.7255706787],"type":"Point"}
+}

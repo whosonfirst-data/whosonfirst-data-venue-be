@@ -1,0 +1,79 @@
+{
+  "id": 1058168515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6335859299,50.6455612183,5.6335859299,50.6455612183",
+    "geom:latitude":50.645561,
+    "geom:longitude":5.633586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pokietonov 8",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 370 90 60",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801339,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HDV4tEP8KmNgGienYa9sq_50.645561_5.633586@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512832,
+    "wof:geomhash":"fb37d8c10350fca8ca98ce40a857791e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801339,
+            "region_id":85681691,
+            "venue_id":1058168515
+        }
+    ],
+    "wof:id":1058168515,
+    "wof:lastmodified":1473512832,
+    "wof:name":"Horion Marc",
+    "wof:parent_id":85801339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6335859299,
+    50.6455612183,
+    5.6335859299,
+    50.6455612183
+],
+  "geometry": {"coordinates":[5.6335859299,50.6455612183],"type":"Point"}
+}

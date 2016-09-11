@@ -1,0 +1,79 @@
+{
+  "id": 1058893199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.349105835,51.1490516663,4.349105835,51.1490516663",
+    "geom:latitude":51.149052,
+    "geom:longitude":4.349106,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heiligstraat 134",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 76 56",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73CxFzltoLRxtxEVyDAkWL_51.149052_4.349106@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545597,
+    "wof:geomhash":"26727b617e8b1473881b8924ba503499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058893199
+        }
+    ],
+    "wof:id":1058893199,
+    "wof:lastmodified":1473545597,
+    "wof:name":"Seifert & Zn Bvba",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.349105835,
+    51.1490516663,
+    4.349105835,
+    51.1490516663
+],
+  "geometry": {"coordinates":[4.349105835,51.1490516663],"type":"Point"}
+}

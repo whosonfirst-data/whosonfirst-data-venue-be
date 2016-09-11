@@ -1,0 +1,79 @@
+{
+  "id": 1058511729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3773508072,50.8497657776,4.3773508072,50.8497657776",
+    "geom:latitude":50.849766,
+    "geom:longitude":4.377351,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 174",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 71 70",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NFkTFNQR0rorr9tUb7RVm_50.849766_4.377351@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528612,
+    "wof:geomhash":"3db4d3e47c5f497b3d3fad26068a02ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058511729
+        }
+    ],
+    "wof:id":1058511729,
+    "wof:lastmodified":1473528612,
+    "wof:name":"Danis",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3773508072,
+    50.8497657776,
+    4.3773508072,
+    50.8497657776
+],
+  "geometry": {"coordinates":[4.3773508072,50.8497657776],"type":"Point"}
+}

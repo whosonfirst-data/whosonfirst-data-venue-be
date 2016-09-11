@@ -1,0 +1,71 @@
+{
+  "id": 1042060829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.7035698891,50.8721656799,4.7035698891,50.8721656799",
+    "geom:latitude":50.872166,
+    "geom:longitude":4.70357,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parkstraat 94",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 23 36 80",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJQTXmHQJwsIYNnk5HGM3_50.872166_4.703570@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494708,
+    "wof:geomhash":"d34ec6f195d889504f031c190d10e1a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1042060829
+        }
+    ],
+    "wof:id":1042060829,
+    "wof:lastmodified":1473494708,
+    "wof:name":"Penne M",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.7035698891,
+    50.8721656799,
+    4.7035698891,
+    50.8721656799
+],
+  "geometry": {"coordinates":[4.7035698891,50.8721656799],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1041984345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2296500206,51.2068405151,3.2296500206,51.2068405151",
+    "geom:latitude":51.206841,
+    "geom:longitude":3.22965,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jozef Suv\u00e9estraat 29",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 11 39",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709,
+        85862111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lvbifxa7XZyhekVAqVlb8_51.206841_3.229650@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491686,
+    "wof:geomhash":"4b905738483ad43ee9c2718f2b4afccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1041984345
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1041984345
+        }
+    ],
+    "wof:id":1041984345,
+    "wof:lastmodified":1473491686,
+    "wof:name":"Kids Of Cambridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    3.2296500206,
+    51.2068405151,
+    3.2296500206,
+    51.2068405151
+],
+  "geometry": {"coordinates":[3.2296500206,51.2068405151],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042206339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3393101692,50.8851928711,4.3393101692,50.8851928711",
+    "geom:latitude":50.885193,
+    "geom:longitude":4.33931,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De Smet De Naeyer 548",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 08 99",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZH8DLsHKrDWkLR1u6PSrQ_50.885193_4.339310@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502269,
+    "wof:geomhash":"ba58b1ec74eefe2fda1abd82483bd949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1042206339
+        }
+    ],
+    "wof:id":1042206339,
+    "wof:lastmodified":1473502269,
+    "wof:name":"Idelec Ino",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3393101692,
+    50.8851928711,
+    4.3393101692,
+    50.8851928711
+],
+  "geometry": {"coordinates":[4.3393101692,50.8851928711],"type":"Point"}
+}

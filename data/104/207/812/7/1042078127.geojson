@@ -1,0 +1,77 @@
+{
+  "id": 1042078127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4385080338,50.8360900879,4.4385080338,50.8360900879",
+    "geom:latitude":50.83609,
+    "geom:longitude":4.438508,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Montagne De La Gare 7",
+    "sg:city":"Woluwe-saint-pierre",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 763 17 12",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fWL6eRbfsA9FXd2T8zeKz_50.836090_4.438508@1306268391"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495424,
+    "wof:geomhash":"6348ec4245bc04bdf0dbe6c8ef0a9d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1042078127
+        }
+    ],
+    "wof:id":1042078127,
+    "wof:lastmodified":1473495424,
+    "wof:name":"Cercle D'escrime De Bruxelles",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    4.4385080338,
+    50.8360900879,
+    4.4385080338,
+    50.8360900879
+],
+  "geometry": {"coordinates":[4.4385080338,50.8360900879],"type":"Point"}
+}

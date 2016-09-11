@@ -1,0 +1,73 @@
+{
+  "id": 1058163433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4960570335,51.1604309082,4.4960570335,51.1604309082",
+    "geom:latitude":51.160431,
+    "geom:longitude":4.496057,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jan Frans Willemsstraat 79",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 454 42 88",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CuxDPW0PPH6byxgP7GM6T_51.160431_4.496057@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512580,
+    "wof:geomhash":"42cd9184c2a3c1ed3fc7eeff019feda5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058163433
+        }
+    ],
+    "wof:id":1058163433,
+    "wof:lastmodified":1473512580,
+    "wof:name":"Dobbelaere Sabine",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4960570335,
+    51.1604309082,
+    4.4960570335,
+    51.1604309082
+],
+  "geometry": {"coordinates":[4.4960570335,51.1604309082],"type":"Point"}
+}

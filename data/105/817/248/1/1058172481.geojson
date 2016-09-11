@@ -1,0 +1,73 @@
+{
+  "id": 1058172481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2316861153,51.2407417297,3.2316861153,51.2407417297",
+    "geom:latitude":51.240742,
+    "geom:longitude":3.231686,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dudzeelse Steenweg 321",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 59 97 58",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g1FNMYbaldCuN9pASps3v_51.240742_3.231686@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513005,
+    "wof:geomhash":"18ba7e544b4faf07d89196598b2cc0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058172481
+        }
+    ],
+    "wof:id":1058172481,
+    "wof:lastmodified":1473513005,
+    "wof:name":"Lust P",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.2316861153,
+    51.2407417297,
+    3.2316861153,
+    51.2407417297
+],
+  "geometry": {"coordinates":[3.2316861153,51.2407417297],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058679631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5448431969,50.6779670715,5.5448431969,50.6779670715",
+    "geom:latitude":50.677967,
+    "geom:longitude":5.544843,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Tongres 496",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 04 22",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahUtUUJCVDvwr19H3DJjD_50.677967_5.544843@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536265,
+    "wof:geomhash":"d0fd6c9e208611cc1155d317301ca724",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1058679631
+        }
+    ],
+    "wof:id":1058679631,
+    "wof:lastmodified":1473536265,
+    "wof:name":"Spiga D'oro",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5448431969,
+    50.6779670715,
+    5.5448431969,
+    50.6779670715
+],
+  "geometry": {"coordinates":[5.5448431969,50.6779670715],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058171449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.405175209,50.8283691406,4.405175209,50.8283691406",
+    "geom:latitude":50.828369,
+    "geom:longitude":4.405175,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Commandant Lothaire 50",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 16 75",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F2IsfJYA2uYfwfWsfIz0w_50.828369_4.405175@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512967,
+    "wof:geomhash":"101e892ce90844ff279c53de1787eaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058171449
+        }
+    ],
+    "wof:id":1058171449,
+    "wof:lastmodified":1473512967,
+    "wof:name":"Lejeune Pierre",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.405175209,
+    50.8283691406,
+    4.405175209,
+    50.8283691406
+],
+  "geometry": {"coordinates":[4.405175209,50.8283691406],"type":"Point"}
+}

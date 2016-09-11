@@ -1,0 +1,73 @@
+{
+  "id": 1058326513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2980051041,51.1471214294,4.2980051041,51.1471214294",
+    "geom:latitude":51.147121,
+    "geom:longitude":4.298005,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rupelmondestraat 7",
+    "sg:city":"Kruibeke (bazel)",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 774 38 49",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BHEJX7tz1lyEvPzq7YqT8_51.147121_4.298005@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519816,
+    "wof:geomhash":"07499e4c1f95dd943b94753215154d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058326513
+        }
+    ],
+    "wof:id":1058326513,
+    "wof:lastmodified":1473519816,
+    "wof:name":"Van Vaerenbergh E",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.2980051041,
+    51.1471214294,
+    4.2980051041,
+    51.1471214294
+],
+  "geometry": {"coordinates":[4.2980051041,51.1471214294],"type":"Point"}
+}

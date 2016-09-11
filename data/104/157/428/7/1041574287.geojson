@@ -1,0 +1,79 @@
+{
+  "id": 1041574287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6311421394,50.602355957,5.6311421394,50.602355957",
+    "geom:latitude":50.602356,
+    "geom:longitude":5.631142,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vall\u00e9e 128",
+    "sg:city":"Chaudfontaine (vaux-sous-ch\u00e8vremont)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 76 16",
+    "sg:postcode":"4051",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WRl617QiT1J4PlTDM3RIm_50.602356_5.631142@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474223,
+    "wof:geomhash":"186cfb96be7ad6ce44ca1388e9bd2224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1041574287
+        }
+    ],
+    "wof:id":1041574287,
+    "wof:lastmodified":1473474223,
+    "wof:name":"Burton Marc",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    5.6311421394,
+    50.602355957,
+    5.6311421394,
+    50.602355957
+],
+  "geometry": {"coordinates":[5.6311421394,50.602355957],"type":"Point"}
+}

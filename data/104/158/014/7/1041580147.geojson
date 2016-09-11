@@ -1,0 +1,71 @@
+{
+  "id": 1041580147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2637429237,50.8446960449,4.2637429237,50.8446960449",
+    "geom:latitude":50.844696,
+    "geom:longitude":4.263743,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marktplein 8",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 569 55 78",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GsGnzEEKlywYlI2ZZVzug_50.844696_4.263743@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474461,
+    "wof:geomhash":"07f2421baf774347cd4d53f5d109f55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1041580147
+        }
+    ],
+    "wof:id":1041580147,
+    "wof:lastmodified":1473474461,
+    "wof:name":"Gemeentelijk Lager Onderwijs Dilbeek",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.2637429237,
+    50.8446960449,
+    4.2637429237,
+    50.8446960449
+],
+  "geometry": {"coordinates":[4.2637429237,50.8446960449],"type":"Point"}
+}

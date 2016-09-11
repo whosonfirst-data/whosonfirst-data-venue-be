@@ -1,0 +1,81 @@
+{
+  "id": 1041738805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7051239014,51.1221313477,3.7051239014,51.1221313477",
+    "geom:latitude":51.122131,
+    "geom:longitude":3.705124,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reibroekstr. 78",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 357 75 25",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "horticulture",
+        "agriculture",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_680QAv3s1ZS8tAYZWrQDFh_51.122131_3.705124@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480855,
+    "wof:geomhash":"1a08ef86cba7429028e8dee9f3f902ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1041738805
+        }
+    ],
+    "wof:id":1041738805,
+    "wof:lastmodified":1473480855,
+    "wof:name":"Dhr Albin Geissler",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horticulture",
+        "agriculture",
+        "livestock"
+    ]
+},
+  "bbox": [
+    3.7051239014,
+    51.1221313477,
+    3.7051239014,
+    51.1221313477
+],
+  "geometry": {"coordinates":[3.7051239014,51.1221313477],"type":"Point"}
+}

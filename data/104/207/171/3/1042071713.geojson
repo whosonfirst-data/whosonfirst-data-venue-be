@@ -1,0 +1,81 @@
+{
+  "id": 1042071713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4052491188,51.2172050476,4.4052491188,51.2172050476",
+    "geom:latitude":51.217205,
+    "geom:longitude":4.405249,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Huidevettersstraat 32",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 227 24 07",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HNUZCiwozhGU2pJPQMwEX_51.217205_4.405249@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495147,
+    "wof:geomhash":"d94b51e25980d482647742b39ca31d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042071713
+        }
+    ],
+    "wof:id":1042071713,
+    "wof:lastmodified":1473495147,
+    "wof:name":"Paul & Shark Store",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    4.4052491188,
+    51.2172050476,
+    4.4052491188,
+    51.2172050476
+],
+  "geometry": {"coordinates":[4.4052491188,51.2172050476],"type":"Point"}
+}

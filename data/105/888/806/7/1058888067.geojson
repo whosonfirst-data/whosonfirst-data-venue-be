@@ -1,0 +1,77 @@
+{
+  "id": 1058888067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4423069954,50.8564682007,4.4423069954,50.8564682007",
+    "geom:latitude":50.856468,
+    "geom:longitude":4.442307,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Th\u00e9odore De Cuyper 282",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 05 76",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "translator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801919,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oXrX8rQ5vKM681zPxTtIc_50.856468_4.442307@1306268590"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545388,
+    "wof:geomhash":"1e22f512dcf9dff6f8f8b54920e3ff16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801919,
+            "region_id":85681731,
+            "venue_id":1058888067
+        }
+    ],
+    "wof:id":1058888067,
+    "wof:lastmodified":1473545388,
+    "wof:name":"Hang-van-u",
+    "wof:parent_id":85801919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translator"
+    ]
+},
+  "bbox": [
+    4.4423069954,
+    50.8564682007,
+    4.4423069954,
+    50.8564682007
+],
+  "geometry": {"coordinates":[4.4423069954,50.8564682007],"type":"Point"}
+}

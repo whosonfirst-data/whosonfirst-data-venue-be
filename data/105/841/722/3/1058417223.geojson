@@ -1,0 +1,79 @@
+{
+  "id": 1058417223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3911919594,50.8193855286,4.3911919594,50.8193855286",
+    "geom:latitude":50.819386,
+    "geom:longitude":4.391192,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Couronne 311 Box 8",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 06 46",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "loan",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RyVGhmkG4hEZFlcyyf5cu_50.819386_4.391192@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524007,
+    "wof:geomhash":"683cf6fd7cffa5e5855df94c5a18270f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058417223
+        }
+    ],
+    "wof:id":1058417223,
+    "wof:lastmodified":1473524007,
+    "wof:name":"Assur 2000 Scrl",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    4.3911919594,
+    50.8193855286,
+    4.3911919594,
+    50.8193855286
+],
+  "geometry": {"coordinates":[4.3911919594,50.8193855286],"type":"Point"}
+}

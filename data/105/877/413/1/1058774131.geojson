@@ -1,0 +1,77 @@
+{
+  "id": 1058774131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2933602333,50.8707885742,4.2933602333,50.8707885742",
+    "geom:latitude":50.870789,
+    "geom:longitude":4.29336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 442",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 33 32",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "shoemaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZihvY7uU8FcBTTwVZchQa_50.870789_4.293360@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540423,
+    "wof:geomhash":"dbfc5adbe90804a438130f451b91ac9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058774131
+        }
+    ],
+    "wof:id":1058774131,
+    "wof:lastmodified":1473540423,
+    "wof:name":"Mister Minit",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoemaker"
+    ]
+},
+  "bbox": [
+    4.2933602333,
+    50.8707885742,
+    4.2933602333,
+    50.8707885742
+],
+  "geometry": {"coordinates":[4.2933602333,50.8707885742],"type":"Point"}
+}

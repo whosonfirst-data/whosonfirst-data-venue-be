@@ -1,0 +1,81 @@
+{
+  "id": 1042001161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3532810211,50.8319015503,4.3532810211,50.8319015503",
+    "geom:latitude":50.831902,
+    "geom:longitude":4.353281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Loix 1",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 88 35",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I6D75R7szntdnsnDrr10D_50.831902_4.353281@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492354,
+    "wof:geomhash":"da557907b20f27cf0ad8d286975641c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042001161
+        }
+    ],
+    "wof:id":1042001161,
+    "wof:lastmodified":1473492354,
+    "wof:name":"Sogersto Sa",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3532810211,
+    50.8319015503,
+    4.3532810211,
+    50.8319015503
+],
+  "geometry": {"coordinates":[4.3532810211,50.8319015503],"type":"Point"}
+}

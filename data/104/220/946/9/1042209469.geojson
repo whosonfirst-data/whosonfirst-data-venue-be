@@ -1,0 +1,81 @@
+{
+  "id": 1042209469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3574128151,50.7496376038,4.3574128151,50.7496376038",
+    "geom:latitude":50.749638,
+    "geom:longitude":4.357413,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Chapelle Beaussart 80",
+    "sg:city":"Charleroi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 21 86",
+    "sg:postcode":"6030",
+    "sg:province":"Hainaut",
+    "sg:tags":[
+        "electronic",
+        "electrical",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bG8crP7nEZe2j4ynuIGYp_50.749638_4.357413@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502401,
+    "wof:geomhash":"7d88ead6c60f842cd74d96f14cdb7296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042209469
+        }
+    ],
+    "wof:id":1042209469,
+    "wof:lastmodified":1473502401,
+    "wof:name":"Altaluce Nv",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "electrical",
+        "equipment"
+    ]
+},
+  "bbox": [
+    4.3574128151,
+    50.7496376038,
+    4.3574128151,
+    50.7496376038
+],
+  "geometry": {"coordinates":[4.3574128151,50.7496376038],"type":"Point"}
+}

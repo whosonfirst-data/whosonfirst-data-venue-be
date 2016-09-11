@@ -1,0 +1,79 @@
+{
+  "id": 1058157015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3676037788,50.7918548584,4.3676037788,50.7918548584",
+    "geom:latitude":50.791855,
+    "geom:longitude":4.367604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Alphonse Xiii 70",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 02 19",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qlJJcRzDH4eRCASn3Rdac_50.791855_4.367604@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512315,
+    "wof:geomhash":"c5705494baffe2e43a24dea5dcc2e67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058157015
+        }
+    ],
+    "wof:id":1058157015,
+    "wof:lastmodified":1473512315,
+    "wof:name":"Carly Francis",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3676037788,
+    50.7918548584,
+    4.3676037788,
+    50.7918548584
+],
+  "geometry": {"coordinates":[4.3676037788,50.7918548584],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058867833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3441290855,50.7448272705,4.3441290855,50.7448272705",
+    "geom:latitude":50.744827,
+    "geom:longitude":4.344129,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Village 19",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 54 15",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W7wYOJUAE09p8iup1AM7j_50.744827_4.344129@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544477,
+    "wof:geomhash":"53f8e739c9ab9e9f4c0b5507fdf8ee47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058867833
+        }
+    ],
+    "wof:id":1058867833,
+    "wof:lastmodified":1473544477,
+    "wof:name":"Tv Service Hellinckx",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3441290855,
+    50.7448272705,
+    4.3441290855,
+    50.7448272705
+],
+  "geometry": {"coordinates":[4.3441290855,50.7448272705],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058034255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2486140728,51.1724052429,3.2486140728,51.1724052429",
+    "geom:latitude":51.172405,
+    "geom:longitude":3.248614,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Legeweg 157c",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 80 80",
+    "sg:postcode":"8020",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "fa\u00e7ade",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PmQtODRrCnR1ri5DWbj5i_51.172405_3.248614@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506864,
+    "wof:geomhash":"bcac2fa2ed57a4060d849fc2e72ac500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058034255
+        }
+    ],
+    "wof:id":1058034255,
+    "wof:lastmodified":1473506864,
+    "wof:name":"Beke Bouwtechnieken Nv",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fa\u00e7ade",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    3.2486140728,
+    51.1724052429,
+    3.2486140728,
+    51.1724052429
+],
+  "geometry": {"coordinates":[3.2486140728,51.1724052429],"type":"Point"}
+}

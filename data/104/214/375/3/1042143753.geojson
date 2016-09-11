@@ -1,0 +1,79 @@
+{
+  "id": 1042143753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3986377716,50.8486824036,4.3986377716,50.8486824036",
+    "geom:latitude":50.848682,
+    "geom:longitude":4.398638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Adolphe Lacombl\u00e9 66",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 737 77 86",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "diary",
+        "note-books"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HTqzr56NiGJGCLwcQhYAa_50.848682_4.398638@1306268404"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498678,
+    "wof:geomhash":"a361afadc6658386f6278da8f60807c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1042143753
+        }
+    ],
+    "wof:id":1042143753,
+    "wof:lastmodified":1473498678,
+    "wof:name":"Time System Belgium Nv",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diary",
+        "note-books"
+    ]
+},
+  "bbox": [
+    4.3986377716,
+    50.8486824036,
+    4.3986377716,
+    50.8486824036
+],
+  "geometry": {"coordinates":[4.3986377716,50.8486824036],"type":"Point"}
+}

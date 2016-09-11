@@ -1,0 +1,81 @@
+{
+  "id": 1042090337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2158639431,51.2052726746,3.2158639431,51.2052726746",
+    "geom:latitude":51.205273,
+    "geom:longitude":3.215864,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zwijnstraat 1b2",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 67 09 34",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "siemens",
+        "fujitsu",
+        "computerapparatuur"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OQE3QThTUaCmrfAiff9z7_51.205273_3.215864@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495968,
+    "wof:geomhash":"be3b8fb3256718a76e2b86287d799334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1042090337
+        }
+    ],
+    "wof:id":1042090337,
+    "wof:lastmodified":1473495968,
+    "wof:name":"Ace Informatics",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siemens",
+        "fujitsu",
+        "computerapparatuur"
+    ]
+},
+  "bbox": [
+    3.2158639431,
+    51.2052726746,
+    3.2158639431,
+    51.2052726746
+],
+  "geometry": {"coordinates":[3.2158639431,51.2052726746],"type":"Point"}
+}

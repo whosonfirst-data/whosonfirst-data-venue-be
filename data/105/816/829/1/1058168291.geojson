@@ -1,0 +1,73 @@
+{
+  "id": 1058168291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4943861961,51.1261253357,4.4943861961,51.1261253357",
+    "geom:latitude":51.126125,
+    "geom:longitude":4.494386,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kardinaal Cardijnlaan 7",
+    "sg:city":"Lint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 71 15",
+    "sg:postcode":"2547",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65E44sbagn022okrNY6p2B_51.126125_4.494386@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512823,
+    "wof:geomhash":"0b4cae79ef0d5fd05595837372bd7f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058168291
+        }
+    ],
+    "wof:id":1058168291,
+    "wof:lastmodified":1473512823,
+    "wof:name":"Hillemans C",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4943861961,
+    51.1261253357,
+    4.4943861961,
+    51.1261253357
+],
+  "geometry": {"coordinates":[4.4943861961,51.1261253357],"type":"Point"}
+}

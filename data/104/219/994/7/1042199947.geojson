@@ -1,0 +1,77 @@
+{
+  "id": 1042199947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4092102051,51.2160797119,4.4092102051,51.2160797119",
+    "geom:latitude":51.21608,
+    "geom:longitude":4.40921,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maria Pijpelincxstraat 1",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 202 83 26",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mXIM9UffGyh4BFAlPEUn5_51.216080_4.409210@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501949,
+    "wof:geomhash":"d650bf89a2bd758f678e5b7f5117408f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042199947
+        }
+    ],
+    "wof:id":1042199947,
+    "wof:lastmodified":1473501949,
+    "wof:name":"Stedelijke Middenscholen",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.4092102051,
+    51.2160797119,
+    4.4092102051,
+    51.2160797119
+],
+  "geometry": {"coordinates":[4.4092102051,51.2160797119],"type":"Point"}
+}

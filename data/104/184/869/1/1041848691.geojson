@@ -1,0 +1,77 @@
+{
+  "id": 1041848691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.59983778,50.6466636658,5.59983778,50.6466636658",
+    "geom:latitude":50.646664,
+    "geom:longitude":5.599838,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Du Roi Albert 114",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 26 86 81",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p3buF99UiaAtKhogaDY8W_50.646664_5.599838@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485751,
+    "wof:geomhash":"25b6f6606d286a74a8a32d8d520eb82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1041848691
+        }
+    ],
+    "wof:id":1041848691,
+    "wof:lastmodified":1473485751,
+    "wof:name":"Carauto Carrosserie",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.59983778,
+    50.6466636658,
+    5.59983778,
+    50.6466636658
+],
+  "geometry": {"coordinates":[5.59983778,50.6466636658],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058144633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5182747841,50.6563415527,5.5182747841,50.6563415527",
+    "geom:latitude":50.656342,
+    "geom:longitude":5.518275,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Ferme 56",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 22 26",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R8vaksfPj0OJ8izwCKJtY_50.656342_5.518275@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511762,
+    "wof:geomhash":"9b6f851d9b834eaae556a5145367e9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1058144633
+        }
+    ],
+    "wof:id":1058144633,
+    "wof:lastmodified":1473511762,
+    "wof:name":"Marie-jos\u00e9e",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5182747841,
+    50.6563415527,
+    5.5182747841,
+    50.6563415527
+],
+  "geometry": {"coordinates":[5.5182747841,50.6563415527],"type":"Point"}
+}

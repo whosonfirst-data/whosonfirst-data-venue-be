@@ -1,0 +1,77 @@
+{
+  "id": 1058557269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3892378807,50.813041687,4.3892378807,50.813041687",
+    "geom:latitude":50.813042,
+    "geom:longitude":4.389238,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue G\u00e9n\u00e9ral M\u00e9decin Derache 190",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 02 27",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PgksxgBLtpBZnP5lSLruJ_50.813042_4.389238@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530682,
+    "wof:geomhash":"7afca359e6b16f52958951fe3e8018d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058557269
+        }
+    ],
+    "wof:id":1058557269,
+    "wof:lastmodified":1473530682,
+    "wof:name":"Gauthy H",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3892378807,
+    50.813041687,
+    4.3892378807,
+    50.813041687
+],
+  "geometry": {"coordinates":[4.3892378807,50.813041687],"type":"Point"}
+}

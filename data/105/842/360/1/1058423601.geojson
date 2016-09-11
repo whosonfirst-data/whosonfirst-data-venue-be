@@ -1,0 +1,81 @@
+{
+  "id": 1058423601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5853872299,50.6353797913,5.5853872299,50.6353797913",
+    "geom:latitude":50.63538,
+    "geom:longitude":5.585387,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Lairesse 62-64",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 88 85",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "teacher",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76iQzpkv8RR2mfzSlkw5Gd_50.635380_5.585387@1306268507"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524341,
+    "wof:geomhash":"5d9a7408baff19294feaa41a52a54f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058423601
+        }
+    ],
+    "wof:id":1058423601,
+    "wof:lastmodified":1473524341,
+    "wof:name":"Pema Music School",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "teacher",
+        "private"
+    ]
+},
+  "bbox": [
+    5.5853872299,
+    50.6353797913,
+    5.5853872299,
+    50.6353797913
+],
+  "geometry": {"coordinates":[5.5853872299,50.6353797913],"type":"Point"}
+}

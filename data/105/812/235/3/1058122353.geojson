@@ -1,0 +1,77 @@
+{
+  "id": 1058122353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3251299858,50.8676986694,4.3251299858,50.8676986694",
+    "geom:latitude":50.867699,
+    "geom:longitude":4.32513,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vanderborght 66",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 32 88",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D1RYsRBPZHH8WL05Jcp3p_50.867699_4.325130@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510638,
+    "wof:geomhash":"81889891c76674c3a6658081096c5a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058122353
+        }
+    ],
+    "wof:id":1058122353,
+    "wof:lastmodified":1473510638,
+    "wof:name":"Van De Velde D",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3251299858,
+    50.8676986694,
+    4.3251299858,
+    50.8676986694
+],
+  "geometry": {"coordinates":[4.3251299858,50.8676986694],"type":"Point"}
+}

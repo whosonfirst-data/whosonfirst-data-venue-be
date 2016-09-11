@@ -1,0 +1,71 @@
+{
+  "id": 1058561701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5215778351,51.2009735107,4.5215778351,51.2009735107",
+    "geom:latitude":51.200974,
+    "geom:longitude":4.521578,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wiekenstraat 1",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 64 97",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70EKq2HDYilZxGaDcliNEA_51.200974_4.521578@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530897,
+    "wof:geomhash":"00862e825c00c3b0334a69836911c63f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058561701
+        }
+    ],
+    "wof:id":1058561701,
+    "wof:lastmodified":1473530897,
+    "wof:name":"Leonaers A",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.5215778351,
+    51.2009735107,
+    4.5215778351,
+    51.2009735107
+],
+  "geometry": {"coordinates":[4.5215778351,51.2009735107],"type":"Point"}
+}

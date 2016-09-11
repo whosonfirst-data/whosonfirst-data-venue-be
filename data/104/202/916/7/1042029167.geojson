@@ -1,0 +1,77 @@
+{
+  "id": 1042029167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3431358337,50.8216972351,4.3431358337,50.8216972351",
+    "geom:latitude":50.821697,
+    "geom:longitude":4.343136,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Ducp\u00c9tiaux 157",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 37 77",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tHd1qR21BHEPL1LhIEimw_50.821697_4.343136@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493411,
+    "wof:geomhash":"e859e85788d84e37896d7bffe9de4f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042029167
+        }
+    ],
+    "wof:id":1042029167,
+    "wof:lastmodified":1473493411,
+    "wof:name":"Taverne Le Carrefour",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3431358337,
+    50.8216972351,
+    4.3431358337,
+    50.8216972351
+],
+  "geometry": {"coordinates":[4.3431358337,50.8216972351],"type":"Point"}
+}

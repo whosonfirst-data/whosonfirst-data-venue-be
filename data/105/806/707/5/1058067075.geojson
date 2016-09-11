@@ -1,0 +1,77 @@
+{
+  "id": 1058067075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6331620216,50.6675415039,5.6331620216,50.6675415039",
+    "geom:latitude":50.667542,
+    "geom:longitude":5.633162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue P\u00e9pin De Herstal 35",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 15 22",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yQmFMxKv4H57xBsACXchY_50.667542_5.633162@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508199,
+    "wof:geomhash":"9842d0623eb3fc49127449b9e2d6c19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058067075
+        }
+    ],
+    "wof:id":1058067075,
+    "wof:lastmodified":1473508199,
+    "wof:name":"Woit",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    5.6331620216,
+    50.6675415039,
+    5.6331620216,
+    50.6675415039
+],
+  "geometry": {"coordinates":[5.6331620216,50.6675415039],"type":"Point"}
+}

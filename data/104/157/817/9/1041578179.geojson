@@ -1,0 +1,79 @@
+{
+  "id": 1041578179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.304705143,50.8141403198,4.304705143,50.8141403198",
+    "geom:latitude":50.81414,
+    "geom:longitude":4.304705,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 R De La Bienvenue",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 60 68",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35DcAo4VaM9O0h9IT4xT1K_50.814140_4.304705@1306268410"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474382,
+    "wof:geomhash":"ce47875a00b9caf8ee7835db62465351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041578179
+        }
+    ],
+    "wof:id":1041578179,
+    "wof:lastmodified":1473474382,
+    "wof:name":"Jm Velu Sa",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    4.304705143,
+    50.8141403198,
+    4.304705143,
+    50.8141403198
+],
+  "geometry": {"coordinates":[4.304705143,50.8141403198],"type":"Point"}
+}

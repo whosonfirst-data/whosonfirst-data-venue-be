@@ -1,0 +1,77 @@
+{
+  "id": 1042196453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7187020779,51.0601272583,3.7187020779,51.0601272583",
+    "geom:latitude":51.060127,
+    "geom:longitude":3.718702,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Molenaarsstraat 22",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 235 82 40",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30h3gqacoqxbPXaZWoFhiQ_51.060127_3.718702@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501690,
+    "wof:geomhash":"fffac7a015bbc121c9ee249ca8d8d4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042196453
+        }
+    ],
+    "wof:id":1042196453,
+    "wof:lastmodified":1473501690,
+    "wof:name":"Instituut Voor Verpleegkundige St-vincentius",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    3.7187020779,
+    51.0601272583,
+    3.7187020779,
+    51.0601272583
+],
+  "geometry": {"coordinates":[3.7187020779,51.0601272583],"type":"Point"}
+}

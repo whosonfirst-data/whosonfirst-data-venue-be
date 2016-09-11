@@ -1,0 +1,81 @@
+{
+  "id": 1058416223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3925561905,50.8355293274,4.3925561905,50.8355293274",
+    "geom:latitude":50.835529,
+    "geom:longitude":4.392556,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Champ Du Roi 100",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 17 99",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "model",
+        "scale",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ifOqvJJORGciHHJtokjVy_50.835529_4.392556@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523953,
+    "wof:geomhash":"34b9ff5a9dbd5fcf9d4169af79d724dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058416223
+        }
+    ],
+    "wof:id":1058416223,
+    "wof:lastmodified":1473523953,
+    "wof:name":"Archetype Sprl & Y Gilbert Sprl",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "scale",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3925561905,
+    50.8355293274,
+    4.3925561905,
+    50.8355293274
+],
+  "geometry": {"coordinates":[4.3925561905,50.8355293274],"type":"Point"}
+}

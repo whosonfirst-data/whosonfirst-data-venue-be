@@ -1,0 +1,77 @@
+{
+  "id": 1042178101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7222099304,51.0597305298,3.7222099304,51.0597305298",
+    "geom:latitude":51.059731,
+    "geom:longitude":3.72221,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tempelhof 50",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 234 27 15",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "drawing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RxHd8WO1ZjdKNjH2XZ3ml_51.059731_3.722210@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500616,
+    "wof:geomhash":"fb2effb91e04ffb6e19e3f24c3fb2dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042178101
+        }
+    ],
+    "wof:id":1042178101,
+    "wof:lastmodified":1473500616,
+    "wof:name":"Animotions Cvba",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drawing"
+    ]
+},
+  "bbox": [
+    3.7222099304,
+    51.0597305298,
+    3.7222099304,
+    51.0597305298
+],
+  "geometry": {"coordinates":[3.7222099304,51.0597305298],"type":"Point"}
+}

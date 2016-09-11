@@ -1,0 +1,92 @@
+{
+  "id": 1058764097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7017500401,51.0506134033,3.7017500401,51.0506134033",
+    "geom:latitude":51.050613,
+    "geom:longitude":3.70175,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Einde Were 31",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 38 47",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "installation",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733,
+        85862083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NGB5Sjc4UcuVE8kHwpMTi_51.050613_3.701750@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539959,
+    "wof:geomhash":"fecd8d27e0b3defbc2b7e28effd3a76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058764097
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862083,
+            "region_id":85681733,
+            "venue_id":1058764097
+        }
+    ],
+    "wof:id":1058764097,
+    "wof:lastmodified":1473539959,
+    "wof:name":"Van Waeyenbergh",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "installation",
+        "equipment"
+    ]
+},
+  "bbox": [
+    3.7017500401,
+    51.0506134033,
+    3.7017500401,
+    51.0506134033
+],
+  "geometry": {"coordinates":[3.7017500401,51.0506134033],"type":"Point"}
+}

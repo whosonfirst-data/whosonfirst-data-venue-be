@@ -1,0 +1,79 @@
+{
+  "id": 1058760553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4340572357,51.256690979,4.4340572357,51.256690979",
+    "geom:latitude":51.256691,
+    "geom:longitude":4.434057,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Victor Govaerslaan 16 Bus 4",
+    "sg:city":"Merksem",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 641 86 20",
+    "sg:postcode":"2170",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "transport",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801615,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bXkoc0RxrprkHD3sNYsb9_51.256691_4.434057@1306268566"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539801,
+    "wof:geomhash":"741fede64665aeadd0ba01bd4f767d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801615,
+            "region_id":85681715,
+            "venue_id":1058760553
+        }
+    ],
+    "wof:id":1058760553,
+    "wof:lastmodified":1473539801,
+    "wof:name":"Unitas United Shipping And Trucking Nv",
+    "wof:parent_id":85801615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "sea"
+    ]
+},
+  "bbox": [
+    4.4340572357,
+    51.256690979,
+    4.4340572357,
+    51.256690979
+],
+  "geometry": {"coordinates":[4.4340572357,51.256690979],"type":"Point"}
+}

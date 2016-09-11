@@ -1,0 +1,79 @@
+{
+  "id": 1041572671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3892512321,50.8162231445,4.3892512321,50.8162231445",
+    "geom:latitude":50.816223,
+    "geom:longitude":4.389251,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Boondael 463",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 64 49",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bf8DjrblaSIKJhygXhAtu_50.816223_4.389251@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474153,
+    "wof:geomhash":"52eab2c5d833b1d793d99cb7498958a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041572671
+        }
+    ],
+    "wof:id":1041572671,
+    "wof:lastmodified":1473474153,
+    "wof:name":"Centre Sylphes Et Sylphides",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.3892512321,
+    50.8162231445,
+    4.3892512321,
+    50.8162231445
+],
+  "geometry": {"coordinates":[4.3892512321,50.8162231445],"type":"Point"}
+}

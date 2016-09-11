@@ -1,0 +1,77 @@
+{
+  "id": 1058073173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3380589485,50.8447494507,4.3380589485,50.8447494507",
+    "geom:latitude":50.844749,
+    "geom:longitude":4.338059,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Mons 7",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 32 44",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qeOBAcsNGzQ1gJjzZ3Jav_50.844749_4.338059@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508441,
+    "wof:geomhash":"3d4341d55e32a87048e2794bc5c7afa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058073173
+        }
+    ],
+    "wof:id":1058073173,
+    "wof:lastmodified":1473508441,
+    "wof:name":"Exofruiti",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    4.3380589485,
+    50.8447494507,
+    4.3380589485,
+    50.8447494507
+],
+  "geometry": {"coordinates":[4.3380589485,50.8447494507],"type":"Point"}
+}

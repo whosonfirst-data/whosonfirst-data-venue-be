@@ -1,0 +1,77 @@
+{
+  "id": 1041827431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6346750259,50.6462516785,5.6346750259,50.6462516785",
+    "geom:latitude":50.646252,
+    "geom:longitude":5.634675,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Commandant Speesens 3",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 13 14",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801339,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58wBAqtm4maOyhLRVh6lPw_50.646252_5.634675@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484810,
+    "wof:geomhash":"3fbab24cbaad4ace3d6f45f918189d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801339,
+            "region_id":85681691,
+            "venue_id":1041827431
+        }
+    ],
+    "wof:id":1041827431,
+    "wof:lastmodified":1473484810,
+    "wof:name":"Bureau Butacide",
+    "wof:parent_id":85801339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    5.6346750259,
+    50.6462516785,
+    5.6346750259,
+    50.6462516785
+],
+  "geometry": {"coordinates":[5.6346750259,50.6462516785],"type":"Point"}
+}

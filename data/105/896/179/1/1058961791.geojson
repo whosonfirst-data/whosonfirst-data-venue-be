@@ -1,0 +1,79 @@
+{
+  "id": 1058961791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4078149796,51.2212409973,4.4078149796,51.2212409973",
+    "geom:latitude":51.221241,
+    "geom:longitude":4.407815,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jan Van Lierstraat 3",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 233 47 42",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "wall",
+        "cupboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gGaVR2ZQXFtelSzOPLHdE_51.221241_4.407815@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548854,
+    "wof:geomhash":"880b02ae528b4d4997ff059d3e2c6e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1058961791
+        }
+    ],
+    "wof:id":1058961791,
+    "wof:lastmodified":1473548854,
+    "wof:name":"Van Den Wouwer J",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wall",
+        "cupboard"
+    ]
+},
+  "bbox": [
+    4.4078149796,
+    51.2212409973,
+    4.4078149796,
+    51.2212409973
+],
+  "geometry": {"coordinates":[4.4078149796,51.2212409973],"type":"Point"}
+}

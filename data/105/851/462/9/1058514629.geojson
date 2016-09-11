@@ -1,0 +1,79 @@
+{
+  "id": 1058514629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5033397675,51.3181304932,4.5033397675,51.3181304932",
+    "geom:latitude":51.31813,
+    "geom:longitude":4.50334,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Prolistraat 40",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 663 62 36",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rNmeK4036Ije7soFHbXjJ_51.318130_4.503340@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528757,
+    "wof:geomhash":"5c65700ed1fe586cf015b4d313c08657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1058514629
+        }
+    ],
+    "wof:id":1058514629,
+    "wof:lastmodified":1473528757,
+    "wof:name":"Ulbrichts D",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.5033397675,
+    51.3181304932,
+    4.5033397675,
+    51.3181304932
+],
+  "geometry": {"coordinates":[4.5033397675,51.3181304932],"type":"Point"}
+}

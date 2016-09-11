@@ -1,0 +1,79 @@
+{
+  "id": 1058155095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6518368721,50.6968002319,5.6518368721,50.6968002319",
+    "geom:latitude":50.6968,
+    "geom:longitude":5.651837,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Wauters 74",
+    "sg:city":"Oupeye (vivegnis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 16 12",
+    "sg:postcode":"4683",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37GztfEij0lBDYUsvwP3Z9_50.696800_5.651837@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512232,
+    "wof:geomhash":"bc3d507193841ca4ee803ae93082ebf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1058155095
+        }
+    ],
+    "wof:id":1058155095,
+    "wof:lastmodified":1473512232,
+    "wof:name":"Bini A",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6518368721,
+    50.6968002319,
+    5.6518368721,
+    50.6968002319
+],
+  "geometry": {"coordinates":[5.6518368721,50.6968002319],"type":"Point"}
+}

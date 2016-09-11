@@ -1,0 +1,83 @@
+{
+  "id": 1041582125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.693887949,51.100856781,3.693887949,51.100856781",
+    "geom:latitude":51.100857,
+    "geom:longitude":3.693888,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ind Terr Durmakker 27",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 08 00",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electricity",
+        "electronic",
+        "electrical",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TlHBhMu3U7LYG6GBz4SJZ_51.100857_3.693888@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474535,
+    "wof:geomhash":"0e31fc9af6070903490c679efe6624b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1041582125
+        }
+    ],
+    "wof:id":1041582125,
+    "wof:lastmodified":1473474535,
+    "wof:name":"Van Wingen Nv",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity",
+        "electronic",
+        "electrical",
+        "equipment"
+    ]
+},
+  "bbox": [
+    3.693887949,
+    51.100856781,
+    3.693887949,
+    51.100856781
+],
+  "geometry": {"coordinates":[3.693887949,51.100856781],"type":"Point"}
+}

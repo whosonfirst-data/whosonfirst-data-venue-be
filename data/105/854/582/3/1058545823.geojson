@@ -1,0 +1,81 @@
+{
+  "id": 1058545823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4020338058,50.8076438904,4.4020338058,50.8076438904",
+    "geom:latitude":50.807644,
+    "geom:longitude":4.402034,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Malle Poste 12",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 33 69",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "laboratory",
+        "photographic",
+        "film"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ecVj9QvmZUXxu0D9TcJUs_50.807644_4.402034@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530179,
+    "wof:geomhash":"4529ae1dd8a38296c22beea29fe02654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058545823
+        }
+    ],
+    "wof:id":1058545823,
+    "wof:lastmodified":1473530179,
+    "wof:name":"Gelinne M",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "photographic",
+        "film"
+    ]
+},
+  "bbox": [
+    4.4020338058,
+    50.8076438904,
+    4.4020338058,
+    50.8076438904
+],
+  "geometry": {"coordinates":[4.4020338058,50.8076438904],"type":"Point"}
+}

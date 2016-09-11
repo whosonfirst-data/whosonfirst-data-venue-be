@@ -1,0 +1,77 @@
+{
+  "id": 1058021195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3383860588,50.8445510864,4.3383860588,50.8445510864",
+    "geom:latitude":50.844551,
+    "geom:longitude":4.338386,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Mons 4",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 478 52 26 26",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IAUmn8bPDs9y3DJ4o3vrq_50.844551_4.338386@1306268429"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506319,
+    "wof:geomhash":"e73d1b38335a8c9708fe15606385943a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058021195
+        }
+    ],
+    "wof:id":1058021195,
+    "wof:lastmodified":1473506319,
+    "wof:name":"Moneygram",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchange"
+    ]
+},
+  "bbox": [
+    4.3383860588,
+    50.8445510864,
+    4.3383860588,
+    50.8445510864
+],
+  "geometry": {"coordinates":[4.3383860588,50.8445510864],"type":"Point"}
+}

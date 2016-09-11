@@ -1,0 +1,77 @@
+{
+  "id": 1042209021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7542519569,51.0352363586,3.7542519569,51.0352363586",
+    "geom:latitude":51.035236,
+    "geom:longitude":3.754252,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 427",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 20 30",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JjYXbyv9h6DNWK282TWnB_51.035236_3.754252@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502381,
+    "wof:geomhash":"5a6f4ea889d7cbb0b070640b30629c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042209021
+        }
+    ],
+    "wof:id":1042209021,
+    "wof:lastmodified":1473502381,
+    "wof:name":"Air Compact Belgium",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator"
+    ]
+},
+  "bbox": [
+    3.7542519569,
+    51.0352363586,
+    3.7542519569,
+    51.0352363586
+],
+  "geometry": {"coordinates":[3.7542519569,51.0352363586],"type":"Point"}
+}

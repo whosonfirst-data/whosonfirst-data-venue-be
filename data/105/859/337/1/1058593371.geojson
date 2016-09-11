@@ -1,0 +1,77 @@
+{
+  "id": 1058593371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4173707962,50.8623657227,4.4173707962,50.8623657227",
+    "geom:latitude":50.862366,
+    "geom:longitude":4.417371,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Franz Guillaume 51 Box 10",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 61 27",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fHSrKoB0GKjszWaw6Oq7E_50.862366_4.417371@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532330,
+    "wof:geomhash":"b88e462fde0c4db7e79f1158f296410f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1058593371
+        }
+    ],
+    "wof:id":1058593371,
+    "wof:lastmodified":1473532330,
+    "wof:name":"De Kleermaeker M",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4173707962,
+    50.8623657227,
+    4.4173707962,
+    50.8623657227
+],
+  "geometry": {"coordinates":[4.4173707962,50.8623657227],"type":"Point"}
+}

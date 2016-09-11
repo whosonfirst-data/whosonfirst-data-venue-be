@@ -1,0 +1,77 @@
+{
+  "id": 1041971195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.386841774,50.8170166016,4.386841774,50.8170166016",
+    "geom:latitude":50.817017,
+    "geom:longitude":4.386842,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brillat Savarin 25",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 78 76",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fPWhiqRxJ6d4GDYYmeHMZ_50.817017_4.386842@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490941,
+    "wof:geomhash":"328cadbaf6e4fb677331dc4f8b4aa836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041971195
+        }
+    ],
+    "wof:id":1041971195,
+    "wof:lastmodified":1473490941,
+    "wof:name":"Brillat Savarin",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.386841774,
+    50.8170166016,
+    4.386841774,
+    50.8170166016
+],
+  "geometry": {"coordinates":[4.386841774,50.8170166016],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058038689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3306469917,50.8400726318,4.3306469917,50.8400726318",
+    "geom:latitude":50.840073,
+    "geom:longitude":4.330647,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Chapeau 45",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 06 88",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "producer",
+        "realizators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_288cxZJZhr5kTWVuiDPBbe_50.840073_4.330647@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507053,
+    "wof:geomhash":"1a1288ecc62b84352f64bab594694a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1058038689
+        }
+    ],
+    "wof:id":1058038689,
+    "wof:lastmodified":1473507053,
+    "wof:name":"Dr Toon",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer",
+        "realizators"
+    ]
+},
+  "bbox": [
+    4.3306469917,
+    50.8400726318,
+    4.3306469917,
+    50.8400726318
+],
+  "geometry": {"coordinates":[4.3306469917,50.8400726318],"type":"Point"}
+}

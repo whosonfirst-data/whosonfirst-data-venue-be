@@ -1,0 +1,79 @@
+{
+  "id": 1041568903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.715898037,51.01953125,3.715898037,51.01953125",
+    "geom:latitude":51.019531,
+    "geom:longitude":3.715898,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jaspisstraat 8",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 48 11",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "sweep",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BI40mvxS0VqJPZJ8MLcCK_51.019531_3.715898@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474001,
+    "wof:geomhash":"749c5ceec1dcbeac446775ff99c793a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041568903
+        }
+    ],
+    "wof:id":1041568903,
+    "wof:lastmodified":1473474001,
+    "wof:name":"Baes Jacques",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweep",
+        "chimney"
+    ]
+},
+  "bbox": [
+    3.715898037,
+    51.01953125,
+    3.715898037,
+    51.01953125
+],
+  "geometry": {"coordinates":[3.715898037,51.01953125],"type":"Point"}
+}

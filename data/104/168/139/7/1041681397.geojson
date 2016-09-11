@@ -1,0 +1,79 @@
+{
+  "id": 1041681397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4276800156,51.1683197021,4.4276800156,51.1683197021",
+    "geom:latitude":51.16832,
+    "geom:longitude":4.42768,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parklaan 159",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 440 64 40",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fdi25D1v3YAKUiDT7BwBR_51.168320_4.427680@1306268609"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478575,
+    "wof:geomhash":"8693e8a4238cd9a9cc07d34d1417963a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1041681397
+        }
+    ],
+    "wof:id":1041681397,
+    "wof:lastmodified":1473478575,
+    "wof:name":"Jeugdhuis Nootuitgang",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    4.4276800156,
+    51.1683197021,
+    4.4276800156,
+    51.1683197021
+],
+  "geometry": {"coordinates":[4.4276800156,51.1683197021],"type":"Point"}
+}

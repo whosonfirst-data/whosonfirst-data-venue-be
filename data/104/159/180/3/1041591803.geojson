@@ -1,0 +1,79 @@
+{
+  "id": 1041591803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7390050888,51.058303833,3.7390050888,51.058303833",
+    "geom:latitude":51.058304,
+    "geom:longitude":3.739005,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kleindokkaai 3",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 267 90 10",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "enseignement",
+        "formation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26LyrdOS1Ns7Dcx6c4wJQG_51.058304_3.739005@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474958,
+    "wof:geomhash":"e9ee237cbb01e6a2fc67efee84497d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1041591803
+        }
+    ],
+    "wof:id":1041591803,
+    "wof:lastmodified":1473474958,
+    "wof:name":"Fa. Givi",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enseignement",
+        "formation"
+    ]
+},
+  "bbox": [
+    3.7390050888,
+    51.058303833,
+    3.7390050888,
+    51.058303833
+],
+  "geometry": {"coordinates":[3.7390050888,51.058303833],"type":"Point"}
+}

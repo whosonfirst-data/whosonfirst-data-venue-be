@@ -1,0 +1,81 @@
+{
+  "id": 1042193459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3696198463,50.8413848877,4.3696198463,50.8413848877",
+    "geom:latitude":50.841385,
+    "geom:longitude":4.36962,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Montoyer 18b",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 280 29 20",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "development",
+        "economic",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X1kZ0nwryTGSpPPlEdePS_50.841385_4.369620@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501554,
+    "wof:geomhash":"939944563118910df56837dcca82cdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042193459
+        }
+    ],
+    "wof:id":1042193459,
+    "wof:lastmodified":1473501554,
+    "wof:name":"Provincia Di Treviso",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "economic",
+        "institution"
+    ]
+},
+  "bbox": [
+    4.3696198463,
+    50.8413848877,
+    4.3696198463,
+    50.8413848877
+],
+  "geometry": {"coordinates":[4.3696198463,50.8413848877],"type":"Point"}
+}

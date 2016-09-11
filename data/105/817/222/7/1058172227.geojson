@@ -1,0 +1,79 @@
+{
+  "id": 1058172227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3582000732,50.8143615723,4.3582000732,50.8143615723",
+    "geom:latitude":50.814362,
+    "geom:longitude":4.3582,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vanderkindere 400",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 45 26",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zcDomnL8wdbncd9gYEKrO_50.814362_4.358200@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512996,
+    "wof:geomhash":"68caa207d7e3ae9c12100c65055bac13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058172227
+        }
+    ],
+    "wof:id":1058172227,
+    "wof:lastmodified":1473512996,
+    "wof:name":"Locoge M",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3582000732,
+    50.8143615723,
+    4.3582000732,
+    50.8143615723
+],
+  "geometry": {"coordinates":[4.3582000732,50.8143615723],"type":"Point"}
+}

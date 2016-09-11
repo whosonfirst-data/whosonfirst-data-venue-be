@@ -1,0 +1,83 @@
+{
+  "id": 1042116225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4600272179,50.8282279968,4.4600272179,50.8282279968",
+    "geom:latitude":50.828228,
+    "geom:longitude":4.460027,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Van Crombrugghe 86",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 87 75",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801333,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iSv9pWbVguAiVusLseF6i_50.828228_4.460027@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497176,
+    "wof:geomhash":"9571056823d4ad9e184e719d454f29ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801333,
+            "region_id":85681713,
+            "venue_id":1042116225
+        }
+    ],
+    "wof:id":1042116225,
+    "wof:lastmodified":1473497176,
+    "wof:name":"Mobilitas Sprl",
+    "wof:parent_id":85801333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.4600272179,
+    50.8282279968,
+    4.4600272179,
+    50.8282279968
+],
+  "geometry": {"coordinates":[4.4600272179,50.8282279968],"type":"Point"}
+}

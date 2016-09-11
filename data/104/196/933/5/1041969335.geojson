@@ -1,0 +1,77 @@
+{
+  "id": 1041969335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2727689743,50.7813186646,4.2727689743,50.7813186646",
+    "geom:latitude":50.781319,
+    "geom:longitude":4.272769,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emile Vandersteenenstraat 3 Box 1",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 34 22",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HaKg8e9Z2DRaTaUJNyMHV_50.781319_4.272769@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490875,
+    "wof:geomhash":"3711cc90ca9c5d44381c04ea5d21b8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1041969335
+        }
+    ],
+    "wof:id":1041969335,
+    "wof:lastmodified":1473490875,
+    "wof:name":"Van Imschoot M",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.2727689743,
+    50.7813186646,
+    4.2727689743,
+    50.7813186646
+],
+  "geometry": {"coordinates":[4.2727689743,50.7813186646],"type":"Point"}
+}

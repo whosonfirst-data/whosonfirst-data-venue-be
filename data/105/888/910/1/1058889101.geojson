@@ -1,0 +1,88 @@
+{
+  "id": 1058889101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.460103035,50.8411369324,4.460103035,50.8411369324",
+    "geom:latitude":50.841137,
+    "geom:longitude":4.460103,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Val Des Seigneurs 73",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 33 59",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "translator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801937,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HxlwzJIKkPgRtk3vBU7qd_50.841137_4.460103@1306268590"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545445,
+    "wof:geomhash":"27e53b8b9471bf716cb844c3b8788e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801937,
+            "region_id":85681713,
+            "venue_id":1058889101
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1058889101
+        }
+    ],
+    "wof:id":1058889101,
+    "wof:lastmodified":1473545445,
+    "wof:name":"Text @ Bvba",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translator"
+    ]
+},
+  "bbox": [
+    4.460103035,
+    50.8411369324,
+    4.460103035,
+    50.8411369324
+],
+  "geometry": {"coordinates":[4.460103035,50.8411369324],"type":"Point"}
+}

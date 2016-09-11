@@ -1,0 +1,77 @@
+{
+  "id": 1042098235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7215280533,51.0556526184,3.7215280533,51.0556526184",
+    "geom:latitude":51.055653,
+    "geom:longitude":3.721528,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pensmarkt 2",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 25 29",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "cultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07RIbnxb7gxFe6rS9QlxHN_51.055653_3.721528@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496308,
+    "wof:geomhash":"0fdd8039cd34a2e6b725a4f3a0991b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042098235
+        }
+    ],
+    "wof:id":1042098235,
+    "wof:lastmodified":1473496308,
+    "wof:name":"Delegation Culturelle & Pedagogique De L'ambassade De France",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cultural"
+    ]
+},
+  "bbox": [
+    3.7215280533,
+    51.0556526184,
+    3.7215280533,
+    51.0556526184
+],
+  "geometry": {"coordinates":[3.7215280533,51.0556526184],"type":"Point"}
+}

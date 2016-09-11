@@ -1,0 +1,77 @@
+{
+  "id": 1042005367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2232189178,51.209438324,3.2232189178,51.209438324",
+    "geom:latitude":51.209438,
+    "geom:longitude":3.223219,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eiermarkt 11",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 74 00",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CNiROXYUyOXok3GRaI4gv_51.209438_3.223219@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492505,
+    "wof:geomhash":"b280f664b9d07bd7cf8176b3aef69ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042005367
+        }
+    ],
+    "wof:id":1042005367,
+    "wof:lastmodified":1473492505,
+    "wof:name":"Caf\u00c9 Ambiorix",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2232189178,
+    51.209438324,
+    3.2232189178,
+    51.209438324
+],
+  "geometry": {"coordinates":[3.2232189178,51.209438324],"type":"Point"}
+}

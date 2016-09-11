@@ -1,0 +1,90 @@
+{
+  "id": 1058526673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3458800316,50.816368103,4.3458800316,50.816368103",
+    "geom:latitude":50.816368,
+    "geom:longitude":4.34588,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Moli\u00e8re 74",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 30 38",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "rental",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37yXQuREm0uF0xbUccX0jk_50.816368_4.345880@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529318,
+    "wof:geomhash":"7f41fd160440db78d98e64b7b9265f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1058526673
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058526673
+        }
+    ],
+    "wof:id":1058526673,
+    "wof:lastmodified":1473529318,
+    "wof:name":"Debroux B",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3458800316,
+    50.816368103,
+    4.3458800316,
+    50.816368103
+],
+  "geometry": {"coordinates":[4.3458800316,50.816368103],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058535609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4063978195,50.8484191895,4.4063978195,50.8484191895",
+    "geom:latitude":50.848419,
+    "geom:longitude":4.406398,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Cerisiers 56",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 76 47",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "personnel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e3eFIcchUC68461jT1GHC_50.848419_4.406398@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529737,
+    "wof:geomhash":"cfc07062807f1f25700db0fcf78975f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058535609
+        }
+    ],
+    "wof:id":1058535609,
+    "wof:lastmodified":1473529737,
+    "wof:name":"Athena Training",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel"
+    ]
+},
+  "bbox": [
+    4.4063978195,
+    50.8484191895,
+    4.4063978195,
+    50.8484191895
+],
+  "geometry": {"coordinates":[4.4063978195,50.8484191895],"type":"Point"}
+}

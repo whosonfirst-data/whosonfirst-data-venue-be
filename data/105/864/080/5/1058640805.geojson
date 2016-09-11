@@ -1,0 +1,66 @@
+{
+  "id": 1058640805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6993451118,50.8783874512,4.6993451118,50.8783874512",
+    "geom:latitude":50.878387,
+    "geom:longitude":4.699345,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oude Markt 44",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 20 14 65",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EAj1QVC9B5Zy0Xz9jftfD_50.878387_4.699345@1306268545"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534533,
+    "wof:geomhash":"228f5553c7b8e64389bda0fe466c7d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058640805
+        }
+    ],
+    "wof:id":1058640805,
+    "wof:lastmodified":1473534533,
+    "wof:name":"Weerelt (de)",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6993451118,
+    50.8783874512,
+    4.6993451118,
+    50.8783874512
+],
+  "geometry": {"coordinates":[4.6993451118,50.8783874512],"type":"Point"}
+}

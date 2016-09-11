@@ -1,0 +1,77 @@
+{
+  "id": 1042062085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5137147903,50.8603019714,4.5137147903,50.8603019714",
+    "geom:latitude":50.860302,
+    "geom:longitude":4.513715,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelsesteenweg 158",
+    "sg:city":"Zaventem (sterrebeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 62 91",
+    "sg:postcode":"1933",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801933,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i9fBORB3a70PlNZfpnUd6_50.860302_4.513715@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494756,
+    "wof:geomhash":"bc9b674df2ddece240537e17eadbdb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801933,
+            "region_id":85681731,
+            "venue_id":1042062085
+        }
+    ],
+    "wof:id":1042062085,
+    "wof:lastmodified":1473494756,
+    "wof:name":"Van Meerbeek T",
+    "wof:parent_id":85801933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.5137147903,
+    50.8603019714,
+    4.5137147903,
+    50.8603019714
+],
+  "geometry": {"coordinates":[4.5137147903,50.8603019714],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042209933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.3545837402,25.5979595184,-80.3545837402,25.5979595184",
+    "geom:latitude":25.59796,
+    "geom:longitude":-80.354584,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechanicaln. 6-8",
+    "sg:city":"Wilrijk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 91 24",
+    "sg:postcode":"2610",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electronic",
+        "lighting",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85935953,
+        102085771,
+        85841337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4714JMKaI9caM1iyJGSF3o_25.597960_-80.354584@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502424,
+    "wof:geomhash":"f322c6ba03b15b891be0bc4e4492e18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085771,
+            "locality_id":85935953,
+            "neighbourhood_id":85841337,
+            "region_id":85688651,
+            "venue_id":1042209933
+        }
+    ],
+    "wof:id":1042209933,
+    "wof:lastmodified":1473502424,
+    "wof:name":"Mitralux Belgium Sa",
+    "wof:parent_id":85841337,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "lighting",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -80.3545837402,
+    25.5979595184,
+    -80.3545837402,
+    25.5979595184
+],
+  "geometry": {"coordinates":[-80.3545837402,25.5979595184],"type":"Point"}
+}

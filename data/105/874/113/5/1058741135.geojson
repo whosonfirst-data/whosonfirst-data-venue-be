@@ -1,0 +1,79 @@
+{
+  "id": 1058741135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2037470341,51.193271637,3.2037470341,51.193271637",
+    "geom:latitude":51.193272,
+    "geom:longitude":3.203747,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Titecastraat 93",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 05 96",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fPdrkr8wjJNsOeZJizld5_51.193272_3.203747@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538953,
+    "wof:geomhash":"053a981ac28597f6435778c3e6a53862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058741135
+        }
+    ],
+    "wof:id":1058741135,
+    "wof:lastmodified":1473538953,
+    "wof:name":"Coiffure Twinny",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.2037470341,
+    51.193271637,
+    3.2037470341,
+    51.193271637
+],
+  "geometry": {"coordinates":[3.2037470341,51.193271637],"type":"Point"}
+}

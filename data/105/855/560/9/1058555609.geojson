@@ -1,0 +1,77 @@
+{
+  "id": 1058555609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6521430016,50.7029762268,5.6521430016,50.7029762268",
+    "geom:latitude":50.702976,
+    "geom:longitude":5.652143,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Roi Albert 17",
+    "sg:city":"Oupeye",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 93 10",
+    "sg:postcode":"4680",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FrUNLJSOjyNb7kObIGIiL_50.702976_5.652143@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530607,
+    "wof:geomhash":"f1b4fe48e260f827305758ff4e898233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1058555609
+        }
+    ],
+    "wof:id":1058555609,
+    "wof:lastmodified":1473530607,
+    "wof:name":"Dony Sabine",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.6521430016,
+    50.7029762268,
+    5.6521430016,
+    50.7029762268
+],
+  "geometry": {"coordinates":[5.6521430016,50.7029762268],"type":"Point"}
+}

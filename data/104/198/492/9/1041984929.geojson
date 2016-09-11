@@ -1,0 +1,77 @@
+{
+  "id": 1041984929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5865950584,50.6384086609,5.5865950584,50.6384086609",
+    "geom:latitude":50.638409,
+    "geom:longitude":5.586595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Puits-en-sock",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 63 67",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RIuaQHr6aovp9waV4Df3v_50.638409_5.586595@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491711,
+    "wof:geomhash":"597f1c534a120ad9f096d2dd6bc022c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041984929
+        }
+    ],
+    "wof:id":1041984929,
+    "wof:lastmodified":1473491711,
+    "wof:name":"Must (le)",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    5.5865950584,
+    50.6384086609,
+    5.5865950584,
+    50.6384086609
+],
+  "geometry": {"coordinates":[5.5865950584,50.6384086609],"type":"Point"}
+}

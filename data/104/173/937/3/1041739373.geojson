@@ -1,0 +1,81 @@
+{
+  "id": 1041739373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3092250824,50.8243255615,4.3092250824,50.8243255615",
+    "geom:latitude":50.824326,
+    "geom:longitude":4.309225,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Industriel 45",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 35 60",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DoxKBgW29SdzR0V3iEHfj_50.824326_4.309225@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480879,
+    "wof:geomhash":"eb6fc576f12f605e2a2e3c1a0a13be47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1041739373
+        }
+    ],
+    "wof:id":1041739373,
+    "wof:lastmodified":1473480879,
+    "wof:name":"Gestem",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    4.3092250824,
+    50.8243255615,
+    4.3092250824,
+    50.8243255615
+],
+  "geometry": {"coordinates":[4.3092250824,50.8243255615],"type":"Point"}
+}

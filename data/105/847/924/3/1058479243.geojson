@@ -1,0 +1,77 @@
+{
+  "id": 1058479243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4093360901,51.2072372437,4.4093360901,51.2072372437",
+    "geom:latitude":51.207237,
+    "geom:longitude":4.409336,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelse Steenweg 116",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 34 60",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JOUCZV4z61YGE4SRFxv5F_51.207237_4.409336@1306268515"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527109,
+    "wof:geomhash":"34d5b5413a151072a3a43c028eb05a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058479243
+        }
+    ],
+    "wof:id":1058479243,
+    "wof:lastmodified":1473527109,
+    "wof:name":"Lauwers Marc Bvba",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture"
+    ]
+},
+  "bbox": [
+    4.4093360901,
+    51.2072372437,
+    4.4093360901,
+    51.2072372437
+],
+  "geometry": {"coordinates":[4.4093360901,51.2072372437],"type":"Point"}
+}

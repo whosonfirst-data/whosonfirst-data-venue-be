@@ -1,0 +1,77 @@
+{
+  "id": 1041962325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3693418503,50.8153381348,4.3693418503,50.8153381348",
+    "geom:latitude":50.815338,
+    "geom:longitude":4.369342,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Legrand 45",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 626 03 80",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47otiq5HO14d6fqFAKKB7g_50.815338_4.369342@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490609,
+    "wof:geomhash":"f1ccc8b2a54f6526580f96aa7456f4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041962325
+        }
+    ],
+    "wof:id":1041962325,
+    "wof:lastmodified":1473490609,
+    "wof:name":"Beroepsinstituut Van Erkende Boekhouders En Fiscalisten",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.3693418503,
+    50.8153381348,
+    4.3693418503,
+    50.8153381348
+],
+  "geometry": {"coordinates":[4.3693418503,50.8153381348],"type":"Point"}
+}

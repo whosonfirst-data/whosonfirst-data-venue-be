@@ -1,0 +1,66 @@
+{
+  "id": 1058681235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2819941044,51.250793457,3.2819941044,51.250793457",
+    "geom:latitude":51.250793,
+    "geom:longitude":3.281994,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 30",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 64 30",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ZQae7rv5DJzpTQ00smnt_51.250793_3.281994@1306268553"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536331,
+    "wof:geomhash":"a6ce749b77d26f5421f5ce99e4051c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058681235
+        }
+    ],
+    "wof:id":1058681235,
+    "wof:lastmodified":1473536331,
+    "wof:name":"Trompetje",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2819941044,
+    51.250793457,
+    3.2819941044,
+    51.250793457
+],
+  "geometry": {"coordinates":[3.2819941044,51.250793457],"type":"Point"}
+}

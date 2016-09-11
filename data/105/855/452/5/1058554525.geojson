@@ -1,0 +1,77 @@
+{
+  "id": 1058554525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3678121567,50.8568458557,4.3678121567,50.8568458557",
+    "geom:latitude":50.856846,
+    "geom:longitude":4.367812,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Royale 235",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 219 56 66",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B6RRz5HnzlLnpvC5bbh9W_50.856846_4.367812@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530564,
+    "wof:geomhash":"b8b58d522bcab89d82cfa4c9b81ea8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058554525
+        }
+    ],
+    "wof:id":1058554525,
+    "wof:lastmodified":1473530564,
+    "wof:name":"Demol L",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3678121567,
+    50.8568458557,
+    4.3678121567,
+    50.8568458557
+],
+  "geometry": {"coordinates":[4.3678121567,50.8568458557],"type":"Point"}
+}

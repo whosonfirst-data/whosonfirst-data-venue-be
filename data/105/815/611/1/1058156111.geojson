@@ -1,0 +1,79 @@
+{
+  "id": 1058156111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4045538902,50.9272842407,4.4045538902,50.9272842407",
+    "geom:latitude":50.927284,
+    "geom:longitude":4.404554,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fazantenstraat 5",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 67 01",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801947,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JCOKHdHuJlNX6ixiEc3K9_50.927284_4.404554@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512274,
+    "wof:geomhash":"0ebbc570903f7de398bc659234b9b649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801947,
+            "region_id":85681731,
+            "venue_id":1058156111
+        }
+    ],
+    "wof:id":1058156111,
+    "wof:lastmodified":1473512274,
+    "wof:name":"Brandelet Benoit",
+    "wof:parent_id":85801947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4045538902,
+    50.9272842407,
+    4.4045538902,
+    50.9272842407
+],
+  "geometry": {"coordinates":[4.4045538902,50.9272842407],"type":"Point"}
+}

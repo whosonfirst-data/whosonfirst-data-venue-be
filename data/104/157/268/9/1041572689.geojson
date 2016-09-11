@@ -1,0 +1,79 @@
+{
+  "id": 1041572689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.36191082,50.8277931213,4.36191082,50.8277931213",
+    "geom:latitude":50.827793,
+    "geom:longitude":4.361911,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paul Emile Janson 14",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 50 72",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UxhG1nnD8GzFoguEWiUKB_50.827793_4.361911@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474153,
+    "wof:geomhash":"2277d423fca4758e95eae308c6dbeb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041572689
+        }
+    ],
+    "wof:id":1041572689,
+    "wof:lastmodified":1473474153,
+    "wof:name":"Ecole Des Arts Du Jeu, De La Danse & De La Musique Lilian Lambert",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.36191082,
+    50.8277931213,
+    4.36191082,
+    50.8277931213
+],
+  "geometry": {"coordinates":[4.36191082,50.8277931213],"type":"Point"}
+}

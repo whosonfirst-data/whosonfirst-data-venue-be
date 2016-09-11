@@ -1,0 +1,77 @@
+{
+  "id": 1058551575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6535968781,50.6608009338,5.6535968781,50.6608009338",
+    "geom:latitude":50.660801,
+    "geom:longitude":5.653597,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Vis\u00e9 435",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 44 22",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wcr2nS4jdwP0d9ZRQz9BN_50.660801_5.653597@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530431,
+    "wof:geomhash":"4c110e176213b0602f22c43f2a04ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058551575
+        }
+    ],
+    "wof:id":1058551575,
+    "wof:lastmodified":1473530431,
+    "wof:name":"C\u00e9rasoli A",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.6535968781,
+    50.6608009338,
+    5.6535968781,
+    50.6608009338
+],
+  "geometry": {"coordinates":[5.6535968781,50.6608009338],"type":"Point"}
+}

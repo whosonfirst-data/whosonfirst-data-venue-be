@@ -1,0 +1,77 @@
+{
+  "id": 1042031425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3109512329,50.858581543,4.3109512329,50.858581543",
+    "geom:latitude":50.858582,
+    "geom:longitude":4.310951,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Louis Mettewielaan 25",
+    "sg:city":"Sint-jans-molenbeek/molenbeek-saint-jean",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 06 37",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801767,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vKhXjp7inD0KWqAJCL5eX_50.858582_4.310951@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493500,
+    "wof:geomhash":"7334f2b3ef08ce0239590d6eb3e5c721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801767,
+            "region_id":85681713,
+            "venue_id":1042031425
+        }
+    ],
+    "wof:id":1042031425,
+    "wof:lastmodified":1473493500,
+    "wof:name":"Taverne Le Mettewie",
+    "wof:parent_id":85801767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3109512329,
+    50.858581543,
+    4.3109512329,
+    50.858581543
+],
+  "geometry": {"coordinates":[4.3109512329,50.858581543],"type":"Point"}
+}

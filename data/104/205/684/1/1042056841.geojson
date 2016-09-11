@@ -1,0 +1,85 @@
+{
+  "id": 1042056841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4423899651,51.1417045593,4.4423899651,51.1417045593",
+    "geom:latitude":51.141705,
+    "geom:longitude":4.44239,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"King Square Veldkant 35 B",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 450 81 90",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "pharmaceutical",
+        "energy",
+        "chemistry",
+        "-",
+        "by-product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAWgxVOX0U3LDVWbzfrQ3_51.141705_4.442390@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494544,
+    "wof:geomhash":"451a35d774f74adba3e47fc60d93b37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042056841
+        }
+    ],
+    "wof:id":1042056841,
+    "wof:lastmodified":1473494544,
+    "wof:name":"Petrobel Sa",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "energy",
+        "chemistry",
+        "-",
+        "by-product"
+    ]
+},
+  "bbox": [
+    4.4423899651,
+    51.1417045593,
+    4.4423899651,
+    51.1417045593
+],
+  "geometry": {"coordinates":[4.4423899651,51.1417045593],"type":"Point"}
+}

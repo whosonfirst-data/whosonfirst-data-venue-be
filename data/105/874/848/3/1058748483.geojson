@@ -1,0 +1,79 @@
+{
+  "id": 1058748483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5674538612,50.6442337036,5.5674538612,50.6442337036",
+    "geom:latitude":50.644234,
+    "geom:longitude":5.567454,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bld De La Sauveni\u00c8re 48",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 33 33",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s5BqjKjVbQHI938mqaj3P_50.644234_5.567454@1306268564"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539258,
+    "wof:geomhash":"761db5dae176a479da353f7a9934e5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058748483
+        }
+    ],
+    "wof:id":1058748483,
+    "wof:lastmodified":1473539258,
+    "wof:name":"Zingaro",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.5674538612,
+    50.6442337036,
+    5.5674538612,
+    50.6442337036
+],
+  "geometry": {"coordinates":[5.5674538612,50.6442337036],"type":"Point"}
+}

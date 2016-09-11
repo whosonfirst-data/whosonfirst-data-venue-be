@@ -1,0 +1,73 @@
+{
+  "id": 1058162825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6919260025,50.8593444824,4.6919260025,50.8593444824",
+    "geom:latitude":50.859344,
+    "geom:longitude":4.691926,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wijngaardlaan 17",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 40 66 46",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YPWkMs1nkQN29H0USwCyT_50.859344_4.691926@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512549,
+    "wof:geomhash":"193dfd59ed02d97d30869e65b7da2a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058162825
+        }
+    ],
+    "wof:id":1058162825,
+    "wof:lastmodified":1473512549,
+    "wof:name":"Desmyter J",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6919260025,
+    50.8593444824,
+    4.6919260025,
+    50.8593444824
+],
+  "geometry": {"coordinates":[4.6919260025,50.8593444824],"type":"Point"}
+}

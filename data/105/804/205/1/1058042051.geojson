@@ -1,0 +1,92 @@
+{
+  "id": 1058042051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3062200546,50.8616676331,4.3062200546,50.8616676331",
+    "geom:latitude":50.861668,
+    "geom:longitude":4.30622,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Genot 47",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 04 03",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "armoured",
+        "door",
+        "fireproof"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801767,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HNY06gyvjaw7bPnxdWAmR_50.861668_4.306220@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507190,
+    "wof:geomhash":"4967f5a1d81310b61af21e9053200201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801767,
+            "region_id":85681713,
+            "venue_id":1058042051
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058042051
+        }
+    ],
+    "wof:id":1058042051,
+    "wof:lastmodified":1473507190,
+    "wof:name":"Abloy Bruxelles Security Sprl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armoured",
+        "door",
+        "fireproof"
+    ]
+},
+  "bbox": [
+    4.3062200546,
+    50.8616676331,
+    4.3062200546,
+    50.8616676331
+],
+  "geometry": {"coordinates":[4.3062200546,50.8616676331],"type":"Point"}
+}

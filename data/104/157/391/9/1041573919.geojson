@@ -1,0 +1,83 @@
+{
+  "id": 1041573919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3328170776,50.8296508789,4.3328170776,50.8296508789",
+    "geom:latitude":50.829651,
+    "geom:longitude":4.332817,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De M\u00e9rode 244",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 48 59",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4tBNC8nVGfO3w9JIrSLb_50.829651_4.332817@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474206,
+    "wof:geomhash":"c81feb30dac6cfa054a871470dc840bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1041573919
+        }
+    ],
+    "wof:id":1041573919,
+    "wof:lastmodified":1473474206,
+    "wof:name":"Lutins (les)",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.3328170776,
+    50.8296508789,
+    4.3328170776,
+    50.8296508789
+],
+  "geometry": {"coordinates":[4.3328170776,50.8296508789],"type":"Point"}
+}

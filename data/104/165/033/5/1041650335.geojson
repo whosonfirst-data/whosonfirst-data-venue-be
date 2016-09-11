@@ -1,0 +1,79 @@
+{
+  "id": 1041650335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.402659893,50.798034668,4.402659893,50.798034668",
+    "geom:latitude":50.798035,
+    "geom:longitude":4.40266,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Lucanes 10",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 662 11 51",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fr9y3MkhnVS6PVvszJpzy_50.798035_4.402660@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477357,
+    "wof:geomhash":"02c121b7a19978e4d64549553b277f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1041650335
+        }
+    ],
+    "wof:id":1041650335,
+    "wof:lastmodified":1473477357,
+    "wof:name":"Filippi Veronique",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.402659893,
+    50.798034668,
+    4.402659893,
+    50.798034668
+],
+  "geometry": {"coordinates":[4.402659893,50.798034668],"type":"Point"}
+}

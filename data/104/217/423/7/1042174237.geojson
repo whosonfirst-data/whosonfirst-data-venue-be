@@ -1,0 +1,77 @@
+{
+  "id": 1042174237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2064299583,51.2571907043,3.2064299583,51.2571907043",
+    "geom:latitude":51.257191,
+    "geom:longitude":3.20643,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gotevlietstraat 50",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 59 98 51",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "gate",
+        "opener",
+        "door",
+        "automatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ys0pZjld0mnsItq5wI3fs_51.257191_3.206430@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500370,
+    "wof:geomhash":"6b28abb0d12e2ca3f71c032d5983c67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1042174237
+        }
+    ],
+    "wof:id":1042174237,
+    "wof:lastmodified":1473500370,
+    "wof:name":"Neirinck",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gate",
+        "opener",
+        "door",
+        "automatic"
+    ]
+},
+  "bbox": [
+    3.2064299583,
+    51.2571907043,
+    3.2064299583,
+    51.2571907043
+],
+  "geometry": {"coordinates":[3.2064299583,51.2571907043],"type":"Point"}
+}

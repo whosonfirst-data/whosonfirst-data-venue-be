@@ -1,0 +1,77 @@
+{
+  "id": 1042014301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4542808533,50.8649139404,4.4542808533,50.8649139404",
+    "geom:latitude":50.864914,
+    "geom:longitude":4.454281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jef. Thumas 16",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 721 36 41",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801919,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HBxz19lkICZdH51uRaStr_50.864914_4.454281@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492847,
+    "wof:geomhash":"8a16507b049a86f5dbbaf5c9dbcf81e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801919,
+            "region_id":85681731,
+            "venue_id":1042014301
+        }
+    ],
+    "wof:id":1042014301,
+    "wof:lastmodified":1473492847,
+    "wof:name":"Caf\u00c9 Verdo",
+    "wof:parent_id":85801919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4542808533,
+    50.8649139404,
+    4.4542808533,
+    50.8649139404
+],
+  "geometry": {"coordinates":[4.4542808533,50.8649139404],"type":"Point"}
+}

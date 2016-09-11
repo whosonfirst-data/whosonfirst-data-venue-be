@@ -1,0 +1,77 @@
+{
+  "id": 1042198691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3393559456,50.7942504883,4.3393559456,50.7942504883",
+    "geom:latitude":50.79425,
+    "geom:longitude":4.339356,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00e2teau D'eau 60",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 89 26",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ettZaDaLGbM195rpGHTzQ_50.794250_4.339356@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501862,
+    "wof:geomhash":"184f54fc3478f8ce41020113dfa71c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1042198691
+        }
+    ],
+    "wof:id":1042198691,
+    "wof:lastmodified":1473501862,
+    "wof:name":"Ecole Du D\u00e9fi",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.3393559456,
+    50.7942504883,
+    4.3393559456,
+    50.7942504883
+],
+  "geometry": {"coordinates":[4.3393559456,50.7942504883],"type":"Point"}
+}

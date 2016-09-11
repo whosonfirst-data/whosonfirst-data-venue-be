@@ -1,0 +1,85 @@
+{
+  "id": 1058845235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3548669815,50.8050537109,4.3548669815,50.8050537109",
+    "geom:latitude":50.805054,
+    "geom:longitude":4.354867,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Zeecrabbe 23",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 00 36",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "equipment",
+        "swimming",
+        "-",
+        "pool",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U3uyUpgB6qtF9qveqvxg4_50.805054_4.354867@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543536,
+    "wof:geomhash":"5933a9460cdcb9310f74800c6984fc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1058845235
+        }
+    ],
+    "wof:id":1058845235,
+    "wof:lastmodified":1473543536,
+    "wof:name":"Adimco Piscines",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "swimming",
+        "-",
+        "pool",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3548669815,
+    50.8050537109,
+    4.3548669815,
+    50.8050537109
+],
+  "geometry": {"coordinates":[4.3548669815,50.8050537109],"type":"Point"}
+}

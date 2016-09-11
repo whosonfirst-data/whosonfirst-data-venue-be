@@ -1,0 +1,79 @@
+{
+  "id": 1041831591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4232978821,51.1821250916,4.4232978821,51.1821250916",
+    "geom:latitude":51.182125,
+    "geom:longitude":4.423298,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elisabethlaan 107",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 218 61 20",
+    "sg:postcode":"2600",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47N2Zj8iY6hFhZYJo5Ia3R_51.182125_4.423298@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485017,
+    "wof:geomhash":"312c89d879b8e7309556c044eeddbeac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1041831591
+        }
+    ],
+    "wof:id":1041831591,
+    "wof:lastmodified":1473485017,
+    "wof:name":"Oak Consult",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.4232978821,
+    51.1821250916,
+    4.4232978821,
+    51.1821250916
+],
+  "geometry": {"coordinates":[4.4232978821,51.1821250916],"type":"Point"}
+}

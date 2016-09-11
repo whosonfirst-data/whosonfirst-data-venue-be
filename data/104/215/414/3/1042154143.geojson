@@ -1,0 +1,83 @@
+{
+  "id": 1042154143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5538268089,50.6236763,5.5538268089,50.6236763",
+    "geom:latitude":50.623676,
+    "geom:longitude":5.553827,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Julien D'andrimont 7 Box 72",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 27 24",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "sample",
+        "brochure",
+        "-",
+        "distributors"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qKJZ2sztMdfkEPX3ztaAJ_50.623676_5.553827@1306268406"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499225,
+    "wof:geomhash":"5399ba721d7b0db52d4a3a2dcae07d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1042154143
+        }
+    ],
+    "wof:id":1042154143,
+    "wof:lastmodified":1473499225,
+    "wof:name":"Facteur Pub",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sample",
+        "brochure",
+        "-",
+        "distributors"
+    ]
+},
+  "bbox": [
+    5.5538268089,
+    50.6236763,
+    5.5538268089,
+    50.6236763
+],
+  "geometry": {"coordinates":[5.5538268089,50.6236763],"type":"Point"}
+}

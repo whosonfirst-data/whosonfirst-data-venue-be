@@ -1,0 +1,83 @@
+{
+  "id": 1041581821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3735952377,50.8492698669,4.3735952377,50.8492698669",
+    "geom:latitude":50.84927,
+    "geom:longitude":4.373595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'enclume 10",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 280 03 42",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pFCvH0EX5TUfv7NclTb57_50.849270_4.373595@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474523,
+    "wof:geomhash":"2286743c4d8ae060bf8359a7fa4a786c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1041581821
+        }
+    ],
+    "wof:id":1041581821,
+    "wof:lastmodified":1473474523,
+    "wof:name":"Rycx G",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3735952377,
+    50.8492698669,
+    4.3735952377,
+    50.8492698669
+],
+  "geometry": {"coordinates":[4.3735952377,50.8492698669],"type":"Point"}
+}

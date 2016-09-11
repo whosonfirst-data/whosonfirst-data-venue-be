@@ -1,0 +1,81 @@
+{
+  "id": 1041846279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5415649414,50.8821487427,4.5415649414,50.8821487427",
+    "geom:latitude":50.882149,
+    "geom:longitude":4.541565,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Florenbeemd 6-7",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 55 18",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801697,
+        102191581,
+        85632997,
+        404227357,
+        101754327,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vlapsrq4f2bV7d9warMfp_50.882149_4.541565@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485636,
+    "wof:geomhash":"5758d5f529eb42f948a99c76d95e5986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754327,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801697,
+            "region_id":85681731,
+            "venue_id":1041846279
+        }
+    ],
+    "wof:id":1041846279,
+    "wof:lastmodified":1473485636,
+    "wof:name":"Delta Cars",
+    "wof:parent_id":85801697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.5415649414,
+    50.8821487427,
+    4.5415649414,
+    50.8821487427
+],
+  "geometry": {"coordinates":[4.5415649414,50.8821487427],"type":"Point"}
+}

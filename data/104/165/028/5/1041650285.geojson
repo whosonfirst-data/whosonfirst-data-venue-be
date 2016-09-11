@@ -1,0 +1,79 @@
+{
+  "id": 1041650285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3651337624,50.8233795166,4.3651337624,50.8233795166",
+    "geom:latitude":50.82338,
+    "geom:longitude":4.365134,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tenbosch 31",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 52 36",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bYXLOaXulSx2zFAoILqvK_50.823380_4.365134@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477355,
+    "wof:geomhash":"b6de256f1a43813b00aa20ac7d3f1fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041650285
+        }
+    ],
+    "wof:id":1041650285,
+    "wof:lastmodified":1473477355,
+    "wof:name":"Centre Belge De Formation En Psychanalyse",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.3651337624,
+    50.8233795166,
+    4.3651337624,
+    50.8233795166
+],
+  "geometry": {"coordinates":[4.3651337624,50.8233795166],"type":"Point"}
+}

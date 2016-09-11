@@ -1,0 +1,79 @@
+{
+  "id": 1058172215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4093542099,50.8373908997,4.4093542099,50.8373908997",
+    "geom:latitude":50.837391,
+    "geom:longitude":4.409354,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Tervueren 148 Box 1",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 84 14",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WMCTtzLwPly5mtyqBSIm5_50.837391_4.409354@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512995,
+    "wof:geomhash":"6fd5732a5a234feb600bf93fb8e0f485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058172215
+        }
+    ],
+    "wof:id":1058172215,
+    "wof:lastmodified":1473512995,
+    "wof:name":"Li\u00e9nard Jean-claude",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4093542099,
+    50.8373908997,
+    4.4093542099,
+    50.8373908997
+],
+  "geometry": {"coordinates":[4.4093542099,50.8373908997],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041985693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3552942276,50.8518295288,4.3552942276,50.8518295288",
+    "geom:latitude":50.85183,
+    "geom:longitude":4.355294,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Neuve 39",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 210 14 50",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1prdmiKZnCRL9qC2ME9bBm_50.851830_4.355294@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491743,
+    "wof:geomhash":"9a2a660b34300401d5b5464144a22705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041985693
+        }
+    ],
+    "wof:id":1041985693,
+    "wof:lastmodified":1473491743,
+    "wof:name":"Sisley",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.3552942276,
+    50.8518295288,
+    4.3552942276,
+    50.8518295288
+],
+  "geometry": {"coordinates":[4.3552942276,50.8518295288],"type":"Point"}
+}

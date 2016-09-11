@@ -1,0 +1,79 @@
+{
+  "id": 1041643777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3797688484,50.8293495178,4.3797688484,50.8293495178",
+    "geom:latitude":50.82935,
+    "geom:longitude":4.379769,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Couronne 114-a",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 23 61",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M9cEAqlp0QWQDlhFhchFp_50.829350_4.379769@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477095,
+    "wof:geomhash":"988f65c1ade1f1fb3ad4a2c883db804f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041643777
+        }
+    ],
+    "wof:id":1041643777,
+    "wof:lastmodified":1473477095,
+    "wof:name":"Spiphar Sprl",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    4.3797688484,
+    50.8293495178,
+    4.3797688484,
+    50.8293495178
+],
+  "geometry": {"coordinates":[4.3797688484,50.8293495178],"type":"Point"}
+}

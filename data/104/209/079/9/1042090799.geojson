@@ -1,0 +1,79 @@
+{
+  "id": 1042090799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4135451317,51.3094520569,4.4135451317,51.3094520569",
+    "geom:latitude":51.309452,
+    "geom:longitude":4.413545,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoevensebaan 323",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 660 10 79",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T1kTfdARBqT7pzcaPJKKb_51.309452_4.413545@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495991,
+    "wof:geomhash":"2a8ced491da9b70ad9d1c512cf08378d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1042090799
+        }
+    ],
+    "wof:id":1042090799,
+    "wof:lastmodified":1473495991,
+    "wof:name":"Ccst",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ]
+},
+  "bbox": [
+    4.4135451317,
+    51.3094520569,
+    4.4135451317,
+    51.3094520569
+],
+  "geometry": {"coordinates":[4.4135451317,51.3094520569],"type":"Point"}
+}

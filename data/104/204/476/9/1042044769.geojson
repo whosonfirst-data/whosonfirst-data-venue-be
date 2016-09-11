@@ -1,0 +1,83 @@
+{
+  "id": 1042044769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4090199471,50.7967681885,4.4090199471,50.7967681885",
+    "geom:latitude":50.796768,
+    "geom:longitude":4.40902,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'hermine 17",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 48 93",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "cd's",
+        "recorded",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800947,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MPURRPyi9yCs4VQ7j7v92_50.796768_4.409020@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494047,
+    "wof:geomhash":"8ecf58faaf30ba8e3fde4709f4784103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800947,
+            "region_id":85681713,
+            "venue_id":1042044769
+        }
+    ],
+    "wof:id":1042044769,
+    "wof:lastmodified":1473494047,
+    "wof:name":"Music Connection",
+    "wof:parent_id":85800947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "cd's",
+        "recorded",
+        "cassette"
+    ]
+},
+  "bbox": [
+    4.4090199471,
+    50.7967681885,
+    4.4090199471,
+    50.7967681885
+],
+  "geometry": {"coordinates":[4.4090199471,50.7967681885],"type":"Point"}
+}

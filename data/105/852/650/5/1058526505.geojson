@@ -1,0 +1,79 @@
+{
+  "id": 1058526505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6235699654,50.6338386536,5.6235699654,50.6338386536",
+    "geom:latitude":50.633839,
+    "geom:longitude":5.62357,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Bodson 195",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 18 30",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "party",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HRjYiVYueYnYslJh8HXoO_50.633839_5.623570@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529312,
+    "wof:geomhash":"80263408faa0da700b3aab4b87d8cf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058526505
+        }
+    ],
+    "wof:id":1058526505,
+    "wof:lastmodified":1473529312,
+    "wof:name":"Thibaut Gris Organisation",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning"
+    ]
+},
+  "bbox": [
+    5.6235699654,
+    50.6338386536,
+    5.6235699654,
+    50.6338386536
+],
+  "geometry": {"coordinates":[5.6235699654,50.6338386536],"type":"Point"}
+}

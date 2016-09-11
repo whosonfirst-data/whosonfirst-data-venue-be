@@ -1,0 +1,79 @@
+{
+  "id": 1058283537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4092102051,51.2263298035,4.4092102051,51.2263298035",
+    "geom:latitude":51.22633,
+    "geom:longitude":4.40921,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hessenstraatje 10",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 257 10 92",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16hnDaGZZiBiqKwiKkzg8u_51.226330_4.409210@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517852,
+    "wof:geomhash":"3cecc4f2cbb7dd0dc513725c48d6a195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1058283537
+        }
+    ],
+    "wof:id":1058283537,
+    "wof:lastmodified":1473517852,
+    "wof:name":"Uniskill",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "internet"
+    ]
+},
+  "bbox": [
+    4.4092102051,
+    51.2263298035,
+    4.4092102051,
+    51.2263298035
+],
+  "geometry": {"coordinates":[4.4092102051,51.2263298035],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058548117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3242650032,50.7775688171,4.3242650032,50.7775688171",
+    "geom:latitude":50.777569,
+    "geom:longitude":4.324265,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Edmond Theunissen 17a",
+    "sg:city":"Linkebeek",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 11 12",
+    "sg:postcode":"1630",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801091,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x8sim0a4w4VGh7P3fTavm_50.777569_4.324265@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530287,
+    "wof:geomhash":"b2eb182be3aff53b1286de4f799816df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801091,
+            "region_id":85681731,
+            "venue_id":1058548117
+        }
+    ],
+    "wof:id":1058548117,
+    "wof:lastmodified":1473530287,
+    "wof:name":"Bergeret Agn\u00e8s",
+    "wof:parent_id":85801091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3242650032,
+    50.7775688171,
+    4.3242650032,
+    50.7775688171
+],
+  "geometry": {"coordinates":[4.3242650032,50.7775688171],"type":"Point"}
+}

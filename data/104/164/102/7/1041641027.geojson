@@ -1,0 +1,79 @@
+{
+  "id": 1041641027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4841527939,51.2892150879,4.4841527939,51.2892150879",
+    "geom:latitude":51.289215,
+    "geom:longitude":4.484153,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Verhoevenlei 46",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 652 03 04",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801969,
+        102191581,
+        85632997,
+        404227357,
+        101754397,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ywAACfZrg7AK2i47wV1b5_51.289215_4.484153@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476961,
+    "wof:geomhash":"cb454c80ad6b3cb1549985cc7f1bd967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101754397,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801969,
+            "region_id":85681715,
+            "venue_id":1041641027
+        }
+    ],
+    "wof:id":1041641027,
+    "wof:lastmodified":1473476961,
+    "wof:name":"Bresseleers-per\u00e9 Nv",
+    "wof:parent_id":85801969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4841527939,
+    51.2892150879,
+    4.4841527939,
+    51.2892150879
+],
+  "geometry": {"coordinates":[4.4841527939,51.2892150879],"type":"Point"}
+}

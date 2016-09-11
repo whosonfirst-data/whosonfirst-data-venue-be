@@ -1,0 +1,66 @@
+{
+  "id": 1058678643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5575170517,50.9034347534,4.5575170517,50.9034347534",
+    "geom:latitude":50.903435,
+    "geom:longitude":4.557517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsplein 7",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 759 94 44",
+    "sg:postcode":"3071",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801313,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VYm0BIZsaaEJNCASbQ3em_50.903435_4.557517@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536211,
+    "wof:geomhash":"bee764d5db18965b0ea7a7ba90cb0353",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801313,
+            "region_id":85681731,
+            "venue_id":1058678643
+        }
+    ],
+    "wof:id":1058678643,
+    "wof:lastmodified":1473536211,
+    "wof:name":"Rooden Scilt",
+    "wof:parent_id":85801313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5575170517,
+    50.9034347534,
+    4.5575170517,
+    50.9034347534
+],
+  "geometry": {"coordinates":[4.5575170517,50.9034347534],"type":"Point"}
+}

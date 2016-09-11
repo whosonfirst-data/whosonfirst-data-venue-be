@@ -1,0 +1,77 @@
+{
+  "id": 1042045691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3703689575,50.8633079529,4.3703689575,50.8633079529",
+    "geom:latitude":50.863308,
+    "geom:longitude":4.370369,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Poste 250",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 08 98 67",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ceiling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sRXQqLZAQEVnsTl3nVHVt_50.863308_4.370369@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494081,
+    "wof:geomhash":"f709020ea7700d7b425898fe3dacfe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042045691
+        }
+    ],
+    "wof:id":1042045691,
+    "wof:lastmodified":1473494081,
+    "wof:name":"Dibex Sprl",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceiling"
+    ]
+},
+  "bbox": [
+    4.3703689575,
+    50.8633079529,
+    4.3703689575,
+    50.8633079529
+],
+  "geometry": {"coordinates":[4.3703689575,50.8633079529],"type":"Point"}
+}

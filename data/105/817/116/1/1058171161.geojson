@@ -1,0 +1,73 @@
+{
+  "id": 1058171161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5029439926,50.7247467041,4.5029439926,50.7247467041",
+    "geom:latitude":50.724747,
+    "geom:longitude":4.502944,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Desmet 68",
+    "sg:city":"Rixensart (genval)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 06 05",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DwU4WFBqV2qZudFT77xl5_50.724747_4.502944@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512955,
+    "wof:geomhash":"450a22cbd161c89a17c3a49afa6a8be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058171161
+        }
+    ],
+    "wof:id":1058171161,
+    "wof:lastmodified":1473512955,
+    "wof:name":"Leclercq Jacques-baudouin",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5029439926,
+    50.7247467041,
+    4.5029439926,
+    50.7247467041
+],
+  "geometry": {"coordinates":[4.5029439926,50.7247467041],"type":"Point"}
+}

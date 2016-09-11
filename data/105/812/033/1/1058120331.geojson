@@ -1,0 +1,77 @@
+{
+  "id": 1058120331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3305602074,50.8204498291,4.3305602074,50.8204498291",
+    "geom:latitude":50.82045,
+    "geom:longitude":4.33056,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Melon 1",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 04 95",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15UEaoNT3mqPrisktMAw87_50.820450_4.330560@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510536,
+    "wof:geomhash":"c9bdf5103b6d8449e64c0c3d51f75052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058120331
+        }
+    ],
+    "wof:id":1058120331,
+    "wof:lastmodified":1473510536,
+    "wof:name":"Ipek",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3305602074,
+    50.8204498291,
+    4.3305602074,
+    50.8204498291
+],
+  "geometry": {"coordinates":[4.3305602074,50.8204498291],"type":"Point"}
+}

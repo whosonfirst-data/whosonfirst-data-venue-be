@@ -1,0 +1,77 @@
+{
+  "id": 1041688691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7509870529,51.0634613037,3.7509870529,51.0634613037",
+    "geom:latitude":51.063461,
+    "geom:longitude":3.750987,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpsesteenweg 271",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 43 22",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTIy9E6lFwLywQHEmlTyX_51.063461_3.750987@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478852,
+    "wof:geomhash":"1dc4ae59afa2a504c8f5f706a4ffd144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1041688691
+        }
+    ],
+    "wof:id":1041688691,
+    "wof:lastmodified":1473478852,
+    "wof:name":"Robert Sinia",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.7509870529,
+    51.0634613037,
+    3.7509870529,
+    51.0634613037
+],
+  "geometry": {"coordinates":[3.7509870529,51.0634613037],"type":"Point"}
+}

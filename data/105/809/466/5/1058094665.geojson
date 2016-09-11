@@ -1,0 +1,71 @@
+{
+  "id": 1058094665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4900197983,51.2074966431,4.4900197983,51.2074966431",
+    "geom:latitude":51.207497,
+    "geom:longitude":4.49002,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Autolei 200",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 321 80 27",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MyvaYAJYEBIc5zCRCIZXR_51.207497_4.490020@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509344,
+    "wof:geomhash":"d7a047234e98bd9775cc19a4e6a67f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058094665
+        }
+    ],
+    "wof:id":1058094665,
+    "wof:lastmodified":1473509344,
+    "wof:name":"Sandy",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4900197983,
+    51.2074966431,
+    4.4900197983,
+    51.2074966431
+],
+  "geometry": {"coordinates":[4.4900197983,51.2074966431],"type":"Point"}
+}

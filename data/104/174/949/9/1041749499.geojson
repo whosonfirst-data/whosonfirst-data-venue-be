@@ -1,0 +1,77 @@
+{
+  "id": 1041749499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2995061874,50.8413887024,4.2995061874,50.8413887024",
+    "geom:latitude":50.841389,
+    "geom:longitude":4.299506,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Potaerdenberg 141",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 52 29",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CeJqlOxKhzAb29MBUEsmO_50.841389_4.299506@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481351,
+    "wof:geomhash":"8b23903f56f2b9ed760609a301778dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041749499
+        }
+    ],
+    "wof:id":1041749499,
+    "wof:lastmodified":1473481351,
+    "wof:name":"C.d. Ambu",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    4.2995061874,
+    50.8413887024,
+    4.2995061874,
+    50.8413887024
+],
+  "geometry": {"coordinates":[4.2995061874,50.8413887024],"type":"Point"}
+}

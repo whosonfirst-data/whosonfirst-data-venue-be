@@ -1,0 +1,75 @@
+{
+  "id": 1041845689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4787192345,51.1938972473,4.4787192345,51.1938972473",
+    "geom:latitude":51.193897,
+    "geom:longitude":4.478719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frans Beirenslaan 74",
+    "sg:city":"Borsbeek",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 321 04 47",
+    "sg:postcode":"2150",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08qsDkgCrN09HbzDn7MUOu_51.193897_4.478719@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485614,
+    "wof:geomhash":"fc6acb90fa623a5303d06de3f1b2f18d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1041845689
+        }
+    ],
+    "wof:id":1041845689,
+    "wof:lastmodified":1473485614,
+    "wof:name":"Autohandel Steurs Bvba",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4787192345,
+    51.1938972473,
+    4.4787192345,
+    51.1938972473
+],
+  "geometry": {"coordinates":[4.4787192345,51.1938972473],"type":"Point"}
+}

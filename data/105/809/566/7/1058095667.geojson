@@ -1,0 +1,77 @@
+{
+  "id": 1058095667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4756889343,50.7702674866,4.4756889343,50.7702674866",
+    "geom:latitude":50.770267,
+    "geom:longitude":4.475689,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Edgard Sohiestraat 7",
+    "sg:city":"Hoeilaart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 657 01 77",
+    "sg:postcode":"1560",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801811,
+        102191581,
+        85632997,
+        404227357,
+        101913235,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N3Y60AUGu26AnIL1GjjR3_50.770267_4.475689@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509387,
+    "wof:geomhash":"fa66f30c18deb7dc4f5ccaffc72a9f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101913235,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801811,
+            "region_id":85681731,
+            "venue_id":1058095667
+        }
+    ],
+    "wof:id":1058095667,
+    "wof:lastmodified":1473509387,
+    "wof:name":"Vandenhaute",
+    "wof:parent_id":85801811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4756889343,
+    50.7702674866,
+    4.4756889343,
+    50.7702674866
+],
+  "geometry": {"coordinates":[4.4756889343,50.7702674866],"type":"Point"}
+}

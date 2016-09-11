@@ -1,0 +1,79 @@
+{
+  "id": 1041599653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3445620537,50.8298835754,4.3445620537,50.8298835754",
+    "geom:latitude":50.829884,
+    "geom:longitude":4.344562,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 78a",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 04 44",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "gsm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RjPoiSsG1YQ6ztQaee2Ay_50.829884_4.344562@1306268451"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475281,
+    "wof:geomhash":"d128e5e7caa172dc807c556e9ebed162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041599653
+        }
+    ],
+    "wof:id":1041599653,
+    "wof:lastmodified":1473475281,
+    "wof:name":"Doc Gsm Sprl",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "gsm"
+    ]
+},
+  "bbox": [
+    4.3445620537,
+    50.8298835754,
+    4.3445620537,
+    50.8298835754
+],
+  "geometry": {"coordinates":[4.3445620537,50.8298835754],"type":"Point"}
+}

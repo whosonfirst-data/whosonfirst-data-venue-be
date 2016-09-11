@@ -1,0 +1,79 @@
+{
+  "id": 1058968653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3840918541,50.8768043518,4.3840918541,50.8768043518",
+    "geom:latitude":50.876804,
+    "geom:longitude":4.384092,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Jaur\u00e8s 17",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 17 66",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cleaner",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g0NcTHkj1LCggyaqEjCgU_50.876804_4.384092@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549149,
+    "wof:geomhash":"6d8125f90af04fa505e70ac754cd63fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058968653
+        }
+    ],
+    "wof:id":1058968653,
+    "wof:lastmodified":1473549149,
+    "wof:name":"Dujardin G",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "window"
+    ]
+},
+  "bbox": [
+    4.3840918541,
+    50.8768043518,
+    4.3840918541,
+    50.8768043518
+],
+  "geometry": {"coordinates":[4.3840918541,50.8768043518],"type":"Point"}
+}

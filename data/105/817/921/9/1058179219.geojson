@@ -1,0 +1,85 @@
+{
+  "id": 1058179219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.318983078,50.7751922607,4.318983078,50.7751922607",
+    "geom:latitude":50.775192,
+    "geom:longitude":4.318983,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenweg Op Ukkel 220",
+    "sg:city":"Beersel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 07 38",
+    "sg:postcode":"1650",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801091,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QyvJKFmTK8cbGBK2WNMx9_50.775192_4.318983@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513297,
+    "wof:geomhash":"04712a507de921ac786ef30dde709494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801091,
+            "region_id":85681731,
+            "venue_id":1058179219
+        }
+    ],
+    "wof:id":1058179219,
+    "wof:lastmodified":1473513297,
+    "wof:name":"Merckx & Zn Bvba",
+    "wof:parent_id":85801091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.318983078,
+    50.7751922607,
+    4.318983078,
+    50.7751922607
+],
+  "geometry": {"coordinates":[4.318983078,50.7751922607],"type":"Point"}
+}

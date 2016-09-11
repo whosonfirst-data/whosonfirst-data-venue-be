@@ -1,0 +1,79 @@
+{
+  "id": 1058830761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7469420433,51.0582885742,3.7469420433,51.0582885742",
+    "geom:latitude":51.058289,
+    "geom:longitude":3.746942,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Land Van Waaslaan 104",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 238 36 57",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f6OEX6uhApobh9kdZkMgP_51.058289_3.746942@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542887,
+    "wof:geomhash":"c5d806d8ea36f9249969f356073b946b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058830761
+        }
+    ],
+    "wof:id":1058830761,
+    "wof:lastmodified":1473542887,
+    "wof:name":"Sven Van Woensel",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    3.7469420433,
+    51.0582885742,
+    3.7469420433,
+    51.0582885742
+],
+  "geometry": {"coordinates":[3.7469420433,51.0582885742],"type":"Point"}
+}

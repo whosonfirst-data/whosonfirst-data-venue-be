@@ -1,0 +1,66 @@
+{
+  "id": 1058677477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2811009884,51.2514610291,3.2811009884,51.2514610291",
+    "geom:latitude":51.251461,
+    "geom:longitude":3.281101,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Markt 13",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 20 03",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fq1a32rjF64PpuhUOTu7k_51.251461_3.281101@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536165,
+    "wof:geomhash":"6226f36a106ef3ad454d73ee3d3d929f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058677477
+        }
+    ],
+    "wof:id":1058677477,
+    "wof:lastmodified":1473536165,
+    "wof:name":"Restaurant Lamme Goedzak",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2811009884,
+    51.2514610291,
+    3.2811009884,
+    51.2514610291
+],
+  "geometry": {"coordinates":[3.2811009884,51.2514610291],"type":"Point"}
+}

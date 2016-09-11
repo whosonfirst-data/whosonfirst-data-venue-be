@@ -1,0 +1,83 @@
+{
+  "id": 1042119301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4383301735,50.8084411621,4.4383301735,50.8084411621",
+    "geom:latitude":50.808441,
+    "geom:longitude":4.43833,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bo\u00eete Postale 500",
+    "sg:city":"Bruxelles16",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 219 09 59",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g3xjc3cUMoVz2YefiEBq0_50.808441_4.438330@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497359,
+    "wof:geomhash":"a8c37e745d8e099998f1fee4ebb262e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1042119301
+        }
+    ],
+    "wof:id":1042119301,
+    "wof:lastmodified":1473497359,
+    "wof:name":"Caddy",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.4383301735,
+    50.8084411621,
+    4.4383301735,
+    50.8084411621
+],
+  "geometry": {"coordinates":[4.4383301735,50.8084411621],"type":"Point"}
+}

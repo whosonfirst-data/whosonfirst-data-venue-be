@@ -1,0 +1,83 @@
+{
+  "id": 1042114193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5546150208,50.6253547668,5.5546150208,50.6253547668",
+    "geom:latitude":50.625355,
+    "geom:longitude":5.554615,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Wallons 257",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 254 34 05",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HUdSpENFlIbfCs8NFW5Ho_50.625355_5.554615@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497047,
+    "wof:geomhash":"47284f7d5b97bdf85081c45cccffad3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1042114193
+        }
+    ],
+    "wof:id":1042114193,
+    "wof:lastmodified":1473497047,
+    "wof:name":"Autoconfig",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    5.5546150208,
+    50.6253547668,
+    5.5546150208,
+    50.6253547668
+],
+  "geometry": {"coordinates":[5.5546150208,50.6253547668],"type":"Point"}
+}

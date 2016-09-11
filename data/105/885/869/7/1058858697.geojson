@@ -1,0 +1,77 @@
+{
+  "id": 1058858697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3864188194,50.8207969666,4.3864188194,50.8207969666",
+    "geom:latitude":50.820797,
+    "geom:longitude":4.386419,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00e9n\u00e9ral Jacques 201",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 62 28",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tax-consultants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wFIVt03jTlc9vCZ6OquJg_50.820797_4.386419@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544087,
+    "wof:geomhash":"3d40d873b1265bc1a6403d7c6d060bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058858697
+        }
+    ],
+    "wof:id":1058858697,
+    "wof:lastmodified":1473544087,
+    "wof:name":"Duong Tung Lam",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tax-consultants"
+    ]
+},
+  "bbox": [
+    4.3864188194,
+    50.8207969666,
+    4.3864188194,
+    50.8207969666
+],
+  "geometry": {"coordinates":[4.3864188194,50.8207969666],"type":"Point"}
+}

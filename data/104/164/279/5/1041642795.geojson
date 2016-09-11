@@ -1,0 +1,77 @@
+{
+  "id": 1041642795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5625171661,50.6441078186,5.5625171661,50.6441078186",
+    "geom:latitude":50.644108,
+    "geom:longitude":5.562517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mont-saint-martin 92",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 36 66",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "pedicure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_458WWWb5C2lIapicZTSIaB_50.644108_5.562517@1306268524"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477047,
+    "wof:geomhash":"bf6099c573f0a49c7f6bbfab0be1ffe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041642795
+        }
+    ],
+    "wof:id":1041642795,
+    "wof:lastmodified":1473477047,
+    "wof:name":"Centre St-martin",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pedicure"
+    ]
+},
+  "bbox": [
+    5.5625171661,
+    50.6441078186,
+    5.5625171661,
+    50.6441078186
+],
+  "geometry": {"coordinates":[5.5625171661,50.6441078186],"type":"Point"}
+}

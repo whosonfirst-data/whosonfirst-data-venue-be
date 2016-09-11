@@ -1,0 +1,71 @@
+{
+  "id": 1041645805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2582559586,51.2164840698,3.2582559586,51.2164840698",
+    "geom:latitude":51.216484,
+    "geom:longitude":3.258256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bisschopsdreef 34",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 62 35",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HNjxSZvrhfzuWL5qIqukU_51.216484_3.258256@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477170,
+    "wof:geomhash":"46d10d8dc1ad717bfcbe8c10aa5bc0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041645805
+        }
+    ],
+    "wof:id":1041645805,
+    "wof:lastmodified":1473477170,
+    "wof:name":"Thys E",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2582559586,
+    51.2164840698,
+    3.2582559586,
+    51.2164840698
+],
+  "geometry": {"coordinates":[3.2582559586,51.2164840698],"type":"Point"}
+}

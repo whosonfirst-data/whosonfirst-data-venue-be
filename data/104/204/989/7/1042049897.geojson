@@ -1,0 +1,79 @@
+{
+  "id": 1042049897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3969078064,50.8034515381,4.3969078064,50.8034515381",
+    "geom:latitude":50.803452,
+    "geom:longitude":4.396908,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'elan 80 Box 27",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 68 88",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "charitable",
+        "organisation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YVhw5aTrv4QLT0QKWl8bJ_50.803452_4.396908@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494250,
+    "wof:geomhash":"a0a3b620561087b23e75d9ec814f35ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1042049897
+        }
+    ],
+    "wof:id":1042049897,
+    "wof:lastmodified":1473494250,
+    "wof:name":"Kin-sant\u00e9 Asbl",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "organisation"
+    ]
+},
+  "bbox": [
+    4.3969078064,
+    50.8034515381,
+    4.3969078064,
+    50.8034515381
+],
+  "geometry": {"coordinates":[4.3969078064,50.8034515381],"type":"Point"}
+}

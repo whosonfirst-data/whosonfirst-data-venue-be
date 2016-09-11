@@ -1,0 +1,79 @@
+{
+  "id": 1058763203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7335009575,51.0593223572,3.7335009575,51.0593223572",
+    "geom:latitude":51.059322,
+    "geom:longitude":3.733501,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ham 64",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 265 75 10",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "organisation",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MxU61H83dWceRn1F5FO5i_51.059322_3.733501@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539909,
+    "wof:geomhash":"168a5ac4e365cd8bd4e0541d46286a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058763203
+        }
+    ],
+    "wof:id":1058763203,
+    "wof:lastmodified":1473539909,
+    "wof:name":"De Ruimte Nv",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation",
+        "seminar"
+    ]
+},
+  "bbox": [
+    3.7335009575,
+    51.0593223572,
+    3.7335009575,
+    51.0593223572
+],
+  "geometry": {"coordinates":[3.7335009575,51.0593223572],"type":"Point"}
+}

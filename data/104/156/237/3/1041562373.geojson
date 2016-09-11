@@ -1,0 +1,81 @@
+{
+  "id": 1041562373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2981190681,50.8349533081,4.2981190681,50.8349533081",
+    "geom:latitude":50.834953,
+    "geom:longitude":4.298119,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Avenue Theo Verbeeck",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 55 36",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dm7anXtR3zJ2iP42hESM5_50.834953_4.298119@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473728,
+    "wof:geomhash":"938444f998dd9604a1e99a52f100b8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041562373
+        }
+    ],
+    "wof:id":1041562373,
+    "wof:lastmodified":1473473728,
+    "wof:name":"Saint-guidon Sa",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2981190681,
+    50.8349533081,
+    4.2981190681,
+    50.8349533081
+],
+  "geometry": {"coordinates":[4.2981190681,50.8349533081],"type":"Point"}
+}

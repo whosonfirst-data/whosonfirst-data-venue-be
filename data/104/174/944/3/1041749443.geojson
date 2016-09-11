@@ -1,0 +1,71 @@
+{
+  "id": 1041749443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5068907738,50.5867156982,5.5068907738,50.5867156982",
+    "geom:latitude":50.586716,
+    "geom:longitude":5.506891,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tavier 219",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 80 80",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QsNbnA3IFXNxl1wB9srk3_50.586716_5.506891@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481349,
+    "wof:geomhash":"706b9cf027dcb57660c4051bca32dd0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1041749443
+        }
+    ],
+    "wof:id":1041749443,
+    "wof:lastmodified":1473481349,
+    "wof:name":"Ambu-seraing",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    5.5068907738,
+    50.5867156982,
+    5.5068907738,
+    50.5867156982
+],
+  "geometry": {"coordinates":[5.5068907738,50.5867156982],"type":"Point"}
+}

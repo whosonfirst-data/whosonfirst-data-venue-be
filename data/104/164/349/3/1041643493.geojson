@@ -1,0 +1,81 @@
+{
+  "id": 1041643493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3897771835,51.2087554932,4.3897771835,51.2087554932",
+    "geom:latitude":51.208755,
+    "geom:longitude":4.389777,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlaamsekaai 55 Box 31",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 20 32",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "personnel",
+        "-selection",
+        "recruitment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rwyXw0HCGaT5AnwVTvg2Y_51.208755_4.389777@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477085,
+    "wof:geomhash":"ac1001884d6f3e0c441207e29c2c6295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041643493
+        }
+    ],
+    "wof:id":1041643493,
+    "wof:lastmodified":1473477085,
+    "wof:name":"Interact Consulting Bvba",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel",
+        "-selection",
+        "recruitment"
+    ]
+},
+  "bbox": [
+    4.3897771835,
+    51.2087554932,
+    4.3897771835,
+    51.2087554932
+],
+  "geometry": {"coordinates":[4.3897771835,51.2087554932],"type":"Point"}
+}

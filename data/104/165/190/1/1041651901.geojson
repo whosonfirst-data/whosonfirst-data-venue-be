@@ -1,0 +1,66 @@
+{
+  "id": 1041651901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7955179214,51.1960220337,3.7955179214,51.1960220337",
+    "geom:latitude":51.196022,
+    "geom:longitude":3.795518,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groenplein 27",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 344 57 86",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85862069,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fO0HtNFZh446138Nq2F0k_51.196022_3.795518@1306268544"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477411,
+    "wof:geomhash":"d6ce9230e106fd4411c362c729245459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85862069,
+            "region_id":85681733,
+            "venue_id":1041651901
+        }
+    ],
+    "wof:id":1041651901,
+    "wof:lastmodified":1473477411,
+    "wof:name":"Ons Huis",
+    "wof:parent_id":85862069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7955179214,
+    51.1960220337,
+    3.7955179214,
+    51.1960220337
+],
+  "geometry": {"coordinates":[3.7955179214,51.1960220337],"type":"Point"}
+}

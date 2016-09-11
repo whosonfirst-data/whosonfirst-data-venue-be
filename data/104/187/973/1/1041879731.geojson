@@ -1,0 +1,79 @@
+{
+  "id": 1041879731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4180841446,50.8086891174,4.4180841446,50.8086891174",
+    "geom:latitude":50.808689,
+    "geom:longitude":4.418084,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Archiducs 58",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 47 02",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NiSzr4EKdE6pYDoMzJoTQ_50.808689_4.418084@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487060,
+    "wof:geomhash":"db8e6ab1b20673345837214a3d00ff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041879731
+        }
+    ],
+    "wof:id":1041879731,
+    "wof:lastmodified":1473487060,
+    "wof:name":"B\u00e9b\u00e9 Friand (au)",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4180841446,
+    50.8086891174,
+    4.4180841446,
+    50.8086891174
+],
+  "geometry": {"coordinates":[4.4180841446,50.8086891174],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042195705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4908900261,50.8522109985,4.4908900261,50.8522109985",
+    "geom:latitude":50.852211,
+    "geom:longitude":4.49089,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Long Ch\u00eane 71",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 785 01 30",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67sU1WcXCGAaIurxNbfEVV_50.852211_4.490890@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501663,
+    "wof:geomhash":"b3dccfb706e657a527c3f3392a682488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1042195705
+        }
+    ],
+    "wof:id":1042195705,
+    "wof:lastmodified":1473501663,
+    "wof:name":"Deutsche Schule Br\u00fcssel",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "private"
+    ]
+},
+  "bbox": [
+    4.4908900261,
+    50.8522109985,
+    4.4908900261,
+    50.8522109985
+],
+  "geometry": {"coordinates":[4.4908900261,50.8522109985],"type":"Point"}
+}

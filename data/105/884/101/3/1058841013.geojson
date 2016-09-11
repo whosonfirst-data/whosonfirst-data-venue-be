@@ -1,0 +1,79 @@
+{
+  "id": 1058841013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3377828598,50.8164825439,4.3377828598,50.8164825439",
+    "geom:latitude":50.816483,
+    "geom:longitude":4.337783,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Saint-augustin 1-3",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 95 13",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "department",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QtiR7AokzYlIGeUD6MWBA_50.816483_4.337783@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543354,
+    "wof:geomhash":"509b3931b5b11bb1c67be6d5535f1e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058841013
+        }
+    ],
+    "wof:id":1058841013,
+    "wof:lastmodified":1473543354,
+    "wof:name":"Supermarkt Collier",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "store"
+    ]
+},
+  "bbox": [
+    4.3377828598,
+    50.8164825439,
+    4.3377828598,
+    50.8164825439
+],
+  "geometry": {"coordinates":[4.3377828598,50.8164825439],"type":"Point"}
+}

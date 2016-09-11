@@ -1,0 +1,79 @@
+{
+  "id": 1042100999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.345913887,50.863319397,4.345913887,50.863319397",
+    "geom:latitude":50.863319,
+    "geom:longitude":4.345914,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Picard 50-52",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 72 60",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xZ2Z9j4HWoVTaEwtfLG7i_50.863319_4.345914@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496438,
+    "wof:geomhash":"7956704105bdb5efa947ce192673fa60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042100999
+        }
+    ],
+    "wof:id":1042100999,
+    "wof:lastmodified":1473496438,
+    "wof:name":"Shenkira Sa",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "custom"
+    ]
+},
+  "bbox": [
+    4.345913887,
+    50.863319397,
+    4.345913887,
+    50.863319397
+],
+  "geometry": {"coordinates":[4.345913887,50.863319397],"type":"Point"}
+}

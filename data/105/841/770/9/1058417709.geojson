@@ -1,0 +1,79 @@
+{
+  "id": 1058417709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3720469475,50.9334030151,4.3720469475,50.9334030151",
+    "geom:latitude":50.933403,
+    "geom:longitude":4.372047,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hogesteenweg 17",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 306 79 02",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "loan",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EBklhj5HLciB2uCR8qNSy_50.933403_4.372047@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524031,
+    "wof:geomhash":"df19dfdcdc13fb0f5c8c0ab675d7db93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058417709
+        }
+    ],
+    "wof:id":1058417709,
+    "wof:lastmodified":1473524031,
+    "wof:name":"Hypotheek.winkel",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    4.3720469475,
+    50.9334030151,
+    4.3720469475,
+    50.9334030151
+],
+  "geometry": {"coordinates":[4.3720469475,50.9334030151],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058619701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7216789722,51.0580825806,3.7216789722,51.0580825806",
+    "geom:latitude":51.058083,
+    "geom:longitude":3.721679,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zeugsteeg 18",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 18 73",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5frJRe2nbdkyebtc2tw4Uu_51.058083_3.721679@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533559,
+    "wof:geomhash":"c2c7fcede8313821cbc6b49d5266c87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058619701
+        }
+    ],
+    "wof:id":1058619701,
+    "wof:lastmodified":1473533559,
+    "wof:name":"Unie Van Belgische Kappers",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    3.7216789722,
+    51.0580825806,
+    3.7216789722,
+    51.0580825806
+],
+  "geometry": {"coordinates":[3.7216789722,51.0580825806],"type":"Point"}
+}

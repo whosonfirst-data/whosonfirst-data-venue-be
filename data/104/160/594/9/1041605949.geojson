@@ -1,0 +1,79 @@
+{
+  "id": 1041605949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4061379433,50.8238945007,4.4061379433,50.8238945007",
+    "geom:latitude":50.823895,
+    "geom:longitude":4.406138,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Paepedelle 35",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 50 65",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HRCSRUBM2lAfnUAXfql92_50.823895_4.406138@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475552,
+    "wof:geomhash":"4b8d63e85ae58664f99583169b6a145a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041605949
+        }
+    ],
+    "wof:id":1041605949,
+    "wof:lastmodified":1473475552,
+    "wof:name":"Lambillon A",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4061379433,
+    50.8238945007,
+    4.4061379433,
+    50.8238945007
+],
+  "geometry": {"coordinates":[4.4061379433,50.8238945007],"type":"Point"}
+}

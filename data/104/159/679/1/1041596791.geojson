@@ -1,0 +1,81 @@
+{
+  "id": 1041596791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3911709785,50.802482605,4.3911709785,50.802482605",
+    "geom:latitude":50.802483,
+    "geom:longitude":4.391171,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'italie 45 Box 6",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 31 86",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YktoEmGHJ4V3qCKzQBaND_50.802483_4.391171@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475163,
+    "wof:geomhash":"0af0fea3ff31f0a5b7f8be9356d2f539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1041596791
+        }
+    ],
+    "wof:id":1041596791,
+    "wof:lastmodified":1473475163,
+    "wof:name":"Jardinia Sprl",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3911709785,
+    50.802482605,
+    4.3911709785,
+    50.802482605
+],
+  "geometry": {"coordinates":[4.3911709785,50.802482605],"type":"Point"}
+}

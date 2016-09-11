@@ -1,0 +1,77 @@
+{
+  "id": 1058771977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3635549545,50.846736908,4.3635549545,50.846736908",
+    "geom:latitude":50.846737,
+    "geom:longitude":4.363555,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Loi 6",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 506 38 11",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QXNB6fLXvqz3WdyYWXK20_50.846737_4.363555@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540339,
+    "wof:geomhash":"0d246435a40f62f8972f9af6617aac2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058771977
+        }
+    ],
+    "wof:id":1058771977,
+    "wof:lastmodified":1473540339,
+    "wof:name":"Parlement De La Communaut\u00c9 Fran\u00c7aise",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    4.3635549545,
+    50.846736908,
+    4.3635549545,
+    50.846736908
+],
+  "geometry": {"coordinates":[4.3635549545,50.846736908],"type":"Point"}
+}

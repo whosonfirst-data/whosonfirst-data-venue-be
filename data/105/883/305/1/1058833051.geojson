@@ -1,0 +1,81 @@
+{
+  "id": 1058833051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3713541031,51.115524292,4.3713541031,51.115524292",
+    "geom:latitude":51.115524,
+    "geom:longitude":4.371354,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomsesteenweg 74",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 458 15 85",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "machine",
+        "street",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73ANVUu6TzdZNJUCCPIea8_51.115524_4.371354@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542988,
+    "wof:geomhash":"cda0c2307dd217af269b34ff24ed32ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058833051
+        }
+    ],
+    "wof:id":1058833051,
+    "wof:lastmodified":1473542988,
+    "wof:name":"Schmidt Belgium Bvba",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "street",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3713541031,
+    51.115524292,
+    4.3713541031,
+    51.115524292
+],
+  "geometry": {"coordinates":[4.3713541031,51.115524292],"type":"Point"}
+}

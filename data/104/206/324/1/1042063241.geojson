@@ -1,0 +1,79 @@
+{
+  "id": 1042063241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3452382088,51.203086853,4.3452382088,51.203086853",
+    "geom:latitude":51.203087,
+    "geom:longitude":4.345238,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kloosterstraat 20d Box 1",
+    "sg:city":"Zwijndrecht (burcht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 296 89 88",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "sweep",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_018byh8q6pEpajRUO8E63L_51.203087_4.345238@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494799,
+    "wof:geomhash":"da6e72c5e341f8460c56c9e0e1eb7113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1042063241
+        }
+    ],
+    "wof:id":1042063241,
+    "wof:lastmodified":1473494799,
+    "wof:name":"Kegels H - Maas",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweep",
+        "chimney"
+    ]
+},
+  "bbox": [
+    4.3452382088,
+    51.203086853,
+    4.3452382088,
+    51.203086853
+],
+  "geometry": {"coordinates":[4.3452382088,51.203086853],"type":"Point"}
+}

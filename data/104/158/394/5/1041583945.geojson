@@ -1,0 +1,79 @@
+{
+  "id": 1041583945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5875282288,50.6133728027,5.5875282288,50.6133728027",
+    "geom:latitude":50.613373,
+    "geom:longitude":5.587528,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vaudr\u00e9e 239",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 87 23",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "civil",
+        "offices-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DFRA9AMIREokPSguIzjJM_50.613373_5.587528@1306268422"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474613,
+    "wof:geomhash":"850ef3c0812ae2e74897f51eab6f0e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1041583945
+        }
+    ],
+    "wof:id":1041583945,
+    "wof:lastmodified":1473474613,
+    "wof:name":"Lhoest & Mahiels Sprl",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "offices-"
+    ]
+},
+  "bbox": [
+    5.5875282288,
+    50.6133728027,
+    5.5875282288,
+    50.6133728027
+],
+  "geometry": {"coordinates":[5.5875282288,50.6133728027],"type":"Point"}
+}

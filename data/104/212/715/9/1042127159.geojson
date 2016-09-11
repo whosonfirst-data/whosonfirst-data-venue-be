@@ -1,0 +1,79 @@
+{
+  "id": 1042127159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3349180222,50.8562393188,4.3349180222,50.8562393188",
+    "geom:latitude":50.856239,
+    "geom:longitude":4.334918,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 151",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 56 41",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NIdtkRFu3NDqAzHLiACtC_50.856239_4.334918@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497780,
+    "wof:geomhash":"d606b87dd2ea056ba79b306ccf974f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1042127159
+        }
+    ],
+    "wof:id":1042127159,
+    "wof:lastmodified":1473497780,
+    "wof:name":"Centre Dentaire Ferdossi Sprl",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    4.3349180222,
+    50.8562393188,
+    4.3349180222,
+    50.8562393188
+],
+  "geometry": {"coordinates":[4.3349180222,50.8562393188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041639635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5173540115,50.6637001038,5.5173540115,50.6637001038",
+    "geom:latitude":50.6637,
+    "geom:longitude":5.517354,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Pasteur 69",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 56 15",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ADYYtsD3lzwBMGGWzJlw1_50.663700_5.517354@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476900,
+    "wof:geomhash":"c7a754125862232a2a260b724f40f69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1041639635
+        }
+    ],
+    "wof:id":1041639635,
+    "wof:lastmodified":1473476900,
+    "wof:name":"Mignolet M",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    5.5173540115,
+    50.6637001038,
+    5.5173540115,
+    50.6637001038
+],
+  "geometry": {"coordinates":[5.5173540115,50.6637001038],"type":"Point"}
+}

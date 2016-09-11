@@ -1,0 +1,77 @@
+{
+  "id": 1058558183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2914228439,50.8361053467,4.2914228439,50.8361053467",
+    "geom:latitude":50.836105,
+    "geom:longitude":4.291423,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Karel Vande Woestijne 87",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 47 07",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ebLTmCFx8jNplg6KhOpaO_50.836105_4.291423@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530748,
+    "wof:geomhash":"1d45169a3cb62e5a70faadd468c52d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058558183
+        }
+    ],
+    "wof:id":1058558183,
+    "wof:lastmodified":1473530748,
+    "wof:name":"Gretser E",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.2914228439,
+    50.8361053467,
+    4.2914228439,
+    50.8361053467
+],
+  "geometry": {"coordinates":[4.2914228439,50.8361053467],"type":"Point"}
+}

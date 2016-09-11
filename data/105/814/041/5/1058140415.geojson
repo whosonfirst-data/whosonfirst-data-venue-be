@@ -1,0 +1,81 @@
+{
+  "id": 1058140415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4029917717,50.8091812134,4.4029917717,50.8091812134",
+    "geom:latitude":50.809181,
+    "geom:longitude":4.402992,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Eug\u00e8ne Keym 46",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 660 77 25",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JuSHdn2wwPhmem7l5C5m5_50.809181_4.402992@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511478,
+    "wof:geomhash":"f7f174b729315a942d50c9c5854edf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058140415
+        }
+    ],
+    "wof:id":1058140415,
+    "wof:lastmodified":1473511478,
+    "wof:name":"Gill",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4029917717,
+    50.8091812134,
+    4.4029917717,
+    50.8091812134
+],
+  "geometry": {"coordinates":[4.4029917717,50.8091812134],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042014155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.583794117,50.6417999268,5.583794117,50.6417999268",
+    "geom:latitude":50.6418,
+    "geom:longitude":5.583794,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ernest De Bavi\u00c8re 1",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 69 98",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PYYgTRwIadwlKeld5My1G_50.641800_5.583794@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492842,
+    "wof:geomhash":"fb02e01d641380437a4e5018d1ba57db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042014155
+        }
+    ],
+    "wof:id":1042014155,
+    "wof:lastmodified":1473492842,
+    "wof:name":"Caf\u00c9 Toussaint",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.583794117,
+    50.6417999268,
+    5.583794117,
+    50.6417999268
+],
+  "geometry": {"coordinates":[5.583794117,50.6417999268],"type":"Point"}
+}

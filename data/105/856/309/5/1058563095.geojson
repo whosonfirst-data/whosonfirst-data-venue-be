@@ -1,0 +1,77 @@
+{
+  "id": 1058563095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7583620548,51.0463294983,3.7583620548,51.0463294983",
+    "geom:latitude":51.046329,
+    "geom:longitude":3.758362,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentbruggeaard 31",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 44 82",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JMvfeM0pCvRUkPtriWuVH_51.046329_3.758362@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530978,
+    "wof:geomhash":"350a5fcc3ba6e5b7cfc1eda647908343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058563095
+        }
+    ],
+    "wof:id":1058563095,
+    "wof:lastmodified":1473530978,
+    "wof:name":"Masschelein H",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7583620548,
+    51.0463294983,
+    3.7583620548,
+    51.0463294983
+],
+  "geometry": {"coordinates":[3.7583620548,51.0463294983],"type":"Point"}
+}

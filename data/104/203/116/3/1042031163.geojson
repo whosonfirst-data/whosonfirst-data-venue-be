@@ -1,0 +1,77 @@
+{
+  "id": 1042031163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5690479279,50.6415710449,5.5690479279,50.6415710449",
+    "geom:latitude":50.641571,
+    "geom:longitude":5.569048,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-jean-en-isle 28",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 20 19",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fsuKl4Mk0LejArRSk4kYM_50.641571_5.569048@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493491,
+    "wof:geomhash":"9e4941734eb4db07b2dcfa0005f1b5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042031163
+        }
+    ],
+    "wof:id":1042031163,
+    "wof:lastmodified":1473493491,
+    "wof:name":"Taverne L'aller Simple",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5690479279,
+    50.6415710449,
+    5.5690479279,
+    50.6415710449
+],
+  "geometry": {"coordinates":[5.5690479279,50.6415710449],"type":"Point"}
+}

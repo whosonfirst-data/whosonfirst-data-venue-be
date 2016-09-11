@@ -1,0 +1,79 @@
+{
+  "id": 1041665495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2068440914,51.2036819458,3.2068440914,51.2036819458",
+    "geom:latitude":51.203682,
+    "geom:longitude":3.206844,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gistelse Steenweg 70-1",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 85 36",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "therapist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gYutIvxkHDy7f6jILDV21_51.203682_3.206844@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477960,
+    "wof:geomhash":"c2397b2669872aeb6d59a70ba1c17987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1041665495
+        }
+    ],
+    "wof:id":1041665495,
+    "wof:lastmodified":1473477960,
+    "wof:name":"Lemey I",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "speech"
+    ]
+},
+  "bbox": [
+    3.2068440914,
+    51.2036819458,
+    3.2068440914,
+    51.2036819458
+],
+  "geometry": {"coordinates":[3.2068440914,51.2036819458],"type":"Point"}
+}

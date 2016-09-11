@@ -1,0 +1,79 @@
+{
+  "id": 1058158929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5017018318,50.6167373657,5.5017018318,50.6167373657",
+    "geom:latitude":50.616737,
+    "geom:longitude":5.501702,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Arnold De Lexhy 35",
+    "sg:city":"Seraing (jemeppe-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 233 39 63",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AloKmPv2lH4HBN02IQafB_50.616737_5.501702@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512394,
+    "wof:geomhash":"94c304ac28a56f2fb1ea2f4f1d5f148e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058158929
+        }
+    ],
+    "wof:id":1058158929,
+    "wof:lastmodified":1473512394,
+    "wof:name":"Daenen F",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5017018318,
+    50.6167373657,
+    5.5017018318,
+    50.6167373657
+],
+  "geometry": {"coordinates":[5.5017018318,50.6167373657],"type":"Point"}
+}

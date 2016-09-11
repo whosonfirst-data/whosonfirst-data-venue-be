@@ -1,0 +1,77 @@
+{
+  "id": 1058824687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3373169899,50.8420524597,4.3373169899,50.8420524597",
+    "geom:latitude":50.842052,
+    "geom:longitude":4.337317,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Brogniez 41",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 527 59 02",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zPfoXrvtdAFyllbj1yiRe_50.842052_4.337317@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542640,
+    "wof:geomhash":"eff8de0b74c94f87a5176b937b92e7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058824687
+        }
+    ],
+    "wof:id":1058824687,
+    "wof:lastmodified":1473542640,
+    "wof:name":"Aile Francophone De La F\u00e9d\u00e9ration Royale Belge De Tennis De Table",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3373169899,
+    50.8420524597,
+    4.3373169899,
+    50.8420524597
+],
+  "geometry": {"coordinates":[4.3373169899,50.8420524597],"type":"Point"}
+}

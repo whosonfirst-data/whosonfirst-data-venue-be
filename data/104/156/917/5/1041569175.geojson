@@ -1,0 +1,79 @@
+{
+  "id": 1041569175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3855671883,51.2217979431,4.3855671883,51.2217979431",
+    "geom:latitude":51.221798,
+    "geom:longitude":4.385567,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lode Zielenslaan 6",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 219 60 82",
+    "sg:postcode":"2050",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C1mxUr3wRjE9tt2je40RX_51.221798_4.385567@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474011,
+    "wof:geomhash":"b2e0dcf04dc59f7acbc764865f7f245c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041569175
+        }
+    ],
+    "wof:id":1041569175,
+    "wof:lastmodified":1473474011,
+    "wof:name":"Leonidas-s Van Bocxlaer",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3855671883,
+    51.2217979431,
+    4.3855671883,
+    51.2217979431
+],
+  "geometry": {"coordinates":[4.3855671883,51.2217979431],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042202663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3503499031,50.9051971436,4.3503499031,50.9051971436",
+    "geom:latitude":50.905197,
+    "geom:longitude":4.35035,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nieuwelaan 51",
+    "sg:city":"Grimbergen (strombeek-bever)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 08 72",
+    "sg:postcode":"1853",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s4v0DY0pW7RRBIFPm4yAk_50.905197_4.350350@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502110,
+    "wof:geomhash":"5f38509b901d1624d82a613cfd525e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1042202663
+        }
+    ],
+    "wof:id":1042202663,
+    "wof:lastmodified":1473502110,
+    "wof:name":"Corebel Sprl",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3503499031,
+    50.9051971436,
+    4.3503499031,
+    50.9051971436
+],
+  "geometry": {"coordinates":[4.3503499031,50.9051971436],"type":"Point"}
+}

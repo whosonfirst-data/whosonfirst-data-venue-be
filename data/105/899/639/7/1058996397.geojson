@@ -1,0 +1,88 @@
+{
+  "id": 1058996397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.255123,50.871372,4.255123,50.871372",
+    "geom:latitude":50.871372,
+    "geom:longitude":4.255123,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasteellaan 17",
+    "sg:city":"Groot-Bijgaarden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1702",
+    "sg:tags":[
+        "database",
+        "open-source",
+        "gpl",
+        "free-software",
+        "cloud",
+        "saas",
+        "office"
+    ],
+    "sg:website":"http://myowndb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ysndrEfINOPc7sWk5Z6iy_50.871372_4.255123@1308163239"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550370,
+    "wof:geomhash":"7f11340ebb9ed5854b3d56470e5061df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058996397
+        }
+    ],
+    "wof:id":1058996397,
+    "wof:lastmodified":1473550370,
+    "wof:name":"MyOwnDB",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "database",
+        "open-source",
+        "gpl",
+        "free-software",
+        "cloud",
+        "saas",
+        "office"
+    ]
+},
+  "bbox": [
+    4.255123,
+    50.871372,
+    4.255123,
+    50.871372
+],
+  "geometry": {"coordinates":[4.255123,50.871372],"type":"Point"}
+}

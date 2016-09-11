@@ -1,0 +1,83 @@
+{
+  "id": 1058972477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.331264019,50.8512496948,4.331264019,50.8512496948",
+    "geom:latitude":50.85125,
+    "geom:longitude":4.331264,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'ind\u00e9pendance 60",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 24 77",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J20SEPzZ2FrMniIOoWDTm_50.851250_4.331264@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549312,
+    "wof:geomhash":"a1aaf5ecdb43f4e7d8da3e5590ad5c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058972477
+        }
+    ],
+    "wof:id":1058972477,
+    "wof:lastmodified":1473549312,
+    "wof:name":"Socato Bvba",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "spirit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    4.331264019,
+    50.8512496948,
+    4.331264019,
+    50.8512496948
+],
+  "geometry": {"coordinates":[4.331264019,50.8512496948],"type":"Point"}
+}

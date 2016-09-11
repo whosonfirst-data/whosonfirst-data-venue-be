@@ -1,0 +1,83 @@
+{
+  "id": 1058134883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5036001205,51.2541465759,4.5036001205,51.2541465759",
+    "geom:latitude":51.254147,
+    "geom:longitude":4.5036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kruispadstraat 3",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 658 82 14",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vjgT3A8IdvpgGLu06pVjK_51.254147_4.503600@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511230,
+    "wof:geomhash":"7ae77238322414e7afeb8efba457467a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058134883
+        }
+    ],
+    "wof:id":1058134883,
+    "wof:lastmodified":1473511230,
+    "wof:name":"Paul",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.5036001205,
+    51.2541465759,
+    4.5036001205,
+    51.2541465759
+],
+  "geometry": {"coordinates":[4.5036001205,51.2541465759],"type":"Point"}
+}

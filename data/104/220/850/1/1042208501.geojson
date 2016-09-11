@@ -1,0 +1,83 @@
+{
+  "id": 1042208501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4450287819,51.2950439453,4.4450287819,51.2950439453",
+    "geom:latitude":51.295044,
+    "geom:longitude":4.445029,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rochuslei 29",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 45 60",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i6o6ttjHRvtYtXQkA1C0c_51.295044_4.445029@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502356,
+    "wof:geomhash":"51ea27e115c480140aefd967651f2c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1042208501
+        }
+    ],
+    "wof:id":1042208501,
+    "wof:lastmodified":1473502356,
+    "wof:name":"Wouters A",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4450287819,
+    51.2950439453,
+    4.4450287819,
+    51.2950439453
+],
+  "geometry": {"coordinates":[4.4450287819,51.2950439453],"type":"Point"}
+}

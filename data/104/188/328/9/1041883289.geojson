@@ -1,0 +1,73 @@
+{
+  "id": 1041883289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.0159468651,50.7154579163,6.0159468651,50.7154579163",
+    "geom:latitude":50.715458,
+    "geom:longitude":6.015947,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"L\u00fctticher Strasse 165",
+    "sg:city":"Kelmis",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 65 88 79",
+    "sg:postcode":"4720",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85794893,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_597h83ZS6drZSsglwwo8zk_50.715458_6.015947@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487220,
+    "wof:geomhash":"5a44049f2fec65716be34d72a10a2d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85794893,
+            "region_id":85681691,
+            "venue_id":1041883289
+        }
+    ],
+    "wof:id":1041883289,
+    "wof:lastmodified":1473487220,
+    "wof:name":"Notermans",
+    "wof:parent_id":85794893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    6.0159468651,
+    50.7154579163,
+    6.0159468651,
+    50.7154579163
+],
+  "geometry": {"coordinates":[6.0159468651,50.7154579163],"type":"Point"}
+}

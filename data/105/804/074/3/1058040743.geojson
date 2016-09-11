@@ -1,0 +1,85 @@
+{
+  "id": 1058040743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7315189838,51.0806045532,3.7315189838,51.0806045532",
+    "geom:latitude":51.080605,
+    "geom:longitude":3.731519,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"New-orleansstr 16",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 11 38",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "metallurgy",
+        "finished",
+        "-",
+        "metalworking",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IFL4RYguDLerQqSFdj9IL_51.080605_3.731519@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507132,
+    "wof:geomhash":"97d5d91c8cdd931ee7babbd182fd3b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1058040743
+        }
+    ],
+    "wof:id":1058040743,
+    "wof:lastmodified":1473507132,
+    "wof:name":"Ateliers General Construct Sa",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "finished",
+        "-",
+        "metalworking",
+        "metallic"
+    ]
+},
+  "bbox": [
+    3.7315189838,
+    51.0806045532,
+    3.7315189838,
+    51.0806045532
+],
+  "geometry": {"coordinates":[3.7315189838,51.0806045532],"type":"Point"}
+}

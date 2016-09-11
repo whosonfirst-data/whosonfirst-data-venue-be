@@ -1,0 +1,81 @@
+{
+  "id": 1042001297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3889899254,51.2104492188,4.3889899254,51.2104492188",
+    "geom:latitude":51.210449,
+    "geom:longitude":4.38899,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Luikstr 6",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 39 78",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HAJ1g4ZHlKcRNyRBydpLm_51.210449_4.388990@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492360,
+    "wof:geomhash":"abef816f400cac23afc7ab9be1c7cee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1042001297
+        }
+    ],
+    "wof:id":1042001297,
+    "wof:lastmodified":1473492360,
+    "wof:name":"Velvet Lounge",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3889899254,
+    51.2104492188,
+    4.3889899254,
+    51.2104492188
+],
+  "geometry": {"coordinates":[4.3889899254,51.2104492188],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042176147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3575310707,50.7404899597,4.3575310707,50.7404899597",
+    "geom:latitude":50.74049,
+    "geom:longitude":4.357531,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schildeken 15",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 96 51",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XZ2IKMnHohHL7J2RwZ1QM_50.740490_4.357531@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500492,
+    "wof:geomhash":"d06f5171b27af071faf2e1ec79238396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042176147
+        }
+    ],
+    "wof:id":1042176147,
+    "wof:lastmodified":1473500492,
+    "wof:name":"De Vos Cleaning",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ]
+},
+  "bbox": [
+    4.3575310707,
+    50.7404899597,
+    4.3575310707,
+    50.7404899597
+],
+  "geometry": {"coordinates":[4.3575310707,50.7404899597],"type":"Point"}
+}

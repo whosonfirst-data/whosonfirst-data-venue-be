@@ -1,0 +1,81 @@
+{
+  "id": 1058143561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4159088135,50.8577346802,4.4159088135,50.8577346802",
+    "geom:latitude":50.857735,
+    "geom:longitude":4.415909,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Maquis 96a",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 79 91",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HCmLVqriLck0Cl0sydPOb_50.857735_4.415909@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511680,
+    "wof:geomhash":"9198a7178fd344eceef6c8ec87920bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058143561
+        }
+    ],
+    "wof:id":1058143561,
+    "wof:lastmodified":1473511680,
+    "wof:name":"L & D (coiffure)",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4159088135,
+    50.8577346802,
+    4.4159088135,
+    50.8577346802
+],
+  "geometry": {"coordinates":[4.4159088135,50.8577346802],"type":"Point"}
+}

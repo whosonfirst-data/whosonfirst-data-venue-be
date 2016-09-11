@@ -1,0 +1,81 @@
+{
+  "id": 1058149867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5742168427,50.6433258057,5.5742168427,50.6433258057",
+    "geom:latitude":50.643326,
+    "geom:longitude":5.574217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-denis 2",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 07 71",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iFzflVKvTB6BtQcfhfpQS_50.643326_5.574217@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511988,
+    "wof:geomhash":"3cead0da5e294b0bd3fc66eee9d5e78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058149867
+        }
+    ],
+    "wof:id":1058149867,
+    "wof:lastmodified":1473511988,
+    "wof:name":"Fiacre (le)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    5.5742168427,
+    50.6433258057,
+    5.5742168427,
+    50.6433258057
+],
+  "geometry": {"coordinates":[5.5742168427,50.6433258057],"type":"Point"}
+}

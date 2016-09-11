@@ -1,0 +1,77 @@
+{
+  "id": 1058225699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3918499947,50.8949279785,4.3918499947,50.8949279785",
+    "geom:latitude":50.894928,
+    "geom:longitude":4.39185,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Croix De Guerre 343 Box 1",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 13 99",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "incinerator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801673,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UsMTiXWbKB46Pdg4jORqg_50.894928_4.391850@1306268471"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515343,
+    "wof:geomhash":"06350c7c69cee6188b380eab07a957fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801673,
+            "region_id":85681713,
+            "venue_id":1058225699
+        }
+    ],
+    "wof:id":1058225699,
+    "wof:lastmodified":1473515343,
+    "wof:name":"Art-eco-incin\u00e9ration",
+    "wof:parent_id":85801673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "incinerator"
+    ]
+},
+  "bbox": [
+    4.3918499947,
+    50.8949279785,
+    4.3918499947,
+    50.8949279785
+],
+  "geometry": {"coordinates":[4.3918499947,50.8949279785],"type":"Point"}
+}

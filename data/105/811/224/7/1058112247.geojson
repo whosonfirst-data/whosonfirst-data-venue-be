@@ -1,0 +1,77 @@
+{
+  "id": 1058112247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5969958305,50.6222724915,5.5969958305,50.6222724915",
+    "geom:latitude":50.622272,
+    "geom:longitude":5.596996,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Thys 2b",
+    "sg:city":"Oreye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 30 21",
+    "sg:postcode":"4360",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JiqTw2ERlUA9K3bVpKlUK_50.622272_5.596996@1306268447"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510099,
+    "wof:geomhash":"7dfc44e6e8c0cf988ffc8f141ce5d7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058112247
+        }
+    ],
+    "wof:id":1058112247,
+    "wof:lastmodified":1473510099,
+    "wof:name":"New Couquelet Engineering S.p.r.l.",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    5.5969958305,
+    50.6222724915,
+    5.5969958305,
+    50.6222724915
+],
+  "geometry": {"coordinates":[5.5969958305,50.6222724915],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041659963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6314620972,50.6657905579,5.6314620972,50.6657905579",
+    "geom:latitude":50.665791,
+    "geom:longitude":5.631462,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Large Voie 9",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 06 52",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vttB5EA4kPNUCzeKtVY5l_50.665791_5.631462@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477753,
+    "wof:geomhash":"c5f6366e5b9def640753df93b9776519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041659963
+        }
+    ],
+    "wof:id":1041659963,
+    "wof:lastmodified":1473477753,
+    "wof:name":"Coiffure Thiernagant",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.6314620972,
+    50.6657905579,
+    5.6314620972,
+    50.6657905579
+],
+  "geometry": {"coordinates":[5.6314620972,50.6657905579],"type":"Point"}
+}

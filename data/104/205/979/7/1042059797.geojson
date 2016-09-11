@@ -1,0 +1,77 @@
+{
+  "id": 1042059797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3153328896,50.8361053467,4.3153328896,50.8361053467",
+    "geom:latitude":50.836105,
+    "geom:longitude":4.315333,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Wayez 48",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 68 48",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801525,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CjMJ3cBJ6luDcOC4sJo9v_50.836105_4.315333@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494670,
+    "wof:geomhash":"22682cfb2ec2c5f108ef8d1c30b6a42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801525,
+            "region_id":85681713,
+            "venue_id":1042059797
+        }
+    ],
+    "wof:id":1042059797,
+    "wof:lastmodified":1473494670,
+    "wof:name":"Holvoet H",
+    "wof:parent_id":85801525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3153328896,
+    50.8361053467,
+    4.3153328896,
+    50.8361053467
+],
+  "geometry": {"coordinates":[4.3153328896,50.8361053467],"type":"Point"}
+}

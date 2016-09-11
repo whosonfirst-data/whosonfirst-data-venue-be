@@ -1,0 +1,77 @@
+{
+  "id": 1058119059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3046197891,50.8400917053,4.3046197891,50.8400917053",
+    "geom:latitude":50.840092,
+    "geom:longitude":4.30462,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Plisnier 1",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 43 10",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXhgfr9Tr1YDfmAZS9Cgr_50.840092_4.304620@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510455,
+    "wof:geomhash":"a43b47c95aabf1e164b71e8b049581c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058119059
+        }
+    ],
+    "wof:id":1058119059,
+    "wof:lastmodified":1473510455,
+    "wof:name":"Casimir",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3046197891,
+    50.8400917053,
+    4.3046197891,
+    50.8400917053
+],
+  "geometry": {"coordinates":[4.3046197891,50.8400917053],"type":"Point"}
+}

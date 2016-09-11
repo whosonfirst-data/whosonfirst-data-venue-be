@@ -1,0 +1,79 @@
+{
+  "id": 1041566443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3528032303,50.8678131104,4.3528032303,50.8678131104",
+    "geom:latitude":50.867813,
+    "geom:longitude":4.352803,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Du Port 67",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 412 31 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "glass",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XQpJiCae85nL9VWaFVCZr_50.867813_4.352803@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473892,
+    "wof:geomhash":"62240e02ad01772c86785babae6d6736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1041566443
+        }
+    ],
+    "wof:id":1041566443,
+    "wof:lastmodified":1473473892,
+    "wof:name":"Binje Ackermans Sa",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    4.3528032303,
+    50.8678131104,
+    4.3528032303,
+    50.8678131104
+],
+  "geometry": {"coordinates":[4.3528032303,50.8678131104],"type":"Point"}
+}

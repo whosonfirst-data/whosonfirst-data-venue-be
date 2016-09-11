@@ -1,0 +1,79 @@
+{
+  "id": 1058033665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3365488052,50.8040847778,4.3365488052,50.8040847778",
+    "geom:latitude":50.804085,
+    "geom:longitude":4.336549,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsembergse Steenweg 741",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 33 81",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yMEoxUF0MTLDhJ0zBrjpn_50.804085_4.336549@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506843,
+    "wof:geomhash":"06df147565b4f72fca71cd84fd550d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1058033665
+        }
+    ],
+    "wof:id":1058033665,
+    "wof:lastmodified":1473506843,
+    "wof:name":"Restaurant Wen Tai",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3365488052,
+    50.8040847778,
+    4.3365488052,
+    50.8040847778
+],
+  "geometry": {"coordinates":[4.3365488052,50.8040847778],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042203559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3200092316,50.8095283508,4.3200092316,50.8095283508",
+    "geom:latitude":50.809528,
+    "geom:longitude":4.320009,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean-baptiste Vanp\u00e9 72",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 53 19",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K9aipPlbdByvvoEnjOhrQ_50.809528_4.320009@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502148,
+    "wof:geomhash":"c47f1de0b911e780a80d458410114e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1042203559
+        }
+    ],
+    "wof:id":1042203559,
+    "wof:lastmodified":1473502148,
+    "wof:name":"A. Bastogne",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3200092316,
+    50.8095283508,
+    4.3200092316,
+    50.8095283508
+],
+  "geometry": {"coordinates":[4.3200092316,50.8095283508],"type":"Point"}
+}

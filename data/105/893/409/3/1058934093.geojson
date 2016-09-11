@@ -1,0 +1,79 @@
+{
+  "id": 1058934093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4245271683,51.163230896,4.4245271683,51.163230896",
+    "geom:latitude":51.163231,
+    "geom:longitude":4.424527,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ten Bogaerdeplein 5",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 440 70 56",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hi9L1Y0Hqc3QOTu79c36L_51.163231_4.424527@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547499,
+    "wof:geomhash":"e0d5ddb04a5314946c6e6d8fff879f75",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058934093
+        }
+    ],
+    "wof:id":1058934093,
+    "wof:lastmodified":1473547499,
+    "wof:name":"Feyen L",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4245271683,
+    51.163230896,
+    4.4245271683,
+    51.163230896
+],
+  "geometry": {"coordinates":[4.4245271683,51.163230896],"type":"Point"}
+}

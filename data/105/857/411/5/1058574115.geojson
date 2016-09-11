@@ -1,0 +1,77 @@
+{
+  "id": 1058574115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3907260895,50.858505249,4.3907260895,50.858505249",
+    "geom:latitude":50.858505,
+    "geom:longitude":4.390726,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Chazal 180",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 03 04",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1goZBQm2Hlko8JlIbYYb6e_50.858505_4.390726@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531484,
+    "wof:geomhash":"4c04bb243edb2decdee35d20a583a31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058574115
+        }
+    ],
+    "wof:id":1058574115,
+    "wof:lastmodified":1473531484,
+    "wof:name":"Willox Nathalie",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3907260895,
+    50.858505249,
+    4.3907260895,
+    50.858505249
+],
+  "geometry": {"coordinates":[4.3907260895,50.858505249],"type":"Point"}
+}

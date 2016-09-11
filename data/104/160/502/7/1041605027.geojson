@@ -1,0 +1,79 @@
+{
+  "id": 1041605027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.695663929,50.6131744385,5.695663929,50.6131744385",
+    "geom:latitude":50.613174,
+    "geom:longitude":5.695664,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Bureau 72",
+    "sg:city":"Fl\u00e9ron (retinne)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 358 39 75",
+    "sg:postcode":"4621",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801143,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GmDYZK5lJytfM4xFVKIqB_50.613174_5.695664@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475516,
+    "wof:geomhash":"082a1fd339fd630f7ae4bdeaa7818711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801143,
+            "region_id":85681691,
+            "venue_id":1041605027
+        }
+    ],
+    "wof:id":1041605027,
+    "wof:lastmodified":1473475516,
+    "wof:name":"Englebert Eric",
+    "wof:parent_id":85801143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.695663929,
+    50.6131744385,
+    5.695663929,
+    50.6131744385
+],
+  "geometry": {"coordinates":[5.695663929,50.6131744385],"type":"Point"}
+}

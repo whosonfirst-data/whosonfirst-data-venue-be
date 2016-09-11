@@ -1,0 +1,73 @@
+{
+  "id": 1058157589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6398339272,50.9898452759,3.6398339272,50.9898452759",
+    "geom:latitude":50.989845,
+    "geom:longitude":3.639834,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spechtenpark 11",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 53 36",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jdMY9b8BESsIUZQbjifHy_50.989845_3.639834@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512335,
+    "wof:geomhash":"9b2794acc2b11e4a499785e1d35be388",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058157589
+        }
+    ],
+    "wof:id":1058157589,
+    "wof:lastmodified":1473512335,
+    "wof:name":"Claeys G",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6398339272,
+    50.9898452759,
+    3.6398339272,
+    50.9898452759
+],
+  "geometry": {"coordinates":[3.6398339272,50.9898452759],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041830383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3430461884,50.8229675293,4.3430461884,50.8229675293",
+    "geom:latitude":50.822968,
+    "geom:longitude":4.343046,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e D\u00b4alsemberg 122",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 92 78",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bLrE97pcrdQ0GYLq9Zxyq_50.822968_4.343046@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484970,
+    "wof:geomhash":"4e4746acb36421c9b0ec62700a14aa97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041830383
+        }
+    ],
+    "wof:id":1041830383,
+    "wof:lastmodified":1473484970,
+    "wof:name":"J.l. Descy",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.3430461884,
+    50.8229675293,
+    4.3430461884,
+    50.8229675293
+],
+  "geometry": {"coordinates":[4.3430461884,50.8229675293],"type":"Point"}
+}

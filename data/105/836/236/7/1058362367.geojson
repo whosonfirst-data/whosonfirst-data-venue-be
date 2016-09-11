@@ -1,0 +1,85 @@
+{
+  "id": 1058362367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4867911339,51.2524261475,4.4867911339,51.2524261475",
+    "geom:latitude":51.252426,
+    "geom:longitude":4.486791,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rid. Walter Van Havreln 284",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 685 41 67",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "de",
+        "cassette",
+        "location",
+        "vid\u00e9o",
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03dUK7la2ruAOcDCR7605B_51.252426_4.486791@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521531,
+    "wof:geomhash":"97f474da4a999e38b2692dabf3217722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058362367
+        }
+    ],
+    "wof:id":1058362367,
+    "wof:lastmodified":1473521531,
+    "wof:name":"Peter De Beuckelaer",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "cassette",
+        "location",
+        "vid\u00e9o",
+        "audio"
+    ]
+},
+  "bbox": [
+    4.4867911339,
+    51.2524261475,
+    4.4867911339,
+    51.2524261475
+],
+  "geometry": {"coordinates":[4.4867911339,51.2524261475],"type":"Point"}
+}

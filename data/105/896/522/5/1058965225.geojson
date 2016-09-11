@@ -1,0 +1,79 @@
+{
+  "id": 1058965225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5540428162,50.6095123291,5.5540428162,50.6095123291",
+    "geom:latitude":50.609512,
+    "geom:longitude":5.554043,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ernest Solvay 255",
+    "sg:city":"Li\u00e8ge 1 (sclessin)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 72 93",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "work",
+        "waterproofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801817,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jYy5i4MyuE9S8pMgZpRS4_50.609512_5.554043@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549008,
+    "wof:geomhash":"07b7825f49bd7bc6ce0afe43861827ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801817,
+            "region_id":85681691,
+            "venue_id":1058965225
+        }
+    ],
+    "wof:id":1058965225,
+    "wof:lastmodified":1473549008,
+    "wof:name":"Andre Lagrou Sa",
+    "wof:parent_id":85801817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "waterproofing"
+    ]
+},
+  "bbox": [
+    5.5540428162,
+    50.6095123291,
+    5.5540428162,
+    50.6095123291
+],
+  "geometry": {"coordinates":[5.5540428162,50.6095123291],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042101717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6258797646,50.661151886,5.6258797646,50.661151886",
+    "geom:latitude":50.661152,
+    "geom:longitude":5.62588,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hoyoux 106",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 00 02",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MsW6XxugoKN8KR3CIDvML_50.661152_5.625880@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496463,
+    "wof:geomhash":"6aba3f4f368ed816d603b279cd322ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1042101717
+        }
+    ],
+    "wof:id":1042101717,
+    "wof:lastmodified":1473496463,
+    "wof:name":"Margiotta Sa",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    5.6258797646,
+    50.661151886,
+    5.6258797646,
+    50.661151886
+],
+  "geometry": {"coordinates":[5.6258797646,50.661151886],"type":"Point"}
+}

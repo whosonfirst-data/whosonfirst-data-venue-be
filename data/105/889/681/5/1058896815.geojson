@@ -1,0 +1,75 @@
+{
+  "id": 1058896815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5186748505,50.8851890564,4.5186748505,50.8851890564",
+    "geom:latitude":50.885189,
+    "geom:longitude":4.518675,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jan-baptist Vinkstraat 11",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 759 40 38",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "tanker",
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801313,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hbvXoXaR77RqhCxo1mnxK_50.885189_4.518675@1306268592"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545776,
+    "wof:geomhash":"f51362b52a7fd5b5515b1687ff86a242",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801313,
+            "region_id":85681731,
+            "venue_id":1058896815
+        }
+    ],
+    "wof:id":1058896815,
+    "wof:lastmodified":1473545776,
+    "wof:name":"Transport Ggt",
+    "wof:parent_id":85801313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tanker",
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.5186748505,
+    50.8851890564,
+    4.5186748505,
+    50.8851890564
+],
+  "geometry": {"coordinates":[4.5186748505,50.8851890564],"type":"Point"}
+}

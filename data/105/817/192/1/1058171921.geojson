@@ -1,0 +1,79 @@
+{
+  "id": 1058171921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6235771179,50.5918121338,5.6235771179,50.5918121338",
+    "geom:latitude":50.591812,
+    "geom:longitude":5.623577,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Au Long Pr\u00e9 42",
+    "sg:city":"Chaudfontaine (embourg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 21 21",
+    "sg:postcode":"4053",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801253,
+        102191581,
+        85632997,
+        404227353,
+        101758521,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wux0JIn5KB8Krgvm7F34P_50.591812_5.623577@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512984,
+    "wof:geomhash":"5725e5580a03e5ae2bbf759189055d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101758521,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801253,
+            "region_id":85681691,
+            "venue_id":1058171921
+        }
+    ],
+    "wof:id":1058171921,
+    "wof:lastmodified":1473512984,
+    "wof:name":"Lewalle Luc",
+    "wof:parent_id":85801253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6235771179,
+    50.5918121338,
+    5.6235771179,
+    50.5918121338
+],
+  "geometry": {"coordinates":[5.6235771179,50.5918121338],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042173111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6315789223,50.6725692749,5.6315789223,50.6725692749",
+    "geom:latitude":50.672569,
+    "geom:longitude":5.631579,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Croix Jurlet 150",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 264 56 37",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44JCPVQ73BRHQLvxjlyqv7_50.672569_5.631579@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500305,
+    "wof:geomhash":"9b3d1e6aed0ce027320ac9edca8eecb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1042173111
+        }
+    ],
+    "wof:id":1042173111,
+    "wof:lastmodified":1473500305,
+    "wof:name":"Tania",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ]
+},
+  "bbox": [
+    5.6315789223,
+    50.6725692749,
+    5.6315789223,
+    50.6725692749
+],
+  "geometry": {"coordinates":[5.6315789223,50.6725692749],"type":"Point"}
+}

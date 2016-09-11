@@ -1,0 +1,77 @@
+{
+  "id": 1042005381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5982408524,50.651725769,5.5982408524,50.651725769",
+    "geom:latitude":50.651726,
+    "geom:longitude":5.598241,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-l\u00c9onard 329",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 99 50",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MZFvJ1M3MlTECcHWplROZ_50.651726_5.598241@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492506,
+    "wof:geomhash":"9c937bd921968d51dd4f4d9e71220739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1042005381
+        }
+    ],
+    "wof:id":1042005381,
+    "wof:lastmodified":1473492506,
+    "wof:name":"Caf\u00c9 Amon Nos'autes",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5982408524,
+    50.651725769,
+    5.5982408524,
+    50.651725769
+],
+  "geometry": {"coordinates":[5.5982408524,50.651725769],"type":"Point"}
+}

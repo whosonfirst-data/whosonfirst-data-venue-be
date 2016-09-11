@@ -1,0 +1,81 @@
+{
+  "id": 1042123145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6851849556,51.07188797,3.6851849556,51.07188797",
+    "geom:latitude":51.071888,
+    "geom:longitude":3.685185,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kantstraat 61",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 76 27",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n7mPuA8YQAZ8IOCzzU6t4_51.071888_3.685185@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497559,
+    "wof:geomhash":"a284760145576bc48a6d0cc77d192594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042123145
+        }
+    ],
+    "wof:id":1042123145,
+    "wof:lastmodified":1473497559,
+    "wof:name":"Jc Soft Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    3.6851849556,
+    51.07188797,
+    3.6851849556,
+    51.07188797
+],
+  "geometry": {"coordinates":[3.6851849556,51.07188797],"type":"Point"}
+}

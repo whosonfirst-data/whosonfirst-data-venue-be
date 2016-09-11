@@ -1,0 +1,88 @@
+{
+  "id": 1058527993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3288588524,50.7844352722,4.3288588524,50.7844352722",
+    "geom:latitude":50.784435,
+    "geom:longitude":4.328859,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Silence 23",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 45 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pedicure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rO8GQagiRqofY25VJZh5v_50.784435_4.328859@1306268524"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529388,
+    "wof:geomhash":"3beda3c8ac335ef08bc2dbce7c5bba80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058527993
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801345,
+            "region_id":85681713,
+            "venue_id":1058527993
+        }
+    ],
+    "wof:id":1058527993,
+    "wof:lastmodified":1473529388,
+    "wof:name":"Boudart M",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pedicure"
+    ]
+},
+  "bbox": [
+    4.3288588524,
+    50.7844352722,
+    4.3288588524,
+    50.7844352722
+],
+  "geometry": {"coordinates":[4.3288588524,50.7844352722],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042039797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5842490196,50.6217689514,5.5842490196,50.6217689514",
+    "geom:latitude":50.621769,
+    "geom:longitude":5.584249,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Des Ardennes 9",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 32 50",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "register",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eYuQYEGJn0odw0yo6YzCA_50.621769_5.584249@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493857,
+    "wof:geomhash":"90ff4074aa33a12c6a8224955a84c56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1042039797
+        }
+    ],
+    "wof:id":1042039797,
+    "wof:lastmodified":1473493857,
+    "wof:name":"Easy-link",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "cash"
+    ]
+},
+  "bbox": [
+    5.5842490196,
+    50.6217689514,
+    5.5842490196,
+    50.6217689514
+],
+  "geometry": {"coordinates":[5.5842490196,50.6217689514],"type":"Point"}
+}

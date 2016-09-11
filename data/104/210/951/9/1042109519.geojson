@@ -1,0 +1,79 @@
+{
+  "id": 1042109519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5679779053,50.6418304443,5.5679779053,50.6418304443",
+    "geom:latitude":50.64183,
+    "geom:longitude":5.567978,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des C\u00e9lestines 4",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 52 38",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kMtKYcNjwFGVezB4AzNE9_50.641830_5.567978@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496828,
+    "wof:geomhash":"ce7d61db828b6204ffd5a971fb5abd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042109519
+        }
+    ],
+    "wof:id":1042109519,
+    "wof:lastmodified":1473496828,
+    "wof:name":"Sport Et Sant\u00e9 Asbl",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    5.5679779053,
+    50.6418304443,
+    5.5679779053,
+    50.6418304443
+],
+  "geometry": {"coordinates":[5.5679779053,50.6418304443],"type":"Point"}
+}

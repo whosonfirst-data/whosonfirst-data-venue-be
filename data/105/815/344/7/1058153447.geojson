@@ -1,0 +1,79 @@
+{
+  "id": 1058153447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5746040344,50.6332740784,5.5746040344,50.6332740784",
+    "geom:latitude":50.633274,
+    "geom:longitude":5.574604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Marcellis 33",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 89 80",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R5jpchUwGDtsV6i3D4Ssf_50.633274_5.574604@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512163,
+    "wof:geomhash":"9ffaf8b756b712b3ba2155df8d7e98ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1058153447
+        }
+    ],
+    "wof:id":1058153447,
+    "wof:lastmodified":1473512163,
+    "wof:name":"Aghayan Maryam",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5746040344,
+    50.6332740784,
+    5.5746040344,
+    50.6332740784
+],
+  "geometry": {"coordinates":[5.5746040344,50.6332740784],"type":"Point"}
+}

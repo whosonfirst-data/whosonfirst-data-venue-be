@@ -1,0 +1,77 @@
+{
+  "id": 1042035467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7296199799,51.0447616577,3.7296199799,51.0447616577",
+    "geom:latitude":51.044762,
+    "geom:longitude":3.72962,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langhalsstraat 3",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 23 69",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ppKesekUlhZl48LedTgEJ_51.044762_3.729620@1306268382"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493681,
+    "wof:geomhash":"2c461747d7a68b8767d7a44fefcc3447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042035467
+        }
+    ],
+    "wof:id":1042035467,
+    "wof:lastmodified":1473493681,
+    "wof:name":"De Buysscher A",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    3.7296199799,
+    51.0447616577,
+    3.7296199799,
+    51.0447616577
+],
+  "geometry": {"coordinates":[3.7296199799,51.0447616577],"type":"Point"}
+}

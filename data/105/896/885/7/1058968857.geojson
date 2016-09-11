@@ -1,0 +1,79 @@
+{
+  "id": 1058968857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3592238426,50.7921218872,4.3592238426,50.7921218872",
+    "geom:latitude":50.792122,
+    "geom:longitude":4.359224,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Saint-job 637",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 31 23",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cleaner",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RYBoD3KZuUhfSUjbbmZ6_50.792122_4.359224@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549156,
+    "wof:geomhash":"3f64a31c421c6aac7b8800ccba9c3c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058968857
+        }
+    ],
+    "wof:id":1058968857,
+    "wof:lastmodified":1473549156,
+    "wof:name":"Luc",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "window"
+    ]
+},
+  "bbox": [
+    4.3592238426,
+    50.7921218872,
+    4.3592238426,
+    50.7921218872
+],
+  "geometry": {"coordinates":[4.3592238426,50.7921218872],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041971743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4199180603,50.8271713257,4.4199180603,50.8271713257",
+    "geom:latitude":50.827171,
+    "geom:longitude":4.419918,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Franciscains 6",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 20 37",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800813,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HoNarFaYLpdP2PDAKzPf4_50.827171_4.419918@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491060,
+    "wof:geomhash":"691dac5dff14094051f5ba1e3a0c42d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800813,
+            "region_id":85681713,
+            "venue_id":1041971743
+        }
+    ],
+    "wof:id":1041971743,
+    "wof:lastmodified":1473491060,
+    "wof:name":"Franciscains",
+    "wof:parent_id":85800813,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.4199180603,
+    50.8271713257,
+    4.4199180603,
+    50.8271713257
+],
+  "geometry": {"coordinates":[4.4199180603,50.8271713257],"type":"Point"}
+}

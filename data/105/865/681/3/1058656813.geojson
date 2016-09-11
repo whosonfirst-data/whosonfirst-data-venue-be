@@ -1,0 +1,79 @@
+{
+  "id": 1058656813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3319277763,50.8700523376,4.3319277763,50.8700523376",
+    "geom:latitude":50.870052,
+    "geom:longitude":4.331928,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Odon Warland 83",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 92 36",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "regulating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hF2AJAcvB5lGka43inBKz_50.870052_4.331928@1306268548"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535264,
+    "wof:geomhash":"ae553e0c01b36bbeb26111b462dab4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058656813
+        }
+    ],
+    "wof:id":1058656813,
+    "wof:lastmodified":1473535264,
+    "wof:name":"Tempolec-theben",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "regulating",
+        "system"
+    ]
+},
+  "bbox": [
+    4.3319277763,
+    50.8700523376,
+    4.3319277763,
+    50.8700523376
+],
+  "geometry": {"coordinates":[4.3319277763,50.8700523376],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042073587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5844388008,50.6367835999,5.5844388008,50.6367835999",
+    "geom:latitude":50.636784,
+    "geom:longitude":5.584439,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galerie Longdoz 34",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 19 22",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w73aSGP0jsMZxtSpWbKwy_50.636784_5.584439@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495223,
+    "wof:geomhash":"37cd20d0217ebf1486c3febe7f90fee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042073587
+        }
+    ],
+    "wof:id":1042073587,
+    "wof:lastmodified":1473495223,
+    "wof:name":"M & C",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5844388008,
+    50.6367835999,
+    5.5844388008,
+    50.6367835999
+],
+  "geometry": {"coordinates":[5.5844388008,50.6367835999],"type":"Point"}
+}

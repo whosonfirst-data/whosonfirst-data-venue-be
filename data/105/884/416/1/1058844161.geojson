@@ -1,0 +1,79 @@
+{
+  "id": 1058844161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7803239822,51.0185394287,3.7803239822,51.0185394287",
+    "geom:latitude":51.018539,
+    "geom:longitude":3.780324,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 78",
+    "sg:city":"Melle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 08 70",
+    "sg:postcode":"9090",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "surveyor",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mVWw5NWDUQMFHe3abssXE_51.018539_3.780324@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543491,
+    "wof:geomhash":"2acef1f439e8ee661fa7f1acb4bc5474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058844161
+        }
+    ],
+    "wof:id":1058844161,
+    "wof:lastmodified":1473543491,
+    "wof:name":"Van Der Schueren",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7803239822,
+    51.0185394287,
+    3.7803239822,
+    51.0185394287
+],
+  "geometry": {"coordinates":[3.7803239822,51.0185394287],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058729493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3442358971,50.8428344727,4.3442358971,50.8428344727",
+    "geom:latitude":50.842834,
+    "geom:longitude":4.344236,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Maurice Lemonnier 94",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 45 68",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "safe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qajLESdUCSJxkglbd1iEQ_50.842834_4.344236@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538432,
+    "wof:geomhash":"1bce46048c92e71ab1b7f3fb7f9c8e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058729493
+        }
+    ],
+    "wof:id":1058729493,
+    "wof:lastmodified":1473538432,
+    "wof:name":"Rouzeeuw Ch Sprl",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safe"
+    ]
+},
+  "bbox": [
+    4.3442358971,
+    50.8428344727,
+    4.3442358971,
+    50.8428344727
+],
+  "geometry": {"coordinates":[4.3442358971,50.8428344727],"type":"Point"}
+}

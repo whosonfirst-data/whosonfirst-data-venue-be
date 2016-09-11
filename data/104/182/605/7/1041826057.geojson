@@ -1,0 +1,83 @@
+{
+  "id": 1041826057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3509831429,50.8336868286,4.3509831429,50.8336868286",
+    "geom:latitude":50.833687,
+    "geom:longitude":4.350983,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Toison D\u00b4or 87",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 542 24 86",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "compagnies",
+        "vie",
+        "assurance",
+        "habitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nxCom70IP9UqqaYSZk5sL_50.833687_4.350983@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484752,
+    "wof:geomhash":"a08a19f8c3a17c9956c082e694f5e1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041826057
+        }
+    ],
+    "wof:id":1041826057,
+    "wof:lastmodified":1473484752,
+    "wof:name":"De Patronale Onderlinge/la Mutuelle Patronale",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compagnies",
+        "vie",
+        "assurance",
+        "habitation"
+    ]
+},
+  "bbox": [
+    4.3509831429,
+    50.8336868286,
+    4.3509831429,
+    50.8336868286
+],
+  "geometry": {"coordinates":[4.3509831429,50.8336868286],"type":"Point"}
+}

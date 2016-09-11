@@ -1,0 +1,83 @@
+{
+  "id": 1058135025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.417470932,50.8533973694,4.417470932,50.8533973694",
+    "geom:latitude":50.853397,
+    "geom:longitude":4.417471,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"J B Carnoyplaats 8",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 80 11",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wMBcMXr7CQSRRjzMTAidO_50.853397_4.417471@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511235,
+    "wof:geomhash":"0b21c6e04f34e6bf2a7612aa91a86553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058135025
+        }
+    ],
+    "wof:id":1058135025,
+    "wof:lastmodified":1473511235,
+    "wof:name":"Rocrin Mixte",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.417470932,
+    50.8533973694,
+    4.417470932,
+    50.8533973694
+],
+  "geometry": {"coordinates":[4.417470932,50.8533973694],"type":"Point"}
+}

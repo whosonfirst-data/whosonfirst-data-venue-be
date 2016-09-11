@@ -1,0 +1,79 @@
+{
+  "id": 1058033229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5748128891,50.6446342468,5.5748128891,50.6446342468",
+    "geom:latitude":50.644634,
+    "geom:longitude":5.574813,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Souverain-pont 5",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 75 87",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JkIuZP5ZCxySKHCTJ9qVy_50.644634_5.574813@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506821,
+    "wof:geomhash":"dd74e54ac4c29313a1c78283b756fb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058033229
+        }
+    ],
+    "wof:id":1058033229,
+    "wof:lastmodified":1473506821,
+    "wof:name":"Restaurant Chez Tasso",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5748128891,
+    50.6446342468,
+    5.5748128891,
+    50.6446342468
+],
+  "geometry": {"coordinates":[5.5748128891,50.6446342468],"type":"Point"}
+}

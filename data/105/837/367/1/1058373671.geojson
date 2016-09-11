@@ -1,0 +1,77 @@
+{
+  "id": 1058373671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8095440865,51.0922431946,3.8095440865,51.0922431946",
+    "geom:latitude":51.092243,
+    "geom:longitude":3.809544,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smalle Heerweg 88",
+    "sg:city":"Lochristi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 355 60 87",
+    "sg:postcode":"9080",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KWqUgcslVoSEKy0guHzhU_51.092243_3.809544@1306268497"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522049,
+    "wof:geomhash":"d09c90c1f4050abc12e9728ca3ef9db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058373671
+        }
+    ],
+    "wof:id":1058373671,
+    "wof:lastmodified":1473522049,
+    "wof:name":"Jozef Burrick Nv",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    3.8095440865,
+    51.0922431946,
+    3.8095440865,
+    51.0922431946
+],
+  "geometry": {"coordinates":[3.8095440865,51.0922431946],"type":"Point"}
+}

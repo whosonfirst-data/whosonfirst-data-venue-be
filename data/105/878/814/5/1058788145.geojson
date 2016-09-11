@@ -1,0 +1,77 @@
+{
+  "id": 1058788145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3755750656,50.86693573,4.3755750656,50.86693573",
+    "geom:latitude":50.866936,
+    "geom:longitude":4.375575,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Goossens 1",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 73 29",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gAVS9hLNZ7Q60fdqtFkTg_50.866936_4.375575@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541003,
+    "wof:geomhash":"4479a6ea94a2b4717d718b3d848cd70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058788145
+        }
+    ],
+    "wof:id":1058788145,
+    "wof:lastmodified":1473541003,
+    "wof:name":"Pacha Snack",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.3755750656,
+    50.86693573,
+    4.3755750656,
+    50.86693573
+],
+  "geometry": {"coordinates":[4.3755750656,50.86693573],"type":"Point"}
+}

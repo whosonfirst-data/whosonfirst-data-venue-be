@@ -1,0 +1,90 @@
+{
+  "id": 1058155455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3288860321,50.8213157654,4.3288860321,50.8213157654",
+    "geom:latitude":50.821316,
+    "geom:longitude":4.328886,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G. Van Haelen 95",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 51 10",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nlGIJUjzmDfY0JW7S6rym_50.821316_4.328886@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512250,
+    "wof:geomhash":"2ea4196f1c3a613e86e604bdcf466b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058155455
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801379,
+            "region_id":85681713,
+            "venue_id":1058155455
+        }
+    ],
+    "wof:id":1058155455,
+    "wof:lastmodified":1473512250,
+    "wof:name":"Bolle G",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3288860321,
+    50.8213157654,
+    4.3288860321,
+    50.8213157654
+],
+  "geometry": {"coordinates":[4.3288860321,50.8213157654],"type":"Point"}
+}

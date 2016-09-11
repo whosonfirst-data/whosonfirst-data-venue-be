@@ -1,0 +1,80 @@
+{
+  "id": 1058973145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4080138206,51.2199325562,4.4080138206,51.2199325562",
+    "geom:latitude":51.219933,
+    "geom:longitude":4.408014,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Nieuwstraat 35",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ECEWMobohK5Z5okpwSZ6U_51.219933_4.408014@1306268606"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549350,
+    "wof:geomhash":"8bc654cd56087bc74e8160c36c3f93ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058973145
+        }
+    ],
+    "wof:id":1058973145,
+    "wof:lastmodified":1473549350,
+    "wof:name":"Kaaps Wynhuys",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    4.4080138206,
+    51.2199325562,
+    4.4080138206,
+    51.2199325562
+],
+  "geometry": {"coordinates":[4.4080138206,51.2199325562],"type":"Point"}
+}

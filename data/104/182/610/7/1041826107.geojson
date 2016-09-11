@@ -1,0 +1,83 @@
+{
+  "id": 1041826107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7096869946,51.0250053406,3.7096869946,51.0250053406",
+    "geom:latitude":51.025005,
+    "geom:longitude":3.709687,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oudenaardsesteenweg 21",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 31 32",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "compagnies",
+        "vie",
+        "assurance",
+        "habitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c6atyDhmctewSaCI2Q5c8_51.025005_3.709687@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484757,
+    "wof:geomhash":"8c56a1f0f2474cbbcbf7aab08d18857c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041826107
+        }
+    ],
+    "wof:id":1041826107,
+    "wof:lastmodified":1473484757,
+    "wof:name":"Swiss Life Belgium",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compagnies",
+        "vie",
+        "assurance",
+        "habitation"
+    ]
+},
+  "bbox": [
+    3.7096869946,
+    51.0250053406,
+    3.7096869946,
+    51.0250053406
+],
+  "geometry": {"coordinates":[3.7096869946,51.0250053406],"type":"Point"}
+}

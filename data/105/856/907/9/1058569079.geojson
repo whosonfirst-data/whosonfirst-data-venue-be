@@ -1,0 +1,77 @@
+{
+  "id": 1058569079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2348899841,51.1978225708,3.2348899841,51.1978225708",
+    "geom:latitude":51.197823,
+    "geom:longitude":3.23489,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vrijheidsstraat 31",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 39 53",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ETsxnfLqoUyolODXSlz60_51.197823_3.234890@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531265,
+    "wof:geomhash":"424789c7f5f910a7d3f6f51a9abfdd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058569079
+        }
+    ],
+    "wof:id":1058569079,
+    "wof:lastmodified":1473531265,
+    "wof:name":"Thuyn Ph",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2348899841,
+    51.1978225708,
+    3.2348899841,
+    51.1978225708
+],
+  "geometry": {"coordinates":[3.2348899841,51.1978225708],"type":"Point"}
+}

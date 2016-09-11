@@ -1,0 +1,81 @@
+{
+  "id": 1041601003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3271989822,50.7725563049,4.3271989822,50.7725563049",
+    "geom:latitude":50.772556,
+    "geom:longitude":4.327199,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 95",
+    "sg:city":"Linkebeek",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 80 50",
+    "sg:postcode":"1630",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801295,
+        102191581,
+        85632997,
+        404227357,
+        101755541,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FxkWq0jzkrYBhtc7lasvd_50.772556_4.327199@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475336,
+    "wof:geomhash":"f3fc34e80b1398e28747cd2f1727501f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755541,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801295,
+            "region_id":85681731,
+            "venue_id":1041601003
+        }
+    ],
+    "wof:id":1041601003,
+    "wof:lastmodified":1473475336,
+    "wof:name":"Christian-jacques",
+    "wof:parent_id":85801295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3271989822,
+    50.7725563049,
+    4.3271989822,
+    50.7725563049
+],
+  "geometry": {"coordinates":[4.3271989822,50.7725563049],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1042090843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5085940361,50.8810806274,4.5085940361,50.8810806274",
+    "geom:latitude":50.881081,
+    "geom:longitude":4.508594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Espenlaan 37",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 757 23 14",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801691,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1reIg8vXBVMWCvaJvYMVgj_50.881081_4.508594@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495993,
+    "wof:geomhash":"ac9fed88829c564b380ac75b67db550b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801691,
+            "region_id":85681731,
+            "venue_id":1042090843
+        }
+    ],
+    "wof:id":1042090843,
+    "wof:lastmodified":1473495993,
+    "wof:name":"Data Consult",
+    "wof:parent_id":85801691,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computerapparatuur",
+        "microsoft"
+    ]
+},
+  "bbox": [
+    4.5085940361,
+    50.8810806274,
+    4.5085940361,
+    50.8810806274
+],
+  "geometry": {"coordinates":[4.5085940361,50.8810806274],"type":"Point"}
+}

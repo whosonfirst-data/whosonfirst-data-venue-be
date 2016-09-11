@@ -1,0 +1,88 @@
+{
+  "id": 1042021469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2956438065,50.8289833069,4.2956438065,50.8289833069",
+    "geom:latitude":50.828983,
+    "geom:longitude":4.295644,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Chopin 20",
+    "sg:city":"Anderlecht/anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 74 97",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c9Cq41FjdNqstZQwRnxB9_50.828983_4.295644@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493105,
+    "wof:geomhash":"d46067f2d5e294b3206c13a389bb0593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1042021469
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1042021469
+        }
+    ],
+    "wof:id":1042021469,
+    "wof:lastmodified":1473493105,
+    "wof:name":"Le Chopin A & K",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.2956438065,
+    50.8289833069,
+    4.2956438065,
+    50.8289833069
+],
+  "geometry": {"coordinates":[4.2956438065,50.8289833069],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041958669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5674557686,50.6603240967,5.5674557686,50.6603240967",
+    "geom:latitude":50.660324,
+    "geom:longitude":5.567456,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Jean-de-wilde 30",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 26 48",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boiler",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qRhHoUO9RUklMGdJfv9Ad_50.660324_5.567456@1306268367"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490459,
+    "wof:geomhash":"7162471b6c8a9c8333d446df92ee0a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1041958669
+        }
+    ],
+    "wof:id":1041958669,
+    "wof:lastmodified":1473490459,
+    "wof:name":"Jungling Sa",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    5.5674557686,
+    50.6603240967,
+    5.5674557686,
+    50.6603240967
+],
+  "geometry": {"coordinates":[5.5674557686,50.6603240967],"type":"Point"}
+}

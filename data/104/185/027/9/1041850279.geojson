@@ -1,0 +1,77 @@
+{
+  "id": 1041850279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3781042099,50.8505973816,4.3781042099,50.8505973816",
+    "geom:latitude":50.850597,
+    "geom:longitude":4.378104,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Deux Tours 35",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 219 51 10",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jjzqm4iGZfa7mhgXkSglz_50.850597_4.378104@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485813,
+    "wof:geomhash":"f5520afe21d0bfb3994b1a44fa732184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1041850279
+        }
+    ],
+    "wof:id":1041850279,
+    "wof:lastmodified":1473485813,
+    "wof:name":"Reva Cars",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.3781042099,
+    50.8505973816,
+    4.3781042099,
+    50.8505973816
+],
+  "geometry": {"coordinates":[4.3781042099,50.8505973816],"type":"Point"}
+}

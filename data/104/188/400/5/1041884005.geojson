@@ -1,0 +1,79 @@
+{
+  "id": 1041884005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.22341609,51.204914093,3.22341609,51.204914093",
+    "geom:latitude":51.204914,
+    "geom:longitude":3.223416,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariastraat 32",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 38 34",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hp7Qo9oqUsB3Mv62U4SVr_51.204914_3.223416@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487247,
+    "wof:geomhash":"dcec3b0c74d25ce19ebe423530bb5854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1041884005
+        }
+    ],
+    "wof:id":1041884005,
+    "wof:lastmodified":1473487247,
+    "wof:name":"Rosseel F",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.22341609,
+    51.204914093,
+    3.22341609,
+    51.204914093
+],
+  "geometry": {"coordinates":[3.22341609,51.204914093],"type":"Point"}
+}

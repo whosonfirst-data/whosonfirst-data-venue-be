@@ -1,0 +1,79 @@
+{
+  "id": 1042057067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.725990057,51.0897102356,3.725990057,51.0897102356",
+    "geom:latitude":51.08971,
+    "geom:longitude":3.72599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pantserschipstr. 80",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 257 77 00",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "pharmaceutical",
+        "chemistry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sVb2w7HfWVivtvf1EMvWw_51.089710_3.725990@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494553,
+    "wof:geomhash":"50a647af9d0b4bb1103681d9df2568f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1042057067
+        }
+    ],
+    "wof:id":1042057067,
+    "wof:lastmodified":1473494553,
+    "wof:name":"Pvs Chemicals Belgium Nv",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "chemistry"
+    ]
+},
+  "bbox": [
+    3.725990057,
+    51.0897102356,
+    3.725990057,
+    51.0897102356
+],
+  "geometry": {"coordinates":[3.725990057,51.0897102356],"type":"Point"}
+}

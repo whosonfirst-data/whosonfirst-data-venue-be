@@ -1,0 +1,79 @@
+{
+  "id": 1058226725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3309121132,50.8627891541,4.3309121132,50.8627891541",
+    "geom:latitude":50.862789,
+    "geom:longitude":4.330912,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Herkoliers 95",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 48 58",
+    "sg:postcode":"1081",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "industrial",
+        "export"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dqWSDJUHdsuXnst9RH37i_50.862789_4.330912@1306268471"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515383,
+    "wof:geomhash":"ca1fb9bd31995aca880c5352d3174032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058226725
+        }
+    ],
+    "wof:id":1058226725,
+    "wof:lastmodified":1473515383,
+    "wof:name":"Vega S.p.r.l.",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "export"
+    ]
+},
+  "bbox": [
+    4.3309121132,
+    50.8627891541,
+    4.3309121132,
+    50.8627891541
+],
+  "geometry": {"coordinates":[4.3309121132,50.8627891541],"type":"Point"}
+}

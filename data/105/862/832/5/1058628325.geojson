@@ -1,0 +1,66 @@
+{
+  "id": 1058628325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.7020511627,50.8782081604,4.7020511627,50.8782081604",
+    "geom:latitude":50.878208,
+    "geom:longitude":4.702051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muntstraat 22",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 20 53 98",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JZW0vqi970deYAw53MgVo_50.878208_4.702051@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533945,
+    "wof:geomhash":"a31d083d933bc1e7912e54a26e796f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058628325
+        }
+    ],
+    "wof:id":1058628325,
+    "wof:lastmodified":1473533945,
+    "wof:name":"Bilitis",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7020511627,
+    50.8782081604,
+    4.7020511627,
+    50.8782081604
+],
+  "geometry": {"coordinates":[4.7020511627,50.8782081604],"type":"Point"}
+}

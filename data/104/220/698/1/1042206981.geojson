@@ -1,0 +1,83 @@
+{
+  "id": 1042206981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4265508652,50.8095283508,4.4265508652,50.8095283508",
+    "geom:latitude":50.809528,
+    "geom:longitude":4.426551,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Du Souverain 138",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 15 56",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_064LIsSYHqtrKIxPONaDys_50.809528_4.426551@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502294,
+    "wof:geomhash":"e8a290fc48ceb1bdd151d36cabb5f0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1042206981
+        }
+    ],
+    "wof:id":1042206981,
+    "wof:lastmodified":1473502294,
+    "wof:name":"Muller B",
+    "wof:parent_id":85801147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.4265508652,
+    50.8095283508,
+    4.4265508652,
+    50.8095283508
+],
+  "geometry": {"coordinates":[4.4265508652,50.8095283508],"type":"Point"}
+}

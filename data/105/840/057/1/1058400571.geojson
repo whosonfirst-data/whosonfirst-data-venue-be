@@ -1,0 +1,77 @@
+{
+  "id": 1058400571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5651021004,50.6190795898,5.5651021004,50.6190795898",
+    "geom:latitude":50.61908,
+    "geom:longitude":5.565102,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00e9ra 11",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 07 63",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800997,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b5cpkKIoiiSDauahMn9Ps_50.619080_5.565102@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523268,
+    "wof:geomhash":"c88fe82fae1e3f7d50df4eb4355022b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800997,
+            "region_id":85681691,
+            "venue_id":1058400571
+        }
+    ],
+    "wof:id":1058400571,
+    "wof:lastmodified":1473523268,
+    "wof:name":"Centre M\u00e9decine G\u00e9n\u00e9rale Chera",
+    "wof:parent_id":85800997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    5.5651021004,
+    50.6190795898,
+    5.5651021004,
+    50.6190795898
+],
+  "geometry": {"coordinates":[5.5651021004,50.6190795898],"type":"Point"}
+}

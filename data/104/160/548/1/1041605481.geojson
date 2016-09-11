@@ -1,0 +1,79 @@
+{
+  "id": 1041605481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4045991898,50.8293762207,4.4045991898,50.8293762207",
+    "geom:latitude":50.829376,
+    "geom:longitude":4.404599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Commandant Lothaire 26",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 18 42",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_538rlWgKjM9z0lOwcrzUS3_50.829376_4.404599@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475534,
+    "wof:geomhash":"39a85317fab821da4b373ad110963186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1041605481
+        }
+    ],
+    "wof:id":1041605481,
+    "wof:lastmodified":1473475534,
+    "wof:name":"Hambrouck A",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4045991898,
+    50.8293762207,
+    4.4045991898,
+    50.8293762207
+],
+  "geometry": {"coordinates":[4.4045991898,50.8293762207],"type":"Point"}
+}

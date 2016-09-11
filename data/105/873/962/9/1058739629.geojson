@@ -1,0 +1,79 @@
+{
+  "id": 1058739629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6585898399,50.6082878113,5.6585898399,50.6082878113",
+    "geom:latitude":50.608288,
+    "geom:longitude":5.65859,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Roosevelt 128",
+    "sg:city":"Fleron",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 358 62 38",
+    "sg:postcode":"4624",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800835,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_081nPJMbJBNjfZEfsJYinN_50.608288_5.658590@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538886,
+    "wof:geomhash":"639527c585d85bee9cb8dd5a2a4fdb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800835,
+            "region_id":85681691,
+            "venue_id":1058739629
+        }
+    ],
+    "wof:id":1058739629,
+    "wof:lastmodified":1473538886,
+    "wof:name":"Coiffure Myriam",
+    "wof:parent_id":85800835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.6585898399,
+    50.6082878113,
+    5.6585898399,
+    50.6082878113
+],
+  "geometry": {"coordinates":[5.6585898399,50.6082878113],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042043869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3329939842,50.7925491333,4.3329939842,50.7925491333",
+    "geom:latitude":50.792549,
+    "geom:longitude":4.332994,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e D\u00b4alsemberg 1043",
+    "sg:city":"Uccle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 03 00",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WrpDwj1UT1Av2PmljtHNd_50.792549_4.332994@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494013,
+    "wof:geomhash":"3847ab2e560c4e6e78a48b9a23fbf249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1042043869
+        }
+    ],
+    "wof:id":1042043869,
+    "wof:lastmodified":1473494013,
+    "wof:name":"Le Village",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ]
+},
+  "bbox": [
+    4.3329939842,
+    50.7925491333,
+    4.3329939842,
+    50.7925491333
+],
+  "geometry": {"coordinates":[4.3329939842,50.7925491333],"type":"Point"}
+}

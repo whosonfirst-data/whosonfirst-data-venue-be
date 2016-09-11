@@ -1,0 +1,77 @@
+{
+  "id": 1041933083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.295563221,50.8661766052,4.295563221,50.8661766052",
+    "geom:latitude":50.866177,
+    "geom:longitude":4.295563,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 1193",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 38 89",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OKRfgHD27lIrnEm2ppFDz_50.866177_4.295563@1306268363"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489391,
+    "wof:geomhash":"03f73701f441ebef19f62d186b013889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1041933083
+        }
+    ],
+    "wof:id":1041933083,
+    "wof:lastmodified":1473489391,
+    "wof:name":"Bike Connection Sprl",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    4.295563221,
+    50.8661766052,
+    4.295563221,
+    50.8661766052
+],
+  "geometry": {"coordinates":[4.295563221,50.8661766052],"type":"Point"}
+}

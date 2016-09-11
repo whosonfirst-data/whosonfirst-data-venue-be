@@ -1,0 +1,85 @@
+{
+  "id": 1041664861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2038500309,51.2002449036,3.2038500309,51.2002449036",
+    "geom:latitude":51.200245,
+    "geom:longitude":3.20385,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Torhoutse Steenweg 102",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 66 52",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "soldering",
+        "equipment",
+        "welding",
+        "-",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P5XSXVs3JfNrLEILoogLm_51.200245_3.203850@1306268573"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477938,
+    "wof:geomhash":"590d737f1f581a8e03e7741f11d0624d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1041664861
+        }
+    ],
+    "wof:id":1041664861,
+    "wof:lastmodified":1473477938,
+    "wof:name":"Dhondt Industrie",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soldering",
+        "equipment",
+        "welding",
+        "-",
+        "supply"
+    ]
+},
+  "bbox": [
+    3.2038500309,
+    51.2002449036,
+    3.2038500309,
+    51.2002449036
+],
+  "geometry": {"coordinates":[3.2038500309,51.2002449036],"type":"Point"}
+}

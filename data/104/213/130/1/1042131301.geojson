@@ -1,0 +1,66 @@
+{
+  "id": 1042131301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.482831955,50.730304718,4.482831955,50.730304718",
+    "geom:latitude":50.730305,
+    "geom:longitude":4.482832,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Combattants 157",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 86 84",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6przkLKE7hBm1PGp3Kj2lX_50.730305_4.482832@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498027,
+    "wof:geomhash":"140068270c82e1dad44bd97fbf13ff67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1042131301
+        }
+    ],
+    "wof:id":1042131301,
+    "wof:lastmodified":1473498027,
+    "wof:name":"Dehoux M",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.482831955,
+    50.730304718,
+    4.482831955,
+    50.730304718
+],
+  "geometry": {"coordinates":[4.482831955,50.730304718],"type":"Point"}
+}

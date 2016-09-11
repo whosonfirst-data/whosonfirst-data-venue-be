@@ -1,0 +1,77 @@
+{
+  "id": 1041984613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5722761154,50.6416625977,5.5722761154,50.6416625977",
+    "geom:latitude":50.641663,
+    "geom:longitude":5.572276,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cath\u00e9drale 98",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 93 22",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O0JrXOH5cnnE0asBenkmN_50.641663_5.572276@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491695,
+    "wof:geomhash":"3e1707ffd6c98fb16129750714d3b344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041984613
+        }
+    ],
+    "wof:id":1041984613,
+    "wof:lastmodified":1473491695,
+    "wof:name":"Main Street",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    5.5722761154,
+    50.6416625977,
+    5.5722761154,
+    50.6416625977
+],
+  "geometry": {"coordinates":[5.5722761154,50.6416625977],"type":"Point"}
+}

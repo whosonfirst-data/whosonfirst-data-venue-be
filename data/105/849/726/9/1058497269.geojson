@@ -1,0 +1,71 @@
+{
+  "id": 1058497269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6896538734,50.7325935364,5.6896538734,50.7325935364",
+    "geom:latitude":50.732594,
+    "geom:longitude":5.689654,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Marchand 107",
+    "sg:city":"Vis\u00e9",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 379 81 60",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07vAQ1hDGmTQf8bA2Ra6fI_50.732594_5.689654@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527964,
+    "wof:geomhash":"fb7e4891031fef8a20834e102f6db3ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1058497269
+        }
+    ],
+    "wof:id":1058497269,
+    "wof:lastmodified":1473527964,
+    "wof:name":"Verjus Michael",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    5.6896538734,
+    50.7325935364,
+    5.6896538734,
+    50.7325935364
+],
+  "geometry": {"coordinates":[5.6896538734,50.7325935364],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1041766203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5002450943,50.7435798645,4.5002450943,50.7435798645",
+    "geom:latitude":50.74358,
+    "geom:longitude":4.500245,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Nieuwenhuis 27",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Architecten",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 70 42",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_083wgco6N7Yikm70C8kHXn_50.743580_4.500245@1306268335"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482241,
+    "wof:geomhash":"ce42771c91a566f5812a4a25aa6be6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041766203
+        }
+    ],
+    "wof:id":1041766203,
+    "wof:lastmodified":1473482241,
+    "wof:name":"Claude Bulteau",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5002450943,
+    50.7435798645,
+    4.5002450943,
+    50.7435798645
+],
+  "geometry": {"coordinates":[4.5002450943,50.7435798645],"type":"Point"}
+}

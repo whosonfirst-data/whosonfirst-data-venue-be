@@ -1,0 +1,79 @@
+{
+  "id": 1058162429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5195879936,50.6431999207,5.5195879936,50.6431999207",
+    "geom:latitude":50.6432,
+    "geom:longitude":5.519588,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue F\u00e9lix Bernard 82",
+    "sg:city":"Saint-nicolas (montegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 25 61",
+    "sg:postcode":"4420",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NIpawVLY0Cs4oDUHTI2Ot_50.643200_5.519588@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512535,
+    "wof:geomhash":"dd973979cc28c5172ec24f112312fd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1058162429
+        }
+    ],
+    "wof:id":1058162429,
+    "wof:lastmodified":1473512535,
+    "wof:name":"Denoiseux C\u00e9cile",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5195879936,
+    50.6431999207,
+    5.5195879936,
+    50.6431999207
+],
+  "geometry": {"coordinates":[5.5195879936,50.6431999207],"type":"Point"}
+}

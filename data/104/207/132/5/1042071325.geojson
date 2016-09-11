@@ -1,0 +1,81 @@
+{
+  "id": 1042071325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8030629158,51.0317573547,3.8030629158,51.0317573547",
+    "geom:latitude":51.031757,
+    "geom:longitude":3.803063,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tramstraat 72",
+    "sg:city":"Destelbergen (heusden)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 81 42",
+    "sg:postcode":"9070",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fP6uQcpJozLoUCjC2IoB1_51.031757_3.803063@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495132,
+    "wof:geomhash":"cc3e80b6d32112e587b3828fbf90c3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042071325
+        }
+    ],
+    "wof:id":1042071325,
+    "wof:lastmodified":1473495132,
+    "wof:name":"Gentle",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    3.8030629158,
+    51.0317573547,
+    3.8030629158,
+    51.0317573547
+],
+  "geometry": {"coordinates":[3.8030629158,51.0317573547],"type":"Point"}
+}

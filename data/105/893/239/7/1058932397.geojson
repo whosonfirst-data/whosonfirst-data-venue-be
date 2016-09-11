@@ -1,0 +1,79 @@
+{
+  "id": 1058932397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6611459255,51.1013336182,3.6611459255,51.1013336182",
+    "geom:latitude":51.101334,
+    "geom:longitude":3.661146,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belzeelsestraat 2",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 03 47",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s6h16JwBzlsS5K1G0YA7w_51.101334_3.661146@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547440,
+    "wof:geomhash":"e9a3cb98975d6c44a619a49e41b28b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058932397
+        }
+    ],
+    "wof:id":1058932397,
+    "wof:lastmodified":1473547440,
+    "wof:name":"W. Hebrecht",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    3.6611459255,
+    51.1013336182,
+    3.6611459255,
+    51.1013336182
+],
+  "geometry": {"coordinates":[3.6611459255,51.1013336182],"type":"Point"}
+}

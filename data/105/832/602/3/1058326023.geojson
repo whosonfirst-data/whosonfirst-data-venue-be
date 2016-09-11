@@ -1,0 +1,79 @@
+{
+  "id": 1058326023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.564540863,50.6480255127,5.564540863,50.6480255127",
+    "geom:latitude":50.648026,
+    "geom:longitude":5.564541,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hocheporte 82",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 06 02",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MPTK4bJd03WT3xrFD6rSf_50.648026_5.564541@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519796,
+    "wof:geomhash":"4e6082ce89454bb2506f571e14828426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058326023
+        }
+    ],
+    "wof:id":1058326023,
+    "wof:lastmodified":1473519796,
+    "wof:name":"Oudkerk A",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    5.564540863,
+    50.6480255127,
+    5.564540863,
+    50.6480255127
+],
+  "geometry": {"coordinates":[5.564540863,50.6480255127],"type":"Point"}
+}

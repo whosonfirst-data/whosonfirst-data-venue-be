@@ -1,0 +1,77 @@
+{
+  "id": 1041973037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3386569023,50.8134346008,4.3386569023,50.8134346008",
+    "geom:latitude":50.813435,
+    "geom:longitude":4.338657,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 413",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 33 41",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XdrVwxVmVDDDT4J2IKe1a_50.813435_4.338657@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491231,
+    "wof:geomhash":"e3eb87b75014fea253ff4baeacda777f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041973037
+        }
+    ],
+    "wof:id":1041973037,
+    "wof:lastmodified":1473491231,
+    "wof:name":"Presse (la)",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3386569023,
+    50.8134346008,
+    4.3386569023,
+    50.8134346008
+],
+  "geometry": {"coordinates":[4.3386569023,50.8134346008],"type":"Point"}
+}

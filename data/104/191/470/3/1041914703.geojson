@@ -1,0 +1,81 @@
+{
+  "id": 1041914703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3818278313,50.8199577332,4.3818278313,50.8199577332",
+    "geom:latitude":50.819958,
+    "geom:longitude":4.381828,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Boondael 301",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 98 13",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bathroom",
+        "installation",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YICw4zZp2J8cYmRoGMX34_50.819958_4.381828@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488515,
+    "wof:geomhash":"535b6637722163fc638cb2015efda619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041914703
+        }
+    ],
+    "wof:id":1041914703,
+    "wof:lastmodified":1473488515,
+    "wof:name":"Dooms",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "installation",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3818278313,
+    50.8199577332,
+    4.3818278313,
+    50.8199577332
+],
+  "geometry": {"coordinates":[4.3818278313,50.8199577332],"type":"Point"}
+}

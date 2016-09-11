@@ -1,0 +1,75 @@
+{
+  "id": 1058222535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4976649284,51.165802002,4.4976649284,51.165802002",
+    "geom:latitude":51.165802,
+    "geom:longitude":4.497665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Provinciesteenweg 239",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 294 74 46",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j9SoozSOGGmVWs8xkWGp7_51.165802_4.497665@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515197,
+    "wof:geomhash":"6a1ce127c4dbfe31dbd768ec1596d376",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058222535
+        }
+    ],
+    "wof:id":1058222535,
+    "wof:lastmodified":1473515197,
+    "wof:name":"The Intercontinental Trade Stores Nv",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4976649284,
+    51.165802002,
+    4.4976649284,
+    51.165802002
+],
+  "geometry": {"coordinates":[4.4976649284,51.165802002],"type":"Point"}
+}

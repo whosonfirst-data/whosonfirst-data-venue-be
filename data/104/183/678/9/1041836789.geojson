@@ -1,0 +1,83 @@
+{
+  "id": 1041836789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3577461243,50.8117752075,4.3577461243,50.8117752075",
+    "geom:latitude":50.811775,
+    "geom:longitude":4.357746,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"R. Edith Cavell 68",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 60 04",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "household",
+        "appliance",
+        "telecommunication",
+        "audio-visual"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VAUAGByC6KmjuDuq8elUF_50.811775_4.357746@1306268347"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485238,
+    "wof:geomhash":"9b41ed13d5e32a157785a3da813fd716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041836789
+        }
+    ],
+    "wof:id":1041836789,
+    "wof:lastmodified":1473485238,
+    "wof:name":"J.m.e. Sprl",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance",
+        "telecommunication",
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    4.3577461243,
+    50.8117752075,
+    4.3577461243,
+    50.8117752075
+],
+  "geometry": {"coordinates":[4.3577461243,50.8117752075],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042195947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7191419601,51.0463027954,3.7191419601,51.0463027954",
+    "geom:latitude":51.046303,
+    "geom:longitude":3.719142,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hospitaalstraat 5",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 24 79",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fOCWHEo4U0M5ertqb5gtr_51.046303_3.719142@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501671,
+    "wof:geomhash":"841113c27e314d254f0cd11a653e0ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1042195947
+        }
+    ],
+    "wof:id":1042195947,
+    "wof:lastmodified":1473501671,
+    "wof:name":"Lexica Bvba",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "private"
+    ]
+},
+  "bbox": [
+    3.7191419601,
+    51.0463027954,
+    3.7191419601,
+    51.0463027954
+],
+  "geometry": {"coordinates":[3.7191419601,51.0463027954],"type":"Point"}
+}

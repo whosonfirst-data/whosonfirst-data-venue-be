@@ -1,0 +1,79 @@
+{
+  "id": 1041883845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6022062302,50.6368408203,5.6022062302,50.6368408203",
+    "geom:latitude":50.636841,
+    "geom:longitude":5.602206,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Robermont 228",
+    "sg:city":"Li\u00e8ge 1 (bressoux)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 26 52",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hjff2bln1Q5zBo9t4InlZ_50.636841_5.602206@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487241,
+    "wof:geomhash":"3a41e6a4ec47d63b98791374d52efc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041883845
+        }
+    ],
+    "wof:id":1041883845,
+    "wof:lastmodified":1473487241,
+    "wof:name":"Ramakers M",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.6022062302,
+    50.6368408203,
+    5.6022062302,
+    50.6368408203
+],
+  "geometry": {"coordinates":[5.6022062302,50.6368408203],"type":"Point"}
+}

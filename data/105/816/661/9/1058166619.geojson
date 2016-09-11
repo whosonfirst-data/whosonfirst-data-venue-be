@@ -1,0 +1,79 @@
+{
+  "id": 1058166619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2779150009,50.8855514526,4.2779150009,50.8855514526",
+    "geom:latitude":50.885551,
+    "geom:longitude":4.277915,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nachtegaallaan 22",
+    "sg:city":"Asse (zellik)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 466 22 62",
+    "sg:postcode":"1731",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IjTOK8hUSV3LLynrGsmRD_50.885551_4.277915@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512738,
+    "wof:geomhash":"6db2d56d612fe8c14c20a9e7878bc0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058166619
+        }
+    ],
+    "wof:id":1058166619,
+    "wof:lastmodified":1473512738,
+    "wof:name":"Goffin Carine",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.2779150009,
+    50.8855514526,
+    4.2779150009,
+    50.8855514526
+],
+  "geometry": {"coordinates":[4.2779150009,50.8855514526],"type":"Point"}
+}

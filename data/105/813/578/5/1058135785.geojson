@@ -1,0 +1,81 @@
+{
+  "id": 1058135785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5659518242,50.6421356201,5.5659518242,50.6421356201",
+    "geom:latitude":50.642136,
+    "geom:longitude":5.565952,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De La Sauveniere 120b",
+    "sg:city":"Liege 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 43 38",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HqIeCVWhwchYoPqvrkI7F_50.642136_5.565952@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511274,
+    "wof:geomhash":"7366b5db7f8b127ef9f3c63ce45b738d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058135785
+        }
+    ],
+    "wof:id":1058135785,
+    "wof:lastmodified":1473511274,
+    "wof:name":"Andr\u00e9 Coiffeur",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5659518242,
+    50.6421356201,
+    5.5659518242,
+    50.6421356201
+],
+  "geometry": {"coordinates":[5.5659518242,50.6421356201],"type":"Point"}
+}

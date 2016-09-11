@@ -1,0 +1,77 @@
+{
+  "id": 1041587475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3074741364,50.8210487366,4.3074741364,50.8210487366",
+    "geom:latitude":50.821049,
+    "geom:longitude":4.307474,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petite Rue Du Cerf 47",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 37 37",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "organisation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FcQLNjJ2LacdqJh0ICNB0_50.821049_4.307474@1306268428"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474755,
+    "wof:geomhash":"41a09b0b0a709f0b416dd91cc8e55db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041587475
+        }
+    ],
+    "wof:id":1041587475,
+    "wof:lastmodified":1473474755,
+    "wof:name":"Dewybeer Sa",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation"
+    ]
+},
+  "bbox": [
+    4.3074741364,
+    50.8210487366,
+    4.3074741364,
+    50.8210487366
+],
+  "geometry": {"coordinates":[4.3074741364,50.8210487366],"type":"Point"}
+}

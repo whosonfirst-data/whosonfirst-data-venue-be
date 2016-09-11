@@ -1,0 +1,79 @@
+{
+  "id": 1042127681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6242110729,51.0397453308,3.6242110729,51.0397453308",
+    "geom:latitude":51.039745,
+    "geom:longitude":3.624211,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baarleveer 6",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 280 02 85",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800739,
+        102191581,
+        85632997,
+        404227357,
+        101755677,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pOwEDuams3s0NGTO5QKs1_51.039745_3.624211@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497825,
+    "wof:geomhash":"68346ea091223548b9862ff168f45e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101755677,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800739,
+            "region_id":85681733,
+            "venue_id":1042127681
+        }
+    ],
+    "wof:id":1042127681,
+    "wof:lastmodified":1473497825,
+    "wof:name":"Pruzan Ch",
+    "wof:parent_id":85800739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    3.6242110729,
+    51.0397453308,
+    3.6242110729,
+    51.0397453308
+],
+  "geometry": {"coordinates":[3.6242110729,51.0397453308],"type":"Point"}
+}

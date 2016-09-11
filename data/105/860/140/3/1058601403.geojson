@@ -1,0 +1,83 @@
+{
+  "id": 1058601403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6010298729,50.6120986938,5.6010298729,50.6120986938",
+    "geom:latitude":50.612099,
+    "geom:longitude":5.60103,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Vaussale 1",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 371 91 75",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800763,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TyTcCmsP2JBxd4DHDfDuc_50.612099_5.601030@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532675,
+    "wof:geomhash":"1bed8b8b3c059d1c5e5b418b10255ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1058601403
+        }
+    ],
+    "wof:id":1058601403,
+    "wof:lastmodified":1473532675,
+    "wof:name":"Wallofood",
+    "wof:parent_id":85800763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    5.6010298729,
+    50.6120986938,
+    5.6010298729,
+    50.6120986938
+],
+  "geometry": {"coordinates":[5.6010298729,50.6120986938],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1042009229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5888271332,50.6461219788,5.5888271332,50.6461219788",
+    "geom:latitude":50.646122,
+    "geom:longitude":5.588827,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Godefroid Kurth 21",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 11 70",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691,
+        85862027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pTS0OucQJOhp7S3X1UDf4_50.646122_5.588827@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492659,
+    "wof:geomhash":"492373763918aa5b2fcf8a60cb7db7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1042009229
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042009229
+        }
+    ],
+    "wof:id":1042009229,
+    "wof:lastmodified":1473492659,
+    "wof:name":"Caf\u00c9 Gai Mosan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5888271332,
+    50.6461219788,
+    5.5888271332,
+    50.6461219788
+],
+  "geometry": {"coordinates":[5.5888271332,50.6461219788],"type":"Point"}
+}

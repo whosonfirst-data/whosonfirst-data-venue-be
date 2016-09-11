@@ -1,0 +1,83 @@
+{
+  "id": 1042209707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4914622307,50.6487083435,5.4914622307,50.6487083435",
+    "geom:latitude":50.648708,
+    "geom:longitude":5.491462,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoogveld 92",
+    "sg:city":"Dendermonde",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 15 15",
+    "sg:postcode":"9200",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electricity",
+        "electronic",
+        "electrical",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61w2d3G2JUJt71ehf7YkUV_50.648708_5.491462@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502410,
+    "wof:geomhash":"5e5b0ad5e752051bc56ea9c137dffd22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1042209707
+        }
+    ],
+    "wof:id":1042209707,
+    "wof:lastmodified":1473502410,
+    "wof:name":"Soreti Sa",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity",
+        "electronic",
+        "electrical",
+        "equipment"
+    ]
+},
+  "bbox": [
+    5.4914622307,
+    50.6487083435,
+    5.4914622307,
+    50.6487083435
+],
+  "geometry": {"coordinates":[5.4914622307,50.6487083435],"type":"Point"}
+}

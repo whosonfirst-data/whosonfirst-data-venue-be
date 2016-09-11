@@ -1,0 +1,79 @@
+{
+  "id": 1058785123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2234768867,51.2083930969,3.2234768867,51.2083930969",
+    "geom:latitude":51.208393,
+    "geom:longitude":3.223477,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-paulusstraat 5",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 38 69",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "roofing",
+        "slate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5KjmqE7LaDCALW9IvYbE_51.208393_3.223477@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540867,
+    "wof:geomhash":"e3b3e5c5baf106ba3855a9492f5e073a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058785123
+        }
+    ],
+    "wof:id":1058785123,
+    "wof:lastmodified":1473540867,
+    "wof:name":"Vyncke-lampo Bvba",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "slate"
+    ]
+},
+  "bbox": [
+    3.2234768867,
+    51.2083930969,
+    3.2234768867,
+    51.2083930969
+],
+  "geometry": {"coordinates":[3.2234768867,51.2083930969],"type":"Point"}
+}

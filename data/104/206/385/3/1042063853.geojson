@@ -1,0 +1,77 @@
+{
+  "id": 1042063853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3868942261,50.8458404541,4.3868942261,50.8458404541",
+    "geom:latitude":50.84584,
+    "geom:longitude":4.386894,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Le Corr\u00e8ge 32",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 62 23",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eCguGlUsJffL3l6ogPpkG_50.845840_4.386894@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494824,
+    "wof:geomhash":"6a606a5bd857c12c39beb84c098d3772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042063853
+        }
+    ],
+    "wof:id":1042063853,
+    "wof:lastmodified":1473494824,
+    "wof:name":"Heine N",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    4.3868942261,
+    50.8458404541,
+    4.3868942261,
+    50.8458404541
+],
+  "geometry": {"coordinates":[4.3868942261,50.8458404541],"type":"Point"}
+}

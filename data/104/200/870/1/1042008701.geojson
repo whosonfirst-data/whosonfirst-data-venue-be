@@ -1,0 +1,77 @@
+{
+  "id": 1042008701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7043159008,51.0510978699,3.7043159008,51.0510978699",
+    "geom:latitude":51.051098,
+    "geom:longitude":3.704316,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krijgsgasthuisstraat 6",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 85 04",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zwn8ho2H5drhTQ9mlNgh2_51.051098_3.704316@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492642,
+    "wof:geomhash":"8d38aaf2ad126c5ecbeb9de30f48af20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1042008701
+        }
+    ],
+    "wof:id":1042008701,
+    "wof:lastmodified":1473492642,
+    "wof:name":"Caf\u00c9 Dikke Boom",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7043159008,
+    51.0510978699,
+    3.7043159008,
+    51.0510978699
+],
+  "geometry": {"coordinates":[3.7043159008,51.0510978699],"type":"Point"}
+}

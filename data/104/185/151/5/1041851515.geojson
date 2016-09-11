@@ -1,0 +1,83 @@
+{
+  "id": 1041851515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2858099937,50.8398895264,4.2858099937,50.8398895264",
+    "geom:latitude":50.83989,
+    "geom:longitude":4.28581,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Adolphe Willemyns 362",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 64 11",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_283MWoUATu7Kr3w5l35Kmd_50.839890_4.285810@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485869,
+    "wof:geomhash":"0863d07f78cd5815b61457d45f0bfb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041851515
+        }
+    ],
+    "wof:id":1041851515,
+    "wof:lastmodified":1473485869,
+    "wof:name":"Super Wash And Services Sa",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.2858099937,
+    50.8398895264,
+    4.2858099937,
+    50.8398895264
+],
+  "geometry": {"coordinates":[4.2858099937,50.8398895264],"type":"Point"}
+}

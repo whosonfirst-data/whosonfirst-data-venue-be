@@ -1,0 +1,77 @@
+{
+  "id": 1041669349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7057759762,51.0528717041,3.7057759762,51.0528717041",
+    "geom:latitude":51.052872,
+    "geom:longitude":3.705776,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korenmarkt 37",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 68 74",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xwIjxGSZ7UenuGwNSQjOx_51.052872_3.705776@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478128,
+    "wof:geomhash":"f72ff79010539da9d3c1683df799bb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041669349
+        }
+    ],
+    "wof:id":1041669349,
+    "wof:lastmodified":1473478128,
+    "wof:name":"Monopol",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    3.7057759762,
+    51.0528717041,
+    3.7057759762,
+    51.0528717041
+],
+  "geometry": {"coordinates":[3.7057759762,51.0528717041],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058112303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3857188225,50.8664169312,4.3857188225,50.8664169312",
+    "geom:latitude":50.866417,
+    "geom:longitude":4.385719,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Lambermont 314",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 36 50",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lens",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FJlfKY7eD0qG0qxQCBtAv_50.866417_4.385719@1306268447"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510101,
+    "wof:geomhash":"15e90911c28fde4cf6c60e914b8fe45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058112303
+        }
+    ],
+    "wof:id":1058112303,
+    "wof:lastmodified":1473510101,
+    "wof:name":"Williame Optics S.a.",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lens",
+        "glass"
+    ]
+},
+  "bbox": [
+    4.3857188225,
+    50.8664169312,
+    4.3857188225,
+    50.8664169312
+],
+  "geometry": {"coordinates":[4.3857188225,50.8664169312],"type":"Point"}
+}

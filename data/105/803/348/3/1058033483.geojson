@@ -1,0 +1,79 @@
+{
+  "id": 1058033483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2812972069,50.8357009888,4.2812972069,50.8357009888",
+    "geom:latitude":50.835701,
+    "geom:longitude":4.281297,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ferdinand Crapsstraat 2",
+    "sg:city":"Anderlecht/anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 74 68",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GCnKJoTSnYdAri03mhoAP_50.835701_4.281297@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506831,
+    "wof:geomhash":"e4aab07e87b907f33a793ec8ff1c5a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1058033483
+        }
+    ],
+    "wof:id":1058033483,
+    "wof:lastmodified":1473506831,
+    "wof:name":"Restaurant Le Craps",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2812972069,
+    50.8357009888,
+    4.2812972069,
+    50.8357009888
+],
+  "geometry": {"coordinates":[4.2812972069,50.8357009888],"type":"Point"}
+}

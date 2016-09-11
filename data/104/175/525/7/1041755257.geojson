@@ -1,0 +1,79 @@
+{
+  "id": 1041755257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2325680256,51.1927833557,3.2325680256,51.1927833557",
+    "geom:latitude":51.192783,
+    "geom:longitude":3.232568,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baron Ruzettelaan 193",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 39 25",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "antiquarian",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LLjx66uLyeLJQRP6rWjF0_51.192783_3.232568@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481639,
+    "wof:geomhash":"d6c59030b6e6a4da05144230c9867e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1041755257
+        }
+    ],
+    "wof:id":1041755257,
+    "wof:lastmodified":1473481639,
+    "wof:name":"Cursief",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antiquarian",
+        "trade"
+    ]
+},
+  "bbox": [
+    3.2325680256,
+    51.1927833557,
+    3.2325680256,
+    51.1927833557
+],
+  "geometry": {"coordinates":[3.2325680256,51.1927833557],"type":"Point"}
+}

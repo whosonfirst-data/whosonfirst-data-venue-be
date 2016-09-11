@@ -1,0 +1,77 @@
+{
+  "id": 1042196379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3637990952,50.8307685852,4.3637990952,50.8307685852",
+    "geom:latitude":50.830769,
+    "geom:longitude":4.363799,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Mercelis 52",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 63 51",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQE25WlpCLzpq8P4usHiq_50.830769_4.363799@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501687,
+    "wof:geomhash":"a852d2cf880806e54c22da85d73be1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042196379
+        }
+    ],
+    "wof:id":1042196379,
+    "wof:lastmodified":1473501687,
+    "wof:name":"Iesa Asbl",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    4.3637990952,
+    50.8307685852,
+    4.3637990952,
+    50.8307685852
+],
+  "geometry": {"coordinates":[4.3637990952,50.8307685852],"type":"Point"}
+}

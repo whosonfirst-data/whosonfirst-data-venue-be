@@ -1,0 +1,66 @@
+{
+  "id": 1058666203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6598081589,50.8629951477,4.6598081589,50.8629951477",
+    "geom:latitude":50.862995,
+    "geom:longitude":4.659808,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-jansbergsesteenweg 171",
+    "sg:city":"Heverlee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 29 69 79",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BzeGS4ji4X8YJwPNz6ZGj_50.862995_4.659808@1306268550"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535679,
+    "wof:geomhash":"561faddd5b15aad2f64142def9103954",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058666203
+        }
+    ],
+    "wof:id":1058666203,
+    "wof:lastmodified":1473535679,
+    "wof:name":"Couvert Couvert",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6598081589,
+    50.8629951477,
+    4.6598081589,
+    50.8629951477
+],
+  "geometry": {"coordinates":[4.6598081589,50.8629951477],"type":"Point"}
+}

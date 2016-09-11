@@ -1,0 +1,71 @@
+{
+  "id": 1041748699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.111700058,50.6618309021,6.111700058,50.6618309021",
+    "geom:latitude":50.661831,
+    "geom:longitude":6.1117,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waldstrasse 91",
+    "sg:city":"Raeren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 85 92 11",
+    "sg:postcode":"4730",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "aluminium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85795135,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Z6VhgTzuyR6JFqSOpPMm_50.661831_6.111700@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481311,
+    "wof:geomhash":"3570835291daa0df77a1776df2f6ab55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85795135,
+            "region_id":85681691,
+            "venue_id":1041748699
+        }
+    ],
+    "wof:id":1041748699,
+    "wof:lastmodified":1473481311,
+    "wof:name":"Hydro Aluminium Raeren",
+    "wof:parent_id":85795135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium"
+    ]
+},
+  "bbox": [
+    6.111700058,
+    50.6618309021,
+    6.111700058,
+    50.6618309021
+],
+  "geometry": {"coordinates":[6.111700058,50.6618309021],"type":"Point"}
+}

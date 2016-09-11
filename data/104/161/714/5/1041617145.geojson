@@ -1,0 +1,77 @@
+{
+  "id": 1041617145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5900659561,50.6197090149,5.5900659561,50.6197090149",
+    "geom:latitude":50.619709,
+    "geom:longitude":5.590066,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Des Ardennes 50",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 85 13",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pJtucVz7G2ZdFFIHQmSdK_50.619709_5.590066@1306268478"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475992,
+    "wof:geomhash":"7de74fee12b1af2d5a12287d6d1d3057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1041617145
+        }
+    ],
+    "wof:id":1041617145,
+    "wof:lastmodified":1473475992,
+    "wof:name":"Dejardin C",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    5.5900659561,
+    50.6197090149,
+    5.5900659561,
+    50.6197090149
+],
+  "geometry": {"coordinates":[5.5900659561,50.6197090149],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042109463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.324244976,50.8753814697,4.324244976,50.8753814697",
+    "geom:latitude":50.875381,
+    "geom:longitude":4.324245,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Flamands 13",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 32 60 52",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VDkZHXWx0nIRgvROLolUK_50.875381_4.324245@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496826,
+    "wof:geomhash":"96149d8afbc290ad7f3604f48bc32770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1042109463
+        }
+    ],
+    "wof:id":1042109463,
+    "wof:lastmodified":1473496826,
+    "wof:name":"Petit Bolchoi (le)",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.324244976,
+    50.8753814697,
+    4.324244976,
+    50.8753814697
+],
+  "geometry": {"coordinates":[4.324244976,50.8753814697],"type":"Point"}
+}

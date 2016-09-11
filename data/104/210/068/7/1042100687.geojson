@@ -1,0 +1,77 @@
+{
+  "id": 1042100687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7492721081,51.0620498657,3.7492721081,51.0620498657",
+    "geom:latitude":51.06205,
+    "geom:longitude":3.749272,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpsesteenweg 239",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 83 82",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "curtain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2czrL7fvDCth5ourOIZG24_51.062050_3.749272@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496422,
+    "wof:geomhash":"85dffeb54817ca37aed5c8ed3730cf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1042100687
+        }
+    ],
+    "wof:id":1042100687,
+    "wof:lastmodified":1473496422,
+    "wof:name":"Clean Express",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain"
+    ]
+},
+  "bbox": [
+    3.7492721081,
+    51.0620498657,
+    3.7492721081,
+    51.0620498657
+],
+  "geometry": {"coordinates":[3.7492721081,51.0620498657],"type":"Point"}
+}

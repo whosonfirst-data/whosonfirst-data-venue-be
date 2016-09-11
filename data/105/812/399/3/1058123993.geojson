@@ -1,0 +1,77 @@
+{
+  "id": 1058123993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6928300858,51.0692062378,3.6928300858,51.0692062378",
+    "geom:latitude":51.069206,
+    "geom:longitude":3.69283,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kempstraat 164",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 21 01",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "groenten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ycamIqaSYSQvJ6iExPdII_51.069206_3.692830@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510717,
+    "wof:geomhash":"b812cb0eb6a737d830b9d341628f9c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058123993
+        }
+    ],
+    "wof:id":1058123993,
+    "wof:lastmodified":1473510717,
+    "wof:name":"A. Pauwels",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "groenten"
+    ]
+},
+  "bbox": [
+    3.6928300858,
+    51.0692062378,
+    3.6928300858,
+    51.0692062378
+],
+  "geometry": {"coordinates":[3.6928300858,51.0692062378],"type":"Point"}
+}

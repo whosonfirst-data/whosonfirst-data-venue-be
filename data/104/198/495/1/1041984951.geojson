@@ -1,0 +1,77 @@
+{
+  "id": 1041984951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4110999107,50.8478050232,4.4110999107,50.8478050232",
+    "geom:latitude":50.847805,
+    "geom:longitude":4.4111,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Mars 15",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 89 17",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eE4xhOLmrVy3WotL4XDJ8_50.847805_4.411100@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491712,
+    "wof:geomhash":"11ffa871607eb12a10b0b3e9102673cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041984951
+        }
+    ],
+    "wof:id":1041984951,
+    "wof:lastmodified":1473491712,
+    "wof:name":"Nanou",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.4110999107,
+    50.8478050232,
+    4.4110999107,
+    50.8478050232
+],
+  "geometry": {"coordinates":[4.4110999107,50.8478050232],"type":"Point"}
+}

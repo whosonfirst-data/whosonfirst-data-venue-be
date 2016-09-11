@@ -1,0 +1,79 @@
+{
+  "id": 1058062273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3979139328,50.8281898499,4.3979139328,50.8281898499",
+    "geom:latitude":50.82819,
+    "geom:longitude":4.397914,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Baron De Castro 55",
+    "sg:city":"Etterbeek",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 51 91",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "enseignement",
+        "formation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L503kEREABu34sJRbFdNS_50.828190_4.397914@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508020,
+    "wof:geomhash":"44ad6afd921bd6da5df44e497eabff89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058062273
+        }
+    ],
+    "wof:id":1058062273,
+    "wof:lastmodified":1473508020,
+    "wof:name":"Vid\u00c9o-fac Eur. Train. Gr.",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enseignement",
+        "formation"
+    ]
+},
+  "bbox": [
+    4.3979139328,
+    50.8281898499,
+    4.3979139328,
+    50.8281898499
+],
+  "geometry": {"coordinates":[4.3979139328,50.8281898499],"type":"Point"}
+}

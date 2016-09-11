@@ -1,0 +1,75 @@
+{
+  "id": 1058221321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5215110779,50.6749153137,5.5215110779,50.6749153137",
+    "geom:latitude":50.674915,
+    "geom:longitude":5.521511,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'abbaye 22",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 14 59",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XBv12vZQUOhdG6V1o2uTZ_50.674915_5.521511@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515146,
+    "wof:geomhash":"e6eb3b3e01e827fe85a1252f1b324916",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1058221321
+        }
+    ],
+    "wof:id":1058221321,
+    "wof:lastmodified":1473515146,
+    "wof:name":"Aps International Sc",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5215110779,
+    50.6749153137,
+    5.5215110779,
+    50.6749153137
+],
+  "geometry": {"coordinates":[5.5215110779,50.6749153137],"type":"Point"}
+}

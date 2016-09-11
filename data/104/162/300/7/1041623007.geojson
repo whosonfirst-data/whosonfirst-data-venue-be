@@ -1,0 +1,79 @@
+{
+  "id": 1041623007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7062458992,51.0249176025,3.7062458992,51.0249176025",
+    "geom:latitude":51.024918,
+    "geom:longitude":3.706246,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leo Baekelandstraat 4",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 29 73",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rqmlY0L1nWbSmgDhziTKY_51.024918_3.706246@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476227,
+    "wof:geomhash":"88038b8e69a9eaf84d6a7b230c89813d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041623007
+        }
+    ],
+    "wof:id":1041623007,
+    "wof:lastmodified":1473476227,
+    "wof:name":"De Muynck A",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    3.7062458992,
+    51.0249176025,
+    3.7062458992,
+    51.0249176025
+],
+  "geometry": {"coordinates":[3.7062458992,51.0249176025],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1058996287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5137367,50.7193065,4.5137367,50.7193065",
+    "geom:latitude":50.719307,
+    "geom:longitude":4.513737,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue franklin Roosevelt, 106",
+    "sg:city":"Rixensart",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1330",
+    "sg:tags":[
+        "backup",
+        "big-file",
+        "ftp-server",
+        "online-communication",
+        "offline-communication",
+        "web-service",
+        "uploadmanager"
+    ],
+    "sg:website":"http://www.adjust.be",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UMlHHXt377trLP6h20Pfp_50.719307_4.513737@1308163239"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550366,
+    "wof:geomhash":"e57afc28602989f687e4e4a3e2179b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058996287
+        }
+    ],
+    "wof:id":1058996287,
+    "wof:lastmodified":1473550366,
+    "wof:name":"Adjust",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "backup",
+        "big-file",
+        "ftp-server",
+        "online-communication",
+        "offline-communication",
+        "web-service",
+        "uploadmanager"
+    ]
+},
+  "bbox": [
+    4.5137367,
+    50.7193065,
+    4.5137367,
+    50.7193065
+],
+  "geometry": {"coordinates":[4.5137367,50.7193065],"type":"Point"}
+}

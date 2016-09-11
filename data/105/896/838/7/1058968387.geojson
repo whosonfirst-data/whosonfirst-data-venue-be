@@ -1,0 +1,79 @@
+{
+  "id": 1058968387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7504019737,51.0555343628,3.7504019737,51.0555343628",
+    "geom:latitude":51.055534,
+    "geom:longitude":3.750402,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Engelstraat 49",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 93 11",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "cleaner",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NzbTtYNZYuxqpGE2hAJNh_51.055534_3.750402@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549139,
+    "wof:geomhash":"b679b182668a6e2864f449100f1a89ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058968387
+        }
+    ],
+    "wof:id":1058968387,
+    "wof:lastmodified":1473549139,
+    "wof:name":"Aton",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "window"
+    ]
+},
+  "bbox": [
+    3.7504019737,
+    51.0555343628,
+    3.7504019737,
+    51.0555343628
+],
+  "geometry": {"coordinates":[3.7504019737,51.0555343628],"type":"Point"}
+}

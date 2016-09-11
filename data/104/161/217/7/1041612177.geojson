@@ -1,0 +1,81 @@
+{
+  "id": 1041612177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.356554985,50.8209457397,4.356554985,50.8209457397",
+    "geom:latitude":50.820946,
+    "geom:longitude":4.356555,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fernand Neuray 14",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 48 44",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HaGpTAG7QImwUYrzgUo9k_50.820946_4.356555@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475787,
+    "wof:geomhash":"e66d4371d40ed1556d64254a63fe1960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041612177
+        }
+    ],
+    "wof:id":1041612177,
+    "wof:lastmodified":1473475787,
+    "wof:name":"Ezea 2001 Sa",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.356554985,
+    50.8209457397,
+    4.356554985,
+    50.8209457397
+],
+  "geometry": {"coordinates":[4.356554985,50.8209457397],"type":"Point"}
+}

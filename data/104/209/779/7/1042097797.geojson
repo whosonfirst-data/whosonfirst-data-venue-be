@@ -1,0 +1,77 @@
+{
+  "id": 1042097797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3939847946,50.8492355347,4.3939847946,50.8492355347",
+    "geom:latitude":50.849236,
+    "geom:longitude":4.393985,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Milcamps 75",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 43 12",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ya439WKILSLSw9e9Fz52k_50.849236_4.393985@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496291,
+    "wof:geomhash":"1177b11807db40d082d589229bec982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042097797
+        }
+    ],
+    "wof:id":1042097797,
+    "wof:lastmodified":1473496291,
+    "wof:name":"Association Pour La Formation Et La Culture Asbl",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cultural"
+    ]
+},
+  "bbox": [
+    4.3939847946,
+    50.8492355347,
+    4.3939847946,
+    50.8492355347
+],
+  "geometry": {"coordinates":[4.3939847946,50.8492355347],"type":"Point"}
+}

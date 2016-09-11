@@ -1,0 +1,77 @@
+{
+  "id": 1058094317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3330230713,50.8680534363,4.3330230713,50.8680534363",
+    "geom:latitude":50.868053,
+    "geom:longitude":4.333023,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Carton De Wiart 27",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 427 71 40",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bks2krV0xVbUdvJM4BEIK_50.868053_4.333023@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509331,
+    "wof:geomhash":"8f55fde28531261677f7b3d5d476182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058094317
+        }
+    ],
+    "wof:id":1058094317,
+    "wof:lastmodified":1473509331,
+    "wof:name":"Porsche Gaban",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3330230713,
+    50.8680534363,
+    4.3330230713,
+    50.8680534363
+],
+  "geometry": {"coordinates":[4.3330230713,50.8680534363],"type":"Point"}
+}

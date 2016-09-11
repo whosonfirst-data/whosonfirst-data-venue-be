@@ -1,0 +1,81 @@
+{
+  "id": 1042169825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2284090519,51.2007102966,3.2284090519,51.2007102966",
+    "geom:latitude":51.20071,
+    "geom:longitude":3.228409,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Katelijnestrat 123",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 19 03",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "fab",
+        "diverse",
+        "textielproducten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eWXNJw4ufvi6V7M5HYoUq_51.200710_3.228409@1306268408"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500097,
+    "wof:geomhash":"12f7706f6bcf46446c9e8f1db62500d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042169825
+        }
+    ],
+    "wof:id":1042169825,
+    "wof:lastmodified":1473500097,
+    "wof:name":"Passe-partout",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fab",
+        "diverse",
+        "textielproducten"
+    ]
+},
+  "bbox": [
+    3.2284090519,
+    51.2007102966,
+    3.2284090519,
+    51.2007102966
+],
+  "geometry": {"coordinates":[3.2284090519,51.2007102966],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058618821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3595170975,50.8361473083,4.3595170975,50.8361473083",
+    "geom:latitude":50.836147,
+    "geom:longitude":4.359517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Chevaliers 29",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 49 38",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EtTzPC9sJy80Xf1SakVeW_50.836147_4.359517@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533524,
+    "wof:geomhash":"0c248c183f55ec02137199b76e46d12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058618821
+        }
+    ],
+    "wof:id":1058618821,
+    "wof:lastmodified":1473533524,
+    "wof:name":"Delegation Permanente De L'eglise Orthodoxe",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3595170975,
+    50.8361473083,
+    4.3595170975,
+    50.8361473083
+],
+  "geometry": {"coordinates":[4.3595170975,50.8361473083],"type":"Point"}
+}

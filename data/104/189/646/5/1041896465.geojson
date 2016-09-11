@@ -1,0 +1,82 @@
+{
+  "id": 1041896465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3605971336,50.8469657898,4.3605971336,50.8469657898",
+    "geom:latitude":50.846966,
+    "geom:longitude":4.360597,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"56",
+    "sg:city":"Rue Des Colonies 1000 Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 227 65 20",
+    "sg:postcode":"56",
+    "sg:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6leWxrvN9aOd1qOvglSovt_50.846966_4.360597@1306268357"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487762,
+    "wof:geomhash":"c9348a7cbbf4149b2c6f752745cf3675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041896465
+        }
+    ],
+    "wof:id":1041896465,
+    "wof:lastmodified":1473487762,
+    "wof:name":"Nasdaq Europe",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ]
+},
+  "bbox": [
+    4.3605971336,
+    50.8469657898,
+    4.3605971336,
+    50.8469657898
+],
+  "geometry": {"coordinates":[4.3605971336,50.8469657898],"type":"Point"}
+}

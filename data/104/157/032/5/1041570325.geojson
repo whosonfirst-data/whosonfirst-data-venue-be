@@ -1,0 +1,81 @@
+{
+  "id": 1041570325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2149829865,51.2053031921,3.2149829865,51.2053031921",
+    "geom:latitude":51.205303,
+    "geom:longitude":3.214983,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Smedenstraat 31",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 26 51",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r9XFREwWlnzK6twefd87f_51.205303_3.214983@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474058,
+    "wof:geomhash":"b0ed848f5f07eb65f11442b09258bdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1041570325
+        }
+    ],
+    "wof:id":1041570325,
+    "wof:lastmodified":1473474058,
+    "wof:name":"Hera",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2149829865,
+    51.2053031921,
+    3.2149829865,
+    51.2053031921
+],
+  "geometry": {"coordinates":[3.2149829865,51.2053031921],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041689605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3543391228,50.8313217163,4.3543391228,50.8313217163",
+    "geom:latitude":50.831322,
+    "geom:longitude":4.354339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Capouillet 57",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 52 58",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FADpN7tYVKYfTAwWgmTeF_50.831322_4.354339@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478884,
+    "wof:geomhash":"5bc102561058f1a5dfd73bd5e4d3d3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041689605
+        }
+    ],
+    "wof:id":1041689605,
+    "wof:lastmodified":1473478884,
+    "wof:name":"Van Schingen H",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.3543391228,
+    50.8313217163,
+    4.3543391228,
+    50.8313217163
+],
+  "geometry": {"coordinates":[4.3543391228,50.8313217163],"type":"Point"}
+}

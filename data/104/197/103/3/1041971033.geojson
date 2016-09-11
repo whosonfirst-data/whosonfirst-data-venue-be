@@ -1,0 +1,77 @@
+{
+  "id": 1041971033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.295841217,50.8287811279,4.295841217,50.8287811279",
+    "geom:latitude":50.828781,
+    "geom:longitude":4.295841,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Louis Van Beethoven 84",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 72 04",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bP4DDyCBrR6QORzlKehdv_50.828781_4.295841@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490936,
+    "wof:geomhash":"1407c61eeac8077434fc71bfc54f74e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1041971033
+        }
+    ],
+    "wof:id":1041971033,
+    "wof:lastmodified":1473490936,
+    "wof:name":"Beethoven",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.295841217,
+    50.8287811279,
+    4.295841217,
+    50.8287811279
+],
+  "geometry": {"coordinates":[4.295841217,50.8287811279],"type":"Point"}
+}

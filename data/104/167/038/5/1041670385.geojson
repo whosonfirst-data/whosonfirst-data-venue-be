@@ -1,0 +1,83 @@
+{
+  "id": 1041670385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3300180435,50.8066062927,4.3300180435,50.8066062927",
+    "geom:latitude":50.806606,
+    "geom:longitude":4.330018,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Sept Bonniers 319",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 34 18",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HTo7VXCYcwBtqrqk5XJIx_50.806606_4.330018@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478166,
+    "wof:geomhash":"7cf7089980632c11cc7871e9e0347f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041670385
+        }
+    ],
+    "wof:id":1041670385,
+    "wof:lastmodified":1473478166,
+    "wof:name":"Abel F",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "-",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3300180435,
+    50.8066062927,
+    4.3300180435,
+    50.8066062927
+],
+  "geometry": {"coordinates":[4.3300180435,50.8066062927],"type":"Point"}
+}

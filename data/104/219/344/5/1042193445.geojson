@@ -1,0 +1,81 @@
+{
+  "id": 1042193445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3429450989,50.8321609497,4.3429450989,50.8321609497",
+    "geom:latitude":50.832161,
+    "geom:longitude":4.342945,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Volders 19",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 14 04",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "development",
+        "economic",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r7PGz6G0srFKWnj9TFZUZ_50.832161_4.342945@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501554,
+    "wof:geomhash":"9b14c18d1419b4a9e0a25b246b741edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042193445
+        }
+    ],
+    "wof:id":1042193445,
+    "wof:lastmodified":1473501554,
+    "wof:name":"Noyau Commercial Du Centre De Saint-gilles",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "economic",
+        "institution"
+    ]
+},
+  "bbox": [
+    4.3429450989,
+    50.8321609497,
+    4.3429450989,
+    50.8321609497
+],
+  "geometry": {"coordinates":[4.3429450989,50.8321609497],"type":"Point"}
+}

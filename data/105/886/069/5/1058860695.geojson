@@ -1,0 +1,77 @@
+{
+  "id": 1058860695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3207960129,50.8788032532,4.3207960129,50.8788032532",
+    "geom:latitude":50.878803,
+    "geom:longitude":4.320796,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Huybreghts 11 Box 7",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 42 14",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zCNRrOqPBYuV2gr7tHsIo_50.878803_4.320796@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544187,
+    "wof:geomhash":"d78a49b82d4ae9ef0db965c0384353f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058860695
+        }
+    ],
+    "wof:id":1058860695,
+    "wof:lastmodified":1473544187,
+    "wof:name":"Milad Sprl",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    4.3207960129,
+    50.8788032532,
+    4.3207960129,
+    50.8788032532
+],
+  "geometry": {"coordinates":[4.3207960129,50.8788032532],"type":"Point"}
+}

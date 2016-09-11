@@ -1,0 +1,83 @@
+{
+  "id": 1058133759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3716168404,50.8354644775,4.3716168404,50.8354644775",
+    "geom:latitude":50.835464,
+    "geom:longitude":4.371617,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Tr\u00f4ne 149",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 28 02",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pZOBDeZnUVGR0t6GUZm9H_50.835464_4.371617@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511183,
+    "wof:geomhash":"612e970b5c867f9f86e5b931d0f22608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058133759
+        }
+    ],
+    "wof:id":1058133759,
+    "wof:lastmodified":1473511183,
+    "wof:name":"European Coiffure",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3716168404,
+    50.8354644775,
+    4.3716168404,
+    50.8354644775
+],
+  "geometry": {"coordinates":[4.3716168404,50.8354644775],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058222675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3263921738,50.8558578491,4.3263921738,50.8558578491",
+    "geom:latitude":50.855858,
+    "geom:longitude":4.326392,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Alphonse Vandenpeereboom 16",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 415 92 45",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rX1lw7pMdVPT526S2e2LL_50.855858_4.326392@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515202,
+    "wof:geomhash":"efb9d998de542d043d68aad37c5aa549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058222675
+        }
+    ],
+    "wof:id":1058222675,
+    "wof:lastmodified":1473515202,
+    "wof:name":"West Import Export Sprl",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3263921738,
+    50.8558578491,
+    4.3263921738,
+    50.8558578491
+],
+  "geometry": {"coordinates":[4.3263921738,50.8558578491],"type":"Point"}
+}

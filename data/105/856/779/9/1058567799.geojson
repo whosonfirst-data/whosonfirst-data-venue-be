@@ -1,0 +1,77 @@
+{
+  "id": 1058567799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.384747982,50.8547058105,4.384747982,50.8547058105",
+    "geom:latitude":50.854706,
+    "geom:longitude":4.384748,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Dailly 171",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 21 10",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V6nu1kFvvnDEy0ZSW9EiG_50.854706_4.384748@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531206,
+    "wof:geomhash":"19522bf7cb96e85698b1f12f7e5127ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058567799
+        }
+    ],
+    "wof:id":1058567799,
+    "wof:lastmodified":1473531206,
+    "wof:name":"Simon",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.384747982,
+    50.8547058105,
+    4.384747982,
+    50.8547058105
+],
+  "geometry": {"coordinates":[4.384747982,50.8547058105],"type":"Point"}
+}

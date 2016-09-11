@@ -1,0 +1,79 @@
+{
+  "id": 1058661643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2232069969,51.20079422,3.2232069969,51.20079422",
+    "geom:latitude":51.200794,
+    "geom:longitude":3.223207,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Professor Dokter J. Sebrechtsstraat 1",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 44 96 11",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UfmRDwmkq62bDna7GM19Y_51.200794_3.223207@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535489,
+    "wof:geomhash":"d4edbaeb1066d952f702cbf5e2b8719f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058661643
+        }
+    ],
+    "wof:id":1058661643,
+    "wof:lastmodified":1473535489,
+    "wof:name":"Huize Minnewater",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    3.2232069969,
+    51.20079422,
+    3.2232069969,
+    51.20079422
+],
+  "geometry": {"coordinates":[3.2232069969,51.20079422],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058889603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3019528389,50.8987808228,4.3019528389,50.8987808228",
+    "geom:latitude":50.898781,
+    "geom:longitude":4.301953,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Capitain R. Wouters 31",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 15 99",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31JxeMI6JWnmL7Mp7ZwaX2_50.898781_4.301953@1306268590"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545462,
+    "wof:geomhash":"e5d9533fc01fbdbb9b14e7e1cf942e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1058889603
+        }
+    ],
+    "wof:id":1058889603,
+    "wof:lastmodified":1473545462,
+    "wof:name":"Transman International Sprl",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    4.3019528389,
+    50.8987808228,
+    4.3019528389,
+    50.8987808228
+],
+  "geometry": {"coordinates":[4.3019528389,50.8987808228],"type":"Point"}
+}

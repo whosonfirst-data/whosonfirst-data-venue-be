@@ -1,0 +1,83 @@
+{
+  "id": 1058043493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.325884819,50.8738441467,4.325884819,50.8738441467",
+    "geom:latitude":50.873844,
+    "geom:longitude":4.325885,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9on Theodor 20",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 70 19",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "fish",
+        "-",
+        "shellfish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zn5Ispkck8Ij1Pa2YEBS8_50.873844_4.325885@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507256,
+    "wof:geomhash":"a5049901148288efb4c91e0ed65e0553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058043493
+        }
+    ],
+    "wof:id":1058043493,
+    "wof:lastmodified":1473507256,
+    "wof:name":"Northsea",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "fish",
+        "-",
+        "shellfish"
+    ]
+},
+  "bbox": [
+    4.325884819,
+    50.8738441467,
+    4.325884819,
+    50.8738441467
+],
+  "geometry": {"coordinates":[4.325884819,50.8738441467],"type":"Point"}
+}

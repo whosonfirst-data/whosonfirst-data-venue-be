@@ -1,0 +1,77 @@
+{
+  "id": 1041983545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2863330841,50.8379974365,4.2863330841,50.8379974365",
+    "geom:latitude":50.837997,
+    "geom:longitude":4.286333,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Sylvain Dupuis 411",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 74 11",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vUKj1o81wkOvFMLI7ZUZb_50.837997_4.286333@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491649,
+    "wof:geomhash":"e1cc255228eaf7d53bd51638dc265bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041983545
+        }
+    ],
+    "wof:id":1041983545,
+    "wof:lastmodified":1473491649,
+    "wof:name":"Dunes",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.2863330841,
+    50.8379974365,
+    4.2863330841,
+    50.8379974365
+],
+  "geometry": {"coordinates":[4.2863330841,50.8379974365],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041630787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4924111366,50.8400688171,4.4924111366,50.8400688171",
+    "geom:latitude":50.840069,
+    "geom:longitude":4.492411,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Raymond Hernalsteenstr. 111",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 68 60",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801999,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Jnb7qTk5EUJMfBIWtba7_50.840069_4.492411@1306268504"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476549,
+    "wof:geomhash":"33a85eeaa7896b0bc62bf1a8a47ad03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801999,
+            "region_id":85681731,
+            "venue_id":1041630787
+        }
+    ],
+    "wof:id":1041630787,
+    "wof:lastmodified":1473476549,
+    "wof:name":"Ijzerwaren Desmet Nv",
+    "wof:parent_id":85801999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    4.4924111366,
+    50.8400688171,
+    4.4924111366,
+    50.8400688171
+],
+  "geometry": {"coordinates":[4.4924111366,50.8400688171],"type":"Point"}
+}

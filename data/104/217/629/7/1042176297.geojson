@@ -1,0 +1,81 @@
+{
+  "id": 1042176297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3681812286,50.8925666809,4.3681812286,50.8925666809",
+    "geom:latitude":50.892567,
+    "geom:longitude":4.368181,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Pois De Senteur 20",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 262 02 02",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mDj2KPircPbQwYQ0PZSV0_50.892567_4.368181@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500503,
+    "wof:geomhash":"a0b0455564f8cf741b5cf4cba34a931e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042176297
+        }
+    ],
+    "wof:id":1042176297,
+    "wof:lastmodified":1473500503,
+    "wof:name":"Sanipro Sprl",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "drain",
+        "unblocking"
+    ]
+},
+  "bbox": [
+    4.3681812286,
+    50.8925666809,
+    4.3681812286,
+    50.8925666809
+],
+  "geometry": {"coordinates":[4.3681812286,50.8925666809],"type":"Point"}
+}

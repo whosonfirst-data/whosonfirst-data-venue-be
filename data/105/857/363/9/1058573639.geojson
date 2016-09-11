@@ -1,0 +1,77 @@
+{
+  "id": 1058573639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4022598267,50.8346061707,4.4022598267,50.8346061707",
+    "geom:latitude":50.834606,
+    "geom:longitude":4.40226,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue P\u00e8re De Deken 60",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 30 91",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nue85xeoFuE8d0l0miZcO_50.834606_4.402260@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531462,
+    "wof:geomhash":"010f5622e614bfa519c03c5476b35244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058573639
+        }
+    ],
+    "wof:id":1058573639,
+    "wof:lastmodified":1473531462,
+    "wof:name":"Waeles Philippe",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4022598267,
+    50.8346061707,
+    4.4022598267,
+    50.8346061707
+],
+  "geometry": {"coordinates":[4.4022598267,50.8346061707],"type":"Point"}
+}

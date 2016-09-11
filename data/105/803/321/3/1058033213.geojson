@@ -1,0 +1,79 @@
+{
+  "id": 1058033213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5122008324,50.8228225708,4.5122008324,50.8228225708",
+    "geom:latitude":50.822823,
+    "geom:longitude":4.512201,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peperstraat 2",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 64 01",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801307,
+        102191581,
+        85632997,
+        404227357,
+        101754329,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31PLljVnc8bJjR4u1QpBvC_50.822823_4.512201@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506821,
+    "wof:geomhash":"8572d47ecd21e8988737a185702a7e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754329,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801307,
+            "region_id":85681731,
+            "venue_id":1058033213
+        }
+    ],
+    "wof:id":1058033213,
+    "wof:lastmodified":1473506821,
+    "wof:name":"Restaurant Carretino",
+    "wof:parent_id":85801307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.5122008324,
+    50.8228225708,
+    4.5122008324,
+    50.8228225708
+],
+  "geometry": {"coordinates":[4.5122008324,50.8228225708],"type":"Point"}
+}

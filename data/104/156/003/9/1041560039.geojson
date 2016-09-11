@@ -1,0 +1,77 @@
+{
+  "id": 1041560039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3853549957,50.8208808899,4.3853549957,50.8208808899",
+    "geom:latitude":50.820881,
+    "geom:longitude":4.385355,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00e9n\u00e9ral Jacques 184",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 59 70",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XrqeuVaOwF2facObhGEWo_50.820881_4.385355@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473623,
+    "wof:geomhash":"4035781b6e1709ff67a6954bf3c8aed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041560039
+        }
+    ],
+    "wof:id":1041560039,
+    "wof:lastmodified":1473473623,
+    "wof:name":"Prodim M\u00e9decine Sciences",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3853549957,
+    50.8208808899,
+    4.3853549957,
+    50.8208808899
+],
+  "geometry": {"coordinates":[4.3853549957,50.8208808899],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041593205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5704240799,50.6427459717,5.5704240799,50.6427459717",
+    "geom:latitude":50.642746,
+    "geom:longitude":5.570424,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Georges-cl\u00e9menceau 19",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 16 78",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68dThS9HjBe0EiXHpZAbOt_50.642746_5.570424@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475014,
+    "wof:geomhash":"4b7a4e3e839458680665ebfa64b69054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041593205
+        }
+    ],
+    "wof:id":1041593205,
+    "wof:lastmodified":1473475014,
+    "wof:name":"Lemlyn Sprl",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    5.5704240799,
+    50.6427459717,
+    5.5704240799,
+    50.6427459717
+],
+  "geometry": {"coordinates":[5.5704240799,50.6427459717],"type":"Point"}
+}

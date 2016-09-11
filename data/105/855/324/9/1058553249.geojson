@@ -1,0 +1,71 @@
+{
+  "id": 1058553249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2412889004,51.2223014832,3.2412889004,51.2223014832",
+    "geom:latitude":51.222301,
+    "geom:longitude":3.241289,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karel Van Manderstraat 180",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 37 48",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_628ROJ05q1IKfoo8nGVrpQ_51.222301_3.241289@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530513,
+    "wof:geomhash":"a2ed2071bba091109146e73fa31b28df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058553249
+        }
+    ],
+    "wof:id":1058553249,
+    "wof:lastmodified":1473530513,
+    "wof:name":"De Vlieger G",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.2412889004,
+    51.2223014832,
+    3.2412889004,
+    51.2223014832
+],
+  "geometry": {"coordinates":[3.2412889004,51.2223014832],"type":"Point"}
+}

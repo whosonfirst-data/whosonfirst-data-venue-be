@@ -1,0 +1,79 @@
+{
+  "id": 1058178319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2298660278,51.2471199036,3.2298660278,51.2471199036",
+    "geom:latitude":51.24712,
+    "geom:longitude":3.229866,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sikkelstraat 19",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 67 86 41",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c2Y2D6ydPsaQEzl6sR8ML_51.247120_3.229866@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513260,
+    "wof:geomhash":"5f375dbea75012b1e3c53a8974953927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058178319
+        }
+    ],
+    "wof:id":1058178319,
+    "wof:lastmodified":1473513260,
+    "wof:name":"Bouckaert Geert",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    3.2298660278,
+    51.2471199036,
+    3.2298660278,
+    51.2471199036
+],
+  "geometry": {"coordinates":[3.2298660278,51.2471199036],"type":"Point"}
+}

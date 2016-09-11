@@ -1,0 +1,79 @@
+{
+  "id": 1058699751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3300328255,50.837928772,4.3300328255,50.837928772",
+    "geom:latitude":50.837929,
+    "geom:longitude":4.330033,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue August Geveart 26-28",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 84 74",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "transport",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DTzqoUyDhlZlQBjVtAz2G_50.837929_4.330033@1306268556"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537103,
+    "wof:geomhash":"55fb08057e93096d8e0e6bf93b72c653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1058699751
+        }
+    ],
+    "wof:id":1058699751,
+    "wof:lastmodified":1473537103,
+    "wof:name":"Op De Beeck A Sprl",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transport",
+        "road"
+    ]
+},
+  "bbox": [
+    4.3300328255,
+    50.837928772,
+    4.3300328255,
+    50.837928772
+],
+  "geometry": {"coordinates":[4.3300328255,50.837928772],"type":"Point"}
+}

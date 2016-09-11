@@ -1,0 +1,79 @@
+{
+  "id": 1058936863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3970770836,50.8670845032,4.3970770836,50.8670845032",
+    "geom:latitude":50.867085,
+    "geom:longitude":4.397077,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D\u00e9sir\u00e9 Desmet 41",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 18 40",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "realisation",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WhhhdiLTBMrTrWnyAlN8p_50.867085_4.397077@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547613,
+    "wof:geomhash":"bb8266a59e84969ed8b50bc914384a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058936863
+        }
+    ],
+    "wof:id":1058936863,
+    "wof:lastmodified":1473547613,
+    "wof:name":"Backstage",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "realisation",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3970770836,
+    50.8670845032,
+    4.3970770836,
+    50.8670845032
+],
+  "geometry": {"coordinates":[4.3970770836,50.8670845032],"type":"Point"}
+}

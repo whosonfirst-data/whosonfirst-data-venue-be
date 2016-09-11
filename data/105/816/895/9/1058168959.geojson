@@ -1,0 +1,79 @@
+{
+  "id": 1058168959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3556652069,50.7552528381,4.3556652069,50.7552528381",
+    "geom:latitude":50.755253,
+    "geom:longitude":4.355665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Rousserolles 32",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 74 05",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75UzXg34XJyBiCrTu2Cacq_50.755253_4.355665@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512849,
+    "wof:geomhash":"a9a0278d0b04183d3bd335a82724de26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058168959
+        }
+    ],
+    "wof:id":1058168959,
+    "wof:lastmodified":1473512849,
+    "wof:name":"Itzkowitch D",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3556652069,
+    50.7552528381,
+    4.3556652069,
+    50.7552528381
+],
+  "geometry": {"coordinates":[4.3556652069,50.7552528381],"type":"Point"}
+}

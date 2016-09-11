@@ -1,0 +1,79 @@
+{
+  "id": 1058830507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3742399216,50.8900794983,4.3742399216,50.8900794983",
+    "geom:latitude":50.890079,
+    "geom:longitude":4.37424,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Pagodes 2",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 41 82",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R4SviAEZqe0e7M7d1cg5Y_50.890079_4.374240@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542878,
+    "wof:geomhash":"36c3d059c6c083e75ddb702159198c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058830507
+        }
+    ],
+    "wof:id":1058830507,
+    "wof:lastmodified":1473542878,
+    "wof:name":"Shell",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    4.3742399216,
+    50.8900794983,
+    4.3742399216,
+    50.8900794983
+],
+  "geometry": {"coordinates":[4.3742399216,50.8900794983],"type":"Point"}
+}

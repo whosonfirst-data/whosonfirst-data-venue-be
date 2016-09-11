@@ -1,0 +1,71 @@
+{
+  "id": 1041831121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2876560688,51.2521896362,3.2876560688,51.2521896362",
+    "geom:latitude":51.25219,
+    "geom:longitude":3.287656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rabattestraat 1",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 50 04 63",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TuciHOj2BaEPoktNh6ATi_51.252190_3.287656@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485000,
+    "wof:geomhash":"f10c5db7b69910a8607cf0f02533c080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1041831121
+        }
+    ],
+    "wof:id":1041831121,
+    "wof:lastmodified":1473485000,
+    "wof:name":"M. Decock",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    3.2876560688,
+    51.2521896362,
+    3.2876560688,
+    51.2521896362
+],
+  "geometry": {"coordinates":[3.2876560688,51.2521896362],"type":"Point"}
+}

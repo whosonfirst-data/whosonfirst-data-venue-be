@@ -1,0 +1,77 @@
+{
+  "id": 1041848783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3362569809,50.8075942993,4.3362569809,50.8075942993",
+    "geom:latitude":50.807594,
+    "geom:longitude":4.336257,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Joseph Bens 16-18",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 83 38",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tVOVsdMFXXWCJa3t1G75D_50.807594_4.336257@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485755,
+    "wof:geomhash":"54374a22b292ccbe286e607f4630f807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1041848783
+        }
+    ],
+    "wof:id":1041848783,
+    "wof:lastmodified":1473485755,
+    "wof:name":"Carrosserie Delange",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.3362569809,
+    50.8075942993,
+    4.3362569809,
+    50.8075942993
+],
+  "geometry": {"coordinates":[4.3362569809,50.8075942993],"type":"Point"}
+}

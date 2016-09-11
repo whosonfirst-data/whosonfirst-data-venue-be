@@ -1,0 +1,77 @@
+{
+  "id": 1058594313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7111439705,51.0311393738,3.7111439705,51.0311393738",
+    "geom:latitude":51.031139,
+    "geom:longitude":3.711144,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zieklien 13",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 08 20",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZH2mLoVFZHxAM3VGb985v_51.031139_3.711144@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532368,
+    "wof:geomhash":"3830e24e47485d10727748aeaac78f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058594313
+        }
+    ],
+    "wof:id":1058594313,
+    "wof:lastmodified":1473532368,
+    "wof:name":"Roosen Francis Bvba",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.7111439705,
+    51.0311393738,
+    3.7111439705,
+    51.0311393738
+],
+  "geometry": {"coordinates":[3.7111439705,51.0311393738],"type":"Point"}
+}

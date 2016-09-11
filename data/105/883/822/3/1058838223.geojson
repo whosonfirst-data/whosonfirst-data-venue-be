@@ -1,0 +1,83 @@
+{
+  "id": 1058838223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4233908653,50.8843765259,4.4233908653,50.8843765259",
+    "geom:latitude":50.884377,
+    "geom:longitude":4.423391,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Arthur Maes 100",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 728 02 11",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "technical",
+        "industrial",
+        "-",
+        "subcontracting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801223,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o57tFsQWrwp6rsDjfd0kw_50.884377_4.423391@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543225,
+    "wof:geomhash":"3ddd1d313b8f21bf00a2d6a61ba808ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801223,
+            "region_id":85681713,
+            "venue_id":1058838223
+        }
+    ],
+    "wof:id":1058838223,
+    "wof:lastmodified":1473543225,
+    "wof:name":"Heckett-multiserv Sa",
+    "wof:parent_id":85801223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "industrial",
+        "-",
+        "subcontracting"
+    ]
+},
+  "bbox": [
+    4.4233908653,
+    50.8843765259,
+    4.4233908653,
+    50.8843765259
+],
+  "geometry": {"coordinates":[4.4233908653,50.8843765259],"type":"Point"}
+}

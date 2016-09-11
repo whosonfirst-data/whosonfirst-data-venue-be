@@ -1,0 +1,85 @@
+{
+  "id": 1058415509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4320120811,51.3125724792,4.4320120811,51.3125724792",
+    "geom:latitude":51.312572,
+    "geom:longitude":4.432012,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gasstraat 62",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 665 26 67",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "mobile",
+        "-",
+        "workshop",
+        "installation",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79C0o2yyK5M1vV0SvBaQSm_51.312572_4.432012@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523922,
+    "wof:geomhash":"f4444662f7dd2104c50a6fe93cb31a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058415509
+        }
+    ],
+    "wof:id":1058415509,
+    "wof:lastmodified":1473523922,
+    "wof:name":"A.j. Steenkist-rooijmans",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "-",
+        "workshop",
+        "installation",
+        "equipment"
+    ]
+},
+  "bbox": [
+    4.4320120811,
+    51.3125724792,
+    4.4320120811,
+    51.3125724792
+],
+  "geometry": {"coordinates":[4.4320120811,51.3125724792],"type":"Point"}
+}

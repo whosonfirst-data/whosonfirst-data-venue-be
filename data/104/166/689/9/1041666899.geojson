@@ -1,0 +1,73 @@
+{
+  "id": 1041666899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4901242256,50.6723747253,5.4901242256,50.6723747253",
+    "geom:latitude":50.672375,
+    "geom:longitude":5.490124,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Edouard Colson 316",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 43 91",
+    "sg:postcode":"4431",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801985,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55TAEadz2h9lxphfPxDWKb_50.672375_5.490124@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478011,
+    "wof:geomhash":"eaa04e89889292dce86486a61a60a565",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801985,
+            "region_id":85681691,
+            "venue_id":1041666899
+        }
+    ],
+    "wof:id":1041666899,
+    "wof:lastmodified":1473478011,
+    "wof:name":"Fina",
+    "wof:parent_id":85801985,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    5.4901242256,
+    50.6723747253,
+    5.4901242256,
+    50.6723747253
+],
+  "geometry": {"coordinates":[5.4901242256,50.6723747253],"type":"Point"}
+}

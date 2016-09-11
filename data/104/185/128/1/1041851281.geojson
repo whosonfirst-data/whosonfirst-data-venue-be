@@ -1,0 +1,83 @@
+{
+  "id": 1041851281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.415763855,50.8812637329,4.415763855,50.8812637329",
+    "geom:latitude":50.881264,
+    "geom:longitude":4.415764,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 1315",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 98 63",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SBGQ4ZOlh5DWzVNDzcQ12_50.881264_4.415764@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485860,
+    "wof:geomhash":"67822d9428c1e089f0d4e0563f893c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1041851281
+        }
+    ],
+    "wof:id":1041851281,
+    "wof:lastmodified":1473485860,
+    "wof:name":"El\u00e9phant Bleu (l')",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.415763855,
+    50.8812637329,
+    4.415763855,
+    50.8812637329
+],
+  "geometry": {"coordinates":[4.415763855,50.8812637329],"type":"Point"}
+}

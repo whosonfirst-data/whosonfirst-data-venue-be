@@ -1,0 +1,78 @@
+{
+  "id": 1058419343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4225020409,50.8858604431,4.4225020409,50.8858604431",
+    "geom:latitude":50.88586,
+    "geom:longitude":4.422502,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 1475",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "motorbike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801223,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22D4PRhMkIXLX4bJeNaOwq_50.885860_4.422502@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524112,
+    "wof:geomhash":"d7927296c029166ba1a7d75b373e378b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801223,
+            "region_id":85681713,
+            "venue_id":1058419343
+        }
+    ],
+    "wof:id":1058419343,
+    "wof:lastmodified":1473524112,
+    "wof:name":"Dockx Car & Truck Rental",
+    "wof:parent_id":85801223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "motorbike"
+    ]
+},
+  "bbox": [
+    4.4225020409,
+    50.8858604431,
+    4.4225020409,
+    50.8858604431
+],
+  "geometry": {"coordinates":[4.4225020409,50.8858604431],"type":"Point"}
+}

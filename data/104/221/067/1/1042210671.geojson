@@ -1,0 +1,79 @@
+{
+  "id": 1042210671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4194889069,51.2296295166,4.4194889069,51.2296295166",
+    "geom:latitude":51.22963,
+    "geom:longitude":4.419489,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ellermanstraat 74",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 63 47",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electromechanical",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiljXoZ80RGj3PR96LaEn_51.229630_4.419489@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502451,
+    "wof:geomhash":"c61665e1c1fd72a66e34496198c3000f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042210671
+        }
+    ],
+    "wof:id":1042210671,
+    "wof:lastmodified":1473502451,
+    "wof:name":"Precision Circuits Belgium Bvb Bvba",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electromechanical",
+        "component"
+    ]
+},
+  "bbox": [
+    4.4194889069,
+    51.2296295166,
+    4.4194889069,
+    51.2296295166
+],
+  "geometry": {"coordinates":[4.4194889069,51.2296295166],"type":"Point"}
+}

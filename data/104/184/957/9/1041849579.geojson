@@ -1,0 +1,71 @@
+{
+  "id": 1041849579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5745129585,50.561580658,5.5745129585,50.561580658",
+    "geom:latitude":50.561581,
+    "geom:longitude":5.574513,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Ardennes 24",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 13 18",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jfy2SKhXJXH2bfuiw76nn_50.561581_5.574513@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485784,
+    "wof:geomhash":"8fc4607e0e7223afa698a3769ee5e39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1041849579
+        }
+    ],
+    "wof:id":1041849579,
+    "wof:lastmodified":1473485784,
+    "wof:name":"Garage Willems",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.5745129585,
+    50.561580658,
+    5.5745129585,
+    50.561580658
+],
+  "geometry": {"coordinates":[5.5745129585,50.561580658],"type":"Point"}
+}

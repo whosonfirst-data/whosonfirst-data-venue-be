@@ -1,0 +1,83 @@
+{
+  "id": 1058201699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3758168221,50.8274002075,4.3758168221,50.8274002075",
+    "geom:latitude":50.8274,
+    "geom:longitude":4.375817,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cuve 26",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 22 17 93",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "access",
+        "equipment",
+        "hospital",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AyYNOKFganOgXeGc3Sz1Q_50.827400_4.375817@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514273,
+    "wof:geomhash":"bcb6b6f532bbbe945866b56427fed98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058201699
+        }
+    ],
+    "wof:id":1058201699,
+    "wof:lastmodified":1473514273,
+    "wof:name":"Maselis Composites Sprl",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "access",
+        "equipment",
+        "hospital",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3758168221,
+    50.8274002075,
+    4.3758168221,
+    50.8274002075
+],
+  "geometry": {"coordinates":[4.3758168221,50.8274002075],"type":"Point"}
+}

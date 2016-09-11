@@ -1,0 +1,83 @@
+{
+  "id": 1058963611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3521227837,50.8271751404,4.3521227837,50.8271751404",
+    "geom:latitude":50.827175,
+    "geom:longitude":4.352123,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-bernard 106",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 89 30",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73akZ6iNLMRy32eodTC7hF_50.827175_4.352123@1306268603"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548938,
+    "wof:geomhash":"30c70baca21c30e98eeebcc816a5721f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058963611
+        }
+    ],
+    "wof:id":1058963611,
+    "wof:lastmodified":1473548938,
+    "wof:name":"Ceulemans L",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "mainten",
+        "watch",
+        "clock"
+    ]
+},
+  "bbox": [
+    4.3521227837,
+    50.8271751404,
+    4.3521227837,
+    50.8271751404
+],
+  "geometry": {"coordinates":[4.3521227837,50.8271751404],"type":"Point"}
+}

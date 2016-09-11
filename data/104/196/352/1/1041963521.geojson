@@ -1,0 +1,77 @@
+{
+  "id": 1041963521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.328110218,50.8977546692,4.328110218,50.8977546692",
+    "geom:latitude":50.897755,
+    "geom:longitude":4.32811,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Pivoines 12c",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 99 98",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DgaCDMQNuCHKoOf7V7SiQ_50.897755_4.328110@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490650,
+    "wof:geomhash":"4c1cbc681fc74e652c0e0c38bf41ff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1041963521
+        }
+    ],
+    "wof:id":1041963521,
+    "wof:lastmodified":1473490650,
+    "wof:name":"D.d.d. Consult Sprl",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.328110218,
+    50.8977546692,
+    4.328110218,
+    50.8977546692
+],
+  "geometry": {"coordinates":[4.328110218,50.8977546692],"type":"Point"}
+}

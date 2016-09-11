@@ -1,0 +1,81 @@
+{
+  "id": 1058069513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7185909748,51.042552948,3.7185909748,51.042552948",
+    "geom:latitude":51.042553,
+    "geom:longitude":3.718591,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ijzerlaan 9",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 93 39",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W11SLOXh6nd1uhGfzduFa_51.042553_3.718591@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508304,
+    "wof:geomhash":"a1a9a2fa0ed8f2d427d9822ef1649711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058069513
+        }
+    ],
+    "wof:id":1058069513,
+    "wof:lastmodified":1473508304,
+    "wof:name":"Frietshop",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    3.7185909748,
+    51.042552948,
+    3.7185909748,
+    51.042552948
+],
+  "geometry": {"coordinates":[3.7185909748,51.042552948],"type":"Point"}
+}

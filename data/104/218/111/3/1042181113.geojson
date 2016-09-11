@@ -1,0 +1,79 @@
+{
+  "id": 1042181113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5466051102,50.6315994263,5.5466051102,50.6315994263",
+    "geom:latitude":50.631599,
+    "geom:longitude":5.546605,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tilleur 27",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 46 46",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "store",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hkKrl7YqjpXCgKE3yC7P1_50.631599_5.546605@1306268410"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500846,
+    "wof:geomhash":"0d35882825b7ed950abf39e97aeea88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1042181113
+        }
+    ],
+    "wof:id":1042181113,
+    "wof:lastmodified":1473500846,
+    "wof:name":"Viatour",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "drug"
+    ]
+},
+  "bbox": [
+    5.5466051102,
+    50.6315994263,
+    5.5466051102,
+    50.6315994263
+],
+  "geometry": {"coordinates":[5.5466051102,50.6315994263],"type":"Point"}
+}

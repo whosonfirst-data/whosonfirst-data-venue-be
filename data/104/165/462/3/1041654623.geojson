@@ -1,0 +1,79 @@
+{
+  "id": 1041654623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3763399124,50.8214797974,4.3763399124,50.8214797974",
+    "geom:latitude":50.82148,
+    "geom:longitude":4.37634,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'hippodrome 90-94",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 92 40",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N7XMM5qusRQpBCKk7v4um_50.821480_4.376340@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477520,
+    "wof:geomhash":"396d694ea994f4d4a426ef97fa4fa6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041654623
+        }
+    ],
+    "wof:id":1041654623,
+    "wof:lastmodified":1473477520,
+    "wof:name":"Les Etangs D'ixelles",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.3763399124,
+    50.8214797974,
+    4.3763399124,
+    50.8214797974
+],
+  "geometry": {"coordinates":[4.3763399124,50.8214797974],"type":"Point"}
+}

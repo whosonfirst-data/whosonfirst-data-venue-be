@@ -1,0 +1,83 @@
+{
+  "id": 1058689559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2399091721,50.7309112549,4.2399091721,50.7309112549",
+    "geom:latitude":50.730911,
+    "geom:longitude":4.239909,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-rochusstraat 56",
+    "sg:city":"Halle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 361 32 29",
+    "sg:postcode":"1500",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iaaeG1nQqjHeO74TQVGAC_50.730911_4.239909@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536680,
+    "wof:geomhash":"d625b973185931c25efef80414bb95f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1058689559
+        }
+    ],
+    "wof:id":1058689559,
+    "wof:lastmodified":1473536680,
+    "wof:name":"Restaurant Hong Kong",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2399091721,
+    50.7309112549,
+    4.2399091721,
+    50.7309112549
+],
+  "geometry": {"coordinates":[4.2399091721,50.7309112549],"type":"Point"}
+}

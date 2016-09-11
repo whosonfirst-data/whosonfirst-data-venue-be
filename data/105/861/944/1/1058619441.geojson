@@ -1,0 +1,79 @@
+{
+  "id": 1058619441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2983541489,50.8462982178,4.2983541489,50.8462982178",
+    "geom:latitude":50.846298,
+    "geom:longitude":4.298354,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard De La Grande Ceinture 9",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 93 83",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vP2x4rFbKUTUS53Z644tr_50.846298_4.298354@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533547,
+    "wof:geomhash":"81ad31fd509349a0a89de0eda66fac7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058619441
+        }
+    ],
+    "wof:id":1058619441,
+    "wof:lastmodified":1473533547,
+    "wof:name":"N.u.t.i.-n.u.t.i. U.n.i.t.",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.2983541489,
+    50.8462982178,
+    4.2983541489,
+    50.8462982178
+],
+  "geometry": {"coordinates":[4.2983541489,50.8462982178],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041880331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2757511139,51.2562408447,4.2757511139,51.2562408447",
+    "geom:latitude":51.256241,
+    "geom:longitude":4.275751,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabriekstraat 54",
+    "sg:city":"Beveren (kallo)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 575 02 98",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ku1pzgM9FE2dSWp1vZpF0_51.256241_4.275751@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487082,
+    "wof:geomhash":"ed3bb7b11534062c176c27e35a6dc635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1041880331
+        }
+    ],
+    "wof:id":1041880331,
+    "wof:lastmodified":1473487082,
+    "wof:name":"De Cauwer-de Block",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.2757511139,
+    51.2562408447,
+    4.2757511139,
+    51.2562408447
+],
+  "geometry": {"coordinates":[4.2757511139,51.2562408447],"type":"Point"}
+}

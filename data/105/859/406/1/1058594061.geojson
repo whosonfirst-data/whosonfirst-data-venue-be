@@ -1,0 +1,77 @@
+{
+  "id": 1058594061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3968019485,50.8370094299,4.3968019485,50.8370094299",
+    "geom:latitude":50.837009,
+    "geom:longitude":4.396802,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e Saint-pierre 361",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 89 76",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ILXlgMuwm9DOMppp1T2ec_50.837009_4.396802@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532359,
+    "wof:geomhash":"cd326585be269cc560bd55f7fa058d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058594061
+        }
+    ],
+    "wof:id":1058594061,
+    "wof:lastmodified":1473532359,
+    "wof:name":"Meynen Fils",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3968019485,
+    50.8370094299,
+    4.3968019485,
+    50.8370094299
+],
+  "geometry": {"coordinates":[4.3968019485,50.8370094299],"type":"Point"}
+}

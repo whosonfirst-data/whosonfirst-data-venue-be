@@ -1,0 +1,79 @@
+{
+  "id": 1058661949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4052410126,51.2145309448,4.4052410126,51.2145309448",
+    "geom:latitude":51.214531,
+    "geom:longitude":4.405241,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Gasthuisstraat 33",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 223 56 11",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F9eOrne2Y4hM1lCvp3kUX_51.214531_4.405241@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535501,
+    "wof:geomhash":"9d39ae06d5396aff6ebf0254eb2ed10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058661949
+        }
+    ],
+    "wof:id":1058661949,
+    "wof:lastmodified":1473535501,
+    "wof:name":"O.c.m.w. Antwerpen",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.4052410126,
+    51.2145309448,
+    4.4052410126,
+    51.2145309448
+],
+  "geometry": {"coordinates":[4.4052410126,51.2145309448],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058453033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4076161385,51.3067893982,4.4076161385,51.3067893982",
+    "geom:latitude":51.306789,
+    "geom:longitude":4.407616,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpse Steenweg 12",
+    "sg:city":"Stabroek (hoevenen)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 92 89",
+    "sg:postcode":"2940",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "plate",
+        "name"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63krU3tZmLYIyKCZJOXLuE_51.306789_4.407616@1306268511"
+    },
+    "wof:country":"BE",
+    "wof:created":1473525835,
+    "wof:geomhash":"9be2334dd76831fa814061c8a840d87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058453033
+        }
+    ],
+    "wof:id":1058453033,
+    "wof:lastmodified":1473525835,
+    "wof:name":"Van Bouwel Jan Bvba",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "name"
+    ]
+},
+  "bbox": [
+    4.4076161385,
+    51.3067893982,
+    4.4076161385,
+    51.3067893982
+],
+  "geometry": {"coordinates":[4.4076161385,51.3067893982],"type":"Point"}
+}

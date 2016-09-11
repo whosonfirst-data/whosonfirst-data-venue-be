@@ -1,0 +1,81 @@
+{
+  "id": 1058423525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4085569382,51.2137870789,4.4085569382,51.2137870789",
+    "geom:latitude":51.213787,
+    "geom:longitude":4.408557,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Henri Van Heurckstraat 20",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 234 09 43",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "teacher",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68JQABrpF5OP7WaNYT852d_51.213787_4.408557@1306268507"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524337,
+    "wof:geomhash":"0374c7648b82ab3a53172441a7e53d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058423525
+        }
+    ],
+    "wof:id":1058423525,
+    "wof:lastmodified":1473524337,
+    "wof:name":"Jms Ward De Beer Musica Domestica Vzw",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "teacher",
+        "private"
+    ]
+},
+  "bbox": [
+    4.4085569382,
+    51.2137870789,
+    4.4085569382,
+    51.2137870789
+],
+  "geometry": {"coordinates":[4.4085569382,51.2137870789],"type":"Point"}
+}

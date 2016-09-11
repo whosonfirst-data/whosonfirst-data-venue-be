@@ -1,0 +1,77 @@
+{
+  "id": 1058525491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2909221649,50.8376159668,4.2909221649,50.8376159668",
+    "geom:latitude":50.837616,
+    "geom:longitude":4.290922,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Sylvain Dupuis 233 Box 123",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 43 43",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "partition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EJ7GU9BtssDjxSKLANZUW_50.837616_4.290922@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529248,
+    "wof:geomhash":"daf712e8d3e4bc6d11513bb24b71c3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058525491
+        }
+    ],
+    "wof:id":1058525491,
+    "wof:lastmodified":1473529248,
+    "wof:name":"Building Concept Sa",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "partition"
+    ]
+},
+  "bbox": [
+    4.2909221649,
+    50.8376159668,
+    4.2909221649,
+    50.8376159668
+],
+  "geometry": {"coordinates":[4.2909221649,50.8376159668],"type":"Point"}
+}

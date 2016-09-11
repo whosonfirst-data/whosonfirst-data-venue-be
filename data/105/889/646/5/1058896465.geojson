@@ -1,0 +1,75 @@
+{
+  "id": 1058896465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2829771042,50.8013381958,4.2829771042,50.8013381958",
+    "geom:latitude":50.801338,
+    "geom:longitude":4.282977,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albert Van Cotthemstraat 64",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 62 26",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "refrigerated",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZoVZOriOYwAZZXdqs3eny_50.801338_4.282977@1306268592"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545752,
+    "wof:geomhash":"38732e83c958f8b6ffed95b3fb9ce4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1058896465
+        }
+    ],
+    "wof:id":1058896465,
+    "wof:lastmodified":1473545752,
+    "wof:name":"Trafribel Nv",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "refrigerated",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.2829771042,
+    50.8013381958,
+    4.2829771042,
+    50.8013381958
+],
+  "geometry": {"coordinates":[4.2829771042,50.8013381958],"type":"Point"}
+}

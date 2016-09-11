@@ -1,0 +1,77 @@
+{
+  "id": 1042008755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3393559456,50.8448562622,4.3393559456,50.8448562622",
+    "geom:latitude":50.844856,
+    "geom:longitude":4.339356,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D'anderlecht 190",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 26 90",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65TkG0MPzI7sBBWP57TFlK_50.844856_4.339356@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492643,
+    "wof:geomhash":"6fe7c72acea2d7224efbc9474cef61e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1042008755
+        }
+    ],
+    "wof:id":1042008755,
+    "wof:lastmodified":1473492643,
+    "wof:name":"Caf\u00c9 Du Cadran",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3393559456,
+    50.8448562622,
+    4.3393559456,
+    50.8448562622
+],
+  "geometry": {"coordinates":[4.3393559456,50.8448562622],"type":"Point"}
+}

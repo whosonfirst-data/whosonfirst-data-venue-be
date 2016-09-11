@@ -1,0 +1,77 @@
+{
+  "id": 1058380721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3583230972,50.8443145752,4.3583230972,50.8443145752",
+    "geom:latitude":50.844315,
+    "geom:longitude":4.358323,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Sols 8",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 515 08 35",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jve3LQvoz8T2gWf6j9aPV_50.844315_4.358323@1306268499"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522387,
+    "wof:geomhash":"d75d264323d38cecf2229cb5baabacd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058380721
+        }
+    ],
+    "wof:id":1058380721,
+    "wof:lastmodified":1473522387,
+    "wof:name":"Belgisch Centrum Voor Arbitrage En Mediatie-cepina",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.3583230972,
+    50.8443145752,
+    4.3583230972,
+    50.8443145752
+],
+  "geometry": {"coordinates":[4.3583230972,50.8443145752],"type":"Point"}
+}

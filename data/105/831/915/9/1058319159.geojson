@@ -1,0 +1,88 @@
+{
+  "id": 1058319159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7263510227,51.0722351074,3.7263510227,51.0722351074",
+    "geom:latitude":51.072235,
+    "geom:longitude":3.726351,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wiedauwkaai 24",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 269 04 71",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733,
+        85862051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EcjGZ00kpUqk9VF0gbBnZ_51.072235_3.726351@1306268487"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519438,
+    "wof:geomhash":"c1232d75e9079b5e26faeb153e36daec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1058319159
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058319159
+        }
+    ],
+    "wof:id":1058319159,
+    "wof:lastmodified":1473519438,
+    "wof:name":"Kobalt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    3.7263510227,
+    51.0722351074,
+    3.7263510227,
+    51.0722351074
+],
+  "geometry": {"coordinates":[3.7263510227,51.0722351074],"type":"Point"}
+}

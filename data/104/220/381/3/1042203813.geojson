@@ -1,0 +1,77 @@
+{
+  "id": 1042203813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5102219582,50.7473602295,4.5102219582,50.7473602295",
+    "geom:latitude":50.74736,
+    "geom:longitude":4.510222,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Druivenlaan 13",
+    "sg:city":"Overijse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 32 85",
+    "sg:postcode":"3090",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10UoldUE04JalGWXSpYnaM_50.747360_4.510222@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502160,
+    "wof:geomhash":"63b9aee06822aaf41f9f76786f29e27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1042203813
+        }
+    ],
+    "wof:id":1042203813,
+    "wof:lastmodified":1473502160,
+    "wof:name":"Aqua-elec",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.5102219582,
+    50.7473602295,
+    4.5102219582,
+    50.7473602295
+],
+  "geometry": {"coordinates":[4.5102219582,50.7473602295],"type":"Point"}
+}

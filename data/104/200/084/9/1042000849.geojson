@@ -1,0 +1,91 @@
+{
+  "id": 1042000849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.356470108,50.8407058716,4.356470108,50.8407058716",
+    "geom:latitude":50.840706,
+    "geom:longitude":4.35647,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"18",
+    "sg:city":"Rue Bodenbroek 1000 Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 87 51",
+    "sg:postcode":"18",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wkmX8oebi5lX7VBXmRYul_50.840706_4.356470@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492344,
+    "wof:geomhash":"23bf3ce3efed345b3fba65b9ad830008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1042000849
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1042000849
+        }
+    ],
+    "wof:id":1042000849,
+    "wof:lastmodified":1473492344,
+    "wof:name":"Lecailler Du Palais Royal Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.356470108,
+    50.8407058716,
+    4.356470108,
+    50.8407058716
+],
+  "geometry": {"coordinates":[4.356470108,50.8407058716],"type":"Point"}
+}

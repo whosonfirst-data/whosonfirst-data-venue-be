@@ -1,0 +1,79 @@
+{
+  "id": 1041553077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.585714817,50.6390686035,5.585714817,50.6390686035",
+    "geom:latitude":50.639069,
+    "geom:longitude":5.585715,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Puits-en-sock 129",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 65 72",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "article",
+        "baptismal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rl9I33UdDDsobXMCnyxNa_50.639069_5.585715@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473319,
+    "wof:geomhash":"9ca1cfe31197ac800218314bf0d783ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041553077
+        }
+    ],
+    "wof:id":1041553077,
+    "wof:lastmodified":1473473319,
+    "wof:name":"Leonidas",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "article",
+        "baptismal"
+    ]
+},
+  "bbox": [
+    5.585714817,
+    50.6390686035,
+    5.585714817,
+    50.6390686035
+],
+  "geometry": {"coordinates":[5.585714817,50.6390686035],"type":"Point"}
+}

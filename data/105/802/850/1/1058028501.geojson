@@ -1,0 +1,79 @@
+{
+  "id": 1058028501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3632340431,50.8204612732,4.3632340431,50.8204612732",
+    "geom:latitude":50.820461,
+    "geom:longitude":4.363234,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des M\u00e9l\u00e8zes 63",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 91 81",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "designer",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5583lOPld1golojMPPxBYJ_50.820461_4.363234@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506621,
+    "wof:geomhash":"f77b5153af99a173e679cd7d2cd2846b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058028501
+        }
+    ],
+    "wof:id":1058028501,
+    "wof:lastmodified":1473506621,
+    "wof:name":"Bertouille M",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "stylist"
+    ]
+},
+  "bbox": [
+    4.3632340431,
+    50.8204612732,
+    4.3632340431,
+    50.8204612732
+],
+  "geometry": {"coordinates":[4.3632340431,50.8204612732],"type":"Point"}
+}

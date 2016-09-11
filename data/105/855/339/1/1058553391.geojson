@@ -1,0 +1,77 @@
+{
+  "id": 1058553391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3253297806,50.7977409363,4.3253297806,50.7977409363",
+    "geom:latitude":50.797741,
+    "geom:longitude":4.32533,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Magnanerie 40",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 12 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UHQN02NUEh5Kqh9PHgGSL_50.797741_4.325330@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530519,
+    "wof:geomhash":"30e381dc2d292598865279073cf94080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058553391
+        }
+    ],
+    "wof:id":1058553391,
+    "wof:lastmodified":1473530519,
+    "wof:name":"De Wilde Claudine",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3253297806,
+    50.7977409363,
+    4.3253297806,
+    50.7977409363
+],
+  "geometry": {"coordinates":[4.3253297806,50.7977409363],"type":"Point"}
+}

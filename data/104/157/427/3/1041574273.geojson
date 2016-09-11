@@ -1,0 +1,79 @@
+{
+  "id": 1041574273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3843002319,50.8151893616,4.3843002319,50.8151893616",
+    "geom:latitude":50.815189,
+    "geom:longitude":4.3843,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Armand Huysmans 1",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 29 25",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oRZl3JHZX9aPSCmEHj4SB_50.815189_4.384300@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474223,
+    "wof:geomhash":"b4971b22ca52fddf2b939ede4e3d59d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1041574273
+        }
+    ],
+    "wof:id":1041574273,
+    "wof:lastmodified":1473474223,
+    "wof:name":"Cabinet Dentaire Gholypour",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    4.3843002319,
+    50.8151893616,
+    4.3843002319,
+    50.8151893616
+],
+  "geometry": {"coordinates":[4.3843002319,50.8151893616],"type":"Point"}
+}

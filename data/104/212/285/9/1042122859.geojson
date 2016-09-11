@@ -1,0 +1,85 @@
+{
+  "id": 1042122859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3405470848,50.8781089783,4.3405470848,50.8781089783",
+    "geom:latitude":50.878109,
+    "geom:longitude":4.340547,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jacobs Fontaine 55",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 16 20",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j4fIWXHP2SOauipyflcYM_50.878109_4.340547@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497544,
+    "wof:geomhash":"7d0d8c2a18777a4d1bcaf38bbc3a2f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1042122859
+        }
+    ],
+    "wof:id":1042122859,
+    "wof:lastmodified":1473497544,
+    "wof:name":"Shining Computer System Scs",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3405470848,
+    50.8781089783,
+    4.3405470848,
+    50.8781089783
+],
+  "geometry": {"coordinates":[4.3405470848,50.8781089783],"type":"Point"}
+}

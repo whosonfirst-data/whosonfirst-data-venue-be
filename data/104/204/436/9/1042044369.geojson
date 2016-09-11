@@ -1,0 +1,77 @@
+{
+  "id": 1042044369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6001610756,50.6448860168,5.6001610756,50.6448860168",
+    "geom:latitude":50.644886,
+    "geom:longitude":5.600161,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Porto 179",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 06 99",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L6ul9udvnFctlOuV2h4aq_50.644886_5.600161@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494032,
+    "wof:geomhash":"e3f96db4c63abbc5e639e5f02fda26a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1042044369
+        }
+    ],
+    "wof:id":1042044369,
+    "wof:lastmodified":1473494032,
+    "wof:name":"Simonis Et Fils",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    5.6001610756,
+    50.6448860168,
+    5.6001610756,
+    50.6448860168
+],
+  "geometry": {"coordinates":[5.6001610756,50.6448860168],"type":"Point"}
+}

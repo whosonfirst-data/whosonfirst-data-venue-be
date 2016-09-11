@@ -1,0 +1,77 @@
+{
+  "id": 1058903657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3717031479,50.8608207703,4.3717031479,50.8608207703",
+    "geom:latitude":50.860821,
+    "geom:longitude":4.371703,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 188",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 99 98",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oMntwpyVe1OSOP5tDBE6t_50.860821_4.371703@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546121,
+    "wof:geomhash":"e329a5b3103d5a6a29bb7266cfa0fc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058903657
+        }
+    ],
+    "wof:id":1058903657,
+    "wof:lastmodified":1473546121,
+    "wof:name":"Pala Tourisme Bvba",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    4.3717031479,
+    50.8608207703,
+    4.3717031479,
+    50.8608207703
+],
+  "geometry": {"coordinates":[4.3717031479,50.8608207703],"type":"Point"}
+}

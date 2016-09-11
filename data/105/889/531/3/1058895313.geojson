@@ -1,0 +1,79 @@
+{
+  "id": 1058895313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6140818596,50.6087112427,5.6140818596,50.6087112427",
+    "geom:latitude":50.608711,
+    "geom:longitude":5.614082,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Beaufraipont 35",
+    "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 02 77",
+    "sg:postcode":"4032",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800991,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mK2eKIBW9POsAWT2hauhX_50.608711_5.614082@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545687,
+    "wof:geomhash":"55fafd4a3b4b4cfbc770b34cc11368de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800991,
+            "region_id":85681691,
+            "venue_id":1058895313
+        }
+    ],
+    "wof:id":1058895313,
+    "wof:lastmodified":1473545687,
+    "wof:name":"Lecloux Transports",
+    "wof:parent_id":85800991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    5.6140818596,
+    50.6087112427,
+    5.6140818596,
+    50.6087112427
+],
+  "geometry": {"coordinates":[5.6140818596,50.6087112427],"type":"Point"}
+}

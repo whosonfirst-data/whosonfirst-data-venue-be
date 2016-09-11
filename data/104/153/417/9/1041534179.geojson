@@ -1,0 +1,81 @@
+{
+  "id": 1041534179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3590149879,50.8489837646,4.3590149879,50.8489837646",
+    "geom:latitude":50.848984,
+    "geom:longitude":4.359015,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Boulevard De Berlaimont",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 221 21 11",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xAxg5JQNH9h0xx64xdOIF_50.848984_4.359015@1306268321"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472578,
+    "wof:geomhash":"e4746c5d1163dae6fc490b73943a3993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041534179
+        }
+    ],
+    "wof:id":1041534179,
+    "wof:lastmodified":1473472578,
+    "wof:name":"Banque Nationale De Belgique",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [
+    4.3590149879,
+    50.8489837646,
+    4.3590149879,
+    50.8489837646
+],
+  "geometry": {"coordinates":[4.3590149879,50.8489837646],"type":"Point"}
+}

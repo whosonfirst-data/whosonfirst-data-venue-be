@@ -1,0 +1,79 @@
+{
+  "id": 1042063157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4799990654,51.29945755,4.4799990654,51.29945755",
+    "geom:latitude":51.299458,
+    "geom:longitude":4.479999,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lage Kaart 229",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 651 63 64",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "sweep",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbU7b8Ln0r9SNlqcrfv9m_51.299458_4.479999@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494796,
+    "wof:geomhash":"811709667bd1751c9b2bf2cceaf6c32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1042063157
+        }
+    ],
+    "wof:id":1042063157,
+    "wof:lastmodified":1473494796,
+    "wof:name":"De Cuyper Verw Bedr Bvba",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweep",
+        "chimney"
+    ]
+},
+  "bbox": [
+    4.4799990654,
+    51.29945755,
+    4.4799990654,
+    51.29945755
+],
+  "geometry": {"coordinates":[4.4799990654,51.29945755],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1041848059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5944309235,50.6503829956,5.5944309235,50.6503829956",
+    "geom:latitude":50.650383,
+    "geom:longitude":5.594431,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-l\u00e9onard 318",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 07 34",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile",
+        "officially",
+        "-",
+        "recognized"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TK60Fbwbg9dUUlQN9FAC8_50.650383_5.594431@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485720,
+    "wof:geomhash":"5399d6f18c5f3a8022b7fb3c98fe2d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1041848059
+        }
+    ],
+    "wof:id":1041848059,
+    "wof:lastmodified":1473485720,
+    "wof:name":"Auto-ecole Talmasse",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "officially",
+        "-",
+        "recognized"
+    ]
+},
+  "bbox": [
+    5.5944309235,
+    50.6503829956,
+    5.5944309235,
+    50.6503829956
+],
+  "geometry": {"coordinates":[5.5944309235,50.6503829956],"type":"Point"}
+}

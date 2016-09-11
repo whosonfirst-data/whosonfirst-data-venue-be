@@ -1,0 +1,79 @@
+{
+  "id": 1058170685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4386692047,50.8522567749,4.4386692047,50.8522567749",
+    "geom:latitude":50.852257,
+    "geom:longitude":4.438669,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Mistral 58",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 763 21 47",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TGRFJLtSgV5XNhtUv1joI_50.852257_4.438669@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512937,
+    "wof:geomhash":"bad429da2420325580e9b2514124f052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1058170685
+        }
+    ],
+    "wof:id":1058170685,
+    "wof:lastmodified":1473512937,
+    "wof:name":"Lamotte J-m",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4386692047,
+    50.8522567749,
+    4.4386692047,
+    50.8522567749
+],
+  "geometry": {"coordinates":[4.4386692047,50.8522567749],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058140673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4095048904,51.3593139648,4.4095048904,51.3593139648",
+    "geom:latitude":51.359314,
+    "geom:longitude":4.409505,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grensstraat 12",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 99 63",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801235,
+        102191581,
+        85632997,
+        404227357,
+        101839065,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAK3yu0YUGZTt10LKdsDB_51.359314_4.409505@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511487,
+    "wof:geomhash":"713436ca977743c4b751a7148755d48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101839065,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801235,
+            "region_id":85681715,
+            "venue_id":1058140673
+        }
+    ],
+    "wof:id":1058140673,
+    "wof:lastmodified":1473511487,
+    "wof:name":"Haarstudio Justy",
+    "wof:parent_id":85801235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4095048904,
+    51.3593139648,
+    4.4095048904,
+    51.3593139648
+],
+  "geometry": {"coordinates":[4.4095048904,51.3593139648],"type":"Point"}
+}

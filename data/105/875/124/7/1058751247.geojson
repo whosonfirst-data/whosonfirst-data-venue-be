@@ -1,0 +1,77 @@
+{
+  "id": 1058751247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2992858887,50.7928581238,4.2992858887,50.7928581238",
+    "geom:latitude":50.792858,
+    "geom:longitude":4.299286,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Tanche 2",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 378 06 80",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sauce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801835,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h7dFbhTcdVoAQ61spyzVA_50.792858_4.299286@1306268565"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539387,
+    "wof:geomhash":"20bff7f8da18bf4c9c8384106c7ef661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801835,
+            "region_id":85681731,
+            "venue_id":1058751247
+        }
+    ],
+    "wof:id":1058751247,
+    "wof:lastmodified":1473539387,
+    "wof:name":"Five Stars Food S.a.",
+    "wof:parent_id":85801835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sauce"
+    ]
+},
+  "bbox": [
+    4.2992858887,
+    50.7928581238,
+    4.2992858887,
+    50.7928581238
+],
+  "geometry": {"coordinates":[4.2992858887,50.7928581238],"type":"Point"}
+}

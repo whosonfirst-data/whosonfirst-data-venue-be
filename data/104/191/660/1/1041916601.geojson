@@ -1,0 +1,83 @@
+{
+  "id": 1041916601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4221010208,50.8125114441,4.4221010208,50.8125114441",
+    "geom:latitude":50.812511,
+    "geom:longitude":4.422101,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Gustave Demey 107",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 660 52 14",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OpqpRby3fC23vMsRaSnxK_50.812511_4.422101@1306268361"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488591,
+    "wof:geomhash":"80074ef9cf801f0d583e8508112a7b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1041916601
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041916601
+        }
+    ],
+    "wof:id":1041916601,
+    "wof:lastmodified":1473488591,
+    "wof:name":"Droulans P",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4221010208,
+    50.8125114441,
+    4.4221010208,
+    50.8125114441
+],
+  "geometry": {"coordinates":[4.4221010208,50.8125114441],"type":"Point"}
+}

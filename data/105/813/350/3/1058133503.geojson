@@ -1,0 +1,83 @@
+{
+  "id": 1058133503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3865041733,50.8099517822,4.3865041733,50.8099517822",
+    "geom:latitude":50.809952,
+    "geom:longitude":4.386504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Pesage 10",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 43 89",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YFhmXHTFBmTIrGr083os9_50.809952_4.386504@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511168,
+    "wof:geomhash":"906f26e3231f16f2ac4d7fd187ac7aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1058133503
+        }
+    ],
+    "wof:id":1058133503,
+    "wof:lastmodified":1473511168,
+    "wof:name":"Dambrucq",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3865041733,
+    50.8099517822,
+    4.3865041733,
+    50.8099517822
+],
+  "geometry": {"coordinates":[4.3865041733,50.8099517822],"type":"Point"}
+}

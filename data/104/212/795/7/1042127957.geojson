@@ -1,0 +1,85 @@
+{
+  "id": 1042127957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3087120056,50.8338241577,4.3087120056,50.8338241577",
+    "geom:latitude":50.833824,
+    "geom:longitude":4.308712,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Victor Rauter 149",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 08 20",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "technician",
+        "equipment",
+        "dental",
+        "-",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XyLGL6JI0vOufm49aHhMO_50.833824_4.308712@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497840,
+    "wof:geomhash":"0d6a8d0b3a2b0cf8f87528bedd625363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1042127957
+        }
+    ],
+    "wof:id":1042127957,
+    "wof:lastmodified":1473497840,
+    "wof:name":"Lamal",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technician",
+        "equipment",
+        "dental",
+        "-",
+        "dentist"
+    ]
+},
+  "bbox": [
+    4.3087120056,
+    50.8338241577,
+    4.3087120056,
+    50.8338241577
+],
+  "geometry": {"coordinates":[4.3087120056,50.8338241577],"type":"Point"}
+}

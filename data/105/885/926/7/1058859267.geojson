@@ -1,0 +1,77 @@
+{
+  "id": 1058859267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3053469658,50.8359451294,4.3053469658,50.8359451294",
+    "geom:latitude":50.835945,
+    "geom:longitude":4.305347,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Porselein 16",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 81 15",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tax-consultants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bWgT9rSK98qyQzU21vJ1C_50.835945_4.305347@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544121,
+    "wof:geomhash":"039391342ec396a1837139e204d89d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1058859267
+        }
+    ],
+    "wof:id":1058859267,
+    "wof:lastmodified":1473544121,
+    "wof:name":"Serruys B",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tax-consultants"
+    ]
+},
+  "bbox": [
+    4.3053469658,
+    50.8359451294,
+    4.3053469658,
+    50.8359451294
+],
+  "geometry": {"coordinates":[4.3053469658,50.8359451294],"type":"Point"}
+}

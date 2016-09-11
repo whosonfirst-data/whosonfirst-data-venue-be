@@ -1,0 +1,79 @@
+{
+  "id": 1041626085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4210419655,50.8605537415,4.4210419655,50.8605537415",
+    "geom:latitude":50.860554,
+    "geom:longitude":4.421042,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chaussee De Louvain 1048",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 730 92 11",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "conversion",
+        "lift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60DKQTKHN8xyM5gDw5KSkb_50.860554_4.421042@1306268494"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476350,
+    "wof:geomhash":"5b77e9e225649a8889fdc2a59e6f1fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1041626085
+        }
+    ],
+    "wof:id":1041626085,
+    "wof:lastmodified":1473476350,
+    "wof:name":"Kone Belgium Nv",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conversion",
+        "lift"
+    ]
+},
+  "bbox": [
+    4.4210419655,
+    50.8605537415,
+    4.4210419655,
+    50.8605537415
+],
+  "geometry": {"coordinates":[4.4210419655,50.8605537415],"type":"Point"}
+}

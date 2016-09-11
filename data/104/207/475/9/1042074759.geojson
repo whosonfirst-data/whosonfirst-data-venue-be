@@ -1,0 +1,81 @@
+{
+  "id": 1042074759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.218681097,51.2066116333,3.218681097,51.2066116333",
+    "geom:latitude":51.206612,
+    "geom:longitude":3.218681,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Noordzandstraat 74",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 17 00",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48qlXRIk753fqtaNOvqQYT_51.206612_3.218681@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495271,
+    "wof:geomhash":"c6194b8f6751d95bfb8a740eec1cff94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042074759
+        }
+    ],
+    "wof:id":1042074759,
+    "wof:lastmodified":1473495271,
+    "wof:name":"Virgul",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.218681097,
+    51.2066116333,
+    3.218681097,
+    51.2066116333
+],
+  "geometry": {"coordinates":[3.218681097,51.2066116333],"type":"Point"}
+}

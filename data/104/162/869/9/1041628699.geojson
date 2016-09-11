@@ -1,0 +1,81 @@
+{
+  "id": 1041628699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3403310776,51.2046470642,4.3403310776,51.2046470642",
+    "geom:latitude":51.204647,
+    "geom:longitude":4.340331,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pastoor Coplaan 178b",
+    "sg:city":"Zwijndrecht (burcht)",
+    "sg:classifiers":[
+        {
+            "category":"Quarry",
+            "subcategory":"",
+            "type":"Physical Feature"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 252 83 04",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "granite",
+        "work",
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IDMuS4jXigFQlnrC5PSl2_51.204647_4.340331@1306268500"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476469,
+    "wof:geomhash":"e7951e04b8d750d9ac5b94c13fa4c028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1041628699
+        }
+    ],
+    "wof:id":1041628699,
+    "wof:lastmodified":1473476469,
+    "wof:name":"Van Eynde",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "work",
+        "marble"
+    ]
+},
+  "bbox": [
+    4.3403310776,
+    51.2046470642,
+    4.3403310776,
+    51.2046470642
+],
+  "geometry": {"coordinates":[4.3403310776,51.2046470642],"type":"Point"}
+}

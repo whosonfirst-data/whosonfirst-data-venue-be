@@ -1,0 +1,66 @@
+{
+  "id": 1058660849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6914539337,50.8631019592,4.6914539337,50.8631019592",
+    "geom:latitude":50.863102,
+    "geom:longitude":4.691454,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jules Vandenbemptlaan 33",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 50 05 86",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_048sJTG55hTrl8p1k4n766_50.863102_4.691454@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535456,
+    "wof:geomhash":"9af8e5059286294a80da31ccd14a74c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058660849
+        }
+    ],
+    "wof:id":1058660849,
+    "wof:lastmodified":1473535456,
+    "wof:name":"Smets B",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6914539337,
+    50.8631019592,
+    4.6914539337,
+    50.8631019592
+],
+  "geometry": {"coordinates":[4.6914539337,50.8631019592],"type":"Point"}
+}

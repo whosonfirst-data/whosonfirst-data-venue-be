@@ -1,0 +1,83 @@
+{
+  "id": 1042124735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.56954813,50.6429748535,5.56954813,50.6429748535",
+    "geom:latitude":50.642975,
+    "geom:longitude":5.569548,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Casquette 2",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 29 17",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S78TXtpu3wvj1absT4iu9_50.642975_5.569548@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497649,
+    "wof:geomhash":"20568c52a951719ad39bb4996922bd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042124735
+        }
+    ],
+    "wof:id":1042124735,
+    "wof:lastmodified":1473497649,
+    "wof:name":"Minicr\u00e8che Op\u00e9ra",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    5.56954813,
+    50.6429748535,
+    5.56954813,
+    50.6429748535
+],
+  "geometry": {"coordinates":[5.56954813,50.6429748535],"type":"Point"}
+}

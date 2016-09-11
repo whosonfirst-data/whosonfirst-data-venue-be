@@ -1,0 +1,79 @@
+{
+  "id": 1058927933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3236560822,50.8847846985,4.3236560822,50.8847846985",
+    "geom:latitude":50.884785,
+    "geom:longitude":4.323656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Bonaventure 117",
+    "sg:city":"Jette",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 58 10",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FrxmNzH2vgXZQcDgoGiCN_50.884785_4.323656@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547251,
+    "wof:geomhash":"16cdd53d2a16ea78e9b659fea9ac901d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058927933
+        }
+    ],
+    "wof:id":1058927933,
+    "wof:lastmodified":1473547251,
+    "wof:name":"Dewachter & Fils -finassur",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.3236560822,
+    50.8847846985,
+    4.3236560822,
+    50.8847846985
+],
+  "geometry": {"coordinates":[4.3236560822,50.8847846985],"type":"Point"}
+}

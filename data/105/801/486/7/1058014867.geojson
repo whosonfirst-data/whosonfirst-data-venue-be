@@ -1,0 +1,85 @@
+{
+  "id": 1058014867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4193611145,51.2176246643,4.4193611145,51.2176246643",
+    "geom:latitude":51.217625,
+    "geom:longitude":4.419361,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Breydelstraat 29",
+    "sg:city":"Antwerpen (groot)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 52 02",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "diver",
+        "commerce",
+        "gr",
+        "pour",
+        "equipement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZpSx9g9LDOnoMdce978NR_51.217625_4.419361@1306268427"
+    },
+    "wof:country":"BE",
+    "wof:created":1473505982,
+    "wof:geomhash":"611d1c172cba3f7c222529ce37eb7fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058014867
+        }
+    ],
+    "wof:id":1058014867,
+    "wof:lastmodified":1473505982,
+    "wof:name":"Blitz",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diver",
+        "commerce",
+        "gr",
+        "pour",
+        "equipement"
+    ]
+},
+  "bbox": [
+    4.4193611145,
+    51.2176246643,
+    4.4193611145,
+    51.2176246643
+],
+  "geometry": {"coordinates":[4.4193611145,51.2176246643],"type":"Point"}
+}

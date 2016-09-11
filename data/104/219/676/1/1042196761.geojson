@@ -1,0 +1,77 @@
+{
+  "id": 1042196761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4347457886,50.8069038391,4.4347457886,50.8069038391",
+    "geom:latitude":50.806904,
+    "geom:longitude":4.434746,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Van Horenbeeck 33",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 32 80",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z90By5TxqINkIQlIw2Wjm_50.806904_4.434746@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501711,
+    "wof:geomhash":"f79faebae1f1fe14c79ccfcc820c90c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1042196761
+        }
+    ],
+    "wof:id":1042196761,
+    "wof:lastmodified":1473501711,
+    "wof:name":"Blankedelle-colin (centre Scolaire De)",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.4347457886,
+    50.8069038391,
+    4.4347457886,
+    50.8069038391
+],
+  "geometry": {"coordinates":[4.4347457886,50.8069038391],"type":"Point"}
+}

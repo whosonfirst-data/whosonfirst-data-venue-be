@@ -1,0 +1,79 @@
+{
+  "id": 1041879903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7998690605,51.05626297,3.7998690605,51.05626297",
+    "geom:latitude":51.056263,
+    "geom:longitude":3.799869,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dendermondesteenweg 485",
+    "sg:city":"Destelbergen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 31 31",
+    "sg:postcode":"9070",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MnGifHMrgvLXorMl8DVdc_51.056263_3.799869@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487067,
+    "wof:geomhash":"4bf52ea70ea48e5555a78117dc71af31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1041879903
+        }
+    ],
+    "wof:id":1041879903,
+    "wof:lastmodified":1473487067,
+    "wof:name":"Chris",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7998690605,
+    51.05626297,
+    3.7998690605,
+    51.05626297
+],
+  "geometry": {"coordinates":[3.7998690605,51.05626297],"type":"Point"}
+}

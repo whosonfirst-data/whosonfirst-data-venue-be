@@ -1,0 +1,77 @@
+{
+  "id": 1042021805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5583310127,50.6463127136,5.5583310127,50.6463127136",
+    "geom:latitude":50.646313,
+    "geom:longitude":5.558331,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-marguerite 146",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 00 10",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27BPe69FOlelawy8H2YS8r_50.646313_5.558331@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493122,
+    "wof:geomhash":"1be57630557738c8996cd457df75f21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1042021805
+        }
+    ],
+    "wof:id":1042021805,
+    "wof:lastmodified":1473493122,
+    "wof:name":"Les Portes De Li\u00c8ge",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5583310127,
+    50.6463127136,
+    5.5583310127,
+    50.6463127136
+],
+  "geometry": {"coordinates":[5.5583310127,50.6463127136],"type":"Point"}
+}

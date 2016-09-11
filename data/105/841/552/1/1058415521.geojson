@@ -1,0 +1,85 @@
+{
+  "id": 1058415521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1100299358,50.5880088806,3.1100299358,50.5880088806",
+    "geom:latitude":50.588009,
+    "geom:longitude":3.11003,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Gamand 4",
+    "sg:city":"Lesquin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"59815",
+    "sg:tags":[
+        "mobile",
+        "-",
+        "workshop",
+        "installation",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d8hoM11Qz36JwmmiE4W3f_50.588009_3.110030@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523923,
+    "wof:geomhash":"e58cad146fe21ad07698e952a1c64bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1058415521
+        }
+    ],
+    "wof:id":1058415521,
+    "wof:lastmodified":1473523923,
+    "wof:name":"Atema Sarl",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "-",
+        "workshop",
+        "installation",
+        "equipment"
+    ]
+},
+  "bbox": [
+    3.1100299358,
+    50.5880088806,
+    3.1100299358,
+    50.5880088806
+],
+  "geometry": {"coordinates":[3.1100299358,50.5880088806],"type":"Point"}
+}

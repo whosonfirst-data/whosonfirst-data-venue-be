@@ -1,0 +1,79 @@
+{
+  "id": 1058168055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.414493084,50.8564872742,4.414493084,50.8564872742",
+    "geom:latitude":50.856487,
+    "geom:longitude":4.414493,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du V-day 5",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 726 39 75",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H4XB11Dl9wo2XSAZGnOKX_50.856487_4.414493@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512794,
+    "wof:geomhash":"2a492464cf61298e794a5dec079bd147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058168055
+        }
+    ],
+    "wof:id":1058168055,
+    "wof:lastmodified":1473512794,
+    "wof:name":"Herickx Lucie",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.414493084,
+    50.8564872742,
+    4.414493084,
+    50.8564872742
+],
+  "geometry": {"coordinates":[4.414493084,50.8564872742],"type":"Point"}
+}

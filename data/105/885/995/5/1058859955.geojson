@@ -1,0 +1,69 @@
+{
+  "id": 1058859955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8120379448,51.1967849731,3.8120379448,51.1967849731",
+    "geom:latitude":51.196785,
+    "geom:longitude":3.812038,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boerenstraat 10",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 342 91 16",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "taxi's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gBzYdUtM7YMlMWembqcGl_51.196785_3.812038@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544154,
+    "wof:geomhash":"97df9bbae51db9da881ff149b75eca11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058859955
+        }
+    ],
+    "wof:id":1058859955,
+    "wof:lastmodified":1473544154,
+    "wof:name":"Guldemont P",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi's"
+    ]
+},
+  "bbox": [
+    3.8120379448,
+    51.1967849731,
+    3.8120379448,
+    51.1967849731
+],
+  "geometry": {"coordinates":[3.8120379448,51.1967849731],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058548301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2817850113,50.8660011292,4.2817850113,50.8660011292",
+    "geom:latitude":50.866001,
+    "geom:longitude":4.281785,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Potaarde 26",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 34 24",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22b7ea2P19SJzUtomks3Pk_50.866001_4.281785@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530296,
+    "wof:geomhash":"787afb4502a1c36b3251e9a1006d2b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1058548301
+        }
+    ],
+    "wof:id":1058548301,
+    "wof:lastmodified":1473530296,
+    "wof:name":"Beugnies Philippe",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.2817850113,
+    50.8660011292,
+    4.2817850113,
+    50.8660011292
+],
+  "geometry": {"coordinates":[4.2817850113,50.8660011292],"type":"Point"}
+}

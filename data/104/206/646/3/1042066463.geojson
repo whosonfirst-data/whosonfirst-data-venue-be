@@ -1,0 +1,73 @@
+{
+  "id": 1042066463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4596190453,50.9286956787,4.4596190453,50.9286956787",
+    "geom:latitude":50.928696,
+    "geom:longitude":4.459619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindenstraat 123a",
+    "sg:city":"Vilvoorde (peutie)",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"National",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 95 66",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "city",
+        "planner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801773,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QwNI3tZsnBhgVVWiFo7dr_50.928696_4.459619@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494926,
+    "wof:geomhash":"d56fe6e7cb21e2a39ed29802979ddef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801773,
+            "region_id":85681731,
+            "venue_id":1042066463
+        }
+    ],
+    "wof:id":1042066463,
+    "wof:lastmodified":1473494926,
+    "wof:name":"Polspoel D",
+    "wof:parent_id":85801773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planner"
+    ]
+},
+  "bbox": [
+    4.4596190453,
+    50.9286956787,
+    4.4596190453,
+    50.9286956787
+],
+  "geometry": {"coordinates":[4.4596190453,50.9286956787],"type":"Point"}
+}

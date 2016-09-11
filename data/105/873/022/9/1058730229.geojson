@@ -1,0 +1,77 @@
+{
+  "id": 1058730229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3519678116,50.8579750061,4.3519678116,50.8579750061",
+    "geom:latitude":50.857975,
+    "geom:longitude":4.351968,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'etang 43",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 800 23 636",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sSCFpl5mbOWvj22HJ7oqe_50.857975_4.351968@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538464,
+    "wof:geomhash":"0463f03df16115f9da550c855be96683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058730229
+        }
+    ],
+    "wof:id":1058730229,
+    "wof:lastmodified":1473538464,
+    "wof:name":"Verstraeten (miroiterie) Sprl",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety"
+    ]
+},
+  "bbox": [
+    4.3519678116,
+    50.8579750061,
+    4.3519678116,
+    50.8579750061
+],
+  "geometry": {"coordinates":[4.3519678116,50.8579750061],"type":"Point"}
+}

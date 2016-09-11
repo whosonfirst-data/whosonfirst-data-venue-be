@@ -1,0 +1,81 @@
+{
+  "id": 1041843885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7302041054,51.0503044128,3.7302041054,51.0503044128",
+    "geom:latitude":51.050304,
+    "geom:longitude":3.730204,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vlaanderenstraat 93",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 17 07",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CvVEMiGH8oJLN9Py3RK41_51.050304_3.730204@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485544,
+    "wof:geomhash":"5943a7afe01025ba9c8d11f9c2cd9c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041843885
+        }
+    ],
+    "wof:id":1041843885,
+    "wof:lastmodified":1473485544,
+    "wof:name":"Remco Car Stereo Bv",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "radio"
+    ]
+},
+  "bbox": [
+    3.7302041054,
+    51.0503044128,
+    3.7302041054,
+    51.0503044128
+],
+  "geometry": {"coordinates":[3.7302041054,51.0503044128],"type":"Point"}
+}

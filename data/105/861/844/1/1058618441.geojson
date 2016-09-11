@@ -1,0 +1,79 @@
+{
+  "id": 1058618441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7155580521,51.0544166565,3.7155580521,51.0544166565",
+    "geom:latitude":51.054417,
+    "geom:longitude":3.715558,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoogstraat 15",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 09 31",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PXkj7ba00zBIPIaVvmWBI_51.054417_3.715558@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533509,
+    "wof:geomhash":"adcd464f5b07138e6d7e611463522bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058618441
+        }
+    ],
+    "wof:id":1058618441,
+    "wof:lastmodified":1473533509,
+    "wof:name":"Bekov",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    3.7155580521,
+    51.0544166565,
+    3.7155580521,
+    51.0544166565
+],
+  "geometry": {"coordinates":[3.7155580521,51.0544166565],"type":"Point"}
+}

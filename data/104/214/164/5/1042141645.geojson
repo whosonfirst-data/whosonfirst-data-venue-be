@@ -1,0 +1,77 @@
+{
+  "id": 1042141645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3600811958,50.7896575928,4.3600811958,50.7896575928",
+    "geom:latitude":50.789658,
+    "geom:longitude":4.360081,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Wansijn 76",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 35 15",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KBrXuDOxtgVYMqDHAOPnc_50.789658_4.360081@1306268403"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498576,
+    "wof:geomhash":"2a458673fb0c1df0b9f445f6dd2b3b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1042141645
+        }
+    ],
+    "wof:id":1042141645,
+    "wof:lastmodified":1473498576,
+    "wof:name":"R.e.p.i",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    4.3600811958,
+    50.7896575928,
+    4.3600811958,
+    50.7896575928
+],
+  "geometry": {"coordinates":[4.3600811958,50.7896575928],"type":"Point"}
+}

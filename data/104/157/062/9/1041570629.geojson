@@ -1,0 +1,85 @@
+{
+  "id": 1041570629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5995388031,50.6110420227,5.5995388031,50.6110420227",
+    "geom:latitude":50.611042,
+    "geom:longitude":5.599539,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Andr\u00e9a Jadoulle 10",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 79 33",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800763,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQwUNr1oUXLmrbtuqtRqH_50.611042_5.599539@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474069,
+    "wof:geomhash":"44085ef1b85a7b16f97cac38e48def7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1041570629
+        }
+    ],
+    "wof:id":1041570629,
+    "wof:lastmodified":1473474069,
+    "wof:name":"Cliquoti\u00e8re (la)",
+    "wof:parent_id":85800763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ]
+},
+  "bbox": [
+    5.5995388031,
+    50.6110420227,
+    5.5995388031,
+    50.6110420227
+],
+  "geometry": {"coordinates":[5.5995388031,50.6110420227],"type":"Point"}
+}

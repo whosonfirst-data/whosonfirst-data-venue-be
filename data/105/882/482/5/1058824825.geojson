@@ -1,0 +1,77 @@
+{
+  "id": 1058824825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3040261269,50.8322715759,4.3040261269,50.8322715759",
+    "geom:latitude":50.832272,
+    "geom:longitude":4.304026,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Limbourg 34",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 86 40",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WxbQc1x2IesX3anICsWgM_50.832272_4.304026@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542646,
+    "wof:geomhash":"78c612c4b77d1eb01103b84322d9e8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1058824825
+        }
+    ],
+    "wof:id":1058824825,
+    "wof:lastmodified":1473542646,
+    "wof:name":"F\u00e9d\u00e9ration Belge Du Cyclotourisme Asbl",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3040261269,
+    50.8322715759,
+    4.3040261269,
+    50.8322715759
+],
+  "geometry": {"coordinates":[4.3040261269,50.8322715759],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058285491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5014829636,50.8645896912,4.5014829636,50.8645896912",
+    "geom:latitude":50.86459,
+    "geom:longitude":4.501483,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Panoramalaan 11",
+    "sg:city":"Zaventem (sterrebeek)",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 55 25",
+    "sg:postcode":"1933",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "commercial",
+        "industrial",
+        "-",
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801933,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52FRNe322V9D22xs7scYLn_50.864590_4.501483@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517941,
+    "wof:geomhash":"b29c7430ada628c943b32afe06f147ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801933,
+            "region_id":85681731,
+            "venue_id":1058285491
+        }
+    ],
+    "wof:id":1058285491,
+    "wof:lastmodified":1473517941,
+    "wof:name":"Mees E",
+    "wof:parent_id":85801933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "industrial",
+        "-",
+        "investigator"
+    ]
+},
+  "bbox": [
+    4.5014829636,
+    50.8645896912,
+    4.5014829636,
+    50.8645896912
+],
+  "geometry": {"coordinates":[4.5014829636,50.8645896912],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041752707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3524289131,50.7919654846,4.3524289131,50.7919654846",
+    "geom:latitude":50.791965,
+    "geom:longitude":4.352429,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Saint-job 485",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 71 67",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "antenna"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13JwY4N0lHu5qyqi9R5Thz_50.791965_4.352429@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481482,
+    "wof:geomhash":"ce2dbd1dba570386c268b706cbed06b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1041752707
+        }
+    ],
+    "wof:id":1041752707,
+    "wof:lastmodified":1473481482,
+    "wof:name":"Bxl-com",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antenna"
+    ]
+},
+  "bbox": [
+    4.3524289131,
+    50.7919654846,
+    4.3524289131,
+    50.7919654846
+],
+  "geometry": {"coordinates":[4.3524289131,50.7919654846],"type":"Point"}
+}

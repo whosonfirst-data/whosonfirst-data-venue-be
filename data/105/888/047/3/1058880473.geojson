@@ -1,0 +1,83 @@
+{
+  "id": 1058880473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4943199158,50.6037712097,5.4943199158,50.6037712097",
+    "geom:latitude":50.603771,
+    "geom:longitude":5.49432,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Val Saint-lambert",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 338 38 30",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "tourism",
+        "interest",
+        "sight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vZKcGBWrrh4A4Q6XdXB6T_50.603771_5.494320@1306268589"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545034,
+    "wof:geomhash":"d24e22d32e07e15488d6d1fba7d9144e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058880473
+        }
+    ],
+    "wof:id":1058880473,
+    "wof:lastmodified":1473545034,
+    "wof:name":"Route Du Feu (la)",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "tourism",
+        "interest",
+        "sight"
+    ]
+},
+  "bbox": [
+    5.4943199158,
+    50.6037712097,
+    5.4943199158,
+    50.6037712097
+],
+  "geometry": {"coordinates":[5.4943199158,50.6037712097],"type":"Point"}
+}

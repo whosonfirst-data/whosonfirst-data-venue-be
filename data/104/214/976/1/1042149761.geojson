@@ -1,0 +1,83 @@
+{
+  "id": 1042149761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3959789276,50.8424606323,4.3959789276,50.8424606323",
+    "geom:latitude":50.842461,
+    "geom:longitude":4.395979,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Chevalerie 9",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 40 98",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eZtmbhkhV1m1oXqt2AbIl_50.842461_4.395979@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499017,
+    "wof:geomhash":"3e3c45bde6ba3559e9e4fda928e0ffd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042149761
+        }
+    ],
+    "wof:id":1042149761,
+    "wof:lastmodified":1473499017,
+    "wof:name":"Saga (la)",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ]
+},
+  "bbox": [
+    4.3959789276,
+    50.8424606323,
+    4.3959789276,
+    50.8424606323
+],
+  "geometry": {"coordinates":[4.3959789276,50.8424606323],"type":"Point"}
+}

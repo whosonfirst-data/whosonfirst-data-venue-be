@@ -1,0 +1,79 @@
+{
+  "id": 1042025663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4058909416,51.1770248413,4.4058909416,51.1770248413",
+    "geom:latitude":51.177025,
+    "geom:longitude":4.405891,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahornenlaan 31",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 827 06 88",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bw6wseLBnBYjji75d0Qn4_51.177025_4.405891@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493272,
+    "wof:geomhash":"74d7bca13beea17168399366e76039ee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1042025663
+        }
+    ],
+    "wof:id":1042025663,
+    "wof:lastmodified":1473493272,
+    "wof:name":"Rita Peeters",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4058909416,
+    51.1770248413,
+    4.4058909416,
+    51.1770248413
+],
+  "geometry": {"coordinates":[4.4058909416,51.1770248413],"type":"Point"}
+}

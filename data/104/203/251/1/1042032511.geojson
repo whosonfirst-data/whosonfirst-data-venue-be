@@ -1,0 +1,81 @@
+{
+  "id": 1042032511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3332619667,50.8302116394,4.3332619667,50.8302116394",
+    "geom:latitude":50.830212,
+    "geom:longitude":4.333262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koningslaan 21ba",
+    "sg:city":"Sint-gillis/saint-gilles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 00 12",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s",
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueKWwDoCGj7Q8y1bsMh6l_50.830212_4.333262@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493551,
+    "wof:geomhash":"d3060acd49f59dc052fcfeb0ebdd754d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1042032511
+        }
+    ],
+    "wof:id":1042032511,
+    "wof:lastmodified":1473493551,
+    "wof:name":"Caf\u00c9 Europe",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s",
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    4.3332619667,
+    50.8302116394,
+    4.3332619667,
+    50.8302116394
+],
+  "geometry": {"coordinates":[4.3332619667,50.8302116394],"type":"Point"}
+}

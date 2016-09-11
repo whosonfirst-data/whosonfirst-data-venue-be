@@ -1,0 +1,77 @@
+{
+  "id": 1058572797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2598772049,51.2117500305,4.2598772049,51.2117500305",
+    "geom:latitude":51.21175,
+    "geom:longitude":4.259877,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moretusstraat 12",
+    "sg:city":"Beveren (beveren-waas)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 62 37",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZVnse3HlqC6AlDjZzPrtn_51.211750_4.259877@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531428,
+    "wof:geomhash":"50ea25731f4b9fe1b6582f3354717c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058572797
+        }
+    ],
+    "wof:id":1058572797,
+    "wof:lastmodified":1473531428,
+    "wof:name":"Verhaert Stan",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.2598772049,
+    51.2117500305,
+    4.2598772049,
+    51.2117500305
+],
+  "geometry": {"coordinates":[4.2598772049,51.2117500305],"type":"Point"}
+}

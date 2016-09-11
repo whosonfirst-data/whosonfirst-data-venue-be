@@ -1,0 +1,77 @@
+{
+  "id": 1058400461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3731870651,50.8518257141,4.3731870651,50.8518257141",
+    "geom:latitude":50.851826,
+    "geom:longitude":4.373187,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-josse 3",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 11 37",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gXfh5Ljsr63mPyjflWN8g_50.851826_4.373187@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523264,
+    "wof:geomhash":"9117406e62e2890d0a37dc5da47beb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058400461
+        }
+    ],
+    "wof:id":1058400461,
+    "wof:lastmodified":1473523264,
+    "wof:name":"Centre De M\u00e9decine Sp\u00e9cialis\u00e9e",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3731870651,
+    50.8518257141,
+    4.3731870651,
+    50.8518257141
+],
+  "geometry": {"coordinates":[4.3731870651,50.8518257141],"type":"Point"}
+}

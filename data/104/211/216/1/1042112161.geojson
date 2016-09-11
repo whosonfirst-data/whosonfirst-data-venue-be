@@ -1,0 +1,81 @@
+{
+  "id": 1042112161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3679909706,50.812587738,4.3679909706,50.812587738",
+    "geom:latitude":50.812588,
+    "geom:longitude":4.367991,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 775 Box 2",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 346 07 23",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PcISWunlMCm1kDzfN5E5t_50.812588_4.367991@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496956,
+    "wof:geomhash":"67fa6663356669ddbd762816300d6d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042112161
+        }
+    ],
+    "wof:id":1042112161,
+    "wof:lastmodified":1473496956,
+    "wof:name":"Business Euroteam",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3679909706,
+    50.812587738,
+    4.3679909706,
+    50.812587738
+],
+  "geometry": {"coordinates":[4.3679909706,50.812587738],"type":"Point"}
+}

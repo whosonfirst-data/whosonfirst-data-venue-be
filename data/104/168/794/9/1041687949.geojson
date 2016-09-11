@@ -1,0 +1,77 @@
+{
+  "id": 1041687949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5093898773,50.8456382751,4.5093898773,50.8456382751",
+    "geom:latitude":50.845638,
+    "geom:longitude":4.50939,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hippodroomlaan 18",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 70 79",
+    "sg:postcode":"1933",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801999,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ndTcehfasGIQDtDilMouy_50.845638_4.509390@1306268322"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478826,
+    "wof:geomhash":"988ac5f838b1e4ebe2bf95f623a0d6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801999,
+            "region_id":85681731,
+            "venue_id":1041687949
+        }
+    ],
+    "wof:id":1041687949,
+    "wof:lastmodified":1473478826,
+    "wof:name":"Michel Jonckheere",
+    "wof:parent_id":85801999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.5093898773,
+    50.8456382751,
+    4.5093898773,
+    50.8456382751
+],
+  "geometry": {"coordinates":[4.5093898773,50.8456382751],"type":"Point"}
+}

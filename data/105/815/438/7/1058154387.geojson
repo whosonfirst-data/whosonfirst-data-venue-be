@@ -1,0 +1,73 @@
+{
+  "id": 1058154387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2045478821,51.2159843445,3.2045478821,51.2159843445",
+    "geom:latitude":51.215984,
+    "geom:longitude":3.204548,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karel De Stoutelaan 129",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 07 82",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801893,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vCcGy5fiKpuS0XQszBc5h_51.215984_3.204548@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512201,
+    "wof:geomhash":"2459404520d76fe9e0e4352952869a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801893,
+            "region_id":85681709,
+            "venue_id":1058154387
+        }
+    ],
+    "wof:id":1058154387,
+    "wof:lastmodified":1473512201,
+    "wof:name":"Basyn M",
+    "wof:parent_id":85801893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.2045478821,
+    51.2159843445,
+    3.2045478821,
+    51.2159843445
+],
+  "geometry": {"coordinates":[3.2045478821,51.2159843445],"type":"Point"}
+}

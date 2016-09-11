@@ -1,0 +1,79 @@
+{
+  "id": 1041881299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.329832077,50.8331375122,4.329832077,50.8331375122",
+    "geom:latitude":50.833138,
+    "geom:longitude":4.329832,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des V\u00e9t\u00e9rinaires 90",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 51 26",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZoC5TBvS2tzSQeYRLZVbJ_50.833138_4.329832@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487127,
+    "wof:geomhash":"9a43b522a6fe3cc771b0ba664d8b50f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1041881299
+        }
+    ],
+    "wof:id":1041881299,
+    "wof:lastmodified":1473487127,
+    "wof:name":"Euro-baguette",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.329832077,
+    50.8331375122,
+    4.329832077,
+    50.8331375122
+],
+  "geometry": {"coordinates":[4.329832077,50.8331375122],"type":"Point"}
+}

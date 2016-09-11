@@ -1,0 +1,78 @@
+{
+  "id": 1058489679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3645172119,50.8614311218,4.3645172119,50.8614311218",
+    "geom:latitude":50.861431,
+    "geom:longitude":4.364517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Brabant 194bb",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[],
+    "sg:orig_category":"Opticiens",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 26 32",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bxWAp3S6lDj86PmroJ7wp_50.861431_4.364517@1306268517"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527590,
+    "wof:geomhash":"8dc48d8669576a0edd56a47106a99f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058489679
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058489679
+        }
+    ],
+    "wof:id":1058489679,
+    "wof:lastmodified":1473527590,
+    "wof:name":"Optique Brabant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3645172119,
+    50.8614311218,
+    4.3645172119,
+    50.8614311218
+],
+  "geometry": {"coordinates":[4.3645172119,50.8614311218],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058625997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5657458305,50.6289672852,5.5657458305,50.6289672852",
+    "geom:latitude":50.628967,
+    "geom:longitude":5.565746,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De Bronckart 26",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 254 19 58",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "public",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UdTJFdmUaOy6jsiTz4eGW_50.628967_5.565746@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533835,
+    "wof:geomhash":"a72cea7f5b7ffafbe29d9d91ee05a2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058625997
+        }
+    ],
+    "wof:id":1058625997,
+    "wof:lastmodified":1473533835,
+    "wof:name":"Euro Li\u00e8ge Tgv",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "transport"
+    ]
+},
+  "bbox": [
+    5.5657458305,
+    50.6289672852,
+    5.5657458305,
+    50.6289672852
+],
+  "geometry": {"coordinates":[5.5657458305,50.6289672852],"type":"Point"}
+}

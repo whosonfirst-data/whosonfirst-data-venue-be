@@ -1,0 +1,73 @@
+{
+  "id": 1058033303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5071687698,50.5804519653,5.5071687698,50.5804519653",
+    "geom:latitude":50.580452,
+    "geom:longitude":5.507169,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Plainevaux 208",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 338 27 46",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I8RyvFOmc8GfuzqWkUcDE_50.580452_5.507169@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506824,
+    "wof:geomhash":"0fb21e1e8836cb85a6315a6835659f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1058033303
+        }
+    ],
+    "wof:id":1058033303,
+    "wof:lastmodified":1473506824,
+    "wof:name":"Restaurant Gipi",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    5.5071687698,
+    50.5804519653,
+    5.5071687698,
+    50.5804519653
+],
+  "geometry": {"coordinates":[5.5071687698,50.5804519653],"type":"Point"}
+}

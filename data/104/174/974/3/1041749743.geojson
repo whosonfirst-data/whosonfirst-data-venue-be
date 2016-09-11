@@ -1,0 +1,79 @@
+{
+  "id": 1041749743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3397369385,50.8355064392,4.3397369385,50.8355064392",
+    "geom:latitude":50.835506,
+    "geom:longitude":4.339737,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De M\u00e9rode 44",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 80 01",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "machine",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801025,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J1DqhNYjMa6rR0rRgPGHj_50.835506_4.339737@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481359,
+    "wof:geomhash":"a34b0edb78ee6f102d9c2f1e33929f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801025,
+            "region_id":85681713,
+            "venue_id":1041749743
+        }
+    ],
+    "wof:id":1041749743,
+    "wof:lastmodified":1473481359,
+    "wof:name":"B\u00e9n\u00e9lux Amusement Sa",
+    "wof:parent_id":85801025,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "amusement"
+    ]
+},
+  "bbox": [
+    4.3397369385,
+    50.8355064392,
+    4.3397369385,
+    50.8355064392
+],
+  "geometry": {"coordinates":[4.3397369385,50.8355064392],"type":"Point"}
+}

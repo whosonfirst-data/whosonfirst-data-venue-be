@@ -1,0 +1,79 @@
+{
+  "id": 1058154415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7513399124,50.9950218201,3.7513399124,50.9950218201",
+    "geom:latitude":50.995022,
+    "geom:longitude":3.75134,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wisselbos 10",
+    "sg:city":"Merelbeke",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 232 16 91",
+    "sg:postcode":"9820",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C9kgeq5naBu5hZegEbcrl_50.995022_3.751340@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512202,
+    "wof:geomhash":"9760e069b2e2803e3f5414f994a851b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058154415
+        }
+    ],
+    "wof:id":1058154415,
+    "wof:lastmodified":1473512202,
+    "wof:name":"Baudewijns Linda",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7513399124,
+    50.9950218201,
+    3.7513399124,
+    50.9950218201
+],
+  "geometry": {"coordinates":[3.7513399124,50.9950218201],"type":"Point"}
+}

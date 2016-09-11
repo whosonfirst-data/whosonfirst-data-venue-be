@@ -1,0 +1,91 @@
+{
+  "id": 1058418581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3614602089,50.868396759,4.3614602089,50.868396759",
+    "geom:latitude":50.868397,
+    "geom:longitude":4.36146,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"194",
+    "sg:city":"Rue Masui 1030 Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 201 14 75",
+    "sg:postcode":"194",
+    "sg:tags":[
+        "equipment",
+        "motor-cars",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fmr9uU3ZFRRbFzNKPw27y_50.868397_4.361460@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524072,
+    "wof:geomhash":"f5848f799c88705c994edf62a8826d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058418581
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058418581
+        }
+    ],
+    "wof:id":1058418581,
+    "wof:lastmodified":1473524072,
+    "wof:name":"Autographe Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "motor-cars",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3614602089,
+    50.868396759,
+    4.3614602089,
+    50.868396759
+],
+  "geometry": {"coordinates":[4.3614602089,50.868396759],"type":"Point"}
+}

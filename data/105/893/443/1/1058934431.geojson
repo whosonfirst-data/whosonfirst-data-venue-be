@@ -1,0 +1,77 @@
+{
+  "id": 1058934431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5889549255,50.6476097107,5.5889549255,50.6476097107",
+    "geom:latitude":50.64761,
+    "geom:longitude":5.588955,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Saint-l\u00e9onard 20a",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 228 05 05",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aazYcnTuH6IdoyL1vGIjz_50.647610_5.588955@1306268598"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547513,
+    "wof:geomhash":"bf485f7c93b2f5f225518611c6abcd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1058934431
+        }
+    ],
+    "wof:id":1058934431,
+    "wof:lastmodified":1473547513,
+    "wof:name":"Hermesse J",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    5.5889549255,
+    50.6476097107,
+    5.5889549255,
+    50.6476097107
+],
+  "geometry": {"coordinates":[5.5889549255,50.6476097107],"type":"Point"}
+}

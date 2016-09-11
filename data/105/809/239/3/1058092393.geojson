@@ -1,0 +1,71 @@
+{
+  "id": 1058092393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4599452019,51.1246833801,4.4599452019,51.1246833801",
+    "geom:latitude":51.124683,
+    "geom:longitude":4.459945,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Duffelsesteenweg 144",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 77 77",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wdSUoLsUBkvp9XWtJeJCh_51.124683_4.459945@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509252,
+    "wof:geomhash":"1f765ac77753ee52a663afa1da07204c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058092393
+        }
+    ],
+    "wof:id":1058092393,
+    "wof:lastmodified":1473509252,
+    "wof:name":"Garage Willy",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4599452019,
+    51.1246833801,
+    4.4599452019,
+    51.1246833801
+],
+  "geometry": {"coordinates":[4.4599452019,51.1246833801],"type":"Point"}
+}

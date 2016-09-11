@@ -1,0 +1,77 @@
+{
+  "id": 1058865359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4008989334,50.8523521423,4.4008989334,50.8523521423",
+    "geom:latitude":50.852352,
+    "geom:longitude":4.400899,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Auguste Reyers 70",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 745 71 11",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bJi9Vx1g3c88g9vwNSsG1_50.852352_4.400899@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544372,
+    "wof:geomhash":"8e534658cb7b169b79b9eb1da47c28cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058865359
+        }
+    ],
+    "wof:id":1058865359,
+    "wof:lastmodified":1473544372,
+    "wof:name":"Mobistar (deptm. Communication)",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    4.4008989334,
+    50.8523521423,
+    4.4008989334,
+    50.8523521423
+],
+  "geometry": {"coordinates":[4.4008989334,50.8523521423],"type":"Point"}
+}

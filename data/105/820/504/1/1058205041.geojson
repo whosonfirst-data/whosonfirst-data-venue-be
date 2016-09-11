@@ -1,0 +1,81 @@
+{
+  "id": 1058205041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4174799919,50.904209137,4.4174799919,50.904209137",
+    "geom:latitude":50.904209,
+    "geom:longitude":4.41748,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Dobbelenberg 107",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 420 18 04",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "supply",
+        "hotels",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800795,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NopO0Bk34orgz419v3F9i_50.904209_4.417480@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514405,
+    "wof:geomhash":"646e64d0e7ae0ce5f216d0d13936dd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800795,
+            "region_id":85681713,
+            "venue_id":1058205041
+        }
+    ],
+    "wof:id":1058205041,
+    "wof:lastmodified":1473514405,
+    "wof:name":"De Groote & Cie Nv",
+    "wof:parent_id":85800795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "hotels",
+        "catering"
+    ]
+},
+  "bbox": [
+    4.4174799919,
+    50.904209137,
+    4.4174799919,
+    50.904209137
+],
+  "geometry": {"coordinates":[4.4174799919,50.904209137],"type":"Point"}
+}

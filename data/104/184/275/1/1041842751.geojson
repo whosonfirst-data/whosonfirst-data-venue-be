@@ -1,0 +1,75 @@
+{
+  "id": 1041842751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4911308289,51.5042076111,5.4911308289,51.5042076111",
+    "geom:latitude":51.504208,
+    "geom:longitude":5.491131,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Tilleul 175",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+31 499 473 229",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lpg",
+        "automobile",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85797035,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QQfZeqBGnmXnSeUzKmUkK_51.504208_5.491131@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485500,
+    "wof:geomhash":"2f42ce2b996f8c0618eeab53369bbeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85797035,
+            "region_id":85687035,
+            "venue_id":1041842751
+        }
+    ],
+    "wof:id":1041842751,
+    "wof:lastmodified":1473485500,
+    "wof:name":"Vogels Autogassystemen",
+    "wof:parent_id":85797035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lpg",
+        "automobile",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    5.4911308289,
+    51.5042076111,
+    5.4911308289,
+    51.5042076111
+],
+  "geometry": {"coordinates":[5.4911308289,51.5042076111],"type":"Point"}
+}

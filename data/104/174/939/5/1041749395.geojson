@@ -1,0 +1,77 @@
+{
+  "id": 1041749395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5685858727,50.6610984802,5.5685858727,50.6610984802",
+    "geom:latitude":50.661098,
+    "geom:longitude":5.568586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vieille-voie-de-tongres 198",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 254 34 00",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LiSXYqSJ7sGXuYrBo73iu_50.661098_5.568586@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481347,
+    "wof:geomhash":"d6b41da013b5421f8e7e8ad676ddac37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1041749395
+        }
+    ],
+    "wof:id":1041749395,
+    "wof:lastmodified":1473481347,
+    "wof:name":"Trans Ambu Scrl",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    5.5685858727,
+    50.6610984802,
+    5.5685858727,
+    50.6610984802
+],
+  "geometry": {"coordinates":[5.5685858727,50.6610984802],"type":"Point"}
+}

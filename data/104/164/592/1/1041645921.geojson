@@ -1,0 +1,81 @@
+{
+  "id": 1041645921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7166550159,51.0486221313,3.7166550159,51.0486221313",
+    "geom:latitude":51.048622,
+    "geom:longitude":3.716655,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stoppelstraat 35-37",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 80 59",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "piano",
+        "-",
+        "tuning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PF6g0WAFatfvkl7d5L7X0_51.048622_3.716655@1306268533"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477174,
+    "wof:geomhash":"40c16cc3fb5143015e035fcb3226ca74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041645921
+        }
+    ],
+    "wof:id":1041645921,
+    "wof:lastmodified":1473477174,
+    "wof:name":"Pianocentrum Quatre Mains",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "-",
+        "tuning"
+    ]
+},
+  "bbox": [
+    3.7166550159,
+    51.0486221313,
+    3.7166550159,
+    51.0486221313
+],
+  "geometry": {"coordinates":[3.7166550159,51.0486221313],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058119037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.65812397,50.6702003479,5.65812397,50.6702003479",
+    "geom:latitude":50.6702,
+    "geom:longitude":5.658124,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Pont De Wandre 69",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 08 46",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FASrwI1Q8vmuILOwHCwBN_50.670200_5.658124@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510454,
+    "wof:geomhash":"d095cf541d7302ac7550af1b9c0622d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058119037
+        }
+    ],
+    "wof:id":1058119037,
+    "wof:lastmodified":1473510454,
+    "wof:name":"Carlo (chez)",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    5.65812397,
+    50.6702003479,
+    5.65812397,
+    50.6702003479
+],
+  "geometry": {"coordinates":[5.65812397,50.6702003479],"type":"Point"}
+}

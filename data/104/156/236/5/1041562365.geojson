@@ -1,0 +1,81 @@
+{
+  "id": 1041562365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3902478218,50.8497047424,4.3902478218,50.8497047424",
+    "geom:latitude":50.849705,
+    "geom:longitude":4.390248,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Des Chasseurs Ardennais 20",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 15 17",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GQG1rwqK9PHOSzPLz0Qzu_50.849705_4.390248@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473727,
+    "wof:geomhash":"98c004b882679d9bda4fb10d3e12e8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1041562365
+        }
+    ],
+    "wof:id":1041562365,
+    "wof:lastmodified":1473473727,
+    "wof:name":"Restaurant Taverne St Hubert",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3902478218,
+    50.8497047424,
+    4.3902478218,
+    50.8497047424
+],
+  "geometry": {"coordinates":[4.3902478218,50.8497047424],"type":"Point"}
+}

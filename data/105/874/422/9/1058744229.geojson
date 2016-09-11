@@ -1,0 +1,79 @@
+{
+  "id": 1058744229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.30271101,50.8467597961,4.30271101,50.8467597961",
+    "geom:latitude":50.84676,
+    "geom:longitude":4.302711,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Van Soust 241",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 02 79",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_594lkUiGUe2F982lIoHwnV_50.846760_4.302711@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539080,
+    "wof:geomhash":"f4beb84a892f5660119a3569752e554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058744229
+        }
+    ],
+    "wof:id":1058744229,
+    "wof:lastmodified":1473539080,
+    "wof:name":"Jean-marie Reygaers",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.30271101,
+    50.8467597961,
+    4.30271101,
+    50.8467597961
+],
+  "geometry": {"coordinates":[4.30271101,50.8467597961],"type":"Point"}
+}

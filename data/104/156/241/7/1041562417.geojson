@@ -1,0 +1,81 @@
+{
+  "id": 1041562417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3787379265,50.7994003296,4.3787379265,50.7994003296",
+    "geom:latitude":50.7994,
+    "geom:longitude":4.378738,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Du Vivier Doie 75",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 31 63",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14WFkHFyUdhV4jvzt7smFA_50.799400_4.378738@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473731,
+    "wof:geomhash":"a4794dee04359fcd6f3b6caa9d04bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1041562417
+        }
+    ],
+    "wof:id":1041562417,
+    "wof:lastmodified":1473473731,
+    "wof:name":"Villa Lorraine Sa",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3787379265,
+    50.7994003296,
+    4.3787379265,
+    50.7994003296
+],
+  "geometry": {"coordinates":[4.3787379265,50.7994003296],"type":"Point"}
+}

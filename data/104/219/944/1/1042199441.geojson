@@ -1,0 +1,77 @@
+{
+  "id": 1042199441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2194650173,51.2141647339,3.2194650173,51.2141647339",
+    "geom:latitude":51.214165,
+    "geom:longitude":3.219465,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hugo Losschaertstraat 5",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 09 64",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sEf6mExMUnx2FE3KtmZsG_51.214165_3.219465@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501924,
+    "wof:geomhash":"adf8b4dd3c3aff867ec3c55a53c6be0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1042199441
+        }
+    ],
+    "wof:id":1042199441,
+    "wof:lastmodified":1473501924,
+    "wof:name":"Middenschool Brugge Centrum",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    3.2194650173,
+    51.2141647339,
+    3.2194650173,
+    51.2141647339
+],
+  "geometry": {"coordinates":[3.2194650173,51.2141647339],"type":"Point"}
+}

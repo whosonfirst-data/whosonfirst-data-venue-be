@@ -1,0 +1,73 @@
+{
+  "id": 1042065879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6606190205,51.05128479,3.6606190205,51.05128479",
+    "geom:latitude":51.051285,
+    "geom:longitude":3.660619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rondehuisjesdreef 13",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 57 43",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "furnishing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85800745,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HEBTr7qDagUFfq7SZJ8re_51.051285_3.660619@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494905,
+    "wof:geomhash":"9216be55a425022e11fc3ca18cededbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85800745,
+            "region_id":85681733,
+            "venue_id":1042065879
+        }
+    ],
+    "wof:id":1042065879,
+    "wof:lastmodified":1473494905,
+    "wof:name":"De Cloet",
+    "wof:parent_id":85800745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "supply"
+    ]
+},
+  "bbox": [
+    3.6606190205,
+    51.05128479,
+    3.6606190205,
+    51.05128479
+],
+  "geometry": {"coordinates":[3.6606190205,51.05128479],"type":"Point"}
+}

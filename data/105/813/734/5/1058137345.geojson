@@ -1,0 +1,81 @@
+{
+  "id": 1058137345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2515759468,51.2072792053,3.2515759468,51.2072792053",
+    "geom:latitude":51.207279,
+    "geom:longitude":3.251576,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Welvaartstraat 22",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 07 96",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73T914an4bNLDciAhuyNHG_51.207279_3.251576@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511331,
+    "wof:geomhash":"210dee7cc4e4c34567aeae4dbdfc9f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1058137345
+        }
+    ],
+    "wof:id":1058137345,
+    "wof:lastmodified":1473511331,
+    "wof:name":"Chahema Hairstyling",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.2515759468,
+    51.2072792053,
+    3.2515759468,
+    51.2072792053
+],
+  "geometry": {"coordinates":[3.2515759468,51.2072792053],"type":"Point"}
+}

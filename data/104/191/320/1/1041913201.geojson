@@ -1,0 +1,81 @@
+{
+  "id": 1041913201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4882049561,51.3029441833,4.4882049561,51.3029441833",
+    "geom:latitude":51.302944,
+    "geom:longitude":4.488205,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peter Benoitlei 24",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 653 31 36",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "barcode",
+        "scanner",
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zvxyKTn7mUkFQ0ADdsAvC_51.302944_4.488205@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488442,
+    "wof:geomhash":"23ca69d4c8746a2ee54c94c5ec560d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1041913201
+        }
+    ],
+    "wof:id":1041913201,
+    "wof:lastmodified":1473488442,
+    "wof:name":"Europatech Bvba",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barcode",
+        "scanner",
+        "printer"
+    ]
+},
+  "bbox": [
+    4.4882049561,
+    51.3029441833,
+    4.4882049561,
+    51.3029441833
+],
+  "geometry": {"coordinates":[4.4882049561,51.3029441833],"type":"Point"}
+}

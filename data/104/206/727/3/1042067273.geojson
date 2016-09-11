@@ -1,0 +1,79 @@
+{
+  "id": 1042067273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5911641121,50.6211395264,5.5911641121,50.6211395264",
+    "geom:latitude":50.62114,
+    "geom:longitude":5.591164,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Emile De Laveleye 157",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 16 40",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hqb3dAlV49lzUrOEVeEIc_50.621140_5.591164@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494961,
+    "wof:geomhash":"408b846a8ee7b86ed62ab1d6ba067556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1042067273
+        }
+    ],
+    "wof:id":1042067273,
+    "wof:lastmodified":1473494961,
+    "wof:name":"Shop-o-vennes",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    5.5911641121,
+    50.6211395264,
+    5.5911641121,
+    50.6211395264
+],
+  "geometry": {"coordinates":[5.5911641121,50.6211395264],"type":"Point"}
+}

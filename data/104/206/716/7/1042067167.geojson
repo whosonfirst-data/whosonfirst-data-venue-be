@@ -1,0 +1,79 @@
+{
+  "id": 1042067167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7219440937,51.0464782715,3.7219440937,51.0464782715",
+    "geom:latitude":51.046478,
+    "geom:longitude":3.721944,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nederkouter 138",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 91 80",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i0iYBYJuewTFwCZVhkcED_51.046478_3.721944@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494957,
+    "wof:geomhash":"bebfb7193057f0fc49ff1a02b25c4f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042067167
+        }
+    ],
+    "wof:id":1042067167,
+    "wof:lastmodified":1473494957,
+    "wof:name":"Pressing Nr 1",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    3.7219440937,
+    51.0464782715,
+    3.7219440937,
+    51.0464782715
+],
+  "geometry": {"coordinates":[3.7219440937,51.0464782715],"type":"Point"}
+}

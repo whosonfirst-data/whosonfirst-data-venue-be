@@ -1,0 +1,81 @@
+{
+  "id": 1058150807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5116991997,50.6161193848,5.5116991997,50.6161193848",
+    "geom:latitude":50.616119,
+    "geom:longitude":5.511699,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Kuborn 10",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 61 51",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57sHvrtsFUmj7Uxp1coGF0_50.616119_5.511699@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512029,
+    "wof:geomhash":"cb77cd42721dc25e65677eba5d43c475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058150807
+        }
+    ],
+    "wof:id":1058150807,
+    "wof:lastmodified":1473512029,
+    "wof:name":"Sultan (le)",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    5.5116991997,
+    50.6161193848,
+    5.5116991997,
+    50.6161193848
+],
+  "geometry": {"coordinates":[5.5116991997,50.6161193848],"type":"Point"}
+}

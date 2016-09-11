@@ -1,0 +1,79 @@
+{
+  "id": 1042049017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3671507835,50.8621711731,4.3671507835,50.8621711731",
+    "geom:latitude":50.862171,
+    "geom:longitude":4.367151,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Palais 94",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 73 89",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "ceremony",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nuy9qxsjwZjnTc2HcfC8k_50.862171_4.367151@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494213,
+    "wof:geomhash":"42e18a2d24b4c101a245ca8cc1bc0230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042049017
+        }
+    ],
+    "wof:id":1042049017,
+    "wof:lastmodified":1473494213,
+    "wof:name":"Diligence Company (the)",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceremony",
+        "car"
+    ]
+},
+  "bbox": [
+    4.3671507835,
+    50.8621711731,
+    4.3671507835,
+    50.8621711731
+],
+  "geometry": {"coordinates":[4.3671507835,50.8621711731],"type":"Point"}
+}

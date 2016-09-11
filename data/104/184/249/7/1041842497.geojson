@@ -1,0 +1,83 @@
+{
+  "id": 1041842497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.290102005,50.8736419678,4.290102005,50.8736419678",
+    "geom:latitude":50.873642,
+    "geom:longitude":4.290102,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Technologie 21-25",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 06 00",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "inspection",
+        "automobile",
+        "-",
+        "examination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_467beAwLyQbz99g4IBccuo_50.873642_4.290102@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485485,
+    "wof:geomhash":"6bdeddf5199e572ab483a5d13fb272c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1041842497
+        }
+    ],
+    "wof:id":1041842497,
+    "wof:lastmodified":1473485485,
+    "wof:name":"Goca",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "automobile",
+        "-",
+        "examination"
+    ]
+},
+  "bbox": [
+    4.290102005,
+    50.8736419678,
+    4.290102005,
+    50.8736419678
+],
+  "geometry": {"coordinates":[4.290102005,50.8736419678],"type":"Point"}
+}

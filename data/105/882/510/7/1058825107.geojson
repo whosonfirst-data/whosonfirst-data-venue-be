@@ -1,0 +1,66 @@
+{
+  "id": 1058825107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2023770809,51.2490768433,3.2023770809,51.2490768433",
+    "geom:latitude":51.249077,
+    "geom:longitude":3.202377,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Monnikenwerve 109",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 00 87",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eY7cyOHD3bpT9I74AxqbW_51.249077_3.202377@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542661,
+    "wof:geomhash":"47f94d14ef10b146644e716fa5f623be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1058825107
+        }
+    ],
+    "wof:id":1058825107,
+    "wof:lastmodified":1473542661,
+    "wof:name":"Biover Nv",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2023770809,
+    51.2490768433,
+    3.2023770809,
+    51.2490768433
+],
+  "geometry": {"coordinates":[3.2023770809,51.2490768433],"type":"Point"}
+}

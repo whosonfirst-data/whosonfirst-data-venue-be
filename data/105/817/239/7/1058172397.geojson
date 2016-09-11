@@ -1,0 +1,79 @@
+{
+  "id": 1058172397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.409239769,50.8123779297,4.409239769,50.8123779297",
+    "geom:latitude":50.812378,
+    "geom:longitude":4.40924,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des P\u00eacheries 75",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 71 87",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AENIARjh0rujTVbyhPLFL_50.812378_4.409240@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513003,
+    "wof:geomhash":"ca98a0799b224b5180cd6e2ffd1750f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058172397
+        }
+    ],
+    "wof:id":1058172397,
+    "wof:lastmodified":1473513003,
+    "wof:name":"Louryan Z",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.409239769,
+    50.8123779297,
+    4.409239769,
+    50.8123779297
+],
+  "geometry": {"coordinates":[4.409239769,50.8123779297],"type":"Point"}
+}

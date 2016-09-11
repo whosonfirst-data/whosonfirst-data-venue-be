@@ -1,0 +1,77 @@
+{
+  "id": 1058556831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4037151337,50.8258934021,4.4037151337,50.8258934021",
+    "geom:latitude":50.825893,
+    "geom:longitude":4.403715,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Molign\u00e9e 52",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 34 53",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0epfdWXCUnIUTyqB5algBi_50.825893_4.403715@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530664,
+    "wof:geomhash":"0c32cae0c3bd1a0716e59820ba81bfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058556831
+        }
+    ],
+    "wof:id":1058556831,
+    "wof:lastmodified":1473530664,
+    "wof:name":"Fontaine Jean",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4037151337,
+    50.8258934021,
+    4.4037151337,
+    50.8258934021
+],
+  "geometry": {"coordinates":[4.4037151337,50.8258934021],"type":"Point"}
+}

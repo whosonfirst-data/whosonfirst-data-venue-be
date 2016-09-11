@@ -1,0 +1,79 @@
+{
+  "id": 1058624945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5842561722,50.6242752075,5.5842561722,50.6242752075",
+    "geom:latitude":50.624275,
+    "geom:longitude":5.584256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Emile De Laveleye 65b",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 57 37",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F0vtvqTJUDaAsN2Uyek6Y_50.624275_5.584256@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533788,
+    "wof:geomhash":"06815995236c52c4f6a7988465b62071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058624945
+        }
+    ],
+    "wof:id":1058624945,
+    "wof:lastmodified":1473533788,
+    "wof:name":"Me Michel Martine",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    5.5842561722,
+    50.6242752075,
+    5.5842561722,
+    50.6242752075
+],
+  "geometry": {"coordinates":[5.5842561722,50.6242752075],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041972933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3592767715,50.8241424561,4.3592767715,50.8241424561",
+    "geom:latitude":50.824142,
+    "geom:longitude":4.359277,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'aqueduc 101",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 68 28",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71BeOjH9Idxq59sAHOCAA4_50.824142_4.359277@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491222,
+    "wof:geomhash":"f3774fbff133a081825b32f6f863beb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041972933
+        }
+    ],
+    "wof:id":1041972933,
+    "wof:lastmodified":1473491222,
+    "wof:name":"Place Voltaire",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3592767715,
+    50.8241424561,
+    4.3592767715,
+    50.8241424561
+],
+  "geometry": {"coordinates":[4.3592767715,50.8241424561],"type":"Point"}
+}

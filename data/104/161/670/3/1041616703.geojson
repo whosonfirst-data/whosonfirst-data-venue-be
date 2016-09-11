@@ -1,0 +1,77 @@
+{
+  "id": 1041616703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4010782242,50.8023834229,4.4010782242,50.8023834229",
+    "geom:latitude":50.802383,
+    "geom:longitude":4.401078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Cor De Chasse 99",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 57 27",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LVFqgO6ZmtyOUJc6ScnN9_50.802383_4.401078@1306268478"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475970,
+    "wof:geomhash":"00136bdc3cabb715cad0f8258a9173ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041616703
+        }
+    ],
+    "wof:id":1041616703,
+    "wof:lastmodified":1473475970,
+    "wof:name":"Agesim Sa",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    4.4010782242,
+    50.8023834229,
+    4.4010782242,
+    50.8023834229
+],
+  "geometry": {"coordinates":[4.4010782242,50.8023834229],"type":"Point"}
+}

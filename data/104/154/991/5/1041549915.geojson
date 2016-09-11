@@ -1,0 +1,77 @@
+{
+  "id": 1041549915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4328231812,50.8399085999,4.4328231812,50.8399085999",
+    "geom:latitude":50.839909,
+    "geom:longitude":4.432823,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Banni\u00e8res 28",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 72 60",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bailiff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QuStpjgnKlTdySA4Q1JGv_50.839909_4.432823@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473189,
+    "wof:geomhash":"2195e517b67f0860c27a946791d1a567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1041549915
+        }
+    ],
+    "wof:id":1041549915,
+    "wof:lastmodified":1473473189,
+    "wof:name":"De Haes M C",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bailiff"
+    ]
+},
+  "bbox": [
+    4.4328231812,
+    50.8399085999,
+    4.4328231812,
+    50.8399085999
+],
+  "geometry": {"coordinates":[4.4328231812,50.8399085999],"type":"Point"}
+}

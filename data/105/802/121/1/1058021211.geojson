@@ -1,0 +1,77 @@
+{
+  "id": 1058021211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3296298981,50.8794517517,4.3296298981,50.8794517517",
+    "geom:latitude":50.879452,
+    "geom:longitude":4.32963,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bo\u00eete Postale 53",
+    "sg:city":"Bruxelles9",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 800 99 090",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eENXB4EMRKdJ8Octjm28J_50.879452_4.329630@1306268429"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506320,
+    "wof:geomhash":"7817e8009a4b1133db9cdfca2891f084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058021211
+        }
+    ],
+    "wof:id":1058021211,
+    "wof:lastmodified":1473506320,
+    "wof:name":"Western Union Money Transfert",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchange"
+    ]
+},
+  "bbox": [
+    4.3296298981,
+    50.8794517517,
+    4.3296298981,
+    50.8794517517
+],
+  "geometry": {"coordinates":[4.3296298981,50.8794517517],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1042133637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2440960407,51.2189025879,3.2440960407,51.2189025879",
+    "geom:latitude":51.218903,
+    "geom:longitude":3.244096,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Geralaan 29",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 38 38",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WNkC3yi3GFiBq6Iuh0xv1_51.218903_3.244096@1306268402"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498142,
+    "wof:geomhash":"68e0f7e5cfd184ff57464da6ade049f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1042133637
+        }
+    ],
+    "wof:id":1042133637,
+    "wof:lastmodified":1473498142,
+    "wof:name":"Hendrickx Rudy",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2440960407,
+    51.2189025879,
+    3.2440960407,
+    51.2189025879
+],
+  "geometry": {"coordinates":[3.2440960407,51.2189025879],"type":"Point"}
+}

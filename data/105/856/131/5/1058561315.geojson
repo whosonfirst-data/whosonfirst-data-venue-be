@@ -1,0 +1,71 @@
+{
+  "id": 1058561315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5172472,50.6586837769,5.5172472,50.6586837769",
+    "geom:latitude":50.658684,
+    "geom:longitude":5.517247,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Doumier 26",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 46 50",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XDL0OCKN7zbtSWkysKPrP_50.658684_5.517247@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530875,
+    "wof:geomhash":"93aee2e2c3b9d056b67df5483108b84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1058561315
+        }
+    ],
+    "wof:id":1058561315,
+    "wof:lastmodified":1473530875,
+    "wof:name":"Leduc Murielle",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.5172472,
+    50.6586837769,
+    5.5172472,
+    50.6586837769
+],
+  "geometry": {"coordinates":[5.5172472,50.6586837769],"type":"Point"}
+}

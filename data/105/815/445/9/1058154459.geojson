@@ -1,0 +1,79 @@
+{
+  "id": 1058154459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4175281525,50.8020591736,4.4175281525,50.8020591736",
+    "geom:latitude":50.802059,
+    "geom:longitude":4.417528,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Garennes 48",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 660 95 05",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QdX10CGQM7DXVxItEV7TW_50.802059_4.417528@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512204,
+    "wof:geomhash":"992fdc2696c958fb0b4b967d215181d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1058154459
+        }
+    ],
+    "wof:id":1058154459,
+    "wof:lastmodified":1473512204,
+    "wof:name":"Bauherz G",
+    "wof:parent_id":85801147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4175281525,
+    50.8020591736,
+    4.4175281525,
+    50.8020591736
+],
+  "geometry": {"coordinates":[4.4175281525,50.8020591736],"type":"Point"}
+}

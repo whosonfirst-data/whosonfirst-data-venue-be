@@ -1,0 +1,83 @@
+{
+  "id": 1042043803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3785281181,51.1418952942,4.3785281181,51.1418952942",
+    "geom:latitude":51.141895,
+    "geom:longitude":4.378528,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Antwerpsesteenweg 27",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 877 25 13",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gFczSylbwK2qz21IWnPQ1_51.141895_4.378528@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494010,
+    "wof:geomhash":"8f63cd34b3e5beee3ac1f044a8cf2fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1042043803
+        }
+    ],
+    "wof:id":1042043803,
+    "wof:lastmodified":1473494010,
+    "wof:name":"Berkemei",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation",
+        "de",
+        "f\u00eates",
+        "catering"
+    ]
+},
+  "bbox": [
+    4.3785281181,
+    51.1418952942,
+    4.3785281181,
+    51.1418952942
+],
+  "geometry": {"coordinates":[4.3785281181,51.1418952942],"type":"Point"}
+}

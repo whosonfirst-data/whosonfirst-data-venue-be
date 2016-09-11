@@ -1,0 +1,81 @@
+{
+  "id": 1042112285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5884261131,50.666179657,5.5884261131,50.666179657",
+    "geom:latitude":50.66618,
+    "geom:longitude":5.588426,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gaillard-cheval 49",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 99 33",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801945,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RVYUfRRtB2Ex62AAhH6kj_50.666180_5.588426@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496961,
+    "wof:geomhash":"20cf420d19bb241594c315bb6e2c7b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801945,
+            "region_id":85681691,
+            "venue_id":1042112285
+        }
+    ],
+    "wof:id":1042112285,
+    "wof:lastmodified":1473496961,
+    "wof:name":"Communication Center",
+    "wof:parent_id":85801945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    5.5884261131,
+    50.666179657,
+    5.5884261131,
+    50.666179657
+],
+  "geometry": {"coordinates":[5.5884261131,50.666179657],"type":"Point"}
+}

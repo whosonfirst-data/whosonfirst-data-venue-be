@@ -1,0 +1,83 @@
+{
+  "id": 1041662045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4010791779,51.221031189,4.4010791779,51.221031189",
+    "geom:latitude":51.221031,
+    "geom:longitude":4.401079,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grote Markt 52",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 03 33",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "serigraphy",
+        "machine",
+        "-",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801623,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TryfBt6RybGxpEEYANWVp_51.221031_4.401079@1306268567"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477833,
+    "wof:geomhash":"4c4f23a334acf6ff8da981be0cc0a9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1041662045
+        }
+    ],
+    "wof:id":1041662045,
+    "wof:lastmodified":1473477833,
+    "wof:name":"Sticker",
+    "wof:parent_id":85801623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "serigraphy",
+        "machine",
+        "-",
+        "supply"
+    ]
+},
+  "bbox": [
+    4.4010791779,
+    51.221031189,
+    4.4010791779,
+    51.221031189
+],
+  "geometry": {"coordinates":[4.4010791779,51.221031189],"type":"Point"}
+}

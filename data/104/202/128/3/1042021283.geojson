@@ -1,0 +1,77 @@
+{
+  "id": 1042021283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3370342255,50.85754776,4.3370342255,50.85754776",
+    "geom:latitude":50.857548,
+    "geom:longitude":4.337034,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Merchtem 53",
+    "sg:city":"Sint-jans-molenbeek/molenbeek-saint-jean",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 00 99",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hkx032jIFakKQh9hxKwPd_50.857548_4.337034@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493094,
+    "wof:geomhash":"6e5ec3bd75bb9f3214fe12dfb9ba16db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1042021283
+        }
+    ],
+    "wof:id":1042021283,
+    "wof:lastmodified":1473493094,
+    "wof:name":"La Rose Blanche",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3370342255,
+    50.85754776,
+    4.3370342255,
+    50.85754776
+],
+  "geometry": {"coordinates":[4.3370342255,50.85754776],"type":"Point"}
+}

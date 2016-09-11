@@ -1,0 +1,70 @@
+{
+  "id": 1042150111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5206151009,50.6798477173,5.5206151009,50.6798477173",
+    "geom:latitude":50.679848,
+    "geom:longitude":5.520615,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Lantin 54",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cMFkPR1ccH5X0zPm4KDd6_50.679848_5.520615@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499036,
+    "wof:geomhash":"f8e2d2d1c84ad8f0b89302a6ba887335",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1042150111
+        }
+    ],
+    "wof:id":1042150111,
+    "wof:lastmodified":1473499036,
+    "wof:name":"Delwaide M",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dietitian"
+    ]
+},
+  "bbox": [
+    5.5206151009,
+    50.6798477173,
+    5.5206151009,
+    50.6798477173
+],
+  "geometry": {"coordinates":[5.5206151009,50.6798477173],"type":"Point"}
+}

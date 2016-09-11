@@ -1,0 +1,83 @@
+{
+  "id": 1042125233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3625040054,50.89868927,4.3625040054,50.89868927",
+    "geom:latitude":50.898689,
+    "geom:longitude":4.362504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Wannecouter 109",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 262 13 62",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hSAKJdw5gG6lAWO9fLAfF_50.898689_4.362504@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497668,
+    "wof:geomhash":"d0b81a1176ee302ddc51868f7eb64ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042125233
+        }
+    ],
+    "wof:id":1042125233,
+    "wof:lastmodified":1473497668,
+    "wof:name":"Wanneke ('t)",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.3625040054,
+    50.89868927,
+    4.3625040054,
+    50.89868927
+],
+  "geometry": {"coordinates":[4.3625040054,50.89868927],"type":"Point"}
+}

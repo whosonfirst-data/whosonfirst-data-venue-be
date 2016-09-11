@@ -1,0 +1,81 @@
+{
+  "id": 1041539331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4619169235,50.830242157,4.4619169235,50.830242157",
+    "geom:latitude":50.830242,
+    "geom:longitude":4.461917,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jacques De Meurers 107",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 94 73",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "alternative",
+        "therapy",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801333,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hd0RXufCk5ugvBJ69U819_50.830242_4.461917@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472768,
+    "wof:geomhash":"8ed9505f98656d93d1bb6bbb5586c55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801333,
+            "region_id":85681713,
+            "venue_id":1041539331
+        }
+    ],
+    "wof:id":1041539331,
+    "wof:lastmodified":1473472768,
+    "wof:name":"Vanderhaegen J-l",
+    "wof:parent_id":85801333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "therapy",
+        "treatment"
+    ]
+},
+  "bbox": [
+    4.4619169235,
+    50.830242157,
+    4.4619169235,
+    50.830242157
+],
+  "geometry": {"coordinates":[4.4619169235,50.830242157],"type":"Point"}
+}

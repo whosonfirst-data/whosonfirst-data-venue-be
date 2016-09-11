@@ -1,0 +1,79 @@
+{
+  "id": 1041881849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3209037781,50.8828735352,4.3209037781,50.8828735352",
+    "geom:latitude":50.882874,
+    "geom:longitude":4.320904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Dieleghem 34",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 00 41",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39u2eCUBSxU8RyG4vPPhzc_50.882874_4.320904@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487149,
+    "wof:geomhash":"e43aeb683479cb83d85d4abc32d191ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1041881849
+        }
+    ],
+    "wof:id":1041881849,
+    "wof:lastmodified":1473487149,
+    "wof:name":"Hennes-boucher",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3209037781,
+    50.8828735352,
+    4.3209037781,
+    50.8828735352
+],
+  "geometry": {"coordinates":[4.3209037781,50.8828735352],"type":"Point"}
+}

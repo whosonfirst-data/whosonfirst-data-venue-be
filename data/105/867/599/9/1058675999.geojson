@@ -1,0 +1,72 @@
+{
+  "id": 1058675999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.220664978,51.2015762329,3.220664978,51.2015762329",
+    "geom:latitude":51.201576,
+    "geom:longitude":3.220665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oostmeers 88",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 12 78",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A1KjYBN5D1P944qCTlSzX_51.201576_3.220665@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536103,
+    "wof:geomhash":"c1ee0ce3a3e76e3bdd4beb50bf8a1947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058675999
+        }
+    ],
+    "wof:id":1058675999,
+    "wof:lastmodified":1473536103,
+    "wof:name":"Ratatouille",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.220664978,
+    51.2015762329,
+    3.220664978,
+    51.2015762329
+],
+  "geometry": {"coordinates":[3.220664978,51.2015762329],"type":"Point"}
+}

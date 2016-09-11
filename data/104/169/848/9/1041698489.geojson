@@ -1,0 +1,81 @@
+{
+  "id": 1041698489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3505959511,50.8218193054,4.3505959511,50.8218193054",
+    "geom:latitude":50.821819,
+    "geom:longitude":4.350596,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue F\u00e9lix Delhasse 6",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 55 80",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27zZgGoXpFuMVRH08I97uo_50.821819_4.350596@1306268324"
+    },
+    "wof:country":"BE",
+    "wof:created":1473479222,
+    "wof:geomhash":"18324f6c1c50ffa19d8f3fc8861f7475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041698489
+        }
+    ],
+    "wof:id":1041698489,
+    "wof:lastmodified":1473479222,
+    "wof:name":"Kate & Ko",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "agency",
+        "advertising"
+    ]
+},
+  "bbox": [
+    4.3505959511,
+    50.8218193054,
+    4.3505959511,
+    50.8218193054
+],
+  "geometry": {"coordinates":[4.3505959511,50.8218193054],"type":"Point"}
+}

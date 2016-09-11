@@ -1,0 +1,77 @@
+{
+  "id": 1041971635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.576415062,50.6426887512,5.576415062,50.6426887512",
+    "geom:latitude":50.642689,
+    "geom:longitude":5.576415,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ch\u00e9ravoie 1b",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 49 21",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bPrzj251r5T0XGOozbvGI_50.642689_5.576415@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491016,
+    "wof:geomhash":"09a44ad4c67bbc3095a3e27f37b1551f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041971635
+        }
+    ],
+    "wof:id":1041971635,
+    "wof:lastmodified":1473491016,
+    "wof:name":"Espagnole (librairie)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.576415062,
+    50.6426887512,
+    5.576415062,
+    50.6426887512
+],
+  "geometry": {"coordinates":[5.576415062,50.6426887512],"type":"Point"}
+}

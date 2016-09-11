@@ -1,0 +1,77 @@
+{
+  "id": 1058019743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4948611259,51.2519073486,4.4948611259,51.2519073486",
+    "geom:latitude":51.251907,
+    "geom:longitude":4.494861,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Constant Neutjensstraat 46",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 685 59 61",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "organisation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qEVyTOtK9aAFHoxcYFnif_51.251907_4.494861@1306268428"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506249,
+    "wof:geomhash":"86cd7c62488bd290f0e5868608c1a7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058019743
+        }
+    ],
+    "wof:id":1058019743,
+    "wof:lastmodified":1473506249,
+    "wof:name":"Another Point Of Vieuw",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation"
+    ]
+},
+  "bbox": [
+    4.4948611259,
+    51.2519073486,
+    4.4948611259,
+    51.2519073486
+],
+  "geometry": {"coordinates":[4.4948611259,51.2519073486],"type":"Point"}
+}

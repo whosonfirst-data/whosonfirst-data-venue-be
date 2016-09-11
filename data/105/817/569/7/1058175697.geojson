@@ -1,0 +1,83 @@
+{
+  "id": 1058175697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7544789314,51.080329895,3.7544789314,51.080329895",
+    "geom:latitude":51.08033,
+    "geom:longitude":3.754479,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Slotendries 10",
+    "sg:city":"Gent (oostakker)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 259 28 58",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2nyMqCTHZKnpBwsxJo9b_51.080330_3.754479@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513150,
+    "wof:geomhash":"40cc64d6d4227765b3966b7b70c00ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058175697
+        }
+    ],
+    "wof:id":1058175697,
+    "wof:lastmodified":1473513150,
+    "wof:name":"Demulco Bvba",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    3.7544789314,
+    51.080329895,
+    3.7544789314,
+    51.080329895
+],
+  "geometry": {"coordinates":[3.7544789314,51.080329895],"type":"Point"}
+}

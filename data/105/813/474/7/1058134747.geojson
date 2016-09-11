@@ -1,0 +1,83 @@
+{
+  "id": 1058134747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5719490051,50.6222076416,5.5719490051,50.6222076416",
+    "geom:latitude":50.622208,
+    "geom:longitude":5.571949,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Auguste Buisseret 40",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 41 97",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FousUkBhI004reQfzk1AI_50.622208_5.571949@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511225,
+    "wof:geomhash":"f78f67f1d5bf29ec9cd3088f38b49aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1058134747
+        }
+    ],
+    "wof:id":1058134747,
+    "wof:lastmodified":1473511225,
+    "wof:name":"Mode (coiffure)",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5719490051,
+    50.6222076416,
+    5.5719490051,
+    50.6222076416
+],
+  "geometry": {"coordinates":[5.5719490051,50.6222076416],"type":"Point"}
+}

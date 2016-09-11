@@ -1,0 +1,77 @@
+{
+  "id": 1042059521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3372130394,50.8006744385,4.3372130394,50.8006744385",
+    "geom:latitude":50.800674,
+    "geom:longitude":4.337213,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brugmann 609",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 15 42",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PimNX9ZlkYrzY751NeTLe_50.800674_4.337213@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494661,
+    "wof:geomhash":"126c8204314fb947b7fd6b94440809bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1042059521
+        }
+    ],
+    "wof:id":1042059521,
+    "wof:lastmodified":1473494661,
+    "wof:name":"Globe (pharmacie Du)",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3372130394,
+    50.8006744385,
+    4.3372130394,
+    50.8006744385
+],
+  "geometry": {"coordinates":[4.3372130394,50.8006744385],"type":"Point"}
+}

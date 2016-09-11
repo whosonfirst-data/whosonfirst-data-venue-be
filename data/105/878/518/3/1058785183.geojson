@@ -1,0 +1,77 @@
+{
+  "id": 1058785183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8176848888,51.0870056152,3.8176848888,51.0870056152",
+    "geom:latitude":51.087006,
+    "geom:longitude":3.817685,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lichtelarestraat 41",
+    "sg:city":"Lochristi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 355 66 40",
+    "sg:postcode":"9080",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "slaughterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlfcAJjWHsEtGOYlEHGiH_51.087006_3.817685@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540869,
+    "wof:geomhash":"377138e210f0fbcc596efc3f7c801b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058785183
+        }
+    ],
+    "wof:id":1058785183,
+    "wof:lastmodified":1473540869,
+    "wof:name":"De Clercq M & E",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slaughterer"
+    ]
+},
+  "bbox": [
+    3.8176848888,
+    51.0870056152,
+    3.8176848888,
+    51.0870056152
+],
+  "geometry": {"coordinates":[3.8176848888,51.0870056152],"type":"Point"}
+}

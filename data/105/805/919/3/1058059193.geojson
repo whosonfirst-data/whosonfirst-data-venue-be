@@ -1,0 +1,83 @@
+{
+  "id": 1058059193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.519947052,50.6192893982,5.519947052,50.6192893982",
+    "geom:latitude":50.619289,
+    "geom:longitude":5.519947,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tilleur 19",
+    "sg:city":"Jemeppe-sur-meuse",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 233 83 17",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "preserve",
+        "cooked",
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nckpKN5kleZfwm1iQJglN_50.619289_5.519947@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507887,
+    "wof:geomhash":"db4830254c72375ecd056e38a356e9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1058059193
+        }
+    ],
+    "wof:id":1058059193,
+    "wof:lastmodified":1473507887,
+    "wof:name":"Conserverie Viaka Sa",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preserve",
+        "cooked",
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    5.519947052,
+    50.6192893982,
+    5.519947052,
+    50.6192893982
+],
+  "geometry": {"coordinates":[5.519947052,50.6192893982],"type":"Point"}
+}

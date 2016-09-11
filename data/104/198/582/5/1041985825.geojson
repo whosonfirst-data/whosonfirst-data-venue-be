@@ -1,0 +1,77 @@
+{
+  "id": 1041985825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.660738945,51.0560836792,3.660738945,51.0560836792",
+    "geom:latitude":51.056084,
+    "geom:longitude":3.660739,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariakerksesteenweg 86",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 13 06",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kiPYf5sp8fdoCPHiyegjo_51.056084_3.660739@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491747,
+    "wof:geomhash":"31012a745f146216908fe403d2e58f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1041985825
+        }
+    ],
+    "wof:id":1041985825,
+    "wof:lastmodified":1473491747,
+    "wof:name":"Tenuto Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    3.660738945,
+    51.0560836792,
+    3.660738945,
+    51.0560836792
+],
+  "geometry": {"coordinates":[3.660738945,51.0560836792],"type":"Point"}
+}

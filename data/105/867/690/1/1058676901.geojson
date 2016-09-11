@@ -1,0 +1,66 @@
+{
+  "id": 1058676901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6013159752,50.5795707703,5.6013159752,50.5795707703",
+    "geom:latitude":50.579571,
+    "geom:longitude":5.601316,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D'angleur 118",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 29 26",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ELQ5NMxS34YYCipQdsrKH_50.579571_5.601316@1306268552"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536144,
+    "wof:geomhash":"b0fa9faf34fb85e357985d0c75167840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058676901
+        }
+    ],
+    "wof:id":1058676901,
+    "wof:lastmodified":1473536144,
+    "wof:name":"Restaurant El Paraiso",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6013159752,
+    50.5795707703,
+    5.6013159752,
+    50.5795707703
+],
+  "geometry": {"coordinates":[5.6013159752,50.5795707703],"type":"Point"}
+}

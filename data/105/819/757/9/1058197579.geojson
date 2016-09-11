@@ -1,0 +1,71 @@
+{
+  "id": 1058197579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2343630791,51.2313728333,3.2343630791,51.2313728333",
+    "geom:latitude":51.231373,
+    "geom:longitude":3.234363,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gandhiplein 23",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 90 13",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gHgGXKEGQbzF3R2tYd2FU_51.231373_3.234363@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514096,
+    "wof:geomhash":"725511b1dd7e205a310fbacc98e03cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058197579
+        }
+    ],
+    "wof:id":1058197579,
+    "wof:lastmodified":1473514096,
+    "wof:name":"De Muyt H",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    3.2343630791,
+    51.2313728333,
+    3.2343630791,
+    51.2313728333
+],
+  "geometry": {"coordinates":[3.2343630791,51.2313728333],"type":"Point"}
+}

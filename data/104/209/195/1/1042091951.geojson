@@ -1,0 +1,78 @@
+{
+  "id": 1042091951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4577050209,51.3603286743,4.4577050209,51.3603286743",
+    "geom:latitude":51.360329,
+    "geom:longitude":4.457705,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"24",
+    "sg:city":"Bevrijdingslei 2920 Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 82 76",
+    "sg:postcode":"24",
+    "sg:tags":[
+        "work",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801235,
+        102191581,
+        85632997,
+        404227357,
+        101839065,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60kBztekzYOIEcLLKyG04Z_51.360329_4.457705@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496037,
+    "wof:geomhash":"cf5f0fbe143f1cc0013a43e27fea9791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101839065,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801235,
+            "region_id":85681715,
+            "venue_id":1042091951
+        }
+    ],
+    "wof:id":1042091951,
+    "wof:lastmodified":1473496037,
+    "wof:name":"Van Tilborgh Bvba",
+    "wof:parent_id":85801235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "public"
+    ]
+},
+  "bbox": [
+    4.4577050209,
+    51.3603286743,
+    4.4577050209,
+    51.3603286743
+],
+  "geometry": {"coordinates":[4.4577050209,51.3603286743],"type":"Point"}
+}

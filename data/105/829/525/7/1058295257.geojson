@@ -1,0 +1,79 @@
+{
+  "id": 1058295257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3719367981,50.9330863953,4.3719367981,50.9330863953",
+    "geom:latitude":50.933086,
+    "geom:longitude":4.371937,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hogesteenweg 14",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 92 59",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "jeweller",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DhNzGUq6DxPi2cPIMCJd0_50.933086_4.371937@1306268483"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518373,
+    "wof:geomhash":"21deb9a23169bc7cd73c7f95451e3e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058295257
+        }
+    ],
+    "wof:id":1058295257,
+    "wof:lastmodified":1473518373,
+    "wof:name":"Van Laer",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweller",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3719367981,
+    50.9330863953,
+    4.3719367981,
+    50.9330863953
+],
+  "geometry": {"coordinates":[4.3719367981,50.9330863953],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1058972869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3880028725,50.830165863,4.3880028725,50.830165863",
+    "geom:latitude":50.830166,
+    "geom:longitude":4.388003,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Eudore Pirmez 38",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 96 37",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nKpsnsOMHe9Ecc0qvDoL_50.830166_4.388003@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549339,
+    "wof:geomhash":"3ab9c9ad1f002cdcd940aec2cce367c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058972869
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058972869
+        }
+    ],
+    "wof:id":1058972869,
+    "wof:lastmodified":1473549339,
+    "wof:name":"Cavin (le)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    4.3880028725,
+    50.830165863,
+    4.3880028725,
+    50.830165863
+],
+  "geometry": {"coordinates":[4.3880028725,50.830165863],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042014815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4343791008,50.9307670593,4.4343791008,50.9307670593",
+    "geom:latitude":50.930767,
+    "geom:longitude":4.434379,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Olmstraat 129",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 52 00",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801781,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gBOWzgGOutlpzQCp6LsQI_50.930767_4.434379@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492870,
+    "wof:geomhash":"666b39de73869c7a44d425015cd0c002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801781,
+            "region_id":85681731,
+            "venue_id":1042014815
+        }
+    ],
+    "wof:id":1042014815,
+    "wof:lastmodified":1473492870,
+    "wof:name":"Caramba",
+    "wof:parent_id":85801781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4343791008,
+    50.9307670593,
+    4.4343791008,
+    50.9307670593
+],
+  "geometry": {"coordinates":[4.4343791008,50.9307670593],"type":"Point"}
+}

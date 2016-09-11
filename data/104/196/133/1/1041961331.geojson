@@ -1,0 +1,79 @@
+{
+  "id": 1041961331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4362921715,50.9128684998,4.4362921715,50.9128684998",
+    "geom:latitude":50.912868,
+    "geom:longitude":4.436292,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpstraat 20-33",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 11 33",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "nut",
+        "bolt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VZ1Oo43m03dkHdQziAiIn_50.912868_4.436292@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490571,
+    "wof:geomhash":"ac7b0afe6a06ee205f8b91386cb8af8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1041961331
+        }
+    ],
+    "wof:id":1041961331,
+    "wof:lastmodified":1473490571,
+    "wof:name":"Rampelberg-somers",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nut",
+        "bolt"
+    ]
+},
+  "bbox": [
+    4.4362921715,
+    50.9128684998,
+    4.4362921715,
+    50.9128684998
+],
+  "geometry": {"coordinates":[4.4362921715,50.9128684998],"type":"Point"}
+}

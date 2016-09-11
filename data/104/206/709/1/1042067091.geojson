@@ -1,0 +1,79 @@
+{
+  "id": 1042067091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2968668938,50.8718109131,4.2968668938,50.8718109131",
+    "geom:latitude":50.871811,
+    "geom:longitude":4.296867,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 408",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 468 22 54",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DTxQ2L5FWRELEh8562Tqn_50.871811_4.296867@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494955,
+    "wof:geomhash":"e6b4315e5a7fa568faa62a806c819ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1042067091
+        }
+    ],
+    "wof:id":1042067091,
+    "wof:lastmodified":1473494955,
+    "wof:name":"New Clean",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    4.2968668938,
+    50.8718109131,
+    4.2968668938,
+    50.8718109131
+],
+  "geometry": {"coordinates":[4.2968668938,50.8718109131],"type":"Point"}
+}

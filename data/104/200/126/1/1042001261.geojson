@@ -1,0 +1,81 @@
+{
+  "id": 1042001261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7576758862,51.0800628662,3.7576758862,51.0800628662",
+    "geom:latitude":51.080063,
+    "geom:longitude":3.757676,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gentstr 2",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 03 14",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GXZb0l5PpV6KxBo9EpV41_51.080063_3.757676@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492359,
+    "wof:geomhash":"e4fb48cdc3a73fc1df6d393eb88d3c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042001261
+        }
+    ],
+    "wof:id":1042001261,
+    "wof:lastmodified":1473492359,
+    "wof:name":"Van Den Abeele Nv",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    3.7576758862,
+    51.0800628662,
+    3.7576758862,
+    51.0800628662
+],
+  "geometry": {"coordinates":[3.7576758862,51.0800628662],"type":"Point"}
+}

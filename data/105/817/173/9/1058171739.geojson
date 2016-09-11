@@ -1,0 +1,79 @@
+{
+  "id": 1058171739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6763510704,51.032749176,3.6763510704,51.032749176",
+    "geom:latitude":51.032749,
+    "geom:longitude":3.676351,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krommehamlaan 7",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 35 40",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801137,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5In6848YAmNCJHLbcLJqAO_51.032749_3.676351@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512977,
+    "wof:geomhash":"e7342e05586c65de812beba0628b5c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801137,
+            "region_id":85681733,
+            "venue_id":1058171739
+        }
+    ],
+    "wof:id":1058171739,
+    "wof:lastmodified":1473512977,
+    "wof:name":"Lerno G",
+    "wof:parent_id":85801137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6763510704,
+    51.032749176,
+    3.6763510704,
+    51.032749176
+],
+  "geometry": {"coordinates":[3.6763510704,51.032749176],"type":"Point"}
+}

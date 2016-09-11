@@ -1,0 +1,77 @@
+{
+  "id": 1041559705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.343998909,50.8425865173,4.343998909,50.8425865173",
+    "geom:latitude":50.842587,
+    "geom:longitude":4.343999,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Maurice Lemonnier 108",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 69 38",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_336oiGHGv6b1tZvnoqcs1A_50.842587_4.343999@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473610,
+    "wof:geomhash":"08f2c081dcf3d282e60e81ded1da7799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041559705
+        }
+    ],
+    "wof:id":1041559705,
+    "wof:lastmodified":1473473610,
+    "wof:name":"Espaces Livres Sprl",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.343998909,
+    50.8425865173,
+    4.343998909,
+    50.8425865173
+],
+  "geometry": {"coordinates":[4.343998909,50.8425865173],"type":"Point"}
+}

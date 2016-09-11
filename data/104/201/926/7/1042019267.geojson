@@ -1,0 +1,71 @@
+{
+  "id": 1042019267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4963459969,51.1253700256,4.4963459969,51.1253700256",
+    "geom:latitude":51.12537,
+    "geom:longitude":4.496346,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Duffelsesteenweg 47",
+    "sg:city":"Lint",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 454 43 44",
+    "sg:postcode":"2547",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ty1xa4jcHUPIgTGOZlGkq_51.125370_4.496346@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493027,
+    "wof:geomhash":"d957e0b30191097a29b02cf4351137b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042019267
+        }
+    ],
+    "wof:id":1042019267,
+    "wof:lastmodified":1473493027,
+    "wof:name":"Hugo Van Dam",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4963459969,
+    51.1253700256,
+    4.4963459969,
+    51.1253700256
+],
+  "geometry": {"coordinates":[4.4963459969,51.1253700256],"type":"Point"}
+}

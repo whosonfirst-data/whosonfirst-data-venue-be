@@ -1,0 +1,66 @@
+{
+  "id": 1058662889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2807860374,51.2518768311,3.2807860374,51.2518768311",
+    "geom:latitude":51.251877,
+    "geom:longitude":3.280786,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 6",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 12 46",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OAXVIk7lqHmpa8C0TwTgX_51.251877_3.280786@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535540,
+    "wof:geomhash":"59d618e0e56b899f41c7a65fbe452b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058662889
+        }
+    ],
+    "wof:id":1058662889,
+    "wof:lastmodified":1473535540,
+    "wof:name":"'t Edelsmidje",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2807860374,
+    51.2518768311,
+    3.2807860374,
+    51.2518768311
+],
+  "geometry": {"coordinates":[3.2807860374,51.2518768311],"type":"Point"}
+}

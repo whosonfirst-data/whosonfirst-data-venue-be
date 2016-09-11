@@ -1,0 +1,79 @@
+{
+  "id": 1058618415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7135460377,51.0339813232,3.7135460377,51.0339813232",
+    "geom:latitude":51.033981,
+    "geom:longitude":3.713546,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-denijslaan 33",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 80 28",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33MqaCgnDK6yJs77KPawo9_51.033981_3.713546@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533508,
+    "wof:geomhash":"bf8203660ec7b6202802d575a8a1e2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058618415
+        }
+    ],
+    "wof:id":1058618415,
+    "wof:lastmodified":1473533508,
+    "wof:name":"B B A V",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    3.7135460377,
+    51.0339813232,
+    3.7135460377,
+    51.0339813232
+],
+  "geometry": {"coordinates":[3.7135460377,51.0339813232],"type":"Point"}
+}

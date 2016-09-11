@@ -1,0 +1,83 @@
+{
+  "id": 1041573833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2948241234,50.8265838623,4.2948241234,50.8265838623",
+    "geom:latitude":50.826584,
+    "geom:longitude":4.294824,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean Not\u00e9 25",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 04 93",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PeYN2EjvECncX4Q7EszEh_50.826584_4.294824@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474202,
+    "wof:geomhash":"122fb925a254483703f7a991ec3517f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041573833
+        }
+    ],
+    "wof:id":1041573833,
+    "wof:lastmodified":1473474202,
+    "wof:name":"B\u00e9b\u00e9s Joyeux (les)",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.2948241234,
+    50.8265838623,
+    4.2948241234,
+    50.8265838623
+],
+  "geometry": {"coordinates":[4.2948241234,50.8265838623],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058042991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3475060463,50.8503646851,4.3475060463,50.8503646851",
+    "geom:latitude":50.850365,
+    "geom:longitude":4.347506,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-catherine 45",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 11 92",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "retail",
+        "-",
+        "shellfish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mqiQ16kkUIATTMyRTd0jk_50.850365_4.347506@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507238,
+    "wof:geomhash":"df0436f7bb9399247e0c6c03a868c617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058042991
+        }
+    ],
+    "wof:id":1058042991,
+    "wof:lastmodified":1473507238,
+    "wof:name":"Noordzee Bvba",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "-",
+        "shellfish"
+    ]
+},
+  "bbox": [
+    4.3475060463,
+    50.8503646851,
+    4.3475060463,
+    50.8503646851
+],
+  "geometry": {"coordinates":[4.3475060463,50.8503646851],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1042181045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5103578568,50.6625061035,5.5103578568,50.6625061035",
+    "geom:latitude":50.662506,
+    "geom:longitude":5.510358,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Station 46",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 49 30",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "store",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UbGvt8ZIESr2B1irRgFr0_50.662506_5.510358@1306268410"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500843,
+    "wof:geomhash":"e857dd5a8ec52738993bb5ed83a30250",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1042181045
+        }
+    ],
+    "wof:id":1042181045,
+    "wof:lastmodified":1473500843,
+    "wof:name":"Maxi Discount Sprl",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "drug"
+    ]
+},
+  "bbox": [
+    5.5103578568,
+    50.6625061035,
+    5.5103578568,
+    50.6625061035
+],
+  "geometry": {"coordinates":[5.5103578568,50.6625061035],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1042075913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3262491226,50.8743400574,4.3262491226,50.8743400574",
+    "geom:latitude":50.87434,
+    "geom:longitude":4.326249,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9on Theodor 40",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 45 55",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VZi6itM88cCEClXlThbtr_50.874340_4.326249@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495324,
+    "wof:geomhash":"13831e8d63bdde21f0d9107bb6e41edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1042075913
+        }
+    ],
+    "wof:id":1042075913,
+    "wof:lastmodified":1473495324,
+    "wof:name":"Frip Ito",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "purchase",
+        "clothing",
+        "-",
+        "sale",
+        "second-hand"
+    ]
+},
+  "bbox": [
+    4.3262491226,
+    50.8743400574,
+    4.3262491226,
+    50.8743400574
+],
+  "geometry": {"coordinates":[4.3262491226,50.8743400574],"type":"Point"}
+}

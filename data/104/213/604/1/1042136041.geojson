@@ -1,0 +1,66 @@
+{
+  "id": 1042136041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5216631889,51.2013092041,4.5216631889,51.2013092041",
+    "geom:latitude":51.201309,
+    "geom:longitude":4.521663,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-damiaanstraat 53",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 20 91",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QIaX9VOoXssUCsLDC4WfE_51.201309_4.521663@1306268402"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498280,
+    "wof:geomhash":"c048581818b85a58b87c85222959be5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1042136041
+        }
+    ],
+    "wof:id":1042136041,
+    "wof:lastmodified":1473498280,
+    "wof:name":"Mortelmans H",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5216631889,
+    51.2013092041,
+    4.5216631889,
+    51.2013092041
+],
+  "geometry": {"coordinates":[4.5216631889,51.2013092041],"type":"Point"}
+}

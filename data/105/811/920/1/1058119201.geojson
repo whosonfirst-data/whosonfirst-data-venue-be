@@ -1,0 +1,77 @@
+{
+  "id": 1058119201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7097280025,51.0506820679,3.7097280025,51.0506820679",
+    "geom:latitude":51.050682,
+    "geom:longitude":3.709728,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Raas Van Gaverestraat 2",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 14 27",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AGbGE5wRvN3aGKHVZl7Sv_51.050682_3.709728@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510465,
+    "wof:geomhash":"2e7a95a07c6f5a45c3ec6ea24c2b988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058119201
+        }
+    ],
+    "wof:id":1058119201,
+    "wof:lastmodified":1473510465,
+    "wof:name":"Clamus",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    3.7097280025,
+    51.0506820679,
+    3.7097280025,
+    51.0506820679
+],
+  "geometry": {"coordinates":[3.7097280025,51.0506820679],"type":"Point"}
+}

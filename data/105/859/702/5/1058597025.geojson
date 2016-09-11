@@ -1,0 +1,77 @@
+{
+  "id": 1058597025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5439419746,50.5843811035,5.5439419746,50.5843811035",
+    "geom:latitude":50.584381,
+    "geom:longitude":5.543942,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Girofl\u00c9es 3",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 00 35",
+    "sg:postcode":"4102",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801229,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N1zhryAoWPYzmGeM0uwmL_50.584381_5.543942@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532486,
+    "wof:geomhash":"f3e66cb2a1e17d94b34cc79d0506cc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801229,
+            "region_id":85681691,
+            "venue_id":1058597025
+        }
+    ],
+    "wof:id":1058597025,
+    "wof:lastmodified":1473532486,
+    "wof:name":"Police F\u00c9d\u00c9rale/federale Politie",
+    "wof:parent_id":85801229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    5.5439419746,
+    50.5843811035,
+    5.5439419746,
+    50.5843811035
+],
+  "geometry": {"coordinates":[5.5439419746,50.5843811035],"type":"Point"}
+}

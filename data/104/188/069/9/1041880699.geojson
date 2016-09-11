@@ -1,0 +1,79 @@
+{
+  "id": 1041880699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.591668129,50.6130752563,5.591668129,50.6130752563",
+    "geom:latitude":50.613075,
+    "geom:longitude":5.591668,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vaudr\u00e9e 149",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 08 09",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FOYwN6PoISgeI5jr7pK8Y_50.613075_5.591668@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487103,
+    "wof:geomhash":"293abb67773d8824e700abd22722a4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1041880699
+        }
+    ],
+    "wof:id":1041880699,
+    "wof:lastmodified":1473487103,
+    "wof:name":"Delbouille M",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.591668129,
+    50.6130752563,
+    5.591668129,
+    50.6130752563
+],
+  "geometry": {"coordinates":[5.591668129,50.6130752563],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058843119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3457221985,51.1553764343,4.3457221985,51.1553764343",
+    "geom:latitude":51.155376,
+    "geom:longitude":4.345722,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Begoniaweg 14",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 30 25 19",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "salvage",
+        "surplus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tglqr4LYuV5QHezRaJfoK_51.155376_4.345722@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543440,
+    "wof:geomhash":"58100ee03e803b978e03b04e03e76276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1058843119
+        }
+    ],
+    "wof:id":1058843119,
+    "wof:lastmodified":1473543440,
+    "wof:name":"Atlas Stock",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "surplus"
+    ]
+},
+  "bbox": [
+    4.3457221985,
+    51.1553764343,
+    4.3457221985,
+    51.1553764343
+],
+  "geometry": {"coordinates":[4.3457221985,51.1553764343],"type":"Point"}
+}

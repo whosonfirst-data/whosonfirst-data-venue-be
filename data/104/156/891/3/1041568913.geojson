@@ -1,0 +1,79 @@
+{
+  "id": 1041568913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3429121971,50.7914581299,4.3429121971,50.7914581299",
+    "geom:latitude":50.791458,
+    "geom:longitude":4.342912,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Saint-job 267",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 46 06",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sweep",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M8qRNTyYrxH9fx8uXVeFS_50.791458_4.342912@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474001,
+    "wof:geomhash":"a65538e9dd4001aec004028a6bd8b2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041568913
+        }
+    ],
+    "wof:id":1041568913,
+    "wof:lastmodified":1473474001,
+    "wof:name":"Desmet J-c",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweep",
+        "chimney"
+    ]
+},
+  "bbox": [
+    4.3429121971,
+    50.7914581299,
+    4.3429121971,
+    50.7914581299
+],
+  "geometry": {"coordinates":[4.3429121971,50.7914581299],"type":"Point"}
+}

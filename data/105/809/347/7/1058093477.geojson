@@ -1,0 +1,77 @@
+{
+  "id": 1058093477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3217658997,50.8925552368,4.3217658997,50.8925552368",
+    "geom:latitude":50.892555,
+    "geom:longitude":4.321766,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Maurice Van Rolleghem 70",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 23 18",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vHqcf6xfdggO1LTNMZfTT_50.892555_4.321766@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509300,
+    "wof:geomhash":"0de04b47a8075b9f5230311f1fea9919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058093477
+        }
+    ],
+    "wof:id":1058093477,
+    "wof:lastmodified":1473509300,
+    "wof:name":"Luypaert R",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3217658997,
+    50.8925552368,
+    4.3217658997,
+    50.8925552368
+],
+  "geometry": {"coordinates":[4.3217658997,50.8925552368],"type":"Point"}
+}

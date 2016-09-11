@@ -1,0 +1,77 @@
+{
+  "id": 1042196531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7271010876,51.0517158508,3.7271010876,51.0517158508",
+    "geom:latitude":51.051716,
+    "geom:longitude":3.727101,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gouvernementstraat 1",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 267 74 00",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JlEpYxOabo38PebHzO7dr_51.051716_3.727101@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501693,
+    "wof:geomhash":"a3affe332a352bef1db499fbd1808af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042196531
+        }
+    ],
+    "wof:id":1042196531,
+    "wof:lastmodified":1473501693,
+    "wof:name":"Provinciaal Onderwijs Van Oost-vlaanderen",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    3.7271010876,
+    51.0517158508,
+    3.7271010876,
+    51.0517158508
+],
+  "geometry": {"coordinates":[3.7271010876,51.0517158508],"type":"Point"}
+}

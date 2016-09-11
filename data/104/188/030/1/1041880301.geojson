@@ -1,0 +1,79 @@
+{
+  "id": 1041880301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7627100945,51.0728340149,3.7627100945,51.0728340149",
+    "geom:latitude":51.072834,
+    "geom:longitude":3.76271,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"August Sniedersstraat 2",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 73 17",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KZtmx9H442k289FIfQQ90_51.072834_3.762710@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487081,
+    "wof:geomhash":"a718d30bf118b0d821a5506ead6dcaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1041880301
+        }
+    ],
+    "wof:id":1041880301,
+    "wof:lastmodified":1473487081,
+    "wof:name":"De Boterbloem",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7627100945,
+    51.0728340149,
+    3.7627100945,
+    51.0728340149
+],
+  "geometry": {"coordinates":[3.7627100945,51.0728340149],"type":"Point"}
+}

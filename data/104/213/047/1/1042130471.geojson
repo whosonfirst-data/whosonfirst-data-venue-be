@@ -1,0 +1,66 @@
+{
+  "id": 1042130471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6932401657,50.7366256714,5.6932401657,50.7366256714",
+    "geom:latitude":50.736626,
+    "geom:longitude":5.69324,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des R\u00e9collets 57",
+    "sg:city":"Vis\u00e9",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 379 23 08",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KJ3YLJYLvpIphuBRhBYLL_50.736626_5.693240@1306268401"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497988,
+    "wof:geomhash":"52ebc96221160eabfbfd2d71681524f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1042130471
+        }
+    ],
+    "wof:id":1042130471,
+    "wof:lastmodified":1473497988,
+    "wof:name":"De Froidmont Henri",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6932401657,
+    50.7366256714,
+    5.6932401657,
+    50.7366256714
+],
+  "geometry": {"coordinates":[5.6932401657,50.7366256714],"type":"Point"}
+}

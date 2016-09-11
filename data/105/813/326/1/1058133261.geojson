@@ -1,0 +1,83 @@
+{
+  "id": 1058133261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.603219986,50.6196098328,5.603219986,50.6196098328",
+    "geom:latitude":50.61961,
+    "geom:longitude":5.60322,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Belvaux 9",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 56 32 25",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J6g7NBr9DA4qqbpcs3Dwd_50.619610_5.603220@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511155,
+    "wof:geomhash":"1c9c5373d64e320001110005be6fc62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1058133261
+        }
+    ],
+    "wof:id":1058133261,
+    "wof:lastmodified":1473511155,
+    "wof:name":"Cap Jo Coiffure",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.603219986,
+    50.6196098328,
+    5.603219986,
+    50.6196098328
+],
+  "geometry": {"coordinates":[5.603219986,50.6196098328],"type":"Point"}
+}

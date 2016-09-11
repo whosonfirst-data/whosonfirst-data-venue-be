@@ -1,0 +1,77 @@
+{
+  "id": 1058622697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4146580696,50.8102149963,4.4146580696,50.8102149963",
+    "geom:latitude":50.810215,
+    "geom:longitude":4.414658,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Princes Braban\u00e7ons 47",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 68 72",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0NlHd2BrznMAPlzrRQF5_50.810215_4.414658@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533684,
+    "wof:geomhash":"469b833f191b8173ca5c02265b8c2bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058622697
+        }
+    ],
+    "wof:id":1058622697,
+    "wof:lastmodified":1473533684,
+    "wof:name":"Bruyneel A",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    4.4146580696,
+    50.8102149963,
+    4.4146580696,
+    50.8102149963
+],
+  "geometry": {"coordinates":[4.4146580696,50.8102149963],"type":"Point"}
+}

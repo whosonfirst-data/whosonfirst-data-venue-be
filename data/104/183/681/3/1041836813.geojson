@@ -1,0 +1,83 @@
+{
+  "id": 1041836813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3485908508,50.8567390442,4.3485908508,50.8567390442",
+    "geom:latitude":50.856739,
+    "geom:longitude":4.348591,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Du Commerce 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 84 62",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "household",
+        "appliance",
+        "telecommunication",
+        "audio-visual"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gWcB0P8ei9uiIr6vTaJwX_50.856739_4.348591@1306268347"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485239,
+    "wof:geomhash":"345ca55287051d5d838b8645ea89bdec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041836813
+        }
+    ],
+    "wof:id":1041836813,
+    "wof:lastmodified":1473485239,
+    "wof:name":"Servicadet Sa",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance",
+        "telecommunication",
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    4.3485908508,
+    50.8567390442,
+    4.3485908508,
+    50.8567390442
+],
+  "geometry": {"coordinates":[4.3485908508,50.8567390442],"type":"Point"}
+}

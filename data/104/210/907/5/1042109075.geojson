@@ -1,0 +1,73 @@
+{
+  "id": 1042109075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.7064208984,50.8684043884,4.7064208984,50.8684043884",
+    "geom:latitude":50.868404,
+    "geom:longitude":4.706421,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leo Dartelaan 1",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 22 13 48",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OXkWKiVWckptn2QOwRxNV_50.868404_4.706421@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496806,
+    "wof:geomhash":"c99deac236907094bdffa84d717d47a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1042109075
+        }
+    ],
+    "wof:id":1042109075,
+    "wof:lastmodified":1473496806,
+    "wof:name":"Bulckens W",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    4.7064208984,
+    50.8684043884,
+    4.7064208984,
+    50.8684043884
+],
+  "geometry": {"coordinates":[4.7064208984,50.8684043884],"type":"Point"}
+}

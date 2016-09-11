@@ -1,0 +1,79 @@
+{
+  "id": 1058158529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4461770058,50.8275794983,4.4461770058,50.8275794983",
+    "geom:latitude":50.827579,
+    "geom:longitude":4.446177,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Alfred Madoux 2",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 22 66",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801589,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YkD1xzgeGioOZX0f8hRs1_50.827579_4.446177@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512379,
+    "wof:geomhash":"7165bbbca41959faa552eace97df214d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801589,
+            "region_id":85681713,
+            "venue_id":1058158529
+        }
+    ],
+    "wof:id":1058158529,
+    "wof:lastmodified":1473512379,
+    "wof:name":"Craenhals Anne",
+    "wof:parent_id":85801589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4461770058,
+    50.8275794983,
+    4.4461770058,
+    50.8275794983
+],
+  "geometry": {"coordinates":[4.4461770058,50.8275794983],"type":"Point"}
+}

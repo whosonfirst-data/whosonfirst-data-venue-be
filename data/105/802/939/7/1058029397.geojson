@@ -1,0 +1,73 @@
+{
+  "id": 1058029397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.0118260384,50.7178764343,6.0118260384,50.7178764343",
+    "geom:latitude":50.717876,
+    "geom:longitude":6.011826,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Albert Strasse 42",
+    "sg:city":"Kelmis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 65 37 47",
+    "sg:postcode":"4721",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85794893,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oyPM4clCdWp0xMUWzCXYM_50.717876_6.011826@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506662,
+    "wof:geomhash":"f2fd8c6fda449e144d6100f3bc25bce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85794893,
+            "region_id":85681691,
+            "venue_id":1058029397
+        }
+    ],
+    "wof:id":1058029397,
+    "wof:lastmodified":1473506662,
+    "wof:name":"Friterie",
+    "wof:parent_id":85794893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    6.0118260384,
+    50.7178764343,
+    6.0118260384,
+    50.7178764343
+],
+  "geometry": {"coordinates":[6.0118260384,50.7178764343],"type":"Point"}
+}

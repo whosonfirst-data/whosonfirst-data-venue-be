@@ -1,0 +1,79 @@
+{
+  "id": 1058893525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3772759438,50.8520126343,4.3772759438,50.8520126343",
+    "geom:latitude":50.852013,
+    "geom:longitude":4.377276,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Ferme 88",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 46 73",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P8Na3fE6USlE7GFKCAd5A_50.852013_4.377276@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545609,
+    "wof:geomhash":"dbc9ccded75b8c020f5ef36fcba7b887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058893525
+        }
+    ],
+    "wof:id":1058893525,
+    "wof:lastmodified":1473545609,
+    "wof:name":"Trans Loverd\u00e9",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3772759438,
+    50.8520126343,
+    4.3772759438,
+    50.8520126343
+],
+  "geometry": {"coordinates":[4.3772759438,50.8520126343],"type":"Point"}
+}

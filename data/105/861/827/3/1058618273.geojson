@@ -1,0 +1,79 @@
+{
+  "id": 1058618273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3981108665,50.8390426636,4.3981108665,50.8390426636",
+    "geom:latitude":50.839043,
+    "geom:longitude":4.398111,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Tervueren 7",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 51 30",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xHGvml0nU74Fqdk3Eo2Vv_50.839043_4.398111@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533497,
+    "wof:geomhash":"2187f0953238f74ded26f9838764b0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058618273
+        }
+    ],
+    "wof:id":1058618273,
+    "wof:lastmodified":1473533497,
+    "wof:name":"Aesgp",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3981108665,
+    50.8390426636,
+    4.3981108665,
+    50.8390426636
+],
+  "geometry": {"coordinates":[4.3981108665,50.8390426636],"type":"Point"}
+}

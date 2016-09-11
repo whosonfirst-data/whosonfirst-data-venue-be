@@ -1,0 +1,77 @@
+{
+  "id": 1041849635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6500301361,50.6719093323,5.6500301361,50.6719093323",
+    "geom:latitude":50.671909,
+    "geom:longitude":5.65003,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Pont De Wandre 236",
+    "sg:city":"Wandre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 69 66",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AUDQuDyds3BSWWHaw2bXK_50.671909_5.650030@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485791,
+    "wof:geomhash":"c59e44b8ad6b8ca6fc408af59b2c6923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1041849635
+        }
+    ],
+    "wof:id":1041849635,
+    "wof:lastmodified":1473485791,
+    "wof:name":"Gougnard Carrosserie",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.6500301361,
+    50.6719093323,
+    5.6500301361,
+    50.6719093323
+],
+  "geometry": {"coordinates":[5.6500301361,50.6719093323],"type":"Point"}
+}

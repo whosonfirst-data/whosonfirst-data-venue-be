@@ -1,0 +1,77 @@
+{
+  "id": 1041685201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7585990429,51.0502815247,3.7585990429,51.0502815247",
+    "geom:latitude":51.050282,
+    "geom:longitude":3.758599,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asterdreef 44",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 86 66",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ANKR6IYgW29W69wcv6Zvc_51.050282_3.758599@1306268322"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478726,
+    "wof:geomhash":"b8b13f941ea240d5a507b9add1d20c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041685201
+        }
+    ],
+    "wof:id":1041685201,
+    "wof:lastmodified":1473478726,
+    "wof:name":"Debuysere R",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    3.7585990429,
+    51.0502815247,
+    3.7585990429,
+    51.0502815247
+],
+  "geometry": {"coordinates":[3.7585990429,51.0502815247],"type":"Point"}
+}

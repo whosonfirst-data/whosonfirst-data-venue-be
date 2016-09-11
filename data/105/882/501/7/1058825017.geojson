@@ -1,0 +1,77 @@
+{
+  "id": 1058825017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2192440033,51.2188644409,3.2192440033,51.2188644409",
+    "geom:latitude":51.218864,
+    "geom:longitude":3.219244,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Werfstraat 99",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 18 50",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ke6dOJTaXY1HU1JyGahcB_51.218864_3.219244@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542653,
+    "wof:geomhash":"79f9a07d621b130c8e09ed8987659e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1058825017
+        }
+    ],
+    "wof:id":1058825017,
+    "wof:lastmodified":1473542653,
+    "wof:name":"Vlaamse Bergsportfederatie",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federation"
+    ]
+},
+  "bbox": [
+    3.2192440033,
+    51.2188644409,
+    3.2192440033,
+    51.2188644409
+],
+  "geometry": {"coordinates":[3.2192440033,51.2188644409],"type":"Point"}
+}

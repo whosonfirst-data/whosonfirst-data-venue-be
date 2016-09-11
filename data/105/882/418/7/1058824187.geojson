@@ -1,0 +1,66 @@
+{
+  "id": 1058824187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6553781033,51.0476226807,3.6553781033,51.0476226807",
+    "geom:latitude":51.047623,
+    "geom:longitude":3.655378,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drongenstationstraat 68",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 10 22",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85800745,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n6n7Ha6EWSIT2w9dlz1i7_51.047623_3.655378@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542620,
+    "wof:geomhash":"9ede182712ec81398909fe0dd6f683d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85800745,
+            "region_id":85681733,
+            "venue_id":1058824187
+        }
+    ],
+    "wof:id":1058824187,
+    "wof:lastmodified":1473542620,
+    "wof:name":"Tenniscentrum Drongen",
+    "wof:parent_id":85800745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6553781033,
+    51.0476226807,
+    3.6553781033,
+    51.0476226807
+],
+  "geometry": {"coordinates":[3.6553781033,51.0476226807],"type":"Point"}
+}

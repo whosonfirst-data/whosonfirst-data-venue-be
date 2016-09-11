@@ -1,0 +1,77 @@
+{
+  "id": 1058419543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2340080738,51.223400116,3.2340080738,51.223400116",
+    "geom:latitude":51.2234,
+    "geom:longitude":3.234008,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koolkerkse Steenweg 25",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 79 87",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "motorbike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pGYyRB8iuOH8X33j4gaBC_51.223400_3.234008@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524121,
+    "wof:geomhash":"67dbf80db4537212350261c73666025d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1058419543
+        }
+    ],
+    "wof:id":1058419543,
+    "wof:lastmodified":1473524121,
+    "wof:name":"Dirk's Place",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorbike"
+    ]
+},
+  "bbox": [
+    3.2340080738,
+    51.223400116,
+    3.2340080738,
+    51.223400116
+],
+  "geometry": {"coordinates":[3.2340080738,51.223400116],"type":"Point"}
+}

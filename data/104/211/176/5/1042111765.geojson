@@ -1,0 +1,85 @@
+{
+  "id": 1042111765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4242582321,50.8158226013,4.4242582321,50.8158226013",
+    "geom:latitude":50.815823,
+    "geom:longitude":4.424258,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Vignette 32",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 660 85 17",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801955,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MHcQnMoNmsfey9SQexKQP_50.815823_4.424258@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496935,
+    "wof:geomhash":"47ed1a1c1a0f641cd7ff0e77748f0132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801955,
+            "region_id":85681713,
+            "venue_id":1042111765
+        }
+    ],
+    "wof:id":1042111765,
+    "wof:lastmodified":1473496935,
+    "wof:name":"Van Laethem X",
+    "wof:parent_id":85801955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    4.4242582321,
+    50.8158226013,
+    4.4242582321,
+    50.8158226013
+],
+  "geometry": {"coordinates":[4.4242582321,50.8158226013],"type":"Point"}
+}

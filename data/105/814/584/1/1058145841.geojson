@@ -1,0 +1,81 @@
+{
+  "id": 1058145841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6603701115,51.0563011169,3.6603701115,51.0563011169",
+    "geom:latitude":51.056301,
+    "geom:longitude":3.66037,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariakerksesteenweg 143",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 70 76",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LElTtpPksAKpAzSFQJSEu_51.056301_3.660370@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511818,
+    "wof:geomhash":"1643ff0d762341442f3b3d0c642a332e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058145841
+        }
+    ],
+    "wof:id":1058145841,
+    "wof:lastmodified":1473511818,
+    "wof:name":"New Look",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.6603701115,
+    51.0563011169,
+    3.6603701115,
+    51.0563011169
+],
+  "geometry": {"coordinates":[3.6603701115,51.0563011169],"type":"Point"}
+}

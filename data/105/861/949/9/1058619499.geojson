@@ -1,0 +1,79 @@
+{
+  "id": 1058619499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3383450508,50.8646316528,4.3383450508,50.8646316528",
+    "geom:latitude":50.864632,
+    "geom:longitude":4.338345,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Du Jubil\u00e9 71 Box 5",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 96 21",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GMk0OctFDdXYQbIyhJMeY_50.864632_4.338345@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533550,
+    "wof:geomhash":"0b383daf487c03d2454eb528779f88c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058619499
+        }
+    ],
+    "wof:id":1058619499,
+    "wof:lastmodified":1473533550,
+    "wof:name":"Orde Van Architecten",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3383450508,
+    50.8646316528,
+    4.3383450508,
+    50.8646316528
+],
+  "geometry": {"coordinates":[4.3383450508,50.8646316528],"type":"Point"}
+}

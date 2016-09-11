@@ -1,0 +1,71 @@
+{
+  "id": 1041548377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4559950829,50.5861968994,5.4559950829,50.5861968994",
+    "geom:latitude":50.586197,
+    "geom:longitude":5.455995,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Ramet 129",
+    "sg:city":"Fl\u00e9malle (ivoz-ramet)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 00 58",
+    "sg:postcode":"4400",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ScklFp6aBe137HWlH2fLw_50.586197_5.455995@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473125,
+    "wof:geomhash":"4c2d75f0525127ec14cffe2fc19ccefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1041548377
+        }
+    ],
+    "wof:id":1041548377,
+    "wof:lastmodified":1473473125,
+    "wof:name":"Gregoire C",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    5.4559950829,
+    50.5861968994,
+    5.4559950829,
+    50.5861968994
+],
+  "geometry": {"coordinates":[5.4559950829,50.5861968994],"type":"Point"}
+}

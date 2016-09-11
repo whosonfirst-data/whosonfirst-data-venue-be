@@ -1,0 +1,77 @@
+{
+  "id": 1058551179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6012558937,50.6284408569,5.6012558937,50.6284408569",
+    "geom:latitude":50.628441,
+    "geom:longitude":5.601256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Sluysmans 183",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 06 44",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zJVEr0BXiet8KG0cfenUc_50.628441_5.601256@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530417,
+    "wof:geomhash":"52ad6cba90d3af691ab3af2e3dfcbb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058551179
+        }
+    ],
+    "wof:id":1058551179,
+    "wof:lastmodified":1473530417,
+    "wof:name":"Cornet Brigitte",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    5.6012558937,
+    50.6284408569,
+    5.6012558937,
+    50.6284408569
+],
+  "geometry": {"coordinates":[5.6012558937,50.6284408569],"type":"Point"}
+}

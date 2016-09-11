@@ -1,0 +1,81 @@
+{
+  "id": 1058100087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3229560852,50.8834648132,4.3229560852,50.8834648132",
+    "geom:latitude":50.883465,
+    "geom:longitude":4.322956,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fr\u00e9d\u00e9ric Mohrfeld 50",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 478 29 37",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FlKyNavpSj8ZOp9S7aznK_50.883465_4.322956@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509593,
+    "wof:geomhash":"819cd9420fd058542af887a8a678ff79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058100087
+        }
+    ],
+    "wof:id":1058100087,
+    "wof:lastmodified":1473509593,
+    "wof:name":"Heymans J-p",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3229560852,
+    50.8834648132,
+    4.3229560852,
+    50.8834648132
+],
+  "geometry": {"coordinates":[4.3229560852,50.8834648132],"type":"Point"}
+}

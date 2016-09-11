@@ -1,0 +1,81 @@
+{
+  "id": 1042100129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5707612038,50.6240501404,5.5707612038,50.6240501404",
+    "geom:latitude":50.62405,
+    "geom:longitude":5.570761,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Sclessin 63",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 48 91",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "curtain",
+        "-",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801157,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FGXIh7dwbSl9LaTfxbYu7_50.624050_5.570761@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496402,
+    "wof:geomhash":"a70d571bee322ea2305450918a8d0680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801157,
+            "region_id":85681691,
+            "venue_id":1042100129
+        }
+    ],
+    "wof:id":1042100129,
+    "wof:lastmodified":1473496402,
+    "wof:name":"Demet A",
+    "wof:parent_id":85801157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "-",
+        "fixture"
+    ]
+},
+  "bbox": [
+    5.5707612038,
+    50.6240501404,
+    5.5707612038,
+    50.6240501404
+],
+  "geometry": {"coordinates":[5.5707612038,50.6240501404],"type":"Point"}
+}

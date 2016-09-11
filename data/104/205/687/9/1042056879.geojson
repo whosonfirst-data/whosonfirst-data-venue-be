@@ -1,0 +1,89 @@
+{
+  "id": 1042056879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7085089684,51.0978393555,3.7085089684,51.0978393555",
+    "geom:latitude":51.097839,
+    "geom:longitude":3.708509,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industrieweg 14",
+    "sg:city":"Wondelgem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 17 56",
+    "sg:postcode":"9032",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "pharmaceutical",
+        "energy",
+        "material",
+        "-",
+        "raw",
+        "chemistry",
+        "by-product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DSnabuFaHADaLq1XW7GbA_51.097839_3.708509@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494546,
+    "wof:geomhash":"cea6b4da2ecc14ea3213de445fa49091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1042056879
+        }
+    ],
+    "wof:id":1042056879,
+    "wof:lastmodified":1473494546,
+    "wof:name":"Fauconnier Nv",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "energy",
+        "material",
+        "-",
+        "raw",
+        "chemistry",
+        "by-product"
+    ]
+},
+  "bbox": [
+    3.7085089684,
+    51.0978393555,
+    3.7085089684,
+    51.0978393555
+],
+  "geometry": {"coordinates":[3.7085089684,51.0978393555],"type":"Point"}
+}

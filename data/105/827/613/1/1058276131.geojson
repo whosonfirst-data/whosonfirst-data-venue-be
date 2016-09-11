@@ -1,0 +1,77 @@
+{
+  "id": 1058276131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.21372509,51.2149505615,3.21372509,51.2149505615",
+    "geom:latitude":51.214951,
+    "geom:longitude":3.213725,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keizer Karelstraat 87",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 35 40",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801895,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tA22ZoTK9B82eq9odd7Kh_51.214951_3.213725@1306268479"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517538,
+    "wof:geomhash":"b10fecfc66c94d581fae69726efb5909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801895,
+            "region_id":85681709,
+            "venue_id":1058276131
+        }
+    ],
+    "wof:id":1058276131,
+    "wof:lastmodified":1473517538,
+    "wof:name":"Vlaminck N",
+    "wof:parent_id":85801895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    3.21372509,
+    51.2149505615,
+    3.21372509,
+    51.2149505615
+],
+  "geometry": {"coordinates":[3.21372509,51.2149505615],"type":"Point"}
+}

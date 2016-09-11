@@ -1,0 +1,77 @@
+{
+  "id": 1041689559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3137631416,50.8535194397,4.3137631416,50.8535194397",
+    "geom:latitude":50.853519,
+    "geom:longitude":4.313763,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Fra\u00eecheur 7",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 75 70",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n1tOzzDssjau4mOcCvC7p_50.853519_4.313763@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478882,
+    "wof:geomhash":"406551505cb093898a15e8f91be0ea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1041689559
+        }
+    ],
+    "wof:id":1041689559,
+    "wof:lastmodified":1473478882,
+    "wof:name":"Van Oosthuyse J",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.3137631416,
+    50.8535194397,
+    4.3137631416,
+    50.8535194397
+],
+  "geometry": {"coordinates":[4.3137631416,50.8535194397],"type":"Point"}
+}

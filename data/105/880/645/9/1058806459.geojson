@@ -1,0 +1,79 @@
+{
+  "id": 1058806459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6909310818,51.0910110474,3.6909310818,51.0910110474",
+    "geom:latitude":51.091011,
+    "geom:longitude":3.690931,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industrieweg 114 C",
+    "sg:city":"Industrieweg 114 C",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 37 41",
+    "sg:postcode":"9032",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "sport-",
+        "kampeermateriaal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wPqW6jnaz0T6yEbz5BLtB_51.091011_3.690931@1306268575"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541854,
+    "wof:geomhash":"9a74d0e6c7fc171a10f03b29e2c6b8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1058806459
+        }
+    ],
+    "wof:id":1058806459,
+    "wof:lastmodified":1473541854,
+    "wof:name":"Sport Active",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport-",
+        "kampeermateriaal"
+    ]
+},
+  "bbox": [
+    3.6909310818,
+    51.0910110474,
+    3.6909310818,
+    51.0910110474
+],
+  "geometry": {"coordinates":[3.6909310818,51.0910110474],"type":"Point"}
+}

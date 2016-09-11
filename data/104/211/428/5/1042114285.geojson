@@ -1,0 +1,83 @@
+{
+  "id": 1042114285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4774150848,50.8771591187,4.4774150848,50.8771591187",
+    "geom:latitude":50.877159,
+    "geom:longitude":4.477415,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ter Merenlaan 9",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 306 74 72",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802033,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10M2Tr9WFgzq2670ZRXnoc_50.877159_4.477415@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497051,
+    "wof:geomhash":"40ce01dbe9b426cc0419c034f1f3d4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802033,
+            "region_id":85681731,
+            "venue_id":1042114285
+        }
+    ],
+    "wof:id":1042114285,
+    "wof:lastmodified":1473497051,
+    "wof:name":"Belconex Bvba",
+    "wof:parent_id":85802033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.4774150848,
+    50.8771591187,
+    4.4774150848,
+    50.8771591187
+],
+  "geometry": {"coordinates":[4.4774150848,50.8771591187],"type":"Point"}
+}

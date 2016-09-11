@@ -1,0 +1,83 @@
+{
+  "id": 1041538791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7273390293,51.0578117371,3.7273390293,51.0578117371",
+    "geom:latitude":51.057812,
+    "geom:longitude":3.727339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Penitentenstraat 16",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 69 17",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0evd4uSqsKqbHSZK30U56q_51.057812_3.727339@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472751,
+    "wof:geomhash":"c37cf2329040c95681d5262ea868c9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041538791
+        }
+    ],
+    "wof:id":1041538791,
+    "wof:lastmodified":1473472751,
+    "wof:name":"Baete D",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    3.7273390293,
+    51.0578117371,
+    3.7273390293,
+    51.0578117371
+],
+  "geometry": {"coordinates":[3.7273390293,51.0578117371],"type":"Point"}
+}

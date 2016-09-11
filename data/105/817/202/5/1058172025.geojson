@@ -1,0 +1,79 @@
+{
+  "id": 1058172025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4173951149,51.2122001648,4.4173951149,51.2122001648",
+    "geom:latitude":51.2122,
+    "geom:longitude":4.417395,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quinten Matsijslei 38",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 230 81 34",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RCjsHFeXNmCSIAdmIjgd9_51.212200_4.417395@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512988,
+    "wof:geomhash":"84a8b32d4c5698d64a8532049605c116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058172025
+        }
+    ],
+    "wof:id":1058172025,
+    "wof:lastmodified":1473512988,
+    "wof:name":"Lieber S",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4173951149,
+    51.2122001648,
+    4.4173951149,
+    51.2122001648
+],
+  "geometry": {"coordinates":[4.4173951149,51.2122001648],"type":"Point"}
+}

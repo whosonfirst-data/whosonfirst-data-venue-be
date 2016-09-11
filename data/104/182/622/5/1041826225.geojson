@@ -1,0 +1,83 @@
+{
+  "id": 1041826225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4095511436,50.8466682434,4.4095511436,50.8466682434",
+    "geom:latitude":50.846668,
+    "geom:longitude":4.409551,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue G\u00c9n\u00c9ral Lartigue 30",
+    "sg:city":"Sint-lambrechts-woluwe/woluwe-saint-lambert",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 56 64",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "compagnies",
+        "habitation",
+        "assurance",
+        "vie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bmzY1xellA11pIJ7XUDmi_50.846668_4.409551@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484761,
+    "wof:geomhash":"d5da4b75d3d47954325249f3a1b309af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041826225
+        }
+    ],
+    "wof:id":1041826225,
+    "wof:lastmodified":1473484761,
+    "wof:name":"Mutuelle Electr. Assur.",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compagnies",
+        "habitation",
+        "assurance",
+        "vie"
+    ]
+},
+  "bbox": [
+    4.4095511436,
+    50.8466682434,
+    4.4095511436,
+    50.8466682434
+],
+  "geometry": {"coordinates":[4.4095511436,50.8466682434],"type":"Point"}
+}

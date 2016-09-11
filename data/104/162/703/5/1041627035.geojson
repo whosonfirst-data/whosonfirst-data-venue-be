@@ -1,0 +1,79 @@
+{
+  "id": 1041627035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5703840256,50.6446723938,5.5703840256,50.6446723938",
+    "geom:latitude":50.644672,
+    "geom:longitude":5.570384,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Basse-sauveni\u00e8re 4",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 29 51",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZDVZVTxCxbzY19UsU99Tf_50.644672_5.570384@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476388,
+    "wof:geomhash":"1c786ed8f83fa095bbbe9c31a49199e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041627035
+        }
+    ],
+    "wof:id":1041627035,
+    "wof:lastmodified":1473476388,
+    "wof:name":"Colosio G",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    5.5703840256,
+    50.6446723938,
+    5.5703840256,
+    50.6446723938
+],
+  "geometry": {"coordinates":[5.5703840256,50.6446723938],"type":"Point"}
+}

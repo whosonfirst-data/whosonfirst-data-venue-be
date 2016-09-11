@@ -1,0 +1,79 @@
+{
+  "id": 1058332007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7551701069,51.0621528625,3.7551701069,51.0621528625",
+    "geom:latitude":51.062153,
+    "geom:longitude":3.75517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salviastraat 42",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 34 44",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "consultant",
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mhoCExgGgUkbDW1jacjP9_51.062153_3.755170@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473520091,
+    "wof:geomhash":"1af34252eec47db2f851c23fafc830bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058332007
+        }
+    ],
+    "wof:id":1058332007,
+    "wof:lastmodified":1473520091,
+    "wof:name":"Fiskaal Kantoor Cornelis Bvba",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "law"
+    ]
+},
+  "bbox": [
+    3.7551701069,
+    51.0621528625,
+    3.7551701069,
+    51.0621528625
+],
+  "geometry": {"coordinates":[3.7551701069,51.0621528625],"type":"Point"}
+}

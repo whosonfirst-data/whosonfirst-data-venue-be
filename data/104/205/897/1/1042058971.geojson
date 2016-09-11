@@ -1,0 +1,77 @@
+{
+  "id": 1042058971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7144379616,51.0310440063,3.7144379616,51.0310440063",
+    "geom:latitude":51.031044,
+    "geom:longitude":3.714438,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-pietersnieuwstraat 17",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 60 55",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h72QrmZJsHIgB571betv3_51.031044_3.714438@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494638,
+    "wof:geomhash":"fb216a4d947c16257a18ec2f0a68dbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042058971
+        }
+    ],
+    "wof:id":1042058971,
+    "wof:lastmodified":1473494638,
+    "wof:name":"Denopharma",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.7144379616,
+    51.0310440063,
+    3.7144379616,
+    51.0310440063
+],
+  "geometry": {"coordinates":[3.7144379616,51.0310440063],"type":"Point"}
+}

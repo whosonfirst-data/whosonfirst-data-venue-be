@@ -1,0 +1,81 @@
+{
+  "id": 1042202235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4270968437,51.2213516235,4.4270968437,51.2213516235",
+    "geom:latitude":51.221352,
+    "geom:longitude":4.427097,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Beeldekensstraat 126",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 04 66",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "appliance",
+        "second-hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RMjvavNnmDM2tsH7czbv7_51.221352_4.427097@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502090,
+    "wof:geomhash":"482127c3deb0142fff93673f6b8eed25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042202235
+        }
+    ],
+    "wof:id":1042202235,
+    "wof:lastmodified":1473502090,
+    "wof:name":"Elektro",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "appliance",
+        "second-hand"
+    ]
+},
+  "bbox": [
+    4.4270968437,
+    51.2213516235,
+    4.4270968437,
+    51.2213516235
+],
+  "geometry": {"coordinates":[4.4270968437,51.2213516235],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058560127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3380980492,50.7943878174,4.3380980492,50.7943878174",
+    "geom:latitude":50.794388,
+    "geom:longitude":4.338098,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Moutons 56",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 34 50",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79lcw0812RMpVD0N0zHbn2_50.794388_4.338098@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530828,
+    "wof:geomhash":"7e1e09c36845db55484d3ec1ef8ec012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058560127
+        }
+    ],
+    "wof:id":1058560127,
+    "wof:lastmodified":1473530828,
+    "wof:name":"Jourquin Jacqueline",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3380980492,
+    50.7943878174,
+    4.3380980492,
+    50.7943878174
+],
+  "geometry": {"coordinates":[4.3380980492,50.7943878174],"type":"Point"}
+}

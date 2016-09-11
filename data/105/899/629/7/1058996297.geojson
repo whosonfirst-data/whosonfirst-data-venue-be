@@ -1,0 +1,82 @@
+{
+  "id": 1058996297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4390046,50.8085929,4.4390046,50.8085929",
+    "geom:latitude":50.808593,
+    "geom:longitude":4.439005,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vannypen street, 75",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1160",
+    "sg:tags":[
+        "wines",
+        "reviews",
+        "wine-tourism",
+        "restaurants"
+    ],
+    "sg:website":"http://www.vinogusto.com/en",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801943,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AB8IfEzTYzI5gVpr1c64K_50.808593_4.439005@1308163240"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550367,
+    "wof:geomhash":"e591a981ac925b6f4929e3fee4d63953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801943,
+            "region_id":85681713,
+            "venue_id":1058996297
+        }
+    ],
+    "wof:id":1058996297,
+    "wof:lastmodified":1473550367,
+    "wof:name":"Vinogusto.com",
+    "wof:parent_id":85801943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wines",
+        "reviews",
+        "wine-tourism",
+        "restaurants"
+    ]
+},
+  "bbox": [
+    4.4390046,
+    50.8085929,
+    4.4390046,
+    50.8085929
+],
+  "geometry": {"coordinates":[4.4390046,50.8085929],"type":"Point"}
+}

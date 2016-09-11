@@ -1,0 +1,79 @@
+{
+  "id": 1058523497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3276648521,51.2187919617,4.3276648521,51.2187919617",
+    "geom:latitude":51.218792,
+    "geom:longitude":4.327665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorp Oost 13",
+    "sg:city":"Zwijndrecht",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 250 12 90",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W8EcvOTFVGA2jOQmmjqOS_51.218792_4.327665@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529155,
+    "wof:geomhash":"31a8291ec489c50412079d102ea9e93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058523497
+        }
+    ],
+    "wof:id":1058523497,
+    "wof:lastmodified":1473529155,
+    "wof:name":"Glorie P Bvba",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    4.3276648521,
+    51.2187919617,
+    4.3276648521,
+    51.2187919617
+],
+  "geometry": {"coordinates":[4.3276648521,51.2187919617],"type":"Point"}
+}

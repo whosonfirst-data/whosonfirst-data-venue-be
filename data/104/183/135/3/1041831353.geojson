@@ -1,0 +1,77 @@
+{
+  "id": 1041831353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2833762169,50.8140411377,4.2833762169,50.8140411377",
+    "geom:latitude":50.814041,
+    "geom:longitude":4.283376,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Millepertuis 15",
+    "sg:city":"Anderlecht",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 527 19 53",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5loYojMaI11432JrUBEAHM_50.814041_4.283376@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485008,
+    "wof:geomhash":"621d31a5db2dd8c89825c6d37eaded0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041831353
+        }
+    ],
+    "wof:id":1041831353,
+    "wof:lastmodified":1473485008,
+    "wof:name":"Mathoux & Cie",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.2833762169,
+    50.8140411377,
+    4.2833762169,
+    50.8140411377
+],
+  "geometry": {"coordinates":[4.2833762169,50.8140411377],"type":"Point"}
+}

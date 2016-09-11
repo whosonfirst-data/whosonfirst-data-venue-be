@@ -1,0 +1,77 @@
+{
+  "id": 1041580693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7157979012,51.043422699,3.7157979012,51.043422699",
+    "geom:latitude":51.043423,
+    "geom:longitude":3.715798,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Godshuizenlaan 65-75",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 267 12 60",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sLRqMrqJUf4tqi1SZLLz1_51.043423_3.715798@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474481,
+    "wof:geomhash":"6abe3cf1e74d8c271009a183d955f107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1041580693
+        }
+    ],
+    "wof:id":1041580693,
+    "wof:lastmodified":1473474481,
+    "wof:name":"Provinciaal Instituut Voor Haartooi & Schoonheidszorgen",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    3.7157979012,
+    51.043422699,
+    3.7157979012,
+    51.043422699
+],
+  "geometry": {"coordinates":[3.7157979012,51.043422699],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042026077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7219688892,51.0537986755,3.7219688892,51.0537986755",
+    "geom:latitude":51.053799,
+    "geom:longitude":3.721969,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-michielsstraat 1",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 04 11",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RnxRZlddhe1JWt5TI6qEN_51.053799_3.721969@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493286,
+    "wof:geomhash":"8c5173314d16f84a0610cbf098adfcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042026077
+        }
+    ],
+    "wof:id":1042026077,
+    "wof:lastmodified":1473493286,
+    "wof:name":"Rudolf Vandenbossche",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7219688892,
+    51.0537986755,
+    3.7219688892,
+    51.0537986755
+],
+  "geometry": {"coordinates":[3.7219688892,51.0537986755],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042028245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2249040604,51.2109222412,3.2249040604,51.2109222412",
+    "geom:latitude":51.210922,
+    "geom:longitude":3.224904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kraanplein 5",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 83 58",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "bars",
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZHA3MjaB565DbCdnKXxdg_51.210922_3.224904@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493367,
+    "wof:geomhash":"8b9db6de624987ac8188d92122097e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1042028245
+        }
+    ],
+    "wof:id":1042028245,
+    "wof:lastmodified":1473493367,
+    "wof:name":"Rica & Rokk",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2249040604,
+    51.2109222412,
+    3.2249040604,
+    51.2109222412
+],
+  "geometry": {"coordinates":[3.2249040604,51.2109222412],"type":"Point"}
+}

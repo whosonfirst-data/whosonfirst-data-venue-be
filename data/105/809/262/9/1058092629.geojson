@@ -1,0 +1,71 @@
+{
+  "id": 1058092629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5232582092,51.1606750488,4.5232582092,51.1606750488",
+    "geom:latitude":51.160675,
+    "geom:longitude":4.523258,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lispersteenweg 77a",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 54 60",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BOFO5CaV5x3RtTwrSo9yI_51.160675_4.523258@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509261,
+    "wof:geomhash":"7c4315896905f631053e8d16c66cba7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058092629
+        }
+    ],
+    "wof:id":1058092629,
+    "wof:lastmodified":1473509261,
+    "wof:name":"Gyzels M",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.5232582092,
+    51.1606750488,
+    4.5232582092,
+    51.1606750488
+],
+  "geometry": {"coordinates":[4.5232582092,51.1606750488],"type":"Point"}
+}

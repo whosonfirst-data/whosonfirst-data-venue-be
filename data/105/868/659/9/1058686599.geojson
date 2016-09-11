@@ -1,0 +1,83 @@
+{
+  "id": 1058686599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3821768761,50.8195152283,4.3821768761,50.8195152283",
+    "geom:latitude":50.819515,
+    "geom:longitude":4.382177,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00c9n\u00c9ral Jacques 115",
+    "sg:city":"Elsene/ixelles",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 52 59",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pblFOXiEOAViQPUrQ9Agm_50.819515_4.382177@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536568,
+    "wof:geomhash":"5f4981e5629a6d6553c29427f40c79c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058686599
+        }
+    ],
+    "wof:id":1058686599,
+    "wof:lastmodified":1473536568,
+    "wof:name":"Le Pacifique",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3821768761,
+    50.8195152283,
+    4.3821768761,
+    50.8195152283
+],
+  "geometry": {"coordinates":[4.3821768761,50.8195152283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1041603805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6172680855,50.5881729126,5.6172680855,50.5881729126",
+    "geom:latitude":50.588173,
+    "geom:longitude":5.617268,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Hogn\u00e9 7",
+    "sg:city":"Chaudfontaine (embourg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 99 00",
+    "sg:postcode":"4053",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UcdIHTy5jON5DW85oL0hm_50.588173_5.617268@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475464,
+    "wof:geomhash":"55c272aa995827b59c64a0f69bdf3169",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1041603805
+        }
+    ],
+    "wof:id":1041603805,
+    "wof:lastmodified":1473475464,
+    "wof:name":"Bourguignon J P",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6172680855,
+    50.5881729126,
+    5.6172680855,
+    50.5881729126
+],
+  "geometry": {"coordinates":[5.6172680855,50.5881729126],"type":"Point"}
+}

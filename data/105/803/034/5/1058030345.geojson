@@ -1,0 +1,79 @@
+{
+  "id": 1058030345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3669309616,50.815448761,4.3669309616,50.815448761",
+    "geom:latitude":50.815449,
+    "geom:longitude":4.366931,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waterloose Steenweg 717",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 55 59",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qfpd73Knpkt47yxPYfXi7_50.815449_4.366931@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506705,
+    "wof:geomhash":"35cdba82698d0e8b16615e59b81106d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058030345
+        }
+    ],
+    "wof:id":1058030345,
+    "wof:lastmodified":1473506705,
+    "wof:name":"Mcdonald's",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3669309616,
+    50.815448761,
+    4.3669309616,
+    50.815448761
+],
+  "geometry": {"coordinates":[4.3669309616,50.815448761],"type":"Point"}
+}

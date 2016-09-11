@@ -1,0 +1,81 @@
+{
+  "id": 1042202623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3271989822,50.7725563049,4.3271989822,50.7725563049",
+    "geom:latitude":50.772556,
+    "geom:longitude":4.327199,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 95",
+    "sg:city":"Linkebeek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 381 31 01",
+    "sg:postcode":"1630",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801295,
+        102191581,
+        85632997,
+        404227357,
+        101755541,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQEEyFq5tWS2dNiYvfKFa_50.772556_4.327199@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502109,
+    "wof:geomhash":"f3fc34e80b1398e28747cd2f1727501f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755541,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801295,
+            "region_id":85681731,
+            "venue_id":1042202623
+        }
+    ],
+    "wof:id":1042202623,
+    "wof:lastmodified":1473502109,
+    "wof:name":"Cd Engineering Sprl",
+    "wof:parent_id":85801295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3271989822,
+    50.7725563049,
+    4.3271989822,
+    50.7725563049
+],
+  "geometry": {"coordinates":[4.3271989822,50.7725563049],"type":"Point"}
+}

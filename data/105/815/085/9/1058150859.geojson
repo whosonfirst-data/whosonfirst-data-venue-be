@@ -1,0 +1,81 @@
+{
+  "id": 1058150859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7240080833,51.0527801514,3.7240080833,51.0527801514",
+    "geom:latitude":51.05278,
+    "geom:longitude":3.724008,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bennesteeg 8-10",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 330 83 98",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IkEP0ESuyMbqZ2Wi1Ctb5_51.052780_3.724008@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512030,
+    "wof:geomhash":"56304275fdd4e1ead08ed6e8347d017f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058150859
+        }
+    ],
+    "wof:id":1058150859,
+    "wof:lastmodified":1473512030,
+    "wof:name":"The New Gustibus",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    3.7240080833,
+    51.0527801514,
+    3.7240080833,
+    51.0527801514
+],
+  "geometry": {"coordinates":[3.7240080833,51.0527801514],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058601191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3886861801,50.8153915405,4.3886861801,50.8153915405",
+    "geom:latitude":50.815392,
+    "geom:longitude":4.388686,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De L'universit\u00e9 19",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 648 36 27",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801507,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FIsgGJgJ4kdT7Wq09LYHo_50.815392_4.388686@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532661,
+    "wof:geomhash":"ecd688163c1b5d943ad0bf2e77f778de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801507,
+            "region_id":85681713,
+            "venue_id":1058601191
+        }
+    ],
+    "wof:id":1058601191,
+    "wof:lastmodified":1473532661,
+    "wof:name":"Maison Malhaize",
+    "wof:parent_id":85801507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3886861801,
+    50.8153915405,
+    4.3886861801,
+    50.8153915405
+],
+  "geometry": {"coordinates":[4.3886861801,50.8153915405],"type":"Point"}
+}

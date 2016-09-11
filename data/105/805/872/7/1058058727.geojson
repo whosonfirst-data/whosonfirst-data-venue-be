@@ -1,0 +1,79 @@
+{
+  "id": 1058058727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4237809181,51.2002754211,4.4237809181,51.2002754211",
+    "geom:latitude":51.200275,
+    "geom:longitude":4.423781,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eikelstraat 66-68",
+    "sg:city":"Berchem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 239 36 95",
+    "sg:postcode":"2600",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "product",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BmtUBthPcwhD40P2sR0nK_51.200275_4.423781@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507871,
+    "wof:geomhash":"1fe8467ebe69ddd12f5c5f4dd7018ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058058727
+        }
+    ],
+    "wof:id":1058058727,
+    "wof:lastmodified":1473507871,
+    "wof:name":"Euro-sweets Nv",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "related"
+    ]
+},
+  "bbox": [
+    4.4237809181,
+    51.2002754211,
+    4.4237809181,
+    51.2002754211
+],
+  "geometry": {"coordinates":[4.4237809181,51.2002754211],"type":"Point"}
+}

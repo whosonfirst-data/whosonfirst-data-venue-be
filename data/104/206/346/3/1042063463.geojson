@@ -1,0 +1,77 @@
+{
+  "id": 1042063463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7517390251,51.0618476868,3.7517390251,51.0618476868",
+    "geom:latitude":51.061848,
+    "geom:longitude":3.751739,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Azaleastraat 9",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 19 56",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rGRkqHrmzhAvcCqmUaaBc_51.061848_3.751739@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494807,
+    "wof:geomhash":"19e7bd23749cd3353f5abfaf845303f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1042063463
+        }
+    ],
+    "wof:id":1042063463,
+    "wof:lastmodified":1473494807,
+    "wof:name":"Alderweireldt J",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    3.7517390251,
+    51.0618476868,
+    3.7517390251,
+    51.0618476868
+],
+  "geometry": {"coordinates":[3.7517390251,51.0618476868],"type":"Point"}
+}

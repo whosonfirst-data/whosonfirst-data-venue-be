@@ -1,0 +1,81 @@
+{
+  "id": 1058071523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5716118813,50.6389541626,5.5716118813,50.6389541626",
+    "geom:latitude":50.638954,
+    "geom:longitude":5.571612,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Clarisses 32",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 33 33",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FlzycEnASgFOu3CfbDbko_50.638954_5.571612@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508379,
+    "wof:geomhash":"33c0645800c46dde5e2beaa2d197fd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058071523
+        }
+    ],
+    "wof:id":1058071523,
+    "wof:lastmodified":1473508379,
+    "wof:name":"Yildiz (chez)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    5.5716118813,
+    50.6389541626,
+    5.5716118813,
+    50.6389541626
+],
+  "geometry": {"coordinates":[5.5716118813,50.6389541626],"type":"Point"}
+}

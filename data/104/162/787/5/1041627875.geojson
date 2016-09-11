@@ -1,0 +1,83 @@
+{
+  "id": 1041627875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3137879372,50.8632164001,4.3137879372,50.8632164001",
+    "geom:latitude":50.863216,
+    "geom:longitude":4.313788,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Ch\u00c2teau 30",
+    "sg:city":"Koekelberg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 74 09",
+    "sg:postcode":"1081",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "machine",
+        "fab",
+        "de",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2529s07dFyj1dgyvQIveoW_50.863216_4.313788@1306268498"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476423,
+    "wof:geomhash":"6bc3244d18529a7afe6b8eee474c4402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1041627875
+        }
+    ],
+    "wof:id":1041627875,
+    "wof:lastmodified":1473476423,
+    "wof:name":"Psc",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "fab",
+        "de",
+        "bureau"
+    ]
+},
+  "bbox": [
+    4.3137879372,
+    50.8632164001,
+    4.3137879372,
+    50.8632164001
+],
+  "geometry": {"coordinates":[4.3137879372,50.8632164001],"type":"Point"}
+}

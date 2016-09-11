@@ -1,0 +1,77 @@
+{
+  "id": 1058620413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3844242096,50.8343200684,4.3844242096,50.8343200684",
+    "geom:latitude":50.83432,
+    "geom:longitude":4.384424,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Wavre 506",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 626 15 40",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mti1KGPVAlA0uu8FfNhpv_50.834320_4.384424@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533588,
+    "wof:geomhash":"1f21b4efb7789c5e8e03abc340c3c272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058620413
+        }
+    ],
+    "wof:id":1058620413,
+    "wof:lastmodified":1473533588,
+    "wof:name":"Mission Locale D'etterbeek",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional"
+    ]
+},
+  "bbox": [
+    4.3844242096,
+    50.8343200684,
+    4.3844242096,
+    50.8343200684
+],
+  "geometry": {"coordinates":[4.3844242096,50.8343200684],"type":"Point"}
+}

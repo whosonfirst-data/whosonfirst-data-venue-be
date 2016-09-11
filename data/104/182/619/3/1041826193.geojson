@@ -1,0 +1,83 @@
+{
+  "id": 1041826193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4208297729,50.8571510315,4.4208297729,50.8571510315",
+    "geom:latitude":50.857151,
+    "geom:longitude":4.42083,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Colonel Bourg 153",
+    "sg:city":"Evere",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 240 67 60",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "compagnies",
+        "habitation",
+        "assurance",
+        "vie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jrmPnKSi2M9p0oY5EuOJL_50.857151_4.420830@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484760,
+    "wof:geomhash":"bca2f91dab823abee2e3f6f91a4201f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041826193
+        }
+    ],
+    "wof:id":1041826193,
+    "wof:lastmodified":1473484760,
+    "wof:name":"Fa. Emani/emani",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compagnies",
+        "habitation",
+        "assurance",
+        "vie"
+    ]
+},
+  "bbox": [
+    4.4208297729,
+    50.8571510315,
+    4.4208297729,
+    50.8571510315
+],
+  "geometry": {"coordinates":[4.4208297729,50.8571510315],"type":"Point"}
+}

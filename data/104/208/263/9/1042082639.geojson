@@ -1,0 +1,77 @@
+{
+  "id": 1042082639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3852171898,50.7152023315,4.3852171898,50.7152023315",
+    "geom:latitude":50.715202,
+    "geom:longitude":4.385217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr\u00c8ve De L'infante 28",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 11 29",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJdxKpR2a96mihedmJmuc_50.715202_4.385217@1306268392"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495629,
+    "wof:geomhash":"26470ac1f4a6d4c12b8af8724d182f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042082639
+        }
+    ],
+    "wof:id":1042082639,
+    "wof:lastmodified":1473495629,
+    "wof:name":"P.c. Etterbeek",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    4.3852171898,
+    50.7152023315,
+    4.3852171898,
+    50.7152023315
+],
+  "geometry": {"coordinates":[4.3852171898,50.7152023315],"type":"Point"}
+}

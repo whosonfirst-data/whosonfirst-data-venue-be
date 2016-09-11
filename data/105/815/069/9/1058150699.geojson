@@ -1,0 +1,81 @@
+{
+  "id": 1058150699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3463749886,50.858165741,4.3463749886,50.858165741",
+    "geom:latitude":50.858166,
+    "geom:longitude":4.346375,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard D'ypres 92",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 209 29 50",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fP2wkl8szQypgF8r6h9yr_50.858166_4.346375@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512025,
+    "wof:geomhash":"3b89037f59a0d93a5aa80dea83befe32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058150699
+        }
+    ],
+    "wof:id":1058150699,
+    "wof:lastmodified":1473512025,
+    "wof:name":"Salle Max",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    4.3463749886,
+    50.858165741,
+    4.3463749886,
+    50.858165741
+],
+  "geometry": {"coordinates":[4.3463749886,50.858165741],"type":"Point"}
+}

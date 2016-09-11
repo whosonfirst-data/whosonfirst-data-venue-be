@@ -1,0 +1,79 @@
+{
+  "id": 1058776199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.724793911,51.0523262024,3.724793911,51.0523262024",
+    "geom:latitude":51.052326,
+    "geom:longitude":3.724794,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Voldersstraat 8",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 34 29",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60KmL3ouUzUlhAujIO4lJt_51.052326_3.724794@1306268570"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540503,
+    "wof:geomhash":"26584e560199163e62aff5c64cf1bc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058776199
+        }
+    ],
+    "wof:id":1058776199,
+    "wof:lastmodified":1473540503,
+    "wof:name":"Subliem",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    3.724793911,
+    51.0523262024,
+    3.724793911,
+    51.0523262024
+],
+  "geometry": {"coordinates":[3.724793911,51.0523262024],"type":"Point"}
+}

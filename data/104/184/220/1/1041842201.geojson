@@ -1,0 +1,85 @@
+{
+  "id": 1041842201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3298811913,50.8453216553,4.3298811913,50.8453216553",
+    "geom:latitude":50.845322,
+    "geom:longitude":4.329881,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Heyvaert 155",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 85 95",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "transit",
+        "-",
+        "export",
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v05BkormZtx8TuzQrs4yy_50.845322_4.329881@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485469,
+    "wof:geomhash":"8cb953858209db07a071f26db0b46220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1041842201
+        }
+    ],
+    "wof:id":1041842201,
+    "wof:lastmodified":1473485469,
+    "wof:name":"Babylon Motor Sc",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "transit",
+        "-",
+        "export",
+        "import"
+    ]
+},
+  "bbox": [
+    4.3298811913,
+    50.8453216553,
+    4.3298811913,
+    50.8453216553
+],
+  "geometry": {"coordinates":[4.3298811913,50.8453216553],"type":"Point"}
+}

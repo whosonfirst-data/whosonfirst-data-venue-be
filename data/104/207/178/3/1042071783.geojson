@@ -1,0 +1,81 @@
+{
+  "id": 1042071783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4062480927,51.2151069641,4.4062480927,51.2151069641",
+    "geom:latitude":51.215107,
+    "geom:longitude":4.406248,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arenbergstraat 12",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 234 87 50",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1akvd2WkOFMCI25QRvvD0i_51.215107_4.406248@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495150,
+    "wof:geomhash":"c3f1a888edad8d9d67b7bb73c652201f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042071783
+        }
+    ],
+    "wof:id":1042071783,
+    "wof:lastmodified":1473495150,
+    "wof:name":"Scapa Belgium",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    4.4062480927,
+    51.2151069641,
+    4.4062480927,
+    51.2151069641
+],
+  "geometry": {"coordinates":[4.4062480927,51.2151069641],"type":"Point"}
+}

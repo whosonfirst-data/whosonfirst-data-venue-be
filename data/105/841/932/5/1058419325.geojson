@@ -1,0 +1,83 @@
+{
+  "id": 1058419325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5668029785,50.530456543,5.5668029785,50.530456543",
+    "geom:latitude":50.530457,
+    "geom:longitude":5.566803,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bruxelles 43",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 380 35 78",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "motorbike",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801627,
+        102191581,
+        85632997,
+        404227353,
+        101755185,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jgJXMd7jkHXdXt203cJvH_50.530457_5.566803@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524112,
+    "wof:geomhash":"484c5813cc782ab3fc3ff057c08b2c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755185,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801627,
+            "region_id":85681691,
+            "venue_id":1058419325
+        }
+    ],
+    "wof:id":1058419325,
+    "wof:lastmodified":1473524112,
+    "wof:name":"Start-motos",
+    "wof:parent_id":85801627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "motorbike",
+        "equipment"
+    ]
+},
+  "bbox": [
+    5.5668029785,
+    50.530456543,
+    5.5668029785,
+    50.530456543
+],
+  "geometry": {"coordinates":[5.5668029785,50.530456543],"type":"Point"}
+}

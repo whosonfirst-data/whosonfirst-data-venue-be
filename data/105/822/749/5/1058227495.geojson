@@ -1,0 +1,79 @@
+{
+  "id": 1058227495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3680768013,50.8512916565,4.3680768013,50.8512916565",
+    "geom:latitude":50.851292,
+    "geom:longitude":4.368077,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Bischoffsheim 25",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Ethnic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 209 09 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "industrial",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l5hQ61PngMMvLDvqGbmos_50.851292_4.368077@1306268471"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515418,
+    "wof:geomhash":"6574587a81747c4d445c151e97f601ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058227495
+        }
+    ],
+    "wof:id":1058227495,
+    "wof:lastmodified":1473515418,
+    "wof:name":"Iwt-instituut Voor De Aanmoediging Van Innovatie Door Wetenschap En Technologie In Vlaanderen",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "research"
+    ]
+},
+  "bbox": [
+    4.3680768013,
+    50.8512916565,
+    4.3680768013,
+    50.8512916565
+],
+  "geometry": {"coordinates":[4.3680768013,50.8512916565],"type":"Point"}
+}

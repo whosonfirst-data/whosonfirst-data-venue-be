@@ -1,0 +1,85 @@
+{
+  "id": 1042089133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4650759697,50.8903999329,4.4650759697,50.8903999329",
+    "geom:latitude":50.8904,
+    "geom:longitude":4.465076,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tuinwijkstraat 42",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 46 17",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801053,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bma84OkfPgWDTdjhy9Ycb_50.890400_4.465076@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495920,
+    "wof:geomhash":"1948f2835bd48d3426ac3c6cb0baa573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801053,
+            "region_id":85681731,
+            "venue_id":1042089133
+        }
+    ],
+    "wof:id":1042089133,
+    "wof:lastmodified":1473495920,
+    "wof:name":"S.k. Hoek Zaventem",
+    "wof:parent_id":85801053,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ]
+},
+  "bbox": [
+    4.4650759697,
+    50.8903999329,
+    4.4650759697,
+    50.8903999329
+],
+  "geometry": {"coordinates":[4.4650759697,50.8903999329],"type":"Point"}
+}

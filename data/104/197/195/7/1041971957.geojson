@@ -1,0 +1,77 @@
+{
+  "id": 1041971957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.327753067,50.8766288757,4.327753067,50.8766288757",
+    "geom:latitude":50.876629,
+    "geom:longitude":4.327753,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Werrie 87",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 20 50",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41uu6plPXVKuCX4NDTEHVw_50.876629_4.327753@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491128,
+    "wof:geomhash":"d0d9ef58887d756e82d914b8845f6eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041971957
+        }
+    ],
+    "wof:id":1041971957,
+    "wof:lastmodified":1473491128,
+    "wof:name":"Jet'presse",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.327753067,
+    50.8766288757,
+    4.327753067,
+    50.8766288757
+],
+  "geometry": {"coordinates":[4.327753067,50.8766288757],"type":"Point"}
+}

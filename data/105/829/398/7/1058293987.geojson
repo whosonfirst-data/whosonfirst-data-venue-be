@@ -1,0 +1,79 @@
+{
+  "id": 1058293987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4201488495,51.2168693542,4.4201488495,51.2168693542",
+    "geom:latitude":51.216869,
+    "geom:longitude":4.420149,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pelikaansstraat 4",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 234 09 34",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "jeweller",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WZd8kA4WhubK54bmZfmSv_51.216869_4.420149@1306268483"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518319,
+    "wof:geomhash":"2292d1bb499fdf6a6a33ee98428940d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058293987
+        }
+    ],
+    "wof:id":1058293987,
+    "wof:lastmodified":1473518319,
+    "wof:name":"D & D",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweller",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4201488495,
+    51.2168693542,
+    4.4201488495,
+    51.2168693542
+],
+  "geometry": {"coordinates":[4.4201488495,51.2168693542],"type":"Point"}
+}

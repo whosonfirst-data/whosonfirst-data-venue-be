@@ -1,0 +1,88 @@
+{
+  "id": 1042015363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4010162354,51.2196617126,4.4010162354,51.2196617126",
+    "geom:latitude":51.219662,
+    "geom:longitude":4.401016,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groenplaats 13",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 64 91",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715,
+        85801623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JTxXEp8zCftdnloachHZV_51.219662_4.401016@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492890,
+    "wof:geomhash":"934e0e71131e519a0c7f0ea337b39158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042015363
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801623,
+            "region_id":85681715,
+            "venue_id":1042015363
+        }
+    ],
+    "wof:id":1042015363,
+    "wof:lastmodified":1473492890,
+    "wof:name":"Christiamite",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4010162354,
+    51.2196617126,
+    4.4010162354,
+    51.2196617126
+],
+  "geometry": {"coordinates":[4.4010162354,51.2196617126],"type":"Point"}
+}

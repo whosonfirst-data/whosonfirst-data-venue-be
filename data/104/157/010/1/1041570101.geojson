@@ -1,0 +1,81 @@
+{
+  "id": 1041570101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3710579872,50.9328689575,4.3710579872,50.9328689575",
+    "geom:latitude":50.932869,
+    "geom:longitude":4.371058,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prinsenstraat 4",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 20 54",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CCmgKuZCAiVPfDgt0h2vz_50.932869_4.371058@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474048,
+    "wof:geomhash":"171a9c779109e497a15b9e935cb14548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1041570101
+        }
+    ],
+    "wof:id":1041570101,
+    "wof:lastmodified":1473474048,
+    "wof:name":"Men's House",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "-",
+        "gentleman"
+    ]
+},
+  "bbox": [
+    4.3710579872,
+    50.9328689575,
+    4.3710579872,
+    50.9328689575
+],
+  "geometry": {"coordinates":[4.3710579872,50.9328689575],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058054887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2342340946,51.2249679565,3.2342340946,51.2249679565",
+    "geom:latitude":51.224968,
+    "geom:longitude":3.234234,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ronsaardbekestraat 71",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 30 03",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Neys0VCb0JPfiuSxPzf5k_51.224968_3.234234@1306268435"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507712,
+    "wof:geomhash":"a4432b058e2614605ca38140b1a91603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058054887
+        }
+    ],
+    "wof:id":1058054887,
+    "wof:lastmodified":1473507712,
+    "wof:name":"Gerbera",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2342340946,
+    51.2249679565,
+    3.2342340946,
+    51.2249679565
+],
+  "geometry": {"coordinates":[3.2342340946,51.2249679565],"type":"Point"}
+}

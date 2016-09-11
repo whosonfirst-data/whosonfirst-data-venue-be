@@ -1,0 +1,75 @@
+{
+  "id": 1042172101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5192332268,50.6699638367,5.5192332268,50.6699638367",
+    "geom:latitude":50.669964,
+    "geom:longitude":5.519233,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bols\u00e9e 2",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 247 56 38",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GE7TjLkNMYtJGInKOb4zA_50.669964_5.519233@1306268408"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500263,
+    "wof:geomhash":"9e3d8d8324eb26007e93f5d69732327f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1042172101
+        }
+    ],
+    "wof:id":1042172101,
+    "wof:lastmodified":1473500263,
+    "wof:name":"Animalia",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ]
+},
+  "bbox": [
+    5.5192332268,
+    50.6699638367,
+    5.5192332268,
+    50.6699638367
+],
+  "geometry": {"coordinates":[5.5192332268,50.6699638367],"type":"Point"}
+}

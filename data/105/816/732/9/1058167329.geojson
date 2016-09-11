@@ -1,0 +1,79 @@
+{
+  "id": 1058167329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7344820499,51.0458450317,3.7344820499,51.0458450317",
+    "geom:latitude":51.045845,
+    "geom:longitude":3.734482,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Violettestraat 134",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 89 96",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cvb2boWpNYIr6u93TobXk_51.045845_3.734482@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512765,
+    "wof:geomhash":"e1b1f9bf2cd66c34e0dce391f09accd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058167329
+        }
+    ],
+    "wof:id":1058167329,
+    "wof:lastmodified":1473512765,
+    "wof:name":"Haenebalcke Marcus",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7344820499,
+    51.0458450317,
+    3.7344820499,
+    51.0458450317
+],
+  "geometry": {"coordinates":[3.7344820499,51.0458450317],"type":"Point"}
+}

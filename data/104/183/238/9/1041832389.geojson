@@ -1,0 +1,71 @@
+{
+  "id": 1041832389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.522591114,50.8185272217,4.522591114,50.8185272217",
+    "geom:latitude":50.818527,
+    "geom:longitude":4.522591,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jachtlaan 33",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 53 44",
+    "sg:postcode":"1980",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801373,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SJROlerEzqoHLMAKWA3MS_50.818527_4.522591@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485047,
+    "wof:geomhash":"26d6d496f6cf5ad87a87fcf33f9ff748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801373,
+            "region_id":85681731,
+            "venue_id":1041832389
+        }
+    ],
+    "wof:id":1041832389,
+    "wof:lastmodified":1473485047,
+    "wof:name":"Sas",
+    "wof:parent_id":85801373,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.522591114,
+    50.8185272217,
+    4.522591114,
+    50.8185272217
+],
+  "geometry": {"coordinates":[4.522591114,50.8185272217],"type":"Point"}
+}

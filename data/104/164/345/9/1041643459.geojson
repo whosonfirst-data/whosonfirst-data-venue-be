@@ -1,0 +1,79 @@
+{
+  "id": 1041643459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3950781822,50.8590774536,4.3950781822,50.8590774536",
+    "geom:latitude":50.859077,
+    "geom:longitude":4.395078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wahislaan (generaal) 17",
+    "sg:city":"Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 745 42 90",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "personnel",
+        "placement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7bNNg2ExXh4iOh2cRgFz_50.859077_4.395078@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477083,
+    "wof:geomhash":"eeaf59348c6faeed6ec54a2dc0a6c504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1041643459
+        }
+    ],
+    "wof:id":1041643459,
+    "wof:lastmodified":1473477083,
+    "wof:name":"Vandycke & Partners B.v.b.a.",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel",
+        "placement"
+    ]
+},
+  "bbox": [
+    4.3950781822,
+    50.8590774536,
+    4.3950781822,
+    50.8590774536
+],
+  "geometry": {"coordinates":[4.3950781822,50.8590774536],"type":"Point"}
+}

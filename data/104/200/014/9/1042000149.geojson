@@ -1,0 +1,80 @@
+{
+  "id": 1042000149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2686548233,50.826335907,4.2686548233,50.826335907",
+    "geom:latitude":50.826336,
+    "geom:longitude":4.268655,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"49",
+    "sg:city":"Ropsy Chaudronstraat 1070 Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 09 58",
+    "sg:postcode":"49",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79QiQFfVxpm0CjXb9bs3Y1_50.826336_4.268655@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492320,
+    "wof:geomhash":"ef5039e747c77b7250d5ee946b2e757b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1042000149
+        }
+    ],
+    "wof:id":1042000149,
+    "wof:lastmodified":1473492320,
+    "wof:name":"Brasserie-restaurant La Paix Nv",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.2686548233,
+    50.826335907,
+    4.2686548233,
+    50.826335907
+],
+  "geometry": {"coordinates":[4.2686548233,50.826335907],"type":"Point"}
+}

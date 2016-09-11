@@ -1,0 +1,77 @@
+{
+  "id": 1042197869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.345998764,50.8276290894,4.345998764,50.8276290894",
+    "geom:latitude":50.827629,
+    "geom:longitude":4.345999,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Rh\u00e9torique 13",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 536 03 54",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ylCCFMGp42x0ZpjXfsvOU_50.827629_4.345999@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501796,
+    "wof:geomhash":"f1634330892df6eb4139524d44983132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042197869
+        }
+    ],
+    "wof:id":1042197869,
+    "wof:lastmodified":1473501796,
+    "wof:name":"Peter Pan (\u00e9cole)",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.345998764,
+    50.8276290894,
+    4.345998764,
+    50.8276290894
+],
+  "geometry": {"coordinates":[4.345998764,50.8276290894],"type":"Point"}
+}

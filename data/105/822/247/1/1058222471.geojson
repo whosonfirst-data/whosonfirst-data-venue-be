@@ -1,0 +1,81 @@
+{
+  "id": 1058222471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3957967758,50.7982406616,4.3957967758,50.7982406616",
+    "geom:latitude":50.798241,
+    "geom:longitude":4.395797,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La For\u00eat 184",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 672 97 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800899,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eq2wyKYJOzETciRKHRlqu_50.798241_4.395797@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515194,
+    "wof:geomhash":"dce66a3e65606bc8b0de5ac6596eb088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800899,
+            "region_id":85681713,
+            "venue_id":1058222471
+        }
+    ],
+    "wof:id":1058222471,
+    "wof:lastmodified":1473515194,
+    "wof:name":"Sucotrade Sa",
+    "wof:parent_id":85800899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3957967758,
+    50.7982406616,
+    4.3957967758,
+    50.7982406616
+],
+  "geometry": {"coordinates":[4.3957967758,50.7982406616],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041606283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3494558334,50.7955169678,4.3494558334,50.7955169678",
+    "geom:latitude":50.795517,
+    "geom:longitude":4.349456,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Et Pierre Carsoel 133",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 96 96",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fN9AXHUBo4iOHv6IdB8y2_50.795517_4.349456@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475566,
+    "wof:geomhash":"4d94a9489b0fa8757788c04eca1261ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041606283
+        }
+    ],
+    "wof:id":1041606283,
+    "wof:lastmodified":1473475566,
+    "wof:name":"Malek Lidia",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3494558334,
+    50.7955169678,
+    4.3494558334,
+    50.7955169678
+],
+  "geometry": {"coordinates":[4.3494558334,50.7955169678],"type":"Point"}
+}

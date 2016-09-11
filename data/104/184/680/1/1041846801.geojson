@@ -1,0 +1,81 @@
+{
+  "id": 1041846801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7600939274,51.0422172546,3.7600939274,51.0422172546",
+    "geom:latitude":51.042217,
+    "geom:longitude":3.760094,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emanuel Hielstraat 75-77",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 22 69",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTE2RZEdCpxB1cfLmcFLK_51.042217_3.760094@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485656,
+    "wof:geomhash":"913ba84e10b672e2ed098be3ea2d9fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041846801
+        }
+    ],
+    "wof:id":1041846801,
+    "wof:lastmodified":1473485656,
+    "wof:name":"J.v.p. Cars",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7600939274,
+    51.0422172546,
+    3.7600939274,
+    51.0422172546
+],
+  "geometry": {"coordinates":[3.7600939274,51.0422172546],"type":"Point"}
+}

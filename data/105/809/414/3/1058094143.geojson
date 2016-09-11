@@ -1,0 +1,71 @@
+{
+  "id": 1058094143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2120831013,51.2423934937,3.2120831013,51.2423934937",
+    "geom:latitude":51.242393,
+    "geom:longitude":3.212083,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Peraltastraat 45",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 32 13 26",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801915,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2crjkpTPiUBaYMv2CK091B_51.242393_3.212083@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509325,
+    "wof:geomhash":"900874351ce5923b83ea7798326f7775",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801915,
+            "region_id":85681709,
+            "venue_id":1058094143
+        }
+    ],
+    "wof:id":1058094143,
+    "wof:lastmodified":1473509325,
+    "wof:name":"Peiren D",
+    "wof:parent_id":85801915,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    3.2120831013,
+    51.2423934937,
+    3.2120831013,
+    51.2423934937
+],
+  "geometry": {"coordinates":[3.2120831013,51.2423934937],"type":"Point"}
+}

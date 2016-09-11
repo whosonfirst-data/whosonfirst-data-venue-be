@@ -1,0 +1,79 @@
+{
+  "id": 1058154639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7085180283,51.0548324585,3.7085180283,51.0548324585",
+    "geom:latitude":51.054832,
+    "geom:longitude":3.708518,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Coupure Links 685",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 58 05",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E6PZRkLlXJmsjZAy05NB9_51.054832_3.708518@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512210,
+    "wof:geomhash":"a2939bceb9fa101072d86df543ae909d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058154639
+        }
+    ],
+    "wof:id":1058154639,
+    "wof:lastmodified":1473512210,
+    "wof:name":"Beghin Cathy",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7085180283,
+    51.0548324585,
+    3.7085180283,
+    51.0548324585
+],
+  "geometry": {"coordinates":[3.7085180283,51.0548324585],"type":"Point"}
+}

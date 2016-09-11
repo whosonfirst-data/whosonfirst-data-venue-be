@@ -1,0 +1,81 @@
+{
+  "id": 1041581127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3265461922,50.8106269836,4.3265461922,50.8106269836",
+    "geom:latitude":50.810627,
+    "geom:longitude":4.326546,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Victor Rousseau 149 Box 8",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 69 56",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801153,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bVcLuqL4mbXGw5HuxbOph_50.810627_4.326546@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474498,
+    "wof:geomhash":"8eb0f9ea82c44b1397547648aca3b783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801153,
+            "region_id":85681713,
+            "venue_id":1041581127
+        }
+    ],
+    "wof:id":1041581127,
+    "wof:lastmodified":1473474498,
+    "wof:name":"Desmet Marc Sprl",
+    "wof:parent_id":85801153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3265461922,
+    50.8106269836,
+    4.3265461922,
+    50.8106269836
+],
+  "geometry": {"coordinates":[4.3265461922,50.8106269836],"type":"Point"}
+}

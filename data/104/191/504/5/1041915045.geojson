@@ -1,0 +1,90 @@
+{
+  "id": 1041915045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3468608856,50.8168678284,4.3468608856,50.8168678284",
+    "geom:latitude":50.816868,
+    "geom:longitude":4.346861,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Albert 190",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 17 58",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "battery",
+        "dry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HWIXvybtCDB3t8QCmeIS3_50.816868_4.346861@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488528,
+    "wof:geomhash":"e667ec9a6d637382ea321d25063c5bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1041915045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041915045
+        }
+    ],
+    "wof:id":1041915045,
+    "wof:lastmodified":1473488528,
+    "wof:name":"Orsones Sprl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "dry"
+    ]
+},
+  "bbox": [
+    4.3468608856,
+    50.8168678284,
+    4.3468608856,
+    50.8168678284
+],
+  "geometry": {"coordinates":[4.3468608856,50.8168678284],"type":"Point"}
+}

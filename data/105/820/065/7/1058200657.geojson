@@ -1,0 +1,81 @@
+{
+  "id": 1058200657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3398947716,50.8961906433,4.3398947716,50.8961906433",
+    "geom:latitude":50.896191,
+    "geom:longitude":4.339895,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Square Du Centenaire 12-13",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 59 80",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "honey",
+        "whol",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801105,
+        102191581,
+        85632997,
+        404227357,
+        101754337,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OGfiaNEymeQegggHQmHn4_50.896191_4.339895@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514231,
+    "wof:geomhash":"61b4606151a58e080d08e060c109a78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754337,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801105,
+            "region_id":85681731,
+            "venue_id":1058200657
+        }
+    ],
+    "wof:id":1058200657,
+    "wof:lastmodified":1473514231,
+    "wof:name":"Goossens P",
+    "wof:parent_id":85801105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "honey",
+        "whol",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3398947716,
+    50.8961906433,
+    4.3398947716,
+    50.8961906433
+],
+  "geometry": {"coordinates":[4.3398947716,50.8961906433],"type":"Point"}
+}

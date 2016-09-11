@@ -1,0 +1,73 @@
+{
+  "id": 1041606175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4915537834,50.5936775208,5.4915537834,50.5936775208",
+    "geom:latitude":50.593678,
+    "geom:longitude":5.491554,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fiv\u00e9 352",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 39 20",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UvJqGb7ctfcdzWetulTEC_50.593678_5.491554@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475561,
+    "wof:geomhash":"0a9b0438c366e5568c88d5daae9238de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1041606175
+        }
+    ],
+    "wof:id":1041606175,
+    "wof:lastmodified":1473475561,
+    "wof:name":"Libert H",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.4915537834,
+    50.5936775208,
+    5.4915537834,
+    50.5936775208
+],
+  "geometry": {"coordinates":[5.4915537834,50.5936775208],"type":"Point"}
+}

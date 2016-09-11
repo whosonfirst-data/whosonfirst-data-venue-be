@@ -1,0 +1,77 @@
+{
+  "id": 1058093351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6300358772,50.6606407166,5.6300358772,50.6606407166",
+    "geom:latitude":50.660641,
+    "geom:longitude":5.630036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Z\u00e9nobe Gramme 21",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 248 09 49",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75jR5AsSK2CtEjcy9MemNV_50.660641_5.630036@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509295,
+    "wof:geomhash":"1396f65534da608d5be4b3bd2e2b7882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058093351
+        }
+    ],
+    "wof:id":1058093351,
+    "wof:lastmodified":1473509295,
+    "wof:name":"Lequet & Herkenne",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    5.6300358772,
+    50.6606407166,
+    5.6300358772,
+    50.6606407166
+],
+  "geometry": {"coordinates":[5.6300358772,50.6606407166],"type":"Point"}
+}

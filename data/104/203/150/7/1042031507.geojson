@@ -1,0 +1,77 @@
+{
+  "id": 1042031507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5801000595,50.6432533264,5.5801000595,50.6432533264",
+    "geom:latitude":50.643253,
+    "geom:longitude":5.5801,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Saint-pholien 3",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 06 45",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zT7uygvIKLn4e1jq10Dxx_50.643253_5.580100@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493504,
+    "wof:geomhash":"807a36f2215bd4e15b94c265fcdb0695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042031507
+        }
+    ],
+    "wof:id":1042031507,
+    "wof:lastmodified":1473493504,
+    "wof:name":"Taverne Le Saint Pholien",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    5.5801000595,
+    50.6432533264,
+    5.5801000595,
+    50.6432533264
+],
+  "geometry": {"coordinates":[5.5801000595,50.6432533264],"type":"Point"}
+}

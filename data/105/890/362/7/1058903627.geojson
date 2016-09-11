@@ -1,0 +1,71 @@
+{
+  "id": 1058903627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.1272039413,49.6133079529,6.1272039413,49.6133079529",
+    "geom:latitude":49.613308,
+    "geom:longitude":6.127204,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"R Des Bains 16",
+    "sg:city":"Luxembourg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1212",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802061,
+        102191581,
+        85633275,
+        101751765,
+        85673875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nkURS5yHzBouOEPQob1B5_49.613308_6.127204@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546121,
+    "wof:geomhash":"3dee259d940aaf6f95dff52efe784908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633275,
+            "locality_id":101751765,
+            "neighbourhood_id":85802061,
+            "region_id":85673875,
+            "venue_id":1058903627
+        }
+    ],
+    "wof:id":1058903627,
+    "wof:lastmodified":1473546121,
+    "wof:name":"Nouvelles Frontrieres",
+    "wof:parent_id":85802061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    6.1272039413,
+    49.6133079529,
+    6.1272039413,
+    49.6133079529
+],
+  "geometry": {"coordinates":[6.1272039413,49.6133079529],"type":"Point"}
+}

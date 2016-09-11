@@ -1,0 +1,81 @@
+{
+  "id": 1058101363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3860898018,50.8929252625,4.3860898018,50.8929252625",
+    "geom:latitude":50.892925,
+    "geom:longitude":4.38609,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Marjolaine 50",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 23 31",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lxux313YYdMCwRRefNW1P_50.892925_4.386090@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509649,
+    "wof:geomhash":"c3119e765454eeb499733a3941913f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1058101363
+        }
+    ],
+    "wof:id":1058101363,
+    "wof:lastmodified":1473509649,
+    "wof:name":"Raas C",
+    "wof:parent_id":85801665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.3860898018,
+    50.8929252625,
+    4.3860898018,
+    50.8929252625
+],
+  "geometry": {"coordinates":[4.3860898018,50.8929252625],"type":"Point"}
+}

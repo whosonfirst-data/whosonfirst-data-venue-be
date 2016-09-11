@@ -1,0 +1,85 @@
+{
+  "id": 1042247697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5724711418,50.5444602966,5.5724711418,50.5444602966",
+    "geom:latitude":50.54446,
+    "geom:longitude":5.572471,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Midi 51",
+    "sg:city":"Esneux",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 380 08 81",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "current",
+        "supplies",
+        "power",
+        "emergency",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801627,
+        102191581,
+        85632997,
+        404227353,
+        101755185,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vhm6HadUXeewA188deakF_50.544460_5.572471@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504152,
+    "wof:geomhash":"2244e276e62a42fb8634e36ac4812d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755185,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801627,
+            "region_id":85681691,
+            "venue_id":1042247697
+        }
+    ],
+    "wof:id":1042247697,
+    "wof:lastmodified":1473504152,
+    "wof:name":"Ab Consult S.p.r.l.",
+    "wof:parent_id":85801627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "current",
+        "supplies",
+        "power",
+        "emergency",
+        "direct"
+    ]
+},
+  "bbox": [
+    5.5724711418,
+    50.5444602966,
+    5.5724711418,
+    50.5444602966
+],
+  "geometry": {"coordinates":[5.5724711418,50.5444602966],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058386049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3846960068,50.9200935364,4.3846960068,50.9200935364",
+    "geom:latitude":50.920094,
+    "geom:longitude":4.384696,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Berkenlaan 52",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Restricted Area",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 15 73",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "map",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801659,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vg3ztjkIkS5RDefyPS7sL_50.920094_4.384696@1306268500"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522610,
+    "wof:geomhash":"627df32bf31bf4d9f13aa9ef9ec57c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801659,
+            "region_id":85681731,
+            "venue_id":1058386049
+        }
+    ],
+    "wof:id":1058386049,
+    "wof:lastmodified":1473522610,
+    "wof:name":"Am/fm-gis Belux",
+    "wof:parent_id":85801659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "map",
+        "plan"
+    ]
+},
+  "bbox": [
+    4.3846960068,
+    50.9200935364,
+    4.3846960068,
+    50.9200935364
+],
+  "geometry": {"coordinates":[4.3846960068,50.9200935364],"type":"Point"}
+}

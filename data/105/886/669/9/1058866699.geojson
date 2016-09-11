@@ -1,0 +1,77 @@
+{
+  "id": 1058866699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.400949955,51.2122306824,4.400949955,51.2122306824",
+    "geom:latitude":51.212231,
+    "geom:longitude":4.40095,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-rochusstraat 49",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 28 63",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T7GXtWoTDhL6U7E6yeKFX_51.212231_4.400950@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544435,
+    "wof:geomhash":"44a4933e6d07d53c6d9995087cd9c756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058866699
+        }
+    ],
+    "wof:id":1058866699,
+    "wof:lastmodified":1473544435,
+    "wof:name":"Electro Ollevier Henk Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [
+    4.400949955,
+    51.2122306824,
+    4.400949955,
+    51.2122306824
+],
+  "geometry": {"coordinates":[4.400949955,51.2122306824],"type":"Point"}
+}

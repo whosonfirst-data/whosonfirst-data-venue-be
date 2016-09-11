@@ -1,0 +1,79 @@
+{
+  "id": 1058511337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3159151077,50.8473510742,4.3159151077,50.8473510742",
+    "geom:latitude":50.847351,
+    "geom:longitude":4.315915,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sylvain Denayer 42",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 96 18",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DQo8LXNRmS57sv3lka3yF_50.847351_4.315915@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528590,
+    "wof:geomhash":"28aff37a865dcd6b83253c21270d6ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058511337
+        }
+    ],
+    "wof:id":1058511337,
+    "wof:lastmodified":1473528590,
+    "wof:name":"Buisseret Sprl",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3159151077,
+    50.8473510742,
+    4.3159151077,
+    50.8473510742
+],
+  "geometry": {"coordinates":[4.3159151077,50.8473510742],"type":"Point"}
+}

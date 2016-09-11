@@ -1,0 +1,92 @@
+{
+  "id": 1042113623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4661188126,50.8840103149,4.4661188126,50.8840103149",
+    "geom:latitude":50.88401,
+    "geom:longitude":4.466119,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Papierfabrieksstraat 13",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 71 74",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801287,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731,
+        85802033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P5lLzOHWjxpo5WigN7MW8_50.884010_4.466119@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497027,
+    "wof:geomhash":"58cca64211ac929be8f256449a1138b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801287,
+            "region_id":85681731,
+            "venue_id":1042113623
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802033,
+            "region_id":85681731,
+            "venue_id":1042113623
+        }
+    ],
+    "wof:id":1042113623,
+    "wof:lastmodified":1473497027,
+    "wof:name":"Sv Computing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    4.4661188126,
+    50.8840103149,
+    4.4661188126,
+    50.8840103149
+],
+  "geometry": {"coordinates":[4.4661188126,50.8840103149],"type":"Point"}
+}

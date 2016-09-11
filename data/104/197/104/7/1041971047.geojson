@@ -1,0 +1,77 @@
+{
+  "id": 1041971047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5820670128,50.6388778687,5.5820670128,50.6388778687",
+    "geom:latitude":50.638878,
+    "geom:longitude":5.582067,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Delcour 4",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 18 55",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x5ksRLaREgtbZqEfyYnsM_50.638878_5.582067@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490936,
+    "wof:geomhash":"2cbfa94f2c5345bc122792952065176d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1041971047
+        }
+    ],
+    "wof:id":1041971047,
+    "wof:lastmodified":1473490936,
+    "wof:name":"Biatour",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5820670128,
+    50.6388778687,
+    5.5820670128,
+    50.6388778687
+],
+  "geometry": {"coordinates":[5.5820670128,50.6388778687],"type":"Point"}
+}

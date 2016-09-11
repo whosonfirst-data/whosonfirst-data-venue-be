@@ -1,0 +1,88 @@
+{
+  "id": 1058853625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3609552383,50.8712310791,4.3609552383,50.8712310791",
+    "geom:latitude":50.871231,
+    "geom:longitude":4.360955,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'anvers 489",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 203 35 46",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HBN9MB9h8etZJO8YHx45R_50.871231_4.360955@1306268583"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543882,
+    "wof:geomhash":"a29b4fadd0adcdf11af55c9ca3612d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058853625
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1058853625
+        }
+    ],
+    "wof:id":1058853625,
+    "wof:lastmodified":1473543882,
+    "wof:name":"Amis (chez Les)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.3609552383,
+    50.8712310791,
+    4.3609552383,
+    50.8712310791
+],
+  "geometry": {"coordinates":[4.3609552383,50.8712310791],"type":"Point"}
+}

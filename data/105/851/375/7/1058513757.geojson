@@ -1,0 +1,79 @@
+{
+  "id": 1058513757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3954548836,50.8316421509,4.3954548836,50.8316421509",
+    "geom:latitude":50.831642,
+    "geom:longitude":4.395455,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Perdrix 30",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 60 24",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rhrgBSZsQsRE1CwojVU7M_50.831642_4.395455@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528718,
+    "wof:geomhash":"d9bbe7d5b5e704f4f79057a2dae025cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058513757
+        }
+    ],
+    "wof:id":1058513757,
+    "wof:lastmodified":1473528718,
+    "wof:name":"Moreau R",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3954548836,
+    50.8316421509,
+    4.3954548836,
+    50.8316421509
+],
+  "geometry": {"coordinates":[4.3954548836,50.8316421509],"type":"Point"}
+}

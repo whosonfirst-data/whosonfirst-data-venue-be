@@ -1,0 +1,77 @@
+{
+  "id": 1058561813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3682160378,50.8349876404,4.3682160378,50.8349876404",
+    "geom:latitude":50.834988,
+    "geom:longitude":4.368216,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sans Souci 10",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 28 79",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KOvR3ekmsXqLEFtnXItET_50.834988_4.368216@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530903,
+    "wof:geomhash":"66583cb356b371a5f17055af1741c5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058561813
+        }
+    ],
+    "wof:id":1058561813,
+    "wof:lastmodified":1473530903,
+    "wof:name":"Leroy Yvon",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3682160378,
+    50.8349876404,
+    4.3682160378,
+    50.8349876404
+],
+  "geometry": {"coordinates":[4.3682160378,50.8349876404],"type":"Point"}
+}

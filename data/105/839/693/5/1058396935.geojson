@@ -1,0 +1,85 @@
+{
+  "id": 1058396935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.328909874,50.7966690063,4.328909874,50.7966690063",
+    "geom:latitude":50.796669,
+    "geom:longitude":4.32891,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"R. De Stalle 142",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 333 18 11",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "equipment",
+        "measurement",
+        "-",
+        "precision",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O8TyXYxgwep77M1nJvBJS_50.796669_4.328910@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523079,
+    "wof:geomhash":"fe7e5bef50bc1749f2f6afb2c239993c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058396935
+        }
+    ],
+    "wof:id":1058396935,
+    "wof:lastmodified":1473523079,
+    "wof:name":"Contigea Sa",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "measurement",
+        "-",
+        "precision",
+        "instrument"
+    ]
+},
+  "bbox": [
+    4.328909874,
+    50.7966690063,
+    4.328909874,
+    50.7966690063
+],
+  "geometry": {"coordinates":[4.328909874,50.7966690063],"type":"Point"}
+}

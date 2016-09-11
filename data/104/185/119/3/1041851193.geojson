@@ -1,0 +1,77 @@
+{
+  "id": 1041851193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4847660065,50.7242889404,4.4847660065,50.7242889404",
+    "geom:latitude":50.724289,
+    "geom:longitude":4.484766,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Albert I 13",
+    "sg:city":"Rixensart (genval)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 87 70",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KicrvVjBHn4O8A9nJhxxs_50.724289_4.484766@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485857,
+    "wof:geomhash":"5258903d8113317cf630157affcd585f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041851193
+        }
+    ],
+    "wof:id":1041851193,
+    "wof:lastmodified":1473485857,
+    "wof:name":"Car-wash Super 5",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.4847660065,
+    50.7242889404,
+    4.4847660065,
+    50.7242889404
+],
+  "geometry": {"coordinates":[4.4847660065,50.7242889404],"type":"Point"}
+}

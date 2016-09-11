@@ -1,0 +1,83 @@
+{
+  "id": 1041896471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4113988876,50.8762397766,4.4113988876,50.8762397766",
+    "geom:latitude":50.87624,
+    "geom:longitude":4.411399,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jules Bordetln 32-34",
+    "sg:city":"Evere",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 729 48 61",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47erSrdoZ44NUe1yD2ESEa_50.876240_4.411399@1306268357"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487763,
+    "wof:geomhash":"00b2fe8ef25ebea70d2c714d28388354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1041896471
+        }
+    ],
+    "wof:id":1041896471,
+    "wof:lastmodified":1473487763,
+    "wof:name":"Oc\u00c9-interservices Nv",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ]
+},
+  "bbox": [
+    4.4113988876,
+    50.8762397766,
+    4.4113988876,
+    50.8762397766
+],
+  "geometry": {"coordinates":[4.4113988876,50.8762397766],"type":"Point"}
+}

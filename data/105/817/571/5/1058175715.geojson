@@ -1,0 +1,83 @@
+{
+  "id": 1058175715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3405098915,50.7824287415,4.3405098915,50.7824287415",
+    "geom:latitude":50.782429,
+    "geom:longitude":4.34051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Gazelle 37",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 55 06",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801345,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WGNs4Bw9ladqrRPX7QlbX_50.782429_4.340510@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513150,
+    "wof:geomhash":"bbadeddb5c45a4bb1d5d3c43f8eefac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801345,
+            "region_id":85681713,
+            "venue_id":1058175715
+        }
+    ],
+    "wof:id":1058175715,
+    "wof:lastmodified":1473513150,
+    "wof:name":"Depuydt P Sa",
+    "wof:parent_id":85801345,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3405098915,
+    50.7824287415,
+    4.3405098915,
+    50.7824287415
+],
+  "geometry": {"coordinates":[4.3405098915,50.7824287415],"type":"Point"}
+}

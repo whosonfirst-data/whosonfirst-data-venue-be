@@ -1,0 +1,81 @@
+{
+  "id": 1058423421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3394589424,50.8303833008,4.3394589424,50.8303833008",
+    "geom:latitude":50.830383,
+    "geom:longitude":4.339459,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vanderschrick 111",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 41 00",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "teacher",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MnjDUvhX1aJ8roNhaj91T_50.830383_4.339459@1306268507"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524333,
+    "wof:geomhash":"b09e68040cf1d26c65a91672bf5d6992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058423421
+        }
+    ],
+    "wof:id":1058423421,
+    "wof:lastmodified":1473524333,
+    "wof:name":"Blanches & Noirs",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "teacher",
+        "private"
+    ]
+},
+  "bbox": [
+    4.3394589424,
+    50.8303833008,
+    4.3394589424,
+    50.8303833008
+],
+  "geometry": {"coordinates":[4.3394589424,50.8303833008],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041601237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5407118797,50.6334877014,5.5407118797,50.6334877014",
+    "geom:latitude":50.633488,
+    "geom:longitude":5.540712,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Bl\u00e9s 15",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 05 70",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzshI159ctAJd1KK4Jgza_50.633488_5.540712@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475351,
+    "wof:geomhash":"ec807f7a21a86a4e99274d9e1d11a588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1041601237
+        }
+    ],
+    "wof:id":1041601237,
+    "wof:lastmodified":1473475351,
+    "wof:name":"Dany",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5407118797,
+    50.6334877014,
+    5.5407118797,
+    50.6334877014
+],
+  "geometry": {"coordinates":[5.5407118797,50.6334877014],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1042064095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5244112015,50.6800994873,5.5244112015,50.6800994873",
+    "geom:latitude":50.680099,
+    "geom:longitude":5.524411,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Guillaume Simons 10",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 497 44 45 00",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fo0UeI121D9AKvKBVfufe_50.680099_5.524411@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494834,
+    "wof:geomhash":"1ebf1761c3c68eb99c00906abb2a4fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1042064095
+        }
+    ],
+    "wof:id":1042064095,
+    "wof:lastmodified":1473494834,
+    "wof:name":"Peigneux D",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    5.5244112015,
+    50.6800994873,
+    5.5244112015,
+    50.6800994873
+],
+  "geometry": {"coordinates":[5.5244112015,50.6800994873],"type":"Point"}
+}

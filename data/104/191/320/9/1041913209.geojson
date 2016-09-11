@@ -1,0 +1,81 @@
+{
+  "id": 1041913209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3175568581,50.8970794678,4.3175568581,50.8970794678",
+    "geom:latitude":50.897079,
+    "geom:longitude":4.317557,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heide 11",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 71 12",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "barcode",
+        "scanner",
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u54u3bu9fMNC5mD8E7XJ7_50.897079_4.317557@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488443,
+    "wof:geomhash":"3f3840231704a93bb9a13033748dc521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1041913209
+        }
+    ],
+    "wof:id":1041913209,
+    "wof:lastmodified":1473488443,
+    "wof:name":"P H I Data Nv-sa",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barcode",
+        "scanner",
+        "printer"
+    ]
+},
+  "bbox": [
+    4.3175568581,
+    50.8970794678,
+    4.3175568581,
+    50.8970794678
+],
+  "geometry": {"coordinates":[4.3175568581,50.8970794678],"type":"Point"}
+}

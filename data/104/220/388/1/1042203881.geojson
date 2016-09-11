@@ -1,0 +1,83 @@
+{
+  "id": 1042203881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3878550529,51.1265678406,4.3878550529,51.1265678406",
+    "geom:latitude":51.126568,
+    "geom:longitude":4.387855,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jan Davidlaan 37",
+    "sg:city":"Aartselaar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 29 16",
+    "sg:postcode":"2630",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10oJ0Q61jmiQXDcUGwZkif_51.126568_4.387855@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502165,
+    "wof:geomhash":"afec37531a896bb0ddd4587407b00e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1042203881
+        }
+    ],
+    "wof:id":1042203881,
+    "wof:lastmodified":1473502165,
+    "wof:name":"Backx Luc Elektro Bvba",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3878550529,
+    51.1265678406,
+    4.3878550529,
+    51.1265678406
+],
+  "geometry": {"coordinates":[4.3878550529,51.1265678406],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1058860189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4906010628,50.7325782776,4.4906010628,50.7325782776",
+    "geom:latitude":50.732578,
+    "geom:longitude":4.490601,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L\u00b4argentine 23",
+    "sg:city":"La Hulpe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 88 98",
+    "sg:postcode":"1310",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "taxi's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49XiY7HwQ5Y9cST4twUzl8_50.732578_4.490601@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544170,
+    "wof:geomhash":"ef55e3c3f2a79d1161fcc7dc55cdef56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058860189
+        }
+    ],
+    "wof:id":1058860189,
+    "wof:lastmodified":1473544170,
+    "wof:name":"Taxi Patrick",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi's"
+    ]
+},
+  "bbox": [
+    4.4906010628,
+    50.7325782776,
+    4.4906010628,
+    50.7325782776
+],
+  "geometry": {"coordinates":[4.4906010628,50.7325782776],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1041606599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6698999405,51.0744895935,3.6698999405,51.0744895935",
+    "geom:latitude":51.07449,
+    "geom:longitude":3.6699,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Amand Casier De Ter Bekenlaan 37",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 04 71",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AxvNB0egesEkiSiokHmy6_51.074490_3.669900@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475576,
+    "wof:geomhash":"43c8446f45545e7149b2c0c93cfb70f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1041606599
+        }
+    ],
+    "wof:id":1041606599,
+    "wof:lastmodified":1473475576,
+    "wof:name":"De Mits M",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    3.6698999405,
+    51.0744895935,
+    3.6698999405,
+    51.0744895935
+],
+  "geometry": {"coordinates":[3.6698999405,51.0744895935],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041833481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4556241035,51.1393280029,4.4556241035,51.1393280029",
+    "geom:latitude":51.139328,
+    "geom:longitude":4.455624,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wipstraat 9",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 27 00",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gcTxaznfTUreOd1PMlZWa_51.139328_4.455624@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485089,
+    "wof:geomhash":"ceece878c5beb3ebed4baedbf869eed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1041833481
+        }
+    ],
+    "wof:id":1041833481,
+    "wof:lastmodified":1473485089,
+    "wof:name":"Zakenkantoor Apers",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.4556241035,
+    51.1393280029,
+    4.4556241035,
+    51.1393280029
+],
+  "geometry": {"coordinates":[4.4556241035,51.1393280029],"type":"Point"}
+}

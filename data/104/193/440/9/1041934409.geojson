@@ -1,0 +1,77 @@
+{
+  "id": 1041934409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6944301128,51.0637931824,3.6944301128,51.0637931824",
+    "geom:latitude":51.063793,
+    "geom:longitude":3.69443,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brugsesteenweg 97",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 329 70 61",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vSB8DUWVpRmJGKT4aZ2yG_51.063793_3.694430@1306268364"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489442,
+    "wof:geomhash":"1197da6644fb4c78e4f46bad45b0e6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1041934409
+        }
+    ],
+    "wof:id":1041934409,
+    "wof:lastmodified":1473489442,
+    "wof:name":"Wheels",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    3.6944301128,
+    51.0637931824,
+    3.6944301128,
+    51.0637931824
+],
+  "geometry": {"coordinates":[3.6944301128,51.0637931824],"type":"Point"}
+}

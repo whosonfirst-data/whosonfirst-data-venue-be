@@ -1,0 +1,77 @@
+{
+  "id": 1042026277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2361249924,51.1934738159,4.2361249924,51.1934738159",
+    "geom:latitude":51.193474,
+    "geom:longitude":4.236125,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zandstraat 220",
+    "sg:city":"Beveren",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 775 84 38",
+    "sg:postcode":"9130",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z9OS5LtE0fRkdsgKZr7wz_51.193474_4.236125@1306268380"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493293,
+    "wof:geomhash":"e4ded26b6aff00b8ea781e85e69b0bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1042026277
+        }
+    ],
+    "wof:id":1042026277,
+    "wof:lastmodified":1473493293,
+    "wof:name":"Schuttershof",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.2361249924,
+    51.1934738159,
+    4.2361249924,
+    51.1934738159
+],
+  "geometry": {"coordinates":[4.2361249924,51.1934738159],"type":"Point"}
+}

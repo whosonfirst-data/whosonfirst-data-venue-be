@@ -1,0 +1,77 @@
+{
+  "id": 1042013951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7265219688,51.0526733398,3.7265219688,51.0526733398",
+    "geom:latitude":51.052673,
+    "geom:longitude":3.726522,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Limburgstraat 14",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 39 34",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vlr2QNAfGxA0bqpQy7b0n_51.052673_3.726522@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492834,
+    "wof:geomhash":"6118e8036fcfd7c2b35b9ed07a54479d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042013951
+        }
+    ],
+    "wof:id":1042013951,
+    "wof:lastmodified":1473492834,
+    "wof:name":"Caf\u00c9 The Bells",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7265219688,
+    51.0526733398,
+    3.7265219688,
+    51.0526733398
+],
+  "geometry": {"coordinates":[3.7265219688,51.0526733398],"type":"Point"}
+}

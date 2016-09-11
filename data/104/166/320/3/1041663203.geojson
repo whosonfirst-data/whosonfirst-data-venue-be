@@ -1,0 +1,79 @@
+{
+  "id": 1041663203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3354101181,50.8553924561,4.3354101181,50.8553924561",
+    "geom:latitude":50.855392,
+    "geom:longitude":4.33541,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 130",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 94 04",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZQ1nBOlphlyHpkRurDwI_50.855392_4.335410@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477875,
+    "wof:geomhash":"e14400cda1b274a1b6a11cd7a0ca7844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041663203
+        }
+    ],
+    "wof:id":1041663203,
+    "wof:lastmodified":1473477875,
+    "wof:name":"B.m. Shoes Sprl",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3354101181,
+    50.8553924561,
+    4.3354101181,
+    50.8553924561
+],
+  "geometry": {"coordinates":[4.3354101181,50.8553924561],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058135963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4180030823,50.8916435242,4.4180030823,50.8916435242",
+    "geom:latitude":50.891644,
+    "geom:longitude":4.418003,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Verdun 390",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 05 37",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801223,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oWG3N8FmOHV5aNZ3HQBpj_50.891644_4.418003@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511280,
+    "wof:geomhash":"a7c3ab9c2cbc8109a92937364d583d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801223,
+            "region_id":85681713,
+            "venue_id":1058135963
+        }
+    ],
+    "wof:id":1058135963,
+    "wof:lastmodified":1473511280,
+    "wof:name":"Anne De France",
+    "wof:parent_id":85801223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4180030823,
+    50.8916435242,
+    4.4180030823,
+    50.8916435242
+],
+  "geometry": {"coordinates":[4.4180030823,50.8916435242],"type":"Point"}
+}

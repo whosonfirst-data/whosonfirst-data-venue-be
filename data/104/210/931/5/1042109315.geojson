@@ -1,0 +1,79 @@
+{
+  "id": 1042109315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6042537689,50.6343421936,5.6042537689,50.6343421936",
+    "geom:latitude":50.634342,
+    "geom:longitude":5.604254,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Herve 10",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 20 68",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_128RSDjGxOfaK5EGRAeNMh_50.634342_5.604254@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496815,
+    "wof:geomhash":"7f5cdf90e68f93d8b337f0f14921f5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1042109315
+        }
+    ],
+    "wof:id":1042109315,
+    "wof:lastmodified":1473496815,
+    "wof:name":"Go Dance & Gym Multiclub",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    5.6042537689,
+    50.6343421936,
+    5.6042537689,
+    50.6343421936
+],
+  "geometry": {"coordinates":[5.6042537689,50.6343421936],"type":"Point"}
+}

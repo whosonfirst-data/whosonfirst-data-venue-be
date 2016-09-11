@@ -1,0 +1,73 @@
+{
+  "id": 1058169913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5221500397,50.6816177368,5.5221500397,50.6816177368",
+    "geom:latitude":50.681618,
+    "geom:longitude":5.52215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Lantin 125",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 246 03 51",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800751,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XDTtZx4eOTnqegbYTayGW_50.681618_5.522150@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512902,
+    "wof:geomhash":"4e080e0dfa469288f238ba588edc6a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800751,
+            "region_id":85681691,
+            "venue_id":1058169913
+        }
+    ],
+    "wof:id":1058169913,
+    "wof:lastmodified":1473512902,
+    "wof:name":"Khuc T",
+    "wof:parent_id":85800751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5221500397,
+    50.6816177368,
+    5.5221500397,
+    50.6816177368
+],
+  "geometry": {"coordinates":[5.5221500397,50.6816177368],"type":"Point"}
+}

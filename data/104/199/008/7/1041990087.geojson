@@ -1,0 +1,83 @@
+{
+  "id": 1041990087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4877738953,51.2883682251,4.4877738953,51.2883682251",
+    "geom:latitude":51.288368,
+    "geom:longitude":4.487774,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bredabaan 190-194",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 651 80 91",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801969,
+        102191581,
+        85632997,
+        404227357,
+        101754397,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30LN1mNEOqof9fTgVFcXPr_51.288368_4.487774@1306268373"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491920,
+    "wof:geomhash":"968de5504f2595aaf0883f5f09936a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101754397,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801969,
+            "region_id":85681715,
+            "venue_id":1041990087
+        }
+    ],
+    "wof:id":1041990087,
+    "wof:lastmodified":1473491920,
+    "wof:name":"Patisserie Boeckx Bvba",
+    "wof:parent_id":85801969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "product",
+        "related",
+        "bread"
+    ]
+},
+  "bbox": [
+    4.4877738953,
+    51.2883682251,
+    4.4877738953,
+    51.2883682251
+],
+  "geometry": {"coordinates":[4.4877738953,51.2883682251],"type":"Point"}
+}

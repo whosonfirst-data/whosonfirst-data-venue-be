@@ -1,0 +1,79 @@
+{
+  "id": 1042067011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5731492043,50.639919281,5.5731492043,50.639919281",
+    "geom:latitude":50.639919,
+    "geom:longitude":5.573149,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-paul 25",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 36 70",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "dyer",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dl87UygDkrYirN0W09eH1_50.639919_5.573149@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494952,
+    "wof:geomhash":"5ae7e6a3b7ec1a4c1642901f926d3953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042067011
+        }
+    ],
+    "wof:id":1042067011,
+    "wof:lastmodified":1473494952,
+    "wof:name":"Lavandi\u00e8re (la)",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dyer",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    5.5731492043,
+    50.639919281,
+    5.5731492043,
+    50.639919281
+],
+  "geometry": {"coordinates":[5.5731492043,50.639919281],"type":"Point"}
+}

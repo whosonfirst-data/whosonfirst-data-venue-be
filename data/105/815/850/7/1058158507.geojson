@@ -1,0 +1,73 @@
+{
+  "id": 1058158507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6000509262,50.5751876831,5.6000509262,50.5751876831",
+    "geom:latitude":50.575188,
+    "geom:longitude":5.600051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue D'angleur 100",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 17 36",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G1abnz5vpUQ2JO0Kw2bz4_50.575188_5.600051@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512378,
+    "wof:geomhash":"8e51a17baf76f0daa516e6e68038e60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1058158507
+        }
+    ],
+    "wof:id":1058158507,
+    "wof:lastmodified":1473512378,
+    "wof:name":"Couteaux",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6000509262,
+    50.5751876831,
+    5.6000509262,
+    50.5751876831
+],
+  "geometry": {"coordinates":[5.6000509262,50.5751876831],"type":"Point"}
+}

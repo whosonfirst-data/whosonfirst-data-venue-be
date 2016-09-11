@@ -1,0 +1,77 @@
+{
+  "id": 1058498133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7103099823,51.0603179932,3.7103099823,51.0603179932",
+    "geom:latitude":51.060318,
+    "geom:longitude":3.71031,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Griendeplein 4",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 21 31",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "osteopath"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uLgUsev8T1FFa5XdEERvA_51.060318_3.710310@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528011,
+    "wof:geomhash":"09cce15ed0e61ce3c50d4abb25b3fdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058498133
+        }
+    ],
+    "wof:id":1058498133,
+    "wof:lastmodified":1473528011,
+    "wof:name":"Zwaenepoel K (d.o.)",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopath"
+    ]
+},
+  "bbox": [
+    3.7103099823,
+    51.0603179932,
+    3.7103099823,
+    51.0603179932
+],
+  "geometry": {"coordinates":[3.7103099823,51.0603179932],"type":"Point"}
+}

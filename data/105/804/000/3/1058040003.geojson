@@ -1,0 +1,81 @@
+{
+  "id": 1058040003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3256788254,51.2181663513,4.3256788254,51.2181663513",
+    "geom:latitude":51.218166,
+    "geom:longitude":4.325679,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adrien Van Roeyenstraat 28",
+    "sg:city":"Zwijndrecht",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 254 05 67",
+    "sg:postcode":"2070",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_589528yLaZ9611wdV7IK12_51.218166_4.325679@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507106,
+    "wof:geomhash":"39a6b8e5466589e52f825497e05e9009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058040003
+        }
+    ],
+    "wof:id":1058040003,
+    "wof:lastmodified":1473507106,
+    "wof:name":"Filter-technics Bvba",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ]
+},
+  "bbox": [
+    4.3256788254,
+    51.2181663513,
+    4.3256788254,
+    51.2181663513
+],
+  "geometry": {"coordinates":[4.3256788254,51.2181663513],"type":"Point"}
+}

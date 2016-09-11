@@ -1,0 +1,77 @@
+{
+  "id": 1058788123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3893690109,50.8529205322,4.3893690109,50.8529205322",
+    "geom:latitude":50.852921,
+    "geom:longitude":4.389369,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 349",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 30 44",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gv3OoiPbGYL31JZWbDcGF_50.852921_4.389369@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541002,
+    "wof:geomhash":"cbef6cb473e37be540bbd839f831e8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058788123
+        }
+    ],
+    "wof:id":1058788123,
+    "wof:lastmodified":1473541002,
+    "wof:name":"Oz Mola",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.3893690109,
+    50.8529205322,
+    4.3893690109,
+    50.8529205322
+],
+  "geometry": {"coordinates":[4.3893690109,50.8529205322],"type":"Point"}
+}

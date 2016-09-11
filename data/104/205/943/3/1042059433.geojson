@@ -1,0 +1,77 @@
+{
+  "id": 1042059433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3613100052,50.8655166626,4.3613100052,50.8655166626",
+    "geom:latitude":50.865517,
+    "geom:longitude":4.36131,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gaucheret 135",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 201 07 30",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CkZxZs9JHAhlmnKuGuqt5_50.865517_4.361310@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494658,
+    "wof:geomhash":"07be4482435fb8c880efdc671835f892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1042059433
+        }
+    ],
+    "wof:id":1042059433,
+    "wof:lastmodified":1473494658,
+    "wof:name":"Gaucheret",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3613100052,
+    50.8655166626,
+    4.3613100052,
+    50.8655166626
+],
+  "geometry": {"coordinates":[4.3613100052,50.8655166626],"type":"Point"}
+}

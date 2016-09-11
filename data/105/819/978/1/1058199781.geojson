@@ -1,0 +1,77 @@
+{
+  "id": 1058199781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3747410774,50.9397201538,4.3747410774,50.9397201538",
+    "geom:latitude":50.93972,
+    "geom:longitude":4.374741,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gudrunstraat 13",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 496 52 35 47",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BCpgVSoeNdXS2gHJZ3Bgu_50.939720_4.374741@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514188,
+    "wof:geomhash":"bcfc3c5c1daace3728c9886d5104e84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058199781
+        }
+    ],
+    "wof:id":1058199781,
+    "wof:lastmodified":1473514188,
+    "wof:name":"Van Dyck-vanhamme",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    4.3747410774,
+    50.9397201538,
+    4.3747410774,
+    50.9397201538
+],
+  "geometry": {"coordinates":[4.3747410774,50.9397201538],"type":"Point"}
+}

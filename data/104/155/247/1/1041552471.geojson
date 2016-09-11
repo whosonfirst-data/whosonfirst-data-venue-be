@@ -1,0 +1,72 @@
+{
+  "id": 1041552471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3590049744,50.8491744995,4.3590049744,50.8491744995",
+    "geom:latitude":50.849174,
+    "geom:longitude":4.359005,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Blvd De Berlaimont 14",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 221 21 11",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEaeeTdbTEXwG2DX1reOW_50.849174_4.359005@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473287,
+    "wof:geomhash":"d4a43e6addf3ea8d740539935bdddbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041552471
+        }
+    ],
+    "wof:id":1041552471,
+    "wof:lastmodified":1473473287,
+    "wof:name":"Banque Nationale, De Belgique Sa",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3590049744,
+    50.8491744995,
+    4.3590049744,
+    50.8491744995
+],
+  "geometry": {"coordinates":[4.3590049744,50.8491744995],"type":"Point"}
+}

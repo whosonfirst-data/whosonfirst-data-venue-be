@@ -1,0 +1,77 @@
+{
+  "id": 1041828063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5317292213,50.6293449402,5.5317292213,50.6293449402",
+    "geom:latitude":50.629345,
+    "geom:longitude":5.531729,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Horloz 1",
+    "sg:city":"Saint-nicolas",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 231 15 15",
+    "sg:postcode":"4420",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73JAx9U6P7JZTmrDRq6Exv_50.629345_5.531729@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484862,
+    "wof:geomhash":"a2f808da9386c7bf1c97fbd4f4d512d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1041828063
+        }
+    ],
+    "wof:id":1041828063,
+    "wof:lastmodified":1473484862,
+    "wof:name":"Bureaux Mercier Bertho",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    5.5317292213,
+    50.6293449402,
+    5.5317292213,
+    50.6293449402
+],
+  "geometry": {"coordinates":[5.5317292213,50.6293449402],"type":"Point"}
+}

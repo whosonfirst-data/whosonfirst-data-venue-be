@@ -1,0 +1,81 @@
+{
+  "id": 1041562193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4093270302,51.2178916931,4.4093270302,51.2178916931",
+    "geom:latitude":51.217892,
+    "geom:longitude":4.409327,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wapper 1a",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 232 36 75",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZwFxYCDwGa8UeJBuRFBI3_51.217892_4.409327@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473719,
+    "wof:geomhash":"9af44065e2589c062592b884f4721366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1041562193
+        }
+    ],
+    "wof:id":1041562193,
+    "wof:lastmodified":1473473719,
+    "wof:name":"Dipro Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.4093270302,
+    51.2178916931,
+    4.4093270302,
+    51.2178916931
+],
+  "geometry": {"coordinates":[4.4093270302,51.2178916931],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058028949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3949041367,50.87134552,4.3949041367,50.87134552",
+    "geom:latitude":50.871346,
+    "geom:longitude":4.394904,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lindestraat 238",
+    "sg:city":"Schaarbeek/schaerbeek",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 22 69",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tWlJDbOXYhEL81GxVD7lu_50.871346_4.394904@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506637,
+    "wof:geomhash":"191f1faf70e65ccf9909c0d1545ecb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058028949
+        }
+    ],
+    "wof:id":1058028949,
+    "wof:lastmodified":1473506637,
+    "wof:name":"Chez Christos",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3949041367,
+    50.87134552,
+    4.3949041367,
+    50.87134552
+],
+  "geometry": {"coordinates":[4.3949041367,50.87134552],"type":"Point"}
+}

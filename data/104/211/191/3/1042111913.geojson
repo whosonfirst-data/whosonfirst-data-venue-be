@@ -1,0 +1,81 @@
+{
+  "id": 1042111913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7634689808,51.0707626343,3.7634689808,51.0707626343",
+    "geom:latitude":51.070763,
+    "geom:longitude":3.763469,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lijnmolenstraat 116",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 238 40 28",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45D5dSTwgcNyK7vEj5WOjK_51.070763_3.763469@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496947,
+    "wof:geomhash":"be3c3dea3e2ec7e627d59c8eed3ccfc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1042111913
+        }
+    ],
+    "wof:id":1042111913,
+    "wof:lastmodified":1473496947,
+    "wof:name":"A S E",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data"
+    ]
+},
+  "bbox": [
+    3.7634689808,
+    51.0707626343,
+    3.7634689808,
+    51.0707626343
+],
+  "geometry": {"coordinates":[3.7634689808,51.0707626343],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058513335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3308801651,50.8794708252,4.3308801651,50.8794708252",
+    "geom:latitude":50.879471,
+    "geom:longitude":4.33088,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jules Lahaye 37",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 66 98",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxcJLpQMvq6VkgN7p3tLA_50.879471_4.330880@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528702,
+    "wof:geomhash":"e7de3cf2c661ffd543d177d3798522fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058513335
+        }
+    ],
+    "wof:id":1058513335,
+    "wof:lastmodified":1473528702,
+    "wof:name":"Lechapelier J-c",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3308801651,
+    50.8794708252,
+    4.3308801651,
+    50.8794708252
+],
+  "geometry": {"coordinates":[4.3308801651,50.8794708252],"type":"Point"}
+}

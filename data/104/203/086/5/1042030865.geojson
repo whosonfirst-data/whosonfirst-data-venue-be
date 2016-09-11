@@ -1,0 +1,77 @@
+{
+  "id": 1042030865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7249228954,51.0567398071,3.7249228954,51.0567398071",
+    "geom:latitude":51.05674,
+    "geom:longitude":3.724923,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vrijdagmarkt 64",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 233 74 94",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OiuPI4G5e5SDf8kclQaxZ_51.056740_3.724923@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493475,
+    "wof:geomhash":"ac68c2573f066076641d3703a7f7195b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042030865
+        }
+    ],
+    "wof:id":1042030865,
+    "wof:lastmodified":1473493475,
+    "wof:name":"Taverne De Karpouzi",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7249228954,
+    51.0567398071,
+    3.7249228954,
+    51.0567398071
+],
+  "geometry": {"coordinates":[3.7249228954,51.0567398071],"type":"Point"}
+}

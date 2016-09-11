@@ -1,0 +1,75 @@
+{
+  "id": 1058040039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6566801071,50.9992370605,3.6566801071,50.9992370605",
+    "geom:latitude":50.999237,
+    "geom:longitude":3.65668,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Louis Van Houttepark 28",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 78 98",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cvJlMsJ7fMH5yHYNrCvbq_50.999237_3.656680@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507107,
+    "wof:geomhash":"60aeea879ce32fa27b7fc684148c27a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058040039
+        }
+    ],
+    "wof:id":1058040039,
+    "wof:lastmodified":1473507107,
+    "wof:name":"Sparkler Filters Belgium",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ]
+},
+  "bbox": [
+    3.6566801071,
+    50.9992370605,
+    3.6566801071,
+    50.9992370605
+],
+  "geometry": {"coordinates":[3.6566801071,50.9992370605],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041660069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8153290749,51.1943817139,3.8153290749,51.1943817139",
+    "geom:latitude":51.194382,
+    "geom:longitude":3.815329,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cesenaticolaan 30",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 345 71 48",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yiL9L6QnGrypVL2FQRBnW_51.194382_3.815329@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477756,
+    "wof:geomhash":"9d518f3a36efa26d4458776c6ebe0101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1041660069
+        }
+    ],
+    "wof:id":1041660069,
+    "wof:lastmodified":1473477756,
+    "wof:name":"Georges Desmet",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    3.8153290749,
+    51.1943817139,
+    3.8153290749,
+    51.1943817139
+],
+  "geometry": {"coordinates":[3.8153290749,51.1943817139],"type":"Point"}
+}

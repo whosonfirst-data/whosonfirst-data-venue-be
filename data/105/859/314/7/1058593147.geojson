@@ -1,0 +1,77 @@
+{
+  "id": 1058593147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5121498108,50.5927886963,5.5121498108,50.5927886963",
+    "geom:latitude":50.592789,
+    "geom:longitude":5.51215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Chanterelles 382",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 20 66",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S3cAoKon3m798MD950Vsb_50.592789_5.512150@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532322,
+    "wof:geomhash":"54a168ea31d9d49d392cb6199a8b3265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058593147
+        }
+    ],
+    "wof:id":1058593147,
+    "wof:lastmodified":1473532322,
+    "wof:name":"Brichaud Schosse Sprl",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.5121498108,
+    50.5927886963,
+    5.5121498108,
+    50.5927886963
+],
+  "geometry": {"coordinates":[5.5121498108,50.5927886963],"type":"Point"}
+}

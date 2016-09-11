@@ -1,0 +1,73 @@
+{
+  "id": 1058895949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5214152336,50.8848114014,4.5214152336,50.8848114014",
+    "geom:latitude":50.884811,
+    "geom:longitude":4.521415,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Theodoor Swartsstraat 1",
+    "sg:city":"Kortenberg",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 758 00 58",
+    "sg:postcode":"3070",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801313,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7liSf3QJO4D0tOeYxTuZtH_50.884811_4.521415@1306268592"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545708,
+    "wof:geomhash":"0d4ce8bfd7dd9ce8daee0aad6a9554f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801313,
+            "region_id":85681731,
+            "venue_id":1058895949
+        }
+    ],
+    "wof:id":1058895949,
+    "wof:lastmodified":1473545708,
+    "wof:name":"Van Eycken Bvba",
+    "wof:parent_id":85801313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.5214152336,
+    50.8848114014,
+    4.5214152336,
+    50.8848114014
+],
+  "geometry": {"coordinates":[4.5214152336,50.8848114014],"type":"Point"}
+}

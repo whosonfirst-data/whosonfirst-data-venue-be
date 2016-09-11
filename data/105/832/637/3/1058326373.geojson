@@ -1,0 +1,79 @@
+{
+  "id": 1058326373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2406339645,50.742225647,4.2406339645,50.742225647",
+    "geom:latitude":50.742226,
+    "geom:longitude":4.240634,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 172",
+    "sg:city":"Halle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 356 49 69",
+    "sg:postcode":"1500",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "surveyor",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TLPqC7CwOvBlDFHsRTIRz_50.742226_4.240634@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519810,
+    "wof:geomhash":"fa276a50c21ea575520c8e543b467cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1058326373
+        }
+    ],
+    "wof:id":1058326373,
+    "wof:lastmodified":1473519810,
+    "wof:name":"Van Cauter K",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land"
+    ]
+},
+  "bbox": [
+    4.2406339645,
+    50.742225647,
+    4.2406339645,
+    50.742225647
+],
+  "geometry": {"coordinates":[4.2406339645,50.742225647],"type":"Point"}
+}

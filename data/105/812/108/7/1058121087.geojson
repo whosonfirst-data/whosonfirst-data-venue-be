@@ -1,0 +1,77 @@
+{
+  "id": 1058121087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3733410835,51.1897239685,4.3733410835,51.1897239685",
+    "geom:latitude":51.189724,
+    "geom:longitude":4.373341,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Max Elskampstraat 26",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 238 62 97",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s5QB1ZZHn7CsL9b0l7P3D_51.189724_4.373341@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510585,
+    "wof:geomhash":"4d7677528f73042f09fae840550c8d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058121087
+        }
+    ],
+    "wof:id":1058121087,
+    "wof:lastmodified":1473510585,
+    "wof:name":"Nancy",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3733410835,
+    51.1897239685,
+    4.3733410835,
+    51.1897239685
+],
+  "geometry": {"coordinates":[4.3733410835,51.1897239685],"type":"Point"}
+}

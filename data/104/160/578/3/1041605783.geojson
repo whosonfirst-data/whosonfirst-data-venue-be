@@ -1,0 +1,73 @@
+{
+  "id": 1041605783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5314679146,50.8345756531,4.5314679146,50.8345756531",
+    "geom:latitude":50.834576,
+    "geom:longitude":4.531468,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leuvensesteenweg 67",
+    "sg:city":"Tervuren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 768 15 53",
+    "sg:postcode":"3080",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74uMdaEczghjmoN94cxGvh_50.834576_4.531468@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475546,
+    "wof:geomhash":"41e8ae494d11780335fdb4c0166bc657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1041605783
+        }
+    ],
+    "wof:id":1041605783,
+    "wof:lastmodified":1473475546,
+    "wof:name":"Jongeneel F",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.5314679146,
+    50.8345756531,
+    4.5314679146,
+    50.8345756531
+],
+  "geometry": {"coordinates":[4.5314679146,50.8345756531],"type":"Point"}
+}

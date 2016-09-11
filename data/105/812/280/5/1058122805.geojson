@@ -1,0 +1,71 @@
+{
+  "id": 1058122805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5222349167,51.3835868835,4.5222349167,51.3835868835",
+    "geom:latitude":51.383587,
+    "geom:longitude":4.522235,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalmthoutse Steenweg 167",
+    "sg:city":"Wuustwezel",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 669 58 66",
+    "sg:postcode":"2990",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6irzocBT752kuEZrH4pJvU_51.383587_4.522235@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510654,
+    "wof:geomhash":"d3a37292c5f44dfd356aa1d8d78fa7bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058122805
+        }
+    ],
+    "wof:id":1058122805,
+    "wof:lastmodified":1473510654,
+    "wof:name":"Winkeltje ('t)",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.5222349167,
+    51.3835868835,
+    4.5222349167,
+    51.3835868835
+],
+  "geometry": {"coordinates":[4.5222349167,51.3835868835],"type":"Point"}
+}

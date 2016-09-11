@@ -1,0 +1,83 @@
+{
+  "id": 1058772927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4500088692,51.3155136108,4.4500088692,51.3155136108",
+    "geom:latitude":51.315514,
+    "geom:longitude":4.450009,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zinnialaan 22",
+    "sg:city":"Kapellen (mariaburg)",
+    "sg:classifiers":[
+        {
+            "category":"Metro Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 20 36",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "repair",
+        "ship",
+        "mainten",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2doyrmMNL3uHqQedLDj8xw_51.315514_4.450009@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540373,
+    "wof:geomhash":"226b28e87a2270287c18a8c464ddd4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058772927
+        }
+    ],
+    "wof:id":1058772927,
+    "wof:lastmodified":1473540373,
+    "wof:name":"Inspection And Report",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "ship",
+        "mainten",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4500088692,
+    51.3155136108,
+    4.4500088692,
+    51.3155136108
+],
+  "geometry": {"coordinates":[4.4500088692,51.3155136108],"type":"Point"}
+}

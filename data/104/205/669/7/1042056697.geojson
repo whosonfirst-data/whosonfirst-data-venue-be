@@ -1,0 +1,82 @@
+{
+  "id": 1042056697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3058462143,50.8577575684,4.3058462143,50.8577575684",
+    "geom:latitude":50.857758,
+    "geom:longitude":4.305846,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"118",
+    "sg:city":"Rue Du Korenbeek 1080 Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 469 09 90",
+    "sg:postcode":"118",
+    "sg:tags":[
+        "pharmaceutical",
+        "chemistry",
+        "-",
+        "by-product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801767,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xfLHHurvDJ3fL8I8sSwTv_50.857758_4.305846@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494539,
+    "wof:geomhash":"b28d4c5b9e5c9206a1ce935ddc9a7c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801767,
+            "region_id":85681713,
+            "venue_id":1042056697
+        }
+    ],
+    "wof:id":1042056697,
+    "wof:lastmodified":1473494539,
+    "wof:name":"Societe Industrielle De Diffusion Benelux Sa",
+    "wof:parent_id":85801767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "chemistry",
+        "-",
+        "by-product"
+    ]
+},
+  "bbox": [
+    4.3058462143,
+    50.8577575684,
+    4.3058462143,
+    50.8577575684
+],
+  "geometry": {"coordinates":[4.3058462143,50.8577575684],"type":"Point"}
+}

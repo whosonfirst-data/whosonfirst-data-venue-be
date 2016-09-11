@@ -1,0 +1,79 @@
+{
+  "id": 1058166091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3376560211,50.8133163452,4.3376560211,50.8133163452",
+    "geom:latitude":50.813316,
+    "geom:longitude":4.337656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Sept Bonniers 40",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 534 23 94",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OEQeDhVrgi4X88C1wRG8x_50.813316_4.337656@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512717,
+    "wof:geomhash":"a3c10e47fb6fc4d942d7b5b485f55d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058166091
+        }
+    ],
+    "wof:id":1058166091,
+    "wof:lastmodified":1473512717,
+    "wof:name":"Gevers Barbara",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3376560211,
+    50.8133163452,
+    4.3376560211,
+    50.8133163452
+],
+  "geometry": {"coordinates":[4.3376560211,50.8133163452],"type":"Point"}
+}

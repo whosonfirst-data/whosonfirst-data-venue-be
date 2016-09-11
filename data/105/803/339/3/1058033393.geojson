@@ -1,0 +1,79 @@
+{
+  "id": 1058033393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3825612068,50.839553833,4.3825612068,50.839553833",
+    "geom:latitude":50.839554,
+    "geom:longitude":4.382561,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Froissartstraat 67",
+    "sg:city":"Etterbeek",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 69 79",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuFAkspslMzQ115Tzai9v_50.839554_4.382561@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506827,
+    "wof:geomhash":"c8c6660d825fd1e455f93ef33e3a9265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058033393
+        }
+    ],
+    "wof:id":1058033393,
+    "wof:lastmodified":1473506827,
+    "wof:name":"Restaurant King Of India",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3825612068,
+    50.839553833,
+    4.3825612068,
+    50.839553833
+],
+  "geometry": {"coordinates":[4.3825612068,50.839553833],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042196179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4007611275,50.8230133057,4.4007611275,50.8230133057",
+    "geom:latitude":50.823013,
+    "geom:longitude":4.400761,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Strat\u00e9gie 33",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 644 26 77",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KzpmsnQ7SFh7RWJPSj66F_50.823013_4.400761@1306268412"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501680,
+    "wof:geomhash":"d30789403267e183506ccf0883246c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1042196179
+        }
+    ],
+    "wof:id":1042196179,
+    "wof:lastmodified":1473501680,
+    "wof:name":"Centrum Leo Apostel",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "higher"
+    ]
+},
+  "bbox": [
+    4.4007611275,
+    50.8230133057,
+    4.4007611275,
+    50.8230133057
+],
+  "geometry": {"coordinates":[4.4007611275,50.8230133057],"type":"Point"}
+}

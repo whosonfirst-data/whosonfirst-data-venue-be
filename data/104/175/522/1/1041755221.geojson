@@ -1,0 +1,79 @@
+{
+  "id": 1041755221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3456349373,50.8361854553,4.3456349373,50.8361854553",
+    "geom:latitude":50.836185,
+    "geom:longitude":4.345635,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Blaes 176a",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 54 40 28",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "antiquarian",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pna3LOw4fLa0SoChw4dKw_50.836185_4.345635@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481633,
+    "wof:geomhash":"cb53c10230b5d9864cfd01616ae87b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041755221
+        }
+    ],
+    "wof:id":1041755221,
+    "wof:lastmodified":1473481633,
+    "wof:name":"Abac (l')-boekhandel Gilles Wolles",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antiquarian",
+        "trade"
+    ]
+},
+  "bbox": [
+    4.3456349373,
+    50.8361854553,
+    4.3456349373,
+    50.8361854553
+],
+  "geometry": {"coordinates":[4.3456349373,50.8361854553],"type":"Point"}
+}

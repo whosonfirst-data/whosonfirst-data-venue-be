@@ -1,0 +1,75 @@
+{
+  "id": 1042204215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.8068470955,51.2089996338,3.8068470955,51.2089996338",
+    "geom:latitude":51.209,
+    "geom:longitude":3.806847,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Polderstraat 82",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 342 01 56",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jvSpIQzNBvQYpc3EUK9Qc_51.209000_3.806847@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502180,
+    "wof:geomhash":"18bc2dc0306f736da71c8a36bb190f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1042204215
+        }
+    ],
+    "wof:id":1042204215,
+    "wof:lastmodified":1473502180,
+    "wof:name":"Buysse S",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.8068470955,
+    51.2089996338,
+    3.8068470955,
+    51.2089996338
+],
+  "geometry": {"coordinates":[3.8068470955,51.2089996338],"type":"Point"}
+}

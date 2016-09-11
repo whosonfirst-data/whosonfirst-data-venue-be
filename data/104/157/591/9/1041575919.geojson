@@ -1,0 +1,77 @@
+{
+  "id": 1041575919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3543319702,50.8452148438,4.3543319702,50.8452148438",
+    "geom:latitude":50.845215,
+    "geom:longitude":4.354332,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Duquesnoy 5",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 505 55 55",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "discotheque"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mUedX8E5HHU9kdnPVABH5_50.845215_4.354332@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474289,
+    "wof:geomhash":"150649adde445d314ce8a0290de76f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041575919
+        }
+    ],
+    "wof:id":1041575919,
+    "wof:lastmodified":1473474289,
+    "wof:name":"Hotel Royal Windsor",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "discotheque"
+    ]
+},
+  "bbox": [
+    4.3543319702,
+    50.8452148438,
+    4.3543319702,
+    50.8452148438
+],
+  "geometry": {"coordinates":[4.3543319702,50.8452148438],"type":"Point"}
+}

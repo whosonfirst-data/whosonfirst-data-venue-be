@@ -1,0 +1,80 @@
+{
+  "id": 1041842719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5376791954,51.4663925171,5.5376791954,51.4663925171",
+    "geom:latitude":51.466393,
+    "geom:longitude":5.537679,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La R\u00e9sistance 3-5",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lpg",
+        "automobile",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85797455,
+        102191581,
+        404474405,
+        85633337,
+        101809739,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MVXt0quObzbyuJ8tHGcWr_51.466393_5.537679@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485499,
+    "wof:geomhash":"a4b6a8d89b91b8ffd192600ad64897be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474405,
+            "locality_id":101809739,
+            "neighbourhood_id":85797455,
+            "region_id":85687035,
+            "venue_id":1041842719
+        }
+    ],
+    "wof:id":1041842719,
+    "wof:lastmodified":1473485499,
+    "wof:name":"Smits Autogas Apparatuur Bv",
+    "wof:parent_id":85797455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lpg",
+        "automobile",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    5.5376791954,
+    51.4663925171,
+    5.5376791954,
+    51.4663925171
+],
+  "geometry": {"coordinates":[5.5376791954,51.4663925171],"type":"Point"}
+}

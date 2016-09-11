@@ -1,0 +1,77 @@
+{
+  "id": 1058773849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6850709915,51.0682983398,3.6850709915,51.0682983398",
+    "geom:latitude":51.068298,
+    "geom:longitude":3.685071,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brugsesteenweg 327",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 48 08",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "shoemaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cN4sPOqBLVs8xhAZ0XIqo_51.068298_3.685071@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540413,
+    "wof:geomhash":"f071e5b7fcab28668fab8e4894dec68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058773849
+        }
+    ],
+    "wof:id":1058773849,
+    "wof:lastmodified":1473540413,
+    "wof:name":"Cannoot Fr",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoemaker"
+    ]
+},
+  "bbox": [
+    3.6850709915,
+    51.0682983398,
+    3.6850709915,
+    51.0682983398
+],
+  "geometry": {"coordinates":[3.6850709915,51.0682983398],"type":"Point"}
+}

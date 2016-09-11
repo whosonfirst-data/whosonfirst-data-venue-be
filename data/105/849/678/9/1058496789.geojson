@@ -1,0 +1,79 @@
+{
+  "id": 1058496789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3956069946,50.8541908264,4.3956069946,50.8541908264",
+    "geom:latitude":50.854191,
+    "geom:longitude":4.395607,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chaussee De Louvain 550",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 91 30",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "oriental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07rCjpXLPhggdSyR5dELwN_50.854191_4.395607@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527944,
+    "wof:geomhash":"4ffb41d06cfc29abd217e41c0c5811b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058496789
+        }
+    ],
+    "wof:id":1058496789,
+    "wof:lastmodified":1473527944,
+    "wof:name":"Beguelin Import Compagnie S.a.",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "oriental"
+    ]
+},
+  "bbox": [
+    4.3956069946,
+    50.8541908264,
+    4.3956069946,
+    50.8541908264
+],
+  "geometry": {"coordinates":[4.3956069946,50.8541908264],"type":"Point"}
+}

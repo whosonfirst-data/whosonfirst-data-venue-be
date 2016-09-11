@@ -1,0 +1,79 @@
+{
+  "id": 1058355233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7076189518,51.0582923889,3.7076189518,51.0582923889",
+    "geom:latitude":51.058292,
+    "geom:longitude":3.707619,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bargiekaai 3",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Depot",
+            "subcategory":"Train",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 90 27",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "gear",
+        "lifting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862035,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3wuqZvmX4BZC50v3usxj_51.058292_3.707619@1306268494"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521191,
+    "wof:geomhash":"35abc8d98a8910f9df98e76be317be5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862035,
+            "region_id":85681733,
+            "venue_id":1058355233
+        }
+    ],
+    "wof:id":1058355233,
+    "wof:lastmodified":1473521191,
+    "wof:name":"Vialec Bvba",
+    "wof:parent_id":85862035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gear",
+        "lifting"
+    ]
+},
+  "bbox": [
+    3.7076189518,
+    51.0582923889,
+    3.7076189518,
+    51.0582923889
+],
+  "geometry": {"coordinates":[3.7076189518,51.0582923889],"type":"Point"}
+}

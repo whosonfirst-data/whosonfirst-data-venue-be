@@ -1,0 +1,79 @@
+{
+  "id": 1058832515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3815860748,50.8902664185,4.3815860748,50.8902664185",
+    "geom:latitude":50.890266,
+    "geom:longitude":4.381586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du G\u00e9n\u00e9ral Biebuyck 30",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 248 25 55",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fixture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zyKYu2eS0PxJQE5QhSevd_50.890266_4.381586@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542964,
+    "wof:geomhash":"5243812bfc48b6a05ad1ecf671e1d7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1058832515
+        }
+    ],
+    "wof:id":1058832515,
+    "wof:lastmodified":1473542964,
+    "wof:name":"Rasec Bl Bvba",
+    "wof:parent_id":85801665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    4.3815860748,
+    50.8902664185,
+    4.3815860748,
+    50.8902664185
+],
+  "geometry": {"coordinates":[4.3815860748,50.8902664185],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058287165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6421442032,50.6365966797,5.6421442032,50.6365966797",
+    "geom:latitude":50.636597,
+    "geom:longitude":5.642144,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Henri-warnant 13",
+    "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 04 76",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800809,
+        102191581,
+        85632997,
+        404227353,
+        101755201,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SQEKE7M1o65MrhRjM3T8q_50.636597_5.642144@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518017,
+    "wof:geomhash":"fa56c75d2c801b8b7f1b996a82d71696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755201,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800809,
+            "region_id":85681691,
+            "venue_id":1058287165
+        }
+    ],
+    "wof:id":1058287165,
+    "wof:lastmodified":1473518017,
+    "wof:name":"Chrisnet Scs",
+    "wof:parent_id":85800809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    5.6421442032,
+    50.6365966797,
+    5.6421442032,
+    50.6365966797
+],
+  "geometry": {"coordinates":[5.6421442032,50.6365966797],"type":"Point"}
+}

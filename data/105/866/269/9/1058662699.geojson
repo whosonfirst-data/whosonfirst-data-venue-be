@@ -1,0 +1,79 @@
+{
+  "id": 1058662699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4203228951,50.8337860107,4.4203228951,50.8337860107",
+    "geom:latitude":50.833786,
+    "geom:longitude":4.420323,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jules C\u00e9sar 11",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 34 20",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IO70IIol4Jop6XQjBHrO4_50.833786_4.420323@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535534,
+    "wof:geomhash":"d3bbed65b95f16eae05873b7e3aa437d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058662699
+        }
+    ],
+    "wof:id":1058662699,
+    "wof:lastmodified":1473535534,
+    "wof:name":"Val Duchesse (le)",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.4203228951,
+    50.8337860107,
+    4.4203228951,
+    50.8337860107
+],
+  "geometry": {"coordinates":[4.4203228951,50.8337860107],"type":"Point"}
+}

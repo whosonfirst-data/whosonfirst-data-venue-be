@@ -1,0 +1,79 @@
+{
+  "id": 1058061679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5792031288,50.641834259,5.5792031288,50.641834259",
+    "geom:latitude":50.641834,
+    "geom:longitude":5.579203,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai De Gaulle 16",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 90 33",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "enseignement",
+        "formation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D46sAluz4cBchLcOLrhM1_50.641834_5.579203@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508000,
+    "wof:geomhash":"99f635329856c7cef2989003973c2ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058061679
+        }
+    ],
+    "wof:id":1058061679,
+    "wof:lastmodified":1473508000,
+    "wof:name":"Communication Center",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enseignement",
+        "formation"
+    ]
+},
+  "bbox": [
+    5.5792031288,
+    50.641834259,
+    5.5792031288,
+    50.641834259
+],
+  "geometry": {"coordinates":[5.5792031288,50.641834259],"type":"Point"}
+}

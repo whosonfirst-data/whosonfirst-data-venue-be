@@ -1,0 +1,73 @@
+{
+  "id": 1058745005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4661850929,50.5893974304,5.4661850929,50.5893974304",
+    "geom:latitude":50.589397,
+    "geom:longitude":5.466185,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e D'ivoz 45",
+    "sg:city":"Flemalle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 55 41",
+    "sg:postcode":"4400",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85800781,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IVbKMy0MVmi1iUJIQ1fCZ_50.589397_5.466185@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539113,
+    "wof:geomhash":"1f890b1612c2c4f670f5986b75839a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85800781,
+            "region_id":85681691,
+            "venue_id":1058745005
+        }
+    ],
+    "wof:id":1058745005,
+    "wof:lastmodified":1473539113,
+    "wof:name":"L'atelier De Coiffure",
+    "wof:parent_id":85800781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.4661850929,
+    50.5893974304,
+    5.4661850929,
+    50.5893974304
+],
+  "geometry": {"coordinates":[5.4661850929,50.5893974304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1042091593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6364240646,51.0186691284,3.6364240646,51.0186691284",
+    "geom:latitude":51.018669,
+    "geom:longitude":3.636424,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Latemstr 51",
+    "sg:city":"Sint-martens-latem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 35 36",
+    "sg:postcode":"9830",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "work",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f422vk5iRS6c7cN4eLTg1_51.018669_3.636424@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496024,
+    "wof:geomhash":"6589cc65176e143a4d0c1ba619ca51e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1042091593
+        }
+    ],
+    "wof:id":1042091593,
+    "wof:lastmodified":1473496024,
+    "wof:name":"De Schepper Bvba",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "public"
+    ]
+},
+  "bbox": [
+    3.6364240646,
+    51.0186691284,
+    3.6364240646,
+    51.0186691284
+],
+  "geometry": {"coordinates":[3.6364240646,51.0186691284],"type":"Point"}
+}

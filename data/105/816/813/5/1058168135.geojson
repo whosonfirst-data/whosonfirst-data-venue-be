@@ -1,0 +1,79 @@
+{
+  "id": 1058168135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6780021191,51.0808067322,3.6780021191,51.0808067322",
+    "geom:latitude":51.080807,
+    "geom:longitude":3.678002,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schoubroek 8",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 27 07",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UdhttPqmef7z3JHWnq41Q_51.080807_3.678002@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512797,
+    "wof:geomhash":"214213de5a003db39cbbb39c0fc39301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058168135
+        }
+    ],
+    "wof:id":1058168135,
+    "wof:lastmodified":1473512797,
+    "wof:name":"Hernalsteen Andre",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6780021191,
+    51.0808067322,
+    3.6780021191,
+    51.0808067322
+],
+  "geometry": {"coordinates":[3.6780021191,51.0808067322],"type":"Point"}
+}

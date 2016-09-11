@@ -1,0 +1,79 @@
+{
+  "id": 1058969137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3470377922,50.9124259949,4.3470377922,50.9124259949",
+    "geom:latitude":50.912426,
+    "geom:longitude":4.347038,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beverstraat 26a",
+    "sg:city":"Grimbergen (strombeek-bever)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 45 58",
+    "sg:postcode":"1853",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "cleaner",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33rFCLhlPOcB9UcpVOZ4yS_50.912426_4.347038@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549166,
+    "wof:geomhash":"d676320c6bcba59f311ad964c033e8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058969137
+        }
+    ],
+    "wof:id":1058969137,
+    "wof:lastmodified":1473549166,
+    "wof:name":"Transparence",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "window"
+    ]
+},
+  "bbox": [
+    4.3470377922,
+    50.9124259949,
+    4.3470377922,
+    50.9124259949
+],
+  "geometry": {"coordinates":[4.3470377922,50.9124259949],"type":"Point"}
+}

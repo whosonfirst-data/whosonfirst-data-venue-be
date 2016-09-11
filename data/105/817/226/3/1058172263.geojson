@@ -1,0 +1,79 @@
+{
+  "id": 1058172263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.603512764,50.6592178345,5.603512764,50.6592178345",
+    "geom:latitude":50.659218,
+    "geom:longitude":5.603513,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Charles Horion 24",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 54 21",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801533,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K8ThILJOIPFqevykEGDF9_50.659218_5.603513@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512997,
+    "wof:geomhash":"4256851db46e9584e90b83bdc4a1c921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801533,
+            "region_id":85681691,
+            "venue_id":1058172263
+        }
+    ],
+    "wof:id":1058172263,
+    "wof:lastmodified":1473512997,
+    "wof:name":"Loly Jean",
+    "wof:parent_id":85801533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.603512764,
+    50.6592178345,
+    5.603512764,
+    50.6592178345
+],
+  "geometry": {"coordinates":[5.603512764,50.6592178345],"type":"Point"}
+}

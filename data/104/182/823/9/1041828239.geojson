@@ -1,0 +1,71 @@
+{
+  "id": 1041828239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5052371025,51.1675834656,4.5052371025,51.1675834656",
+    "geom:latitude":51.167583,
+    "geom:longitude":4.505237,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vremdesesteenweg 101",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 46 51",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eh3B9OAnQq8FGeV78J1bm_51.167583_4.505237@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484868,
+    "wof:geomhash":"168ad5beb4811df7c680050d23d54973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1041828239
+        }
+    ],
+    "wof:id":1041828239,
+    "wof:lastmodified":1473484868,
+    "wof:name":"Ceuppens En Schuermans",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.5052371025,
+    51.1675834656,
+    4.5052371025,
+    51.1675834656
+],
+  "geometry": {"coordinates":[4.5052371025,51.1675834656],"type":"Point"}
+}

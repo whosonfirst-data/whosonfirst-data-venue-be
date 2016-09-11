@@ -1,0 +1,85 @@
+{
+  "id": 1042111447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2552709579,51.2013511658,3.2552709579,51.2013511658",
+    "geom:latitude":51.201351,
+    "geom:longitude":3.255271,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"August Derrestraat 62",
+    "sg:city":"Brugge (assebroek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 474 75 77 80",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ix1H2ttTZG0OvTxxonGe5_51.201351_3.255271@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496917,
+    "wof:geomhash":"b000bb4dcc6758921a2862f0a05330e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1042111447
+        }
+    ],
+    "wof:id":1042111447,
+    "wof:lastmodified":1473496917,
+    "wof:name":"Compucheck",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    3.2552709579,
+    51.2013511658,
+    3.2552709579,
+    51.2013511658
+],
+  "geometry": {"coordinates":[3.2552709579,51.2013511658],"type":"Point"}
+}

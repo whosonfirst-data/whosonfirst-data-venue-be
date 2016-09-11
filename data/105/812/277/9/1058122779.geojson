@@ -1,0 +1,71 @@
+{
+  "id": 1058122779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5678858757,50.7536201477,4.5678858757,50.7536201477",
+    "geom:latitude":50.75362,
+    "geom:longitude":4.567886,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lanestraat 107",
+    "sg:city":"Overijse",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 50 40",
+    "sg:postcode":"3090",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rPHnYZcncmpr9bErRJEL0_50.753620_4.567886@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510653,
+    "wof:geomhash":"3dcd5ebaa28cb198246c52516cd58b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058122779
+        }
+    ],
+    "wof:id":1058122779,
+    "wof:lastmodified":1473510653,
+    "wof:name":"Winkelke ('t)",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.5678858757,
+    50.7536201477,
+    4.5678858757,
+    50.7536201477
+],
+  "geometry": {"coordinates":[4.5678858757,50.7536201477],"type":"Point"}
+}

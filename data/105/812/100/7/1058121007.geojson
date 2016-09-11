@@ -1,0 +1,77 @@
+{
+  "id": 1058121007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5769147873,50.6434822083,5.5769147873,50.6434822083",
+    "geom:latitude":50.643482,
+    "geom:longitude":5.576915,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cath\u00e9drale 11",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 04 74",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CP2dSmtALO3dyyWgH5SU9_50.643482_5.576915@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510577,
+    "wof:geomhash":"789b4429966e955246f0892f44ecff4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058121007
+        }
+    ],
+    "wof:id":1058121007,
+    "wof:lastmodified":1473510577,
+    "wof:name":"Mini Bazar",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    5.5769147873,
+    50.6434822083,
+    5.5769147873,
+    50.6434822083
+],
+  "geometry": {"coordinates":[5.5769147873,50.6434822083],"type":"Point"}
+}

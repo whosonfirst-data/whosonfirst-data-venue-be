@@ -1,0 +1,71 @@
+{
+  "id": 1058856017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2806799412,51.2519493103,3.2806799412,51.2519493103",
+    "geom:latitude":51.251949,
+    "geom:longitude":3.28068,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 4",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 29 45",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85801009,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wiDcGUMbNNELKiB9nIgNw_51.251949_3.280680@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543974,
+    "wof:geomhash":"d20e839e73d78bed70aa9fe916136fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85801009,
+            "region_id":85681709,
+            "venue_id":1058856017
+        }
+    ],
+    "wof:id":1058856017,
+    "wof:lastmodified":1473543974,
+    "wof:name":"La Luna Bistro",
+    "wof:parent_id":85801009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    3.2806799412,
+    51.2519493103,
+    3.2806799412,
+    51.2519493103
+],
+  "geometry": {"coordinates":[3.2806799412,51.2519493103],"type":"Point"}
+}

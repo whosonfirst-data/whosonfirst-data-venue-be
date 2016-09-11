@@ -1,0 +1,79 @@
+{
+  "id": 1058280139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6588690281,51.0612602234,3.6588690281,51.0612602234",
+    "geom:latitude":51.06126,
+    "geom:longitude":3.658869,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariakerksesteenweg 130",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 05 29",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FSj2MDBM2Ap4LQNsUR0SW_51.061260_3.658869@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517698,
+    "wof:geomhash":"d6d4bf5d7af8ea98ae2d6ac6b8fb8b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058280139
+        }
+    ],
+    "wof:id":1058280139,
+    "wof:lastmodified":1473517698,
+    "wof:name":"Van Paemele C",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    3.6588690281,
+    51.0612602234,
+    3.6588690281,
+    51.0612602234
+],
+  "geometry": {"coordinates":[3.6588690281,51.0612602234],"type":"Point"}
+}

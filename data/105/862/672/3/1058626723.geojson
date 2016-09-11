@@ -1,0 +1,77 @@
+{
+  "id": 1058626723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3349618912,50.8108444214,4.3349618912,50.8108444214",
+    "geom:latitude":50.810844,
+    "geom:longitude":4.334962,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Maubel 75",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 78 66",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6We2ZpxWqCSx9Ca9M4Gbsf_50.810844_4.334962@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533865,
+    "wof:geomhash":"e235886a3d21afb9746363647ee58e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1058626723
+        }
+    ],
+    "wof:id":1058626723,
+    "wof:lastmodified":1473533865,
+    "wof:name":"Huiti\u00e8me Art",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    4.3349618912,
+    50.8108444214,
+    4.3349618912,
+    50.8108444214
+],
+  "geometry": {"coordinates":[4.3349618912,50.8108444214],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1058166867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4579100609,51.4006576538,4.4579100609,51.4006576538",
+    "geom:latitude":51.400658,
+    "geom:longitude":4.45791,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Frans Raatsstraat 101",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 14 53",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XYeNL5z5kXRqsd67eJgub_51.400658_4.457910@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512748,
+    "wof:geomhash":"f972e51f57f5ba4258fe0e89e36f8058",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058166867
+        }
+    ],
+    "wof:id":1058166867,
+    "wof:lastmodified":1473512748,
+    "wof:name":"Govaers K",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4579100609,
+    51.4006576538,
+    4.4579100609,
+    51.4006576538
+],
+  "geometry": {"coordinates":[4.4579100609,51.4006576538],"type":"Point"}
+}

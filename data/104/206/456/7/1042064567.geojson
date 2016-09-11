@@ -1,0 +1,77 @@
+{
+  "id": 1042064567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.5969519615,51.0402107239,3.5969519615,51.0402107239",
+    "geom:latitude":51.040211,
+    "geom:longitude":3.596952,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Industriegebied Booiebos 6",
+    "sg:city":"Drongen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 55 11",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "base"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800739,
+        102191581,
+        85632997,
+        404227357,
+        101755677,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bnuxVW8A3BFrBhm1D98Vz_51.040211_3.596952@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494851,
+    "wof:geomhash":"38b7033dc8ee5942a87aaf46f8a3c7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101755677,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800739,
+            "region_id":85681733,
+            "venue_id":1042064567
+        }
+    ],
+    "wof:id":1042064567,
+    "wof:lastmodified":1473494851,
+    "wof:name":"Barry Callebaut N.v. Belgium",
+    "wof:parent_id":85800739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "base"
+    ]
+},
+  "bbox": [
+    3.5969519615,
+    51.0402107239,
+    3.5969519615,
+    51.0402107239
+],
+  "geometry": {"coordinates":[3.5969519615,51.0402107239],"type":"Point"}
+}

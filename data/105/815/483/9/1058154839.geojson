@@ -1,0 +1,79 @@
+{
+  "id": 1058154839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3877282143,50.8512077332,4.3877282143,50.8512077332",
+    "geom:latitude":50.851208,
+    "geom:longitude":4.387728,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charbo 13",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 46 33",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56pW0gjpiCdkewwPONfiyC_50.851208_4.387728@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512218,
+    "wof:geomhash":"1549d799df8869d74a9f5006e0353d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058154839
+        }
+    ],
+    "wof:id":1058154839,
+    "wof:lastmodified":1473512218,
+    "wof:name":"Bernard Guido",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3877282143,
+    50.8512077332,
+    4.3877282143,
+    50.8512077332
+],
+  "geometry": {"coordinates":[4.3877282143,50.8512077332],"type":"Point"}
+}

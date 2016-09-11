@@ -1,0 +1,79 @@
+{
+  "id": 1058173139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.673429966,50.5785293579,5.673429966,50.5785293579",
+    "geom:latitude":50.578529,
+    "geom:longitude":5.67343,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Grand'rue 24",
+    "sg:city":"Trooz (for\u00eat)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 351 72 51",
+    "sg:postcode":"4870",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801119,
+        102191581,
+        85632997,
+        404227353,
+        101758521,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yu6g5SU1iTpfGHxKWd3pi_50.578529_5.673430@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513032,
+    "wof:geomhash":"93db6e7a5cbfc5cb883187694fed7dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101758521,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801119,
+            "region_id":85681691,
+            "venue_id":1058173139
+        }
+    ],
+    "wof:id":1058173139,
+    "wof:lastmodified":1473513032,
+    "wof:name":"Marechal Maurice",
+    "wof:parent_id":85801119,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.673429966,
+    50.5785293579,
+    5.673429966,
+    50.5785293579
+],
+  "geometry": {"coordinates":[5.673429966,50.5785293579],"type":"Point"}
+}

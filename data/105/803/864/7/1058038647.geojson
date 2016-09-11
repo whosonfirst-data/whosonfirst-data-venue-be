@@ -1,0 +1,79 @@
+{
+  "id": 1058038647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3707771301,50.8592758179,4.3707771301,50.8592758179",
+    "geom:latitude":50.859276,
+    "geom:longitude":4.370777,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Haecht 140",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 16 45",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "producer",
+        "realizators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HaP0FIDD3PKshj1BXkY3T_50.859276_4.370777@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507052,
+    "wof:geomhash":"6db037ac1bf8120281fdcab06365caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058038647
+        }
+    ],
+    "wof:id":1058038647,
+    "wof:lastmodified":1473507052,
+    "wof:name":"Cin\u00e9quanon",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer",
+        "realizators"
+    ]
+},
+  "bbox": [
+    4.3707771301,
+    50.8592758179,
+    4.3707771301,
+    50.8592758179
+],
+  "geometry": {"coordinates":[4.3707771301,50.8592758179],"type":"Point"}
+}

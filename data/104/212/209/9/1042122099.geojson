@@ -1,0 +1,83 @@
+{
+  "id": 1042122099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4289751053,50.8377799988,4.4289751053,50.8377799988",
+    "geom:latitude":50.83778,
+    "geom:longitude":4.428975,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Gay 46",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 90 17",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SjFeHhvCIiWUx7sO6qMLk_50.837780_4.428975@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497508,
+    "wof:geomhash":"9f6b684ec1ab76c7501df64d95e212b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1042122099
+        }
+    ],
+    "wof:id":1042122099,
+    "wof:lastmodified":1473497508,
+    "wof:name":"Software Engineering Partner Sprl",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.4289751053,
+    50.8377799988,
+    4.4289751053,
+    50.8377799988
+],
+  "geometry": {"coordinates":[4.4289751053,50.8377799988],"type":"Point"}
+}

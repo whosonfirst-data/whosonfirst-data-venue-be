@@ -1,0 +1,71 @@
+{
+  "id": 1042197005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5354828835,50.5741043091,5.5354828835,50.5741043091",
+    "geom:latitude":50.574104,
+    "geom:longitude":5.535483,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'eglise 25",
+    "sg:city":"Seraing (boncelles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 385 04 52",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VcQV0f7rjSjKMCuX4L2V9_50.574104_5.535483@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501730,
+    "wof:geomhash":"8370d22977a9fb37cffc9149081438ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1042197005
+        }
+    ],
+    "wof:id":1042197005,
+    "wof:lastmodified":1473501730,
+    "wof:name":"Ecole Communale Fondamentale De Boncelles",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    5.5354828835,
+    50.5741043091,
+    5.5354828835,
+    50.5741043091
+],
+  "geometry": {"coordinates":[5.5354828835,50.5741043091],"type":"Point"}
+}

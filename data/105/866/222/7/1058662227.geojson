@@ -1,0 +1,79 @@
+{
+  "id": 1058662227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.677531004,51.0825157166,3.677531004,51.0825157166",
+    "geom:latitude":51.082516,
+    "geom:longitude":3.677531,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Melkweide 17",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 06 62",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bm1fGLgipuCvY9AaYTEwE_51.082516_3.677531@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535517,
+    "wof:geomhash":"d545556bdfb21fa9c192a2da2237fe37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058662227
+        }
+    ],
+    "wof:id":1058662227,
+    "wof:lastmodified":1473535517,
+    "wof:name":"Rusthuis Roeland I En Ii Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    3.677531004,
+    51.0825157166,
+    3.677531004,
+    51.0825157166
+],
+  "geometry": {"coordinates":[3.677531004,51.0825157166],"type":"Point"}
+}

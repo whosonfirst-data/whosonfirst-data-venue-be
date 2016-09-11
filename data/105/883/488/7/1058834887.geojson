@@ -1,0 +1,79 @@
+{
+  "id": 1058834887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3875188828,50.939907074,4.3875188828,50.939907074",
+    "geom:latitude":50.939907,
+    "geom:longitude":4.387519,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poddegemstraat 72",
+    "sg:city":"Grimbergen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 270 99 14",
+    "sg:postcode":"1850",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801215,
+        102191581,
+        85632997,
+        404227357,
+        101755473,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wr0720m22QP1Ea3X1MvXo_50.939907_4.387519@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543065,
+    "wof:geomhash":"9bf6d55dccad423f6c3cda19dd5dc8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755473,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801215,
+            "region_id":85681731,
+            "venue_id":1058834887
+        }
+    ],
+    "wof:id":1058834887,
+    "wof:lastmodified":1473543065,
+    "wof:name":"Van Den Block Gebr Bvba",
+    "wof:parent_id":85801215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3875188828,
+    50.939907074,
+    4.3875188828,
+    50.939907074
+],
+  "geometry": {"coordinates":[4.3875188828,50.939907074],"type":"Point"}
+}

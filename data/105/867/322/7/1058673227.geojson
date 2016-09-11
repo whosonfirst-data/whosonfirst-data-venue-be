@@ -1,0 +1,72 @@
+{
+  "id": 1058673227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5645909309,50.6403541565,5.5645909309,50.6403541565",
+    "geom:latitude":50.640354,
+    "geom:longitude":5.564591,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fr\u00c8re Michel 21",
+    "sg:city":"Liege",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 73 36 85",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gIhgXIUXGYJXl9dQU3kzd_50.640354_5.564591@1306268551"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535985,
+    "wof:geomhash":"411aaf992bd1cd07835da8cd44559806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058673227
+        }
+    ],
+    "wof:id":1058673227,
+    "wof:lastmodified":1473535985,
+    "wof:name":"Le Numidie",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5645909309,
+    50.6403541565,
+    5.5645909309,
+    50.6403541565
+],
+  "geometry": {"coordinates":[5.5645909309,50.6403541565],"type":"Point"}
+}

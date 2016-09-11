@@ -1,0 +1,77 @@
+{
+  "id": 1058073829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5673789978,50.6398086548,5.5673789978,50.6398086548",
+    "geom:latitude":50.639809,
+    "geom:longitude":5.567379,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-gilles 20",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 66 23",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mMVLNSWEYhXiry3ddywuT_50.639809_5.567379@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508464,
+    "wof:geomhash":"086940d6f06c0aae7f7f9a2e6c9fc66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058073829
+        }
+    ],
+    "wof:id":1058073829,
+    "wof:lastmodified":1473508464,
+    "wof:name":"Potager Des Guillemins",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    5.5673789978,
+    50.6398086548,
+    5.5673789978,
+    50.6398086548
+],
+  "geometry": {"coordinates":[5.5673789978,50.6398086548],"type":"Point"}
+}

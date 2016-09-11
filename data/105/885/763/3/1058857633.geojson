@@ -1,0 +1,77 @@
+{
+  "id": 1058857633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5744671822,50.6425628662,5.5744671822,50.6425628662",
+    "geom:latitude":50.642563,
+    "geom:longitude":5.574467,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cath\u00e9drale 62",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 17 77",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SIEBKkIqrvqigeeu0zbN8_50.642563_5.574467@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544038,
+    "wof:geomhash":"59ff2121a86239428180e9fdce0c0f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058857633
+        }
+    ],
+    "wof:id":1058857633,
+    "wof:lastmodified":1473544038,
+    "wof:name":"Taverne Centrale Scrl",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    5.5744671822,
+    50.6425628662,
+    5.5744671822,
+    50.6425628662
+],
+  "geometry": {"coordinates":[5.5744671822,50.6425628662],"type":"Point"}
+}

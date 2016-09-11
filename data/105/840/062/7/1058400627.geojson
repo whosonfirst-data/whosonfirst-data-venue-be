@@ -1,0 +1,77 @@
+{
+  "id": 1058400627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3604202271,50.8538513184,4.3604202271,50.8538513184",
+    "geom:latitude":50.853851,
+    "geom:longitude":4.36042,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Marais 104",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 74 02",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36QVk7Ub3hBUwTlf8h0GGN_50.853851_4.360420@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523271,
+    "wof:geomhash":"c06085af23115f5a98b5d5b26181fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058400627
+        }
+    ],
+    "wof:id":1058400627,
+    "wof:lastmodified":1473523271,
+    "wof:name":"Centre Oncologie & Medecine Nucleaire",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3604202271,
+    50.8538513184,
+    4.3604202271,
+    50.8538513184
+],
+  "geometry": {"coordinates":[4.3604202271,50.8538513184],"type":"Point"}
+}

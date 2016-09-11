@@ -1,0 +1,77 @@
+{
+  "id": 1042022195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2286961079,51.2056503296,3.2286961079,51.2056503296",
+    "geom:latitude":51.20565,
+    "geom:longitude":3.228696,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eekhoutstraat 44",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 79 67",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FB8P1ORVWbi9v7VfFO08V_51.205650_3.228696@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493136,
+    "wof:geomhash":"31eba1ff5adafc5ac5adac0507036be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042022195
+        }
+    ],
+    "wof:id":1042022195,
+    "wof:lastmodified":1473493136,
+    "wof:name":"Ludovic Serreyn",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.2286961079,
+    51.2056503296,
+    3.2286961079,
+    51.2056503296
+],
+  "geometry": {"coordinates":[3.2286961079,51.2056503296],"type":"Point"}
+}

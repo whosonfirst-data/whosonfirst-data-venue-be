@@ -1,0 +1,83 @@
+{
+  "id": 1042149259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4435739517,51.1355018616,4.4435739517,51.1355018616",
+    "geom:latitude":51.135502,
+    "geom:longitude":4.443574,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Molenstraat 25",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 79 11",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WcxhBdrrOH9Z7F5EWs7Vm_51.135502_4.443574@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498988,
+    "wof:geomhash":"f1f4c98e87669ebcb04c8d0d2bb35a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042149259
+        }
+    ],
+    "wof:id":1042149259,
+    "wof:lastmodified":1473498988,
+    "wof:name":"Den Pasar",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "dietary",
+        "-",
+        "biological"
+    ]
+},
+  "bbox": [
+    4.4435739517,
+    51.1355018616,
+    4.4435739517,
+    51.1355018616
+],
+  "geometry": {"coordinates":[4.4435739517,51.1355018616],"type":"Point"}
+}

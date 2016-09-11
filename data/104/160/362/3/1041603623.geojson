@@ -1,0 +1,79 @@
+{
+  "id": 1041603623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4253377914,50.7977142334,4.4253377914,50.7977142334",
+    "geom:latitude":50.797714,
+    "geom:longitude":4.425338,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr\u00e8ve De La Louve 9",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 56 99",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801147,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kc5xd2hU8a5ULnbjAiVmt_50.797714_4.425338@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475457,
+    "wof:geomhash":"598a2c1dcf0c097836cd484cd8c90823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801147,
+            "region_id":85681713,
+            "venue_id":1041603623
+        }
+    ],
+    "wof:id":1041603623,
+    "wof:lastmodified":1473475457,
+    "wof:name":"Bertin Christiane",
+    "wof:parent_id":85801147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4253377914,
+    50.7977142334,
+    4.4253377914,
+    50.7977142334
+],
+  "geometry": {"coordinates":[4.4253377914,50.7977142334],"type":"Point"}
+}

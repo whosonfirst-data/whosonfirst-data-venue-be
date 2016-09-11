@@ -1,0 +1,77 @@
+{
+  "id": 1042247351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5945529938,50.6488838196,5.5945529938,50.6488838196",
+    "geom:latitude":50.648884,
+    "geom:longitude":5.594553,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Saint-l\u00e9onard 54",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 41 59",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "consulate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RtfaN1YRzCGnVlxTnb4Io_50.648884_5.594553@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504138,
+    "wof:geomhash":"a2d262fd49e8cd7754a49401ced4fe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1042247351
+        }
+    ],
+    "wof:id":1042247351,
+    "wof:lastmodified":1473504138,
+    "wof:name":"Maroc (consulat Du Royaume Du)",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulate"
+    ]
+},
+  "bbox": [
+    5.5945529938,
+    50.6488838196,
+    5.5945529938,
+    50.6488838196
+],
+  "geometry": {"coordinates":[5.5945529938,50.6488838196],"type":"Point"}
+}

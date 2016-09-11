@@ -1,0 +1,77 @@
+{
+  "id": 1041680395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3003029823,50.8464050293,4.3003029823,50.8464050293",
+    "geom:latitude":50.846405,
+    "geom:longitude":4.300303,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Van Soust 309",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 522 14 02",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33c0Q2YDPUjQkafC891l9T_50.846405_4.300303@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478534,
+    "wof:geomhash":"2e6f37390bfc0ebe2981d448c83930f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1041680395
+        }
+    ],
+    "wof:id":1041680395,
+    "wof:lastmodified":1473478534,
+    "wof:name":"Atelier Ferin Sc",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    4.3003029823,
+    50.8464050293,
+    4.3003029823,
+    50.8464050293
+],
+  "geometry": {"coordinates":[4.3003029823,50.8464050293],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058773233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4549717903,51.210144043,4.4549717903,51.210144043",
+    "geom:latitude":51.210144,
+    "geom:longitude":4.454972,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Campinaire 290",
+    "sg:city":"Pont-de-loup",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 320 99 60",
+    "sg:postcode":"6250",
+    "sg:province":"Hainaut",
+    "sg:tags":[
+        "ship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fk3CKcAOgXQhCSIGjJ7ss_51.210144_4.454972@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540389,
+    "wof:geomhash":"f2cfbb5cef01443c61a021fb095506c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058773233
+        }
+    ],
+    "wof:id":1058773233,
+    "wof:lastmodified":1473540389,
+    "wof:name":"Euro Marine Belgium Nv",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship"
+    ]
+},
+  "bbox": [
+    4.4549717903,
+    51.210144043,
+    4.4549717903,
+    51.210144043
+],
+  "geometry": {"coordinates":[4.4549717903,51.210144043],"type":"Point"}
+}

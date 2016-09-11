@@ -1,0 +1,77 @@
+{
+  "id": 1058091253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3806781769,50.713180542,4.3806781769,50.713180542",
+    "geom:latitude":50.713181,
+    "geom:longitude":4.380678,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Capouillet 50",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 35 63",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EqAc6UvcOsbj2ogGMpNmb_50.713181_4.380678@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509202,
+    "wof:geomhash":"e98daacf41cefa843778bfbcb0bdbf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058091253
+        }
+    ],
+    "wof:id":1058091253,
+    "wof:lastmodified":1473509202,
+    "wof:name":"Degand D",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3806781769,
+    50.713180542,
+    4.3806781769,
+    50.713180542
+],
+  "geometry": {"coordinates":[4.3806781769,50.713180542],"type":"Point"}
+}

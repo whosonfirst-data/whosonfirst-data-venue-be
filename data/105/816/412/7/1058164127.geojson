@@ -1,0 +1,79 @@
+{
+  "id": 1058164127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3688931465,50.7104072571,4.3688931465,50.7104072571",
+    "geom:latitude":50.710407,
+    "geom:longitude":4.368893,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Champ Rodange 18",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 354 63 88",
+    "sg:postcode":"1410",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ULgmNGw2X08Pbgie1KV7_50.710407_4.368893@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512626,
+    "wof:geomhash":"19ff3b5e0eaccccbbff6ab6fc0d9944b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058164127
+        }
+    ],
+    "wof:id":1058164127,
+    "wof:lastmodified":1473512626,
+    "wof:name":"Dulieu Johan",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3688931465,
+    50.7104072571,
+    4.3688931465,
+    50.7104072571
+],
+  "geometry": {"coordinates":[4.3688931465,50.7104072571],"type":"Point"}
+}

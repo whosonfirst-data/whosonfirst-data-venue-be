@@ -1,0 +1,79 @@
+{
+  "id": 1058169959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7237870693,51.057975769,3.7237870693,51.057975769",
+    "geom:latitude":51.057976,
+    "geom:longitude":3.723787,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rodekoningstraat 6",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 66 05",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TiZnPM0l1r2WwB3j3Dd39_51.057976_3.723787@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512904,
+    "wof:geomhash":"7efc2f9fa7d6deb0cc0e7e7f9137fafb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058169959
+        }
+    ],
+    "wof:id":1058169959,
+    "wof:lastmodified":1473512904,
+    "wof:name":"Kint M",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.7237870693,
+    51.057975769,
+    3.7237870693,
+    51.057975769
+],
+  "geometry": {"coordinates":[3.7237870693,51.057975769],"type":"Point"}
+}

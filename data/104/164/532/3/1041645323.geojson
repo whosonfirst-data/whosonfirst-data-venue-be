@@ -1,0 +1,79 @@
+{
+  "id": 1041645323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4646821022,50.8293228149,4.4646821022,50.8293228149",
+    "geom:latitude":50.829323,
+    "geom:longitude":4.464682,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Van Der Meerschen 188",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 13 28",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "cell",
+        "photovoltaic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801333,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mYjAFpbMdkOZtO60Buzml_50.829323_4.464682@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477152,
+    "wof:geomhash":"4e55faf9626ab923a86315936b551bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801333,
+            "region_id":85681713,
+            "venue_id":1041645323
+        }
+    ],
+    "wof:id":1041645323,
+    "wof:lastmodified":1473477152,
+    "wof:name":"Ene-energies Nouvelles & Envir S.a.",
+    "wof:parent_id":85801333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cell",
+        "photovoltaic"
+    ]
+},
+  "bbox": [
+    4.4646821022,
+    50.8293228149,
+    4.4646821022,
+    50.8293228149
+],
+  "geometry": {"coordinates":[4.4646821022,50.8293228149],"type":"Point"}
+}

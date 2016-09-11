@@ -1,0 +1,81 @@
+{
+  "id": 1058088599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4046387672,50.8116111755,4.4046387672,50.8116111755",
+    "geom:latitude":50.811611,
+    "geom:longitude":4.404639,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Rue Des B\u00e9gonias",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 13 75",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "product",
+        "miscellaneous",
+        "entertainment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mPVNMEL72Cg2MqnM362Rs_50.811611_4.404639@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509097,
+    "wof:geomhash":"baee060e938496e5bafb2db5a4af4636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058088599
+        }
+    ],
+    "wof:id":1058088599,
+    "wof:lastmodified":1473509097,
+    "wof:name":"Air Show Balloon",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "miscellaneous",
+        "entertainment"
+    ]
+},
+  "bbox": [
+    4.4046387672,
+    50.8116111755,
+    4.4046387672,
+    50.8116111755
+],
+  "geometry": {"coordinates":[4.4046387672,50.8116111755],"type":"Point"}
+}

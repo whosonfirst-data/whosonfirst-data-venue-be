@@ -1,0 +1,79 @@
+{
+  "id": 1041737323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7464311123,51.0626487732,3.7464311123,51.0626487732",
+    "geom:latitude":51.062649,
+    "geom:longitude":3.746431,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halvemaanstraat 59",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 229 14 47",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "agricultural",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17rPFXcm7rdNXGfgEwK7h6_51.062649_3.746431@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480766,
+    "wof:geomhash":"7fd915a091def8ab49053bbd6c8c226b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1041737323
+        }
+    ],
+    "wof:id":1041737323,
+    "wof:lastmodified":1473480766,
+    "wof:name":"Tulpen",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.7464311123,
+    51.0626487732,
+    3.7464311123,
+    51.0626487732
+],
+  "geometry": {"coordinates":[3.7464311123,51.0626487732],"type":"Point"}
+}

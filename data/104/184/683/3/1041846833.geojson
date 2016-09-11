@@ -1,0 +1,75 @@
+{
+  "id": 1041846833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4970321655,51.2202110291,4.4970321655,51.2202110291",
+    "geom:latitude":51.220211,
+    "geom:longitude":4.497032,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galgenstraat 1",
+    "sg:city":"Wijnegem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 45 85",
+    "sg:postcode":"2110",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "car",
+        "used",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a64LezKd1qZiRfUObLN6q_51.220211_4.497032@1306268349"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485663,
+    "wof:geomhash":"79f2bed73a8ae719ca278035ada0f995",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1041846833
+        }
+    ],
+    "wof:id":1041846833,
+    "wof:lastmodified":1473485663,
+    "wof:name":"Jazz Cars",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4970321655,
+    51.2202110291,
+    4.4970321655,
+    51.2202110291
+],
+  "geometry": {"coordinates":[4.4970321655,51.2202110291],"type":"Point"}
+}

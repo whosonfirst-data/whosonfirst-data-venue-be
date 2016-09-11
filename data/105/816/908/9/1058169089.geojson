@@ -1,0 +1,79 @@
+{
+  "id": 1058169089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6097650528,50.6304779053,5.6097650528,50.6304779053",
+    "geom:latitude":50.630478,
+    "geom:longitude":5.609765,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Herve 203",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 84 78",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H7W7TFzbCr98aXlCNHg0Z_50.630478_5.609765@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512855,
+    "wof:geomhash":"d9160cb4b02724bca013149f100af35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058169089
+        }
+    ],
+    "wof:id":1058169089,
+    "wof:lastmodified":1473512855,
+    "wof:name":"Jacques C",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6097650528,
+    50.6304779053,
+    5.6097650528,
+    50.6304779053
+],
+  "geometry": {"coordinates":[5.6097650528,50.6304779053],"type":"Point"}
+}

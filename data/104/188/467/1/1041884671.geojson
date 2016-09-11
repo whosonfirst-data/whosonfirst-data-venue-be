@@ -1,0 +1,79 @@
+{
+  "id": 1041884671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4031190872,51.3416595459,4.4031190872,51.3416595459",
+    "geom:latitude":51.34166,
+    "geom:longitude":4.403119,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ertbrandstraat 27",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 664 26 55",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801235,
+        102191581,
+        85632997,
+        404227357,
+        101839065,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76VzYfx2LVEhsvKLxWLbiV_51.341660_4.403119@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487277,
+    "wof:geomhash":"186490b04a49cecb2ba228ed6646e35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101839065,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801235,
+            "region_id":85681715,
+            "venue_id":1041884671
+        }
+    ],
+    "wof:id":1041884671,
+    "wof:lastmodified":1473487277,
+    "wof:name":"Van Beek D",
+    "wof:parent_id":85801235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4031190872,
+    51.3416595459,
+    4.4031190872,
+    51.3416595459
+],
+  "geometry": {"coordinates":[4.4031190872,51.3416595459],"type":"Point"}
+}

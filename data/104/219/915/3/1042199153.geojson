@@ -1,0 +1,77 @@
+{
+  "id": 1042199153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4064059258,50.8635139465,4.4064059258,50.8635139465",
+    "geom:latitude":50.863514,
+    "geom:longitude":4.406406,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De La Petite Suisse 4",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 515 75 74",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nCaeOsSjwGcjoDy3Z1Dyn_50.863514_4.406406@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501909,
+    "wof:geomhash":"3f8b185e7a8096996f5fa936bbd98797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1042199153
+        }
+    ],
+    "wof:id":1042199153,
+    "wof:lastmodified":1473501909,
+    "wof:name":"Institut Technique Rene Cartigny",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.4064059258,
+    50.8635139465,
+    4.4064059258,
+    50.8635139465
+],
+  "geometry": {"coordinates":[4.4064059258,50.8635139465],"type":"Point"}
+}

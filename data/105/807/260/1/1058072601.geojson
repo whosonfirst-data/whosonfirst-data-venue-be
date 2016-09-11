@@ -1,0 +1,81 @@
+{
+  "id": 1058072601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3331971169,50.8572425842,4.3331971169,50.8572425842",
+    "geom:latitude":50.857243,
+    "geom:longitude":4.333197,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Piers 6",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 410 42 18",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "export",
+        "-",
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DOa9ilvEjqGyEXnR5cjcc_50.857243_4.333197@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508423,
+    "wof:geomhash":"d4ec7ec7df68f6c2b97f7cec7f6ec0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058072601
+        }
+    ],
+    "wof:id":1058072601,
+    "wof:lastmodified":1473508423,
+    "wof:name":"Malah Agro Massa",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "export",
+        "-",
+        "import"
+    ]
+},
+  "bbox": [
+    4.3331971169,
+    50.8572425842,
+    4.3331971169,
+    50.8572425842
+],
+  "geometry": {"coordinates":[4.3331971169,50.8572425842],"type":"Point"}
+}

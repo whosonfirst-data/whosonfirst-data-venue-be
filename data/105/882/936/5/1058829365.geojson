@@ -1,0 +1,73 @@
+{
+  "id": 1058829365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2518920898,50.8430747986,4.2518920898,50.8430747986",
+    "geom:latitude":50.843075,
+    "geom:longitude":4.251892,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ninoofsesteenweg 493",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 569 34 96",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "stations-service",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800917,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KTsFIgeSBnRZRAuqCE3Ii_50.843075_4.251892@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542826,
+    "wof:geomhash":"1e12ba3efc247bdbce53a666806bad48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800917,
+            "region_id":85681731,
+            "venue_id":1058829365
+        }
+    ],
+    "wof:id":1058829365,
+    "wof:lastmodified":1473542826,
+    "wof:name":"Esso",
+    "wof:parent_id":85800917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "carburants"
+    ]
+},
+  "bbox": [
+    4.2518920898,
+    50.8430747986,
+    4.2518920898,
+    50.8430747986
+],
+  "geometry": {"coordinates":[4.2518920898,50.8430747986],"type":"Point"}
+}

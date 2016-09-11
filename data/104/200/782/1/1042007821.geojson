@@ -1,0 +1,77 @@
+{
+  "id": 1042007821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4416761398,51.1318893433,4.4416761398,51.1318893433",
+    "geom:latitude":51.131889,
+    "geom:longitude":4.441676,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drabstraat 105",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 22 15",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pf213fgdNXBLlD9i5Hni0_51.131889_4.441676@1306268376"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492598,
+    "wof:geomhash":"2dcafbc2b71fc3597fef29ef70673d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042007821
+        }
+    ],
+    "wof:id":1042007821,
+    "wof:lastmodified":1473492598,
+    "wof:name":"Caf\u00c9 De Reisduif",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4416761398,
+    51.1318893433,
+    4.4416761398,
+    51.1318893433
+],
+  "geometry": {"coordinates":[4.4416761398,51.1318893433],"type":"Point"}
+}

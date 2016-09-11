@@ -1,0 +1,71 @@
+{
+  "id": 1042062423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2349338531,50.9537353516,4.2349338531,50.9537353516",
+    "geom:latitude":50.953735,
+    "geom:longitude":4.234934,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maurits Sacr\u00e9straat 42a",
+    "sg:city":"Merchtem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 52 37 22 24",
+    "sg:postcode":"1785",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800941,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RCrr2DD9kVvsI355q3cbe_50.953735_4.234934@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494768,
+    "wof:geomhash":"40d128f61e4ed911369fbb8a8cd2197e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800941,
+            "region_id":85681731,
+            "venue_id":1042062423
+        }
+    ],
+    "wof:id":1042062423,
+    "wof:lastmodified":1473494768,
+    "wof:name":"Vinck S",
+    "wof:parent_id":85800941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.2349338531,
+    50.9537353516,
+    4.2349338531,
+    50.9537353516
+],
+  "geometry": {"coordinates":[4.2349338531,50.9537353516],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058365417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.222440958,51.2070274353,3.222440958,51.2070274353",
+    "geom:latitude":51.207027,
+    "geom:longitude":3.222441,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oostendse Steenweg 52",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 31 71 71",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M7U6LyQdRVrvSURqFDKYb_51.207027_3.222441@1306268496"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521666,
+    "wof:geomhash":"cd4d704caf3bcd430c602a59d8983e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058365417
+        }
+    ],
+    "wof:id":1058365417,
+    "wof:lastmodified":1473521666,
+    "wof:name":"Traen-van Parys",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    3.222440958,
+    51.2070274353,
+    3.222440958,
+    51.2070274353
+],
+  "geometry": {"coordinates":[3.222440958,51.2070274353],"type":"Point"}
+}

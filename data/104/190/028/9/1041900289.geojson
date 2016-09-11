@@ -1,0 +1,71 @@
+{
+  "id": 1041900289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3299398422,50.9351806641,4.3299398422,50.9351806641",
+    "geom:latitude":50.935181,
+    "geom:longitude":4.32994,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emile Jacqmain Boulevard 151",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YUyiNoV7NdDuyw3TOlXMk_50.935181_4.329940@1306268358"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487925,
+    "wof:geomhash":"f5a2650731667496fc42936a5499a6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1041900289
+        }
+    ],
+    "wof:id":1041900289,
+    "wof:lastmodified":1473487925,
+    "wof:name":"Eurocross International Belgium Cv",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3299398422,
+    50.9351806641,
+    4.3299398422,
+    50.9351806641
+],
+  "geometry": {"coordinates":[4.3299398422,50.9351806641],"type":"Point"}
+}

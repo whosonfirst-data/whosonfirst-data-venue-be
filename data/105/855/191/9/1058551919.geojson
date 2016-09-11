@@ -1,0 +1,77 @@
+{
+  "id": 1058551919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4398617744,50.8330574036,4.4398617744,50.8330574036",
+    "geom:latitude":50.833057,
+    "geom:longitude":4.439862,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue David Van Bever 25",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 35 28",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ft7zRdAiLKNnHAglnjRYW_50.833057_4.439862@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530445,
+    "wof:geomhash":"3b13908e642979e862c51d4e4d614273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1058551919
+        }
+    ],
+    "wof:id":1058551919,
+    "wof:lastmodified":1473530445,
+    "wof:name":"Daw E",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4398617744,
+    50.8330574036,
+    4.4398617744,
+    50.8330574036
+],
+  "geometry": {"coordinates":[4.4398617744,50.8330574036],"type":"Point"}
+}

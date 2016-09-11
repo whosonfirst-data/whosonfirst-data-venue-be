@@ -1,0 +1,81 @@
+{
+  "id": 1058100263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5230560303,50.8595581055,4.5230560303,50.8595581055",
+    "geom:latitude":50.859558,
+    "geom:longitude":4.523056,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vossemlaan 95",
+    "sg:city":"Zaventem (sterrebeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 55 93",
+    "sg:postcode":"1933",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801933,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZduz9908vOYi9wZnrpML_50.859558_4.523056@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509602,
+    "wof:geomhash":"da60b39c849a446010be2c1fd0b6acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801933,
+            "region_id":85681731,
+            "venue_id":1058100263
+        }
+    ],
+    "wof:id":1058100263,
+    "wof:lastmodified":1473509602,
+    "wof:name":"Jacobs H",
+    "wof:parent_id":85801933,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.5230560303,
+    50.8595581055,
+    4.5230560303,
+    50.8595581055
+],
+  "geometry": {"coordinates":[4.5230560303,50.8595581055],"type":"Point"}
+}

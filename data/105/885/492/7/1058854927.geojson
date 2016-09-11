@@ -1,0 +1,77 @@
+{
+  "id": 1058854927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4924879074,50.8400611877,4.4924879074,50.8400611877",
+    "geom:latitude":50.840061,
+    "geom:longitude":4.492488,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Raymond Hernalsteen 113",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 784 35 64",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801999,
+        102191581,
+        85632997,
+        404227357,
+        101755517,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vvJachOOKa9neSdO9VH29_50.840061_4.492488@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543933,
+    "wof:geomhash":"5a0a72b2711dfb4238d046714b74f6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755517,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801999,
+            "region_id":85681731,
+            "venue_id":1058854927
+        }
+    ],
+    "wof:id":1058854927,
+    "wof:lastmodified":1473543933,
+    "wof:name":"De Ton",
+    "wof:parent_id":85801999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.4924879074,
+    50.8400611877,
+    4.4924879074,
+    50.8400611877
+],
+  "geometry": {"coordinates":[4.4924879074,50.8400611877],"type":"Point"}
+}

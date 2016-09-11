@@ -1,0 +1,77 @@
+{
+  "id": 1041680231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6543860435,51.0558891296,3.6543860435,51.0558891296",
+    "geom:latitude":51.055889,
+    "geom:longitude":3.654386,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Luchterenkerkweg 96",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 10 31",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NJEmK28TXNZsd1BYNmHGa_51.055889_3.654386@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478528,
+    "wof:geomhash":"3d2a280f7df5d80bc3f22dcb0066a3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1041680231
+        }
+    ],
+    "wof:id":1041680231,
+    "wof:lastmodified":1473478528,
+    "wof:name":"Censatech Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    3.6543860435,
+    51.0558891296,
+    3.6543860435,
+    51.0558891296
+],
+  "geometry": {"coordinates":[3.6543860435,51.0558891296],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1058089589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3353981972,51.1349182129,4.3353981972,51.1349182129",
+    "geom:latitude":51.134918,
+    "geom:longitude":4.335398,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heuvelstraat 221",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 46 31",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b5oua2fvrEAr55ldxW2Mj_51.134918_4.335398@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509136,
+    "wof:geomhash":"1a7dee68dabd5fc0ded30c04718b6693",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1058089589
+        }
+    ],
+    "wof:id":1058089589,
+    "wof:lastmodified":1473509136,
+    "wof:name":"Aerts Bvba",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3353981972,
+    51.1349182129,
+    4.3353981972,
+    51.1349182129
+],
+  "geometry": {"coordinates":[4.3353981972,51.1349182129],"type":"Point"}
+}

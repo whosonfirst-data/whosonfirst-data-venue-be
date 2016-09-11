@@ -1,0 +1,77 @@
+{
+  "id": 1042111203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2896928787,50.8719902039,4.2896928787,50.8719902039",
+    "geom:latitude":50.87199,
+    "geom:longitude":4.289693,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 1434",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 464 25 72",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801195,
+        102191581,
+        85632997,
+        404227357,
+        101755455,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F9R4SuwwxSGqi7TpGf8TE_50.871990_4.289693@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496907,
+    "wof:geomhash":"aaf308e39b8fbf4ef8f974eb1e72d097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801195,
+            "region_id":85681731,
+            "venue_id":1042111203
+        }
+    ],
+    "wof:id":1042111203,
+    "wof:lastmodified":1473496907,
+    "wof:name":"Scan Id",
+    "wof:parent_id":85801195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "data"
+    ]
+},
+  "bbox": [
+    4.2896928787,
+    50.8719902039,
+    4.2896928787,
+    50.8719902039
+],
+  "geometry": {"coordinates":[4.2896928787,50.8719902039],"type":"Point"}
+}

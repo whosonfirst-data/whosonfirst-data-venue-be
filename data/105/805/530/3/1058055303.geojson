@@ -1,0 +1,66 @@
+{
+  "id": 1058055303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4722490311,51.3748512268,4.4722490311,51.3748512268",
+    "geom:latitude":51.374851,
+    "geom:longitude":4.472249,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kapellensteenweg 348",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 93 92",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801503,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49khtthAYJDfUDjj0qIiw5_51.374851_4.472249@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507736,
+    "wof:geomhash":"ee398544fdafe1bd6f35e5b44e0aa373",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801503,
+            "region_id":85681715,
+            "venue_id":1058055303
+        }
+    ],
+    "wof:id":1058055303,
+    "wof:lastmodified":1473507736,
+    "wof:name":"Klimop",
+    "wof:parent_id":85801503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4722490311,
+    51.3748512268,
+    4.4722490311,
+    51.3748512268
+],
+  "geometry": {"coordinates":[4.4722490311,51.3748512268],"type":"Point"}
+}

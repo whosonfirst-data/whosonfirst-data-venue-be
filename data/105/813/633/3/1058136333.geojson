@@ -1,0 +1,81 @@
+{
+  "id": 1058136333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4856200218,50.8449516296,4.4856200218,50.8449516296",
+    "geom:latitude":50.844952,
+    "geom:longitude":4.48562,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Louis Marcelis 69",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 32 14",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fHfy7Ep2VaAak4ue9MFqj_50.844952_4.485620@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511293,
+    "wof:geomhash":"9aab7f89c4f5d3dcfeeceed6493ad5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1058136333
+        }
+    ],
+    "wof:id":1058136333,
+    "wof:lastmodified":1473511293,
+    "wof:name":"Atelier Verbist",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.4856200218,
+    50.8449516296,
+    4.4856200218,
+    50.8449516296
+],
+  "geometry": {"coordinates":[4.4856200218,50.8449516296],"type":"Point"}
+}

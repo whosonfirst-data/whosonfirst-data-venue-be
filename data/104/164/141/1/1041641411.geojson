@@ -1,0 +1,79 @@
+{
+  "id": 1041641411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3259129524,50.7856559753,4.3259129524,50.7856559753",
+    "geom:latitude":50.785656,
+    "geom:longitude":4.325913,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Beersel 33",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 67 40",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FlDWVbGI39npO96I4pfXB_50.785656_4.325913@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476976,
+    "wof:geomhash":"bcd6fcc7a2bb231986f020b297322623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041641411
+        }
+    ],
+    "wof:id":1041641411,
+    "wof:lastmodified":1473476976,
+    "wof:name":"Parkintex-palomo Lopez",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3259129524,
+    50.7856559753,
+    4.3259129524,
+    50.7856559753
+],
+  "geometry": {"coordinates":[4.3259129524,50.7856559753],"type":"Point"}
+}

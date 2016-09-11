@@ -1,0 +1,77 @@
+{
+  "id": 1042063547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3576321602,50.82081604,4.3576321602,50.82081604",
+    "geom:latitude":50.820816,
+    "geom:longitude":4.357632,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 469",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 66 84",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58WgFaVIXPeE1TN5qnVqNA_50.820816_4.357632@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494811,
+    "wof:geomhash":"0cdee16f349391b6a102ab2a032892dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042063547
+        }
+    ],
+    "wof:id":1042063547,
+    "wof:lastmodified":1473494811,
+    "wof:name":"Boutry S",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    4.3576321602,
+    50.82081604,
+    4.3576321602,
+    50.82081604
+],
+  "geometry": {"coordinates":[4.3576321602,50.82081604],"type":"Point"}
+}

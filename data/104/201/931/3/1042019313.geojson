@@ -1,0 +1,88 @@
+{
+  "id": 1042019313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3829421997,50.8706741333,4.3829421997,50.8706741333",
+    "geom:latitude":50.870674,
+    "geom:longitude":4.382942,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lambermontlaan 196b29",
+    "sg:city":"Schaarbeek/schaerbeek",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 43 84",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PKjB3MedHbvSuiFQcMfad_50.870674_4.382942@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493029,
+    "wof:geomhash":"8844325414319c4862a6007fcca51468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042019313
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1042019313
+        }
+    ],
+    "wof:id":1042019313,
+    "wof:lastmodified":1473493029,
+    "wof:name":"Imona",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3829421997,
+    50.8706741333,
+    4.3829421997,
+    50.8706741333
+],
+  "geometry": {"coordinates":[4.3829421997,50.8706741333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1058639575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2239830494,51.2041854858,3.2239830494,51.2041854858",
+    "geom:latitude":51.204185,
+    "geom:longitude":3.223983,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mariastraat 38",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 99 73",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I8U3yKDr6oSxC3QOGCtvE_51.204185_3.223983@1306268545"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534474,
+    "wof:geomhash":"75474706f35c4e1af30784b4dc8c87d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058639575
+        }
+    ],
+    "wof:id":1058639575,
+    "wof:lastmodified":1473534474,
+    "wof:name":"The Coffee Link",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2239830494,
+    51.2041854858,
+    3.2239830494,
+    51.2041854858
+],
+  "geometry": {"coordinates":[3.2239830494,51.2041854858],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042247471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2056889534,51.1935958862,3.2056889534,51.1935958862",
+    "geom:latitude":51.193596,
+    "geom:longitude":3.205689,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barri\u00e8restraat 19",
+    "sg:city":"Brugge (sint-michiels)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 84 85",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "consulate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WC7lpOyymywX4616eqWkA_51.193596_3.205689@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504143,
+    "wof:geomhash":"9db1512ff80250516e967e8fbb9bfba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1042247471
+        }
+    ],
+    "wof:id":1042247471,
+    "wof:lastmodified":1473504143,
+    "wof:name":"Spanje (consulaten)",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulate"
+    ]
+},
+  "bbox": [
+    3.2056889534,
+    51.1935958862,
+    3.2056889534,
+    51.1935958862
+],
+  "geometry": {"coordinates":[3.2056889534,51.1935958862],"type":"Point"}
+}

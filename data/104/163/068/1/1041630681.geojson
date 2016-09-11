@@ -1,0 +1,79 @@
+{
+  "id": 1041630681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.622189045,50.662689209,5.622189045,50.662689209",
+    "geom:latitude":50.662689,
+    "geom:longitude":5.622189,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"En Grande Foxhalle 69",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 240 28 24",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f418cp0St72gU5UtkgC4H_50.662689_5.622189@1306268504"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476546,
+    "wof:geomhash":"48fb8ff8bc8bf7ca729a3dfcdae15960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041630681
+        }
+    ],
+    "wof:id":1041630681,
+    "wof:lastmodified":1473476546,
+    "wof:name":"Clabeck Metalform Sa",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    5.622189045,
+    50.662689209,
+    5.622189045,
+    50.662689209
+],
+  "geometry": {"coordinates":[5.622189045,50.662689209],"type":"Point"}
+}

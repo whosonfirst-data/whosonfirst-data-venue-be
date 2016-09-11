@@ -1,0 +1,77 @@
+{
+  "id": 1058568085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3153910637,50.8415031433,4.3153910637,50.8415031433",
+    "geom:latitude":50.841503,
+    "geom:longitude":4.315391,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Birmingham 289",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 520 88 19",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801031,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZ6dwm1SVhgyzeHJVKT6w_50.841503_4.315391@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531217,
+    "wof:geomhash":"1abcb27c463092168595ceea3f48f7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801031,
+            "region_id":85681713,
+            "venue_id":1058568085
+        }
+    ],
+    "wof:id":1058568085,
+    "wof:lastmodified":1473531217,
+    "wof:name":"Sonna Lionnel",
+    "wof:parent_id":85801031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3153910637,
+    50.8415031433,
+    4.3153910637,
+    50.8415031433
+],
+  "geometry": {"coordinates":[4.3153910637,50.8415031433],"type":"Point"}
+}

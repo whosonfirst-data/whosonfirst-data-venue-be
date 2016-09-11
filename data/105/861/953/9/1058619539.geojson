@@ -1,0 +1,79 @@
+{
+  "id": 1058619539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.366464138,50.8505516052,4.366464138,50.8505516052",
+    "geom:latitude":50.850552,
+    "geom:longitude":4.366464,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Gouvernement Provisoire 34",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 217 87 72",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hg8RXnNKCCLZQi707BqeG_50.850552_4.366464@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533552,
+    "wof:geomhash":"57f6da47cc732742a152673312193824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058619539
+        }
+    ],
+    "wof:id":1058619539,
+    "wof:lastmodified":1473533552,
+    "wof:name":"Patronato Ital Uil",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.366464138,
+    50.8505516052,
+    4.366464138,
+    50.8505516052
+],
+  "geometry": {"coordinates":[4.366464138,50.8505516052],"type":"Point"}
+}

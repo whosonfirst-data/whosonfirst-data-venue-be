@@ -1,0 +1,77 @@
+{
+  "id": 1042207243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5101327896,50.6677474976,5.5101327896,50.6677474976",
+    "geom:latitude":50.667747,
+    "geom:longitude":5.510133,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Sart 24",
+    "sg:city":"Ans (alleur)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 06 10",
+    "sg:postcode":"4432",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_189TvdT627Xya3ASt55KOj_50.667747_5.510133@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502304,
+    "wof:geomhash":"99b773c289b5664a237906b9323b2a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1042207243
+        }
+    ],
+    "wof:id":1042207243,
+    "wof:lastmodified":1473502304,
+    "wof:name":"Prieto A",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.5101327896,
+    50.6677474976,
+    5.5101327896,
+    50.6677474976
+],
+  "geometry": {"coordinates":[5.5101327896,50.6677474976],"type":"Point"}
+}

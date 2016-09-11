@@ -1,0 +1,79 @@
+{
+  "id": 1041974241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.354932785,50.8032569885,4.354932785,50.8032569885",
+    "geom:latitude":50.803257,
+    "geom:longitude":4.354933,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Groeselenberg 150",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 13 14",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "beaker",
+        "bottle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4juI9YW5PtyhX4rbUobxay_50.803257_4.354933@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491273,
+    "wof:geomhash":"2243a0827ee34717a74d2cfff09891d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041974241
+        }
+    ],
+    "wof:id":1041974241,
+    "wof:lastmodified":1473491273,
+    "wof:name":"Dejean (maison)",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beaker",
+        "bottle"
+    ]
+},
+  "bbox": [
+    4.354932785,
+    50.8032569885,
+    4.354932785,
+    50.8032569885
+],
+  "geometry": {"coordinates":[4.354932785,50.8032569885],"type":"Point"}
+}

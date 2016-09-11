@@ -1,0 +1,77 @@
+{
+  "id": 1041676643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4675102234,50.8420677185,4.4675102234,50.8420677185",
+    "geom:latitude":50.842068,
+    "geom:longitude":4.46751,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'oppem 38",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 731 86 37",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MZtCXmxha9dpsS9lqFHHg_50.842068_4.467510@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478389,
+    "wof:geomhash":"2aa43a21c9d2f092744487e3ba4ccffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1041676643
+        }
+    ],
+    "wof:id":1041676643,
+    "wof:lastmodified":1473478389,
+    "wof:name":"Mathieu M",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.4675102234,
+    50.8420677185,
+    4.4675102234,
+    50.8420677185
+],
+  "geometry": {"coordinates":[4.4675102234,50.8420677185],"type":"Point"}
+}

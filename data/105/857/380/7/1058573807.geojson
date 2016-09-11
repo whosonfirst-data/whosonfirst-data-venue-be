@@ -1,0 +1,77 @@
+{
+  "id": 1058573807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5112757683,51.3148078918,4.5112757683,51.3148078918",
+    "geom:latitude":51.314808,
+    "geom:longitude":4.511276,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zilverberkenlei 1",
+    "sg:city":"Brasschaat",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 663 09 56",
+    "sg:postcode":"2930",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801539,
+        102191581,
+        85632997,
+        404227357,
+        101755759,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e1qIZ0rPBFe2LMymWzmt8_51.314808_4.511276@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531470,
+    "wof:geomhash":"a3be6e2014aebca5c162a7df4207b2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715,
+            "venue_id":1058573807
+        }
+    ],
+    "wof:id":1058573807,
+    "wof:lastmodified":1473531470,
+    "wof:name":"Wauters Ingrid",
+    "wof:parent_id":85801539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.5112757683,
+    51.3148078918,
+    4.5112757683,
+    51.3148078918
+],
+  "geometry": {"coordinates":[4.5112757683,51.3148078918],"type":"Point"}
+}

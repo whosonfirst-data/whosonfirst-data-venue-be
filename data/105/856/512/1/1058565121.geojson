@@ -1,0 +1,77 @@
+{
+  "id": 1058565121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3919529915,50.8351707458,4.3919529915,50.8351707458",
+    "geom:latitude":50.835171,
+    "geom:longitude":4.391953,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Champ Du Roi 80",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 95 96",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B8KI6WwpsZlr0Ui9vzfmo_50.835171_4.391953@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531081,
+    "wof:geomhash":"ecbabd871a01cb953e2b56082c64dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058565121
+        }
+    ],
+    "wof:id":1058565121,
+    "wof:lastmodified":1473531081,
+    "wof:name":"Paulus Y",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3919529915,
+    50.8351707458,
+    4.3919529915,
+    50.8351707458
+],
+  "geometry": {"coordinates":[4.3919529915,50.8351707458],"type":"Point"}
+}

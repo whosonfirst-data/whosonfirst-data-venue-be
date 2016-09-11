@@ -1,0 +1,79 @@
+{
+  "id": 1041881191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7585918903,51.0387115479,3.7585918903,51.0387115479",
+    "geom:latitude":51.038712,
+    "geom:longitude":3.758592,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jozef Wautersstraat 55",
+    "sg:city":"Gent (gentbrugge)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 19 89",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I73gpexKUehMf15EnmdIO_51.038712_3.758592@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487122,
+    "wof:geomhash":"19220f86c3d5b6f538b0e61602ce9fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041881191
+        }
+    ],
+    "wof:id":1041881191,
+    "wof:lastmodified":1473487122,
+    "wof:name":"Edelweiss Bakkerij",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7585918903,
+    51.0387115479,
+    3.7585918903,
+    51.0387115479
+],
+  "geometry": {"coordinates":[3.7585918903,51.0387115479],"type":"Point"}
+}

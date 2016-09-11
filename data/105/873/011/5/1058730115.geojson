@@ -1,0 +1,83 @@
+{
+  "id": 1058730115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4159789085,51.2100982666,4.4159789085,51.2100982666",
+    "geom:latitude":51.210098,
+    "geom:longitude":4.415979,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Eycklei 42 Box 8",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 239 11 68",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "safety",
+        "collective",
+        "individual",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RXHlK9fxS7b9Sl31zaY6J_51.210098_4.415979@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538455,
+    "wof:geomhash":"8c02d1fb48373738d59693f15fc8afa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058730115
+        }
+    ],
+    "wof:id":1058730115,
+    "wof:lastmodified":1473538455,
+    "wof:name":"Survival Security Coat",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "collective",
+        "individual",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4159789085,
+    51.2100982666,
+    4.4159789085,
+    51.2100982666
+],
+  "geometry": {"coordinates":[4.4159789085,51.2100982666],"type":"Point"}
+}

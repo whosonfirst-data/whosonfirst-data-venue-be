@@ -1,0 +1,77 @@
+{
+  "id": 1041568385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3902487755,50.8307189941,4.3902487755,50.8307189941",
+    "geom:latitude":50.830719,
+    "geom:longitude":4.390249,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'auderghem 342-344",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 647 43 93",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42WpT9SXoFB3UXPUkEKd2i_50.830719_4.390249@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473977,
+    "wof:geomhash":"97224e8af776a505356e38c1d8d3c215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041568385
+        }
+    ],
+    "wof:id":1041568385,
+    "wof:lastmodified":1473473977,
+    "wof:name":"Pharmacie De Le Chasse Sa",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3902487755,
+    50.8307189941,
+    4.3902487755,
+    50.8307189941
+],
+  "geometry": {"coordinates":[4.3902487755,50.8307189941],"type":"Point"}
+}

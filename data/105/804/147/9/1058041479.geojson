@@ -1,0 +1,73 @@
+{
+  "id": 1058041479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4704899788,51.1441497803,4.4704899788,51.1441497803",
+    "geom:latitude":51.14415,
+    "geom:longitude":4.47049,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dennenlaan 74",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 450 83 70",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30dooqD0bxLDmlno28flX3_51.144150_4.470490@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507165,
+    "wof:geomhash":"e7581bf9ef1fb911a1bd289fa12553a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1058041479
+        }
+    ],
+    "wof:id":1058041479,
+    "wof:lastmodified":1473507165,
+    "wof:name":"Afic Nv",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    4.4704899788,
+    51.1441497803,
+    4.4704899788,
+    51.1441497803
+],
+  "geometry": {"coordinates":[4.4704899788,51.1441497803],"type":"Point"}
+}

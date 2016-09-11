@@ -1,0 +1,79 @@
+{
+  "id": 1058662349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3438000679,50.8230552673,4.3438000679,50.8230552673",
+    "geom:latitude":50.823055,
+    "geom:longitude":4.3438,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Antoine Br\u00e9art 131",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 38 45",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uLYpH5Pp2FCHqO066E7hr_50.823055_4.343800@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535521,
+    "wof:geomhash":"9c8e91624c4d3865471e4c23da6639c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058662349
+        }
+    ],
+    "wof:id":1058662349,
+    "wof:lastmodified":1473535521,
+    "wof:name":"R\u00e9sidence Du Parc",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.3438000679,
+    50.8230552673,
+    4.3438000679,
+    50.8230552673
+],
+  "geometry": {"coordinates":[4.3438000679,50.8230552673],"type":"Point"}
+}

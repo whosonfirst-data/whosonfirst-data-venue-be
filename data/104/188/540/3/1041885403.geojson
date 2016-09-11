@@ -1,0 +1,79 @@
+{
+  "id": 1041885403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7443540096,51.0374488831,3.7443540096,51.0374488831",
+    "geom:latitude":51.037449,
+    "geom:longitude":3.744354,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoveniersstraat 24",
+    "sg:city":"Gent (ledeberg)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 22 71",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AGFWwMACcRWkNa2QDNcRC_51.037449_3.744354@1306268356"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487304,
+    "wof:geomhash":"8f6cdeb06688a64eed8f6abb603f37b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041885403
+        }
+    ],
+    "wof:id":1041885403,
+    "wof:lastmodified":1473487304,
+    "wof:name":"Verzelen Koen Bvba",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7443540096,
+    51.0374488831,
+    3.7443540096,
+    51.0374488831
+],
+  "geometry": {"coordinates":[3.7443540096,51.0374488831],"type":"Point"}
+}

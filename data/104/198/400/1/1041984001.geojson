@@ -1,0 +1,77 @@
+{
+  "id": 1041984001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4628539085,50.8278884888,4.4628539085,50.8278884888",
+    "geom:latitude":50.827888,
+    "geom:longitude":4.462854,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Parvis Sainte-alix 43",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 92 43",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801333,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HUvcM1cCG7MzluWXgIarq_50.827888_4.462854@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491669,
+    "wof:geomhash":"ca9abafe0962351e173c344289e2e310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801333,
+            "region_id":85681713,
+            "venue_id":1041984001
+        }
+    ],
+    "wof:id":1041984001,
+    "wof:lastmodified":1473491669,
+    "wof:name":"Greuse",
+    "wof:parent_id":85801333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.4628539085,
+    50.8278884888,
+    4.4628539085,
+    50.8278884888
+],
+  "geometry": {"coordinates":[4.4628539085,50.8278884888],"type":"Point"}
+}

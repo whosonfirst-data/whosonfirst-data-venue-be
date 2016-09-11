@@ -1,0 +1,77 @@
+{
+  "id": 1042062209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5769300461,50.6440086365,5.5769300461,50.6440086365",
+    "geom:latitude":50.644009,
+    "geom:longitude":5.57693,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue L\u00e9opold 40",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 00 36",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c8JEceRGgBLGpNk4iv2ON_50.644009_5.576930@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494760,
+    "wof:geomhash":"f40910db4e0097ac55687d2733ceedee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1042062209
+        }
+    ],
+    "wof:id":1042062209,
+    "wof:lastmodified":1473494760,
+    "wof:name":"Vandendyck P",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.5769300461,
+    50.6440086365,
+    5.5769300461,
+    50.6440086365
+],
+  "geometry": {"coordinates":[5.5769300461,50.6440086365],"type":"Point"}
+}

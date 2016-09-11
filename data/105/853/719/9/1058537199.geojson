@@ -1,0 +1,79 @@
+{
+  "id": 1058537199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3995919228,50.9150123596,4.3995919228,50.9150123596",
+    "geom:latitude":50.915012,
+    "geom:longitude":4.399592,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Medialaan 32 Box 4",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 86 37",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801947,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q1Mm2R1XilPD4Nr92rX66_50.915012_4.399592@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529821,
+    "wof:geomhash":"0ebe760f299618f1ef5672b3e4a2fc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801947,
+            "region_id":85681731,
+            "venue_id":1058537199
+        }
+    ],
+    "wof:id":1058537199,
+    "wof:lastmodified":1473529821,
+    "wof:name":"Almirall Prodesfarma Nv",
+    "wof:parent_id":85801947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    4.3995919228,
+    50.9150123596,
+    4.3995919228,
+    50.9150123596
+],
+  "geometry": {"coordinates":[4.3995919228,50.9150123596],"type":"Point"}
+}

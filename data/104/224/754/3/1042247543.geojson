@@ -1,0 +1,79 @@
+{
+  "id": 1042247543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3523249626,50.8772087097,4.3523249626,50.8772087097",
+    "geom:latitude":50.877209,
+    "geom:longitude":4.352325,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue St\u00e9phanie 98",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 426 64 00",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pleating",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7akvt8tKcmbobIdDxW0bYw_50.877209_4.352325@1306268421"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504145,
+    "wof:geomhash":"966f4ac610d58eec2c45448df8e54d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1042247543
+        }
+    ],
+    "wof:id":1042247543,
+    "wof:lastmodified":1473504145,
+    "wof:name":"Atelier De Broder Virka",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pleating",
+        "embroidery"
+    ]
+},
+  "bbox": [
+    4.3523249626,
+    50.8772087097,
+    4.3523249626,
+    50.8772087097
+],
+  "geometry": {"coordinates":[4.3523249626,50.8772087097],"type":"Point"}
+}

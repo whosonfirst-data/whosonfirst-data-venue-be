@@ -1,0 +1,85 @@
+{
+  "id": 1058178459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3666582108,50.8104438782,4.3666582108,50.8104438782",
+    "geom:latitude":50.810444,
+    "geom:longitude":4.366658,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Montjoie 55",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 31 05",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TsqnfnIRXdsYrwcxSWGdj_50.810444_4.366658@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513266,
+    "wof:geomhash":"1b0d1281194b633ef6bc1baef8ce30fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058178459
+        }
+    ],
+    "wof:id":1058178459,
+    "wof:lastmodified":1473513266,
+    "wof:name":"Climat Confort Sc",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.3666582108,
+    50.8104438782,
+    4.3666582108,
+    50.8104438782
+],
+  "geometry": {"coordinates":[4.3666582108,50.8104438782],"type":"Point"}
+}

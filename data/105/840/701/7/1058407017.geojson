@@ -1,0 +1,83 @@
+{
+  "id": 1058407017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3763599396,51.1692008972,4.3763599396,51.1692008972",
+    "geom:latitude":51.169201,
+    "geom:longitude":4.37636,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Legerstr 43",
+    "sg:city":"Wilrijk",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 830 48 44",
+    "sg:postcode":"2610",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "metallurgy",
+        "pipe",
+        "metalworking",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801679,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40jNYchAVcYZ8GzNDHuL3t_51.169201_4.376360@1306268504"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523548,
+    "wof:geomhash":"710d6380c53df4ef9c6c4accc5d70fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801679,
+            "region_id":85681715,
+            "venue_id":1058407017
+        }
+    ],
+    "wof:id":1058407017,
+    "wof:lastmodified":1473523548,
+    "wof:name":"Siebens Spoorbouw Bvba",
+    "wof:parent_id":85801679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "pipe",
+        "metalworking",
+        "sheet"
+    ]
+},
+  "bbox": [
+    4.3763599396,
+    51.1692008972,
+    4.3763599396,
+    51.1692008972
+],
+  "geometry": {"coordinates":[4.3763599396,51.1692008972],"type":"Point"}
+}

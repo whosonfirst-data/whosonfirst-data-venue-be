@@ -1,0 +1,79 @@
+{
+  "id": 1042065563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2171549797,51.2142372131,3.2171549797,51.2142372131",
+    "geom:latitude":51.214237,
+    "geom:longitude":3.217155,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ezelstraat 92",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 60 52",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XLXNazhj1Tv8aDQ8W44ou_51.214237_3.217155@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494894,
+    "wof:geomhash":"48caf0ee8786878d69fa641eef31fe44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1042065563
+        }
+    ],
+    "wof:id":1042065563,
+    "wof:lastmodified":1473494894,
+    "wof:name":"Spegelaere Nv",
+    "wof:parent_id":85862117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2171549797,
+    51.2142372131,
+    3.2171549797,
+    51.2142372131
+],
+  "geometry": {"coordinates":[3.2171549797,51.2142372131],"type":"Point"}
+}

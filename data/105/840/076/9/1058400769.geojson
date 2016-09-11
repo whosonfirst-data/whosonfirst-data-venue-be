@@ -1,0 +1,77 @@
+{
+  "id": 1058400769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3354840279,50.8556747437,4.3354840279,50.8556747437",
+    "geom:latitude":50.855675,
+    "geom:longitude":4.335484,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Gand 133",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 69 69",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MxjvpgB7ezSPnw07E4hAs_50.855675_4.335484@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523276,
+    "wof:geomhash":"f9dc577bae310aa7c4a733e34e0d11fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058400769
+        }
+    ],
+    "wof:id":1058400769,
+    "wof:lastmodified":1473523276,
+    "wof:name":"Groupement De M\u00e9decine Sp\u00e9cialis\u00e9",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.3354840279,
+    50.8556747437,
+    4.3354840279,
+    50.8556747437
+],
+  "geometry": {"coordinates":[4.3354840279,50.8556747437],"type":"Point"}
+}

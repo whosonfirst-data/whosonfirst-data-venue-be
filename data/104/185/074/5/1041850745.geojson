@@ -1,0 +1,71 @@
+{
+  "id": 1041850745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5171561241,50.721157074,4.5171561241,50.721157074",
+    "geom:latitude":50.721157,
+    "geom:longitude":4.517156,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Colline Du Glain 31",
+    "sg:city":"Rixensart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 54 99",
+    "sg:postcode":"1330",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63QWCJG2xC17XMDZYUjHDX_50.721157_4.517156@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485841,
+    "wof:geomhash":"4912e74e8c691a76c0b1f931689ed47b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041850745
+        }
+    ],
+    "wof:id":1041850745,
+    "wof:lastmodified":1473485841,
+    "wof:name":"Vocar Sprl",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.5171561241,
+    50.721157074,
+    4.5171561241,
+    50.721157074
+],
+  "geometry": {"coordinates":[4.5171561241,50.721157074],"type":"Point"}
+}

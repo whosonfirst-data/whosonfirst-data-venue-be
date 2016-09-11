@@ -1,0 +1,77 @@
+{
+  "id": 1041973453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3465600014,50.8532905579,4.3465600014,50.8532905579",
+    "geom:latitude":50.853291,
+    "geom:longitude":4.34656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Aux Briques 82",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 70 32",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GDyg4GidD2Z5tBxlZ4JQc_50.853291_4.346560@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491245,
+    "wof:geomhash":"e3185f361dda5798efa6d53dc7f82439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041973453
+        }
+    ],
+    "wof:id":1041973453,
+    "wof:lastmodified":1473491245,
+    "wof:name":"Visnet (librairie Du)",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3465600014,
+    50.8532905579,
+    4.3465600014,
+    50.8532905579
+],
+  "geometry": {"coordinates":[4.3465600014,50.8532905579],"type":"Point"}
+}

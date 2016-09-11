@@ -1,0 +1,83 @@
+{
+  "id": 1042125159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4763450623,50.8472061157,4.4763450623,50.8472061157",
+    "geom:latitude":50.847206,
+    "geom:longitude":4.476345,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Frans Landrain 23",
+    "sg:city":"Wezembeek-oppem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 687 66 38",
+    "sg:postcode":"1970",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801863,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oRwzphlbBRbfZWr4LcEBm_50.847206_4.476345@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497665,
+    "wof:geomhash":"c5bcbea7dc9b42b52d7ad53f97290e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1042125159
+        }
+    ],
+    "wof:id":1042125159,
+    "wof:lastmodified":1473497665,
+    "wof:name":"Titi Sympa",
+    "wof:parent_id":85801863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.4763450623,
+    50.8472061157,
+    4.4763450623,
+    50.8472061157
+],
+  "geometry": {"coordinates":[4.4763450623,50.8472061157],"type":"Point"}
+}

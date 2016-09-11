@@ -1,0 +1,79 @@
+{
+  "id": 1058033595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7218229771,51.0547065735,3.7218229771,51.0547065735",
+    "geom:latitude":51.054707,
+    "geom:longitude":3.721823,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Korenmarkt 17",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 93 82",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VpGCgIkfmpS65uMS2Vo4Y_51.054707_3.721823@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506841,
+    "wof:geomhash":"06ac544ec8c6dde0e2030a1511728689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058033595
+        }
+    ],
+    "wof:id":1058033595,
+    "wof:lastmodified":1473506841,
+    "wof:name":"Restaurant Peking",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    3.7218229771,
+    51.0547065735,
+    3.7218229771,
+    51.0547065735
+],
+  "geometry": {"coordinates":[3.7218229771,51.0547065735],"type":"Point"}
+}

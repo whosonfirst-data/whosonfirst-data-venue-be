@@ -1,0 +1,79 @@
+{
+  "id": 1042062961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3619771004,50.9115829468,4.3619771004,50.9115829468",
+    "geom:latitude":50.911583,
+    "geom:longitude":4.361977,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nijverheidslaan 2",
+    "sg:city":"Strombeek-bever",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 263 01 70",
+    "sg:postcode":"1853",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "children's",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wEhjItRXvaJRcsBnFVPK6_50.911583_4.361977@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494789,
+    "wof:geomhash":"fcd1fe50bc1226d7862d44b8e7f6c1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1042062961
+        }
+    ],
+    "wof:id":1042062961,
+    "wof:lastmodified":1473494789,
+    "wof:name":"Schiesser International Nv",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "clothing"
+    ]
+},
+  "bbox": [
+    4.3619771004,
+    50.9115829468,
+    4.3619771004,
+    50.9115829468
+],
+  "geometry": {"coordinates":[4.3619771004,50.9115829468],"type":"Point"}
+}

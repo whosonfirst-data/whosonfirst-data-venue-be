@@ -1,0 +1,79 @@
+{
+  "id": 1058324161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1925599575,51.2060813904,3.1925599575,51.2060813904",
+    "geom:latitude":51.206081,
+    "geom:longitude":3.19256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Legeweg 176",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 04 40",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "laboratory",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66cVbQETCqY3wd3TGVjVfj_51.206081_3.192560@1306268488"
+    },
+    "wof:country":"BE",
+    "wof:created":1473519702,
+    "wof:geomhash":"151034652d2f23c9f7b3625d6b56e9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058324161
+        }
+    ],
+    "wof:id":1058324161,
+    "wof:lastmodified":1473519702,
+    "wof:name":"Medisch Laboratorium D Van Waes",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "medical"
+    ]
+},
+  "bbox": [
+    3.1925599575,
+    51.2060813904,
+    3.1925599575,
+    51.2060813904
+],
+  "geometry": {"coordinates":[3.1925599575,51.2060813904],"type":"Point"}
+}

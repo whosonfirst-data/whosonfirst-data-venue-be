@@ -1,0 +1,77 @@
+{
+  "id": 1058089521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3347029686,50.8615341187,4.3347029686,50.8615341187",
+    "geom:latitude":50.861534,
+    "geom:longitude":4.334703,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 197",
+    "sg:city":"Bruxelles (koekelberg)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 61 77",
+    "sg:postcode":"1081",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_164xG7GKSrUFNI4FM8uZmo_50.861534_4.334703@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509133,
+    "wof:geomhash":"91870c0b12d86529a7408fed37166b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1058089521
+        }
+    ],
+    "wof:id":1058089521,
+    "wof:lastmodified":1473509133,
+    "wof:name":"A.b.s.",
+    "wof:parent_id":85801385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3347029686,
+    50.8615341187,
+    4.3347029686,
+    50.8615341187
+],
+  "geometry": {"coordinates":[4.3347029686,50.8615341187],"type":"Point"}
+}

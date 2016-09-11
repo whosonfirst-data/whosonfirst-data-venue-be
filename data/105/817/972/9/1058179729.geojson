@@ -1,0 +1,85 @@
+{
+  "id": 1058179729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4703931808,50.8594856262,4.4703931808,50.8594856262",
+    "geom:latitude":50.859486,
+    "geom:longitude":4.470393,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Pinsons 42",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 12 48",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801015,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZlkAcJvvVPpZypVoUuqsz_50.859486_4.470393@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513326,
+    "wof:geomhash":"737d2503989c96bca4d144dbadccde7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801015,
+            "region_id":85681731,
+            "venue_id":1058179729
+        }
+    ],
+    "wof:id":1058179729,
+    "wof:lastmodified":1473513326,
+    "wof:name":"Vanhemelrijck F",
+    "wof:parent_id":85801015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4703931808,
+    50.8594856262,
+    4.4703931808,
+    50.8594856262
+],
+  "geometry": {"coordinates":[4.4703931808,50.8594856262],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1058549257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3586759567,50.8172264099,4.3586759567,50.8172264099",
+    "geom:latitude":50.817226,
+    "geom:longitude":4.358676,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean-baptiste Colyns 77",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 346 13 53",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zO3RYwOGtEakPGgaFZfqV_50.817226_4.358676@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530331,
+    "wof:geomhash":"3e5dae52893e85d61dd5c444b5570cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058549257
+        }
+    ],
+    "wof:id":1058549257,
+    "wof:lastmodified":1473530331,
+    "wof:name":"Braconnier Christine",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3586759567,
+    50.8172264099,
+    4.3586759567,
+    50.8172264099
+],
+  "geometry": {"coordinates":[4.3586759567,50.8172264099],"type":"Point"}
+}

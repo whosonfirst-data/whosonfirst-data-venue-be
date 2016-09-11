@@ -1,0 +1,83 @@
+{
+  "id": 1041573943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5790710449,50.6456718445,5.5790710449,50.6456718445",
+    "geom:latitude":50.645672,
+    "geom:longitude":5.579071,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poti\u00e9rue 5",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 221 85 06",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ADRlMaedDE9f1ePQhm4iI_50.645672_5.579071@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474207,
+    "wof:geomhash":"cc5f14fc26c891812d5a21b716203f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1041573943
+        }
+    ],
+    "wof:id":1041573943,
+    "wof:lastmodified":1473474207,
+    "wof:name":"Mini-cr\u00e8ches",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    5.5790710449,
+    50.6456718445,
+    5.5790710449,
+    50.6456718445
+],
+  "geometry": {"coordinates":[5.5790710449,50.6456718445],"type":"Point"}
+}

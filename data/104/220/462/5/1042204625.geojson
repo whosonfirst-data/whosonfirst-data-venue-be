@@ -1,0 +1,77 @@
+{
+  "id": 1042204625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5178050995,51.1993103027,4.5178050995,51.1993103027",
+    "geom:latitude":51.19931,
+    "geom:longitude":4.517805,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-damiaanstraat 142",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 354 28 83",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22RSDGER1KSzKGTeNeJZhO_51.199310_4.517805@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502200,
+    "wof:geomhash":"f61a18683ffccdc56e2aa772f91a07f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1042204625
+        }
+    ],
+    "wof:id":1042204625,
+    "wof:lastmodified":1473502200,
+    "wof:name":"De Corre",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.5178050995,
+    51.1993103027,
+    4.5178050995,
+    51.1993103027
+],
+  "geometry": {"coordinates":[4.5178050995,51.1993103027],"type":"Point"}
+}

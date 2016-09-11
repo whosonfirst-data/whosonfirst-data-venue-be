@@ -1,0 +1,77 @@
+{
+  "id": 1041971783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6581439972,50.6705093384,5.6581439972,50.6705093384",
+    "geom:latitude":50.670509,
+    "geom:longitude":5.658144,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Pont De Wandre 80",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 63 21",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kaj4YDM0eOHH13KghmkCu_50.670509_5.658144@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491077,
+    "wof:geomhash":"fb9d4277b0e72f12f02985abd658bcc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1041971783
+        }
+    ],
+    "wof:id":1041971783,
+    "wof:lastmodified":1473491077,
+    "wof:name":"Genco-delage",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.6581439972,
+    50.6705093384,
+    5.6581439972,
+    50.6705093384
+],
+  "geometry": {"coordinates":[5.6581439972,50.6705093384],"type":"Point"}
+}

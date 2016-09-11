@@ -1,0 +1,79 @@
+{
+  "id": 1041606211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4088549614,50.8277359009,4.4088549614,50.8277359009",
+    "geom:latitude":50.827736,
+    "geom:longitude":4.408855,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue El\u00e9onore 23",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 84 54",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mCrajfL9QzFi2djLRmmyq_50.827736_4.408855@1306268461"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475563,
+    "wof:geomhash":"82331373dd5b18409299003f7acfe611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1041606211
+        }
+    ],
+    "wof:id":1041606211,
+    "wof:lastmodified":1473475563,
+    "wof:name":"Lommel B",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4088549614,
+    50.8277359009,
+    4.4088549614,
+    50.8277359009
+],
+  "geometry": {"coordinates":[4.4088549614,50.8277359009],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041913033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3521399498,50.8454742432,4.3521399498,50.8454742432",
+    "geom:latitude":50.845474,
+    "geom:longitude":4.35214,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Violette",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 511 14 91",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "article",
+        "baptismal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sFDTIa5XQAcVNNf866YNZ_50.845474_4.352140@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488436,
+    "wof:geomhash":"1d14fdad183ae4d5c163737ae8049a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041913033
+        }
+    ],
+    "wof:id":1041913033,
+    "wof:lastmodified":1473488436,
+    "wof:name":"Marchal-drag\u00e9es Marchal",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "article",
+        "baptismal"
+    ]
+},
+  "bbox": [
+    4.3521399498,
+    50.8454742432,
+    4.3521399498,
+    50.8454742432
+],
+  "geometry": {"coordinates":[4.3521399498,50.8454742432],"type":"Point"}
+}

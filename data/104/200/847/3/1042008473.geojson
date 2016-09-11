@@ -1,0 +1,77 @@
+{
+  "id": 1042008473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3988981247,51.2117080688,4.3988981247,51.2117080688",
+    "geom:latitude":51.211708,
+    "geom:longitude":4.398898,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kronenburgstraat 82ba",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 289 30 29",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XxX8du4ncyQPHYYf8ghFP_51.211708_4.398898@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492634,
+    "wof:geomhash":"79112f0599f0bd01265b5a63cea9c791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042008473
+        }
+    ],
+    "wof:id":1042008473,
+    "wof:lastmodified":1473492634,
+    "wof:name":"Caf\u00c9 Den Smoeltrekker",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3988981247,
+    51.2117080688,
+    4.3988981247,
+    51.2117080688
+],
+  "geometry": {"coordinates":[4.3988981247,51.2117080688],"type":"Point"}
+}

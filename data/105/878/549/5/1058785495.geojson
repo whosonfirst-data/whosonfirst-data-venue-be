@@ -1,0 +1,78 @@
+{
+  "id": 1058785495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.0628099442,50.6371841431,3.0628099442,50.6371841431",
+    "geom:latitude":50.637184,
+    "geom:longitude":3.06281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place De Strasbourg 10",
+    "sg:city":"Lille",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+33 3 20 15 29 29",
+    "sg:postcode":"59000",
+    "sg:tags":[
+        "slimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2clImVwUAxAYgTGNP0jFdv_50.637184_3.062810@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540883,
+    "wof:geomhash":"dc11602bce0f448c9a76e35d462f5cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1058785495
+        }
+    ],
+    "wof:id":1058785495,
+    "wof:lastmodified":1473540883,
+    "wof:name":"L4s (couvergence)",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slimming"
+    ]
+},
+  "bbox": [
+    3.0628099442,
+    50.6371841431,
+    3.0628099442,
+    50.6371841431
+],
+  "geometry": {"coordinates":[3.0628099442,50.6371841431],"type":"Point"}
+}

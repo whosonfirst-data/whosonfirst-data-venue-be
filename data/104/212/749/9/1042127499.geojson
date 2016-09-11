@@ -1,0 +1,79 @@
+{
+  "id": 1042127499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4547410011,51.3440246582,4.4547410011,51.3440246582",
+    "geom:latitude":51.344025,
+    "geom:longitude":4.454741,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eksterlaan 14",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 66 01",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801235,
+        102191581,
+        85632997,
+        404227357,
+        101839065,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QGEC4pmmlneub3Pd4xD6H_51.344025_4.454741@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497810,
+    "wof:geomhash":"0d55d3fd10aafa32f4e2525e4f7ecffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101839065,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801235,
+            "region_id":85681715,
+            "venue_id":1042127499
+        }
+    ],
+    "wof:id":1042127499,
+    "wof:lastmodified":1473497810,
+    "wof:name":"Hazelof Patrick",
+    "wof:parent_id":85801235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    4.4547410011,
+    51.3440246582,
+    4.4547410011,
+    51.3440246582
+],
+  "geometry": {"coordinates":[4.4547410011,51.3440246582],"type":"Point"}
+}

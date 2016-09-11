@@ -1,0 +1,77 @@
+{
+  "id": 1058646755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2967867851,50.8797264099,4.2967867851,50.8797264099",
+    "geom:latitude":50.879726,
+    "geom:longitude":4.296787,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pontbeek 63",
+    "sg:city":"Asse (zellik)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 370 53 11",
+    "sg:postcode":"1731",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "telephony"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FokHduOj70ZNzUFisHF2L_50.879726_4.296787@1306268546"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534797,
+    "wof:geomhash":"2d0a0fe0a57f79808f7f0c71aec01e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058646755
+        }
+    ],
+    "wof:id":1058646755,
+    "wof:lastmodified":1473534797,
+    "wof:name":"Zenitel",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephony"
+    ]
+},
+  "bbox": [
+    4.2967867851,
+    50.8797264099,
+    4.2967867851,
+    50.8797264099
+],
+  "geometry": {"coordinates":[4.2967867851,50.8797264099],"type":"Point"}
+}

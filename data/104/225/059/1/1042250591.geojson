@@ -1,0 +1,79 @@
+{
+  "id": 1042250591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4254918098,50.8416442871,4.4254918098,50.8416442871",
+    "geom:latitude":50.841644,
+    "geom:longitude":4.425492,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue G\u00e9n\u00e9ral Bastin 20",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 86 03",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "civil",
+        "offices-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801913,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zKfaEvh30Lhf2KjFlr23_50.841644_4.425492@1306268422"
+    },
+    "wof:country":"BE",
+    "wof:created":1473504268,
+    "wof:geomhash":"1f98dc797b3ba67c25fa3378c3b2a7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801913,
+            "region_id":85681713,
+            "venue_id":1042250591
+        }
+    ],
+    "wof:id":1042250591,
+    "wof:lastmodified":1473504268,
+    "wof:name":"Manerco Sprl",
+    "wof:parent_id":85801913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "offices-"
+    ]
+},
+  "bbox": [
+    4.4254918098,
+    50.8416442871,
+    4.4254918098,
+    50.8416442871
+],
+  "geometry": {"coordinates":[4.4254918098,50.8416442871],"type":"Point"}
+}

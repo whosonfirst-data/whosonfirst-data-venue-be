@@ -1,0 +1,79 @@
+{
+  "id": 1041597685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3557448387,50.8399353027,4.3557448387,50.8399353027",
+    "geom:latitude":50.839935,
+    "geom:longitude":4.355745,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Rue Des Sablons",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 513 78 55",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "product",
+        "miscellaneous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WNyG31u7FC66nOhkIGrTW_50.839935_4.355745@1306268447"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475196,
+    "wof:geomhash":"216a38936ce911bf0a0cd19f50392264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041597685
+        }
+    ],
+    "wof:id":1041597685,
+    "wof:lastmodified":1473475196,
+    "wof:name":"Zada Gallery",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "miscellaneous"
+    ]
+},
+  "bbox": [
+    4.3557448387,
+    50.8399353027,
+    4.3557448387,
+    50.8399353027
+],
+  "geometry": {"coordinates":[4.3557448387,50.8399353027],"type":"Point"}
+}

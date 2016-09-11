@@ -1,0 +1,75 @@
+{
+  "id": 1041795065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4872097969,50.8848686218,4.4872097969,50.8848686218",
+    "geom:latitude":50.884869,
+    "geom:longitude":4.48721,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"D' Avignielaan 1",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Bus Stop",
+            "subcategory":"None",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 774 69 00",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "cardiac",
+        "valve",
+        "artificial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801849,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38YAJl1yscnC4hRofSyWnx_50.884869_4.487210@1306268340"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483469,
+    "wof:geomhash":"455fcd38678bae9b08702e6ed472a2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801849,
+            "region_id":85681731,
+            "venue_id":1041795065
+        }
+    ],
+    "wof:id":1041795065,
+    "wof:lastmodified":1473483469,
+    "wof:name":"St Jude Medical Belgium Nv",
+    "wof:parent_id":85801849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiac",
+        "valve",
+        "artificial"
+    ]
+},
+  "bbox": [
+    4.4872097969,
+    50.8848686218,
+    4.4872097969,
+    50.8848686218
+],
+  "geometry": {"coordinates":[4.4872097969,50.8848686218],"type":"Point"}
+}

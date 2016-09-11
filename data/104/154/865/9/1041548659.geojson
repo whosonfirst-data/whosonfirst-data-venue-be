@@ -1,0 +1,83 @@
+{
+  "id": 1041548659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4009571075,50.8970108032,4.4009571075,50.8970108032",
+    "geom:latitude":50.897011,
+    "geom:longitude":4.400957,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Vilvorde 154",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 264 95 95",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801603,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KYF8GlCjm4ySc9UlaGOdW_50.897011_4.400957@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473135,
+    "wof:geomhash":"2347c35379845e10e0a26ba0d4dde8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801603,
+            "region_id":85681713,
+            "venue_id":1041548659
+        }
+    ],
+    "wof:id":1041548659,
+    "wof:lastmodified":1473473135,
+    "wof:name":"J.a.s.",
+    "wof:parent_id":85801603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "washing",
+        "-",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.4009571075,
+    50.8970108032,
+    4.4009571075,
+    50.8970108032
+],
+  "geometry": {"coordinates":[4.4009571075,50.8970108032],"type":"Point"}
+}

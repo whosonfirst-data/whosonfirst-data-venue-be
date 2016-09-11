@@ -1,0 +1,79 @@
+{
+  "id": 1058624819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3691692352,50.8289756775,4.3691692352,50.8289756775",
+    "geom:latitude":50.828976,
+    "geom:longitude":4.369169,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Champs Elys\u00e9es 84",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 78 04 69",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2be2dE5K8Myf7VVAoaLBvU_50.828976_4.369169@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533783,
+    "wof:geomhash":"04f5573ffb56998399f7b8cd0cf55139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058624819
+        }
+    ],
+    "wof:id":1058624819,
+    "wof:lastmodified":1473533783,
+    "wof:name":"Laplace Charlotte",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.3691692352,
+    50.8289756775,
+    4.3691692352,
+    50.8289756775
+],
+  "geometry": {"coordinates":[4.3691692352,50.8289756775],"type":"Point"}
+}

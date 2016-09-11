@@ -1,0 +1,66 @@
+{
+  "id": 1058668927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4981780052,50.7166481018,4.4981780052,50.7166481018",
+    "geom:latitude":50.716648,
+    "geom:longitude":4.498178,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Communale 11",
+    "sg:city":"Rixensart",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 654 07 63",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29HDzPTZnn0mPpclI5JoQx_50.716648_4.498178@1306268550"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535793,
+    "wof:geomhash":"fc823036fd3a4c7c195ce710f7db4d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1058668927
+        }
+    ],
+    "wof:id":1058668927,
+    "wof:lastmodified":1473535793,
+    "wof:name":"Glacier La Gourmandise",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4981780052,
+    50.7166481018,
+    4.4981780052,
+    50.7166481018
+],
+  "geometry": {"coordinates":[4.4981780052,50.7166481018],"type":"Point"}
+}

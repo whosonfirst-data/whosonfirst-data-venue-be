@@ -1,0 +1,81 @@
+{
+  "id": 1042073873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2222809792,51.2068901062,3.2222809792,51.2068901062",
+    "geom:latitude":51.20689,
+    "geom:longitude":3.222281,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenstraat 60",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 98 49",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTsd81B335jWBp1EIBeIz_51.206890_3.222281@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495233,
+    "wof:geomhash":"cdda0adff34f6f389868eed07e4e42bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042073873
+        }
+    ],
+    "wof:id":1042073873,
+    "wof:lastmodified":1473495233,
+    "wof:name":"Morgan",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2222809792,
+    51.2068901062,
+    3.2222809792,
+    51.2068901062
+],
+  "geometry": {"coordinates":[3.2222809792,51.2068901062],"type":"Point"}
+}

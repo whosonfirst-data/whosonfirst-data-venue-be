@@ -1,0 +1,79 @@
+{
+  "id": 1058970163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4567379951,51.1755905151,4.4567379951,51.1755905151",
+    "geom:latitude":51.175591,
+    "geom:longitude":4.456738,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krijgsbaan 194",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 440 51 73",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AywdC5TD17WXMyuBcTtli_51.175591_4.456738@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549217,
+    "wof:geomhash":"3b4b6cce53d739fcdabc03fd26e66d3f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058970163
+        }
+    ],
+    "wof:id":1058970163,
+    "wof:lastmodified":1473549217,
+    "wof:name":"Flanders Fenster Bvba",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    4.4567379951,
+    51.1755905151,
+    4.4567379951,
+    51.1755905151
+],
+  "geometry": {"coordinates":[4.4567379951,51.1755905151],"type":"Point"}
+}

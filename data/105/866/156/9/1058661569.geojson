@@ -1,0 +1,79 @@
+{
+  "id": 1058661569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3070578575,50.8459892273,4.3070578575,50.8459892273",
+    "geom:latitude":50.845989,
+    "geom:longitude":4.307058,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Puccini 22",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 559 71 00",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801705,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19HXlOYJFQg3nbczdZSrCb_50.845989_4.307058@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535486,
+    "wof:geomhash":"48eda3f3efae026b44bc1506761e6b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801705,
+            "region_id":85681713,
+            "venue_id":1058661569
+        }
+    ],
+    "wof:id":1058661569,
+    "wof:lastmodified":1473535486,
+    "wof:name":"Home J Vanhellemont",
+    "wof:parent_id":85801705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    4.3070578575,
+    50.8459892273,
+    4.3070578575,
+    50.8459892273
+],
+  "geometry": {"coordinates":[4.3070578575,50.8459892273],"type":"Point"}
+}

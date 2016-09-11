@@ -1,0 +1,78 @@
+{
+  "id": 1042063051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3622021675,50.8968467712,4.3622021675,50.8968467712",
+    "geom:latitude":50.896847,
+    "geom:longitude":4.362202,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Busleyden 59",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "builder",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bf3y8i2eYDQU0WWeJ8OVq_50.896847_4.362202@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494792,
+    "wof:geomhash":"c282353833bae75b3a850bf7ceee2823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042063051
+        }
+    ],
+    "wof:id":1042063051,
+    "wof:lastmodified":1473494792,
+    "wof:name":"Cheminees Peters Sa",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "chimney"
+    ]
+},
+  "bbox": [
+    4.3622021675,
+    50.8968467712,
+    4.3622021675,
+    50.8968467712
+],
+  "geometry": {"coordinates":[4.3622021675,50.8968467712],"type":"Point"}
+}

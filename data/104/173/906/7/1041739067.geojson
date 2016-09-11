@@ -1,0 +1,81 @@
+{
+  "id": 1041739067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.340857029,50.7958488464,4.340857029,50.7958488464",
+    "geom:latitude":50.795849,
+    "geom:longitude":4.340857,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Vanderaey 93",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 84 19 50",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dLfT1C8I00E68mWR6K9jh_50.795849_4.340857@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473480866,
+    "wof:geomhash":"cced560e0b98f17dab29b87eaaf6af22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041739067
+        }
+    ],
+    "wof:id":1041739067,
+    "wof:lastmodified":1473480866,
+    "wof:name":"Air Et Confort Sprl",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    4.340857029,
+    50.7958488464,
+    4.340857029,
+    50.7958488464
+],
+  "geometry": {"coordinates":[4.340857029,50.7958488464],"type":"Point"}
+}

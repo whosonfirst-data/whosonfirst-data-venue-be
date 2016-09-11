@@ -1,0 +1,77 @@
+{
+  "id": 1058623993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7069079876,51.025592804,3.7069079876,51.025592804",
+    "geom:latitude":51.025593,
+    "geom:longitude":3.706908,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maaltebruggestraat 288",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 24 19",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ztYHkH5V1XTaWly36YdhJ_51.025593_3.706908@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533746,
+    "wof:geomhash":"013e5442057f930c9c90712f4b6b6970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058623993
+        }
+    ],
+    "wof:id":1058623993,
+    "wof:lastmodified":1473533746,
+    "wof:name":"Vervoort",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    3.7069079876,
+    51.025592804,
+    3.7069079876,
+    51.025592804
+],
+  "geometry": {"coordinates":[3.7069079876,51.025592804],"type":"Point"}
+}

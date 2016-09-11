@@ -1,0 +1,76 @@
+{
+  "id": 1058996255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.724301,51.053541,3.724301,51.053541",
+    "geom:latitude":51.053541,
+    "geom:longitude":3.724301,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emile Braunplein 18",
+    "sg:city":"Ghent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:tags":[
+        "whoaminetlog-com"
+    ],
+    "sg:website":"http://www.netlog.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vyhdixc00HuxfXjLhIUJi_51.053541_3.724301@1308163237"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550365,
+    "wof:geomhash":"eb83127acaa00fa39b7f53c74b7d16cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058996255
+        }
+    ],
+    "wof:id":1058996255,
+    "wof:lastmodified":1473550365,
+    "wof:name":"Netlog",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whoaminetlog-com"
+    ]
+},
+  "bbox": [
+    3.724301,
+    51.053541,
+    3.724301,
+    51.053541
+],
+  "geometry": {"coordinates":[3.724301,51.053541],"type":"Point"}
+}

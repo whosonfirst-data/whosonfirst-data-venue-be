@@ -1,0 +1,71 @@
+{
+  "id": 1042058315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.0123310089,50.7163887024,6.0123310089,50.7163887024",
+    "geom:latitude":50.716389,
+    "geom:longitude":6.012331,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirchstrasse 44",
+    "sg:city":"Kelmis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 87 65 90 59",
+    "sg:postcode":"4720",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85794893,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c9WMND4Lhu28Yc6RuXlPJ_50.716389_6.012331@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494607,
+    "wof:geomhash":"130f5d972f5bab1fc57885f5c8a124a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049935,
+            "neighbourhood_id":85794893,
+            "region_id":85681691,
+            "venue_id":1042058315
+        }
+    ],
+    "wof:id":1042058315,
+    "wof:lastmodified":1473494607,
+    "wof:name":"Cornely",
+    "wof:parent_id":85794893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    6.0123310089,
+    50.7163887024,
+    6.0123310089,
+    50.7163887024
+],
+  "geometry": {"coordinates":[6.0123310089,50.7163887024],"type":"Point"}
+}

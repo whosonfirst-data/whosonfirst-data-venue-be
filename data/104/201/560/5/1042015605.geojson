@@ -1,0 +1,77 @@
+{
+  "id": 1042015605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7326889038,51.0510864258,3.7326889038,51.0510864258",
+    "geom:latitude":51.051086,
+    "geom:longitude":3.732689,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belgradostraat 70",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 97 00",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jHrynvCSXRjw7ANpG931m_51.051086_3.732689@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492898,
+    "wof:geomhash":"8db72b335598ca087078153fad43f0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042015605
+        }
+    ],
+    "wof:id":1042015605,
+    "wof:lastmodified":1473492898,
+    "wof:name":"Clin Josette",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7326889038,
+    51.0510864258,
+    3.7326889038,
+    51.0510864258
+],
+  "geometry": {"coordinates":[3.7326889038,51.0510864258],"type":"Point"}
+}

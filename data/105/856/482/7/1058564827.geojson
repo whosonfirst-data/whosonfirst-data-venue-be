@@ -1,0 +1,71 @@
+{
+  "id": 1058564827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4656381607,51.4236373901,4.4656381607,51.4236373901",
+    "geom:latitude":51.423637,
+    "geom:longitude":4.465638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cardijnstraat 5",
+    "sg:city":"Essen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 667 55 54",
+    "sg:postcode":"2910",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c8jXyHsCXtjNH2va1MLKe_51.423637_4.465638@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531070,
+    "wof:geomhash":"d3624892c74dabb719d281270825f0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058564827
+        }
+    ],
+    "wof:id":1058564827,
+    "wof:lastmodified":1473531070,
+    "wof:name":"Oostvogels Mieke",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4656381607,
+    51.4236373901,
+    4.4656381607,
+    51.4236373901
+],
+  "geometry": {"coordinates":[4.4656381607,51.4236373901],"type":"Point"}
+}

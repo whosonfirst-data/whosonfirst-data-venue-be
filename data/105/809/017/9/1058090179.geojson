@@ -1,0 +1,77 @@
+{
+  "id": 1058090179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5953578949,50.6374931335,5.5953578949,50.6374931335",
+    "geom:latitude":50.637493,
+    "geom:longitude":5.595358,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Cornillon 73",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 18 57",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fWA6IPfbDubt3zAbcsVhZ_50.637493_5.595358@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509158,
+    "wof:geomhash":"479b7643be0694bde1d04c8ad6f02cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1058090179
+        }
+    ],
+    "wof:id":1058090179,
+    "wof:lastmodified":1473509158,
+    "wof:name":"Bollen Garage",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    5.5953578949,
+    50.6374931335,
+    5.5953578949,
+    50.6374931335
+],
+  "geometry": {"coordinates":[5.5953578949,50.6374931335],"type":"Point"}
+}

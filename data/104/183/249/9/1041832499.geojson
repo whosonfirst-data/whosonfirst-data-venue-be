@@ -1,0 +1,71 @@
+{
+  "id": 1041832499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6014342308,50.5855255127,5.6014342308,50.5855255127",
+    "geom:latitude":50.585526,
+    "geom:longitude":5.601434,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Parc 71",
+    "sg:city":"Chaudfontaine",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 361 35 32",
+    "sg:postcode":"4053",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24gLHJ1gwetn9hBIWUYviv_50.585526_5.601434@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485051,
+    "wof:geomhash":"65fc371587a93d3fac79a181520ada28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1041832499
+        }
+    ],
+    "wof:id":1041832499,
+    "wof:lastmodified":1473485051,
+    "wof:name":"Soc.actuariat Consultants",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    5.6014342308,
+    50.5855255127,
+    5.6014342308,
+    50.5855255127
+],
+  "geometry": {"coordinates":[5.6014342308,50.5855255127],"type":"Point"}
+}

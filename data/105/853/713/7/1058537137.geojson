@@ -1,0 +1,79 @@
+{
+  "id": 1058537137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4787311554,51.2364234924,4.4787311554,51.2364234924",
+    "geom:latitude":51.236423,
+    "geom:longitude":4.478731,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Foyer Schaerbeekois 105",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 324 49 95",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "petrol",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g2cmapLBAAHgK4a6v5G3r_51.236423_4.478731@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529818,
+    "wof:geomhash":"1c8fab2e676ed1c6652a4df0b5c87bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058537137
+        }
+    ],
+    "wof:id":1058537137,
+    "wof:lastmodified":1473529818,
+    "wof:name":"Pump Service Automatic Nv",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "petrol",
+        "pump"
+    ]
+},
+  "bbox": [
+    4.4787311554,
+    51.2364234924,
+    4.4787311554,
+    51.2364234924
+],
+  "geometry": {"coordinates":[4.4787311554,51.2364234924],"type":"Point"}
+}

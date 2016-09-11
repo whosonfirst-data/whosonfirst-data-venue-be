@@ -1,0 +1,65 @@
+{
+  "id": 1041897703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"8.6428146362,47.4235649109,8.6428146362,47.4235649109",
+    "geom:latitude":47.423565,
+    "geom:longitude":8.642815,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oude Bruggestr 5",
+    "sg:city":"Wingene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 51 65 67 67",
+    "sg:postcode":"8050",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682309,
+        85633051,
+        85859527,
+        102062933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tWAK64UeTLeA5RwB8tOpv_47.423565_8.642815@1306268357"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487813,
+    "wof:geomhash":"540773759c04d30ba852e7111bfe0193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633051,
+            "county_id":102062933,
+            "neighbourhood_id":85859527,
+            "region_id":85682309,
+            "venue_id":1041897703
+        }
+    ],
+    "wof:id":1041897703,
+    "wof:lastmodified":1473487813,
+    "wof:name":"Aslk-cger Bank",
+    "wof:parent_id":85859527,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6428146362,
+    47.4235649109,
+    8.6428146362,
+    47.4235649109
+],
+  "geometry": {"coordinates":[8.6428146362,47.4235649109],"type":"Point"}
+}

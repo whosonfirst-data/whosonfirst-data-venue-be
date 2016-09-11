@@ -1,0 +1,77 @@
+{
+  "id": 1042061773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7171709538,51.0404930115,3.7171709538,51.0404930115",
+    "geom:latitude":51.040493,
+    "geom:longitude":3.717171,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kortrijksesteenweg 114-116",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 48 63",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739miVkmbJcRbaHBNu4r4M_51.040493_3.717171@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494745,
+    "wof:geomhash":"c97a4a8160f0a1e6498712faa9cf31ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042061773
+        }
+    ],
+    "wof:id":1042061773,
+    "wof:lastmodified":1473494745,
+    "wof:name":"Thomaes S",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.7171709538,
+    51.0404930115,
+    3.7171709538,
+    51.0404930115
+],
+  "geometry": {"coordinates":[3.7171709538,51.0404930115],"type":"Point"}
+}

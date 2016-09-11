@@ -1,0 +1,73 @@
+{
+  "id": 1058170027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3127651215,50.7703208923,4.3127651215,50.7703208923",
+    "geom:latitude":50.770321,
+    "geom:longitude":4.312765,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenweg Op Ukkel 89",
+    "sg:city":"Beersel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 60 98",
+    "sg:postcode":"1650",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801035,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jXMpLnYczhovLS1r677zs_50.770321_4.312765@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512907,
+    "wof:geomhash":"8765658fcefabbdf7036e1f902faf5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801035,
+            "region_id":85681731,
+            "venue_id":1058170027
+        }
+    ],
+    "wof:id":1058170027,
+    "wof:lastmodified":1473512907,
+    "wof:name":"Knoop Ch",
+    "wof:parent_id":85801035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3127651215,
+    50.7703208923,
+    4.3127651215,
+    50.7703208923
+],
+  "geometry": {"coordinates":[4.3127651215,50.7703208923],"type":"Point"}
+}

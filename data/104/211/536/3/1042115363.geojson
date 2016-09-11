@@ -1,0 +1,83 @@
+{
+  "id": 1042115363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5724110603,50.6564025879,5.5724110603,50.6564025879",
+    "geom:latitude":50.656403,
+    "geom:longitude":5.572411,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Tawes 27",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 35 83",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L1SfCDJ0alMyKC3hehubB_50.656403_5.572411@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497137,
+    "wof:geomhash":"038b8fd1351f847a7acce250b8877e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1042115363
+        }
+    ],
+    "wof:id":1042115363,
+    "wof:lastmodified":1473497137,
+    "wof:name":"Golinvaux B",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    5.5724110603,
+    50.6564025879,
+    5.5724110603,
+    50.6564025879
+],
+  "geometry": {"coordinates":[5.5724110603,50.6564025879],"type":"Point"}
+}

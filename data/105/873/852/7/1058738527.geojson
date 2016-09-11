@@ -1,0 +1,79 @@
+{
+  "id": 1058738527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3532180786,50.7398376465,4.3532180786,50.7398376465",
+    "geom:latitude":50.739838,
+    "geom:longitude":4.353218,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Royale 1",
+    "sg:city":"Sint-genesius-rode/rhode-saint-genese",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 48 44",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AtRJNncNNzm6p0Qe3xZgP_50.739838_4.353218@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538835,
+    "wof:geomhash":"1c98b8e238d764d3fbcc2f216d5bb183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058738527
+        }
+    ],
+    "wof:id":1058738527,
+    "wof:lastmodified":1473538835,
+    "wof:name":"Coiffure Luc",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.3532180786,
+    50.7398376465,
+    4.3532180786,
+    50.7398376465
+],
+  "geometry": {"coordinates":[4.3532180786,50.7398376465],"type":"Point"}
+}

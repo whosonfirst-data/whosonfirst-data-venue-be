@@ -1,0 +1,85 @@
+{
+  "id": 1042111445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7262680531,51.0358924866,3.7262680531,51.0358924866",
+    "geom:latitude":51.035892,
+    "geom:longitude":3.726268,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zwijnaardsesteenweg 45",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 329 02 01",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54fo9qyoGuTx2RmE7GBLHl_51.035892_3.726268@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496917,
+    "wof:geomhash":"fd9f0d9e24329f77a880dda341581a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042111445
+        }
+    ],
+    "wof:id":1042111445,
+    "wof:lastmodified":1473496917,
+    "wof:name":"Compoint",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    3.7262680531,
+    51.0358924866,
+    3.7262680531,
+    51.0358924866
+],
+  "geometry": {"coordinates":[3.7262680531,51.0358924866],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1041831947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5032739639,51.1710166931,4.5032739639,51.1710166931",
+    "geom:latitude":51.171017,
+    "geom:longitude":4.503274,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spechtstraat 9",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 07 50",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DMuXskYLdZnZxajvSbPQk_51.171017_4.503274@1306268346"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485030,
+    "wof:geomhash":"066c5a2be29e6046f0de70dd12df3bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1041831947
+        }
+    ],
+    "wof:id":1041831947,
+    "wof:lastmodified":1473485030,
+    "wof:name":"Peter Gielen",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.5032739639,
+    51.1710166931,
+    4.5032739639,
+    51.1710166931
+],
+  "geometry": {"coordinates":[4.5032739639,51.1710166931],"type":"Point"}
+}

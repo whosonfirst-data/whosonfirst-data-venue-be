@@ -1,0 +1,71 @@
+{
+  "id": 1058904239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2263960838,51.2069702148,3.2263960838,51.2069702148",
+    "geom:latitude":51.20697,
+    "geom:longitude":3.226396,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Predikherenlei 2",
+    "sg:city":"Belgium",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7am6w67wWf8U0R3FT42MnN_51.206970_3.226396@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546147,
+    "wof:geomhash":"287967fd0671926e17347edfca0a4bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058904239
+        }
+    ],
+    "wof:id":1058904239,
+    "wof:lastmodified":1473546147,
+    "wof:name":"Hotel De Orangerie",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2263960838,
+    51.2069702148,
+    3.2263960838,
+    51.2069702148
+],
+  "geometry": {"coordinates":[3.2263960838,51.2069702148],"type":"Point"}
+}

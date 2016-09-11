@@ -1,0 +1,79 @@
+{
+  "id": 1042101083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2774620056,50.7872848511,4.2774620056,50.7872848511",
+    "geom:latitude":50.787285,
+    "geom:longitude":4.277462,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Petrus Basteleusstraat 2",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 715 21 49",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "tool",
+        "cutting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wONcTecBnwft0CENcUICu_50.787285_4.277462@1306268395"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496441,
+    "wof:geomhash":"b345eb51e58776023eda1cebce837746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1042101083
+        }
+    ],
+    "wof:id":1042101083,
+    "wof:lastmodified":1473496441,
+    "wof:name":"Fabory Centre Brussel-zuid",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "cutting"
+    ]
+},
+  "bbox": [
+    4.2774620056,
+    50.7872848511,
+    4.2774620056,
+    50.7872848511
+],
+  "geometry": {"coordinates":[4.2774620056,50.7872848511],"type":"Point"}
+}

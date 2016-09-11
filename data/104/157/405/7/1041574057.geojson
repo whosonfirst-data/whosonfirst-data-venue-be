@@ -1,0 +1,83 @@
+{
+  "id": 1041574057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3489928246,50.831413269,4.3489928246,50.831413269",
+    "geom:latitude":50.831413,
+    "geom:longitude":4.348993,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'h\u00f4tel Des Monnaies 50",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 05 15",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44yYf7Dmu16jUNGVGRQZJ7_50.831413_4.348993@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474214,
+    "wof:geomhash":"6adb70dd74d46c1d352b75eeda63ba71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041574057
+        }
+    ],
+    "wof:id":1041574057,
+    "wof:lastmodified":1473474214,
+    "wof:name":"Zonnebloem",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.3489928246,
+    50.831413269,
+    4.3489928246,
+    50.831413269
+],
+  "geometry": {"coordinates":[4.3489928246,50.831413269],"type":"Point"}
+}

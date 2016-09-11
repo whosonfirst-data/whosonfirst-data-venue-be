@@ -1,0 +1,77 @@
+{
+  "id": 1042126673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3671069145,50.8214530945,4.3671069145,50.8214530945",
+    "geom:latitude":50.821453,
+    "geom:longitude":4.367107,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jacques Jordaens 7",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 74 82",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48xQHKypncXVrrWWonXPi2_50.821453_4.367107@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497745,
+    "wof:geomhash":"7dbabf2d1b7abfe98d4ae1003ece3b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1042126673
+        }
+    ],
+    "wof:id":1042126673,
+    "wof:lastmodified":1473497745,
+    "wof:name":"La Bottega",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    4.3671069145,
+    50.8214530945,
+    4.3671069145,
+    50.8214530945
+],
+  "geometry": {"coordinates":[4.3671069145,50.8214530945],"type":"Point"}
+}

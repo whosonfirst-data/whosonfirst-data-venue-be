@@ -1,0 +1,79 @@
+{
+  "id": 1058162857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4084591866,50.8466148376,4.4084591866,50.8466148376",
+    "geom:latitude":50.846615,
+    "geom:longitude":4.408459,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Prince H\u00e9ritier 165",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 93 74",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sN6wQCfNQrxfH9U5ZE1nI_50.846615_4.408459@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512550,
+    "wof:geomhash":"ca2073df562b1d275d074a2e561f7388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058162857
+        }
+    ],
+    "wof:id":1058162857,
+    "wof:lastmodified":1473512550,
+    "wof:name":"Despret I",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4084591866,
+    50.8466148376,
+    4.4084591866,
+    50.8466148376
+],
+  "geometry": {"coordinates":[4.4084591866,50.8466148376],"type":"Point"}
+}

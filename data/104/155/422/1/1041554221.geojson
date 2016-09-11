@@ -1,0 +1,79 @@
+{
+  "id": 1041554221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2530519962,51.1705932617,3.2530519962,51.1705932617",
+    "geom:latitude":51.170593,
+    "geom:longitude":3.253052,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Legeweg 139",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 36 19 76",
+    "sg:postcode":"8020",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "ale",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ebUdOg1ubxiSCFnW3NH2Q_51.170593_3.253052@1306268362"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473366,
+    "wof:geomhash":"2ce843c603051b3ec43bd16f288cd196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1041554221
+        }
+    ],
+    "wof:id":1041554221,
+    "wof:lastmodified":1473473366,
+    "wof:name":"Franssens Drankencentrale",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2530519962,
+    51.1705932617,
+    3.2530519962,
+    51.1705932617
+],
+  "geometry": {"coordinates":[3.2530519962,51.1705932617],"type":"Point"}
+}

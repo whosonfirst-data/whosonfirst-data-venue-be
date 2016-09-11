@@ -1,0 +1,81 @@
+{
+  "id": 1058600813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3647937775,50.9024543762,4.3647937775,50.9024543762",
+    "geom:latitude":50.902454,
+    "geom:longitude":4.364794,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Berkendallaan 168",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 267 68 69",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "whol",
+        "-",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cD0DyeqIj3EWRxotP2OyZ_50.902454_4.364794@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532646,
+    "wof:geomhash":"7ba3dccd4e372a47ead655f0d518d79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058600813
+        }
+    ],
+    "wof:id":1058600813,
+    "wof:lastmodified":1473532646,
+    "wof:name":"Van Halle E",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-",
+        "potato"
+    ]
+},
+  "bbox": [
+    4.3647937775,
+    50.9024543762,
+    4.3647937775,
+    50.9024543762
+],
+  "geometry": {"coordinates":[4.3647937775,50.9024543762],"type":"Point"}
+}

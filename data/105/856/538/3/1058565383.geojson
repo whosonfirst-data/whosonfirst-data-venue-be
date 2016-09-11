@@ -1,0 +1,77 @@
+{
+  "id": 1058565383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.341656208,50.8888931274,4.341656208,50.8888931274",
+    "geom:latitude":50.888893,
+    "geom:longitude":4.341656,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Stevens-delannoy 69",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 81 73",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iQunhJKFIMQnlN9URI6Oj_50.888893_4.341656@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531092,
+    "wof:geomhash":"6f96c2eab64eaa162c2e24cfe422286a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058565383
+        }
+    ],
+    "wof:id":1058565383,
+    "wof:lastmodified":1473531092,
+    "wof:name":"Petit Beatrice",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.341656208,
+    50.8888931274,
+    4.341656208,
+    50.8888931274
+],
+  "geometry": {"coordinates":[4.341656208,50.8888931274],"type":"Point"}
+}

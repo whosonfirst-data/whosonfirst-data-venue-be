@@ -1,0 +1,77 @@
+{
+  "id": 1058865217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6855940819,51.0714950562,3.6855940819,51.0714950562",
+    "geom:latitude":51.071495,
+    "geom:longitude":3.685594,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spellewerkstraat 57",
+    "sg:city":"Gent (mariakerke)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 79 31",
+    "sg:postcode":"9030",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NoPL5Hy1tf75zTuRbBTfC_51.071495_3.685594@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544367,
+    "wof:geomhash":"a3c58af46ac10ac089f5472a5b5c8570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1058865217
+        }
+    ],
+    "wof:id":1058865217,
+    "wof:lastmodified":1473544367,
+    "wof:name":"Cash A Blancke Groothandel",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    3.6855940819,
+    51.0714950562,
+    3.6855940819,
+    51.0714950562
+],
+  "geometry": {"coordinates":[3.6855940819,51.0714950562],"type":"Point"}
+}

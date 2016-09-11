@@ -1,0 +1,81 @@
+{
+  "id": 1058423645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3665041924,50.8590240479,4.3665041924,50.8590240479",
+    "geom:latitude":50.859024,
+    "geom:longitude":4.366504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Dupont 76",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 24 13",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "teacher",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yJhsCS04m1vUMx7TMQ08G_50.859024_4.366504@1306268507"
+    },
+    "wof:country":"BE",
+    "wof:created":1473524343,
+    "wof:geomhash":"124f479bcfef3b6717656a732b82cd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058423645
+        }
+    ],
+    "wof:id":1058423645,
+    "wof:lastmodified":1473524343,
+    "wof:name":"Stutterheim R",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "teacher",
+        "private"
+    ]
+},
+  "bbox": [
+    4.3665041924,
+    50.8590240479,
+    4.3665041924,
+    50.8590240479
+],
+  "geometry": {"coordinates":[4.3665041924,50.8590240479],"type":"Point"}
+}

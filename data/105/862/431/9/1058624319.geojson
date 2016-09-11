@@ -1,0 +1,81 @@
+{
+  "id": 1058624319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4455041885,51.1743087769,4.4455041885,51.1743087769",
+    "geom:latitude":51.174309,
+    "geom:longitude":4.445504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guido Gezellelaan 51",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 233 50 75",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XrhJE0T1ubW8IdYMR4AnW_51.174309_4.445504@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533763,
+    "wof:geomhash":"33deddd3a9e2e63b428240511c1af296",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058624319
+        }
+    ],
+    "wof:id":1058624319,
+    "wof:lastmodified":1473533763,
+    "wof:name":"Coopman H",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychoanalyst"
+    ]
+},
+  "bbox": [
+    4.4455041885,
+    51.1743087769,
+    4.4455041885,
+    51.1743087769
+],
+  "geometry": {"coordinates":[4.4455041885,51.1743087769],"type":"Point"}
+}

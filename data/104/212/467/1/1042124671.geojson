@@ -1,0 +1,83 @@
+{
+  "id": 1042124671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5870018005,50.648399353,5.5870018005,50.648399353",
+    "geom:latitude":50.648399,
+    "geom:longitude":5.587002,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-l\u00e9onard 23",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 81 01",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862039,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06XNs3t3J78Fuw7XS9GQw5_50.648399_5.587002@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497642,
+    "wof:geomhash":"a304382243aa6325493f0662e79b6e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862039,
+            "region_id":85681691,
+            "venue_id":1042124671
+        }
+    ],
+    "wof:id":1042124671,
+    "wof:lastmodified":1473497642,
+    "wof:name":"Maison Marrante (la)",
+    "wof:parent_id":85862039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    5.5870018005,
+    50.648399353,
+    5.5870018005,
+    50.648399353
+],
+  "geometry": {"coordinates":[5.5870018005,50.648399353],"type":"Point"}
+}

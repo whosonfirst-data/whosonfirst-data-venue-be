@@ -1,0 +1,81 @@
+{
+  "id": 1058625925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3186478615,50.922039032,4.3186478615,50.922039032",
+    "geom:latitude":50.922039,
+    "geom:longitude":4.318648,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bosch 135",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 461 37 52",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "consultant",
+        "relation",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vXEWwxqWZgdaZYAl8RJSy_50.922039_4.318648@1306268542"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533832,
+    "wof:geomhash":"fd1e674b93303003946af91a59f1278a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1058625925
+        }
+    ],
+    "wof:id":1058625925,
+    "wof:lastmodified":1473533832,
+    "wof:name":"Signis Consultants",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "relation",
+        "public"
+    ]
+},
+  "bbox": [
+    4.3186478615,
+    50.922039032,
+    4.3186478615,
+    50.922039032
+],
+  "geometry": {"coordinates":[4.3186478615,50.922039032],"type":"Point"}
+}

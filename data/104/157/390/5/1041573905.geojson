@@ -1,0 +1,83 @@
+{
+  "id": 1041573905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3679919243,50.8597335815,4.3679919243,50.8597335815",
+    "geom:latitude":50.859734,
+    "geom:longitude":4.367992,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Palais 34",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 227 54 80",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bWFlBS6JANDCR6Dojd6vk_50.859734_4.367992@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474205,
+    "wof:geomhash":"542e6da33fc889f6e4402aa1e70bf033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041573905
+        }
+    ],
+    "wof:id":1041573905,
+    "wof:lastmodified":1473474205,
+    "wof:name":"Koalas (les)",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.3679919243,
+    50.8597335815,
+    4.3679919243,
+    50.8597335815
+],
+  "geometry": {"coordinates":[4.3679919243,50.8597335815],"type":"Point"}
+}

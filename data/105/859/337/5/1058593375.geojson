@@ -1,0 +1,77 @@
+{
+  "id": 1058593375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6580038071,50.6700363159,5.6580038071,50.6700363159",
+    "geom:latitude":50.670036,
+    "geom:longitude":5.658004,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Pr\u00e9s 20",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 474 36 41 38",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LLXDoRmqRO7msmaTCmpaQ_50.670036_5.658004@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532331,
+    "wof:geomhash":"d5d6c2dcae9b67ac271e14105b0d36ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1058593375
+        }
+    ],
+    "wof:id":1058593375,
+    "wof:lastmodified":1473532331,
+    "wof:name":"De Lorenzi G",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.6580038071,
+    50.6700363159,
+    5.6580038071,
+    50.6700363159
+],
+  "geometry": {"coordinates":[5.6580038071,50.6700363159],"type":"Point"}
+}

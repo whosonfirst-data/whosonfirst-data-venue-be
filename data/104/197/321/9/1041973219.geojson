@@ -1,0 +1,77 @@
+{
+  "id": 1041973219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.342318058,50.8138008118,4.342318058,50.8138008118",
+    "geom:latitude":50.813801,
+    "geom:longitude":4.342318,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vanderkindere 76",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 88 89",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q4V50xRoIpynxATXPwJVY_50.813801_4.342318@1306268371"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491238,
+    "wof:geomhash":"df4949428a52a355d0bdd8df3d6efe3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1041973219
+        }
+    ],
+    "wof:id":1041973219,
+    "wof:lastmodified":1473491238,
+    "wof:name":"Source (la)",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.342318058,
+    50.8138008118,
+    4.342318058,
+    50.8138008118
+],
+  "geometry": {"coordinates":[4.342318058,50.8138008118],"type":"Point"}
+}

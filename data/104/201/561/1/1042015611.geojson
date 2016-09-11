@@ -1,0 +1,77 @@
+{
+  "id": 1042015611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7424459457,51.0410385132,3.7424459457,51.0410385132",
+    "geom:latitude":51.041039,
+    "geom:longitude":3.742446,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 63",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 85 78",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wG7twy9Oq2uv1mFSvgEc0_51.041039_3.742446@1306268378"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492898,
+    "wof:geomhash":"4a1a6dd448fe70c6e01f3e154fde72a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042015611
+        }
+    ],
+    "wof:id":1042015611,
+    "wof:lastmodified":1473492898,
+    "wof:name":"Club Agora",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7424459457,
+    51.0410385132,
+    3.7424459457,
+    51.0410385132
+],
+  "geometry": {"coordinates":[3.7424459457,51.0410385132],"type":"Point"}
+}

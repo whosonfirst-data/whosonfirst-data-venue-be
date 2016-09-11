@@ -1,0 +1,83 @@
+{
+  "id": 1058649023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6931970119,51.0587310791,3.6931970119,51.0587310791",
+    "geom:latitude":51.058731,
+    "geom:longitude":3.693197,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rooigemlaan 274",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 236 21 41",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733,
+        85862083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uh2jGY3Hb83kssG0x9Opw_51.058731_3.693197@1306268546"
+    },
+    "wof:country":"BE",
+    "wof:created":1473534891,
+    "wof:geomhash":"6d3646c23a6ccfd30e56c6dc59a76d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058649023
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862083,
+            "region_id":85681733,
+            "venue_id":1058649023
+        }
+    ],
+    "wof:id":1058649023,
+    "wof:lastmodified":1473534891,
+    "wof:name":"Belima Bvba",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6931970119,
+    51.0587310791,
+    3.6931970119,
+    51.0587310791
+],
+  "geometry": {"coordinates":[3.6931970119,51.0587310791],"type":"Point"}
+}

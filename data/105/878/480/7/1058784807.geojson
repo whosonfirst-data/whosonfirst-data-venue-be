@@ -1,0 +1,79 @@
+{
+  "id": 1058784807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3908848763,50.8492355347,4.3908848763,50.8492355347",
+    "geom:latitude":50.849236,
+    "geom:longitude":4.390885,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Des Chasseurs Ardennais 21",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 23 66",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "roofing",
+        "slate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57NAR5YwjDHIQivAW8wPda_50.849236_4.390885@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540856,
+    "wof:geomhash":"ec6b0a77c865bc4f5273f44dc3517a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058784807
+        }
+    ],
+    "wof:id":1058784807,
+    "wof:lastmodified":1473540856,
+    "wof:name":"Davaux Toiture",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "slate"
+    ]
+},
+  "bbox": [
+    4.3908848763,
+    50.8492355347,
+    4.3908848763,
+    50.8492355347
+],
+  "geometry": {"coordinates":[4.3908848763,50.8492355347],"type":"Point"}
+}

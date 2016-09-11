@@ -1,0 +1,79 @@
+{
+  "id": 1058843147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5687160492,50.6422958374,5.5687160492,50.6422958374",
+    "geom:latitude":50.642296,
+    "geom:longitude":5.568716,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Casquette 23",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 32 15",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "salvage",
+        "surplus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5suNX74QwQKKbMhJI54Igo_50.642296_5.568716@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543441,
+    "wof:geomhash":"7eeca8311db5dc34352c8c160cd9d75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058843147
+        }
+    ],
+    "wof:id":1058843147,
+    "wof:lastmodified":1473543441,
+    "wof:name":"Boutique Idem",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "surplus"
+    ]
+},
+  "bbox": [
+    5.5687160492,
+    50.6422958374,
+    5.5687160492,
+    50.6422958374
+],
+  "geometry": {"coordinates":[5.5687160492,50.6422958374],"type":"Point"}
+}

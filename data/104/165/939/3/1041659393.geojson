@@ -1,0 +1,79 @@
+{
+  "id": 1041659393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5540480614,50.6186141968,5.5540480614,50.6186141968",
+    "geom:latitude":50.618614,
+    "geom:longitude":5.554048,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Gros Gland 32",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 253 12 70",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800997,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P9Akct9q3IKec7Bl9cYJ1_50.618614_5.554048@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477732,
+    "wof:geomhash":"45a91d4817c55eea9213ed0f799a3630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800997,
+            "region_id":85681691,
+            "venue_id":1041659393
+        }
+    ],
+    "wof:id":1041659393,
+    "wof:lastmodified":1473477732,
+    "wof:name":"Coiffure Francine",
+    "wof:parent_id":85800997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.5540480614,
+    50.6186141968,
+    5.5540480614,
+    50.6186141968
+],
+  "geometry": {"coordinates":[5.5540480614,50.6186141968],"type":"Point"}
+}

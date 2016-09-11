@@ -1,0 +1,81 @@
+{
+  "id": 1058398311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7535099983,51.0510826111,3.7535099983,51.0510826111",
+    "geom:latitude":51.051083,
+    "geom:longitude":3.75351,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rekkemstraat 66",
+    "sg:city":"Lauwe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 228 58 95",
+    "sg:postcode":"8930",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "preparation",
+        "processing",
+        "meat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801899,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29fpb40NeuiREIGsAAN8Fy_51.051083_3.753510@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523141,
+    "wof:geomhash":"df4fe6c2f5d7a98adad7f28d74eef631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801899,
+            "region_id":85681733,
+            "venue_id":1058398311
+        }
+    ],
+    "wof:id":1058398311,
+    "wof:lastmodified":1473523141,
+    "wof:name":"De Boel P. Nv",
+    "wof:parent_id":85801899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "processing",
+        "meat"
+    ]
+},
+  "bbox": [
+    3.7535099983,
+    51.0510826111,
+    3.7535099983,
+    51.0510826111
+],
+  "geometry": {"coordinates":[3.7535099983,51.0510826111],"type":"Point"}
+}

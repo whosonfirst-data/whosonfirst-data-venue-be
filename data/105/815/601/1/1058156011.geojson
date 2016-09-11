@@ -1,0 +1,73 @@
+{
+  "id": 1058156011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5109558105,50.5825767517,5.5109558105,50.5825767517",
+    "geom:latitude":50.582577,
+    "geom:longitude":5.510956,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Du Souvenir 2",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 53 42",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24QkcV7GzAGYLBa0JWyIz5_50.582577_5.510956@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512270,
+    "wof:geomhash":"bc1d4085afa7391dc48cb70d000c776d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1058156011
+        }
+    ],
+    "wof:id":1058156011,
+    "wof:lastmodified":1473512270,
+    "wof:name":"Bou\u00fcaert C",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5109558105,
+    50.5825767517,
+    5.5109558105,
+    50.5825767517
+],
+  "geometry": {"coordinates":[5.5109558105,50.5825767517],"type":"Point"}
+}

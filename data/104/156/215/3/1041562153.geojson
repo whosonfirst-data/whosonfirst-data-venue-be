@@ -1,0 +1,81 @@
+{
+  "id": 1041562153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.358771801,50.8645820618,4.358771801,50.8645820618",
+    "geom:latitude":50.864582,
+    "geom:longitude":4.358772,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bd Du Roi Albert Ii 44",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 203 20 20",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IoebAHhdcvony0eE8AC5y_50.864582_4.358772@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473717,
+    "wof:geomhash":"cf317a8e2cf62795fa4ab0aa042d59f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1041562153
+        }
+    ],
+    "wof:id":1041562153,
+    "wof:lastmodified":1473473717,
+    "wof:name":"Buffetex Sa",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.358771801,
+    50.8645820618,
+    4.358771801,
+    50.8645820618
+],
+  "geometry": {"coordinates":[4.358771801,50.8645820618],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1042072987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2234869003,51.2080116272,3.2234869003,51.2080116272",
+    "geom:latitude":51.208012,
+    "geom:longitude":3.223487,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Steenstraat 20",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 34 81 70",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6517BVU25dzc9m8Y4yxx6H_51.208012_3.223487@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495196,
+    "wof:geomhash":"3f5267778613301fe73396bb64f40b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1042072987
+        }
+    ],
+    "wof:id":1042072987,
+    "wof:lastmodified":1473495196,
+    "wof:name":"Esprit",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.2234869003,
+    51.2080116272,
+    3.2234869003,
+    51.2080116272
+],
+  "geometry": {"coordinates":[3.2234869003,51.2080116272],"type":"Point"}
+}

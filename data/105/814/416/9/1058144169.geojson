@@ -1,0 +1,81 @@
+{
+  "id": 1058144169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2142601013,51.1878890991,3.2142601013,51.1878890991",
+    "geom:latitude":51.187889,
+    "geom:longitude":3.21426,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsstraat 125",
+    "sg:city":"Brugge (sint-michiels)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 59 06",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ERYTaV61nB940OO5h83J_51.187889_3.214260@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511734,
+    "wof:geomhash":"e8cf715203e0680f82895fc679eb1f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058144169
+        }
+    ],
+    "wof:id":1058144169,
+    "wof:lastmodified":1473511734,
+    "wof:name":"Lucienne",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.2142601013,
+    51.1878890991,
+    3.2142601013,
+    51.1878890991
+],
+  "geometry": {"coordinates":[3.2142601013,51.1878890991],"type":"Point"}
+}

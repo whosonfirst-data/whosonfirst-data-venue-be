@@ -1,0 +1,80 @@
+{
+  "id": 1042000653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4183850288,51.208896637,4.4183850288,51.208896637",
+    "geom:latitude":51.208897,
+    "geom:longitude":4.418385,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"49",
+    "sg:city":"Charlottalei 2018 Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 287 28 70",
+    "sg:postcode":"49",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43GOfpE4h1ZG8dRNAWCJNZ_51.208897_4.418385@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492337,
+    "wof:geomhash":"e6c74454fef3c63cb17d892ec3ba2a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1042000653
+        }
+    ],
+    "wof:id":1042000653,
+    "wof:lastmodified":1473492337,
+    "wof:name":"Hotel Plaza Nv",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.4183850288,
+    51.208896637,
+    4.4183850288,
+    51.208896637
+],
+  "geometry": {"coordinates":[4.4183850288,51.208896637],"type":"Point"}
+}

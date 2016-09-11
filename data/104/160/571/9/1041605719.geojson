@@ -1,0 +1,79 @@
+{
+  "id": 1041605719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5927290916,50.6426506042,5.5927290916,50.6426506042",
+    "geom:latitude":50.642651,
+    "geom:longitude":5.592729,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Du Roi Albert 22-12",
+    "sg:city":"Li\u00e8ge 1 (bressoux)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 342 87 62",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800963,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xEc3oeWStspQAQhhRwg0f_50.642651_5.592729@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475543,
+    "wof:geomhash":"42bd7bba51f26ed0fb745dd88775bcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800963,
+            "region_id":85681691,
+            "venue_id":1041605719
+        }
+    ],
+    "wof:id":1041605719,
+    "wof:lastmodified":1473475543,
+    "wof:name":"Jamart Philippe",
+    "wof:parent_id":85800963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.5927290916,
+    50.6426506042,
+    5.5927290916,
+    50.6426506042
+],
+  "geometry": {"coordinates":[5.5927290916,50.6426506042],"type":"Point"}
+}

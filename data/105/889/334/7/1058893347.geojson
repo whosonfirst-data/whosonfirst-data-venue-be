@@ -1,0 +1,73 @@
+{
+  "id": 1058893347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4867172241,51.2041511536,4.4867172241,51.2041511536",
+    "geom:latitude":51.204151,
+    "geom:longitude":4.486717,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Autolei 103",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 321 88 60",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a7i9WVgjE80Q6Gewo1MYQ_51.204151_4.486717@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545603,
+    "wof:geomhash":"547ad808a47b27db3b96d8805d66cddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058893347
+        }
+    ],
+    "wof:id":1058893347,
+    "wof:lastmodified":1473545603,
+    "wof:name":"Swiss-trans Bvba",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.4867172241,
+    51.2041511536,
+    4.4867172241,
+    51.2041511536
+],
+  "geometry": {"coordinates":[4.4867172241,51.2041511536],"type":"Point"}
+}

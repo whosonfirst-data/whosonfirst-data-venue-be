@@ -1,0 +1,79 @@
+{
+  "id": 1058740523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4089970589,50.8253631592,4.4089970589,50.8253631592",
+    "geom:latitude":50.825363,
+    "geom:longitude":4.408997,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Cattleyas 49",
+    "sg:city":"Sint-pieters-woluwe/woluwe-saint-pierre",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 734 13 02",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JUW7n0cNVsmKsiAZ8rW8o_50.825363_4.408997@1306268563"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538926,
+    "wof:geomhash":"7780b8374315e4bea0b2dd6a4d3ed023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1058740523
+        }
+    ],
+    "wof:id":1058740523,
+    "wof:lastmodified":1473538926,
+    "wof:name":"Coiffure Roland",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.4089970589,
+    50.8253631592,
+    4.4089970589,
+    50.8253631592
+],
+  "geometry": {"coordinates":[4.4089970589,50.8253631592],"type":"Point"}
+}

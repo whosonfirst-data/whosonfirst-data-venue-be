@@ -1,0 +1,77 @@
+{
+  "id": 1058495783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7264859676,51.0852394104,3.7264859676,51.0852394104",
+    "geom:latitude":51.085239,
+    "geom:longitude":3.726486,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meulestedekaai 25",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 30 43",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "organisation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29XDCn4lBq9aZdLMfKK9ma_51.085239_3.726486@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527900,
+    "wof:geomhash":"90b8c8fd6367afd3659e43dfe2f497d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1058495783
+        }
+    ],
+    "wof:id":1058495783,
+    "wof:lastmodified":1473527900,
+    "wof:name":"Jeugdhuis Jamklub",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisation"
+    ]
+},
+  "bbox": [
+    3.7264859676,
+    51.0852394104,
+    3.7264859676,
+    51.0852394104
+],
+  "geometry": {"coordinates":[3.7264859676,51.0852394104],"type":"Point"}
+}

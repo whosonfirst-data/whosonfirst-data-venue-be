@@ -1,0 +1,81 @@
+{
+  "id": 1058144053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5926961899,50.6131210327,5.5926961899,50.6131210327",
+    "geom:latitude":50.613121,
+    "geom:longitude":5.592696,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Vaudr\u00e9e 146",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 365 18 57",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800763,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lREOAKdZYgu4nx82Es2Kd_50.613121_5.592696@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511726,
+    "wof:geomhash":"e5c0f911c42a8a22e7a6651c6cb8acc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691,
+            "venue_id":1058144053
+        }
+    ],
+    "wof:id":1058144053,
+    "wof:lastmodified":1473511726,
+    "wof:name":"Lisette",
+    "wof:parent_id":85800763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5926961899,
+    50.6131210327,
+    5.5926961899,
+    50.6131210327
+],
+  "geometry": {"coordinates":[5.5926961899,50.6131210327],"type":"Point"}
+}

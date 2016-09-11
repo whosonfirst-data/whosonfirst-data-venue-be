@@ -1,0 +1,88 @@
+{
+  "id": 1041688771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3390359879,50.8686447144,4.3390359879,50.8686447144",
+    "geom:latitude":50.868645,
+    "geom:longitude":4.339036,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fran\u00c7ois Sebrechtslaan 52",
+    "sg:city":"Sint-jans-molenbeek/molenbeek-saint-jean",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 411 97 97",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801385,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o6noGCrM2mXhwkIUVeJE0_50.868645_4.339036@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478855,
+    "wof:geomhash":"19fa124a094bdb600527aa32dfc1d5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801385,
+            "region_id":85681713,
+            "venue_id":1041688771
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041688771
+        }
+    ],
+    "wof:id":1041688771,
+    "wof:lastmodified":1473478855,
+    "wof:name":"Roland Tis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.3390359879,
+    50.8686447144,
+    4.3390359879,
+    50.8686447144
+],
+  "geometry": {"coordinates":[4.3390359879,50.8686447144],"type":"Point"}
+}

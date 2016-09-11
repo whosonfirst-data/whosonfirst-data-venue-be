@@ -1,0 +1,85 @@
+{
+  "id": 1041572915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3908491135,50.8533172607,4.3908491135,50.8533172607",
+    "geom:latitude":50.853317,
+    "geom:longitude":4.390849,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 387",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 736 60 47",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RpJqHixPCIwXntGFYXq2j_50.853317_4.390849@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474161,
+    "wof:geomhash":"56175f7c862bd0b85e60e1f27597ed3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041572915
+        }
+    ],
+    "wof:id":1041572915,
+    "wof:lastmodified":1473474161,
+    "wof:name":"Informatique D\u00e9pannage Express",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "processing",
+        "-",
+        "maintenance",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3908491135,
+    50.8533172607,
+    4.3908491135,
+    50.8533172607
+],
+  "geometry": {"coordinates":[4.3908491135,50.8533172607],"type":"Point"}
+}

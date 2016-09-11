@@ -1,0 +1,83 @@
+{
+  "id": 1042122035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5832338333,50.6436538696,5.5832338333,50.6436538696",
+    "geom:latitude":50.643654,
+    "geom:longitude":5.583234,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Ecoliers 26",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 344 20 21",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fj8B4XKvzRrp2ebvrvNhE_50.643654_5.583234@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497505,
+    "wof:geomhash":"33d6f0a5fcaa9c6e6b04e7d16a46827c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042122035
+        }
+    ],
+    "wof:id":1042122035,
+    "wof:lastmodified":1473497505,
+    "wof:name":"Soft Construct",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    5.5832338333,
+    50.6436538696,
+    5.5832338333,
+    50.6436538696
+],
+  "geometry": {"coordinates":[5.5832338333,50.6436538696],"type":"Point"}
+}

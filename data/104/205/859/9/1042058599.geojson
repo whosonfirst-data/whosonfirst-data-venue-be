@@ -1,0 +1,71 @@
+{
+  "id": 1042058599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5905280113,50.8474807739,4.5905280113,50.8474807739",
+    "geom:latitude":50.847481,
+    "geom:longitude":4.590528,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpstraat 514",
+    "sg:city":"Bertem (leefdaal)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 767 44 38",
+    "sg:postcode":"3061",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801821,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eD4JwEoJqnFUsHpVv2dpY_50.847481_4.590528@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494624,
+    "wof:geomhash":"1c7ae93c85398ee56adafc990e64f730",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801821,
+            "region_id":85681731,
+            "venue_id":1042058599
+        }
+    ],
+    "wof:id":1042058599,
+    "wof:lastmodified":1473494624,
+    "wof:name":"De Moor-lecluse",
+    "wof:parent_id":85801821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.5905280113,
+    50.8474807739,
+    4.5905280113,
+    50.8474807739
+],
+  "geometry": {"coordinates":[4.5905280113,50.8474807739],"type":"Point"}
+}

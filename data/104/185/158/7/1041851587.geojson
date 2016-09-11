@@ -1,0 +1,79 @@
+{
+  "id": 1041851587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7430019379,51.0743789673,3.7430019379,51.0743789673",
+    "geom:latitude":51.074379,
+    "geom:longitude":3.743002,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vliegtuiglaan 5a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 20 28",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "automotive",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6swColK8bCUxmS7LkRZejc_51.074379_3.743002@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485871,
+    "wof:geomhash":"8d4b42cd0f875c91012367bc8332b48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1041851587
+        }
+    ],
+    "wof:id":1041851587,
+    "wof:lastmodified":1473485871,
+    "wof:name":"Adb Nv",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "equipment"
+    ]
+},
+  "bbox": [
+    3.7430019379,
+    51.0743789673,
+    3.7430019379,
+    51.0743789673
+],
+  "geometry": {"coordinates":[3.7430019379,51.0743789673],"type":"Point"}
+}

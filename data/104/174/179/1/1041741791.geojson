@@ -1,0 +1,70 @@
+{
+  "id": 1041741791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.6079025269,41.7101249695,-87.6079025269,41.7101249695",
+    "geom:latitude":41.710125,
+    "geom:longitude":-87.607903,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"East Erie Street 101",
+    "sg:city":"Chicago Illinois",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"60611",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843259,
+        102191575,
+        404496273,
+        85633793,
+        85940195,
+        102084317,
+        85688697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y7egKqN60dT4CQcw5ievR_41.710125_-87.607903@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481015,
+    "wof:geomhash":"671b4852fe0b3837ecf64df92d126673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084317,
+            "localadmin_id":404496273,
+            "locality_id":85940195,
+            "neighbourhood_id":85843259,
+            "region_id":85688697,
+            "venue_id":1041741791
+        }
+    ],
+    "wof:id":1041741791,
+    "wof:lastmodified":1473481015,
+    "wof:name":"Wahlstrom/chicago (a.k. Stone)",
+    "wof:parent_id":85843259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.6079025269,
+    41.7101249695,
+    -87.6079025269,
+    41.7101249695
+],
+  "geometry": {"coordinates":[-87.60790252690001,41.7101249695],"type":"Point"}
+}

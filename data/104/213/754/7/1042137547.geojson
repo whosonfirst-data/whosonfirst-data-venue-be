@@ -1,0 +1,66 @@
+{
+  "id": 1042137547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2326421738,50.958770752,4.2326421738,50.958770752",
+    "geom:latitude":50.958771,
+    "geom:longitude":4.232642,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 2",
+    "sg:city":"Merchtem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 52 37 00 88",
+    "sg:postcode":"1785",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800941,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t5S3MO5pofkspKsbSvoyR_50.958771_4.232642@1306268403"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498345,
+    "wof:geomhash":"6fe44b3665b1c2ceb0e7086452065741",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800941,
+            "region_id":85681731,
+            "venue_id":1042137547
+        }
+    ],
+    "wof:id":1042137547,
+    "wof:lastmodified":1473498345,
+    "wof:name":"Saerens An",
+    "wof:parent_id":85800941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2326421738,
+    50.958770752,
+    4.2326421738,
+    50.958770752
+],
+  "geometry": {"coordinates":[4.2326421738,50.958770752],"type":"Point"}
+}

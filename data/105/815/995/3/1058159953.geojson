@@ -1,0 +1,79 @@
+{
+  "id": 1058159953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6908979416,51.0606842041,3.6908979416,51.0606842041",
+    "geom:latitude":51.060684,
+    "geom:longitude":3.690898,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nekkersputstraat 116",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 67 13",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862083,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KfqIES9A0caIfGPQJIrdj_51.060684_3.690898@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512441,
+    "wof:geomhash":"53694676f31223e98738c34f8e8ae76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862083,
+            "region_id":85681733,
+            "venue_id":1058159953
+        }
+    ],
+    "wof:id":1058159953,
+    "wof:lastmodified":1473512441,
+    "wof:name":"De Knibber Ann",
+    "wof:parent_id":85862083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6908979416,
+    51.0606842041,
+    3.6908979416,
+    51.0606842041
+],
+  "geometry": {"coordinates":[3.6908979416,51.0606842041],"type":"Point"}
+}

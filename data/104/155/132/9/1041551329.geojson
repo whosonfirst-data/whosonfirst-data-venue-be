@@ -1,0 +1,79 @@
+{
+  "id": 1041551329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4345488548,50.9126052856,4.4345488548,50.9126052856",
+    "geom:latitude":50.912605,
+    "geom:longitude":4.434549,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerklaan 2",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 18 75",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lqhkjJqYeqsJro1lmOZRi_50.912605_4.434549@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473244,
+    "wof:geomhash":"c7bc55788f63d5bdf9eac4e296b08bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1041551329
+        }
+    ],
+    "wof:id":1041551329,
+    "wof:lastmodified":1473473244,
+    "wof:name":"Uw Warme Bakker",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4345488548,
+    50.9126052856,
+    4.4345488548,
+    50.9126052856
+],
+  "geometry": {"coordinates":[4.4345488548,50.9126052856],"type":"Point"}
+}

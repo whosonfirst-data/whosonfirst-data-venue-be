@@ -1,0 +1,79 @@
+{
+  "id": 1058024631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.781414032,51.0969963074,3.781414032,51.0969963074",
+    "geom:latitude":51.096996,
+    "geom:longitude":3.781414,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kamerijkstraat 54",
+    "sg:city":"Gent (oostakker)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 259 01 39",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "express",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LKbsmIU3kBXI3c1U0dBep_51.096996_3.781414@1306268429"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506466,
+    "wof:geomhash":"6f5439b473eb70057b6b78d847a8ebbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058024631
+        }
+    ],
+    "wof:id":1058024631,
+    "wof:lastmodified":1473506466,
+    "wof:name":"Vicotrans Bvba",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "express",
+        "transport"
+    ]
+},
+  "bbox": [
+    3.781414032,
+    51.0969963074,
+    3.781414032,
+    51.0969963074
+],
+  "geometry": {"coordinates":[3.781414032,51.0969963074],"type":"Point"}
+}

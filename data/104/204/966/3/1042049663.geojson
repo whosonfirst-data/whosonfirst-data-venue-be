@@ -1,0 +1,79 @@
+{
+  "id": 1042049663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6203680038,50.643661499,5.6203680038,50.643661499",
+    "geom:latitude":50.643661,
+    "geom:longitude":5.620368,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palais Des Congres De Liege",
+    "sg:city":"Liege",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 92 92",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801099,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eBe8n56JEUHSo1Kxtgff9_50.643661_5.620368@1306268385"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494236,
+    "wof:geomhash":"d1210515a7673bbd00c80857526d4015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801099,
+            "region_id":85681691,
+            "venue_id":1042049663
+        }
+    ],
+    "wof:id":1042049663,
+    "wof:lastmodified":1473494236,
+    "wof:name":"Liege Chamber Of Commerce And Industry",
+    "wof:parent_id":85801099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    5.6203680038,
+    50.643661499,
+    5.6203680038,
+    50.643661499
+],
+  "geometry": {"coordinates":[5.6203680038,50.643661499],"type":"Point"}
+}

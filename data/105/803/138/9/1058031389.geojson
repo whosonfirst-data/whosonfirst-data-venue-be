@@ -1,0 +1,85 @@
+{
+  "id": 1058031389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3693990707,50.8573951721,4.3693990707,50.8573951721",
+    "geom:latitude":50.857395,
+    "geom:longitude":4.369399,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Haecht 87",
+    "sg:city":"Schaarbeek/schaerbeek",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 64 07",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "huis",
+        "aan",
+        "levering",
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kFMmjEdIvEHKiEFWC9yub_50.857395_4.369399@1306268431"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506750,
+    "wof:geomhash":"ea1349e40960622601672fcd05fc17e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058031389
+        }
+    ],
+    "wof:id":1058031389,
+    "wof:lastmodified":1473506750,
+    "wof:name":"Restaurant Kasim",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "huis",
+        "aan",
+        "levering",
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3693990707,
+    50.8573951721,
+    4.3693990707,
+    50.8573951721
+],
+  "geometry": {"coordinates":[4.3693990707,50.8573951721],"type":"Point"}
+}

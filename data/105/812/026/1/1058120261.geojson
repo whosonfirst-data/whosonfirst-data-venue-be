@@ -1,0 +1,77 @@
+{
+  "id": 1058120261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4178700447,50.8441810608,4.4178700447,50.8441810608",
+    "geom:latitude":50.844181,
+    "geom:longitude":4.41787,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Menuisier 27",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 779 29 16",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Ls2owgmx8UFe2L3nHHs5_50.844181_4.417870@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510533,
+    "wof:geomhash":"1600a27b1585c3eda4e6e8083929408f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058120261
+        }
+    ],
+    "wof:id":1058120261,
+    "wof:lastmodified":1473510533,
+    "wof:name":"Honey International",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.4178700447,
+    50.8441810608,
+    4.4178700447,
+    50.8441810608
+],
+  "geometry": {"coordinates":[4.4178700447,50.8441810608],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058111993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3302149773,50.8222198486,4.3302149773,50.8222198486",
+    "geom:latitude":50.82222,
+    "geom:longitude":4.330215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G. Van Haelen 106",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 73 57",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "stained",
+        "glazier",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o8B4lvebWiJYCUHeC5pXO_50.822220_4.330215@1306268447"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510089,
+    "wof:geomhash":"ae845745f13d8e6be53a0fd737f7c986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058111993
+        }
+    ],
+    "wof:id":1058111993,
+    "wof:lastmodified":1473510089,
+    "wof:name":"Carlos Gac",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stained",
+        "glazier",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3302149773,
+    50.8222198486,
+    4.3302149773,
+    50.8222198486
+],
+  "geometry": {"coordinates":[4.3302149773,50.8222198486],"type":"Point"}
+}

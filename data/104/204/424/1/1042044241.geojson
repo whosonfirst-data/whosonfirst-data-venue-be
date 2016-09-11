@@ -1,0 +1,76 @@
+{
+  "id": 1042044241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4082241058,50.8160629272,4.4082241058,50.8160629272",
+    "geom:latitude":50.816063,
+    "geom:longitude":4.408224,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Maurice Charlent 53 Box 1",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ieRRT3aO6DBmhCU7bKChE_50.816063_4.408224@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494027,
+    "wof:geomhash":"bd2208d611d1e7d7c60d25398bac825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1042044241
+        }
+    ],
+    "wof:id":1042044241,
+    "wof:lastmodified":1473494027,
+    "wof:name":"Aramark Sa",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    4.4082241058,
+    50.8160629272,
+    4.4082241058,
+    50.8160629272
+],
+  "geometry": {"coordinates":[4.4082241058,50.8160629272],"type":"Point"}
+}

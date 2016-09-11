@@ -1,0 +1,77 @@
+{
+  "id": 1042063523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5060200691,50.6474113464,5.5060200691,50.6474113464",
+    "geom:latitude":50.647411,
+    "geom:longitude":5.50602,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Emile Vandervelde 23",
+    "sg:city":"Gr\u00e2ce-hollogne (gr\u00e2ce-berleur)",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 31 88 64",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T999fslNaqJ6gU15O2GaV_50.647411_5.506020@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494810,
+    "wof:geomhash":"d2baa09afcb9fea44142bce7a45a8a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1042063523
+        }
+    ],
+    "wof:id":1042063523,
+    "wof:lastmodified":1473494810,
+    "wof:name":"Bien Etre (le)",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    5.5060200691,
+    50.6474113464,
+    5.5060200691,
+    50.6474113464
+],
+  "geometry": {"coordinates":[5.5060200691,50.6474113464],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058170117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4180808067,51.2054634094,4.4180808067,51.2054634094",
+    "geom:latitude":51.205463,
+    "geom:longitude":4.418081,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belgi\u00eblei 105",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 218 88 50",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v6B6HatGUBg7HUlibER8F_51.205463_4.418081@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512910,
+    "wof:geomhash":"d76691f4cd2a07f67768ee049496fa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058170117
+        }
+    ],
+    "wof:id":1058170117,
+    "wof:lastmodified":1473512910,
+    "wof:name":"Kornitzer Marcel",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.4180808067,
+    51.2054634094,
+    4.4180808067,
+    51.2054634094
+],
+  "geometry": {"coordinates":[4.4180808067,51.2054634094],"type":"Point"}
+}

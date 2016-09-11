@@ -1,0 +1,81 @@
+{
+  "id": 1042072193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7222800255,51.0535812378,3.7222800255,51.0535812378",
+    "geom:latitude":51.053581,
+    "geom:longitude":3.72228,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Veldstraat 34-36",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 00 24",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CpGXz6q6ffOH9yk4HD0X4_51.053581_3.722280@1306268389"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495166,
+    "wof:geomhash":"568e3582fa247f9a7b33bc1f4ed0c9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1042072193
+        }
+    ],
+    "wof:id":1042072193,
+    "wof:lastmodified":1473495166,
+    "wof:name":"Appel's",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7222800255,
+    51.0535812378,
+    3.7222800255,
+    51.0535812378
+],
+  "geometry": {"coordinates":[3.7222800255,51.0535812378],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1042063351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5894570351,50.6426124573,5.5894570351,50.6426124573",
+    "geom:latitude":50.642612,
+    "geom:longitude":5.589457,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Bonnes Villes 58",
+    "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 341 45 75",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "sweep",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862027,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ab7XNyYlHhoxJIPQof8rj_50.642612_5.589457@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494803,
+    "wof:geomhash":"fa14f7a00159ed5297f459eef35ba656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862027,
+            "region_id":85681691,
+            "venue_id":1042063351
+        }
+    ],
+    "wof:id":1042063351,
+    "wof:lastmodified":1473494803,
+    "wof:name":"Servi-home Sc",
+    "wof:parent_id":85862027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweep",
+        "chimney"
+    ]
+},
+  "bbox": [
+    5.5894570351,
+    50.6426124573,
+    5.5894570351,
+    50.6426124573
+],
+  "geometry": {"coordinates":[5.5894570351,50.6426124573],"type":"Point"}
+}

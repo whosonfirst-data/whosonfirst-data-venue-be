@@ -1,0 +1,77 @@
+{
+  "id": 1042058481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.710709095,51.11195755,3.710709095,51.11195755",
+    "geom:latitude":51.111958,
+    "geom:longitude":3.710709,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kapellestraat 60",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 81 68",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pYxd0POJTgF1lfJX28hvM_51.111958_3.710709@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494613,
+    "wof:geomhash":"c0906a67be002bef6843953626d3ff73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1042058481
+        }
+    ],
+    "wof:id":1042058481,
+    "wof:lastmodified":1473494613,
+    "wof:name":"De Cock Ch",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    3.710709095,
+    51.11195755,
+    3.710709095,
+    51.11195755
+],
+  "geometry": {"coordinates":[3.710709095,51.11195755],"type":"Point"}
+}

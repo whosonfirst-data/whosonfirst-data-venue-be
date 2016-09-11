@@ -1,0 +1,77 @@
+{
+  "id": 1058497633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3585162163,50.8023376465,4.3585162163,50.8023376465",
+    "geom:latitude":50.802338,
+    "geom:longitude":4.358516,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Houzeau 41",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 25 28",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "osteopath"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zq8KbnCQmxbKWoyXo50p6_50.802338_4.358516@1306268518"
+    },
+    "wof:country":"BE",
+    "wof:created":1473527985,
+    "wof:geomhash":"aac8dd0cba67e3a4ba0c5fca34450243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1058497633
+        }
+    ],
+    "wof:id":1058497633,
+    "wof:lastmodified":1473527985,
+    "wof:name":"Grimmiaux M",
+    "wof:parent_id":85801553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopath"
+    ]
+},
+  "bbox": [
+    4.3585162163,
+    50.8023376465,
+    4.3585162163,
+    50.8023376465
+],
+  "geometry": {"coordinates":[4.3585162163,50.8023376465],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042031729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7072679996,51.1089286804,3.7072679996,51.1089286804",
+    "geom:latitude":51.108929,
+    "geom:longitude":3.707268,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsplein 16",
+    "sg:city":"Evergem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 258 20 14",
+    "sg:postcode":"9940",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801993,
+        102191581,
+        85632997,
+        404227357,
+        101754379,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_011Ay9B9OKnAmvQ66V9QLs_51.108929_3.707268@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493514,
+    "wof:geomhash":"6e32b65ca7edba05ca66b9a59e713175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101754379,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801993,
+            "region_id":85681733,
+            "venue_id":1042031729
+        }
+    ],
+    "wof:id":1042031729,
+    "wof:lastmodified":1473493514,
+    "wof:name":"Taverne Picco-bello",
+    "wof:parent_id":85801993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7072679996,
+    51.1089286804,
+    3.7072679996,
+    51.1089286804
+],
+  "geometry": {"coordinates":[3.7072679996,51.1089286804],"type":"Point"}
+}

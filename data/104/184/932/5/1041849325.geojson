@@ -1,0 +1,77 @@
+{
+  "id": 1041849325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2556669712,51.1691055298,3.2556669712,51.1691055298",
+    "geom:latitude":51.169106,
+    "geom:longitude":3.255667,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lieverstedestraat 1",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 82 51 22",
+    "sg:postcode":"8020",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JDfY4di3lITb4bcbzFdL2_51.169106_3.255667@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485775,
+    "wof:geomhash":"a8ebfa1eac31f3e2386be9ba80c820ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1041849325
+        }
+    ],
+    "wof:id":1041849325,
+    "wof:lastmodified":1473485775,
+    "wof:name":"Dias P",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    3.2556669712,
+    51.1691055298,
+    3.2556669712,
+    51.1691055298
+],
+  "geometry": {"coordinates":[3.2556669712,51.1691055298],"type":"Point"}
+}

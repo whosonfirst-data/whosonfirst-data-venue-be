@@ -1,0 +1,77 @@
+{
+  "id": 1058595941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2828030586,50.7915611267,4.2828030586,50.7915611267",
+    "geom:latitude":50.791561,
+    "geom:longitude":4.282803,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Generaal Lemanstraat 47",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 377 17 47",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801841,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XeznF4bioty6gRM5IRM1K_50.791561_4.282803@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532439,
+    "wof:geomhash":"c1c3802169c4345e8abe6dcf078b191b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801841,
+            "region_id":85681731,
+            "venue_id":1058595941
+        }
+    ],
+    "wof:id":1058595941,
+    "wof:lastmodified":1473532439,
+    "wof:name":"Federale Politie",
+    "wof:parent_id":85801841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    4.2828030586,
+    50.7915611267,
+    4.2828030586,
+    50.7915611267
+],
+  "geometry": {"coordinates":[4.2828030586,50.7915611267],"type":"Point"}
+}

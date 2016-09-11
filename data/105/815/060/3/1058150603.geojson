@@ -1,0 +1,81 @@
+{
+  "id": 1058150603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5573329926,50.6534996033,5.5573329926,50.6534996033",
+    "geom:latitude":50.6535,
+    "geom:longitude":5.557333,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard L\u00e9on Philippet 83",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 98 31",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xA5erxZA70lRss8cw5YzP_50.653500_5.557333@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512022,
+    "wof:geomhash":"4ddb572a618d206403927a40dde5a4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1058150603
+        }
+    ],
+    "wof:id":1058150603,
+    "wof:lastmodified":1473512022,
+    "wof:name":"Rfcl-cafetaria Athletisme",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    5.5573329926,
+    50.6534996033,
+    5.5573329926,
+    50.6534996033
+],
+  "geometry": {"coordinates":[5.5573329926,50.6534996033],"type":"Point"}
+}

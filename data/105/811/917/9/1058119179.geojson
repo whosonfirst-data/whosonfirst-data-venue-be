@@ -1,0 +1,77 @@
+{
+  "id": 1058119179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3634700775,50.823928833,4.3634700775,50.823928833",
+    "geom:latitude":50.823929,
+    "geom:longitude":4.36347,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Magistrat 51",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 35 75",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UKUsB0Rl5EDPyPY3sy9Mu_50.823929_4.363470@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510462,
+    "wof:geomhash":"d7747dc9480c956e24c17c85d83af371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058119179
+        }
+    ],
+    "wof:id":1058119179,
+    "wof:lastmodified":1473510462,
+    "wof:name":"Cipriani",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3634700775,
+    50.823928833,
+    4.3634700775,
+    50.823928833
+],
+  "geometry": {"coordinates":[4.3634700775,50.823928833],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041600601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.503921032,50.6160850525,5.503921032,50.6160850525",
+    "geom:latitude":50.616085,
+    "geom:longitude":5.503921,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue G. Lambert 14",
+    "sg:city":"Seraing (jemeppe-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 233 18 24",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862059,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XNyYlUV9lBRNPGUP7LEDF_50.616085_5.503921@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475321,
+    "wof:geomhash":"bb1a4eb078d072581ba778f2e681a6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862059,
+            "region_id":85681691,
+            "venue_id":1041600601
+        }
+    ],
+    "wof:id":1041600601,
+    "wof:lastmodified":1473475321,
+    "wof:name":"Alphonsine (coiffure)",
+    "wof:parent_id":85862059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.503921032,
+    50.6160850525,
+    5.503921032,
+    50.6160850525
+],
+  "geometry": {"coordinates":[5.503921032,50.6160850525],"type":"Point"}
+}

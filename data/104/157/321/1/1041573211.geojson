@@ -1,0 +1,83 @@
+{
+  "id": 1041573211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4061288834,50.8779373169,4.4061288834,50.8779373169",
+    "geom:latitude":50.877937,
+    "geom:longitude":4.406129,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Guillaume Van Leeuw 81",
+    "sg:city":"Bruxelles (evere)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 48 32",
+    "sg:postcode":"1140",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800923,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vM6QA1OuBqwX11ihqsAgw_50.877937_4.406129@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474179,
+    "wof:geomhash":"d8895a6986e33fa2405b6029138e6ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800923,
+            "region_id":85681713,
+            "venue_id":1041573211
+        }
+    ],
+    "wof:id":1041573211,
+    "wof:lastmodified":1473474179,
+    "wof:name":"Multimed",
+    "wof:parent_id":85800923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.4061288834,
+    50.8779373169,
+    4.4061288834,
+    50.8779373169
+],
+  "geometry": {"coordinates":[4.4061288834,50.8779373169],"type":"Point"}
+}

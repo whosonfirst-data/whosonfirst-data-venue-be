@@ -1,0 +1,79 @@
+{
+  "id": 1058738317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3276581764,50.7834358215,4.3276581764,50.7834358215",
+    "geom:latitude":50.783436,
+    "geom:longitude":4.327658,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e D'alsemberg 1276",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 52 95",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dNtNA4ZAnUjOD9w52Nh28_50.783436_4.327658@1306268562"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538827,
+    "wof:geomhash":"645b8d5c6d5c51ebdb8b7d5529ba1e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058738317
+        }
+    ],
+    "wof:id":1058738317,
+    "wof:lastmodified":1473538827,
+    "wof:name":"Coiffure Lievens",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    4.3276581764,
+    50.7834358215,
+    4.3276581764,
+    50.7834358215
+],
+  "geometry": {"coordinates":[4.3276581764,50.7834358215],"type":"Point"}
+}

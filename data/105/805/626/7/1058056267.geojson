@@ -1,0 +1,66 @@
+{
+  "id": 1058056267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5705099106,50.5911407471,5.5705099106,50.5911407471",
+    "geom:latitude":50.591141,
+    "geom:longitude":5.57051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Sart-tilman 351",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 371 97 56",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801845,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L9f8HW43Newgcy9PgH6su_50.591141_5.570510@1306268436"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507767,
+    "wof:geomhash":"badfb60f6ba5cb9527e3057ef9ec6ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801845,
+            "region_id":85681691,
+            "venue_id":1058056267
+        }
+    ],
+    "wof:id":1058056267,
+    "wof:lastmodified":1473507767,
+    "wof:name":"Temps Des Fleurs (le)",
+    "wof:parent_id":85801845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5705099106,
+    50.5911407471,
+    5.5705099106,
+    50.5911407471
+],
+  "geometry": {"coordinates":[5.5705099106,50.5911407471],"type":"Point"}
+}

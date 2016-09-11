@@ -1,0 +1,73 @@
+{
+  "id": 1058150643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.811674118,51.2021865845,3.811674118,51.2021865845",
+    "geom:latitude":51.202187,
+    "geom:longitude":3.811674,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 134",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 326 08 08",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "rental",
+        "-",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85862087,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33GLFQWnO83mt7IL4P0oDs_51.202187_3.811674@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512023,
+    "wof:geomhash":"7030b5c47f5f0fda96db9bf6bfb55257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85862087,
+            "region_id":85687037,
+            "venue_id":1058150643
+        }
+    ],
+    "wof:id":1058150643,
+    "wof:lastmodified":1473512023,
+    "wof:name":"Rozenhof ('t)",
+    "wof:parent_id":85862087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "-",
+        "hall"
+    ]
+},
+  "bbox": [
+    3.811674118,
+    51.2021865845,
+    3.811674118,
+    51.2021865845
+],
+  "geometry": {"coordinates":[3.811674118,51.2021865845],"type":"Point"}
+}

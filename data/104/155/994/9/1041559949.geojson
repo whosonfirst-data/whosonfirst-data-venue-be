@@ -1,0 +1,77 @@
+{
+  "id": 1041559949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4208579063,50.8173789978,4.4208579063,50.8173789978",
+    "geom:latitude":50.817379,
+    "geom:longitude":4.420858,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Wavre 1603",
+    "sg:city":"Bruxelles (auderghem)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 675 01 26",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FClqJLxMFQ6vNWUcbUjPO_50.817379_4.420858@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473619,
+    "wof:geomhash":"52540e509405ee3988c2c2d8abb60671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041559949
+        }
+    ],
+    "wof:id":1041559949,
+    "wof:lastmodified":1473473619,
+    "wof:name":"Oliver-kid",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.4208579063,
+    50.8173789978,
+    4.4208579063,
+    50.8173789978
+],
+  "geometry": {"coordinates":[4.4208579063,50.8173789978],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1042198021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4146289825,50.7968597412,4.4146289825,50.7968597412",
+    "geom:latitude":50.79686,
+    "geom:longitude":4.414629,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jagersveld 5",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 88 68",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800947,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_061KQLxPNY3Ot1XBX5USEB_50.796860_4.414629@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501802,
+    "wof:geomhash":"bef62825ec13ca60c946432f407237c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800947,
+            "region_id":85681713,
+            "venue_id":1042198021
+        }
+    ],
+    "wof:id":1042198021,
+    "wof:lastmodified":1473501802,
+    "wof:name":"St-jozefsschool",
+    "wof:parent_id":85800947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.4146289825,
+    50.7968597412,
+    4.4146289825,
+    50.7968597412
+],
+  "geometry": {"coordinates":[4.4146289825,50.7968597412],"type":"Point"}
+}

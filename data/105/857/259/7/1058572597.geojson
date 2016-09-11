@@ -1,0 +1,79 @@
+{
+  "id": 1058572597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4625620842,51.1693191528,4.4625620842,51.1693191528",
+    "geom:latitude":51.169319,
+    "geom:longitude":4.462562,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Liersesteenweg 98",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 449 64 25",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DCMpr6Gjr7gkJhojdnA43_51.169319_4.462562@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531420,
+    "wof:geomhash":"90ece906459b6abd9a072cf1f804ef60",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1058572597
+        }
+    ],
+    "wof:id":1058572597,
+    "wof:lastmodified":1473531420,
+    "wof:name":"Verbruggen Koen",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4625620842,
+    51.1693191528,
+    4.4625620842,
+    51.1693191528
+],
+  "geometry": {"coordinates":[4.4625620842,51.1693191528],"type":"Point"}
+}

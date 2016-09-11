@@ -1,0 +1,79 @@
+{
+  "id": 1058169477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3326888084,50.8860740662,4.3326888084,50.8860740662",
+    "geom:latitude":50.886074,
+    "geom:longitude":4.332689,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Arthur Van Gehuchten",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 477 26 20",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5woWIphx3YZ4pbCs2InHsH_50.886074_4.332689@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512880,
+    "wof:geomhash":"49ae4b143a7e764e5f104a913207206c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058169477
+        }
+    ],
+    "wof:id":1058169477,
+    "wof:lastmodified":1473512880,
+    "wof:name":"Jonas C",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3326888084,
+    50.8860740662,
+    4.3326888084,
+    50.8860740662
+],
+  "geometry": {"coordinates":[4.3326888084,50.8860740662],"type":"Point"}
+}

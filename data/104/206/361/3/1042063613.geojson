@@ -1,0 +1,77 @@
+{
+  "id": 1042063613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6428251266,50.6847839355,5.6428251266,50.6847839355",
+    "geom:latitude":50.684784,
+    "geom:longitude":5.642825,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Cit\u00e9 Wauters 91",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 35 77 61",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800909,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uOlCCMV5nqea9WnQ8dzoY_50.684784_5.642825@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494814,
+    "wof:geomhash":"89c54ec6a5e4cb1714ba9e5f8783c746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691,
+            "venue_id":1042063613
+        }
+    ],
+    "wof:id":1042063613,
+    "wof:lastmodified":1473494814,
+    "wof:name":"Centre Du Bien Etre",
+    "wof:parent_id":85800909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    5.6428251266,
+    50.6847839355,
+    5.6428251266,
+    50.6847839355
+],
+  "geometry": {"coordinates":[5.6428251266,50.6847839355],"type":"Point"}
+}

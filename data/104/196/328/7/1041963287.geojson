@@ -1,0 +1,77 @@
+{
+  "id": 1041963287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4329428673,50.8342628479,4.4329428673,50.8342628479",
+    "geom:latitude":50.834263,
+    "geom:longitude":4.432943,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Prisonniers Politiques 6 Box 3",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 31 05",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f8Otlu7Mg61PaEua2FCOn_50.834263_4.432943@1306268368"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490641,
+    "wof:geomhash":"d7c5e7587796dd423c900e9f4f6b7198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1041963287
+        }
+    ],
+    "wof:id":1041963287,
+    "wof:lastmodified":1473490641,
+    "wof:name":"Comhaire X",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeper"
+    ]
+},
+  "bbox": [
+    4.4329428673,
+    50.8342628479,
+    4.4329428673,
+    50.8342628479
+],
+  "geometry": {"coordinates":[4.4329428673,50.8342628479],"type":"Point"}
+}

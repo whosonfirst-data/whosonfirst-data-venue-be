@@ -1,0 +1,79 @@
+{
+  "id": 1058964859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4629302025,51.1431312561,4.4629302025,51.1431312561",
+    "geom:latitude":51.143131,
+    "geom:longitude":4.46293,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guido Gezellestraat 4",
+    "sg:city":"Hove",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 46 22",
+    "sg:postcode":"2540",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wfjdGq1jZcBxj1xSOvSH2_51.143131_4.462930@1306268604"
+    },
+    "wof:country":"BE",
+    "wof:created":1473548988,
+    "wof:geomhash":"7e62239574d7f5af89fed24ce3da1efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1058964859
+        }
+    ],
+    "wof:id":1058964859,
+    "wof:lastmodified":1473548988,
+    "wof:name":"Aquadek Bvba",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    4.4629302025,
+    51.1431312561,
+    4.4629302025,
+    51.1431312561
+],
+  "geometry": {"coordinates":[4.4629302025,51.1431312561],"type":"Point"}
+}

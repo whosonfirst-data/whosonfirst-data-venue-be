@@ -1,0 +1,77 @@
+{
+  "id": 1058760165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3314270973,50.8425369263,4.3314270973,50.8425369263",
+    "geom:latitude":50.842537,
+    "geom:longitude":4.331427,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Mons 145",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 43 50",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sculptor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800757,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D3b6pt2l5738GmTfzasIV_50.842537_4.331427@1306268566"
+    },
+    "wof:country":"BE",
+    "wof:created":1473539787,
+    "wof:geomhash":"00c88889a100198c6dd69661da138747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800757,
+            "region_id":85681713,
+            "venue_id":1058760165
+        }
+    ],
+    "wof:id":1058760165,
+    "wof:lastmodified":1473539787,
+    "wof:name":"Atelier Nik Honinckx",
+    "wof:parent_id":85800757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sculptor"
+    ]
+},
+  "bbox": [
+    4.3314270973,
+    50.8425369263,
+    4.3314270973,
+    50.8425369263
+],
+  "geometry": {"coordinates":[4.3314270973,50.8425369263],"type":"Point"}
+}

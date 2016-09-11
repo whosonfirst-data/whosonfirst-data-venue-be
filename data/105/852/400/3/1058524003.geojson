@@ -1,0 +1,79 @@
+{
+  "id": 1058524003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6208450794,51.0323143005,3.6208450794,51.0323143005",
+    "geom:latitude":51.032314,
+    "geom:longitude":3.620845,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baarle Frankrijkstraat 45",
+    "sg:city":"Sint-martens-latem",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 22 52",
+    "sg:postcode":"9830",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "parking-places",
+        "laying-out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800739,
+        102191581,
+        85632997,
+        404227357,
+        101755677,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QfJrJKNoTnplZlmUAHsxu_51.032314_3.620845@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529176,
+    "wof:geomhash":"a972b90290c0a08e433a45fe0dd861d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101755677,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800739,
+            "region_id":85681733,
+            "venue_id":1058524003
+        }
+    ],
+    "wof:id":1058524003,
+    "wof:lastmodified":1473529176,
+    "wof:name":"Van De Gehuchte P",
+    "wof:parent_id":85800739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parking-places",
+        "laying-out"
+    ]
+},
+  "bbox": [
+    3.6208450794,
+    51.0323143005,
+    3.6208450794,
+    51.0323143005
+],
+  "geometry": {"coordinates":[3.6208450794,51.0323143005],"type":"Point"}
+}

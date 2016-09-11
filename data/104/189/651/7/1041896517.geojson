@@ -1,0 +1,83 @@
+{
+  "id": 1041896517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7424209118,51.0407066345,3.7424209118,51.0407066345",
+    "geom:latitude":51.040707,
+    "geom:longitude":3.742421,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsestw 332",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 231 03 49",
+    "sg:postcode":"9050",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56v4g1szx9ZK2umgpWzyhz_51.040707_3.742421@1306268357"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487765,
+    "wof:geomhash":"cc1a0da57266a8ac59ff4b0e4efc6b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1041896517
+        }
+    ],
+    "wof:id":1041896517,
+    "wof:lastmodified":1473487765,
+    "wof:name":"Wijs & Josmar Inkasso",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "insurance",
+        "institution",
+        "finance"
+    ]
+},
+  "bbox": [
+    3.7424209118,
+    51.0407066345,
+    3.7424209118,
+    51.0407066345
+],
+  "geometry": {"coordinates":[3.7424209118,51.0407066345],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058141027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3596000671,50.8321495056,4.3596000671,50.8321495056",
+    "geom:latitude":50.83215,
+    "geom:longitude":4.3596,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Concorde 68",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 502 02 39",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fDsmxWAbncMT0IBTvmfsx_50.832150_4.359600@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511520,
+    "wof:geomhash":"549ee605c0559b3a18252fc24ab9229b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1058141027
+        }
+    ],
+    "wof:id":1058141027,
+    "wof:lastmodified":1473511520,
+    "wof:name":"Hardy P",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3596000671,
+    50.8321495056,
+    4.3596000671,
+    50.8321495056
+],
+  "geometry": {"coordinates":[4.3596000671,50.8321495056],"type":"Point"}
+}

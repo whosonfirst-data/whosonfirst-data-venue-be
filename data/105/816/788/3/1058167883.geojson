@@ -1,0 +1,73 @@
+{
+  "id": 1058167883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6555008888,50.9955863953,3.6555008888,50.9955863953",
+    "geom:latitude":50.995586,
+    "geom:longitude":3.655501,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Begonialaan 13",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 03 76",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yxIQibXqRZDg5NQm0LO4L_50.995586_3.655501@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512788,
+    "wof:geomhash":"f03c2b27e8cd2dd33213aed2921ceac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1058167883
+        }
+    ],
+    "wof:id":1058167883,
+    "wof:lastmodified":1473512788,
+    "wof:name":"Hendrickx Koenraad",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6555008888,
+    50.9955863953,
+    3.6555008888,
+    50.9955863953
+],
+  "geometry": {"coordinates":[3.6555008888,50.9955863953],"type":"Point"}
+}

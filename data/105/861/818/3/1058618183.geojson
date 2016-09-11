@@ -1,0 +1,79 @@
+{
+  "id": 1058618183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3845419884,50.8419761658,4.3845419884,50.8419761658",
+    "geom:latitude":50.841976,
+    "geom:longitude":4.384542,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Loi 221 Box 5",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 235 06 20",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hC7fafJJPId0ms1NRXxUS_50.841976_4.384542@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533494,
+    "wof:geomhash":"39349cfce596b042d3abe097b7991d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058618183
+        }
+    ],
+    "wof:id":1058618183,
+    "wof:lastmodified":1473533494,
+    "wof:name":"A.i.j.n.",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3845419884,
+    50.8419761658,
+    4.3845419884,
+    50.8419761658
+],
+  "geometry": {"coordinates":[4.3845419884,50.8419761658],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1041914105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3496518135,50.8465003967,4.3496518135,50.8465003967",
+    "geom:latitude":50.8465,
+    "geom:longitude":4.349652,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kolenmarkt 27",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 38 43",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tqTf0PDGa8hhr18ImYrr8_50.846500_4.349652@1306268360"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488481,
+    "wof:geomhash":"2d3a4c25d00a6ab79ca6d62b7c2ca0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1041914105
+        }
+    ],
+    "wof:id":1041914105,
+    "wof:lastmodified":1473488481,
+    "wof:name":"Restaurant H2 O",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.3496518135,
+    50.8465003967,
+    4.3496518135,
+    50.8465003967
+],
+  "geometry": {"coordinates":[4.3496518135,50.8465003967],"type":"Point"}
+}

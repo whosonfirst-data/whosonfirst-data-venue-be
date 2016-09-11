@@ -1,0 +1,79 @@
+{
+  "id": 1058832473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4354119301,50.845085144,4.4354119301,50.845085144",
+    "geom:latitude":50.845085,
+    "geom:longitude":4.435412,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Saint-lambert 135b",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 495 22 89 50",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fixture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801825,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zMloKxq5hbXTviiELyB6t_50.845085_4.435412@1306268580"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542962,
+    "wof:geomhash":"aa4ba472b137cfde654cd380c14e8f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801825,
+            "region_id":85681713,
+            "venue_id":1058832473
+        }
+    ],
+    "wof:id":1058832473,
+    "wof:lastmodified":1473542962,
+    "wof:name":"Maxiview",
+    "wof:parent_id":85801825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "store"
+    ]
+},
+  "bbox": [
+    4.4354119301,
+    50.845085144,
+    4.4354119301,
+    50.845085144
+],
+  "geometry": {"coordinates":[4.4354119301,50.845085144],"type":"Point"}
+}

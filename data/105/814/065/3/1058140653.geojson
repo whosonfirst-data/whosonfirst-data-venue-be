@@ -1,0 +1,81 @@
+{
+  "id": 1058140653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7149000168,51.0305137634,3.7149000168,51.0305137634",
+    "geom:latitude":51.030514,
+    "geom:longitude":3.7149,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-pietersaalststraat 56a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 220 42 72",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KuCltXERUsXKZt3UaNB8B_51.030514_3.714900@1306268453"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511487,
+    "wof:geomhash":"882ff4ff9ae4eeae7b7f8fe458fabf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1058140653
+        }
+    ],
+    "wof:id":1058140653,
+    "wof:lastmodified":1473511487,
+    "wof:name":"Haarstudio Clips",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.7149000168,
+    51.0305137634,
+    3.7149000168,
+    51.0305137634
+],
+  "geometry": {"coordinates":[3.7149000168,51.0305137634],"type":"Point"}
+}

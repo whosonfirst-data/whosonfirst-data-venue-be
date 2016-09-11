@@ -1,0 +1,77 @@
+{
+  "id": 1042204749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2319149971,51.2299003601,3.2319149971,51.2299003601",
+    "geom:latitude":51.2299,
+    "geom:longitude":3.231915,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Landjuwelenstraat 13",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 93 75",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IBObz3AHSzhC6SDYXcFUN_51.229900_3.231915@1306268415"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502204,
+    "wof:geomhash":"21f48197b3973a8439918de9b125d71a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1042204749
+        }
+    ],
+    "wof:id":1042204749,
+    "wof:lastmodified":1473502204,
+    "wof:name":"De Smedt",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    3.2319149971,
+    51.2299003601,
+    3.2319149971,
+    51.2299003601
+],
+  "geometry": {"coordinates":[3.2319149971,51.2299003601],"type":"Point"}
+}

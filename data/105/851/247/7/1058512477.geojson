@@ -1,0 +1,79 @@
+{
+  "id": 1058512477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3259758949,50.8713493347,4.3259758949,50.8713493347",
+    "geom:latitude":50.871349,
+    "geom:longitude":4.325976,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Jette 572",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 421 76 71",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L9fr8Om9g0p4mrRuUbJ4u_50.871349_4.325976@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528660,
+    "wof:geomhash":"3a5671ff8d466bfba93df1bba96c7534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058512477
+        }
+    ],
+    "wof:id":1058512477,
+    "wof:lastmodified":1473528660,
+    "wof:name":"Eubaco",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3259758949,
+    50.8713493347,
+    4.3259758949,
+    50.8713493347
+],
+  "geometry": {"coordinates":[4.3259758949,50.8713493347],"type":"Point"}
+}

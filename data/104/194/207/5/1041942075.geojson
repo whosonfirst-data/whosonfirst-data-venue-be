@@ -1,0 +1,77 @@
+{
+  "id": 1041942075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3256378174,50.8014221191,4.3256378174,50.8014221191",
+    "geom:latitude":50.801422,
+    "geom:longitude":4.325638,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Victor Allard 243",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 26 99",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "blast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ltek5hxXypt4Lt1NzV3E_50.801422_4.325638@1306268365"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489752,
+    "wof:geomhash":"b5f8f66596eb218896515457de569e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1041942075
+        }
+    ],
+    "wof:id":1041942075,
+    "wof:lastmodified":1473489752,
+    "wof:name":"Facaclean Sa",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blast"
+    ]
+},
+  "bbox": [
+    4.3256378174,
+    50.8014221191,
+    4.3256378174,
+    50.8014221191
+],
+  "geometry": {"coordinates":[4.3256378174,50.8014221191],"type":"Point"}
+}

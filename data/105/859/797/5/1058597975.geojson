@@ -1,0 +1,79 @@
+{
+  "id": 1058597975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5607151985,50.6061515808,5.5607151985,50.6061515808",
+    "geom:latitude":50.606152,
+    "geom:longitude":5.560715,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Renory 478",
+    "sg:city":"Li\u00e8ge 1 (angleur)",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 343 58 28",
+    "sg:postcode":"4031",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "port",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801817,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q0WMRtLpZya3ypon0yZN6_50.606152_5.560715@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532528,
+    "wof:geomhash":"9104576fc40d0adc570e3ba4a3893ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801817,
+            "region_id":85681691,
+            "venue_id":1058597975
+        }
+    ],
+    "wof:id":1058597975,
+    "wof:lastmodified":1473532528,
+    "wof:name":"Renory Sa",
+    "wof:parent_id":85801817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "port",
+        "facility"
+    ]
+},
+  "bbox": [
+    5.5607151985,
+    50.6061515808,
+    5.5607151985,
+    50.6061515808
+],
+  "geometry": {"coordinates":[5.5607151985,50.6061515808],"type":"Point"}
+}

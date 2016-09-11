@@ -1,0 +1,79 @@
+{
+  "id": 1058074383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3880009651,50.8557167053,4.3880009651,50.8557167053",
+    "geom:latitude":50.855717,
+    "geom:longitude":4.388001,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Bossaerts 113",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 71 19 93",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tQ2i55KJic5RWBYZWxnJR_50.855717_4.388001@1306268439"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508484,
+    "wof:geomhash":"e3914c1063fc36a26c72b9a48bf2c510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058074383
+        }
+    ],
+    "wof:id":1058074383,
+    "wof:lastmodified":1473508484,
+    "wof:name":"Deli-fruit",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3880009651,
+    50.8557167053,
+    4.3880009651,
+    50.8557167053
+],
+  "geometry": {"coordinates":[4.3880009651,50.8557167053],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1041884115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6993589401,50.8717308044,4.6993589401,50.8717308044",
+    "geom:latitude":50.871731,
+    "geom:longitude":4.699359,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Naamsestraat 124",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 23 75 20",
+    "sg:postcode":"3000",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sU2PDjZDy7CQqw2in10YY_50.871731_4.699359@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487250,
+    "wof:geomhash":"e04375674055cad03ccad6f2e5d16a0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1041884115
+        }
+    ],
+    "wof:id":1041884115,
+    "wof:lastmodified":1473487250,
+    "wof:name":"Scheys H",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.6993589401,
+    50.8717308044,
+    4.6993589401,
+    50.8717308044
+],
+  "geometry": {"coordinates":[4.6993589401,50.8717308044],"type":"Point"}
+}

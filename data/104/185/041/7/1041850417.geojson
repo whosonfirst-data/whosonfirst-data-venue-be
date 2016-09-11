@@ -1,0 +1,77 @@
+{
+  "id": 1041850417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.501347065,51.2449455261,4.501347065,51.2449455261",
+    "geom:latitude":51.244946,
+    "geom:longitude":4.501347,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leo Van Hullebuschstraat 215",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 685 54 44",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EaFcPWYSv1hH98FkWzXbD_51.244946_4.501347@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485819,
+    "wof:geomhash":"3fb37fcc03579a879ca52b5688896d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1041850417
+        }
+    ],
+    "wof:id":1041850417,
+    "wof:lastmodified":1473485819,
+    "wof:name":"Steda Cars Bvba",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.501347065,
+    51.2449455261,
+    4.501347065,
+    51.2449455261
+],
+  "geometry": {"coordinates":[4.501347065,51.2449455261],"type":"Point"}
+}

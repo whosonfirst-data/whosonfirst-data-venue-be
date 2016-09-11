@@ -1,0 +1,79 @@
+{
+  "id": 1041659075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5546321869,50.6472625732,5.5546321869,50.6472625732",
+    "geom:latitude":50.647263,
+    "geom:longitude":5.554632,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-marguerite 261",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 59 09",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "de",
+        "coiffure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CrLKmA4tOFl7NRhocM9Nt_50.647263_5.554632@1306268561"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477719,
+    "wof:geomhash":"8f17cf6127189e66c5cfc8f1d65182ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1041659075
+        }
+    ],
+    "wof:id":1041659075,
+    "wof:lastmodified":1473477719,
+    "wof:name":"Coiffure A.j.c.",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "coiffure"
+    ]
+},
+  "bbox": [
+    5.5546321869,
+    50.6472625732,
+    5.5546321869,
+    50.6472625732
+],
+  "geometry": {"coordinates":[5.5546321869,50.6472625732],"type":"Point"}
+}

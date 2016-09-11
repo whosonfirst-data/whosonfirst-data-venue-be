@@ -1,0 +1,81 @@
+{
+  "id": 1058146105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3961949348,50.7350234985,4.3961949348,50.7350234985",
+    "geom:latitude":50.735023,
+    "geom:longitude":4.396195,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Waterloo 125",
+    "sg:city":"Rhode-saint-gen\u00e8se",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 358 13 26",
+    "sg:postcode":"1640",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zkCJZIlAXlWZpB9odRufr_50.735023_4.396195@1306268455"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511827,
+    "wof:geomhash":"b2681f04dee59a57bddf6389e2fb4f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1058146105
+        }
+    ],
+    "wof:id":1058146105,
+    "wof:lastmodified":1473511827,
+    "wof:name":"Oblin M",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3961949348,
+    50.7350234985,
+    4.3961949348,
+    50.7350234985
+],
+  "geometry": {"coordinates":[4.3961949348,50.7350234985],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1042092665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2811870575,50.7920188904,4.2811870575,50.7920188904",
+    "geom:latitude":50.792019,
+    "geom:longitude":4.281187,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Georges Wittouckstraat 14",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 39 45",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "crematory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pb287h3r0aC01Hnvg9JWd_50.792019_4.281187@1306268394"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496063,
+    "wof:geomhash":"ce672f435963123b832311b771cca541",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1042092665
+        }
+    ],
+    "wof:id":1042092665,
+    "wof:lastmodified":1473496063,
+    "wof:name":"Heymans",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematory"
+    ]
+},
+  "bbox": [
+    4.2811870575,
+    50.7920188904,
+    4.2811870575,
+    50.7920188904
+],
+  "geometry": {"coordinates":[4.2811870575,50.7920188904],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1058680911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7524790764,51.0770645142,3.7524790764,51.0770645142",
+    "geom:latitude":51.077065,
+    "geom:longitude":3.752479,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-bernadettestraat 626",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 251 11 29",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2exGEdEZTxHGUFHsDdqemw_51.077065_3.752479@1306268553"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536317,
+    "wof:geomhash":"60f54f32f659be331556cb50710ad9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058680911
+        }
+    ],
+    "wof:id":1058680911,
+    "wof:lastmodified":1473536317,
+    "wof:name":"Ter Toren",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7524790764,
+    51.0770645142,
+    3.7524790764,
+    51.0770645142
+],
+  "geometry": {"coordinates":[3.7524790764,51.0770645142],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1042139525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6454589367,50.9833908081,3.6454589367,50.9833908081",
+    "geom:latitude":50.983391,
+    "geom:longitude":3.645459,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nieuwstraat 5",
+    "sg:city":"De Pinte",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 282 56 71",
+    "sg:postcode":"9840",
+    "sg:province":"Oost-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801879,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Dp43dvVYflXn1ssUwAEW_50.983391_3.645459@1306268403"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498472,
+    "wof:geomhash":"fa6287182567276c2adf190b85e54a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85801879,
+            "region_id":85681733,
+            "venue_id":1042139525
+        }
+    ],
+    "wof:id":1042139525,
+    "wof:lastmodified":1473498472,
+    "wof:name":"Van Maerken Gerda",
+    "wof:parent_id":85801879,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6454589367,
+    50.9833908081,
+    3.6454589367,
+    50.9833908081
+],
+  "geometry": {"coordinates":[3.6454589367,50.9833908081],"type":"Point"}
+}

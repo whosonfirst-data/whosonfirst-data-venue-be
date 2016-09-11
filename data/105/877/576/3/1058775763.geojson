@@ -1,0 +1,79 @@
+{
+  "id": 1058775763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5735621452,50.6428718567,5.5735621452,50.6428718567",
+    "geom:latitude":50.642872,
+    "geom:longitude":5.573562,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La R\u00e9gence 23c",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 34 29",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "slipper",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ebn41DkzyqdRYmAqooVSl_50.642872_5.573562@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540487,
+    "wof:geomhash":"5f9840875d9c190af6c43b047af4e514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058775763
+        }
+    ],
+    "wof:id":1058775763,
+    "wof:lastmodified":1473540487,
+    "wof:name":"Palais De La Chaussure",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5735621452,
+    50.6428718567,
+    5.5735621452,
+    50.6428718567
+],
+  "geometry": {"coordinates":[5.5735621452,50.6428718567],"type":"Point"}
+}

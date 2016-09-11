@@ -1,0 +1,77 @@
+{
+  "id": 1041674435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3906049728,50.8296318054,4.3906049728,50.8296318054",
+    "geom:latitude":50.829632,
+    "geom:longitude":4.390605,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Casernes 8-10",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 649 92 98",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "tyre"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LMoyzflv26m3mUqVkkg21_50.829632_4.390605@1306268594"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478313,
+    "wof:geomhash":"9fc410458506e1e39a92163fb02950e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1041674435
+        }
+    ],
+    "wof:id":1041674435,
+    "wof:lastmodified":1473478313,
+    "wof:name":"A\u00e9ropneus",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tyre"
+    ]
+},
+  "bbox": [
+    4.3906049728,
+    50.8296318054,
+    4.3906049728,
+    50.8296318054
+],
+  "geometry": {"coordinates":[4.3906049728,50.8296318054],"type":"Point"}
+}

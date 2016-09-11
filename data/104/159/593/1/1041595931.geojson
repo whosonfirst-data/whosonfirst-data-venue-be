@@ -1,0 +1,77 @@
+{
+  "id": 1041595931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3385930061,50.8602027893,4.3385930061,50.8602027893",
+    "geom:latitude":50.860203,
+    "geom:longitude":4.338593,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jennart 19",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 23 98",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11TR0rbunkrp0ECUq9rFd2_50.860203_4.338593@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475130,
+    "wof:geomhash":"12c99589c5f4ea213f99337ee3a28e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1041595931
+        }
+    ],
+    "wof:id":1041595931,
+    "wof:lastmodified":1473475130,
+    "wof:name":"Mgd Cars Sprl",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.3385930061,
+    50.8602027893,
+    4.3385930061,
+    50.8602027893
+],
+  "geometry": {"coordinates":[4.3385930061,50.8602027893],"type":"Point"}
+}

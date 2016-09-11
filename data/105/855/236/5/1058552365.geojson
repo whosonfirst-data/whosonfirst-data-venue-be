@@ -1,0 +1,77 @@
+{
+  "id": 1058552365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3199510574,50.8889083862,4.3199510574,50.8889083862",
+    "geom:latitude":50.888908,
+    "geom:longitude":4.319951,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Clos Jecta 4",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 479 07 93",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aI4z34N2IkloWGIsPDub9_50.888908_4.319951@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530468,
+    "wof:geomhash":"2e5560eafb4a56fbde65e5beb57be9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1058552365
+        }
+    ],
+    "wof:id":1058552365,
+    "wof:lastmodified":1473530468,
+    "wof:name":"De Donder Luc",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3199510574,
+    50.8889083862,
+    4.3199510574,
+    50.8889083862
+],
+  "geometry": {"coordinates":[4.3199510574,50.8889083862],"type":"Point"}
+}

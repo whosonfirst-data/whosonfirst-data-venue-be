@@ -1,0 +1,83 @@
+{
+  "id": 1058177247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4715790749,50.8649024963,4.4715790749,50.8649024963",
+    "geom:latitude":50.864902,
+    "geom:longitude":4.471579,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Molenstraat 143",
+    "sg:city":"Zaventem (sterrebeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 09 66",
+    "sg:postcode":"1933",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801405,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SOiTQvGSqPmKvYM2Qvqk9_50.864902_4.471579@1306268462"
+    },
+    "wof:country":"BE",
+    "wof:created":1473513215,
+    "wof:geomhash":"8b4d4b1d5892ec7fab7052961e9eb39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801405,
+            "region_id":85681731,
+            "venue_id":1058177247
+        }
+    ],
+    "wof:id":1058177247,
+    "wof:lastmodified":1473513215,
+    "wof:name":"Saniphil",
+    "wof:parent_id":85801405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    4.4715790749,
+    50.8649024963,
+    4.4715790749,
+    50.8649024963
+],
+  "geometry": {"coordinates":[4.4715790749,50.8649024963],"type":"Point"}
+}

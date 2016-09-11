@@ -1,0 +1,81 @@
+{
+  "id": 1058376233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4279670715,50.8942718506,4.4279670715,50.8942718506",
+    "geom:latitude":50.894272,
+    "geom:longitude":4.427967,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La M\u00e9trologie 6",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 240 94 94",
+    "sg:postcode":"1130",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "mail",
+        "order",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801061,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gYsDZbrIHDg1f0CmSnhH6_50.894272_4.427967@1306268498"
+    },
+    "wof:country":"BE",
+    "wof:created":1473522165,
+    "wof:geomhash":"827e0ab13dd3571f6eba2b1056bddf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801061,
+            "region_id":85681731,
+            "venue_id":1058376233
+        }
+    ],
+    "wof:id":1058376233,
+    "wof:lastmodified":1473522165,
+    "wof:name":"Grand Livre Du Mois",
+    "wof:parent_id":85801061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "house"
+    ]
+},
+  "bbox": [
+    4.4279670715,
+    50.8942718506,
+    4.4279670715,
+    50.8942718506
+],
+  "geometry": {"coordinates":[4.4279670715,50.8942718506],"type":"Point"}
+}

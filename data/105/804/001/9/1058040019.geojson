@@ -1,0 +1,81 @@
+{
+  "id": 1058040019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2986521721,50.8479804993,4.2986521721,50.8479804993",
+    "geom:latitude":50.84798,
+    "geom:longitude":4.298652,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Louis Mettewie 487 Box 12",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 414 43 50",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800971,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PZtceYgcOZ8AFkefGHxc7_50.847980_4.298652@1306268432"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507106,
+    "wof:geomhash":"ab8d671eb483aa6843d27fc2638f322c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800971,
+            "region_id":85681713,
+            "venue_id":1058040019
+        }
+    ],
+    "wof:id":1058040019,
+    "wof:lastmodified":1473507106,
+    "wof:name":"L F C Lochem Belgium",
+    "wof:parent_id":85800971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "-",
+        "liquid"
+    ]
+},
+  "bbox": [
+    4.2986521721,
+    50.8479804993,
+    4.2986521721,
+    50.8479804993
+],
+  "geometry": {"coordinates":[4.2986521721,50.8479804993],"type":"Point"}
+}

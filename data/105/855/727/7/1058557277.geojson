@@ -1,0 +1,77 @@
+{
+  "id": 1058557277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4211578369,50.8390769958,4.4211578369,50.8390769958",
+    "geom:latitude":50.839077,
+    "geom:longitude":4.421158,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Cambre 108",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 751 51 28",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nnrse4w25XyyR08luGaNr_50.839077_4.421158@1306268529"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530682,
+    "wof:geomhash":"699d74d08929bbb6be55b86673c8aaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058557277
+        }
+    ],
+    "wof:id":1058557277,
+    "wof:lastmodified":1473530682,
+    "wof:name":"Gaye Dominique",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4211578369,
+    50.8390769958,
+    4.4211578369,
+    50.8390769958
+],
+  "geometry": {"coordinates":[4.4211578369,50.8390769958],"type":"Point"}
+}

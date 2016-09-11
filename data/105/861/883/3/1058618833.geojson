@@ -1,0 +1,79 @@
+{
+  "id": 1058618833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3569197655,50.8496208191,4.3569197655,50.8496208191",
+    "geom:latitude":50.849621,
+    "geom:longitude":4.35692,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Foss\u00e9 Aux Loups 388b",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 53 08",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m9It6NnOYobsZiHEuTGMA_50.849621_4.356920@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533525,
+    "wof:geomhash":"81fbe7120794200990b6f82747a29bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058618833
+        }
+    ],
+    "wof:id":1058618833,
+    "wof:lastmodified":1473533525,
+    "wof:name":"E F A",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3569197655,
+    50.8496208191,
+    4.3569197655,
+    50.8496208191
+],
+  "geometry": {"coordinates":[4.3569197655,50.8496208191],"type":"Point"}
+}

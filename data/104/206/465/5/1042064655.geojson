@@ -1,0 +1,79 @@
+{
+  "id": 1042064655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7753310204,51.0229187012,3.7753310204,51.0229187012",
+    "geom:latitude":51.022919,
+    "geom:longitude":3.775331,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 61",
+    "sg:city":"Melle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 230 36 04",
+    "sg:postcode":"9090",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectionery",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RoHNMOoPjjJwWLr9YyA5H_51.022919_3.775331@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494855,
+    "wof:geomhash":"90ddb8fd7531c83ed176a990552f26a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1042064655
+        }
+    ],
+    "wof:id":1042064655,
+    "wof:lastmodified":1473494855,
+    "wof:name":"Beregoed",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7753310204,
+    51.0229187012,
+    3.7753310204,
+    51.0229187012
+],
+  "geometry": {"coordinates":[3.7753310204,51.0229187012],"type":"Point"}
+}

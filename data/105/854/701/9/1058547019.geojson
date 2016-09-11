@@ -1,0 +1,77 @@
+{
+  "id": 1058547019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3389258385,50.8754501343,4.3389258385,50.8754501343",
+    "geom:latitude":50.87545,
+    "geom:longitude":4.338926,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Pannenhuys 38",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 427 91 26",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74VypNOJAZmaAdE5nUUYpZ_50.875450_4.338926@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530230,
+    "wof:geomhash":"063ab0b86917ee3c01914433af19dd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058547019
+        }
+    ],
+    "wof:id":1058547019,
+    "wof:lastmodified":1473530230,
+    "wof:name":"Aerts Suzanne",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3389258385,
+    50.8754501343,
+    4.3389258385,
+    50.8754501343
+],
+  "geometry": {"coordinates":[4.3389258385,50.8754501343],"type":"Point"}
+}

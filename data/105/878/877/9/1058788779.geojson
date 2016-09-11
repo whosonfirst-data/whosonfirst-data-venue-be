@@ -1,0 +1,77 @@
+{
+  "id": 1058788779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5696220398,50.6397628784,5.5696220398,50.6397628784",
+    "geom:latitude":50.639763,
+    "geom:longitude":5.569622,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hazinelle 4",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 222 33 35",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uciCSaFqTNcro6HYumAHl_50.639763_5.569622@1306268572"
+    },
+    "wof:country":"BE",
+    "wof:created":1473541040,
+    "wof:geomhash":"18066c85170d39516c18807ad774649d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1058788779
+        }
+    ],
+    "wof:id":1058788779,
+    "wof:lastmodified":1473541040,
+    "wof:name":"Saveurs Colorees",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    5.5696220398,
+    50.6397628784,
+    5.5696220398,
+    50.6397628784
+],
+  "geometry": {"coordinates":[5.5696220398,50.6397628784],"type":"Point"}
+}

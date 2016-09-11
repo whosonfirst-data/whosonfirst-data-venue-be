@@ -1,0 +1,71 @@
+{
+  "id": 1058090881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2872171402,50.804813385,4.2872171402,50.804813385",
+    "geom:latitude":50.804813,
+    "geom:longitude":4.287217,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-stevensstraat 29",
+    "sg:city":"Sint-pieters-leeuw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 378 31 47",
+    "sg:postcode":"1600",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85800885,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lAXm82Zo9IiJOKQVGz99v_50.804813_4.287217@1306268443"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509187,
+    "wof:geomhash":"db61d0a6be467759c7849afb3355acf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85800885,
+            "region_id":85681731,
+            "venue_id":1058090881
+        }
+    ],
+    "wof:id":1058090881,
+    "wof:lastmodified":1473509187,
+    "wof:name":"Daniel Motor Bvba",
+    "wof:parent_id":85800885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.2872171402,
+    50.804813385,
+    4.2872171402,
+    50.804813385
+],
+  "geometry": {"coordinates":[4.2872171402,50.804813385],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058277325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4097099304,50.8429832458,4.4097099304,50.8429832458",
+    "geom:latitude":50.842983,
+    "geom:longitude":4.40971,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Georges Henri 347",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 57 27",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "interior",
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_387lCRYEAPjHE8ZY1zUnrW_50.842983_4.409710@1306268480"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517585,
+    "wof:geomhash":"3535eda368e6edab2324c9f2561eff01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1058277325
+        }
+    ],
+    "wof:id":1058277325,
+    "wof:lastmodified":1473517585,
+    "wof:name":"3\u00e8me Element (le)",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "decoration"
+    ]
+},
+  "bbox": [
+    4.4097099304,
+    50.8429832458,
+    4.4097099304,
+    50.8429832458
+],
+  "geometry": {"coordinates":[4.4097099304,50.8429832458],"type":"Point"}
+}

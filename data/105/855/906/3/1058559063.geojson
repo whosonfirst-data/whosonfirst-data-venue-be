@@ -1,0 +1,77 @@
+{
+  "id": 1058559063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3638129234,50.7942810059,4.3638129234,50.7942810059",
+    "geom:latitude":50.794281,
+    "geom:longitude":4.363813,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jean Et Pierre Carsoel 6",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 37 95",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dslQrpOqluSB7zl8vYCMd_50.794281_4.363813@1306268530"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530788,
+    "wof:geomhash":"d3991db031ded21342a8b4f0c11eb635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058559063
+        }
+    ],
+    "wof:id":1058559063,
+    "wof:lastmodified":1473530788,
+    "wof:name":"Higuet C",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.3638129234,
+    50.7942810059,
+    4.3638129234,
+    50.7942810059
+],
+  "geometry": {"coordinates":[4.3638129234,50.7942810059],"type":"Point"}
+}

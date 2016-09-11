@@ -1,0 +1,79 @@
+{
+  "id": 1042000563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"6.5595002174,52.9940414429,6.5595002174,52.9940414429",
+    "geom:latitude":52.994041,
+    "geom:longitude":6.5595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Brusselsesteenweg 185",
+    "sg:city":"Assen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 453 00 40",
+    "sg:postcode":"1730",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85798101,
+        102191581,
+        404473805,
+        85633337,
+        101751879,
+        85687051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fr3cSCokhtpbemdn9xAJ0_52.994041_6.559500@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492334,
+    "wof:geomhash":"476404ad34d569ca30667cbec3ffb640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404473805,
+            "locality_id":101751879,
+            "neighbourhood_id":85798101,
+            "region_id":85687051,
+            "venue_id":1042000563
+        }
+    ],
+    "wof:id":1042000563,
+    "wof:lastmodified":1473492334,
+    "wof:name":"Het Fondue Huisje",
+    "wof:parent_id":85798101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    6.5595002174,
+    52.9940414429,
+    6.5595002174,
+    52.9940414429
+],
+  "geometry": {"coordinates":[6.5595002174,52.9940414429],"type":"Point"}
+}

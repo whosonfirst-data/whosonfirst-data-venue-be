@@ -1,0 +1,77 @@
+{
+  "id": 1058573783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7635450363,51.0501327515,3.7635450363,51.0501327515",
+    "geom:latitude":51.050133,
+    "geom:longitude":3.763545,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paul De Ryckstraat 17",
+    "sg:city":"Gent (sint-amandsberg)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 229 23 44",
+    "sg:postcode":"9040",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801171,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76GoV9ZcAvhKmGZ6uyAthi_51.050133_3.763545@1306268532"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531469,
+    "wof:geomhash":"a1d2ed9678a976747b0b69abfc661d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801171,
+            "region_id":85681733,
+            "venue_id":1058573783
+        }
+    ],
+    "wof:id":1058573783,
+    "wof:lastmodified":1473531469,
+    "wof:name":"Watteeuw Tania",
+    "wof:parent_id":85801171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7635450363,
+    51.0501327515,
+    3.7635450363,
+    51.0501327515
+],
+  "geometry": {"coordinates":[3.7635450363,51.0501327515],"type":"Point"}
+}

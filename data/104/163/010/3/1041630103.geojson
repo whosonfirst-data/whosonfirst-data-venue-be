@@ -1,0 +1,77 @@
+{
+  "id": 1041630103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5592508316,50.6460456848,5.5592508316,50.6460456848",
+    "geom:latitude":50.646046,
+    "geom:longitude":5.559251,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-marguerite 124",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 224 94 44",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AFppsHZm0b9kmMGwcalgI_50.646046_5.559251@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476524,
+    "wof:geomhash":"03917cff76a58767a74a871c1843bd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041630103
+        }
+    ],
+    "wof:id":1041630103,
+    "wof:lastmodified":1473476524,
+    "wof:name":"Maison M\u00e9dicale Le Cadran",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    5.5592508316,
+    50.6460456848,
+    5.5592508316,
+    50.6460456848
+],
+  "geometry": {"coordinates":[5.5592508316,50.6460456848],"type":"Point"}
+}

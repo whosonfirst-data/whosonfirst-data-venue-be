@@ -1,0 +1,77 @@
+{
+  "id": 1058400399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.381799221,50.8387145996,4.381799221,50.8387145996",
+    "geom:latitude":50.838715,
+    "geom:longitude":4.381799,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Froissart 38",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 287 57 72",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y6vKeLDfny6eRDHaKfTQx_50.838715_4.381799@1306268502"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523262,
+    "wof:geomhash":"fca18ee46a5d1f6d5f3e99b2ca369da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1058400399
+        }
+    ],
+    "wof:id":1058400399,
+    "wof:lastmodified":1473523262,
+    "wof:name":"Centre D'orthop\u00e9die G\u00e9n\u00e9rale Et De Traumatologie",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    4.381799221,
+    50.8387145996,
+    4.381799221,
+    50.8387145996
+],
+  "geometry": {"coordinates":[4.381799221,50.8387145996],"type":"Point"}
+}

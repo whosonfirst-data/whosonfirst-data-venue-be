@@ -1,0 +1,83 @@
+{
+  "id": 1042032677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4500098228,51.1915397644,4.4500098228,51.1915397644",
+    "geom:latitude":51.19154,
+    "geom:longitude":4.45001,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Bosquet 7",
+    "sg:city":"Louvain-la-neuve",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 542 62 90",
+    "sg:postcode":"1348",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "services",
+        "calibrating",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EXCtF4KXDdr3ZhiBTvuZJ_51.191540_4.450010@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493557,
+    "wof:geomhash":"94d4755db47c037ae9adef69b7e944c2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1042032677
+        }
+    ],
+    "wof:id":1042032677,
+    "wof:lastmodified":1473493557,
+    "wof:name":"Storck-intermes Nv",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "services",
+        "calibrating",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    4.4500098228,
+    51.1915397644,
+    4.4500098228,
+    51.1915397644
+],
+  "geometry": {"coordinates":[4.4500098228,51.1915397644],"type":"Point"}
+}

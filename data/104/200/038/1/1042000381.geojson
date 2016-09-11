@@ -1,0 +1,81 @@
+{
+  "id": 1042000381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4868531227,51.2567520142,4.4868531227,51.2567520142",
+    "geom:latitude":51.256752,
+    "geom:longitude":4.486853,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Horstebaan",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 658 10 19",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801969,
+        102191581,
+        85632997,
+        404227357,
+        101754397,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wYhrXM7xmBPWudAL0ucVt_51.256752_4.486853@1306268375"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492328,
+    "wof:geomhash":"38c5dd139f1ee0b01dc4c1a39ac1c666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101754397,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801969,
+            "region_id":85681715,
+            "venue_id":1042000381
+        }
+    ],
+    "wof:id":1042000381,
+    "wof:lastmodified":1473492328,
+    "wof:name":"Den Horst Cvba",
+    "wof:parent_id":85801969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels",
+        "business",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    4.4868531227,
+    51.2567520142,
+    4.4868531227,
+    51.2567520142
+],
+  "geometry": {"coordinates":[4.4868531227,51.2567520142],"type":"Point"}
+}

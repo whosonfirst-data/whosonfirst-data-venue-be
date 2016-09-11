@@ -1,0 +1,77 @@
+{
+  "id": 1058567145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1992959976,51.2017211914,3.1992959976,51.2017211914",
+    "geom:latitude":51.201721,
+    "geom:longitude":3.199296,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Muntstraat 3",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 99 59",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MyxBKf7AaBq1DEanpKyLu_51.201721_3.199296@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531179,
+    "wof:geomhash":"cb0b654bde74cfadb99f33ae36fad2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058567145
+        }
+    ],
+    "wof:id":1058567145,
+    "wof:lastmodified":1473531179,
+    "wof:name":"Sap Inge",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.1992959976,
+    51.2017211914,
+    3.1992959976,
+    51.2017211914
+],
+  "geometry": {"coordinates":[3.1992959976,51.2017211914],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1041934395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2355949879,51.2252693176,3.2355949879,51.2252693176",
+    "geom:latitude":51.225269,
+    "geom:longitude":3.235595,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koolkerkse Steenweg 83a",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 55 08",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862117,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709,
+        85862105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JTNTZ8Qm7qKOnZw4Uksql_51.225269_3.235595@1306268364"
+    },
+    "wof:country":"BE",
+    "wof:created":1473489442,
+    "wof:geomhash":"2c501c2d00f8b97b98636351779dd748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862117,
+            "region_id":85681709,
+            "venue_id":1041934395
+        },
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1041934395
+        }
+    ],
+    "wof:id":1041934395,
+    "wof:lastmodified":1473489442,
+    "wof:name":"Wanneyn W",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    3.2355949879,
+    51.2252693176,
+    3.2355949879,
+    51.2252693176
+],
+  "geometry": {"coordinates":[3.2355949879,51.2252693176],"type":"Point"}
+}

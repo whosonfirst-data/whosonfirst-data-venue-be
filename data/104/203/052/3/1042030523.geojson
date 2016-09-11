@@ -1,0 +1,88 @@
+{
+  "id": 1042030523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4709978104,50.8871498108,4.4709978104,50.8871498108",
+    "geom:latitude":50.88715,
+    "geom:longitude":4.470998,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vilvoordelaan 48",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 725 19 07",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801287,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731,
+        85802033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IjjCFc5Fy342cidiFeOJx_50.887150_4.470998@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493461,
+    "wof:geomhash":"eb7a558dc0ac8bf349ede29558d463c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801287,
+            "region_id":85681731,
+            "venue_id":1042030523
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802033,
+            "region_id":85681731,
+            "venue_id":1042030523
+        }
+    ],
+    "wof:id":1042030523,
+    "wof:lastmodified":1473493461,
+    "wof:name":"Picasso Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.4709978104,
+    50.8871498108,
+    4.4709978104,
+    50.8871498108
+],
+  "geometry": {"coordinates":[4.4709978104,50.8871498108],"type":"Point"}
+}

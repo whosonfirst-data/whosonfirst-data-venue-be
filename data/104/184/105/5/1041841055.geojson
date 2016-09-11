@@ -1,0 +1,83 @@
+{
+  "id": 1041841055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3738479614,50.8601036072,4.3738479614,50.8601036072",
+    "geom:latitude":50.860104,
+    "geom:longitude":4.373848,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Rogier 49",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 474 70 17 00",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "breakdown",
+        "automobile",
+        "-",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SQZy2u4v2WPVMI9sXrP8U_50.860104_4.373848@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485414,
+    "wof:geomhash":"87a65dced1ec5f6d8b2b9b7ba66aa7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041841055
+        }
+    ],
+    "wof:id":1041841055,
+    "wof:lastmodified":1473485414,
+    "wof:name":"Ascar",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakdown",
+        "automobile",
+        "-",
+        "recovery"
+    ]
+},
+  "bbox": [
+    4.3738479614,
+    50.8601036072,
+    4.3738479614,
+    50.8601036072
+],
+  "geometry": {"coordinates":[4.3738479614,50.8601036072],"type":"Point"}
+}

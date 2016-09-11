@@ -1,0 +1,83 @@
+{
+  "id": 1042208349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3211321831,50.9186477661,4.3211321831,50.9186477661",
+    "geom:latitude":50.918648,
+    "geom:longitude":4.321132,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bosch 39",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 43 92",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801089,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v52ZaJ0y0pU9h09uaOmwh_50.918648_4.321132@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502350,
+    "wof:geomhash":"d82b7b9ff71474bae41bf464c3237e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801089,
+            "region_id":85681731,
+            "venue_id":1042208349
+        }
+    ],
+    "wof:id":1042208349,
+    "wof:lastmodified":1473502350,
+    "wof:name":"Versaen R",
+    "wof:parent_id":85801089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "-",
+        "housewiring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3211321831,
+    50.9186477661,
+    4.3211321831,
+    50.9186477661
+],
+  "geometry": {"coordinates":[4.3211321831,50.9186477661],"type":"Point"}
+}

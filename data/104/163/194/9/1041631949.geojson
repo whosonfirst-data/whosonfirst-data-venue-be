@@ -1,0 +1,81 @@
+{
+  "id": 1041631949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2109019756,51.2180747986,3.2109019756,51.2180747986",
+    "geom:latitude":51.218075,
+    "geom:longitude":3.210902,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Scheepsdaleln 47",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 32 02 17",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "equipment",
+        "motor-cars",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801895,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wq6iDiitbbJczWjyNHGCo_51.218075_3.210902@1306268506"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476593,
+    "wof:geomhash":"a3926b547bba631bcdfa918c418f3237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801895,
+            "region_id":85681709,
+            "venue_id":1041631949
+        }
+    ],
+    "wof:id":1041631949,
+    "wof:lastmodified":1473476593,
+    "wof:name":"Garage Descheemaeker Nv",
+    "wof:parent_id":85801895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "motor-cars",
+        "transport"
+    ]
+},
+  "bbox": [
+    3.2109019756,
+    51.2180747986,
+    3.2109019756,
+    51.2180747986
+],
+  "geometry": {"coordinates":[3.2109019756,51.2180747986],"type":"Point"}
+}

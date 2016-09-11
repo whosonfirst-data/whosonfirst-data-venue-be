@@ -1,0 +1,71 @@
+{
+  "id": 1058200579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2550399303,51.2182998657,3.2550399303,51.2182998657",
+    "geom:latitude":51.2183,
+    "geom:longitude":3.25504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Polderstraat 76",
+    "sg:city":"Brugge (sint-kruis)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 40 61",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1trk4Gj5yZQd0uRXFjyf4a_51.218300_3.255040@1306268466"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514228,
+    "wof:geomhash":"4598758c29da11c22211f21e02b7c922",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058200579
+        }
+    ],
+    "wof:id":1058200579,
+    "wof:lastmodified":1473514228,
+    "wof:name":"Nieuwland",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    3.2550399303,
+    51.2182998657,
+    3.2550399303,
+    51.2182998657
+],
+  "geometry": {"coordinates":[3.2550399303,51.2182998657],"type":"Point"}
+}

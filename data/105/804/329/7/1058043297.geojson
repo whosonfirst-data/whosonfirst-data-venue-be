@@ -1,0 +1,83 @@
+{
+  "id": 1058043297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2857518196,50.8647003174,4.2857518196,50.8647003174",
+    "geom:latitude":50.8647,
+    "geom:longitude":4.285752,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Grand Bigard 521",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 468 58 78",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "whol",
+        "fish",
+        "-",
+        "shellfish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800829,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40hLSiZA1GWF5cxGjXB8eH_50.864700_4.285752@1306268433"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507249,
+    "wof:geomhash":"47a06b8700f200838ffd1b91c8d86d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800829,
+            "region_id":85681713,
+            "venue_id":1058043297
+        }
+    ],
+    "wof:id":1058043297,
+    "wof:lastmodified":1473507249,
+    "wof:name":"Alpha Fish Sa",
+    "wof:parent_id":85800829,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "whol",
+        "fish",
+        "-",
+        "shellfish"
+    ]
+},
+  "bbox": [
+    4.2857518196,
+    50.8647003174,
+    4.2857518196,
+    50.8647003174
+],
+  "geometry": {"coordinates":[4.2857518196,50.8647003174],"type":"Point"}
+}

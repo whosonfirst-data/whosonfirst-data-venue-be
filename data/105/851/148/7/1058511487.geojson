@@ -1,0 +1,79 @@
+{
+  "id": 1058511487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3878788948,50.8765983582,4.3878788948,50.8765983582",
+    "geom:latitude":50.876598,
+    "geom:longitude":4.387879,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gr\u00e9goire Leroy 12",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 242 78 93",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64P7uJHj1elUWOV2LFSNQv_50.876598_4.387879@1306268520"
+    },
+    "wof:country":"BE",
+    "wof:created":1473528596,
+    "wof:geomhash":"2a93f09aaf317cf4a61d6be6ebcd6418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1058511487
+        }
+    ],
+    "wof:id":1058511487,
+    "wof:lastmodified":1473528596,
+    "wof:name":"Clarot D",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3878788948,
+    50.8765983582,
+    4.3878788948,
+    50.8765983582
+],
+  "geometry": {"coordinates":[4.3878788948,50.8765983582],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041596187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4262318611,50.8376731873,4.4262318611,50.8376731873",
+    "geom:latitude":50.837673,
+    "geom:longitude":4.426232,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Gay 118",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 771 07 00",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802023,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gvQzEItH6Mtcr7Uflltz7_50.837673_4.426232@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475143,
+    "wof:geomhash":"ad3d36ee9a9a565281b5907f72be2af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802023,
+            "region_id":85681713,
+            "venue_id":1041596187
+        }
+    ],
+    "wof:id":1041596187,
+    "wof:lastmodified":1473475143,
+    "wof:name":"Timmermans Garage",
+    "wof:parent_id":85802023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4262318611,
+    50.8376731873,
+    4.4262318611,
+    50.8376731873
+],
+  "geometry": {"coordinates":[4.4262318611,50.8376731873],"type":"Point"}
+}

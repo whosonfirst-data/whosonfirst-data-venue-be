@@ -1,0 +1,88 @@
+{
+  "id": 1058860123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3453960419,50.8036117554,4.3453960419,50.8036117554",
+    "geom:latitude":50.803612,
+    "geom:longitude":4.345396,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Fr\u00c9 36",
+    "sg:city":"Ukkel/uccle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 475 81 88 22",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "taxi's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38LbwKSMCSelRNLlqFTrEU_50.803612_4.345396@1306268585"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544168,
+    "wof:geomhash":"b54c3cf5b2c89b2ea01b3c25bb9594b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1058860123
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1058860123
+        }
+    ],
+    "wof:id":1058860123,
+    "wof:lastmodified":1473544168,
+    "wof:name":"Taxi Azari",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi's"
+    ]
+},
+  "bbox": [
+    4.3453960419,
+    50.8036117554,
+    4.3453960419,
+    50.8036117554
+],
+  "geometry": {"coordinates":[4.3453960419,50.8036117554],"type":"Point"}
+}

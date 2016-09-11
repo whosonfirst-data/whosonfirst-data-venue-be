@@ -1,0 +1,79 @@
+{
+  "id": 1041666521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2732229233,50.8235664368,4.2732229233,50.8235664368",
+    "geom:latitude":50.823566,
+    "geom:longitude":4.273223,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr\u00e8ve Olympique 1",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 523 95 34",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sport",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZJMbOHIftZj4zqg9blXPl_50.823566_4.273223@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477998,
+    "wof:geomhash":"d2550cb9682a77f5bc30a1e76732b6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1041666521
+        }
+    ],
+    "wof:id":1041666521,
+    "wof:lastmodified":1473477998,
+    "wof:name":"Marc Wuyts Sports",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "-"
+    ]
+},
+  "bbox": [
+    4.2732229233,
+    50.8235664368,
+    4.2732229233,
+    50.8235664368
+],
+  "geometry": {"coordinates":[4.2732229233,50.8235664368],"type":"Point"}
+}

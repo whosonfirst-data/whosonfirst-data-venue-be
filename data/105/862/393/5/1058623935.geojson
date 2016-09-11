@@ -1,0 +1,71 @@
+{
+  "id": 1058623935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6574680805,51.0485153198,3.6574680805,51.0485153198",
+    "geom:latitude":51.048515,
+    "geom:longitude":3.657468,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drongenstationstraat 24",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 73 20",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85800745,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HmwsiiBgyRVg0wLxNaxDn_51.048515_3.657468@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533743,
+    "wof:geomhash":"612d3b826105ad9bcb404bf9cc250705",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85800745,
+            "region_id":85681733,
+            "venue_id":1058623935
+        }
+    ],
+    "wof:id":1058623935,
+    "wof:lastmodified":1473533743,
+    "wof:name":"Vanheule S",
+    "wof:parent_id":85800745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    3.6574680805,
+    51.0485153198,
+    3.6574680805,
+    51.0485153198
+],
+  "geometry": {"coordinates":[3.6574680805,51.0485153198],"type":"Point"}
+}

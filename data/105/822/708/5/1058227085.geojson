@@ -1,0 +1,81 @@
+{
+  "id": 1058227085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.348277092,50.8523483276,4.348277092,50.8523483276",
+    "geom:latitude":50.852348,
+    "geom:longitude":4.348277,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Quai Au Bois \u00e0 Br\u00fbler 33-35",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 08 97",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "industrial",
+        "kitchen",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BQCQgKfa1IRoDfFMpIG0N_50.852348_4.348277@1306268471"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515403,
+    "wof:geomhash":"e0dc78f6d73d477b1123c41d569b9e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058227085
+        }
+    ],
+    "wof:id":1058227085,
+    "wof:lastmodified":1473515403,
+    "wof:name":"Crekillie-appelmans Bvba",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "kitchen",
+        "catering"
+    ]
+},
+  "bbox": [
+    4.348277092,
+    50.8523483276,
+    4.348277092,
+    50.8523483276
+],
+  "geometry": {"coordinates":[4.348277092,50.8523483276],"type":"Point"}
+}

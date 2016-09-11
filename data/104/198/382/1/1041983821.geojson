@@ -1,0 +1,77 @@
+{
+  "id": 1041983821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.365732193,50.8634033203,4.365732193,50.8634033203",
+    "geom:latitude":50.863403,
+    "geom:longitude":4.365732,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Brabant 184a",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 223 12 34",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VfxSTGX0NXeKtBBj9GBht_50.863403_4.365732@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491658,
+    "wof:geomhash":"d79cbfb36552b06ba14d00d1945170af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041983821
+        }
+    ],
+    "wof:id":1041983821,
+    "wof:lastmodified":1473491658,
+    "wof:name":"For You",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.365732193,
+    50.8634033203,
+    4.365732193,
+    50.8634033203
+],
+  "geometry": {"coordinates":[4.365732193,50.8634033203],"type":"Point"}
+}

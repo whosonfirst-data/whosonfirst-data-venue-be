@@ -1,0 +1,81 @@
+{
+  "id": 1041844865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4895172119,50.6101417542,5.4895172119,50.6101417542",
+    "geom:latitude":50.610142,
+    "geom:longitude":5.489517,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Royer 161",
+    "sg:city":"Seraing (jemeppe-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 234 61 27",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCMNaozd6NaLUIEskGzaV_50.610142_5.489517@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485580,
+    "wof:geomhash":"1fa9b42cf5be9e8abc5ef443287ef8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1041844865
+        }
+    ],
+    "wof:id":1041844865,
+    "wof:lastmodified":1473485580,
+    "wof:name":"Porsche Kaminski",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "-",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    5.4895172119,
+    50.6101417542,
+    5.4895172119,
+    50.6101417542
+],
+  "geometry": {"coordinates":[5.4895172119,50.6101417542],"type":"Point"}
+}

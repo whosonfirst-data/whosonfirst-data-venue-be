@@ -1,0 +1,77 @@
+{
+  "id": 1042197253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3058657646,50.8253936768,4.3058657646,50.8253936768",
+    "geom:latitude":50.825394,
+    "geom:longitude":4.305866,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Frans Van Kalken 20-22",
+    "sg:city":"Bruxelles (anderlecht)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 17 24",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801961,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AX0WuOejAP4e0rp5LSsgG_50.825394_4.305866@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501745,
+    "wof:geomhash":"0b8c422edeebce3204806db46afab524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801961,
+            "region_id":85681713,
+            "venue_id":1042197253
+        }
+    ],
+    "wof:id":1042197253,
+    "wof:lastmodified":1473501745,
+    "wof:name":"Ecole Maurice Car\u00eame-p22",
+    "wof:parent_id":85801961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    4.3058657646,
+    50.8253936768,
+    4.3058657646,
+    50.8253936768
+],
+  "geometry": {"coordinates":[4.3058657646,50.8253936768],"type":"Point"}
+}

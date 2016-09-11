@@ -1,0 +1,79 @@
+{
+  "id": 1058537387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3008670807,50.8586006165,4.3008670807,50.8586006165",
+    "geom:latitude":50.858601,
+    "geom:longitude":4.300867,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Haut Champ 52",
+    "sg:city":"Bruxelles (berchem-sainte-agathe)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 465 44 34",
+    "sg:postcode":"1082",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801767,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mzrPKsnJ7fXAod6AT175_50.858601_4.300867@1306268525"
+    },
+    "wof:country":"BE",
+    "wof:created":1473529829,
+    "wof:geomhash":"1cfcafebca86a4af380bd9f0e0b92d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801767,
+            "region_id":85681713,
+            "venue_id":1058537387
+        }
+    ],
+    "wof:id":1058537387,
+    "wof:lastmodified":1473529829,
+    "wof:name":"Franpharma Sprl",
+    "wof:parent_id":85801767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    4.3008670807,
+    50.8586006165,
+    4.3008670807,
+    50.8586006165
+],
+  "geometry": {"coordinates":[4.3008670807,50.8586006165],"type":"Point"}
+}

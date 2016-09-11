@@ -1,0 +1,88 @@
+{
+  "id": 1041539851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3223481178,50.8689651489,4.3223481178,50.8689651489",
+    "geom:latitude":50.868965,
+    "geom:longitude":4.322348,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Constitution 95",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 17 35",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "antenna"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JZuLtiDae359YoVAyodgi_50.868965_4.322348@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472787,
+    "wof:geomhash":"16c3980c3f490f7d1844accc107032f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1041539851
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1041539851
+        }
+    ],
+    "wof:id":1041539851,
+    "wof:lastmodified":1473472787,
+    "wof:name":"Loutte Didier Communication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antenna"
+    ]
+},
+  "bbox": [
+    4.3223481178,
+    50.8689651489,
+    4.3223481178,
+    50.8689651489
+],
+  "geometry": {"coordinates":[4.3223481178,50.8689651489],"type":"Point"}
+}

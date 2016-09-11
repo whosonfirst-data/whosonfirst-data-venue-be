@@ -1,0 +1,79 @@
+{
+  "id": 1058281471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6178770065,50.6626739502,5.6178770065,50.6626739502",
+    "geom:latitude":50.662674,
+    "geom:longitude":5.617877,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Petite Foxhalle 149",
+    "sg:city":"Herstal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 240 36 15",
+    "sg:postcode":"4040",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "interior",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oa1p5UMoCPxkZxXFsBil6_50.662674_5.617877@1306268481"
+    },
+    "wof:country":"BE",
+    "wof:created":1473517755,
+    "wof:geomhash":"5ff99cc6db9eac08621eaf13f279245a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1058281471
+        }
+    ],
+    "wof:id":1058281471,
+    "wof:lastmodified":1473517755,
+    "wof:name":"Petit A",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "designer"
+    ]
+},
+  "bbox": [
+    5.6178770065,
+    50.6626739502,
+    5.6178770065,
+    50.6626739502
+],
+  "geometry": {"coordinates":[5.6178770065,50.6626739502],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1058352693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3558039665,50.846950531,4.3558039665,50.846950531",
+    "geom:latitude":50.846951,
+    "geom:longitude":4.355804,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Centre Monnaie - \u00c9tage 13",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 226 28 09",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bulk",
+        "mail",
+        "distribution",
+        "letter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cfqBVAJzP2uOguI3UJ0T4_50.846951_4.355804@1306268494"
+    },
+    "wof:country":"BE",
+    "wof:created":1473521072,
+    "wof:geomhash":"7ef23421d50af384ed75bcb3853524dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1058352693
+        }
+    ],
+    "wof:id":1058352693,
+    "wof:lastmodified":1473521072,
+    "wof:name":"Ems - Taxipost",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "mail",
+        "distribution",
+        "letter"
+    ]
+},
+  "bbox": [
+    4.3558039665,
+    50.846950531,
+    4.3558039665,
+    50.846950531
+],
+  "geometry": {"coordinates":[4.3558039665,50.846950531],"type":"Point"}
+}

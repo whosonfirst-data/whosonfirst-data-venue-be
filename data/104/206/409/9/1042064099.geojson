@@ -1,0 +1,77 @@
+{
+  "id": 1042064099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5406050682,50.6577262878,5.5406050682,50.6577262878",
+    "geom:latitude":50.657726,
+    "geom:longitude":5.540605,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Cimeti\u00e8re 169",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 85 11",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H0Jz3S4c11YlHhzCGuGYp_50.657726_5.540605@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494835,
+    "wof:geomhash":"261efac9c463a03bb6daebf984a33f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1042064099
+        }
+    ],
+    "wof:id":1042064099,
+    "wof:lastmodified":1473494835,
+    "wof:name":"Petre M",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    5.5406050682,
+    50.6577262878,
+    5.5406050682,
+    50.6577262878
+],
+  "geometry": {"coordinates":[5.5406050682,50.6577262878],"type":"Point"}
+}

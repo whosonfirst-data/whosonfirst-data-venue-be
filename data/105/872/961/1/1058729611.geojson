@@ -1,0 +1,73 @@
+{
+  "id": 1058729611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5172610283,51.2041625977,4.5172610283,51.2041625977",
+    "geom:latitude":51.204163,
+    "geom:longitude":4.517261,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoevenstraat 35",
+    "sg:city":"Wommelgem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 353 19 44",
+    "sg:postcode":"2160",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "coordinator",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800937,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RBSe3rqlXS7QNGpIduwBE_51.204163_4.517261@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538436,
+    "wof:geomhash":"2c197530794dfa142022d9c1b0714f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800937,
+            "region_id":85681715,
+            "venue_id":1058729611
+        }
+    ],
+    "wof:id":1058729611,
+    "wof:lastmodified":1473538436,
+    "wof:name":"Bumaco Bvba",
+    "wof:parent_id":85800937,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coordinator",
+        "safety"
+    ]
+},
+  "bbox": [
+    4.5172610283,
+    51.2041625977,
+    4.5172610283,
+    51.2041625977
+],
+  "geometry": {"coordinates":[4.5172610283,51.2041625977],"type":"Point"}
+}

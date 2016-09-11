@@ -1,0 +1,81 @@
+{
+  "id": 1058831097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5537919998,50.6355895996,5.5537919998,50.6355895996",
+    "geom:latitude":50.63559,
+    "geom:longitude":5.553792,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Ch\u00c2teau-massart 80",
+    "sg:city":"Li\u00c8ge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 252 22 66",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "stations-service",
+        "combustible",
+        "carburants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48JsClDRfRQ05zuJInsXff_50.635590_5.553792@1306268579"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542903,
+    "wof:geomhash":"641b024960cb4ce4440c7cb915e8c2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058831097
+        }
+    ],
+    "wof:id":1058831097,
+    "wof:lastmodified":1473542903,
+    "wof:name":"Ets. Roman",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stations-service",
+        "combustible",
+        "carburants"
+    ]
+},
+  "bbox": [
+    5.5537919998,
+    50.6355895996,
+    5.5537919998,
+    50.6355895996
+],
+  "geometry": {"coordinates":[5.5537919998,50.6355895996],"type":"Point"}
+}

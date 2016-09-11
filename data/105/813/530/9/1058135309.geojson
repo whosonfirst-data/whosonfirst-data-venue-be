@@ -1,0 +1,83 @@
+{
+  "id": 1058135309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5014228821,50.6145439148,5.5014228821,50.6145439148",
+    "geom:latitude":50.614544,
+    "geom:longitude":5.501423,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Nihar 9",
+    "sg:city":"Seraing (jemeppe-sur-meuse)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 234 68 68",
+    "sg:postcode":"4101",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lQJ3dwCJnZmA1vjRfXLBq_50.614544_5.501423@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511246,
+    "wof:geomhash":"cf15a1ad2c2f9fb0f0f0ca8e660bc93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058135309
+        }
+    ],
+    "wof:id":1058135309,
+    "wof:lastmodified":1473511246,
+    "wof:name":"Tony Coiffure",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    5.5014228821,
+    50.6145439148,
+    5.5014228821,
+    50.6145439148
+],
+  "geometry": {"coordinates":[5.5014228821,50.6145439148],"type":"Point"}
+}

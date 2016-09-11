@@ -1,0 +1,83 @@
+{
+  "id": 1042209159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3324837685,50.8274421692,4.3324837685,50.8274421692",
+    "geom:latitude":50.827442,
+    "geom:longitude":4.332484,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Croissant 55",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 20 85",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "heater",
+        "industrial",
+        "electric",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u7ad04GJ4hGGfrbnDYOgo_50.827442_4.332484@1306268416"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502388,
+    "wof:geomhash":"5559bc9a2e535bbec58b10d3c020ab81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1042209159
+        }
+    ],
+    "wof:id":1042209159,
+    "wof:lastmodified":1473502388,
+    "wof:name":"Hotset Belgium S.p.r.l.",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "industrial",
+        "electric",
+        "us"
+    ]
+},
+  "bbox": [
+    4.3324837685,
+    50.8274421692,
+    4.3324837685,
+    50.8274421692
+],
+  "geometry": {"coordinates":[4.3324837685,50.8274421692],"type":"Point"}
+}

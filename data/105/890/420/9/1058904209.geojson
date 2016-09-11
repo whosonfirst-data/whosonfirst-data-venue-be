@@ -1,0 +1,71 @@
+{
+  "id": 1058904209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3422341347,50.8037185669,4.3422341347,50.8037185669",
+    "geom:latitude":50.803719,
+    "geom:longitude":4.342234,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hermann Debrouxlaan 54",
+    "sg:city":"Brussels",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1160",
+    "sg:province":"Bruxelles-Capitale",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58SvgP6sqYNr6bUfLKpO0i_50.803719_4.342234@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546146,
+    "wof:geomhash":"82cc992b377bde6af781cc11b18f465f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1058904209
+        }
+    ],
+    "wof:id":1058904209,
+    "wof:lastmodified":1473546146,
+    "wof:name":"Best Western Belgium",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3422341347,
+    50.8037185669,
+    4.3422341347,
+    50.8037185669
+],
+  "geometry": {"coordinates":[4.3422341347,50.8037185669],"type":"Point"}
+}

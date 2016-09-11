@@ -1,0 +1,77 @@
+{
+  "id": 1058596763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5097951889,50.5985870361,5.5097951889,50.5985870361",
+    "geom:latitude":50.598587,
+    "geom:longitude":5.509795,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Gr\u00c9goire Chapuis 31",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 22 22",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "gendarmerie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JP00yblg0yUKVHLrdqUJ1_50.598587_5.509795@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532476,
+    "wof:geomhash":"ac62146d49e49a70f1aee185ad8cd7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058596763
+        }
+    ],
+    "wof:id":1058596763,
+    "wof:lastmodified":1473532476,
+    "wof:name":"Police F\u00c9d\u00c9rale",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gendarmerie"
+    ]
+},
+  "bbox": [
+    5.5097951889,
+    50.5985870361,
+    5.5097951889,
+    50.5985870361
+],
+  "geometry": {"coordinates":[5.5097951889,50.5985870361],"type":"Point"}
+}

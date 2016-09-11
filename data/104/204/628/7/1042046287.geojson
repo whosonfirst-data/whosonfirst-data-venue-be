@@ -1,0 +1,81 @@
+{
+  "id": 1042046287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3730788231,50.870513916,4.3730788231,50.870513916",
+    "geom:latitude":50.870514,
+    "geom:longitude":4.373079,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Van Oost 26",
+    "sg:city":"Schaarbeek/schaerbeek",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 18 85",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "d'entreprises",
+        "de",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m327dMrgIaa9hYrutLdzy_50.870514_4.373079@1306268384"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494110,
+    "wof:geomhash":"1747ea1c94bc5ffa0a43686a7cdc8bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1042046287
+        }
+    ],
+    "wof:id":1042046287,
+    "wof:lastmodified":1473494110,
+    "wof:name":"Ecosoc",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "d'entreprises",
+        "de",
+        "bureau"
+    ]
+},
+  "bbox": [
+    4.3730788231,
+    50.870513916,
+    4.3730788231,
+    50.870513916
+],
+  "geometry": {"coordinates":[4.3730788231,50.870513916],"type":"Point"}
+}

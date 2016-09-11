@@ -1,0 +1,77 @@
+{
+  "id": 1058785287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2770547867,50.8452072144,4.2770547867,50.8452072144",
+    "geom:latitude":50.845207,
+    "geom:longitude":4.277055,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ninoofsesteenweg 77-79",
+    "sg:city":"Dilbeek",
+    "sg:classifiers":[
+        {
+            "category":"Commercial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 460 67 10",
+    "sg:postcode":"1700",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "sleepy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22KT1dSFA22MfHrR65AHH6_50.845207_4.277055@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540873,
+    "wof:geomhash":"23b069bc5ecfaefa934a0b7d435251b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1058785287
+        }
+    ],
+    "wof:id":1058785287,
+    "wof:lastmodified":1473540873,
+    "wof:name":"Sleepy Dilbeek",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sleepy"
+    ]
+},
+  "bbox": [
+    4.2770547867,
+    50.8452072144,
+    4.2770547867,
+    50.8452072144
+],
+  "geometry": {"coordinates":[4.2770547867,50.8452072144],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058661425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6621379852,50.5790901184,5.6621379852,50.5790901184",
+    "geom:latitude":50.57909,
+    "geom:longitude":5.662138,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue La Brouck Campagne 39",
+    "sg:city":"Trooz (for\u00eat)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 351 64 74",
+    "sg:postcode":"4870",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801119,
+        102191581,
+        85632997,
+        404227353,
+        101758521,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XV4VujoaP8Zda8sPQ1w4G_50.579090_5.662138@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535480,
+    "wof:geomhash":"feb1e1a1c980814b3ea6a76c298e1716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101758521,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801119,
+            "region_id":85681691,
+            "venue_id":1058661425
+        }
+    ],
+    "wof:id":1058661425,
+    "wof:lastmodified":1473535480,
+    "wof:name":"Ferme De La Brouck (la)",
+    "wof:parent_id":85801119,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    5.6621379852,
+    50.5790901184,
+    5.6621379852,
+    50.5790901184
+],
+  "geometry": {"coordinates":[5.6621379852,50.5790901184],"type":"Point"}
+}

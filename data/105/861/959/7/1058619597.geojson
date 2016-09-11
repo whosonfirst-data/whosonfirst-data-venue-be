@@ -1,0 +1,79 @@
+{
+  "id": 1058619597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3940367699,50.8597831726,4.3940367699,50.8597831726",
+    "geom:latitude":50.859783,
+    "geom:longitude":4.394037,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard G\u00e9n\u00e9ral Wahis 9",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 223 57 01",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "trade-union",
+        "federation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07U7tmZ5toAA9y37oWIJWk_50.859783_4.394037@1306268540"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533555,
+    "wof:geomhash":"c10a35a75d4654c50ba43dbbb921e17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058619597
+        }
+    ],
+    "wof:id":1058619597,
+    "wof:lastmodified":1473533555,
+    "wof:name":"S.l.f.p. Syndic Militaire",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade-union",
+        "federation"
+    ]
+},
+  "bbox": [
+    4.3940367699,
+    50.8597831726,
+    4.3940367699,
+    50.8597831726
+],
+  "geometry": {"coordinates":[4.3940367699,50.8597831726],"type":"Point"}
+}

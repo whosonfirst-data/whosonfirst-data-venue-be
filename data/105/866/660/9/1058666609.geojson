@@ -1,0 +1,72 @@
+{
+  "id": 1058666609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2267930508,51.2018051147,3.2267930508,51.2018051147",
+    "geom:latitude":51.201805,
+    "geom:longitude":3.226793,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Katelijnestraat 82",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 45 26",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800801,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gb7c2B6o9tcUYXFwx2cSi_51.201805_3.226793@1306268550"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535694,
+    "wof:geomhash":"86f689ae384b3559f972e866f7be07a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800801,
+            "region_id":85681709,
+            "venue_id":1058666609
+        }
+    ],
+    "wof:id":1058666609,
+    "wof:lastmodified":1473535694,
+    "wof:name":"De Bron",
+    "wof:parent_id":85800801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2267930508,
+    51.2018051147,
+    3.2267930508,
+    51.2018051147
+],
+  "geometry": {"coordinates":[3.2267930508,51.2018051147],"type":"Point"}
+}

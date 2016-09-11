@@ -1,0 +1,81 @@
+{
+  "id": 1042203337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6711750031,50.6869697571,5.6711750031,50.6869697571",
+    "geom:latitude":50.68697,
+    "geom:longitude":5.671175,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue No\u00ebl Montrieux 12",
+    "sg:city":"Vis\u00e9 (cheratte)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 13 77",
+    "sg:postcode":"4602",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801979,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qis84BmYfDkMPdAE4zdvZ_50.686970_5.671175@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473502139,
+    "wof:geomhash":"65bc1ac56f8337e1ee5e0374299a3a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801979,
+            "region_id":85681691,
+            "venue_id":1042203337
+        }
+    ],
+    "wof:id":1042203337,
+    "wof:lastmodified":1473502139,
+    "wof:name":"Scullino A",
+    "wof:parent_id":85801979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    5.6711750031,
+    50.6869697571,
+    5.6711750031,
+    50.6869697571
+],
+  "geometry": {"coordinates":[5.6711750031,50.6869697571],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1041841853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4356250763,50.8974456787,4.4356250763,50.8974456787",
+    "geom:latitude":50.897446,
+    "geom:longitude":4.435625,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zaventemsesteenweg 6",
+    "sg:city":"Machelen (diegem)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 09 31",
+    "sg:postcode":"1831",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "automobile",
+        "servic",
+        "electrical",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801061,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wuxuiX2C1sP96HXiWUaqQ_50.897446_4.435625@1306268348"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485449,
+    "wof:geomhash":"91c05db3c438b59901ca24db78554788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801061,
+            "region_id":85681731,
+            "venue_id":1041841853
+        }
+    ],
+    "wof:id":1041841853,
+    "wof:lastmodified":1473485449,
+    "wof:name":"Blanckaert G",
+    "wof:parent_id":85801061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "servic",
+        "electrical",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4356250763,
+    50.8974456787,
+    4.4356250763,
+    50.8974456787
+],
+  "geometry": {"coordinates":[4.4356250763,50.8974456787],"type":"Point"}
+}

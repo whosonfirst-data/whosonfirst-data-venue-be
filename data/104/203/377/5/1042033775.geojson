@@ -1,0 +1,79 @@
+{
+  "id": 1042033775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4138088226,50.8365631104,4.4138088226,50.8365631104",
+    "geom:latitude":50.836563,
+    "geom:longitude":4.413809,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Tervueren 206bte 8",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 08 45",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "car",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KB3UmSY8RenmieFAi2ftK_50.836563_4.413809@1306268381"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493602,
+    "wof:geomhash":"b4e36ca95e5588f044287dbed84f5355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1042033775
+        }
+    ],
+    "wof:id":1042033775,
+    "wof:lastmodified":1473493602,
+    "wof:name":"Ifm S.p.r.l.",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.4138088226,
+    50.8365631104,
+    4.4138088226,
+    50.8365631104
+],
+  "geometry": {"coordinates":[4.4138088226,50.8365631104],"type":"Point"}
+}

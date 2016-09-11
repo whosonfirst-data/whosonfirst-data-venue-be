@@ -1,0 +1,79 @@
+{
+  "id": 1058776477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3809490204,50.8712768555,4.3809490204,50.8712768555",
+    "geom:latitude":50.871277,
+    "geom:longitude":4.380949,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boulevard Lambermont 127",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 19 15",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "dummy",
+        "shop-window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JKMWIO5VCBWV3cBb4gH77_50.871277_4.380949@1306268570"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540514,
+    "wof:geomhash":"66a08b796b26f7b9647918966249e997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058776477
+        }
+    ],
+    "wof:id":1058776477,
+    "wof:lastmodified":1473540514,
+    "wof:name":"Atelier Sommarti",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dummy",
+        "shop-window"
+    ]
+},
+  "bbox": [
+    4.3809490204,
+    50.8712768555,
+    4.3809490204,
+    50.8712768555
+],
+  "geometry": {"coordinates":[4.3809490204,50.8712768555],"type":"Point"}
+}

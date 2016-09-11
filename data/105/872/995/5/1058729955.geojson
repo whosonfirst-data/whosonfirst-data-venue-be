@@ -1,0 +1,83 @@
+{
+  "id": 1058729955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3495459557,50.8572425842,4.3495459557,50.8572425842",
+    "geom:latitude":50.857243,
+    "geom:longitude":4.349546,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Des Commer\u00e7ants 75-77",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 54 98",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "safety",
+        "collective",
+        "individual",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801875,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtVYgFZfUkI8d6A8AGDDJ_50.857243_4.349546@1306268560"
+    },
+    "wof:country":"BE",
+    "wof:created":1473538449,
+    "wof:geomhash":"afdb05de5c356cd0dc37689ba714e112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801875,
+            "region_id":85681713,
+            "venue_id":1058729955
+        }
+    ],
+    "wof:id":1058729955,
+    "wof:lastmodified":1473538449,
+    "wof:name":"Commerciale (la)",
+    "wof:parent_id":85801875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "collective",
+        "individual",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3495459557,
+    50.8572425842,
+    4.3495459557,
+    50.8572425842
+],
+  "geometry": {"coordinates":[4.3495459557,50.8572425842],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058222269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3690662384,50.7733268738,4.3690662384,50.7733268738",
+    "geom:latitude":50.773327,
+    "geom:longitude":4.369066,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Aub\u00e9pines 155",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 49 02",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801965,
+        102191581,
+        85632997,
+        404227355,
+        101913249,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rc7n04HapRuD38YOrSbZJ_50.773327_4.369066@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515181,
+    "wof:geomhash":"b29d0fa404c06a6716ea5058d22b0a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913249,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801965,
+            "region_id":85681713,
+            "venue_id":1058222269
+        }
+    ],
+    "wof:id":1058222269,
+    "wof:lastmodified":1473515181,
+    "wof:name":"Phiber Sa",
+    "wof:parent_id":85801965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3690662384,
+    50.7733268738,
+    4.3690662384,
+    50.7733268738
+],
+  "geometry": {"coordinates":[4.3690662384,50.7733268738],"type":"Point"}
+}

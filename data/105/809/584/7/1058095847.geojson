@@ -1,0 +1,77 @@
+{
+  "id": 1058095847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5074629784,50.8775405884,4.5074629784,50.8775405884",
+    "geom:latitude":50.877541,
+    "geom:longitude":4.507463,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelsesteenweg 452",
+    "sg:city":"Zaventem (nossegem)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 757 91 81",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801697,
+        102191581,
+        85632997,
+        404227357,
+        101754327,
+        102049969,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a3q16oNXTEZ24nEBGIjkX_50.877541_4.507463@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509398,
+    "wof:geomhash":"9fc3e8cdf493bb8d16a49667fb501227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "locality_id":101754327,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801697,
+            "region_id":85681731,
+            "venue_id":1058095847
+        }
+    ],
+    "wof:id":1058095847,
+    "wof:lastmodified":1473509398,
+    "wof:name":"Verdeyen",
+    "wof:parent_id":85801697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.5074629784,
+    50.8775405884,
+    4.5074629784,
+    50.8775405884
+],
+  "geometry": {"coordinates":[4.5074629784,50.8775405884],"type":"Point"}
+}

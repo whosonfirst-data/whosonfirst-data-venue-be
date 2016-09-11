@@ -1,0 +1,77 @@
+{
+  "id": 1041568187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3485889435,50.8143501282,4.3485889435,50.8143501282",
+    "geom:latitude":50.81435,
+    "geom:longitude":4.348589,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Brugmann 222",
+    "sg:city":"Bruxelles (ixelles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 98 88",
+    "sg:postcode":"1050",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QQPqP7NFdhmPd2bpv0U1a_50.814350_4.348589@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473969,
+    "wof:geomhash":"14a718edebffbc894c171c9008c958a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1041568187
+        }
+    ],
+    "wof:id":1041568187,
+    "wof:lastmodified":1473473969,
+    "wof:name":"Maertens - Westerlinck",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3485889435,
+    50.8143501282,
+    4.3485889435,
+    50.8143501282
+],
+  "geometry": {"coordinates":[4.3485889435,50.8143501282],"type":"Point"}
+}

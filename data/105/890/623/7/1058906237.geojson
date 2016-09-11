@@ -1,0 +1,85 @@
+{
+  "id": 1058906237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7186200619,51.081451416,3.7186200619,51.081451416",
+    "geom:latitude":51.081451,
+    "geom:longitude":3.71862,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zeeschipstraat 165",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 54 38",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "delivery",
+        "-",
+        "used",
+        "van",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HOfmWCzINVN7FhZ6C9Mw6_51.081451_3.718620@1306268593"
+    },
+    "wof:country":"BE",
+    "wof:created":1473546237,
+    "wof:geomhash":"a42ad8d24229dffa78b3c22ef9626761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1058906237
+        }
+    ],
+    "wof:id":1058906237,
+    "wof:lastmodified":1473546237,
+    "wof:name":"Ide A",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "-",
+        "used",
+        "van",
+        "truck"
+    ]
+},
+  "bbox": [
+    3.7186200619,
+    51.081451416,
+    3.7186200619,
+    51.081451416
+],
+  "geometry": {"coordinates":[3.7186200619,51.081451416],"type":"Point"}
+}

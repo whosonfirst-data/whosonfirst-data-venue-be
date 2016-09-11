@@ -1,0 +1,85 @@
+{
+  "id": 1041826269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3914318085,50.8457679749,4.3914318085,50.8457679749",
+    "geom:latitude":50.845768,
+    "geom:longitude":4.391432,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Cortenbergh 170",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 739 90 00",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "compagnies",
+        "vie",
+        "assurances",
+        "assurance",
+        "habitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dYrWJAePSE8urfq2ZWyBo_50.845768_4.391432@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484762,
+    "wof:geomhash":"6e2a1a5a96fa4ddb02a3410f2a0696e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1041826269
+        }
+    ],
+    "wof:id":1041826269,
+    "wof:lastmodified":1473484762,
+    "wof:name":"A.i.g. Europe",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compagnies",
+        "vie",
+        "assurances",
+        "assurance",
+        "habitation"
+    ]
+},
+  "bbox": [
+    4.3914318085,
+    50.8457679749,
+    4.3914318085,
+    50.8457679749
+],
+  "geometry": {"coordinates":[4.3914318085,50.8457679749],"type":"Point"}
+}

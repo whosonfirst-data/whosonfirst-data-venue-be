@@ -1,0 +1,81 @@
+{
+  "id": 1058102141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4337649345,51.3134422302,4.4337649345,51.3134422302",
+    "geom:latitude":51.313442,
+    "geom:longitude":4.433765,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koningin Astridlaan 4",
+    "sg:city":"Kapellen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 605 32 38",
+    "sg:postcode":"2950",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801301,
+        102191581,
+        85632997,
+        404227357,
+        101748101,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37aNXgGP16UFMun4RMguRl_51.313442_4.433765@1306268446"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509685,
+    "wof:geomhash":"3732c1d268cc13b69d26763e66b57a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715,
+            "venue_id":1058102141
+        }
+    ],
+    "wof:id":1058102141,
+    "wof:lastmodified":1473509685,
+    "wof:name":"Van Garsse K",
+    "wof:parent_id":85801301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.4337649345,
+    51.3134422302,
+    4.4337649345,
+    51.3134422302
+],
+  "geometry": {"coordinates":[4.4337649345,51.3134422302],"type":"Point"}
+}

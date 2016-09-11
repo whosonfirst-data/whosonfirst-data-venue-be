@@ -1,0 +1,83 @@
+{
+  "id": 1058600949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.337182045,50.8032951355,4.337182045,50.8032951355",
+    "geom:latitude":50.803295,
+    "geom:longitude":4.337182,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Xavier De Bue 37",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 344 99 45",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801951,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zq7VSOhlXAC3i0wLSlBEV_50.803295_4.337182@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532651,
+    "wof:geomhash":"1cedb174699e145289aaac873c5e54c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801951,
+            "region_id":85681713,
+            "venue_id":1058600949
+        }
+    ],
+    "wof:id":1058600949,
+    "wof:lastmodified":1473532651,
+    "wof:name":"Cabus Maison",
+    "wof:parent_id":85801951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "whol",
+        "game",
+        "-"
+    ]
+},
+  "bbox": [
+    4.337182045,
+    50.8032951355,
+    4.337182045,
+    50.8032951355
+],
+  "geometry": {"coordinates":[4.337182045,50.8032951355],"type":"Point"}
+}

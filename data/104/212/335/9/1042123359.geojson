@@ -1,0 +1,83 @@
+{
+  "id": 1042123359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4361767769,51.1434059143,4.4361767769,51.1434059143",
+    "geom:latitude":51.143406,
+    "geom:longitude":4.436177,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prins Boudewijnlaan 17-6",
+    "sg:city":"Kontich",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 451 32 25",
+    "sg:postcode":"2550",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tnrUaQUnbx61CUQGafNyT_51.143406_4.436177@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497572,
+    "wof:geomhash":"cedadf4a222ace3fcd9a6283ca6063c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1042123359
+        }
+    ],
+    "wof:id":1042123359,
+    "wof:lastmodified":1473497572,
+    "wof:name":"Flection Belgium Nv",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "used"
+    ]
+},
+  "bbox": [
+    4.4361767769,
+    51.1434059143,
+    4.4361767769,
+    51.1434059143
+],
+  "geometry": {"coordinates":[4.4361767769,51.1434059143],"type":"Point"}
+}

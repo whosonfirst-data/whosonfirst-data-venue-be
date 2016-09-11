@@ -1,0 +1,73 @@
+{
+  "id": 1058162575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6529281139,51.0449752808,3.6529281139,51.0449752808",
+    "geom:latitude":51.044975,
+    "geom:longitude":3.652928,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oudenaardegoed 29",
+    "sg:city":"Gent (drongen)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 226 78 00",
+    "sg:postcode":"9031",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85800745,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vZvhUUt9TAKqT8Yys7uPm_51.044975_3.652928@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512540,
+    "wof:geomhash":"6117c90b14706dae8ea5635b3a7713ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85800745,
+            "region_id":85681733,
+            "venue_id":1058162575
+        }
+    ],
+    "wof:id":1058162575,
+    "wof:lastmodified":1473512540,
+    "wof:name":"Derijcke Valeer",
+    "wof:parent_id":85800745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    3.6529281139,
+    51.0449752808,
+    3.6529281139,
+    51.0449752808
+],
+  "geometry": {"coordinates":[3.6529281139,51.0449752808],"type":"Point"}
+}

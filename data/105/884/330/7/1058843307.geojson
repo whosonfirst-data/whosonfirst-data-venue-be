@@ -1,0 +1,79 @@
+{
+  "id": 1058843307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4275579453,51.2215118408,4.4275579453,51.2215118408",
+    "geom:latitude":51.221512,
+    "geom:longitude":4.427558,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lange Beeldekensstraat 127",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 236 58 59",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "salvage",
+        "surplus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mqU4igaL04t2OkyQGvX0C_51.221512_4.427558@1306268582"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543447,
+    "wof:geomhash":"4612d92182b5ab3a5b86352b023733dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058843307
+        }
+    ],
+    "wof:id":1058843307,
+    "wof:lastmodified":1473543447,
+    "wof:name":"Marimex Bvba",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "surplus"
+    ]
+},
+  "bbox": [
+    4.4275579453,
+    51.2215118408,
+    4.4275579453,
+    51.2215118408
+],
+  "geometry": {"coordinates":[4.4275579453,51.2215118408],"type":"Point"}
+}

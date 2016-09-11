@@ -1,0 +1,79 @@
+{
+  "id": 1041879223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3389987946,50.8294181824,4.3389987946,50.8294181824",
+    "geom:latitude":50.829418,
+    "geom:longitude":4.338999,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Th\u00e9odore Verhaegen 119a",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 51 28",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LDcip6pePvXOFLqkS95Qs_50.829418_4.338999@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487040,
+    "wof:geomhash":"db97e4d0569eb2dbbc5192b4814bed1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041879223
+        }
+    ],
+    "wof:id":1041879223,
+    "wof:lastmodified":1473487040,
+    "wof:name":"Becue M",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3389987946,
+    50.8294181824,
+    4.3389987946,
+    50.8294181824
+],
+  "geometry": {"coordinates":[4.3389987946,50.8294181824],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058893091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2766499519,51.2598495483,4.2766499519,51.2598495483",
+    "geom:latitude":51.25985,
+    "geom:longitude":4.27665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Groesbeekstraat 25",
+    "sg:city":"Beveren (kallo)",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 575 08 79",
+    "sg:postcode":"9120",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801609,
+        102191581,
+        85632997,
+        404227357,
+        101838989,
+        102049997,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oRXdRN74Sxo2LqhRs8gPp_51.259850_4.276650@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545594,
+    "wof:geomhash":"f445e11c5f91b6993ac3d7de09eafa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "locality_id":101838989,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733,
+            "venue_id":1058893091
+        }
+    ],
+    "wof:id":1058893091,
+    "wof:lastmodified":1473545594,
+    "wof:name":"Romeyns F",
+    "wof:parent_id":85801609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.2766499519,
+    51.2598495483,
+    4.2766499519,
+    51.2598495483
+],
+  "geometry": {"coordinates":[4.2766499519,51.2598495483],"type":"Point"}
+}

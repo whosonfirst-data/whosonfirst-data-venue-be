@@ -1,0 +1,77 @@
+{
+  "id": 1058855529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4175901413,51.2177658081,4.4175901413,51.2177658081",
+    "geom:latitude":51.217766,
+    "geom:longitude":4.41759,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Keyserlei 19",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 233 19 22",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59obaeE4ZyYBjLU7aCC0Zh_51.217766_4.417590@1306268584"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543956,
+    "wof:geomhash":"1d9d4f84e7a65c85782b080a41f9e62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058855529
+        }
+    ],
+    "wof:id":1058855529,
+    "wof:lastmodified":1473543956,
+    "wof:name":"Griffy's",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    4.4175901413,
+    51.2177658081,
+    4.4175901413,
+    51.2177658081
+],
+  "geometry": {"coordinates":[4.4175901413,51.2177658081],"type":"Point"}
+}

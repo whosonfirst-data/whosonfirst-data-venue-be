@@ -1,0 +1,79 @@
+{
+  "id": 1041688487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4427862167,51.1601905823,4.4427862167,51.1601905823",
+    "geom:latitude":51.160191,
+    "geom:longitude":4.442786,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pitsemburglaan 3",
+    "sg:city":"Edegem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 457 46 45",
+    "sg:postcode":"2650",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102546461,
+        85800769,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70IKzHNFt3PFlH68yPOFCw_51.160191_4.442786@1306268323"
+    },
+    "wof:country":"BE",
+    "wof:created":1473478845,
+    "wof:geomhash":"034289bac13e8b22b91d0a8336a7efb5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546461,
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800769,
+            "region_id":85681715,
+            "venue_id":1041688487
+        }
+    ],
+    "wof:id":1041688487,
+    "wof:lastmodified":1473478845,
+    "wof:name":"Pollet C",
+    "wof:parent_id":102546461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    4.4427862167,
+    51.1601905823,
+    4.4427862167,
+    51.1601905823
+],
+  "geometry": {"coordinates":[4.4427862167,51.1601905823],"type":"Point"}
+}

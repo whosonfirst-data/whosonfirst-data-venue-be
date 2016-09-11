@@ -1,0 +1,93 @@
+{
+  "id": 1058686033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3453578949,50.8183784485,4.3453578949,50.8183784485",
+    "geom:latitude":50.818378,
+    "geom:longitude":4.345358,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Berkendael 33",
+    "sg:city":"Forest",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 65 21",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "d",
+        "restaurant",
+        "organisation",
+        "\u00c0",
+        "domicile",
+        "catering",
+        "emporter",
+        "livraison",
+        "restaurants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EdEpy1vOdvOl39CDiVWZk_50.818378_4.345358@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536541,
+    "wof:geomhash":"11b589940781ee78783921d83988006b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1058686033
+        }
+    ],
+    "wof:id":1058686033,
+    "wof:lastmodified":1473536541,
+    "wof:name":"Le Passe-bouillon",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "d",
+        "restaurant",
+        "organisation",
+        "\u00c0",
+        "domicile",
+        "catering",
+        "emporter",
+        "livraison",
+        "restaurants"
+    ]
+},
+  "bbox": [
+    4.3453578949,
+    50.8183784485,
+    4.3453578949,
+    50.8183784485
+],
+  "geometry": {"coordinates":[4.3453578949,50.8183784485],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1058680997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6853690147,50.8609848022,4.6853690147,50.8609848022",
+    "geom:latitude":50.860985,
+    "geom:longitude":4.685369,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kantineplein 1",
+    "sg:city":"Leuven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 20 74 33",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Ss3wRZSB50T2JnQwLItS_50.860985_4.685369@1306268553"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536320,
+    "wof:geomhash":"d7cbb5c3cc88e5279831dd63111e9989",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058680997
+        }
+    ],
+    "wof:id":1058680997,
+    "wof:lastmodified":1473536320,
+    "wof:name":"The Lodge",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6853690147,
+    50.8609848022,
+    4.6853690147,
+    50.8609848022
+],
+  "geometry": {"coordinates":[4.6853690147,50.8609848022],"type":"Point"}
+}

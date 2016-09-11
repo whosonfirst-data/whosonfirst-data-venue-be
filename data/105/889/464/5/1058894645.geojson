@@ -1,0 +1,79 @@
+{
+  "id": 1058894645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3416137695,50.8665504456,4.3416137695,50.8665504456",
+    "geom:latitude":50.86655,
+    "geom:longitude":4.341614,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'escaut 46-48",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 32 46",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801801,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mWnYYyO2KHXv4r4xqABKa_50.866550_4.341614@1306268591"
+    },
+    "wof:country":"BE",
+    "wof:created":1473545658,
+    "wof:geomhash":"bf9d033f0925615f00d9166dc186f463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801801,
+            "region_id":85681713,
+            "venue_id":1058894645
+        }
+    ],
+    "wof:id":1058894645,
+    "wof:lastmodified":1473545658,
+    "wof:name":"Batac Transport",
+    "wof:parent_id":85801801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "transport"
+    ]
+},
+  "bbox": [
+    4.3416137695,
+    50.8665504456,
+    4.3416137695,
+    50.8665504456
+],
+  "geometry": {"coordinates":[4.3416137695,50.8665504456],"type":"Point"}
+}

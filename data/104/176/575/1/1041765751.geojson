@@ -1,0 +1,79 @@
+{
+  "id": 1041765751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3844661713,50.8554153442,4.3844661713,50.8554153442",
+    "geom:latitude":50.855415,
+    "geom:longitude":4.384466,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Dailly 128",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 68 45",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "aquarium",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v3yDvZ8cLq4VaX1TmllR5_50.855415_4.384466@1306268335"
+    },
+    "wof:country":"BE",
+    "wof:created":1473482206,
+    "wof:geomhash":"c4043d1c09e8ba3bd8420a9450927421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1041765751
+        }
+    ],
+    "wof:id":1041765751,
+    "wof:lastmodified":1473482206,
+    "wof:name":"New Aquarium Promotions Sc",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3844661713,
+    50.8554153442,
+    4.3844661713,
+    50.8554153442
+],
+  "geometry": {"coordinates":[4.3844661713,50.8554153442],"type":"Point"}
+}

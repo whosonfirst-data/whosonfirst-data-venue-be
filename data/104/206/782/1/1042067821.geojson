@@ -1,0 +1,81 @@
+{
+  "id": 1042067821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.6409521103,51.1043205261,3.6409521103,51.1043205261",
+    "geom:latitude":51.104321,
+    "geom:longitude":3.640952,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Azaleastraat 57",
+    "sg:city":"Lovendegem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 372 61 77",
+    "sg:postcode":"9920",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "product",
+        "cleaning",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801595,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1agN8ISrDjZRYJD5RP46lr_51.104321_3.640952@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494984,
+    "wof:geomhash":"c2cccb2e17509e54238198cc7daaa524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801595,
+            "region_id":85681733,
+            "venue_id":1042067821
+        }
+    ],
+    "wof:id":1042067821,
+    "wof:lastmodified":1473494984,
+    "wof:name":"D & D Bvba",
+    "wof:parent_id":85801595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "cleaning",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    3.6409521103,
+    51.1043205261,
+    3.6409521103,
+    51.1043205261
+],
+  "geometry": {"coordinates":[3.6409521103,51.1043205261],"type":"Point"}
+}

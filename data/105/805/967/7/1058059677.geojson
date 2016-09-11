@@ -1,0 +1,79 @@
+{
+  "id": 1058059677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5718688965,50.655620575,5.5718688965,50.655620575",
+    "geom:latitude":50.655621,
+    "geom:longitude":5.571869,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Sainte-walburge 53",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 04 48",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "frozen",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801929,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yj4Kh495CdpE8ZRib17qP_50.655621_5.571869@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507904,
+    "wof:geomhash":"ee3dc4c42a6fbe633e106759ddb58431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801929,
+            "region_id":85681691,
+            "venue_id":1058059677
+        }
+    ],
+    "wof:id":1058059677,
+    "wof:lastmodified":1473507904,
+    "wof:name":"L'ours Blanc",
+    "wof:parent_id":85801929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "-"
+    ]
+},
+  "bbox": [
+    5.5718688965,
+    50.655620575,
+    5.5718688965,
+    50.655620575
+],
+  "geometry": {"coordinates":[5.5718688965,50.655620575],"type":"Point"}
+}

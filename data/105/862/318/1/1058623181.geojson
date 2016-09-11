@@ -1,0 +1,77 @@
+{
+  "id": 1058623181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5526452065,50.6314086914,5.5526452065,50.6314086914",
+    "geom:latitude":50.631409,
+    "geom:longitude":5.552645,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Maus 156",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 496 85 26 92",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862077,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k36t7fKJ3Gvwdvw1N9QJH_50.631409_5.552645@1306268541"
+    },
+    "wof:country":"BE",
+    "wof:created":1473533707,
+    "wof:geomhash":"7dff56f0ef3e191d2e583d482f8bfc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862077,
+            "region_id":85681691,
+            "venue_id":1058623181
+        }
+    ],
+    "wof:id":1058623181,
+    "wof:lastmodified":1473533707,
+    "wof:name":"Gutmacher",
+    "wof:parent_id":85862077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    5.5526452065,
+    50.6314086914,
+    5.5526452065,
+    50.6314086914
+],
+  "geometry": {"coordinates":[5.5526452065,50.6314086914],"type":"Point"}
+}

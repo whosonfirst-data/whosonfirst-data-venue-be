@@ -1,0 +1,83 @@
+{
+  "id": 1042114299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.717466116,51.0766372681,3.717466116,51.0766372681",
+    "geom:latitude":51.076637,
+    "geom:longitude":3.717466,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paketbootstraat 23",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 253 40 33",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802027,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZiDOuWg1JCOB5LlKsnssU_51.076637_3.717466@1306268397"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497052,
+    "wof:geomhash":"97978e3a6803ddc7c87ad5b80c941318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802027,
+            "region_id":85681733,
+            "venue_id":1042114299
+        }
+    ],
+    "wof:id":1042114299,
+    "wof:lastmodified":1473497052,
+    "wof:name":"Bert G",
+    "wof:parent_id":85802027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    3.717466116,
+    51.0766372681,
+    3.717466116,
+    51.0766372681
+],
+  "geometry": {"coordinates":[3.717466116,51.0766372681],"type":"Point"}
+}

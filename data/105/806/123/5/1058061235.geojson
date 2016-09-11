@@ -1,0 +1,81 @@
+{
+  "id": 1058061235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4612698555,51.1617202759,4.4612698555,51.1617202759",
+    "geom:latitude":51.16172,
+    "geom:longitude":4.46127,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groenstraat 31",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 460 13 00",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "fork",
+        "lift",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800891,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XN3zF8UTOIQnwTVzdhfUW_51.161720_4.461270@1306268437"
+    },
+    "wof:country":"BE",
+    "wof:created":1473507984,
+    "wof:geomhash":"0aafc0a30797d1131632294f787bba06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800891,
+            "region_id":85681715,
+            "venue_id":1058061235
+        }
+    ],
+    "wof:id":1058061235,
+    "wof:lastmodified":1473507984,
+    "wof:name":"C.m.p. Batterijen Nv-sa",
+    "wof:parent_id":85800891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fork",
+        "lift",
+        "truck"
+    ]
+},
+  "bbox": [
+    4.4612698555,
+    51.1617202759,
+    4.4612698555,
+    51.1617202759
+],
+  "geometry": {"coordinates":[4.4612698555,51.1617202759],"type":"Point"}
+}

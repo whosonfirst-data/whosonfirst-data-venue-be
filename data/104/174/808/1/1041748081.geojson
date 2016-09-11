@@ -1,0 +1,83 @@
+{
+  "id": 1041748081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4335861206,50.939289093,4.4335861206,50.939289093",
+    "geom:latitude":50.939289,
+    "geom:longitude":4.433586,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mechelsesteenweg 257a",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 251 78 58",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "oxidation",
+        "aluminium",
+        "-",
+        "anodic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801781,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nw3yBziUwGWnfiimTq5iq_50.939289_4.433586@1306268332"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481289,
+    "wof:geomhash":"0d484ac7ad1430e4d3c44bdf1fe405f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801781,
+            "region_id":85681731,
+            "venue_id":1041748081
+        }
+    ],
+    "wof:id":1041748081,
+    "wof:lastmodified":1473481289,
+    "wof:name":"Ox-alu Bvba",
+    "wof:parent_id":85801781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oxidation",
+        "aluminium",
+        "-",
+        "anodic"
+    ]
+},
+  "bbox": [
+    4.4335861206,
+    50.939289093,
+    4.4335861206,
+    50.939289093
+],
+  "geometry": {"coordinates":[4.4335861206,50.939289093],"type":"Point"}
+}

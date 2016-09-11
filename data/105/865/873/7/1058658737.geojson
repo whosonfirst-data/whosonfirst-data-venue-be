@@ -1,0 +1,77 @@
+{
+  "id": 1058658737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3548297882,50.795173645,4.3548297882,50.795173645",
+    "geom:latitude":50.795174,
+    "geom:longitude":4.35483,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Fran\u00e7ois Folie 28 Box 6",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 11 58",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "relocation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801889,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fFwrNugKz6dUhEmScoxXE_50.795174_4.354830@1306268548"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535356,
+    "wof:geomhash":"766403b99aac6b7e7c2a0eacd1d0edeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801889,
+            "region_id":85681713,
+            "venue_id":1058658737
+        }
+    ],
+    "wof:id":1058658737,
+    "wof:lastmodified":1473535356,
+    "wof:name":"Dalouvia",
+    "wof:parent_id":85801889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relocation"
+    ]
+},
+  "bbox": [
+    4.3548297882,
+    50.795173645,
+    4.3548297882,
+    50.795173645
+],
+  "geometry": {"coordinates":[4.3548297882,50.795173645],"type":"Point"}
+}

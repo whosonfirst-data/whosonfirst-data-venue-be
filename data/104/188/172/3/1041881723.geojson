@@ -1,0 +1,79 @@
+{
+  "id": 1041881723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6191592216,50.6223335266,5.6191592216,50.6223335266",
+    "geom:latitude":50.622334,
+    "geom:longitude":5.619159,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Verte-houmeresse 137",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 366 12 01",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862129,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ChPhn0hymfDdJyAQdHSes_50.622334_5.619159@1306268355"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487143,
+    "wof:geomhash":"b38f533511538884be8727b2479c04f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862129,
+            "region_id":85681691,
+            "venue_id":1041881723
+        }
+    ],
+    "wof:id":1041881723,
+    "wof:lastmodified":1473487143,
+    "wof:name":"Grisendi Ph",
+    "wof:parent_id":85862129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    5.6191592216,
+    50.6223335266,
+    5.6191592216,
+    50.6223335266
+],
+  "geometry": {"coordinates":[5.6191592216,50.6223335266],"type":"Point"}
+}

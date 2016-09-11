@@ -1,0 +1,83 @@
+{
+  "id": 1041742507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7196409702,51.0521316528,3.7196409702,51.0521316528",
+    "geom:latitude":51.052132,
+    "geom:longitude":3.719641,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Onderbergen 40",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 269 04 45",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ssag1yFCpRSbj5Qjs8TKr_51.052132_3.719641@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481063,
+    "wof:geomhash":"a0beb6acab6ff441510d9d6cacca6514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1041742507
+        }
+    ],
+    "wof:id":1041742507,
+    "wof:lastmodified":1473481063,
+    "wof:name":"E.v.c. Security Bvba",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    3.7196409702,
+    51.0521316528,
+    3.7196409702,
+    51.0521316528
+],
+  "geometry": {"coordinates":[3.7196409702,51.0521316528],"type":"Point"}
+}

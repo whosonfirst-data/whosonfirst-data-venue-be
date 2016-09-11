@@ -1,0 +1,76 @@
+{
+  "id": 1058996395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.235604,51.1743666,3.235604,51.1743666",
+    "geom:latitude":51.174367,
+    "geom:longitude":3.235604,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanaalstraat 1A",
+    "sg:city":"Oostkamp",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"B-8020",
+    "sg:tags":[
+        "hosting-backup-storage-linux"
+    ],
+    "sg:website":"http://www.itecom.be",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y0pmv8p1fel1ikKtl1WiO_51.174367_3.235604@1308163239"
+    },
+    "wof:country":"BE",
+    "wof:created":1473550370,
+    "wof:geomhash":"5ee4e86cc926f337f1de2b25c40d136b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058996395
+        }
+    ],
+    "wof:id":1058996395,
+    "wof:lastmodified":1473550370,
+    "wof:name":"iTecom",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosting-backup-storage-linux"
+    ]
+},
+  "bbox": [
+    3.235604,
+    51.1743666,
+    3.235604,
+    51.1743666
+],
+  "geometry": {"coordinates":[3.235604,51.1743666],"type":"Point"}
+}

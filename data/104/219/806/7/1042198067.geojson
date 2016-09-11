@@ -1,0 +1,77 @@
+{
+  "id": 1042198067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7051000595,51.0613746643,3.7051000595,51.0613746643",
+    "geom:latitude":51.061375,
+    "geom:longitude":3.7051,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elyzeese Velden 8",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 234 39 08",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "primary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tX2Q4AtyCmoDGswxObx7C_51.061375_3.705100@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501804,
+    "wof:geomhash":"e41ac57d3955b964e56ad6e9df9939fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1042198067
+        }
+    ],
+    "wof:id":1042198067,
+    "wof:lastmodified":1473501804,
+    "wof:name":"Steinerschool De Teunisbloem",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "primary"
+    ]
+},
+  "bbox": [
+    3.7051000595,
+    51.0613746643,
+    3.7051000595,
+    51.0613746643
+],
+  "geometry": {"coordinates":[3.7051000595,51.0613746643],"type":"Point"}
+}

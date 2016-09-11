@@ -1,0 +1,77 @@
+{
+  "id": 1058568791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7674739361,51.0919456482,3.7674739361,51.0919456482",
+    "geom:latitude":51.091946,
+    "geom:longitude":3.767474,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fran\u00e7ois Van Impelaan 87",
+    "sg:city":"Gent (oostakker)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 259 82 00",
+    "sg:postcode":"9041",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801641,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YfnvE3wSGn1l2dguowium_51.091946_3.767474@1306268531"
+    },
+    "wof:country":"BE",
+    "wof:created":1473531251,
+    "wof:geomhash":"b99de012245dd5f1400114b2abbb0196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801641,
+            "region_id":85681733,
+            "venue_id":1058568791
+        }
+    ],
+    "wof:id":1058568791,
+    "wof:lastmodified":1473531251,
+    "wof:name":"Temmerman Fran\u00e7oise",
+    "wof:parent_id":85801641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.7674739361,
+    51.0919456482,
+    3.7674739361,
+    51.0919456482
+],
+  "geometry": {"coordinates":[3.7674739361,51.0919456482],"type":"Point"}
+}

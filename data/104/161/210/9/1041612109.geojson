@@ -1,0 +1,79 @@
+{
+  "id": 1041612109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.312939167,50.8969421387,4.312939167,50.8969421387",
+    "geom:latitude":50.896942,
+    "geom:longitude":4.312939,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Isidore Meyskens 222b",
+    "sg:city":"Wemmel",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 456 80 60",
+    "sg:postcode":"1780",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "pump",
+        "impeller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801243,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41JFDROtEEYsJT96czEYdW_50.896942_4.312939@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475784,
+    "wof:geomhash":"fb7760eac239138dfeeb1b5a005ff751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801243,
+            "region_id":85681713,
+            "venue_id":1041612109
+        }
+    ],
+    "wof:id":1041612109,
+    "wof:lastmodified":1473475784,
+    "wof:name":"Le Carbone S.a.",
+    "wof:parent_id":85801243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "impeller"
+    ]
+},
+  "bbox": [
+    4.312939167,
+    50.8969421387,
+    4.312939167,
+    50.8969421387
+],
+  "geometry": {"coordinates":[4.312939167,50.8969421387],"type":"Point"}
+}

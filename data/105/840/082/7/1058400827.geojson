@@ -1,0 +1,71 @@
+{
+  "id": 1058400827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5040020943,50.5835762024,5.5040020943,50.5835762024",
+    "geom:latitude":50.583576,
+    "geom:longitude":5.504002,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Rotheux 164",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 338 53 43",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801565,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VY5prlO086JY40Df5HcvL_50.583576_5.504002@1306268503"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523278,
+    "wof:geomhash":"4e5cf39cea8f59401d2978c178234c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801565,
+            "region_id":85681691,
+            "venue_id":1058400827
+        }
+    ],
+    "wof:id":1058400827,
+    "wof:lastmodified":1473523278,
+    "wof:name":"Maison M\u00e9dicale Agora Asbl",
+    "wof:parent_id":85801565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    5.5040020943,
+    50.5835762024,
+    5.5040020943,
+    50.5835762024
+],
+  "geometry": {"coordinates":[5.5040020943,50.5835762024],"type":"Point"}
+}

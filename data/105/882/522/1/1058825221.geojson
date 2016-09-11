@@ -1,0 +1,79 @@
+{
+  "id": 1058825221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4007401466,50.830493927,4.4007401466,50.830493927",
+    "geom:latitude":50.830494,
+    "geom:longitude":4.40074,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Tervaete 52",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 73 24",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "sport",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801521,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oNVvBZCMxTXuxrLjKvAWI_50.830494_4.400740@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542665,
+    "wof:geomhash":"b51a0c4c86da6b286385f929e6dd1796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801521,
+            "region_id":85681713,
+            "venue_id":1058825221
+        }
+    ],
+    "wof:id":1058825221,
+    "wof:lastmodified":1473542665,
+    "wof:name":"Area Sport",
+    "wof:parent_id":85801521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "-"
+    ]
+},
+  "bbox": [
+    4.4007401466,
+    50.830493927,
+    4.4007401466,
+    50.830493927
+],
+  "geometry": {"coordinates":[4.4007401466,50.830493927],"type":"Point"}
+}

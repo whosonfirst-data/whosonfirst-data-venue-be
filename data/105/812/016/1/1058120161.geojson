@@ -1,0 +1,77 @@
+{
+  "id": 1058120161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3622469902,50.8697319031,4.3622469902,50.8697319031",
+    "geom:latitude":50.869732,
+    "geom:longitude":4.362247,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Reine 169",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 201 59 44",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801855,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1crLL83TtoTNEJ36P2rrhP_50.869732_4.362247@1306268449"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510530,
+    "wof:geomhash":"478323f5fd2bde4109899dbe1c50439b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801855,
+            "region_id":85681713,
+            "venue_id":1058120161
+        }
+    ],
+    "wof:id":1058120161,
+    "wof:lastmodified":1473510530,
+    "wof:name":"Guven Market",
+    "wof:parent_id":85801855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    4.3622469902,
+    50.8697319031,
+    4.3622469902,
+    50.8697319031
+],
+  "geometry": {"coordinates":[4.3622469902,50.8697319031],"type":"Point"}
+}

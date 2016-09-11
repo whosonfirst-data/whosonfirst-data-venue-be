@@ -1,0 +1,77 @@
+{
+  "id": 1058787305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3866810799,51.1896629333,4.3866810799,51.1896629333",
+    "geom:latitude":51.189663,
+    "geom:longitude":4.386681,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boomse Steenweg 276",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 237 38 32",
+    "sg:postcode":"2020",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "snack-bars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JL8vBZhk6JUaIKAoTQroO_51.189663_4.386681@1306268571"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540973,
+    "wof:geomhash":"c29ad2d9c5dccb9014984f1786125ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1058787305
+        }
+    ],
+    "wof:id":1058787305,
+    "wof:lastmodified":1473540973,
+    "wof:name":"Goei Beleg (t')",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack-bars"
+    ]
+},
+  "bbox": [
+    4.3866810799,
+    51.1896629333,
+    4.3866810799,
+    51.1896629333
+],
+  "geometry": {"coordinates":[4.3866810799,51.1896629333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058101135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4306211472,50.9100799561,4.4306211472,50.9100799561",
+    "geom:latitude":50.91008,
+    "geom:longitude":4.430621,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"De Warande 8",
+    "sg:city":"Machelen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 253 32 41",
+    "sg:postcode":"1830",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800977,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G2UB0y3oD5i4SVsFRMHYm_50.910080_4.430621@1306268445"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509641,
+    "wof:geomhash":"4ab6b141eac5dc1ba36a0c011baf3efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800977,
+            "region_id":85681731,
+            "venue_id":1058101135
+        }
+    ],
+    "wof:id":1058101135,
+    "wof:lastmodified":1473509641,
+    "wof:name":"Otte M",
+    "wof:parent_id":85800977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gardening",
+        "garden",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    4.4306211472,
+    50.9100799561,
+    4.4306211472,
+    50.9100799561
+],
+  "geometry": {"coordinates":[4.4306211472,50.9100799561],"type":"Point"}
+}

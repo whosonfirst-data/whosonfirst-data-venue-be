@@ -1,0 +1,79 @@
+{
+  "id": 1042127683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5389971733,50.6405258179,5.5389971733,50.6405258179",
+    "geom:latitude":50.640526,
+    "geom:longitude":5.538997,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De L'esp\u00e9rance 238",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 225 23 87",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862023,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qKtGcmiWTexQQvE4EQINM_50.640526_5.538997@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497825,
+    "wof:geomhash":"97523f7b3e31fa610d2a19a68465fe53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862023,
+            "region_id":85681691,
+            "venue_id":1042127683
+        }
+    ],
+    "wof:id":1042127683,
+    "wof:lastmodified":1473497825,
+    "wof:name":"Pr\u00e9cident",
+    "wof:parent_id":85862023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    5.5389971733,
+    50.6405258179,
+    5.5389971733,
+    50.6405258179
+],
+  "geometry": {"coordinates":[5.5389971733,50.6405258179],"type":"Point"}
+}

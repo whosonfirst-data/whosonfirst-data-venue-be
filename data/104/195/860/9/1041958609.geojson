@@ -1,0 +1,79 @@
+{
+  "id": 1041958609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5074071884,50.6578788757,5.5074071884,50.6578788757",
+    "geom:latitude":50.657879,
+    "geom:longitude":5.507407,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Emile Vandervelde 148",
+    "sg:city":"Ans (loncin)",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 239 69 69",
+    "sg:postcode":"4431",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "boiler",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k0EKEVlBKFcYZeh8qO6Uf_50.657879_5.507407@1306268367"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490457,
+    "wof:geomhash":"6f741d819252c47e599b5311300ea287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1041958609
+        }
+    ],
+    "wof:id":1041958609,
+    "wof:lastmodified":1473490457,
+    "wof:name":"Brandt Et Fils Sa",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    5.5074071884,
+    50.6578788757,
+    5.5074071884,
+    50.6578788757
+],
+  "geometry": {"coordinates":[5.5074071884,50.6578788757],"type":"Point"}
+}

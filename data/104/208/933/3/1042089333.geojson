@@ -1,0 +1,85 @@
+{
+  "id": 1042089333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5405349731,50.6511306763,5.5405349731,50.6511306763",
+    "geom:latitude":50.651131,
+    "geom:longitude":5.540535,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Houdret 27",
+    "sg:city":"Ans",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 226 99 56",
+    "sg:postcode":"4430",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801177,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EkX4V9VD3lQT3hBWTK2QF_50.651131_5.540535@1306268393"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495929,
+    "wof:geomhash":"2ee0f3463b2e07f693f9e5d08addb094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801177,
+            "region_id":85681691,
+            "venue_id":1042089333
+        }
+    ],
+    "wof:id":1042089333,
+    "wof:lastmodified":1473495929,
+    "wof:name":"Union Communale D'ans",
+    "wof:parent_id":85801177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terrain",
+        "hors",
+        "de",
+        "installation",
+        "sportifs"
+    ]
+},
+  "bbox": [
+    5.5405349731,
+    50.6511306763,
+    5.5405349731,
+    50.6511306763
+],
+  "geometry": {"coordinates":[5.5405349731,50.6511306763],"type":"Point"}
+}

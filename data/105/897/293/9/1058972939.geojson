@@ -1,0 +1,81 @@
+{
+  "id": 1058972939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3956770897,50.8649864197,4.3956770897,50.8649864197",
+    "geom:latitude":50.864986,
+    "geom:longitude":4.395677,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Gilisquet 93",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 215 07 78",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801129,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z15oeJkRqTgAG4JQT4yzI_50.864986_4.395677@1306268605"
+    },
+    "wof:country":"BE",
+    "wof:created":1473549341,
+    "wof:geomhash":"3e4f35b92f23d6ce43f566ecf35abc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801129,
+            "region_id":85681713,
+            "venue_id":1058972939
+        }
+    ],
+    "wof:id":1058972939,
+    "wof:lastmodified":1473549341,
+    "wof:name":"Covipro",
+    "wof:parent_id":85801129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    4.3956770897,
+    50.8649864197,
+    4.3956770897,
+    50.8649864197
+],
+  "geometry": {"coordinates":[4.3956770897,50.8649864197],"type":"Point"}
+}

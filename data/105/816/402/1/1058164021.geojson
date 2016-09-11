@@ -1,0 +1,79 @@
+{
+  "id": 1058164021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3626022339,50.8103675842,4.3626022339,50.8103675842",
+    "geom:latitude":50.810368,
+    "geom:longitude":4.362602,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Ernest Gossart 22",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 347 26 66",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CgYvAea97cEdhrmiCdRZr_50.810368_4.362602@1306268459"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512606,
+    "wof:geomhash":"6f14d5891a59231e1cc746fb4d888a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058164021
+        }
+    ],
+    "wof:id":1058164021,
+    "wof:lastmodified":1473512606,
+    "wof:name":"Duchateau Michel",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3626022339,
+    50.8103675842,
+    4.3626022339,
+    50.8103675842
+],
+  "geometry": {"coordinates":[4.3626022339,50.8103675842],"type":"Point"}
+}

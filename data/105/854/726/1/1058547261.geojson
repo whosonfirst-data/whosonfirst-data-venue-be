@@ -1,0 +1,77 @@
+{
+  "id": 1058547261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4621019363,50.8537788391,4.4621019363,50.8537788391",
+    "geom:latitude":50.853779,
+    "geom:longitude":4.462102,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Des Capucines 33",
+    "sg:city":"Kraainem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 721 16 71",
+    "sg:postcode":"1950",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801015,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55RNxOaoM5MHFAXK2iBvt4_50.853779_4.462102@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530253,
+    "wof:geomhash":"7cfb0327fb33b8d70a7132b6a268c074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801015,
+            "region_id":85681731,
+            "venue_id":1058547261
+        }
+    ],
+    "wof:id":1058547261,
+    "wof:lastmodified":1473530253,
+    "wof:name":"Antoine S\u00e9bastien",
+    "wof:parent_id":85801015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    4.4621019363,
+    50.8537788391,
+    4.4621019363,
+    50.8537788391
+],
+  "geometry": {"coordinates":[4.4621019363,50.8537788391],"type":"Point"}
+}

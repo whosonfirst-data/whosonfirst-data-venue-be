@@ -1,0 +1,83 @@
+{
+  "id": 1042116725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.245882988,50.7286758423,4.245882988,50.7286758423",
+    "geom:latitude":50.728676,
+    "geom:longitude":4.245883,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Balthazarstraat 97",
+    "sg:city":"Halle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 496 74 62 18",
+    "sg:postcode":"1500",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vD6CFzf02FDdt3uZ8beqt_50.728676_4.245883@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497200,
+    "wof:geomhash":"6ffda546e118602464b82db5b2e32ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1042116725
+        }
+    ],
+    "wof:id":1042116725,
+    "wof:lastmodified":1473497200,
+    "wof:name":"Sapcom Bvba",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "consultant"
+    ]
+},
+  "bbox": [
+    4.245882988,
+    50.7286758423,
+    4.245882988,
+    50.7286758423
+],
+  "geometry": {"coordinates":[4.245882988,50.7286758423],"type":"Point"}
+}

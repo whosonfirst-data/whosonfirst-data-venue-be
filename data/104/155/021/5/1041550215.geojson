@@ -1,0 +1,73 @@
+{
+  "id": 1041550215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4660778046,51.4281234741,4.4660778046,51.4281234741",
+    "geom:latitude":51.428123,
+    "geom:longitude":4.466078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-jansstraat 43",
+    "sg:city":"Essen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 667 69 99",
+    "sg:postcode":"2910",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HPDVeHoQ7vi2NiBS6Ik5C_51.428123_4.466078@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473199,
+    "wof:geomhash":"00cc22c395c5b798ce12e917b8d567d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1041550215
+        }
+    ],
+    "wof:id":1041550215,
+    "wof:lastmodified":1473473199,
+    "wof:name":"Brughmans",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.4660778046,
+    51.4281234741,
+    4.4660778046,
+    51.4281234741
+],
+  "geometry": {"coordinates":[4.4660778046,51.4281234741],"type":"Point"}
+}

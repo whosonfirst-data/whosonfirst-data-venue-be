@@ -1,0 +1,77 @@
+{
+  "id": 1041548325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3901729584,50.8751831055,4.3901729584,50.8751831055",
+    "geom:latitude":50.875183,
+    "geom:longitude":4.390173,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Helmet 330",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 241 77 34",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "automobile-body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rlh501LKbARjESnCYPkao_50.875183_4.390173@1306268350"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473123,
+    "wof:geomhash":"31f32ff3342a4e73535ae43f399790bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1041548325
+        }
+    ],
+    "wof:id":1041548325,
+    "wof:lastmodified":1473473123,
+    "wof:name":"Fg Cars Sprl",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile-body"
+    ]
+},
+  "bbox": [
+    4.3901729584,
+    50.8751831055,
+    4.3901729584,
+    50.8751831055
+],
+  "geometry": {"coordinates":[4.3901729584,50.8751831055],"type":"Point"}
+}

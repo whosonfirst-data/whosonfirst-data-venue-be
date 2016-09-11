@@ -1,0 +1,66 @@
+{
+  "id": 1042139063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4736652374,51.169380188,4.4736652374,51.169380188",
+    "geom:latitude":51.16938,
+    "geom:longitude":4.473665,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maria Gorettistraat 32",
+    "sg:city":"Mortsel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 08 89",
+    "sg:postcode":"2640",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gpwuo25WJynApekAGVPbW_51.169380_4.473665@1306268403"
+    },
+    "wof:country":"BE",
+    "wof:created":1473498423,
+    "wof:geomhash":"0458718ab9519778d07f4e44d840a80b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042139063
+        }
+    ],
+    "wof:id":1042139063,
+    "wof:lastmodified":1473498423,
+    "wof:name":"Van Den Bogaert Erik",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4736652374,
+    51.169380188,
+    4.4736652374,
+    51.169380188
+],
+  "geometry": {"coordinates":[4.4736652374,51.169380188],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042074957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3542151451,50.8512649536,4.3542151451,50.8512649536",
+    "geom:latitude":50.851265,
+    "geom:longitude":4.354215,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Neuve 30",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 250 07 80",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "large",
+        "-",
+        "clothing",
+        "sale-rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801789,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G9r2STJwk9yRnH5V15IF1_50.851265_4.354215@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495278,
+    "wof:geomhash":"24446ff69707147aa0474a534860d63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801789,
+            "region_id":85681713,
+            "venue_id":1042074957
+        }
+    ],
+    "wof:id":1042074957,
+    "wof:lastmodified":1473495278,
+    "wof:name":"Zara",
+    "wof:parent_id":85801789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "large",
+        "-",
+        "clothing",
+        "sale-rooms"
+    ]
+},
+  "bbox": [
+    4.3542151451,
+    50.8512649536,
+    4.3542151451,
+    50.8512649536
+],
+  "geometry": {"coordinates":[4.3542151451,50.8512649536],"type":"Point"}
+}

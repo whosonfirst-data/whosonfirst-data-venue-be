@@ -1,0 +1,73 @@
+{
+  "id": 1058153987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4848737717,50.6742362976,5.4848737717,50.6742362976",
+    "geom:latitude":50.674236,
+    "geom:longitude":5.484874,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Bruxelles 180",
+    "sg:city":"Awans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 68 25",
+    "sg:postcode":"4340",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6stf9caRpLXCYKD2nGQ39V_50.674236_5.484874@1306268456"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512188,
+    "wof:geomhash":"ec34b9525e5d364735bbe86c20bfa70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1058153987
+        }
+    ],
+    "wof:id":1058153987,
+    "wof:lastmodified":1473512188,
+    "wof:name":"Baeckeland E",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.4848737717,
+    50.6742362976,
+    5.4848737717,
+    50.6742362976
+],
+  "geometry": {"coordinates":[5.4848737717,50.6742362976],"type":"Point"}
+}

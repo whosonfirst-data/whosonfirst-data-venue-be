@@ -1,0 +1,77 @@
+{
+  "id": 1041642455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3962650299,50.8546104431,4.3962650299,50.8546104431",
+    "geom:latitude":50.85461,
+    "geom:longitude":4.396265,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Louvain 477",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 732 92 20",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "parquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74IHM3r00vwfS6bgOdowVg_50.854610_4.396265@1306268523"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477029,
+    "wof:geomhash":"b34e128737e8f2af2d9dc022b59f3f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041642455
+        }
+    ],
+    "wof:id":1041642455,
+    "wof:lastmodified":1473477029,
+    "wof:name":"Blanchon-solnette",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parquet"
+    ]
+},
+  "bbox": [
+    4.3962650299,
+    50.8546104431,
+    4.3962650299,
+    50.8546104431
+],
+  "geometry": {"coordinates":[4.3962650299,50.8546104431],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1058068855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5051169395,50.5928726196,5.5051169395,50.5928726196",
+    "geom:latitude":50.592873,
+    "geom:longitude":5.505117,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Boverie 644",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 336 30 27",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d3AEJ5yjwtElwoclv6PQM_50.592873_5.505117@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508269,
+    "wof:geomhash":"13003dffba4a48503f6b57175b8975f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1058068855
+        }
+    ],
+    "wof:id":1058068855,
+    "wof:lastmodified":1473508269,
+    "wof:name":"Boverie (friterie De La )",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    5.5051169395,
+    50.5928726196,
+    5.5051169395,
+    50.5928726196
+],
+  "geometry": {"coordinates":[5.5051169395,50.5928726196],"type":"Point"}
+}

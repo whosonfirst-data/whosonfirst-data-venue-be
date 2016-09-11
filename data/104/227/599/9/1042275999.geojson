@@ -1,0 +1,81 @@
+{
+  "id": 1042275999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3347830772,50.7527084351,4.3347830772,50.7527084351",
+    "geom:latitude":50.752708,
+    "geom:longitude":4.334783,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meidoornlaan 17",
+    "sg:city":"Beersel (alsemberg)",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 380 30 37",
+    "sg:postcode":"1652",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800903,
+        102191581,
+        85632997,
+        404227357,
+        101754343,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ynv3MsljnWnToGACdLIxo_50.752708_4.334783@1306268426"
+    },
+    "wof:country":"BE",
+    "wof:created":1473505489,
+    "wof:geomhash":"c7b0b9383d2a4ec46aaead9950801fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101754343,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800903,
+            "region_id":85681731,
+            "venue_id":1042275999
+        }
+    ],
+    "wof:id":1042275999,
+    "wof:lastmodified":1473505489,
+    "wof:name":"Streekvereniging Zenne En Zoni\u00ebn",
+    "wof:parent_id":85800903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environment",
+        "organisation",
+        "-"
+    ]
+},
+  "bbox": [
+    4.3347830772,
+    50.7527084351,
+    4.3347830772,
+    50.7527084351
+],
+  "geometry": {"coordinates":[4.3347830772,50.7527084351],"type":"Point"}
+}

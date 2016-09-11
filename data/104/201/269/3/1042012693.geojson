@@ -1,0 +1,77 @@
+{
+  "id": 1042012693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3311700821,50.8207817078,4.3311700821,50.8207817078",
+    "geom:latitude":50.820782,
+    "geom:longitude":4.33117,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00c9e De Bruxelles 366",
+    "sg:city":"Vorst/forest",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 345 97 46",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mjqsYqedDvgaHyScfnGFB_50.820782_4.331170@1306268377"
+    },
+    "wof:country":"BE",
+    "wof:created":1473492782,
+    "wof:geomhash":"ac8dd13ba4c53c871da4af3d4de32964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042012693
+        }
+    ],
+    "wof:id":1042012693,
+    "wof:lastmodified":1473492782,
+    "wof:name":"Caf\u00c9 Panorama",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    4.3311700821,
+    50.8207817078,
+    4.3311700821,
+    50.8207817078
+],
+  "geometry": {"coordinates":[4.3311700821,50.8207817078],"type":"Point"}
+}

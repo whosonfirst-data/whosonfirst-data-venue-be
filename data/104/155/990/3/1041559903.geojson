@@ -1,0 +1,77 @@
+{
+  "id": 1041559903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2902622223,50.8461418152,4.2902622223,50.8461418152",
+    "geom:latitude":50.846142,
+    "geom:longitude":4.290262,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Ninove 1054",
+    "sg:city":"Bruxelles (molenbeek-saint-jean)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 521 35 67",
+    "sg:postcode":"1080",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801651,
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Kq6Y4FJ9yjwjbfl6IW5K_50.846142_4.290262@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473617,
+    "wof:geomhash":"d7f9b568bf47f1167c1447bf25996ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801651,
+            "region_id":85681731,
+            "venue_id":1041559903
+        }
+    ],
+    "wof:id":1041559903,
+    "wof:lastmodified":1473473617,
+    "wof:name":"Marc (chez)",
+    "wof:parent_id":85801651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.2902622223,
+    50.8461418152,
+    4.2902622223,
+    50.8461418152
+],
+  "geometry": {"coordinates":[4.2902622223,50.8461418152],"type":"Point"}
+}

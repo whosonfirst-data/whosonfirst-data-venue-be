@@ -1,0 +1,83 @@
+{
+  "id": 1042124965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4463720322,50.833442688,4.4463720322,50.833442688",
+    "geom:latitude":50.833443,
+    "geom:longitude":4.446372,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Au Bois 185",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 770 65 17",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801589,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54DCIdGZiIBimKbRm23FPm_50.833443_4.446372@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497657,
+    "wof:geomhash":"e7d1435d0914f83a43c75c98d2ba31e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801589,
+            "region_id":85681713,
+            "venue_id":1042124965
+        }
+    ],
+    "wof:id":1042124965,
+    "wof:lastmodified":1473497657,
+    "wof:name":"Pomme Et Cannelle",
+    "wof:parent_id":85801589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baby",
+        "nursery",
+        "day",
+        "sitting"
+    ]
+},
+  "bbox": [
+    4.4463720322,
+    50.833442688,
+    4.4463720322,
+    50.833442688
+],
+  "geometry": {"coordinates":[4.4463720322,50.833442688],"type":"Point"}
+}

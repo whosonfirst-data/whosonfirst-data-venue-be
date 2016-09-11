@@ -1,0 +1,77 @@
+{
+  "id": 1041838453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4008870125,50.8492279053,4.4008870125,50.8492279053",
+    "geom:latitude":50.849228,
+    "geom:longitude":4.400887,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Du Diamant 191",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 735 49 71",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "auditor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n9AJ0pFkh24YLcW7kTJn4_50.849228_4.400887@1306268347"
+    },
+    "wof:country":"BE",
+    "wof:created":1473485298,
+    "wof:geomhash":"51d4cb510d4b6f47a41a4105b7665299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041838453
+        }
+    ],
+    "wof:id":1041838453,
+    "wof:lastmodified":1473485298,
+    "wof:name":"Webb & Partners Scprl",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auditor"
+    ]
+},
+  "bbox": [
+    4.4008870125,
+    50.8492279053,
+    4.4008870125,
+    50.8492279053
+],
+  "geometry": {"coordinates":[4.4008870125,50.8492279053],"type":"Point"}
+}

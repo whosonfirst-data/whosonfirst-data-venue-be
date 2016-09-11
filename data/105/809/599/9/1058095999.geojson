@@ -1,0 +1,77 @@
+{
+  "id": 1058095999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4033899307,51.2143325806,4.4033899307,51.2143325806",
+    "geom:latitude":51.214333,
+    "geom:longitude":4.40339,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vleminckveld 42",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 231 90 88",
+    "sg:postcode":"2000",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800929,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DredG0ktsID43aY3dYXcX_51.214333_4.403390@1306268444"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509403,
+    "wof:geomhash":"c387ce3bff786999f2187912eda86d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800929,
+            "region_id":85681715,
+            "venue_id":1058095999
+        }
+    ],
+    "wof:id":1058095999,
+    "wof:lastmodified":1473509403,
+    "wof:name":"Vleminckveld-ital Auto",
+    "wof:parent_id":85800929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    4.4033899307,
+    51.2143325806,
+    4.4033899307,
+    51.2143325806
+],
+  "geometry": {"coordinates":[4.4033899307,51.2143325806],"type":"Point"}
+}

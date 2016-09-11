@@ -1,0 +1,77 @@
+{
+  "id": 1041663083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5121450424,50.6117553711,5.5121450424,50.6117553711",
+    "geom:latitude":50.611755,
+    "geom:longitude":5.512145,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Cockerill 120",
+    "sg:city":"Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 54 67",
+    "sg:postcode":"4100",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "shoemaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801571,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45xOx5KzMDcGCPZUdbs0vD_50.611755_5.512145@1306268569"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477871,
+    "wof:geomhash":"a01aba01fe6603e7718ec7d3baf7b1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801571,
+            "region_id":85681691,
+            "venue_id":1041663083
+        }
+    ],
+    "wof:id":1041663083,
+    "wof:lastmodified":1473477871,
+    "wof:name":"Bonfond Cordonnerie",
+    "wof:parent_id":85801571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoemaker"
+    ]
+},
+  "bbox": [
+    5.5121450424,
+    50.6117553711,
+    5.5121450424,
+    50.6117553711
+],
+  "geometry": {"coordinates":[5.5121450424,50.6117553711],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1042065743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3603100777,50.9005241394,4.3603100777,50.9005241394",
+    "geom:latitude":50.900524,
+    "geom:longitude":4.36031,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Wand 142",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "easter",
+        "christmas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vT8bYwWFCOOlHeNDH3Q4B_50.900524_4.360310@1306268388"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494900,
+    "wof:geomhash":"f23c640847f3727c73da7d0bfe8ec8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042065743
+        }
+    ],
+    "wof:id":1042065743,
+    "wof:lastmodified":1473494900,
+    "wof:name":"A.d.g. Electrobrico-artlight",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "easter",
+        "christmas"
+    ]
+},
+  "bbox": [
+    4.3603100777,
+    50.9005241394,
+    4.3603100777,
+    50.9005241394
+],
+  "geometry": {"coordinates":[4.3603100777,50.9005241394],"type":"Point"}
+}

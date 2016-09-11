@@ -1,0 +1,79 @@
+{
+  "id": 1058330639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.370554924,50.8476066589,4.370554924,50.8476066589",
+    "geom:latitude":50.847607,
+    "geom:longitude":4.370555,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Charit\u00e9 39",
+    "sg:city":"Bruxelles (saint-josse-ten-noode)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 218 47 07",
+    "sg:postcode":"1210",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801909,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53ex5y19QD36o0ZW5poIBX_50.847607_4.370555@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473520020,
+    "wof:geomhash":"ea26658c6b51e2cc96c36aad94d411c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801909,
+            "region_id":85681713,
+            "venue_id":1058330639
+        }
+    ],
+    "wof:id":1058330639,
+    "wof:lastmodified":1473520020,
+    "wof:name":"Acad\u00e9mie Du N\u00e9erlandais",
+    "wof:parent_id":85801909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [
+    4.370554924,
+    50.8476066589,
+    4.370554924,
+    50.8476066589
+],
+  "geometry": {"coordinates":[4.370554924,50.8476066589],"type":"Point"}
+}

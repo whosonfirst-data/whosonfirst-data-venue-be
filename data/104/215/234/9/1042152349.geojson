@@ -1,0 +1,81 @@
+{
+  "id": 1042152349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4160599709,50.9099388123,4.4160599709,50.9099388123",
+    "geom:latitude":50.909939,
+    "geom:longitude":4.41606,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schaarbeeklei 636",
+    "sg:city":"Vilvoorde",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 255 17 10",
+    "sg:postcode":"1800",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "machine",
+        "industrial",
+        "dishwashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801085,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tzWKjF2JBleCWXXawe70b_50.909939_4.416060@1306268405"
+    },
+    "wof:country":"BE",
+    "wof:created":1473499144,
+    "wof:geomhash":"f099780e7d9e767146cbf8c293b5a306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801085,
+            "region_id":85681713,
+            "venue_id":1042152349
+        }
+    ],
+    "wof:id":1042152349,
+    "wof:lastmodified":1473499144,
+    "wof:name":"A-line Belgium",
+    "wof:parent_id":85801085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industrial",
+        "dishwashing"
+    ]
+},
+  "bbox": [
+    4.4160599709,
+    50.9099388123,
+    4.4160599709,
+    50.9099388123
+],
+  "geometry": {"coordinates":[4.4160599709,50.9099388123],"type":"Point"}
+}

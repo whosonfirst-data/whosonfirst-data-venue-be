@@ -1,0 +1,77 @@
+{
+  "id": 1041971613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3453149796,50.8427085876,4.3453149796,50.8427085876",
+    "geom:latitude":50.842709,
+    "geom:longitude":4.345315,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Place Rouppe 31",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 512 96 89",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37HOk96nHjsMTR1yO6xEJT_50.842709_4.345315@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491011,
+    "wof:geomhash":"77c4d9a59e06af5361e1adadf99e584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1041971613
+        }
+    ],
+    "wof:id":1041971613,
+    "wof:lastmodified":1473491011,
+    "wof:name":"Eliniko",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3453149796,
+    50.8427085876,
+    4.3453149796,
+    50.8427085876
+],
+  "geometry": {"coordinates":[4.3453149796,50.8427085876],"type":"Point"}
+}

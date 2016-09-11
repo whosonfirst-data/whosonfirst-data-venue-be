@@ -1,0 +1,79 @@
+{
+  "id": 1041880837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7040638924,51.0406532288,3.7040638924,51.0406532288",
+    "geom:latitude":51.040653,
+    "geom:longitude":3.704064,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sportstraat 229",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 46 21",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TlTdUsZr7PN8oecP295Qj_51.040653_3.704064@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487108,
+    "wof:geomhash":"11e0f27da0728780dc4a883fcaa0649b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1041880837
+        }
+    ],
+    "wof:id":1041880837,
+    "wof:lastmodified":1473487108,
+    "wof:name":"Depredomme S",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    3.7040638924,
+    51.0406532288,
+    3.7040638924,
+    51.0406532288
+],
+  "geometry": {"coordinates":[3.7040638924,51.0406532288],"type":"Point"}
+}

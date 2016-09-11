@@ -1,0 +1,77 @@
+{
+  "id": 1041828603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7138979435,51.0312538147,3.7138979435,51.0312538147",
+    "geom:latitude":51.031254,
+    "geom:longitude":3.713898,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Onafhankelijkheidslaan 54",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 221 51 41",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jiT3ZIbVaWOFg2DMdr0iK_51.031254_3.713898@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484880,
+    "wof:geomhash":"10e6dc0eb2a746a36d19feb886dee8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1041828603
+        }
+    ],
+    "wof:id":1041828603,
+    "wof:lastmodified":1473484880,
+    "wof:name":"De Groote",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    3.7138979435,
+    51.0312538147,
+    3.7138979435,
+    51.0312538147
+],
+  "geometry": {"coordinates":[3.7138979435,51.0312538147],"type":"Point"}
+}

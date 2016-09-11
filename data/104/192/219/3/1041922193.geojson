@@ -1,0 +1,73 @@
+{
+  "id": 1041922193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6980757713,50.741569519,5.6980757713,50.741569519",
+    "geom:latitude":50.74157,
+    "geom:longitude":5.698076,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Croix Rouge 24",
+    "sg:city":"Vis\u00e9",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 379 48 08",
+    "sg:postcode":"4600",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "ale",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85802011,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BncQHcqzEbND72OYPw80i_50.741570_5.698076@1306268362"
+    },
+    "wof:country":"BE",
+    "wof:created":1473488835,
+    "wof:geomhash":"8a357e8120a2c5114ff0f03d38f6518f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85802011,
+            "region_id":85681691,
+            "venue_id":1041922193
+        }
+    ],
+    "wof:id":1041922193,
+    "wof:lastmodified":1473488835,
+    "wof:name":"Drink Marc Ballen",
+    "wof:parent_id":85802011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale",
+        "-"
+    ]
+},
+  "bbox": [
+    5.6980757713,
+    50.741569519,
+    5.6980757713,
+    50.741569519
+],
+  "geometry": {"coordinates":[5.6980757713,50.741569519],"type":"Point"}
+}

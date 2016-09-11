@@ -1,0 +1,77 @@
+{
+  "id": 1058770661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7163760662,51.0548782349,3.7163760662,51.0548782349",
+    "geom:latitude":51.054878,
+    "geom:longitude":3.716376,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ramen 1",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 267 05 11",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yZVcmCPSOTu35em0zZ8Oz_51.054878_3.716376@1306268568"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540257,
+    "wof:geomhash":"8d63c31aa7b1877cb0d76b3a5bb7c20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058770661
+        }
+    ],
+    "wof:id":1058770661,
+    "wof:lastmodified":1473540257,
+    "wof:name":"Admin. Directe Belast.",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    3.7163760662,
+    51.0548782349,
+    3.7163760662,
+    51.0548782349
+],
+  "geometry": {"coordinates":[3.7163760662,51.0548782349],"type":"Point"}
+}

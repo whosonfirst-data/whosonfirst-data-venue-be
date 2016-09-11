@@ -1,0 +1,81 @@
+{
+  "id": 1058142677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3247241974,50.8774375916,4.3247241974,50.8774375916",
+    "geom:latitude":50.877438,
+    "geom:longitude":4.324724,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Henri Werrie 23",
+    "sg:city":"Bruxelles (jette)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 57 18",
+    "sg:postcode":"1090",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801325,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32XHgrCLXUNKmGrHQ7yut3_50.877438_4.324724@1306268454"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511616,
+    "wof:geomhash":"9151502a9d69f04412c4a4540da2772b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801325,
+            "region_id":85681713,
+            "venue_id":1058142677
+        }
+    ],
+    "wof:id":1058142677,
+    "wof:lastmodified":1473511616,
+    "wof:name":"Janick",
+    "wof:parent_id":85801325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    4.3247241974,
+    50.8774375916,
+    4.3247241974,
+    50.8774375916
+],
+  "geometry": {"coordinates":[4.3247241974,50.8774375916],"type":"Point"}
+}

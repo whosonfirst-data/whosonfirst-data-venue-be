@@ -1,0 +1,79 @@
+{
+  "id": 1041879433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3947610855,51.2022285461,4.3947610855,51.2022285461",
+    "geom:latitude":51.202229,
+    "geom:longitude":4.394761,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Broederminstraat 38",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 67 04 75",
+    "sg:postcode":"2018",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "confectioner",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800823,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rQ3konEXoMOH1uGaMtWfa_51.202229_4.394761@1306268354"
+    },
+    "wof:country":"BE",
+    "wof:created":1473487048,
+    "wof:geomhash":"1799320ab5285fec496eea1d54528cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800823,
+            "region_id":85681715,
+            "venue_id":1041879433
+        }
+    ],
+    "wof:id":1041879433,
+    "wof:lastmodified":1473487048,
+    "wof:name":"Borglevens-de Rycke M",
+    "wof:parent_id":85800823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectioner",
+        "baker"
+    ]
+},
+  "bbox": [
+    4.3947610855,
+    51.2022285461,
+    4.3947610855,
+    51.2022285461
+],
+  "geometry": {"coordinates":[4.3947610855,51.2022285461],"type":"Point"}
+}

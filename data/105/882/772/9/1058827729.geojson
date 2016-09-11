@@ -1,0 +1,81 @@
+{
+  "id": 1058827729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3179898262,51.1931495667,4.3179898262,51.1931495667",
+    "geom:latitude":51.19315,
+    "geom:longitude":4.31799,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hogenakkerhoekstraat 1",
+    "sg:city":"Kruibeke",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 254 11 70",
+    "sg:postcode":"9150",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "construction",
+        "installation",
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801273,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56bne1nebSxyU5zLf3Cbcg_51.193150_4.317990@1306268578"
+    },
+    "wof:country":"BE",
+    "wof:created":1473542756,
+    "wof:geomhash":"0bfbf6674753fde0e4f3d0e87ca0be13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715,
+            "venue_id":1058827729
+        }
+    ],
+    "wof:id":1058827729,
+    "wof:lastmodified":1473542756,
+    "wof:name":"Structa-plan Bvba",
+    "wof:parent_id":85801273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "installation",
+        "stable"
+    ]
+},
+  "bbox": [
+    4.3179898262,
+    51.1931495667,
+    4.3179898262,
+    51.1931495667
+],
+  "geometry": {"coordinates":[4.3179898262,51.1931495667],"type":"Point"}
+}

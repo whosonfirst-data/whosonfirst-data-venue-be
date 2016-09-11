@@ -1,0 +1,77 @@
+{
+  "id": 1041559521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.595510006,50.6631622314,5.595510006,50.6631622314",
+    "geom:latitude":50.663162,
+    "geom:longitude":5.59551,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Haut-pav\u00e9 7",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 227 15 47",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801945,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aHwfiEjUu5HKZS37nZgnc_50.663162_5.595510@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473601,
+    "wof:geomhash":"62cbcb4a08a40abe80296148b6900ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801945,
+            "region_id":85681691,
+            "venue_id":1041559521
+        }
+    ],
+    "wof:id":1041559521,
+    "wof:lastmodified":1473473601,
+    "wof:name":"la Librairie Sprl Zorza",
+    "wof:parent_id":85801945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.595510006,
+    50.6631622314,
+    5.595510006,
+    50.6631622314
+],
+  "geometry": {"coordinates":[5.595510006,50.6631622314],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1041799631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3407411575,50.8301582336,4.3407411575,50.8301582336",
+    "geom:latitude":50.830158,
+    "geom:longitude":4.340741,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Franz Gailliard 12",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 32 30",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "painter",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s82FnETCTo3v0oa4ed3b2_50.830158_4.340741@1306268341"
+    },
+    "wof:country":"BE",
+    "wof:created":1473483635,
+    "wof:geomhash":"400d88f8c3a2f802820daa494472f26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041799631
+        }
+    ],
+    "wof:id":1041799631,
+    "wof:lastmodified":1473483635,
+    "wof:name":"Gailliard J",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "painter",
+        "artist"
+    ]
+},
+  "bbox": [
+    4.3407411575,
+    50.8301582336,
+    4.3407411575,
+    50.8301582336
+],
+  "geometry": {"coordinates":[4.3407411575,50.8301582336],"type":"Point"}
+}

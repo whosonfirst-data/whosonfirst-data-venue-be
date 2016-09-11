@@ -1,0 +1,77 @@
+{
+  "id": 1041970445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3208918571,50.7881317139,4.3208918571,50.7881317139",
+    "geom:latitude":50.788132,
+    "geom:longitude":4.320892,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Vervloet 171 Box 4",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 13 40",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookkeeping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801091,
+        102191581,
+        85632997,
+        404227357,
+        101913243,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dAJsCEZ9uRTD1Of1CshJx_50.788132_4.320892@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473490912,
+    "wof:geomhash":"882202110b51fb3238813c361fc4817d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801091,
+            "region_id":85681731,
+            "venue_id":1041970445
+        }
+    ],
+    "wof:id":1041970445,
+    "wof:lastmodified":1473490912,
+    "wof:name":"Caisse De Pr\u00e9voyance",
+    "wof:parent_id":85801091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping"
+    ]
+},
+  "bbox": [
+    4.3208918571,
+    50.7881317139,
+    4.3208918571,
+    50.7881317139
+],
+  "geometry": {"coordinates":[4.3208918571,50.7881317139],"type":"Point"}
+}

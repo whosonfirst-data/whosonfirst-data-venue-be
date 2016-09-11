@@ -1,0 +1,77 @@
+{
+  "id": 1041755593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4017801285,50.8070106506,4.4017801285,50.8070106506",
+    "geom:latitude":50.807011,
+    "geom:longitude":4.40178,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Grat\u00e8s 81",
+    "sg:city":"Bruxelles (watermael-boitsfort)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 673 11 38",
+    "sg:postcode":"1170",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "restoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801989,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mvwJBNsZeXPhJO3uQZs6W_50.807011_4.401780@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481656,
+    "wof:geomhash":"c3b05ae4f2b87d150fd25ae810ecf88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801989,
+            "region_id":85681713,
+            "venue_id":1041755593
+        }
+    ],
+    "wof:id":1041755593,
+    "wof:lastmodified":1473481656,
+    "wof:name":"Derbaise C",
+    "wof:parent_id":85801989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration"
+    ]
+},
+  "bbox": [
+    4.4017801285,
+    50.8070106506,
+    4.4017801285,
+    50.8070106506
+],
+  "geometry": {"coordinates":[4.4017801285,50.8070106506],"type":"Point"}
+}

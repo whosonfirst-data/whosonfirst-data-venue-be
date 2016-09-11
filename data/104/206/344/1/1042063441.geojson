@@ -1,0 +1,77 @@
+{
+  "id": 1042063441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3847208023,50.8946533203,4.3847208023,50.8946533203",
+    "geom:latitude":50.894653,
+    "geom:longitude":4.384721,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Fran\u00e7ois Vekemans 173",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 262 44 20",
+    "sg:postcode":"1120",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chiropodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801665,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agBL62uodSZszYM1tzToY_50.894653_4.384721@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494806,
+    "wof:geomhash":"81e532f5ce080f82326d70ca07dcbdea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713,
+            "venue_id":1042063441
+        }
+    ],
+    "wof:id":1042063441,
+    "wof:lastmodified":1473494806,
+    "wof:name":"A. Piq Sprl",
+    "wof:parent_id":85801665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropodist"
+    ]
+},
+  "bbox": [
+    4.3847208023,
+    50.8946533203,
+    4.3847208023,
+    50.8946533203
+],
+  "geometry": {"coordinates":[4.3847208023,50.8946533203],"type":"Point"}
+}

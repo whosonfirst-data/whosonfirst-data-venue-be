@@ -1,0 +1,77 @@
+{
+  "id": 1042126409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3831000328,50.8766479492,4.3831000328,50.8766479492",
+    "geom:latitude":50.876648,
+    "geom:longitude":4.3831,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Huart Hamoir 60",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 216 42 84",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801249,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ifKSAC8vRNCsBhM7VICzN_50.876648_4.383100@1306268400"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497724,
+    "wof:geomhash":"437ff005e75fca967768879dc0f4d4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801249,
+            "region_id":85681713,
+            "venue_id":1042126409
+        }
+    ],
+    "wof:id":1042126409,
+    "wof:lastmodified":1473497724,
+    "wof:name":"Les Foies Gras De Strassbourg S.a.",
+    "wof:parent_id":85801249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    4.3831000328,
+    50.8766479492,
+    4.3831000328,
+    50.8766479492
+],
+  "geometry": {"coordinates":[4.3831000328,50.8766479492],"type":"Point"}
+}

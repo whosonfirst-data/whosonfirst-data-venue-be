@@ -1,0 +1,79 @@
+{
+  "id": 1058331305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7362859249,51.0567131042,3.7362859249,51.0567131042",
+    "geom:latitude":51.056713,
+    "geom:longitude":3.736286,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dampoortstraat 58",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 23 99",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "self",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kv6G5aZa2XUxk0VP3BDZi_51.056713_3.736286@1306268489"
+    },
+    "wof:country":"BE",
+    "wof:created":1473520054,
+    "wof:geomhash":"5e7374b08738ba050f088e848b11464a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1058331305
+        }
+    ],
+    "wof:id":1058331305,
+    "wof:lastmodified":1473520054,
+    "wof:name":"W.d.g.",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7362859249,
+    51.0567131042,
+    3.7362859249,
+    51.0567131042
+],
+  "geometry": {"coordinates":[3.7362859249,51.0567131042],"type":"Point"}
+}

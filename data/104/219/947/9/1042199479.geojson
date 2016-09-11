@@ -1,0 +1,77 @@
+{
+  "id": 1042199479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7181088924,51.0409507751,3.7181088924,51.0409507751",
+    "geom:latitude":51.040951,
+    "geom:longitude":3.718109,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kortrijksesteenweg 32",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 222 16 02",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862121,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Gu7knVO9YQDKcDD6epQT_51.040951_3.718109@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501931,
+    "wof:geomhash":"fda24296af60d8531bebe8d3ff4bbecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862121,
+            "region_id":85681733,
+            "venue_id":1042199479
+        }
+    ],
+    "wof:id":1042199479,
+    "wof:lastmodified":1473501931,
+    "wof:name":"Middenschool V/h Gemeenschapsonderwijs Koninklijk Lyceum",
+    "wof:parent_id":85862121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    3.7181088924,
+    51.0409507751,
+    3.7181088924,
+    51.0409507751
+],
+  "geometry": {"coordinates":[3.7181088924,51.0409507751],"type":"Point"}
+}

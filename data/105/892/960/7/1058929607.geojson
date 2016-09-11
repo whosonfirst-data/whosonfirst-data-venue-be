@@ -1,0 +1,79 @@
+{
+  "id": 1058929607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.3229300976,51.2015686035,3.3229300976,51.2015686035",
+    "geom:latitude":51.201569,
+    "geom:longitude":3.32293,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dorpsstraat 111ba",
+    "sg:city":"Damme",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 37 37 52",
+    "sg:postcode":"8340",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800777,
+        102191581,
+        85632997,
+        404227357,
+        101755741,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GYsnrTGP2oUd4LtsqC8Hj_51.201569_3.322930@1306268597"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547324,
+    "wof:geomhash":"14a27b837fe3fd7043aa8c518ff096bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101755741,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800777,
+            "region_id":85681709,
+            "venue_id":1058929607
+        }
+    ],
+    "wof:id":1058929607,
+    "wof:lastmodified":1473547324,
+    "wof:name":"K. Dumon",
+    "wof:parent_id":85800777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "verzekeringsmakelaars",
+        "expert"
+    ]
+},
+  "bbox": [
+    3.3229300976,
+    51.2015686035,
+    3.3229300976,
+    51.2015686035
+],
+  "geometry": {"coordinates":[3.3229300976,51.2015686035],"type":"Point"}
+}

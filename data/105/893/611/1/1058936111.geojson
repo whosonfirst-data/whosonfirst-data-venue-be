@@ -1,0 +1,77 @@
+{
+  "id": 1058936111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.47108078,50.8798027039,4.47108078,50.8798027039",
+    "geom:latitude":50.879803,
+    "geom:longitude":4.471081,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hector Henneaulaan 49",
+    "sg:city":"Zaventem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 720 51 77",
+    "sg:postcode":"1930",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802033,
+        102191581,
+        85632997,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3auxkEDQqxlbahGKll718c_50.879803_4.471081@1306268599"
+    },
+    "wof:country":"BE",
+    "wof:created":1473547585,
+    "wof:geomhash":"dd94dd7ca55865807ce7f586cac64048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802033,
+            "region_id":85681731,
+            "venue_id":1058936111
+        }
+    ],
+    "wof:id":1058936111,
+    "wof:lastmodified":1473547585,
+    "wof:name":"Van Kets S",
+    "wof:parent_id":85802033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    4.47108078,
+    50.8798027039,
+    4.47108078,
+    50.8798027039
+],
+  "geometry": {"coordinates":[4.47108078,50.8798027039],"type":"Point"}
+}

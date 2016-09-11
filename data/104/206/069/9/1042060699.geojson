@@ -1,0 +1,71 @@
+{
+  "id": 1042060699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.5140237808,50.7241973877,4.5140237808,50.7241973877",
+    "geom:latitude":50.724197,
+    "geom:longitude":4.514024,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Station 22",
+    "sg:city":"Rixensart (genval)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 653 69 16",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62csecyhgnsFpeDVYxnfuk_50.724197_4.514024@1306268387"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494704,
+    "wof:geomhash":"cd402828297394802bcc27a51cd2ae44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1042060699
+        }
+    ],
+    "wof:id":1042060699,
+    "wof:lastmodified":1473494704,
+    "wof:name":"No\u00ebl Sprl",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.5140237808,
+    50.7241973877,
+    4.5140237808,
+    50.7241973877
+],
+  "geometry": {"coordinates":[4.5140237808,50.7241973877],"type":"Point"}
+}

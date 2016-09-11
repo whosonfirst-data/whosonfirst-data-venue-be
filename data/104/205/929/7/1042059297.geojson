@@ -1,0 +1,77 @@
+{
+  "id": 1042059297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3866958618,50.8454208374,4.3866958618,50.8454208374",
+    "geom:latitude":50.845421,
+    "geom:longitude":4.386696,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Franklin 62",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 733 11 62",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09YdhWhYXmL0mb7QpQK8zu_50.845421_4.386696@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473494653,
+    "wof:geomhash":"bcc39739c55527ff79aa514ea16214ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042059297
+        }
+    ],
+    "wof:id":1042059297,
+    "wof:lastmodified":1473494653,
+    "wof:name":"Euro-pharma",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    4.3866958618,
+    50.8454208374,
+    4.3866958618,
+    50.8454208374
+],
+  "geometry": {"coordinates":[4.3866958618,50.8454208374],"type":"Point"}
+}

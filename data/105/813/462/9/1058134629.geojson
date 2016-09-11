@@ -1,0 +1,83 @@
+{
+  "id": 1058134629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.1999909878,51.2013931274,3.1999909878,51.2013931274",
+    "geom:latitude":51.201393,
+    "geom:longitude":3.199991,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gistelse Steenweg 174",
+    "sg:city":"Brugge (sint-andries)",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 38 98 56",
+    "sg:postcode":"8200",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862095,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jzDDBG8S9t2JJgT7vvTEp_51.201393_3.199991@1306268452"
+    },
+    "wof:country":"BE",
+    "wof:created":1473511221,
+    "wof:geomhash":"78ed4b620e876da31e7f69913139b6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862095,
+            "region_id":85681709,
+            "venue_id":1058134629
+        }
+    ],
+    "wof:id":1058134629,
+    "wof:lastmodified":1473511221,
+    "wof:name":"Marnix",
+    "wof:parent_id":85862095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gentleman",
+        "salon",
+        "-",
+        "hairdressing"
+    ]
+},
+  "bbox": [
+    3.1999909878,
+    51.2013931274,
+    3.1999909878,
+    51.2013931274
+],
+  "geometry": {"coordinates":[3.1999909878,51.2013931274],"type":"Point"}
+}

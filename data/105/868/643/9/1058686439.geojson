@@ -1,0 +1,77 @@
+{
+  "id": 1058686439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2395040989,51.2292060852,3.2395040989,51.2292060852",
+    "geom:latitude":51.229206,
+    "geom:longitude":3.239504,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jules Van Praetstraat 75",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 33 77 97",
+    "sg:postcode":"8000",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681709,
+        85632997,
+        85862105,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gn4dBGWCletRPwh8imJJN_51.229206_3.239504@1306268554"
+    },
+    "wof:country":"BE",
+    "wof:created":1473536561,
+    "wof:geomhash":"47b8f3b6440fd2d23255324842101c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050003,
+            "neighbourhood_id":85862105,
+            "region_id":85681709,
+            "venue_id":1058686439
+        }
+    ],
+    "wof:id":1058686439,
+    "wof:lastmodified":1473536561,
+    "wof:name":"Kleine Hap",
+    "wof:parent_id":85862105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "\u00c0",
+        "restaurants",
+        "emporter",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    3.2395040989,
+    51.2292060852,
+    3.2395040989,
+    51.2292060852
+],
+  "geometry": {"coordinates":[3.2395040989,51.2292060852],"type":"Point"}
+}

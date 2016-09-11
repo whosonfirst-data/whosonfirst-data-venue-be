@@ -1,0 +1,82 @@
+{
+  "id": 1041538337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.525865078,50.6074409485,5.525865078,50.6074409485",
+    "geom:latitude":50.607441,
+    "geom:longitude":5.525865,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"222",
+    "sg:city":"Rue Du Pertuis 4100 Seraing",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Crops",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 337 11 68",
+    "sg:postcode":"222",
+    "sg:tags":[
+        "vegetable",
+        "fruit",
+        "agriculture",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801867,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06dyQaQZnGZGLxZdjt0j8k_50.607441_5.525865@1306268330"
+    },
+    "wof:country":"BE",
+    "wof:created":1473472726,
+    "wof:geomhash":"1d7ec20e7e10a4c42059af54334d1f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801867,
+            "region_id":85681691,
+            "venue_id":1041538337
+        }
+    ],
+    "wof:id":1041538337,
+    "wof:lastmodified":1473472726,
+    "wof:name":"Maison Despriet Sa",
+    "wof:parent_id":85801867,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit",
+        "agriculture",
+        "livestock"
+    ]
+},
+  "bbox": [
+    5.525865078,
+    50.6074409485,
+    5.525865078,
+    50.6074409485
+],
+  "geometry": {"coordinates":[5.525865078,50.6074409485],"type":"Point"}
+}

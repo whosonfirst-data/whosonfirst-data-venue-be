@@ -1,0 +1,79 @@
+{
+  "id": 1058166683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3710517883,50.7853851318,4.3710517883,50.7853851318",
+    "geom:latitude":50.785385,
+    "geom:longitude":4.371052,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Foestraets 24-26",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 43 50",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801965,
+        102191581,
+        85632997,
+        404227355,
+        101913249,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JGSzxUASCX6wZ6pFLpEUz_50.785385_4.371052@1306268460"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512741,
+    "wof:geomhash":"11283c475a651facb1a9c2abe5206d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913249,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801965,
+            "region_id":85681713,
+            "venue_id":1058166683
+        }
+    ],
+    "wof:id":1058166683,
+    "wof:lastmodified":1473512741,
+    "wof:name":"Golstein Max",
+    "wof:parent_id":85801965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.3710517883,
+    50.7853851318,
+    4.3710517883,
+    50.7853851318
+],
+  "geometry": {"coordinates":[4.3710517883,50.7853851318],"type":"Point"}
+}

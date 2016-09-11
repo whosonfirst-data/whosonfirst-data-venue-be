@@ -1,0 +1,77 @@
+{
+  "id": 1058593333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3274188042,50.7853126526,4.3274188042,50.7853126526",
+    "geom:latitude":50.785313,
+    "geom:longitude":4.327419,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Zandbeek 61",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 376 12 44",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HZ9S67CSSUL3t6n65jMvN_50.785313_4.327419@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532329,
+    "wof:geomhash":"f00f36102da392840b01eeb2db8fff34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1058593333
+        }
+    ],
+    "wof:id":1058593333,
+    "wof:lastmodified":1473532329,
+    "wof:name":"Ddk-daniel Dekerf (plomberie)",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3274188042,
+    50.7853126526,
+    4.3274188042,
+    50.7853126526
+],
+  "geometry": {"coordinates":[4.3274188042,50.7853126526],"type":"Point"}
+}

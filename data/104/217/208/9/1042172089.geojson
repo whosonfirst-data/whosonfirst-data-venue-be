@@ -1,0 +1,75 @@
+{
+  "id": 1042172089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5831069946,50.5676841736,5.5831069946,50.5676841736",
+    "geom:latitude":50.567684,
+    "geom:longitude":5.583107,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Joseph Wauters 14",
+    "sg:city":"Esneux (tilff)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 388 18 62",
+    "sg:postcode":"4130",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801001,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s8wS2OkIWWv1yWrdUp1e8_50.567684_5.583107@1306268408"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500262,
+    "wof:geomhash":"80f027c41a6b24c7622cb98b41efafc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801001,
+            "region_id":85681691,
+            "venue_id":1042172089
+        }
+    ],
+    "wof:id":1042172089,
+    "wof:lastmodified":1473500262,
+    "wof:name":"Ami-chiens",
+    "wof:parent_id":85801001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "-",
+        "dog"
+    ]
+},
+  "bbox": [
+    5.5831069946,
+    50.5676841736,
+    5.5831069946,
+    50.5676841736
+],
+  "geometry": {"coordinates":[5.5831069946,50.5676841736],"type":"Point"}
+}

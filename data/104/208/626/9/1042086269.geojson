@@ -1,0 +1,77 @@
+{
+  "id": 1042086269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3504219055,50.874874115,4.3504219055,50.874874115",
+    "geom:latitude":50.874874,
+    "geom:longitude":4.350422,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Comtesse De Flandre 71b2",
+    "sg:city":"Brussel/bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 425 81 67",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "de"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801547,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iWc3hDgMXNtVOAtjqkpXR_50.874874_4.350422@1306268392"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495789,
+    "wof:geomhash":"5a66babc405874e647b4a553b8c9266f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801547,
+            "region_id":85681713,
+            "venue_id":1042086269
+        }
+    ],
+    "wof:id":1042086269,
+    "wof:lastmodified":1473495789,
+    "wof:name":"Vespa Club Ville De Bruxelles",
+    "wof:parent_id":85801547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de"
+    ]
+},
+  "bbox": [
+    4.3504219055,
+    50.874874115,
+    4.3504219055,
+    50.874874115
+],
+  "geometry": {"coordinates":[4.3504219055,50.874874115],"type":"Point"}
+}

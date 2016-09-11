@@ -1,0 +1,77 @@
+{
+  "id": 1042199395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.379778862,50.8399925232,4.379778862,50.8399925232",
+    "geom:latitude":50.839993,
+    "geom:longitude":4.379779,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Belliard 135a",
+    "sg:city":"Bruxelles (etterbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 230 79 80",
+    "sg:postcode":"1040",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801123,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZxI6M1fTzfJPK72b0YpaL_50.839993_4.379779@1306268413"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501917,
+    "wof:geomhash":"2d95df706144f5a52d336f0ce9d5da57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801123,
+            "region_id":85681713,
+            "venue_id":1042199395
+        }
+    ],
+    "wof:id":1042199395,
+    "wof:lastmodified":1473501917,
+    "wof:name":"Lyc\u00e9e Emile Jacqmain",
+    "wof:parent_id":85801123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    4.379778862,
+    50.8399925232,
+    4.379778862,
+    50.8399925232
+],
+  "geometry": {"coordinates":[4.379778862,50.8399925232],"type":"Point"}
+}

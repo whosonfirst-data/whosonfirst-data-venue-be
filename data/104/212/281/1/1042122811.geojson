@@ -1,0 +1,85 @@
+{
+  "id": 1042122811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3550639153,50.8279533386,4.3550639153,50.8279533386",
+    "geom:latitude":50.827953,
+    "geom:longitude":4.355064,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e De Charleroi 143",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 544 13 97",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TWYtTFBSU0jI9TAtkDjJT_50.827953_4.355064@1306268399"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497542,
+    "wof:geomhash":"abc290906c0304e5a7d28a0e52c6b2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1042122811
+        }
+    ],
+    "wof:id":1042122811,
+    "wof:lastmodified":1473497542,
+    "wof:name":"Eurodisks",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare",
+        "part",
+        "processing",
+        "-",
+        "data"
+    ]
+},
+  "bbox": [
+    4.3550639153,
+    50.8279533386,
+    4.3550639153,
+    50.8279533386
+],
+  "geometry": {"coordinates":[4.3550639153,50.8279533386],"type":"Point"}
+}

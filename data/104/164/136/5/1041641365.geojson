@@ -1,0 +1,79 @@
+{
+  "id": 1041641365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3502559662,50.7913818359,4.3502559662,50.7913818359",
+    "geom:latitude":50.791382,
+    "geom:longitude":4.350256,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Clos Bourgmestre De Keyser 15",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 374 31 42",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800983,
+        102191581,
+        85632997,
+        404227355,
+        101913251,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iCEQlhv1EhRfArmGLmsn4_50.791382_4.350256@1306268521"
+    },
+    "wof:country":"BE",
+    "wof:created":1473476974,
+    "wof:geomhash":"1270dfe638875ad8cb8d2d40e3403ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913251,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800983,
+            "region_id":85681713,
+            "venue_id":1041641365
+        }
+    ],
+    "wof:id":1041641365,
+    "wof:lastmodified":1473476974,
+    "wof:name":"Malnero Iglesias C Sprl",
+    "wof:parent_id":85800983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3502559662,
+    50.7913818359,
+    4.3502559662,
+    50.7913818359
+],
+  "geometry": {"coordinates":[4.3502559662,50.7913818359],"type":"Point"}
+}

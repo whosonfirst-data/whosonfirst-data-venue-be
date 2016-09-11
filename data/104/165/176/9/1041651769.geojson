@@ -1,0 +1,66 @@
+{
+  "id": 1041651769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3355059624,51.132648468,4.3355059624,51.132648468",
+    "geom:latitude":51.132648,
+    "geom:longitude":4.335506,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-bernardse Steenweg 65",
+    "sg:city":"Hemiksem",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 887 44 23",
+    "sg:postcode":"2620",
+    "sg:province":"Antwerpen",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85801281,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qYHASOOxZRGE7GcXFbOby_51.132648_4.335506@1306268544"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477406,
+    "wof:geomhash":"8ae25a600d38a1826834fb4f9493ac79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049997,
+            "neighbourhood_id":85801281,
+            "region_id":85681733,
+            "venue_id":1041651769
+        }
+    ],
+    "wof:id":1041651769,
+    "wof:lastmodified":1473477406,
+    "wof:name":"Martinique",
+    "wof:parent_id":85801281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3355059624,
+    51.132648468,
+    4.3355059624,
+    51.132648468
+],
+  "geometry": {"coordinates":[4.3355059624,51.132648468],"type":"Point"}
+}

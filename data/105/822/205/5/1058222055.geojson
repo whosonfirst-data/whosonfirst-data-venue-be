@@ -1,0 +1,75 @@
+{
+  "id": 1058222055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7849669456,51.202545166,3.7849669456,51.202545166",
+    "geom:latitude":51.202545,
+    "geom:longitude":3.784967,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Assenedesteenweg 174",
+    "sg:city":"Zelzate",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 344 52 51",
+    "sg:postcode":"9060",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "import",
+        "export",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681733,
+        85632997,
+        85862069,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66dDL9564WZYJM74WpCr2H_51.202545_3.784967@1306268470"
+    },
+    "wof:country":"BE",
+    "wof:created":1473515173,
+    "wof:geomhash":"651c4ddebff113fdbc2c3c10a03d327f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049989,
+            "neighbourhood_id":85862069,
+            "region_id":85681733,
+            "venue_id":1058222055
+        }
+    ],
+    "wof:id":1058222055,
+    "wof:lastmodified":1473515173,
+    "wof:name":"Kumar A",
+    "wof:parent_id":85862069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import",
+        "export",
+        "-"
+    ]
+},
+  "bbox": [
+    3.7849669456,
+    51.202545166,
+    3.7849669456,
+    51.202545166
+],
+  "geometry": {"coordinates":[3.7849669456,51.202545166],"type":"Point"}
+}

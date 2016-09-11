@@ -1,0 +1,68 @@
+{
+  "id": 1058103515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.1013569832,51.5692443848,5.1013569832,51.5692443848",
+    "geom:latitude":51.569244,
+    "geom:longitude":5.101357,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paul Pastur 39",
+    "sg:city":"Courcelles",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Air Force Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"6180",
+    "sg:province":"Hainaut",
+    "sg:tags":[
+        "gear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633337,
+        85798343,
+        85687035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MHuZ2DZnqC3eulAoawNpH_51.569244_5.101357@1306268446"
+    },
+    "wof:country":"BE",
+    "wof:created":1473509744,
+    "wof:geomhash":"9ce2d41df408a87dff5088de5b4bde77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633337,
+            "neighbourhood_id":85798343,
+            "region_id":85687035,
+            "venue_id":1058103515
+        }
+    ],
+    "wof:id":1058103515,
+    "wof:lastmodified":1473509744,
+    "wof:name":"Machinefabriek P Van Der Wegen & Zn",
+    "wof:parent_id":85798343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gear"
+    ]
+},
+  "bbox": [
+    5.1013569832,
+    51.5692443848,
+    5.1013569832,
+    51.5692443848
+],
+  "geometry": {"coordinates":[5.1013569832,51.5692443848],"type":"Point"}
+}

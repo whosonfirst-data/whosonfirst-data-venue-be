@@ -1,0 +1,77 @@
+{
+  "id": 1058601743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4596509933,51.238243103,4.4596509933,51.238243103",
+    "geom:latitude":51.238243,
+    "geom:longitude":4.459651,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Wasserijstraat 90",
+    "sg:city":"Schoten",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 360 85 20",
+    "sg:postcode":"2900",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "poultry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39V7nJjdX1qj7Injollbd0_51.238243_4.459651@1306268537"
+    },
+    "wof:country":"BE",
+    "wof:created":1473532688,
+    "wof:geomhash":"e88a12fd9d5fba2901dc3b2aa2db8727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058601743
+        }
+    ],
+    "wof:id":1058601743,
+    "wof:lastmodified":1473532688,
+    "wof:name":"Dufky Hens Nv",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry"
+    ]
+},
+  "bbox": [
+    4.4596509933,
+    51.238243103,
+    4.4596509933,
+    51.238243103
+],
+  "geometry": {"coordinates":[4.4596509933,51.238243103],"type":"Point"}
+}

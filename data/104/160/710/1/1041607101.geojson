@@ -1,0 +1,79 @@
+{
+  "id": 1041607101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.4961619377,50.6553382874,5.4961619377,50.6553382874",
+    "geom:latitude":50.655338,
+    "geom:longitude":5.496162,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Loncin 184",
+    "sg:city":"Gr\u00e2ce-hollogne (gr\u00e2ce-berleur)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 45 10",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681691,
+        85632997,
+        85801577,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UwtMznRULDt6fFpKwWJ7j_50.655338_5.496162@1306268463"
+    },
+    "wof:country":"BE",
+    "wof:created":1473475595,
+    "wof:geomhash":"15f6a13fabbffd28acd196874888b321",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049941,
+            "neighbourhood_id":85801577,
+            "region_id":85681691,
+            "venue_id":1041607101
+        }
+    ],
+    "wof:id":1041607101,
+    "wof:lastmodified":1473475595,
+    "wof:name":"Lucchese Sprl",
+    "wof:parent_id":85801577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "mainten",
+        "-",
+        "central",
+        "heating"
+    ]
+},
+  "bbox": [
+    5.4961619377,
+    50.6553382874,
+    5.4961619377,
+    50.6553382874
+],
+  "geometry": {"coordinates":[5.4961619377,50.6553382874],"type":"Point"}
+}

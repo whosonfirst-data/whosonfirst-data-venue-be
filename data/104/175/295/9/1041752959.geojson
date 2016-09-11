@@ -1,0 +1,71 @@
+{
+  "id": 1041752959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4994292259,50.7217292786,4.4994292259,50.7217292786",
+    "geom:latitude":50.721729,
+    "geom:longitude":4.499429,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Tilleul 13",
+    "sg:city":"Genval",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 656 21 11",
+    "sg:postcode":"1332",
+    "sg:province":"Brabant Wallon",
+    "sg:tags":[
+        "antibiotic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801873,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KDkSrstMtV9aciRKA878u_50.721729_4.499429@1306268333"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481496,
+    "wof:geomhash":"7ab8b13a17570cbeb164f2063bbe198b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049973,
+            "neighbourhood_id":85801873,
+            "region_id":85681731,
+            "venue_id":1041752959
+        }
+    ],
+    "wof:id":1041752959,
+    "wof:lastmodified":1473481496,
+    "wof:name":"Sb Pharma S.a.",
+    "wof:parent_id":85801873,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antibiotic"
+    ]
+},
+  "bbox": [
+    4.4994292259,
+    50.7217292786,
+    4.4994292259,
+    50.7217292786
+],
+  "geometry": {"coordinates":[4.4994292259,50.7217292786],"type":"Point"}
+}

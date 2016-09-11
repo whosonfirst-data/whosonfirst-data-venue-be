@@ -1,0 +1,77 @@
+{
+  "id": 1041971655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5767841339,50.6465492249,5.5767841339,50.6465492249",
+    "geom:latitude":50.646549,
+    "geom:longitude":5.576784,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Hors Ch\u00e2teau 16",
+    "sg:city":"Li\u00e8ge 1",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 223 56 37",
+    "sg:postcode":"4000",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862065,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HZ0pfEUTF0IfVLLh4Fzvx_50.646549_5.576784@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491022,
+    "wof:geomhash":"a6a9b3e66af4948ab18be4301ba000a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691,
+            "venue_id":1041971655
+        }
+    ],
+    "wof:id":1041971655,
+    "wof:lastmodified":1473491022,
+    "wof:name":"Eureka-garweg",
+    "wof:parent_id":85862065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    5.5767841339,
+    50.6465492249,
+    5.5767841339,
+    50.6465492249
+],
+  "geometry": {"coordinates":[5.5767841339,50.6465492249],"type":"Point"}
+}

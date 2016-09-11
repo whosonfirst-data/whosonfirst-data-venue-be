@@ -1,0 +1,81 @@
+{
+  "id": 1058084207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7018399239,51.0611457825,3.7018399239,51.0611457825",
+    "geom:latitude":51.061146,
+    "geom:longitude":3.70184,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klapeksterstraat 1a",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 227 46 00",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "made",
+        "-",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862101,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yDRLCYjmQesMHvCfmmAUo_51.061146_3.701840@1306268442"
+    },
+    "wof:country":"BE",
+    "wof:created":1473508917,
+    "wof:geomhash":"5e3efcb638f97c9233eb46b3617e746f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862101,
+            "region_id":85681733,
+            "venue_id":1058084207
+        }
+    ],
+    "wof:id":1058084207,
+    "wof:lastmodified":1473508917,
+    "wof:name":"Christiaens",
+    "wof:parent_id":85862101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "made",
+        "-",
+        "custom"
+    ]
+},
+  "bbox": [
+    3.7018399239,
+    51.0611457825,
+    3.7018399239,
+    51.0611457825
+],
+  "geometry": {"coordinates":[3.7018399239,51.0611457825],"type":"Point"}
+}

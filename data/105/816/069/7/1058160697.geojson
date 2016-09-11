@@ -1,0 +1,73 @@
+{
+  "id": 1058160697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6761698723,50.8704681396,4.6761698723,50.8704681396",
+    "geom:latitude":50.870468,
+    "geom:longitude":4.67617,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Celestijnenlaan 41 Box 41",
+    "sg:city":"Leuven (heverlee)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 23 27 93",
+    "sg:postcode":"3001",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x96zfWQE8ZtaeR0TFhFbI_50.870468_4.676170@1306268458"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512469,
+    "wof:geomhash":"0e6dd93ab86751a37f15ef3ca9b72a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058160697
+        }
+    ],
+    "wof:id":1058160697,
+    "wof:lastmodified":1473512469,
+    "wof:name":"De Smet M",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    4.6761698723,
+    50.8704681396,
+    4.6761698723,
+    50.8704681396
+],
+  "geometry": {"coordinates":[4.6761698723,50.8704681396],"type":"Point"}
+}

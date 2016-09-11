@@ -1,0 +1,77 @@
+{
+  "id": 1058770547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4103908539,50.8381004333,4.4103908539,50.8381004333",
+    "geom:latitude":50.8381,
+    "geom:longitude":4.410391,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Duc 100",
+    "sg:city":"Sint-pieters-woluwe/woluwe-saint-pierre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 772 02 16",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800817,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21lvICvyVViyV4mOJehJa1_50.838100_4.410391@1306268568"
+    },
+    "wof:country":"BE",
+    "wof:created":1473540252,
+    "wof:geomhash":"da27d5e2cff9a1a6e23d089ff9aea08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800817,
+            "region_id":85681713,
+            "venue_id":1058770547
+        }
+    ],
+    "wof:id":1058770547,
+    "wof:lastmodified":1473540252,
+    "wof:name":"Admin. Contrib. Directes",
+    "wof:parent_id":85800817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    4.4103908539,
+    50.8381004333,
+    4.4103908539,
+    50.8381004333
+],
+  "geometry": {"coordinates":[4.4103908539,50.8381004333],"type":"Point"}
+}

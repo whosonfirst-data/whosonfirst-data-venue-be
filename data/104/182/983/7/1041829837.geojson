@@ -1,0 +1,77 @@
+{
+  "id": 1041829837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2619800568,50.748878479,4.2619800568,50.748878479",
+    "geom:latitude":50.748878,
+    "geom:longitude":4.26198,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beerselsestraat 6",
+    "sg:city":"Halle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 361 45 44",
+    "sg:postcode":"1501",
+    "sg:province":"Vlaams-Brabant",
+    "sg:tags":[
+        "assurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802037,
+        102191581,
+        85632997,
+        404227357,
+        101755547,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dOU0js1SjpAudhBeKlbe8_50.748878_4.261980@1306268345"
+    },
+    "wof:country":"BE",
+    "wof:created":1473484927,
+    "wof:geomhash":"60f38c8d6caad0ff98b85d4838dc5cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731,
+            "venue_id":1041829837
+        }
+    ],
+    "wof:id":1041829837,
+    "wof:lastmodified":1473484927,
+    "wof:name":"H. Van Pottelbergh",
+    "wof:parent_id":85802037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assurance"
+    ]
+},
+  "bbox": [
+    4.2619800568,
+    50.748878479,
+    4.2619800568,
+    50.748878479
+],
+  "geometry": {"coordinates":[4.2619800568,50.748878479],"type":"Point"}
+}

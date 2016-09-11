@@ -1,0 +1,79 @@
+{
+  "id": 1042109309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.5019888878,50.6310653687,5.5019888878,50.6310653687",
+    "geom:latitude":50.631065,
+    "geom:longitude":5.501989,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Paul Janson 209",
+    "sg:city":"Gr\u00e2ce-hollogne (gr\u00e2ce-berleur)",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 263 51 87",
+    "sg:postcode":"4460",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "school",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801183,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W9nxOrzSpfV5sV39aOiwf_50.631065_5.501989@1306268396"
+    },
+    "wof:country":"BE",
+    "wof:created":1473496815,
+    "wof:geomhash":"3c5405a69715cca36fd181eb7f731483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801183,
+            "region_id":85681691,
+            "venue_id":1042109309
+        }
+    ],
+    "wof:id":1042109309,
+    "wof:lastmodified":1473496815,
+    "wof:name":"Future Dance Ecole",
+    "wof:parent_id":85801183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "dancing"
+    ]
+},
+  "bbox": [
+    5.5019888878,
+    50.6310653687,
+    5.5019888878,
+    50.6310653687
+],
+  "geometry": {"coordinates":[5.5019888878,50.6310653687],"type":"Point"}
+}

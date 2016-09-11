@@ -1,0 +1,77 @@
+{
+  "id": 1058551243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.711288929,51.0427780151,3.711288929,51.0427780151",
+    "geom:latitude":51.042778,
+    "geom:longitude":3.711289,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Groot-brittanni\u00eblaan 32",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 13 02",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "physiotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800731,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I5Ctrx7K9nqhqyfVTmzCt_51.042778_3.711289@1306268528"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530419,
+    "wof:geomhash":"03156c3ae895cf89812536baef616007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733,
+            "venue_id":1058551243
+        }
+    ],
+    "wof:id":1058551243,
+    "wof:lastmodified":1473530419,
+    "wof:name":"Coucke A",
+    "wof:parent_id":85800731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physiotherapist"
+    ]
+},
+  "bbox": [
+    3.711288929,
+    51.0427780151,
+    3.711288929,
+    51.0427780151
+],
+  "geometry": {"coordinates":[3.711288929,51.0427780151],"type":"Point"}
+}

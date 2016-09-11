@@ -1,0 +1,94 @@
+{
+  "id": 1041742875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3689842224,50.8092384338,4.3689842224,50.8092384338",
+    "geom:latitude":50.809238,
+    "geom:longitude":4.368984,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Beau S\u00e9jour 22",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 84 59",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801553,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85800787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tpc1ybRAmXFlSOSwQmicP_50.809238_4.368984@1306268331"
+    },
+    "wof:country":"BE",
+    "wof:created":1473481084,
+    "wof:geomhash":"55b606c40d0102eeed4d4025e63b3fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713,
+            "venue_id":1041742875
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1041742875
+        }
+    ],
+    "wof:id":1041742875,
+    "wof:lastmodified":1473481084,
+    "wof:name":"Vanden Berghe J-m Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "alarm",
+        "-",
+        "system"
+    ]
+},
+  "bbox": [
+    4.3689842224,
+    50.8092384338,
+    4.3689842224,
+    50.8092384338
+],
+  "geometry": {"coordinates":[4.3689842224,50.8092384338],"type":"Point"}
+}

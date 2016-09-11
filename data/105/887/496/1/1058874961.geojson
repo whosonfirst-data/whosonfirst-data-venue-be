@@ -1,0 +1,79 @@
+{
+  "id": 1058874961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.347867012,50.8038406372,4.347867012,50.8038406372",
+    "geom:latitude":50.803841,
+    "geom:longitude":4.347867,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De Fr\u00e9 44",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 375 15 63",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "concert-halls",
+        "theatre"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801049,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArfpzQhm3V551JuOLYHCV_50.803841_4.347867@1306268588"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544784,
+    "wof:geomhash":"2f66c58c1f10b8453c8f25390d655f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801049,
+            "region_id":85681713,
+            "venue_id":1058874961
+        }
+    ],
+    "wof:id":1058874961,
+    "wof:lastmodified":1473544784,
+    "wof:name":"Th\u00e9\u00e2tre Du Ratinet Asbl",
+    "wof:parent_id":85801049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concert-halls",
+        "theatre"
+    ]
+},
+  "bbox": [
+    4.347867012,
+    50.8038406372,
+    4.347867012,
+    50.8038406372
+],
+  "geometry": {"coordinates":[4.347867012,50.8038406372],"type":"Point"}
+}

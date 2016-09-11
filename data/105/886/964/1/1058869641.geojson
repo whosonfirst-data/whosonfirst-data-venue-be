@@ -1,0 +1,81 @@
+{
+  "id": 1058869641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.2600610256,51.2076263428,3.2600610256,51.2076263428",
+    "geom:latitude":51.207626,
+    "geom:longitude":3.260061,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Veltemweg 109",
+    "sg:city":"Brugge",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 50 35 58 45",
+    "sg:postcode":"8310",
+    "sg:province":"West-Vlaanderen",
+    "sg:tags":[
+        "de",
+        "terrain",
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862111,
+        102191581,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qhc93w0U1iZ9uG6xj4XBo_51.207626_3.260061@1306268587"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544561,
+    "wof:geomhash":"4c9ab7abdf72d88f96754724aa4512c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862111,
+            "region_id":85681709,
+            "venue_id":1058869641
+        }
+    ],
+    "wof:id":1058869641,
+    "wof:lastmodified":1473544561,
+    "wof:name":"Memling",
+    "wof:parent_id":85862111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "terrain",
+        "camping"
+    ]
+},
+  "bbox": [
+    3.2600610256,
+    51.2076263428,
+    3.2600610256,
+    51.2076263428
+],
+  "geometry": {"coordinates":[3.2600610256,51.2076263428],"type":"Point"}
+}

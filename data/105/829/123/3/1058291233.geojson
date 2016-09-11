@@ -1,0 +1,82 @@
+{
+  "id": 1058291233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.0639600754,50.6387023926,3.0639600754,50.6387023926",
+    "geom:latitude":50.638702,
+    "geom:longitude":3.06396,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Grande Chaussee 11",
+    "sg:city":"Lille (france)",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+33 3 20 55 87 11",
+    "sg:postcode":"59000",
+    "sg:tags":[
+        "jean",
+        "casual",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85794533,
+        102191581,
+        85633147,
+        404228283,
+        404227429,
+        101750277,
+        102071951,
+        85683445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0adJnDqTmLuu4qjaqS0n3H_50.638702_3.063960@1306268482"
+    },
+    "wof:country":"BE",
+    "wof:created":1473518194,
+    "wof:geomhash":"ae411817e831b9381887dc6c0014c274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071951,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":404227429,
+            "neighbourhood_id":85794533,
+            "region_id":85683445,
+            "venue_id":1058291233
+        }
+    ],
+    "wof:id":1058291233,
+    "wof:lastmodified":1473518194,
+    "wof:name":"Boutique Lacoste",
+    "wof:parent_id":85794533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jean",
+        "casual",
+        "wear"
+    ]
+},
+  "bbox": [
+    3.0639600754,
+    50.6387023926,
+    3.0639600754,
+    50.6387023926
+],
+  "geometry": {"coordinates":[3.0639600754,50.6387023926],"type":"Point"}
+}

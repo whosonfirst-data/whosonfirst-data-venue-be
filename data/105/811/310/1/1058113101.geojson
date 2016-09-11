@@ -1,0 +1,77 @@
+{
+  "id": 1058113101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3673400879,50.8979988098,4.3673400879,50.8979988098",
+    "geom:latitude":50.897999,
+    "geom:longitude":4.36734,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue De La Niv\u00e9ole 49",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 476 44 16 30",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "glazier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HaIHpnoNjTzIT4YI53wJ4_50.897999_4.367340@1306268448"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510140,
+    "wof:geomhash":"1300cb00e499bd19012ecb66a685144a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1058113101
+        }
+    ],
+    "wof:id":1058113101,
+    "wof:lastmodified":1473510140,
+    "wof:name":"Van Mileghem Walter",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glazier"
+    ]
+},
+  "bbox": [
+    4.3673400879,
+    50.8979988098,
+    4.3673400879,
+    50.8979988098
+],
+  "geometry": {"coordinates":[4.3673400879,50.8979988098],"type":"Point"}
+}

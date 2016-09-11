@@ -1,0 +1,81 @@
+{
+  "id": 1058703295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3542819023,50.8141975403,4.3542819023,50.8141975403",
+    "geom:latitude":50.814198,
+    "geom:longitude":4.354282,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Edmond Picard 55",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 343 80 80",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85800787,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_422vH9f2gqgWRkDrFm27fD_50.814198_4.354282@1306268557"
+    },
+    "wof:country":"BE",
+    "wof:created":1473537255,
+    "wof:geomhash":"0141ac6b037224b77fa0e48618ccf469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85800787,
+            "region_id":85681713,
+            "venue_id":1058703295
+        }
+    ],
+    "wof:id":1058703295,
+    "wof:lastmodified":1473537255,
+    "wof:name":"Atelier Artisanal De Tapis",
+    "wof:parent_id":85800787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    4.3542819023,
+    50.8141975403,
+    4.3542819023,
+    50.8141975403
+],
+  "geometry": {"coordinates":[4.3542819023,50.8141975403],"type":"Point"}
+}

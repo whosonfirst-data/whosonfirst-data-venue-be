@@ -1,0 +1,81 @@
+{
+  "id": 1058416793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7218511105,51.0538291931,3.7218511105,51.0538291931",
+    "geom:latitude":51.053829,
+    "geom:longitude":3.721851,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-michielsstraat 3",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 224 29 03",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "scooter",
+        "-",
+        "moped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_225y4n0YbltGfmEActka9B_51.053829_3.721851@1306268505"
+    },
+    "wof:country":"BE",
+    "wof:created":1473523984,
+    "wof:geomhash":"183a00a6dfc5e15ad5e85493f7415ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058416793
+        }
+    ],
+    "wof:id":1058416793,
+    "wof:lastmodified":1473523984,
+    "wof:name":"Biker",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "-",
+        "moped"
+    ]
+},
+  "bbox": [
+    3.7218511105,
+    51.0538291931,
+    3.7218511105,
+    51.0538291931
+],
+  "geometry": {"coordinates":[3.7218511105,51.0538291931],"type":"Point"}
+}

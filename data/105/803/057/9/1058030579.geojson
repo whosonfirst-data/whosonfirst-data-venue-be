@@ -1,0 +1,79 @@
+{
+  "id": 1058030579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7263119221,51.0444717407,3.7263119221,51.0444717407",
+    "geom:latitude":51.044472,
+    "geom:longitude":3.726312,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sint-pietersnieuwstraat 212",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 223 04 87",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "meeneem",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862091,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ABDUTxrIBugkjaXaxm64l_51.044472_3.726312@1306268430"
+    },
+    "wof:country":"BE",
+    "wof:created":1473506716,
+    "wof:geomhash":"6e7bd9b9f2f2d9b834208eba29dd0a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862091,
+            "region_id":85681733,
+            "venue_id":1058030579
+        }
+    ],
+    "wof:id":1058030579,
+    "wof:lastmodified":1473506716,
+    "wof:name":"Pizza La Perla",
+    "wof:parent_id":85862091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeneem",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    3.7263119221,
+    51.0444717407,
+    3.7263119221,
+    51.0444717407
+],
+  "geometry": {"coordinates":[3.7263119221,51.0444717407],"type":"Point"}
+}

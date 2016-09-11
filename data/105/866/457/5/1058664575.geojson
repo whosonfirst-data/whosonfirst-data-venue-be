@@ -1,0 +1,66 @@
+{
+  "id": 1058664575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.6291007996,50.8626976013,4.6291007996,50.8626976013",
+    "geom:latitude":50.862698,
+    "geom:longitude":4.629101,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerkstraat 2",
+    "sg:city":"Bertem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 16 48 88 96",
+    "sg:postcode":"3060",
+    "sg:province":"Vlaams-Brabant",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681731,
+        85632997,
+        85801701,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hdW4y5iFFBAF8eJxr5ku4_50.862698_4.629101@1306268549"
+    },
+    "wof:country":"BE",
+    "wof:created":1473535610,
+    "wof:geomhash":"c4d2efcea2084edbcfaf6f8bb7ccecda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102049969,
+            "neighbourhood_id":85801701,
+            "region_id":85681731,
+            "venue_id":1058664575
+        }
+    ],
+    "wof:id":1058664575,
+    "wof:lastmodified":1473535610,
+    "wof:name":"Bertem Brug",
+    "wof:parent_id":85801701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6291007996,
+    50.8626976013,
+    4.6291007996,
+    50.8626976013
+],
+  "geometry": {"coordinates":[4.6291007996,50.8626976013],"type":"Point"}
+}

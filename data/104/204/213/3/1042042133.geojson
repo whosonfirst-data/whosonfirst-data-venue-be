@@ -1,0 +1,83 @@
+{
+  "id": 1042042133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3615670204,50.8984184265,4.3615670204,50.8984184265",
+    "geom:latitude":50.898418,
+    "geom:longitude":4.361567,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Jean De Bolognelaan 91",
+    "sg:city":"Brussel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 268 72 31",
+    "sg:postcode":"1020",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "organisatie",
+        "feesten",
+        "van",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801201,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O02AMC1N8gzKdouyKCkYh_50.898418_4.361567@1306268383"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493945,
+    "wof:geomhash":"81fe202ea54c40162a10c65f191f31dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801201,
+            "region_id":85681713,
+            "venue_id":1042042133
+        }
+    ],
+    "wof:id":1042042133,
+    "wof:lastmodified":1473493945,
+    "wof:name":"Windsor Restaurant",
+    "wof:parent_id":85801201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organisatie",
+        "feesten",
+        "van",
+        "catering"
+    ]
+},
+  "bbox": [
+    4.3615670204,
+    50.8984184265,
+    4.3615670204,
+    50.8984184265
+],
+  "geometry": {"coordinates":[4.3615670204,50.8984184265],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1058155129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.6217851639,50.6276359558,5.6217851639,50.6276359558",
+    "geom:latitude":50.627636,
+    "geom:longitude":5.621785,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Mutualit\u00e9 123",
+    "sg:city":"Li\u00e8ge 1 (grivegn\u00e9e)",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 367 79 74",
+    "sg:postcode":"4030",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862019,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HM1l1iUBRvFpf7V6WgtOI_50.627636_5.621785@1306268457"
+    },
+    "wof:country":"BE",
+    "wof:created":1473512233,
+    "wof:geomhash":"44222a7673d11bd91b5a4f84bc838dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691,
+            "venue_id":1058155129
+        }
+    ],
+    "wof:id":1058155129,
+    "wof:lastmodified":1473512233,
+    "wof:name":"Bitotwa Mbayo",
+    "wof:parent_id":85862019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinephysicians",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    5.6217851639,
+    50.6276359558,
+    5.6217851639,
+    50.6276359558
+],
+  "geometry": {"coordinates":[5.6217851639,50.6276359558],"type":"Point"}
+}

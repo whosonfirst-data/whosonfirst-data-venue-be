@@ -1,0 +1,77 @@
+{
+  "id": 1041982925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.408082962,50.8573417664,4.408082962,50.8573417664",
+    "geom:latitude":50.857342,
+    "geom:longitude":4.408083,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Jacques Georgin 8-10",
+    "sg:city":"Bruxelles (schaerbeek)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 705 37 21",
+    "sg:postcode":"1030",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802019,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UYEb1ABgVgAQU62RSoDjm_50.857342_4.408083@1306268372"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491623,
+    "wof:geomhash":"28a8e1d420b166385704e8711c65d223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85802019,
+            "region_id":85681713,
+            "venue_id":1041982925
+        }
+    ],
+    "wof:id":1041982925,
+    "wof:lastmodified":1473491623,
+    "wof:name":"Cameleon",
+    "wof:parent_id":85802019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    4.408082962,
+    50.8573417664,
+    4.408082962,
+    50.8573417664
+],
+  "geometry": {"coordinates":[4.408082962,50.8573417664],"type":"Point"}
+}

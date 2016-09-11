@@ -1,0 +1,77 @@
+{
+  "id": 1041647873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3517317772,50.8289680481,4.3517317772,50.8289680481",
+    "geom:latitude":50.828968,
+    "geom:longitude":4.351732,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De La Croix De Pierre 76",
+    "sg:city":"Bruxelles (saint-gilles)",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 537 32 59",
+    "sg:postcode":"1060",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801903,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SafY91t145IerHJ7Sclmj_50.828968_4.351732@1306268536"
+    },
+    "wof:country":"BE",
+    "wof:created":1473477264,
+    "wof:geomhash":"8c70945df951739a3c9dff0b5d2f7f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801903,
+            "region_id":85681713,
+            "venue_id":1041647873
+        }
+    ],
+    "wof:id":1041647873,
+    "wof:lastmodified":1473477264,
+    "wof:name":"Snoecx F",
+    "wof:parent_id":85801903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    4.3517317772,
+    50.8289680481,
+    4.3517317772,
+    50.8289680481
+],
+  "geometry": {"coordinates":[4.3517317772,50.8289680481],"type":"Point"}
+}

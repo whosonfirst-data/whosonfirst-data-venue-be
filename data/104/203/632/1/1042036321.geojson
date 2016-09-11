@@ -1,0 +1,71 @@
+{
+  "id": 1042036321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4910778999,51.1597061157,4.4910778999,51.1597061157",
+    "geom:latitude":51.159706,
+    "geom:longitude":4.491078,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Van Colenstraat 9",
+    "sg:city":"Boechout",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 455 03 18",
+    "sg:postcode":"2530",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85800955,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BwytwTxw5OXnxoN94OGDj_51.159706_4.491078@1306268382"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493714,
+    "wof:geomhash":"b9a3a5c5a9f5af8483fcc98b59df31b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85800955,
+            "region_id":85681715,
+            "venue_id":1042036321
+        }
+    ],
+    "wof:id":1042036321,
+    "wof:lastmodified":1473493714,
+    "wof:name":"Fixit",
+    "wof:parent_id":85800955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    4.4910778999,
+    51.1597061157,
+    4.4910778999,
+    51.1597061157
+],
+  "geometry": {"coordinates":[4.4910778999,51.1597061157],"type":"Point"}
+}

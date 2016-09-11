@@ -1,0 +1,77 @@
+{
+  "id": 1041567457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.652077198,50.6589660645,5.652077198,50.6589660645",
+    "geom:latitude":50.658966,
+    "geom:longitude":5.652077,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Vis\u00e9 389",
+    "sg:city":"Li\u00e8ge 1 (wandre)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 4 362 69 90",
+    "sg:postcode":"4020",
+    "sg:province":"Li\u00e8ge",
+    "sg:tags":[
+        "chemist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862055,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30XJUjjDhX5dq75MPXy49D_50.658966_5.652077@1306268386"
+    },
+    "wof:country":"BE",
+    "wof:created":1473473942,
+    "wof:geomhash":"c5fd64b4407f8cccf064f2e23e95ea05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862055,
+            "region_id":85681691,
+            "venue_id":1041567457
+        }
+    ],
+    "wof:id":1041567457,
+    "wof:lastmodified":1473473942,
+    "wof:name":"Bisqueret F",
+    "wof:parent_id":85862055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemist"
+    ]
+},
+  "bbox": [
+    5.652077198,
+    50.6589660645,
+    5.652077198,
+    50.6589660645
+],
+  "geometry": {"coordinates":[5.652077198,50.6589660645],"type":"Point"}
+}

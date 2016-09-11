@@ -1,0 +1,83 @@
+{
+  "id": 1042118603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4453148842,50.8472595215,4.4453148842,50.8472595215",
+    "geom:latitude":50.84726,
+    "geom:longitude":4.445315,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Emile Vandervelde 69 Box 3",
+    "sg:city":"Bruxelles (woluwe-saint-lambert)",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 762 28 85",
+    "sg:postcode":"1200",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801353,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hz4rC7NeORrPiYeHwtV2n_50.847260_4.445315@1306268398"
+    },
+    "wof:country":"BE",
+    "wof:created":1473497317,
+    "wof:geomhash":"3edc6356ca7d42dd5584d371cc15d569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801353,
+            "region_id":85681713,
+            "venue_id":1042118603
+        }
+    ],
+    "wof:id":1042118603,
+    "wof:lastmodified":1473497317,
+    "wof:name":"A S K Nv",
+    "wof:parent_id":85801353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "processing",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [
+    4.4453148842,
+    50.8472595215,
+    4.4453148842,
+    50.8472595215
+],
+  "geometry": {"coordinates":[4.4453148842,50.8472595215],"type":"Point"}
+}

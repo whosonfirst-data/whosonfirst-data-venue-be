@@ -1,0 +1,81 @@
+{
+  "id": 1041592593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3288140297,50.785949707,4.3288140297,50.785949707",
+    "geom:latitude":50.78595,
+    "geom:longitude":4.328814,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Chauss\u00e9e D'alsemberg 1207",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 332 04 48",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801925,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BeXcAIcUBrCCjYdbodkU1_50.785950_4.328814@1306268438"
+    },
+    "wof:country":"BE",
+    "wof:created":1473474990,
+    "wof:geomhash":"62adcf9ebcff2cc7e623bf75fb9b7987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801925,
+            "region_id":85681713,
+            "venue_id":1041592593
+        }
+    ],
+    "wof:id":1041592593,
+    "wof:lastmodified":1473474990,
+    "wof:name":"Breedel Sa",
+    "wof:parent_id":85801925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fried",
+        "stand",
+        "potato"
+    ]
+},
+  "bbox": [
+    4.3288140297,
+    50.785949707,
+    4.3288140297,
+    50.785949707
+],
+  "geometry": {"coordinates":[4.3288140297,50.785949707],"type":"Point"}
+}

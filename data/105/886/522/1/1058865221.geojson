@@ -1,0 +1,77 @@
+{
+  "id": 1058865221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3246760368,50.8000183105,4.3246760368,50.8000183105",
+    "geom:latitude":50.800018,
+    "geom:longitude":4.324676,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Du Roetaert 122",
+    "sg:city":"Bruxelles (uccle)",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 331 53 31",
+    "sg:postcode":"1180",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801557,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jY8zoUIlk4NGBL6tWLGks_50.800018_4.324676@1306268586"
+    },
+    "wof:country":"BE",
+    "wof:created":1473544367,
+    "wof:geomhash":"5b92c076ebc20cddcd168fada675889f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801557,
+            "region_id":85681713,
+            "venue_id":1058865221
+        }
+    ],
+    "wof:id":1058865221,
+    "wof:lastmodified":1473544367,
+    "wof:name":"Cinq Cinq Telecom",
+    "wof:parent_id":85801557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    4.3246760368,
+    50.8000183105,
+    4.3246760368,
+    50.8000183105
+],
+  "geometry": {"coordinates":[4.3246760368,50.8000183105],"type":"Point"}
+}

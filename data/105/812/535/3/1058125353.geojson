@@ -1,0 +1,71 @@
+{
+  "id": 1058125353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4649882317,51.3655738831,4.4649882317,51.3655738831",
+    "geom:latitude":51.365574,
+    "geom:longitude":4.464988,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Heidestatiestraat 31",
+    "sg:city":"Kalmthout",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 666 30 58",
+    "sg:postcode":"2920",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "groenten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681715,
+        85632997,
+        85801359,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tgOJSBWnVdWmAeJc02nvW_51.365574_4.464988@1306268450"
+    },
+    "wof:country":"BE",
+    "wof:created":1473510779,
+    "wof:geomhash":"ffda4376a687ea4c85e234632572bc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "county_id":102050005,
+            "neighbourhood_id":85801359,
+            "region_id":85681715,
+            "venue_id":1058125353
+        }
+    ],
+    "wof:id":1058125353,
+    "wof:lastmodified":1473510779,
+    "wof:name":"Vawi",
+    "wof:parent_id":85801359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "groenten"
+    ]
+},
+  "bbox": [
+    4.4649882317,
+    51.3655738831,
+    4.4649882317,
+    51.3655738831
+],
+  "geometry": {"coordinates":[4.4649882317,51.3655738831],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1042173977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3317480087,50.8287773132,4.3317480087,50.8287773132",
+    "geom:latitude":50.828777,
+    "geom:longitude":4.331748,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De M\u00e9rode 266",
+    "sg:city":"Bruxelles (forest)",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 538 92 68",
+    "sg:postcode":"1190",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "gate",
+        "opener",
+        "door",
+        "automatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801633,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cs6EWSTK8D2MtKKk7ilsM_50.828777_4.331748@1306268409"
+    },
+    "wof:country":"BE",
+    "wof:created":1473500361,
+    "wof:geomhash":"4d5c0850c90a7d6135c8b13ce342132a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713,
+            "venue_id":1042173977
+        }
+    ],
+    "wof:id":1042173977,
+    "wof:lastmodified":1473500361,
+    "wof:name":"*faac*-e.f. Belgium Sprl",
+    "wof:parent_id":85801633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gate",
+        "opener",
+        "door",
+        "automatic"
+    ]
+},
+  "bbox": [
+    4.3317480087,
+    50.8287773132,
+    4.3317480087,
+    50.8287773132
+],
+  "geometry": {"coordinates":[4.3317480087,50.8287773132],"type":"Point"}
+}

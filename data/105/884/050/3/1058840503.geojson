@@ -1,0 +1,79 @@
+{
+  "id": 1058840503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.4368729591,51.224281311,4.4368729591,51.224281311",
+    "geom:latitude":51.224281,
+    "geom:longitude":4.436873,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pothoekstraat 116",
+    "sg:city":"Antwerpen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 3 272 28 41",
+    "sg:postcode":"2060",
+    "sg:province":"Antwerpen",
+    "sg:tags":[
+        "department",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862031,
+        102191581,
+        85632997,
+        404227357,
+        101748099,
+        102050005,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MOX6s0ud2rqAWSrmMdHV2_51.224281_4.436873@1306268581"
+    },
+    "wof:country":"BE",
+    "wof:created":1473543337,
+    "wof:geomhash":"6c856a761019ea6c9b91ce181fbd19a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862031,
+            "region_id":85681715,
+            "venue_id":1058840503
+        }
+    ],
+    "wof:id":1058840503,
+    "wof:lastmodified":1473543337,
+    "wof:name":"Gesmabo Enterprise Com V",
+    "wof:parent_id":85862031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "store"
+    ]
+},
+  "bbox": [
+    4.4368729591,
+    51.224281311,
+    4.4368729591,
+    51.224281311
+],
+  "geometry": {"coordinates":[4.4368729591,51.224281311],"type":"Point"}
+}

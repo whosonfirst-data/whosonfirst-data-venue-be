@@ -1,0 +1,83 @@
+{
+  "id": 1058546265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3111767769,50.8688812256,4.3111767769,50.8688812256",
+    "geom:latitude":50.868881,
+    "geom:longitude":4.311177,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue Charles Quint 72a",
+    "sg:city":"Bruxelles (ganshoren)",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 428 17 68",
+    "sg:postcode":"1083",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801163,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ouHkosRtY3LESOsN1yFqW_50.868881_4.311177@1306268527"
+    },
+    "wof:country":"BE",
+    "wof:created":1473530196,
+    "wof:geomhash":"9ed61c49f698019610370386451ca5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801163,
+            "region_id":85681713,
+            "venue_id":1058546265
+        }
+    ],
+    "wof:id":1058546265,
+    "wof:lastmodified":1473530196,
+    "wof:name":"Photo Video Charles Quint",
+    "wof:parent_id":85801163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographic",
+        "equipment",
+        "-",
+        "accessory"
+    ]
+},
+  "bbox": [
+    4.3111767769,
+    50.8688812256,
+    4.3111767769,
+    50.8688812256
+],
+  "geometry": {"coordinates":[4.3111767769,50.8688812256],"type":"Point"}
+}

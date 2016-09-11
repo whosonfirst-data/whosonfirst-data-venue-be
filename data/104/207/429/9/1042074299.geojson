@@ -1,0 +1,96 @@
+{
+  "id": 1042074299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.466313839,50.8419189453,4.466313839,50.8419189453",
+    "geom:latitude":50.841919,
+    "geom:longitude":4.466314,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenue D'ophem 10",
+    "sg:city":"Bruxelles (woluwe-saint-pierre)",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 763 38 81",
+    "sg:postcode":"1150",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801937,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713,
+        85801863,
+        404227357,
+        101913231,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ne29EEmFS54KcZZeV5bU_50.841919_4.466314@1306268390"
+    },
+    "wof:country":"BE",
+    "wof:created":1473495249,
+    "wof:geomhash":"2d82bef398846b98319065ed43d57913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801937,
+            "region_id":85681713,
+            "venue_id":1042074299
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801863,
+            "region_id":85681731,
+            "venue_id":1042074299
+        }
+    ],
+    "wof:id":1042074299,
+    "wof:lastmodified":1473495249,
+    "wof:name":"Rue Blanche",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lady",
+        "clothing",
+        "-"
+    ]
+},
+  "bbox": [
+    4.466313839,
+    50.8419189453,
+    4.466313839,
+    50.8419189453
+],
+  "geometry": {"coordinates":[4.466313839,50.8419189453],"type":"Point"}
+}

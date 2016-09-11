@@ -1,0 +1,79 @@
+{
+  "id": 1058206039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3456401825,50.8439445496,4.3456401825,50.8439445496",
+    "geom:latitude":50.843945,
+    "geom:longitude":4.34564,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Philippe De Champagne 5c",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 514 17 21",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "household",
+        "bleach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801191,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WdjkEV7kiuyWwrjzK3pVY_50.843945_4.345640@1306268467"
+    },
+    "wof:country":"BE",
+    "wof:created":1473514455,
+    "wof:geomhash":"fc787a4d1e1c8c51efd8e71b57a44e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713,
+            "venue_id":1058206039
+        }
+    ],
+    "wof:id":1058206039,
+    "wof:lastmodified":1473514455,
+    "wof:name":"Chemico-continental S.a.",
+    "wof:parent_id":85801191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "bleach"
+    ]
+},
+  "bbox": [
+    4.3456401825,
+    50.8439445496,
+    4.3456401825,
+    50.8439445496
+],
+  "geometry": {"coordinates":[4.3456401825,50.8439445496],"type":"Point"}
+}

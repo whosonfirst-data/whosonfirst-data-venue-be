@@ -1,0 +1,77 @@
+{
+  "id": 1042022501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"3.7385849953,51.0538864136,3.7385849953,51.0538864136",
+    "geom:latitude":51.053886,
+    "geom:longitude":3.738585,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gandastraat 31",
+    "sg:city":"Gent",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 9 225 09 30",
+    "sg:postcode":"9000",
+    "sg:province":"Oost-Vlaanderen",
+    "sg:tags":[
+        "caf\u00e9s"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85862051,
+        102191581,
+        85632997,
+        404227357,
+        101748093,
+        102049989,
+        85681733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kVDm2N0h2faFDZP3EN3Xs_51.053886_3.738585@1306268379"
+    },
+    "wof:country":"BE",
+    "wof:created":1473493146,
+    "wof:geomhash":"7e1f5f81f5009d52866db43040f65982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862051,
+            "region_id":85681733,
+            "venue_id":1042022501
+        }
+    ],
+    "wof:id":1042022501,
+    "wof:lastmodified":1473493146,
+    "wof:name":"Manuel De Sousa Carvalho",
+    "wof:parent_id":85862051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caf\u00e9s"
+    ]
+},
+  "bbox": [
+    3.7385849953,
+    51.0538864136,
+    3.7385849953,
+    51.0538864136
+],
+  "geometry": {"coordinates":[3.7385849953,51.0538864136],"type":"Point"}
+}

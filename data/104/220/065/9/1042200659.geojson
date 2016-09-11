@@ -1,0 +1,87 @@
+{
+  "id": 1042200659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.295484066,50.8264846802,4.295484066,50.8264846802",
+    "geom:latitude":50.826485,
+    "geom:longitude":4.295484,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue Jean Note 14 - 16",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 524 44 24",
+    "sg:postcode":"1070",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "telecommunication",
+        "electricity",
+        "component",
+        "equipment",
+        "electrical",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801261,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fKcw2IY6bw4GJJUd9ISOG_50.826485_4.295484@1306268414"
+    },
+    "wof:country":"BE",
+    "wof:created":1473501985,
+    "wof:geomhash":"cc6f0fdc14ce5a2c1749f6c9701292dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801261,
+            "region_id":85681713,
+            "venue_id":1042200659
+        }
+    ],
+    "wof:id":1042200659,
+    "wof:lastmodified":1473501985,
+    "wof:name":"Index-belge Sprl",
+    "wof:parent_id":85801261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "electricity",
+        "component",
+        "equipment",
+        "electrical",
+        "electronic"
+    ]
+},
+  "bbox": [
+    4.295484066,
+    50.8264846802,
+    4.295484066,
+    50.8264846802
+],
+  "geometry": {"coordinates":[4.295484066,50.8264846802],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1041972751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3623218536,50.8266639709,4.3623218536,50.8266639709",
+    "geom:latitude":50.826664,
+    "geom:longitude":4.362322,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rue De Livourne 125",
+    "sg:city":"Bruxelles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+32 2 640 86 43",
+    "sg:postcode":"1000",
+    "sg:province":"Bruxelles-Capitale",
+    "sg:tags":[
+        "bookseller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85801319,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eKgQxbcOn43J7wO3tQlKU_50.826664_4.362322@1306268370"
+    },
+    "wof:country":"BE",
+    "wof:created":1473491206,
+    "wof:geomhash":"1908b44e6738b332cfea45f6724decde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801319,
+            "region_id":85681713,
+            "venue_id":1041972751
+        }
+    ],
+    "wof:id":1041972751,
+    "wof:lastmodified":1473491206,
+    "wof:name":"Officine (l')",
+    "wof:parent_id":85801319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookseller"
+    ]
+},
+  "bbox": [
+    4.3623218536,
+    50.8266639709,
+    4.3623218536,
+    50.8266639709
+],
+  "geometry": {"coordinates":[4.3623218536,50.8266639709],"type":"Point"}
+}
