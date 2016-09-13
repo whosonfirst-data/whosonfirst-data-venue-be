@@ -2,6 +2,10 @@
   "id": 1058761033,
   "type": "Feature",
   "properties": {
+    "addr:full":"Moriaanstraat 111 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"111",
+    "addr:postcode":"9050",
+    "addr:street":"Moriaanstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058761033,
-    "wof:lastmodified":1473539821,
+    "wof:lastmodified":1473719769,
     "wof:name":"Troch",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

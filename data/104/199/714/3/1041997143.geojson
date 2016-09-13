@@ -2,6 +2,10 @@
   "id": 1041997143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Holstraat 96ba Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"96ba",
+    "addr:postcode":"9000",
+    "addr:street":"Holstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041997143,
-    "wof:lastmodified":1473492210,
+    "wof:lastmodified":1473722075,
     "wof:name":"Patrick De Brauwer",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

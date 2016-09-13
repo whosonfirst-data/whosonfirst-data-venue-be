@@ -2,6 +2,10 @@
   "id": 1058996379,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 149 12th Floor Brussels B-1050",
+    "addr:housenumber":"149 12th floor",
+    "addr:postcode":"b-1050",
+    "addr:street":"Avenue Louise;Brussels",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058996379,
-    "wof:lastmodified":1473550369,
+    "wof:lastmodified":1473721852,
     "wof:name":"Roamware",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

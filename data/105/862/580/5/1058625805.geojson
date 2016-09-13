@@ -2,6 +2,10 @@
   "id": 1058625805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Cortenbergh 118 Box 8 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"118;8",
+    "addr:postcode":"1000",
+    "addr:street":"Avenue De Cortenbergh;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058625805,
-    "wof:lastmodified":1473533827,
+    "wof:lastmodified":1473721666,
     "wof:name":"Hill And Knowlton International Belgium",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058123009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Stoutelaan 8b5 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"8b5",
+    "addr:postcode":"8000",
+    "addr:street":"Karel De Stoutelaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058123009,
-    "wof:lastmodified":1473510671,
+    "wof:lastmodified":1473720752,
     "wof:name":"Colombian Green Way",
     "wof:parent_id":85862073,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058753021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Grand Hospice 29 Box 2 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"29;2",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Grand Hospice;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058753021,
-    "wof:lastmodified":1473539456,
+    "wof:lastmodified":1473720726,
     "wof:name":"Vinals Bassols M",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

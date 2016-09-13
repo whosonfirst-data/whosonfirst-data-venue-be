@@ -2,6 +2,10 @@
   "id": 1041650717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Klein Turkije 16a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"16a",
+    "addr:postcode":"9000",
+    "addr:street":"Klein Turkije;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041650717,
-    "wof:lastmodified":1473477371,
+    "wof:lastmodified":1473719529,
     "wof:name":"'t Kelderken",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

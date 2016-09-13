@@ -2,6 +2,10 @@
   "id": 1058388959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bevrijdingslaan 103 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"103",
+    "addr:postcode":"9000",
+    "addr:street":"Bevrijdingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058388959,
-    "wof:lastmodified":1473522731,
+    "wof:lastmodified":1473722633,
     "wof:name":"Huis Eli",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

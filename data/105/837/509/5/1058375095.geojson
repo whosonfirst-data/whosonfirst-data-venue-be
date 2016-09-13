@@ -2,6 +2,10 @@
   "id": 1058375095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue George Bergmann 53 Box 3 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"53;3",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue George Bergmann;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058375095,
-    "wof:lastmodified":1473522113,
+    "wof:lastmodified":1473721477,
     "wof:name":"Francarex",
     "wof:parent_id":85800899,
     "wof:placetype":"venue",

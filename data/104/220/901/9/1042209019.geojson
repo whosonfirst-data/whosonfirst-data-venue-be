@@ -2,6 +2,10 @@
   "id": 1042209019,
   "type": "Feature",
   "properties": {
+    "addr:full":"Voorhavenlaan 22b Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"22b",
+    "addr:postcode":"9000",
+    "addr:street":"Voorhavenlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042209019,
-    "wof:lastmodified":1473502381,
+    "wof:lastmodified":1473722622,
     "wof:name":"Agio-power Bvba",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058455979,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Grotelaan 1 Box 66 International Press Center 1041",
+    "addr:housenumber":"1 box 66;1041",
+    "addr:postcode":"",
+    "addr:street":"Karel De Grotelaan;International",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1058455979,
-    "wof:lastmodified":1473525991,
+    "wof:lastmodified":1473721733,
     "wof:name":"The Asahi Shimbun",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

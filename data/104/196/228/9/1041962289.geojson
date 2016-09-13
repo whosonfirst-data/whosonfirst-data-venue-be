@@ -2,6 +2,10 @@
   "id": 1041962289,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Vandernoot 22 Box 4 Bruxelles (molenbeek-saint-jean) Bruxelles-Capitale 1080",
+    "addr:housenumber":"22;4",
+    "addr:postcode":"1080",
+    "addr:street":"Rue Vandernoot;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041962289,
-    "wof:lastmodified":1473490607,
+    "wof:lastmodified":1473720380,
     "wof:name":"Ben Omar Bridi M-k",
     "wof:parent_id":85801385,
     "wof:placetype":"venue",

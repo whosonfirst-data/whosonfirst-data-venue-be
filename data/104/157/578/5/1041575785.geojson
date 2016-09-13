@@ -2,6 +2,10 @@
   "id": 1041575785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jakobsstraat 42 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"42",
+    "addr:postcode":"8000",
+    "addr:street":"Sint-Jakobsstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041575785,
-    "wof:lastmodified":1473474285,
+    "wof:lastmodified":1473721688,
     "wof:name":"Brucom Bvba",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",

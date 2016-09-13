@@ -2,6 +2,10 @@
   "id": 1042159775,
   "type": "Feature",
   "properties": {
+    "addr:full":"Haven 28 Noorderlaan 29 Antwerpen Antwerpen 2030",
+    "addr:housenumber":"28;29",
+    "addr:postcode":"2030",
+    "addr:street":"Haven;Noorderlaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042159775,
-    "wof:lastmodified":1473499503,
+    "wof:lastmodified":1473722854,
     "wof:name":"N.e.o.",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

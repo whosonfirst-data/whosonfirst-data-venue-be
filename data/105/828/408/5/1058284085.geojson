@@ -2,6 +2,10 @@
   "id": 1058284085,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 132c Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"132c",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058284085,
-    "wof:lastmodified":1473517874,
+    "wof:lastmodified":1473721181,
     "wof:name":"Doggybites Bvba",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

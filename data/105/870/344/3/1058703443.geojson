@@ -2,6 +2,10 @@
   "id": 1058703443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Auguste Javaux 42 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"42;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Auguste Javaux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058703443,
-    "wof:lastmodified":1473537261,
+    "wof:lastmodified":1473720892,
     "wof:name":"Valets",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

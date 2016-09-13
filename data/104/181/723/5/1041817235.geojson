@@ -2,6 +2,10 @@
   "id": 1041817235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sportstraat 344 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"344",
+    "addr:postcode":"9000",
+    "addr:street":"Sportstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041817235,
-    "wof:lastmodified":1473484401,
+    "wof:lastmodified":1473722121,
     "wof:name":"Michel Pauwels",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

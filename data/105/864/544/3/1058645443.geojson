@@ -2,6 +2,10 @@
   "id": 1058645443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoogstraat 161 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"161",
+    "addr:postcode":"9000",
+    "addr:street":"Hoogstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058645443,
-    "wof:lastmodified":1473534739,
+    "wof:lastmodified":1473721552,
     "wof:name":"Intercolor",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058730031,
   "type": "Feature",
   "properties": {
+    "addr:full":"Michel Willemslaan 116 Antwerpen (wilrijk) Antwerpen 2610",
+    "addr:housenumber":"116",
+    "addr:postcode":"2610",
+    "addr:street":"Michel Willemslaan;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058730031,
-    "wof:lastmodified":1473538452,
+    "wof:lastmodified":1473718883,
     "wof:name":"Indusafe Bvba",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",

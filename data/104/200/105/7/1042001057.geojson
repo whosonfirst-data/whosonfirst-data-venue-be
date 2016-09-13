@@ -2,6 +2,10 @@
   "id": 1042001057,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Rue Damay 4000 Li\u00e8ge 10",
+    "addr:housenumber":"10",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Damay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042001057,
-    "wof:lastmodified":1473492351,
+    "wof:lastmodified":1473719786,
     "wof:name":"Restaurant I Giardini",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042172707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Paul Devauxstraat 33 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"33",
+    "addr:postcode":"8000",
+    "addr:street":"Paul Devauxstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1042172707,
-    "wof:lastmodified":1473500284,
+    "wof:lastmodified":1473720652,
     "wof:name":"Idee-fix",
     "wof:parent_id":85862105,
     "wof:placetype":"venue",

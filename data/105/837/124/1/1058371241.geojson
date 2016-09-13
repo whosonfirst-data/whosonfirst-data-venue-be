@@ -2,6 +2,10 @@
   "id": 1058371241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Postbus 100 Antwerpen18 Antwerpen 2060",
+    "addr:housenumber":"100",
+    "addr:postcode":"antwerpen18;2060",
+    "addr:street":"Postbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058371241,
-    "wof:lastmodified":1473521939,
+    "wof:lastmodified":1473719829,
     "wof:name":"Exxonmobil",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

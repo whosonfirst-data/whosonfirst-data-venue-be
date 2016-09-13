@@ -2,6 +2,10 @@
   "id": 1058185355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Beukelaarstraat 33 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"33",
+    "addr:postcode":"9000",
+    "addr:street":"Beukelaarstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058185355,
-    "wof:lastmodified":1473513569,
+    "wof:lastmodified":1473721581,
     "wof:name":"Depatrans",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

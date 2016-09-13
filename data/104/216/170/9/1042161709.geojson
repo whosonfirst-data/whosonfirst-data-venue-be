@@ -2,6 +2,10 @@
   "id": 1042161709,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kerkstraat 169 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"169",
+    "addr:postcode":"9050",
+    "addr:street":"Kerkstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042161709,
-    "wof:lastmodified":1473499601,
+    "wof:lastmodified":1473720068,
     "wof:name":"Bureau Quod",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

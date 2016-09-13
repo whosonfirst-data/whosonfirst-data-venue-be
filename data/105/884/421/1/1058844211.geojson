@@ -2,6 +2,10 @@
   "id": 1058844211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Camille Huysmanslaan 60 Box 7 Antwerpen Antwerpen 2020",
+    "addr:housenumber":"60;7",
+    "addr:postcode":"2020",
+    "addr:street":"Camille Huysmanslaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058844211,
-    "wof:lastmodified":1473543492,
+    "wof:lastmodified":1473721289,
     "wof:name":"Antwerp Marine Surveys",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041747947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Begijnengracht 51 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"51",
+    "addr:postcode":"9000",
+    "addr:street":"Begijnengracht;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041747947,
-    "wof:lastmodified":1473481285,
+    "wof:lastmodified":1473722336,
     "wof:name":"Solinti",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

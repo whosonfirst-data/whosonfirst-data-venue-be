@@ -2,6 +2,10 @@
   "id": 1058493885,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Haute 312 Brussel/bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"312",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Haute;/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058493885,
-    "wof:lastmodified":1473527824,
+    "wof:lastmodified":1473721033,
     "wof:name":"Talk Me",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

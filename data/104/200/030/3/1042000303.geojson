@@ -2,6 +2,10 @@
   "id": 1042000303,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Lange Molensstraat 1800 Vilvoorde 45",
+    "addr:housenumber":"45;45",
+    "addr:postcode":"1800",
+    "addr:street":"Lange Molensstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000303,
-    "wof:lastmodified":1473492326,
+    "wof:lastmodified":1473719385,
     "wof:name":"De Kuiper Nv",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058535025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 327 Box 2 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"327;2",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058535025,
-    "wof:lastmodified":1473529709,
+    "wof:lastmodified":1473721430,
     "wof:name":"Amasis Search & Selection",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

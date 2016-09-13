@@ -2,6 +2,10 @@
   "id": 1042089347,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lentestraat 78 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"78",
+    "addr:postcode":"9000",
+    "addr:street":"Lentestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1042089347,
-    "wof:lastmodified":1473495929,
+    "wof:lastmodified":1473722774,
     "wof:name":"V.c. Balie Gent",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058033297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sleepstraat 95 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"95",
+    "addr:postcode":"9000",
+    "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058033297,
-    "wof:lastmodified":1473506824,
+    "wof:lastmodified":1473720915,
     "wof:name":"Restaurant Engin",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058398547,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Rue Reimond Stijns 1080 Bruxelles 78",
+    "addr:housenumber":"78",
+    "addr:postcode":"1080;78",
+    "addr:street":"Rue Reimond Stijns",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058398547,
-    "wof:lastmodified":1473523152,
+    "wof:lastmodified":1473722487,
     "wof:name":"C.i.a.t. Belgium Sa",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",

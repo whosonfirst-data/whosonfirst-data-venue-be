@@ -2,6 +2,10 @@
   "id": 1058661385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-margrietstraat 36 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"36",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Margrietstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058661385,
-    "wof:lastmodified":1473535479,
+    "wof:lastmodified":1473719834,
     "wof:name":"Domino Vzw",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

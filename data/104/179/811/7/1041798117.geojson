@@ -2,6 +2,10 @@
   "id": 1041798117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Albert Ier 35 Rixensart Brabant Wallon 1330",
+    "addr:housenumber":"35",
+    "addr:postcode":"1330",
+    "addr:street":"Rue Albert Ier;Wallon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1041798117,
-    "wof:lastmodified":1473483574,
+    "wof:lastmodified":1473722341,
     "wof:name":"Patrick Devaux",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

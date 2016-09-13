@@ -2,6 +2,10 @@
   "id": 1058795543,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersplein 60a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"60a",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058795543,
-    "wof:lastmodified":1473541352,
+    "wof:lastmodified":1473721617,
     "wof:name":"S.d. Worx",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

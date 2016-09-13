@@ -2,6 +2,10 @@
   "id": 1041684323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Stoutelaan 129 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"129",
+    "addr:postcode":"8000",
+    "addr:street":"Karel De Stoutelaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1041684323,
-    "wof:lastmodified":1473478694,
+    "wof:lastmodified":1473721249,
     "wof:name":"Brugse Fiduciaire Burg Nv",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",

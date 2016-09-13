@@ -2,6 +2,10 @@
   "id": 1058975265,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Livourne 111 Brussel Bruxelles-Capitale 1050",
+    "addr:housenumber":"111",
+    "addr:postcode":"1050",
+    "addr:street":"Rue De Livourne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058975265,
-    "wof:lastmodified":1473549441,
+    "wof:lastmodified":1473721002,
     "wof:name":"Auxiliaire De Construction",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

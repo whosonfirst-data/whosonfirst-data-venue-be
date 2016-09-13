@@ -2,6 +2,10 @@
   "id": 1058335453,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Edith Cavell 66 Box 1 Bruxelles (uccle) Bruxelles-Capitale 1180",
+    "addr:housenumber":"66;1",
+    "addr:postcode":"1180",
+    "addr:street":"Rue Edith Cavell;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058335453,
-    "wof:lastmodified":1473520270,
+    "wof:lastmodified":1473721613,
     "wof:name":"Coel Bart",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

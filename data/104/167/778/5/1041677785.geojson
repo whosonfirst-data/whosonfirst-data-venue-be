@@ -2,6 +2,10 @@
   "id": 1041677785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gandastraat 53 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"53",
+    "addr:postcode":"9000",
+    "addr:street":"Gandastraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041677785,
-    "wof:lastmodified":1473478438,
+    "wof:lastmodified":1473722000,
     "wof:name":"Carexplorer",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

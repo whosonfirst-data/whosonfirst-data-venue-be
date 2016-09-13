@@ -2,6 +2,10 @@
   "id": 1058114775,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Rue Franklin 1000 Bruxelles 130",
+    "addr:housenumber":"130;130",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Franklin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1058114775,
-    "wof:lastmodified":1473510216,
+    "wof:lastmodified":1473721323,
     "wof:name":"Jacques Reix Sprl",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

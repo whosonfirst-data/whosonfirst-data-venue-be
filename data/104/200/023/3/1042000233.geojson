@@ -2,6 +2,10 @@
   "id": 1042000233,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Rue Du Damier 1000 Bruxelles 26",
+    "addr:housenumber":"26",
+    "addr:postcode":"1000;26",
+    "addr:street":"Rue Du Damier",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000233,
-    "wof:lastmodified":1473492323,
+    "wof:lastmodified":1473719345,
     "wof:name":"Crockin Sa",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

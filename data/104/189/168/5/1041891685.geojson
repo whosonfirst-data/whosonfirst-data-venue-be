@@ -2,6 +2,10 @@
   "id": 1041891685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 445 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"445",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041891685,
-    "wof:lastmodified":1473487559,
+    "wof:lastmodified":1473720070,
     "wof:name":"Fortis",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

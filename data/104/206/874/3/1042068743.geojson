@@ -2,6 +2,10 @@
   "id": 1042068743,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Atomiumlaan 1020 Brussel 9",
+    "addr:housenumber":"9;9",
+    "addr:postcode":"1020",
+    "addr:street":"Atomiumlaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042068743,
-    "wof:lastmodified":1473495025,
+    "wof:lastmodified":1473722581,
     "wof:name":"A.r.w. Nv",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

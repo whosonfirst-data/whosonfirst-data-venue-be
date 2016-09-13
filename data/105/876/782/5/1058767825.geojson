@@ -2,6 +2,10 @@
   "id": 1058767825,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karperstraat 122 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"122",
+    "addr:postcode":"9000",
+    "addr:street":"Karperstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058767825,
-    "wof:lastmodified":1473540134,
+    "wof:lastmodified":1473722293,
     "wof:name":"Yves Pichon",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

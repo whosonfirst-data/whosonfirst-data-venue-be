@@ -2,6 +2,10 @@
   "id": 1058352735,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Hubert-d\u00e9samor\u00e9 12 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"12;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Hubert-De\u0301Samore\u0301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058352735,
-    "wof:lastmodified":1473521073,
+    "wof:lastmodified":1473720685,
     "wof:name":"Adm",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",

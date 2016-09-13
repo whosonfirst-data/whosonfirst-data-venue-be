@@ -2,6 +2,10 @@
   "id": 1041605071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Bruy\u00e8res 42 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"42;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Des Bruye\u0300Res",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041605071,
-    "wof:lastmodified":1473475517,
+    "wof:lastmodified":1473721439,
     "wof:name":"Feron A",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058227697,
   "type": "Feature",
   "properties": {
+    "addr:full":"Parc Industriel Zone I - Rue De La Recherche 8 Nivelles Brabant Wallon 1400",
+    "addr:housenumber":"zone;8",
+    "addr:postcode":"1400",
+    "addr:street":"Parc Industriel;Rue De La Recherche",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1058227697,
-    "wof:lastmodified":1473515426,
+    "wof:lastmodified":1473722212,
     "wof:name":"Bootstrap S.p.r.l.",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

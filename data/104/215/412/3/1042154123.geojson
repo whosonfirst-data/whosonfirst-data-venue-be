@@ -2,6 +2,10 @@
   "id": 1042154123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Blankenbergestraat 38 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"38",
+    "addr:postcode":"9000",
+    "addr:street":"Blankenbergestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042154123,
-    "wof:lastmodified":1473499224,
+    "wof:lastmodified":1473721247,
     "wof:name":"Distri Gent & Rand Cvoha",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

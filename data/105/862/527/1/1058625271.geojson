@@ -2,6 +2,10 @@
   "id": 1058625271,
   "type": "Feature",
   "properties": {
+    "addr:full":"Krijgslaan 118 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"118",
+    "addr:postcode":"9000",
+    "addr:street":"Krijgslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058625271,
-    "wof:lastmodified":1473533801,
+    "wof:lastmodified":1473721536,
     "wof:name":"Studietraining",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

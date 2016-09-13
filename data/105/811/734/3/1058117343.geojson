@@ -2,6 +2,10 @@
   "id": 1058117343,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Bourgmestre 38 Box 3 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"38;3",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Du Bourgmestre;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058117343,
-    "wof:lastmodified":1473510315,
+    "wof:lastmodified":1473722051,
     "wof:name":"Rondeau D",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

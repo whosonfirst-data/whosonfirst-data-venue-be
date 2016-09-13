@@ -2,6 +2,10 @@
   "id": 1041938529,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hogeweg 148 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"148",
+    "addr:postcode":"9000",
+    "addr:street":"Hogeweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041938529,
-    "wof:lastmodified":1473489595,
+    "wof:lastmodified":1473722454,
     "wof:name":"Must Inwood",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

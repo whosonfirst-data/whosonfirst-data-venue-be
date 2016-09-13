@@ -2,6 +2,10 @@
   "id": 1058967069,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Van Aelbroecklaan 45 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"45",
+    "addr:postcode":"9050",
+    "addr:street":"Jan Van Aelbroecklaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058967069,
-    "wof:lastmodified":1473549083,
+    "wof:lastmodified":1473721909,
     "wof:name":"Baeten Consulting",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

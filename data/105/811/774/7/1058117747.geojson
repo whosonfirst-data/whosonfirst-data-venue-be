@@ -2,6 +2,10 @@
   "id": 1058117747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tramstraat 36 Box 6 Brugge (assebroek) West-Vlaanderen 8310",
+    "addr:housenumber":"36;6",
+    "addr:postcode":"8310",
+    "addr:street":"Tramstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058117747,
-    "wof:lastmodified":1473510353,
+    "wof:lastmodified":1473722188,
     "wof:name":"Ydee",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",

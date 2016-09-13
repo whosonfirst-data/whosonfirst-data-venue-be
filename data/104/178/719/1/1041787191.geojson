@@ -2,6 +2,10 @@
   "id": 1041787191,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Guillaume Stocq 42 Elsene/ixelles Bruxelles-Capitale 1050",
+    "addr:housenumber":"42",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Guillaume Stocq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041787191,
-    "wof:lastmodified":1473483174,
+    "wof:lastmodified":1473722016,
     "wof:name":"A.b.c. Europe",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

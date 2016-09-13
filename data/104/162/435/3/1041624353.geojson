@@ -2,6 +2,10 @@
   "id": 1041624353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard De La Cambre 55 Box 8 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"55;8",
+    "addr:postcode":"1000",
+    "addr:street":"Boulevard De La Cambre;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041624353,
-    "wof:lastmodified":1473476279,
+    "wof:lastmodified":1473721271,
     "wof:name":"De Reuck Carline",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

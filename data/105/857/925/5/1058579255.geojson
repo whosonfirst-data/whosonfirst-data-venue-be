@@ -2,6 +2,10 @@
   "id": 1058579255,
   "type": "Feature",
   "properties": {
+    "addr:full":"Haverstraat 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Haverstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058579255,
-    "wof:lastmodified":1473531722,
+    "wof:lastmodified":1473722704,
     "wof:name":"Johan Verschueren",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

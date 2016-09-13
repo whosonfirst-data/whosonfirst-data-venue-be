@@ -2,6 +2,10 @@
   "id": 1058283571,
   "type": "Feature",
   "properties": {
+    "addr:full":"Florastraat 29 Box 6 De Pinte Oost-Vlaanderen 9840",
+    "addr:housenumber":"29",
+    "addr:postcode":"9840",
+    "addr:street":"Florastraat;Box 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1058283571,
-    "wof:lastmodified":1473517853,
+    "wof:lastmodified":1473720915,
     "wof:name":"Ventnet",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",

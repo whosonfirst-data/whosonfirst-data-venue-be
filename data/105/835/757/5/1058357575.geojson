@@ -2,6 +2,10 @@
   "id": 1058357575,
   "type": "Feature",
   "properties": {
+    "addr:full":"Henegouwenstraat 119 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"119",
+    "addr:postcode":"9000",
+    "addr:street":"Henegouwenstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058357575,
-    "wof:lastmodified":1473521306,
+    "wof:lastmodified":1473722225,
     "wof:name":"Lineos Bvba",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

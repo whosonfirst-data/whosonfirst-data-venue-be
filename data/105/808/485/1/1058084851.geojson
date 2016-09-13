@@ -2,6 +2,10 @@
   "id": 1058084851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 348 Box T Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"348",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Box T Gent Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058084851,
-    "wof:lastmodified":1473508944,
+    "wof:lastmodified":1473721352,
     "wof:name":"Designmart Nv",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

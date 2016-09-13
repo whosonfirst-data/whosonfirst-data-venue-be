@@ -2,6 +2,10 @@
   "id": 1058996405,
   "type": "Feature",
   "properties": {
+    "addr:full":"sint-petersnieuwstraat 132c Gent 9000",
+    "addr:housenumber":"132c",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Petersnieuwstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1058996405,
-    "wof:lastmodified":1473550370,
+    "wof:lastmodified":1473721814,
     "wof:name":"Adhese",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

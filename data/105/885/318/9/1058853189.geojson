@@ -2,6 +2,10 @@
   "id": 1058853189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Langemunt 18 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"18",
+    "addr:postcode":"9000",
+    "addr:street":"Langemunt;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058853189,
-    "wof:lastmodified":1473543866,
+    "wof:lastmodified":1473720793,
     "wof:name":"Street",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

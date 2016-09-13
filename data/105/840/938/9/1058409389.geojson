@@ -2,6 +2,10 @@
   "id": 1058409389,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ham 115 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"115",
+    "addr:postcode":"9000",
+    "addr:street":"Ham;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058409389,
-    "wof:lastmodified":1473523655,
+    "wof:lastmodified":1473722713,
     "wof:name":"Maria Slot",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

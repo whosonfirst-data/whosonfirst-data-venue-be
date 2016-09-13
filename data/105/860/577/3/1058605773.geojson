@@ -2,6 +2,10 @@
   "id": 1058605773,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Rue De Birmingham 1070 Bruxelles 131",
+    "addr:housenumber":"131",
+    "addr:postcode":"1070;131",
+    "addr:street":"Rue De Birmingham",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058605773,
-    "wof:lastmodified":1473532864,
+    "wof:lastmodified":1473721686,
     "wof:name":"Deloge Sa",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",

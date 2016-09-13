@@ -2,6 +2,10 @@
   "id": 1058778215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Werkstraat 79 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"79",
+    "addr:postcode":"9000",
+    "addr:street":"Werkstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058778215,
-    "wof:lastmodified":1473540580,
+    "wof:lastmodified":1473722432,
     "wof:name":"Beenhouwerij Marc",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041605165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Tervueren 222 Box 6 Bruxelles (woluwe-saint-pierre) Bruxelles-Capitale 1150",
+    "addr:housenumber":"222;6",
+    "addr:postcode":"1150",
+    "addr:street":"Avenue De Tervueren;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041605165,
-    "wof:lastmodified":1473475521,
+    "wof:lastmodified":1473721461,
     "wof:name":"Fran\u00e7ois J-m",
     "wof:parent_id":85801333,
     "wof:placetype":"venue",

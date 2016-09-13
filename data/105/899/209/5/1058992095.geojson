@@ -2,6 +2,10 @@
   "id": 1058992095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sterrenlaan 217 Box 5 Edegem Antwerpen 2650",
+    "addr:housenumber":"217;5",
+    "addr:postcode":"2650",
+    "addr:street":"Sterrenlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1058992095,
-    "wof:lastmodified":1473550188,
+    "wof:lastmodified":1473720269,
     "wof:name":"Blue Peter Sailing",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

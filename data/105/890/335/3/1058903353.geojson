@@ -2,6 +2,10 @@
   "id": 1058903353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bernardse Steenweg 43 Box 2 Hemiksem Antwerpen 2620",
+    "addr:housenumber":"43;2",
+    "addr:postcode":"2620",
+    "addr:street":"Steenweg;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1058903353,
-    "wof:lastmodified":1473546111,
+    "wof:lastmodified":1473720867,
     "wof:name":"Horizon Travel Bvba",
     "wof:parent_id":85801281,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058930749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vrijdagmarkt 42 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Vrijdagmarkt;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058930749,
-    "wof:lastmodified":1473547371,
+    "wof:lastmodified":1473719592,
     "wof:name":"P&v",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

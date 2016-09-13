@@ -2,6 +2,10 @@
   "id": 1058852545,
   "type": "Feature",
   "properties": {
+    "addr:full":"John Youngestraat 18 Melle Oost-Vlaanderen 9090",
+    "addr:housenumber":"18",
+    "addr:postcode":"9090",
+    "addr:street":"Youngestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1058852545,
-    "wof:lastmodified":1473543842,
+    "wof:lastmodified":1473720475,
     "wof:name":"Mehlinger",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041781263,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De F\u00e9tinne 25 Box 1 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"25;1;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De Fe\u0301Tinne;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041781263,
-    "wof:lastmodified":1473482966,
+    "wof:lastmodified":1473719857,
     "wof:name":"Polis Ch-f",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

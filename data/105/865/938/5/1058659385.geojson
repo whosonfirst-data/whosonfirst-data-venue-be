@@ -2,6 +2,10 @@
   "id": 1058659385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Royale 55 Box 10 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"55 box 10",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Royale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058659385,
-    "wof:lastmodified":1473535390,
+    "wof:lastmodified":1473722654,
     "wof:name":"Cedec",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

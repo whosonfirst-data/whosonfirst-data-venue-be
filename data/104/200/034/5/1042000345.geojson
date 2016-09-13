@@ -2,6 +2,10 @@
   "id": 1042000345,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Koningsstraat 1210 Brussel 316",
+    "addr:housenumber":"316",
+    "addr:postcode":"1210;316",
+    "addr:street":"Koningsstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000345,
-    "wof:lastmodified":1473492327,
+    "wof:lastmodified":1473719409,
     "wof:name":"De Ultieme Hallucinatie Bvba",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

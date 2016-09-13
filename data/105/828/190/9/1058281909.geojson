@@ -2,6 +2,10 @@
   "id": 1058281909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hertogstraat 155 Box 301 Leuven (heverlee) Vlaams-Brabant 3001",
+    "addr:housenumber":"155;301",
+    "addr:postcode":"3001",
+    "addr:street":"Hertogstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1058281909,
-    "wof:lastmodified":1473517778,
+    "wof:lastmodified":1473720240,
     "wof:name":"Weemaels B",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

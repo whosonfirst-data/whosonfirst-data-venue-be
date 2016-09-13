@@ -2,6 +2,10 @@
   "id": 1058858513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Du Forum 17 Box 5 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"17;5",
+    "addr:postcode":"1020",
+    "addr:street":"Avenue Du Forum;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058858513,
-    "wof:lastmodified":1473544080,
+    "wof:lastmodified":1473722434,
     "wof:name":"D'haeseleer A",
     "wof:parent_id":85801201,
     "wof:placetype":"venue",

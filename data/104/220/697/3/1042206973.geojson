@@ -2,6 +2,10 @@
   "id": 1042206973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Stoutelaan 85 Box 1 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"85;1",
+    "addr:postcode":"8000",
+    "addr:street":"Karel De Stoutelaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042206973,
-    "wof:lastmodified":1473502294,
+    "wof:lastmodified":1473722080,
     "wof:name":"Mortier Elektro",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",

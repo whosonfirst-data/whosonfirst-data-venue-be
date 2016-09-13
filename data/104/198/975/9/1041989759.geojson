@@ -2,6 +2,10 @@
   "id": 1041989759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De La Bourse 22 Postbus 3 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"22;3",
+    "addr:postcode":"1000",
+    "addr:street":"Rue De La Bourse;Postbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041989759,
-    "wof:lastmodified":1473491907,
+    "wof:lastmodified":1473722837,
     "wof:name":"Asbl Chobisco Service",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

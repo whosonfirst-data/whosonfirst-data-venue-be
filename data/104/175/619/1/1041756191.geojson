@@ -2,6 +2,10 @@
   "id": 1041756191,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-niklaasstraat 44 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"44",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Niklaasstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041756191,
-    "wof:lastmodified":1473481682,
+    "wof:lastmodified":1473721801,
     "wof:name":"Art & Antiques Steinfeld",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

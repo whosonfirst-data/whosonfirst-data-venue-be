@@ -2,6 +2,10 @@
   "id": 1042192843,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-salvatorstraat 61 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"61",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Salvatorstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042192843,
-    "wof:lastmodified":1473501526,
+    "wof:lastmodified":1473720661,
     "wof:name":"Huis Vandooren",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

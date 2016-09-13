@@ -2,6 +2,10 @@
   "id": 1058865493,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gandastraat 57 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"57",
+    "addr:postcode":"9000",
+    "addr:street":"Gandastraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058865493,
-    "wof:lastmodified":1473544377,
+    "wof:lastmodified":1473721543,
     "wof:name":"Alcatel Networks",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

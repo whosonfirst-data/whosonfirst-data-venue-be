@@ -2,6 +2,10 @@
   "id": 1042000369,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Koninginneplein 1030 Brussel 49",
+    "addr:housenumber":"49;49",
+    "addr:postcode":"1030",
+    "addr:street":"Koninginneplein",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000369,
-    "wof:lastmodified":1473492328,
+    "wof:lastmodified":1473719421,
     "wof:name":"Den Bisnis Bvba",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

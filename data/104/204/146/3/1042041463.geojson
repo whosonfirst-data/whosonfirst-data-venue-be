@@ -2,6 +2,10 @@
   "id": 1042041463,
   "type": "Feature",
   "properties": {
+    "addr:full":"Phoenixstraat 101 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"101",
+    "addr:postcode":"9000",
+    "addr:street":"Phoenixstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042041463,
-    "wof:lastmodified":1473493922,
+    "wof:lastmodified":1473719897,
     "wof:name":"Restaurant Feniks",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

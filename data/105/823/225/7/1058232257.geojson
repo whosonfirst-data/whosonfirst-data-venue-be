@@ -2,6 +2,10 @@
   "id": 1058232257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Louis Bertrandlaan 100a12 Bruxelles Bruxelles-Capitale 1030",
+    "addr:housenumber":"100a12",
+    "addr:postcode":"1030",
+    "addr:street":"Louis Bertrandlaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058232257,
-    "wof:lastmodified":1473515627,
+    "wof:lastmodified":1473720332,
     "wof:name":"Decision Engineering",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

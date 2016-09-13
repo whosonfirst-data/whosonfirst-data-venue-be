@@ -2,6 +2,10 @@
   "id": 1058399511,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Rue Des Bayards 4000 Li\u00e8ge 147",
+    "addr:housenumber":"147",
+    "addr:postcode":"4000;147",
+    "addr:street":"Rue Des Bayards",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058399511,
-    "wof:lastmodified":1473523197,
+    "wof:lastmodified":1473722758,
     "wof:name":"Zanetti Sa",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",

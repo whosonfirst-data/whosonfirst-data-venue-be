@@ -2,6 +2,10 @@
   "id": 1041630463,
   "type": "Feature",
   "properties": {
+    "addr:full":"Eilandstraat 1-5 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"1-5",
+    "addr:postcode":"9000",
+    "addr:street":"Eilandstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041630463,
-    "wof:lastmodified":1473476538,
+    "wof:lastmodified":1473719466,
     "wof:name":"Mc & C Metaaldetectoren Vandamme",
     "wof:parent_id":85801993,
     "wof:placetype":"venue",

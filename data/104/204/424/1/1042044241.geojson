@@ -2,6 +2,10 @@
   "id": 1042044241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Maurice Charlent 53 Box 1 Bruxelles (auderghem) Bruxelles-Capitale 1160",
+    "addr:housenumber":"53;1",
+    "addr:postcode":"1160",
+    "addr:street":"Rue Maurice Charlent;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1042044241,
-    "wof:lastmodified":1473494027,
+    "wof:lastmodified":1473721240,
     "wof:name":"Aramark Sa",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",

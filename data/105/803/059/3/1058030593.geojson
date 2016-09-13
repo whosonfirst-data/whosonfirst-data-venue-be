@@ -2,6 +2,10 @@
   "id": 1058030593,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nieuwstraat 123 Brussel/bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"123",
+    "addr:postcode":"1000",
+    "addr:street":"Nieuwstraat;/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058030593,
-    "wof:lastmodified":1473506717,
+    "wof:lastmodified":1473719511,
     "wof:name":"Pizza Maciotto",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

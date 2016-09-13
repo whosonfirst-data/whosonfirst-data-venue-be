@@ -2,6 +2,10 @@
   "id": 1058650123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kunstlaan 15 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"15",
+    "addr:postcode":"9000",
+    "addr:street":"Kunstlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058650123,
-    "wof:lastmodified":1473534955,
+    "wof:lastmodified":1473718933,
     "wof:name":"Eurimmo",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

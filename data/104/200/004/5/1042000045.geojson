@@ -2,6 +2,10 @@
   "id": 1042000045,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Quai Aux Briques 1000 Bruxelles 76",
+    "addr:housenumber":"76",
+    "addr:postcode":"1000;76",
+    "addr:street":"Quai Aux Briques",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000045,
-    "wof:lastmodified":1473492317,
+    "wof:lastmodified":1473718912,
     "wof:name":"Albid Sa",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058325119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-juliaanstraat 34a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"34a",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Juliaanstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058325119,
-    "wof:lastmodified":1473519755,
+    "wof:lastmodified":1473721456,
     "wof:name":"De Groote & Martens",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041542369,
   "type": "Feature",
   "properties": {
+    "addr:full":"August Vermeylenlaan 13 Box 6 Antwerpen Antwerpen 2050",
+    "addr:housenumber":"13;6",
+    "addr:postcode":"2050",
+    "addr:street":"August Vermeylenlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041542369,
-    "wof:lastmodified":1473472896,
+    "wof:lastmodified":1473720324,
     "wof:name":"Macken P",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

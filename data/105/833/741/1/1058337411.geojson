@@ -2,6 +2,10 @@
   "id": 1058337411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 128 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"128",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058337411,
-    "wof:lastmodified":1473520359,
+    "wof:lastmodified":1473722215,
     "wof:name":"De Wilde Peter",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

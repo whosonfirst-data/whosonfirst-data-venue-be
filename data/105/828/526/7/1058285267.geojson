@@ -2,6 +2,10 @@
   "id": 1058285267,
   "type": "Feature",
   "properties": {
+    "addr:full":"Diksmuidelaan 6 Box 8 Antwerpen (berchem) Antwerpen 2600",
+    "addr:housenumber":"6;8",
+    "addr:postcode":"2600",
+    "addr:street":"Diksmuidelaan;Box;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058285267,
-    "wof:lastmodified":1473517932,
+    "wof:lastmodified":1473721517,
     "wof:name":"Malinsky",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

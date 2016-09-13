@@ -2,6 +2,10 @@
   "id": 1041542007,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Paris 15 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"15;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041542007,
-    "wof:lastmodified":1473472883,
+    "wof:lastmodified":1473720165,
     "wof:name":"Aural Sprl",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",

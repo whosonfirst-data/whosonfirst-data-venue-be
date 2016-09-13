@@ -2,6 +2,10 @@
   "id": 1058235459,
   "type": "Feature",
   "properties": {
+    "addr:full":"New-yorkstraat 10 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"New-Yorkstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058235459,
-    "wof:lastmodified":1473515776,
+    "wof:lastmodified":1473721531,
     "wof:name":"Gomaar Vanderhaegen",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",

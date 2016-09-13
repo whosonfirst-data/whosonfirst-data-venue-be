@@ -2,6 +2,10 @@
   "id": 1058175835,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Mulhouse 8-10 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"8-10;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De Mulhouse",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058175835,
-    "wof:lastmodified":1473513155,
+    "wof:lastmodified":1473721327,
     "wof:name":"Dubois Scrl",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

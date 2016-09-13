@@ -2,6 +2,10 @@
   "id": 1041752975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 41 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041752975,
-    "wof:lastmodified":1473481496,
+    "wof:lastmodified":1473720792,
     "wof:name":"'t Gravensteen",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

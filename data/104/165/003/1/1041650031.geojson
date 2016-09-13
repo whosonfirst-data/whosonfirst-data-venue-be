@@ -2,6 +2,10 @@
   "id": 1041650031,
   "type": "Feature",
   "properties": {
+    "addr:full":"H.van Heurckstraat 19 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"19",
+    "addr:postcode":"2000",
+    "addr:street":"Heurckstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041650031,
-    "wof:lastmodified":1473477346,
+    "wof:lastmodified":1473718887,
     "wof:name":"Coc",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

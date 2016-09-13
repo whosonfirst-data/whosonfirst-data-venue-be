@@ -2,6 +2,10 @@
   "id": 1041784291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Charles De Costerlaan 2 Box 1 Antwerpen Antwerpen 2050",
+    "addr:housenumber":"2;1",
+    "addr:postcode":"2050",
+    "addr:street":"Charles De Costerlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041784291,
-    "wof:lastmodified":1473483079,
+    "wof:lastmodified":1473721288,
     "wof:name":"Van Roosendael W",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

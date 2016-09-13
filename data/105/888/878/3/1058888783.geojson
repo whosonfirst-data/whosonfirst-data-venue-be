@@ -2,6 +2,10 @@
   "id": 1058888783,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Du Souverain 146 Box 6 Bruxelles (auderghem) Bruxelles-Capitale 1160",
+    "addr:housenumber":"146;6",
+    "addr:postcode":"1160",
+    "addr:street":"Boulevard Du Souverain;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058888783,
-    "wof:lastmodified":1473545417,
+    "wof:lastmodified":1473722581,
     "wof:name":"Plus ! Sa",
     "wof:parent_id":85801147,
     "wof:placetype":"venue",

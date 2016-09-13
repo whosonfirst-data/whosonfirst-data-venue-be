@@ -2,6 +2,10 @@
   "id": 1042003685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-baafskouterstraat 15 Gent Oost-Vlaanderen 9040",
+    "addr:housenumber":"15",
+    "addr:postcode":"9040",
+    "addr:street":"Sint-Baafskouterstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042003685,
-    "wof:lastmodified":1473492443,
+    "wof:lastmodified":1473721002,
     "wof:name":"Arend Worst",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

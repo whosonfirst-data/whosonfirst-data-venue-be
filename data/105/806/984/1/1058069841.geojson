@@ -2,6 +2,10 @@
   "id": 1058069841,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Porte-grumsel 1 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"1;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Porte-Grumsel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058069841,
-    "wof:lastmodified":1473508317,
+    "wof:lastmodified":1473722920,
     "wof:name":"Genin",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058732501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nieuwpoort 31-35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"31-35",
+    "addr:postcode":"9000",
+    "addr:street":"Nieuwpoort;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058732501,
-    "wof:lastmodified":1473538597,
+    "wof:lastmodified":1473720440,
     "wof:name":"Nieuwpoorttheater",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

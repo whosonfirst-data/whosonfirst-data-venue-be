@@ -2,6 +2,10 @@
   "id": 1058035251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 103 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"103",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058035251,
-    "wof:lastmodified":1473506903,
+    "wof:lastmodified":1473721555,
     "wof:name":"Depape (slaapcirkel)",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

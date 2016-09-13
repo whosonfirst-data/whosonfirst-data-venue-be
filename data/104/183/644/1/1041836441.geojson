@@ -2,6 +2,10 @@
   "id": 1041836441,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Alex Bouvy 32 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"32;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Alex Bouvy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041836441,
-    "wof:lastmodified":1473485226,
+    "wof:lastmodified":1473721873,
     "wof:name":"Film & Culture Asbl",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

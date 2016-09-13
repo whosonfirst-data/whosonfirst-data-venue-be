@@ -2,6 +2,10 @@
   "id": 1058138975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Belfortstraat 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Belfortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058138975,
-    "wof:lastmodified":1473511408,
+    "wof:lastmodified":1473722634,
     "wof:name":"De Ruyck",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

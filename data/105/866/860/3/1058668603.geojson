@@ -2,6 +2,10 @@
   "id": 1058668603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Holstraat 84 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"84",
+    "addr:postcode":"9000",
+    "addr:street":"Holstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058668603,
-    "wof:lastmodified":1473535780,
+    "wof:lastmodified":1473722446,
     "wof:name":"Flips",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

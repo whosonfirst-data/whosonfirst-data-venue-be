@@ -2,6 +2,10 @@
   "id": 1058228083,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Rue Gustave Schildknecht 1020 Bruxelles 10",
+    "addr:housenumber":"10",
+    "addr:postcode":"1020;10",
+    "addr:street":"Rue Gustave Schildknecht",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058228083,
-    "wof:lastmodified":1473515445,
+    "wof:lastmodified":1473722328,
     "wof:name":"Ets Da Car Sa",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",

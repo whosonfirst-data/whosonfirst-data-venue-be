@@ -2,6 +2,10 @@
   "id": 1058651943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 437 Box 3 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"437;3",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058651943,
-    "wof:lastmodified":1473535042,
+    "wof:lastmodified":1473720126,
     "wof:name":"Lancelot",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

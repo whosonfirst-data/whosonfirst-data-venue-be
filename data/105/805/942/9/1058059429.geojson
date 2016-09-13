@@ -2,6 +2,10 @@
   "id": 1058059429,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Romeinse Straat 3001 Geverlee 20",
+    "addr:housenumber":"20;3001;20",
+    "addr:postcode":"",
+    "addr:street":"Romeinse Straat;Geverlee",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1058059429,
-    "wof:lastmodified":1473507895,
+    "wof:lastmodified":1473722809,
     "wof:name":"Bouckaert & Partners Bvba",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

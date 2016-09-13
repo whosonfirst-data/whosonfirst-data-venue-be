@@ -2,6 +2,10 @@
   "id": 1042097881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Pierres 50 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"50",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Pierres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042097881,
-    "wof:lastmodified":1473496293,
+    "wof:lastmodified":1473722373,
     "wof:name":"Brussels Culture Invest",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

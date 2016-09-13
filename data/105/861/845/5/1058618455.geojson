@@ -2,6 +2,10 @@
   "id": 1058618455,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Deux Eglises 29 Box 3 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"29;3",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Deux Eglises;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058618455,
-    "wof:lastmodified":1473533510,
+    "wof:lastmodified":1473722520,
     "wof:name":"Belgian Courier Association",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

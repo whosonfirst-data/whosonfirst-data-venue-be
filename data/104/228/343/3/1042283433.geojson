@@ -2,6 +2,10 @@
   "id": 1042283433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Leeuwstraat 60 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"60",
+    "addr:postcode":"9000",
+    "addr:street":"Leeuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042283433,
-    "wof:lastmodified":1473505808,
+    "wof:lastmodified":1473720870,
     "wof:name":"Sagertso",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

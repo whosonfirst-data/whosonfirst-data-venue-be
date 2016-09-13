@@ -2,6 +2,10 @@
   "id": 1058231003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dr. Elie Lambottestraat 177 Schaarbeek Bruxelles-Capitale 1030",
+    "addr:housenumber":"177",
+    "addr:postcode":"1030",
+    "addr:street":"Dr.;Lambottestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058231003,
-    "wof:lastmodified":1473515558,
+    "wof:lastmodified":1473719714,
     "wof:name":"Euroblan",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",

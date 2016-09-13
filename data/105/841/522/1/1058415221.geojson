@@ -2,6 +2,10 @@
   "id": 1058415221,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Rue Du Houblon 1000 Bruxelles 63",
+    "addr:housenumber":"63",
+    "addr:postcode":"1000;63",
+    "addr:street":"Rue Du Houblon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1058415221,
-    "wof:lastmodified":1473523906,
+    "wof:lastmodified":1473721518,
     "wof:name":"Van Kueken Paul",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

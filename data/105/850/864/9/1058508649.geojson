@@ -2,6 +2,10 @@
   "id": 1058508649,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-simonstraat 37 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"37",
+    "addr:postcode":"9050",
+    "addr:street":"Sint-Simonstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058508649,
-    "wof:lastmodified":1473528467,
+    "wof:lastmodified":1473722429,
     "wof:name":"Philip Ghiesmans",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

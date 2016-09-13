@@ -2,6 +2,10 @@
   "id": 1058789435,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Du Roi Albert Ii 30 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"30;4",
+    "addr:postcode":"1000",
+    "addr:street":"Boulevard Du Roi Albert Ii;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058789435,
-    "wof:lastmodified":1473541064,
+    "wof:lastmodified":1473722843,
     "wof:name":"Conseil Economique & Social De La Region De Bruxelles-capitale",
     "wof:parent_id":85801801,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041627907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Jean De Ridder 42 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"42",
+    "addr:postcode":"1780",
+    "addr:street":"Avenue Jean De Ridder;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041627907,
-    "wof:lastmodified":1473476427,
+    "wof:lastmodified":1473722234,
     "wof:name":"Borreman",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042278613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sparrestraat 56 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"56",
+    "addr:postcode":"9000",
+    "addr:street":"Sparrestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042278613,
-    "wof:lastmodified":1473505593,
+    "wof:lastmodified":1473722463,
     "wof:name":"Emma Obus",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

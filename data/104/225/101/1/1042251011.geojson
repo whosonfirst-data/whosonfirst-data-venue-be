@@ -2,6 +2,10 @@
   "id": 1042251011,
   "type": "Feature",
   "properties": {
+    "addr:full":"Antwerpsesteenweg 39a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"39a",
+    "addr:postcode":"9000",
+    "addr:street":"Antwerpsesteenweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042251011,
-    "wof:lastmodified":1473504288,
+    "wof:lastmodified":1473719722,
     "wof:name":"Inter-consult Engineering Nv",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

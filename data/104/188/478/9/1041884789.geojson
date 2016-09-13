@@ -2,6 +2,10 @@
   "id": 1041884789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersaalststraat 44 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"44",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersaalststraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041884789,
-    "wof:lastmodified":1473487282,
+    "wof:lastmodified":1473721441,
     "wof:name":"Van Der Haegen",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

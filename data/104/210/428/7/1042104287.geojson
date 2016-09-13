@@ -2,6 +2,10 @@
   "id": 1042104287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jacobsnieuwstraat 26 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Jacobsnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042104287,
-    "wof:lastmodified":1473496570,
+    "wof:lastmodified":1473721228,
     "wof:name":"Linea Ateljee",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

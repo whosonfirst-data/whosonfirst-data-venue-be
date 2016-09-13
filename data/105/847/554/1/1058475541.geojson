@@ -2,6 +2,10 @@
   "id": 1058475541,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Stoutelaan 55 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"55",
+    "addr:postcode":"8000",
+    "addr:street":"Karel De Stoutelaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058475541,
-    "wof:lastmodified":1473526938,
+    "wof:lastmodified":1473721607,
     "wof:name":"Francis Willems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

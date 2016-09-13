@@ -2,6 +2,10 @@
   "id": 1058338183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 322 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"322",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058338183,
-    "wof:lastmodified":1473520389,
+    "wof:lastmodified":1473722453,
     "wof:name":"Depoortere Kate",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

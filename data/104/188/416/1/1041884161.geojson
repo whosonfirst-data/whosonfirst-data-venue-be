@@ -2,6 +2,10 @@
   "id": 1041884161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bernadettestraat 235 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"235",
+    "addr:postcode":"9000",
+    "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041884161,
-    "wof:lastmodified":1473487253,
+    "wof:lastmodified":1473721275,
     "wof:name":"Seghers",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

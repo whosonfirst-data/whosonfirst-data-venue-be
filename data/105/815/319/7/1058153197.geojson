@@ -2,6 +2,10 @@
   "id": 1058153197,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 Rue Mellery 1020 Bruxelles 54",
+    "addr:housenumber":"54",
+    "addr:postcode":"1020;54",
+    "addr:street":"Rue Mellery",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058153197,
-    "wof:lastmodified":1473512145,
+    "wof:lastmodified":1473720771,
     "wof:name":"Orthogese Sa",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",

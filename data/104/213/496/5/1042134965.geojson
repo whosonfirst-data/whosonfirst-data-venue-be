@@ -2,6 +2,10 @@
   "id": 1042134965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue George Bergmann 128 Box 8 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"128;8",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue George Bergmann;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042134965,
-    "wof:lastmodified":1473498213,
+    "wof:lastmodified":1473721449,
     "wof:name":"Lenertz Eric",
     "wof:parent_id":85800899,
     "wof:placetype":"venue",

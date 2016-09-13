@@ -2,6 +2,10 @@
   "id": 1041538337,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Rue Du Pertuis 4100 Seraing 222",
+    "addr:housenumber":"222;222",
+    "addr:postcode":"4100",
+    "addr:street":"Rue Du Pertuis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041538337,
-    "wof:lastmodified":1473472726,
+    "wof:lastmodified":1473720565,
     "wof:name":"Maison Despriet Sa",
     "wof:parent_id":85801867,
     "wof:placetype":"venue",

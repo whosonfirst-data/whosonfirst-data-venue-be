@@ -2,6 +2,10 @@
   "id": 1058206323,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Rue Ulens 1080 Bruxelles 55",
+    "addr:housenumber":"55",
+    "addr:postcode":"1080;55",
+    "addr:street":"Rue Ulens",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058206323,
-    "wof:lastmodified":1473514466,
+    "wof:lastmodified":1473721828,
     "wof:name":"Espaces Et Lignes Sa",
     "wof:parent_id":85801801,
     "wof:placetype":"venue",

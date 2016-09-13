@@ -2,6 +2,10 @@
   "id": 1058490727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bevrijdingslaan 9 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"9",
+    "addr:postcode":"9000",
+    "addr:street":"Bevrijdingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058490727,
-    "wof:lastmodified":1473527661,
+    "wof:lastmodified":1473719626,
     "wof:name":"Cab",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

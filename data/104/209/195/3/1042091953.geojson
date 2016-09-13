@@ -2,6 +2,10 @@
   "id": 1042091953,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Avenue De La Charmille 1200 Woluwe St Lambert 8",
+    "addr:housenumber":"8;1200;8",
+    "addr:postcode":"",
+    "addr:street":"Avenue De La Charmille;Woluwe St Lambert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042091953,
-    "wof:lastmodified":1473496037,
+    "wof:lastmodified":1473720188,
     "wof:name":"Van Wetter Entreprise Sprl",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",

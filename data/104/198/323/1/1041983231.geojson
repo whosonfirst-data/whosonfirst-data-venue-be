@@ -2,6 +2,10 @@
   "id": 1041983231,
   "type": "Feature",
   "properties": {
+    "addr:full":"Brusselsestraat 42 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"42",
+    "addr:postcode":"3000",
+    "addr:street":"Brusselsestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1041983231,
-    "wof:lastmodified":1473491638,
+    "wof:lastmodified":1473720938,
     "wof:name":"Cocoon",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

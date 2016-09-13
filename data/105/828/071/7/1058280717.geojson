@@ -2,6 +2,10 @@
   "id": 1058280717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 135 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"135",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058280717,
-    "wof:lastmodified":1473517723,
+    "wof:lastmodified":1473719587,
     "wof:name":"D&v Design",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

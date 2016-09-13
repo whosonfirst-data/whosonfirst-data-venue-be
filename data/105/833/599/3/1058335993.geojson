@@ -2,6 +2,10 @@
   "id": 1058335993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place Georges Brugmann 12 Box 1 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"12;1",
+    "addr:postcode":"1050",
+    "addr:street":"Place Georges Brugmann;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058335993,
-    "wof:lastmodified":1473520292,
+    "wof:lastmodified":1473721757,
     "wof:name":"D'hondt & De Caritat",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

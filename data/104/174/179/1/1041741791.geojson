@@ -2,6 +2,10 @@
   "id": 1041741791,
   "type": "Feature",
   "properties": {
+    "addr:full":"East Erie Street 101 Chicago Illinois 60611",
+    "addr:housenumber":"101",
+    "addr:postcode":"60611",
+    "addr:street":"East Erie Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1041741791,
-    "wof:lastmodified":1473481015,
+    "wof:lastmodified":1473720130,
     "wof:name":"Wahlstrom/chicago (a.k. Stone)",
     "wof:parent_id":85843259,
     "wof:placetype":"venue",

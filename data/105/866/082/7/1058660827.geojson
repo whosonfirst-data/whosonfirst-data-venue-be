@@ -2,6 +2,10 @@
   "id": 1058660827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Manchesterlaan 29 Box 3 Antwerpen Antwerpen 2030",
+    "addr:housenumber":"29;3",
+    "addr:postcode":"2030",
+    "addr:street":"Manchesterlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058660827,
-    "wof:lastmodified":1473535455,
+    "wof:lastmodified":1473719593,
     "wof:name":"Scheelen T",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

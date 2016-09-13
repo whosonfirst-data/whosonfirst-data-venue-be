@@ -2,6 +2,10 @@
   "id": 1041775503,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Fabry 42 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"42;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Fabry",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041775503,
-    "wof:lastmodified":1473482752,
+    "wof:lastmodified":1473721607,
     "wof:name":"Dethier & Associ\u00e9s Sa",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",

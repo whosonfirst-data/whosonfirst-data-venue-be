@@ -2,6 +2,10 @@
   "id": 1058403909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Victor Lagneau 40e Sambre-vile Namur 5060",
+    "addr:housenumber":"40e",
+    "addr:postcode":"5060",
+    "addr:street":"Rue Victor Lagneau;Namur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058403909,
-    "wof:lastmodified":1473523409,
+    "wof:lastmodified":1473721166,
     "wof:name":"Eurotax",
     "wof:parent_id":85806777,
     "wof:placetype":"venue",

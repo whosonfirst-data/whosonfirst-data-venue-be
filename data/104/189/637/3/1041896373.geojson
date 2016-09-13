@@ -2,6 +2,10 @@
   "id": 1041896373,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Boulevard Sylvain Dupuis 1070 Bruxelles 251",
+    "addr:housenumber":"251",
+    "addr:postcode":"1070;251",
+    "addr:street":"Boulevard Sylvain Dupuis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041896373,
-    "wof:lastmodified":1473487759,
+    "wof:lastmodified":1473721804,
     "wof:name":"Credit Agricole Sa",
     "wof:parent_id":85800971,
     "wof:placetype":"venue",

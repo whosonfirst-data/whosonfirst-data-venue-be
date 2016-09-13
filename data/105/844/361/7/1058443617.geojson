@@ -2,6 +2,10 @@
   "id": 1058443617,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 143 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"143",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058443617,
-    "wof:lastmodified":1473525378,
+    "wof:lastmodified":1473720916,
     "wof:name":"M. Vrijens",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

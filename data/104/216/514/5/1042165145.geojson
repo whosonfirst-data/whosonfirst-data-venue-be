@@ -2,6 +2,10 @@
   "id": 1042165145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Saint-lambert 143 Brussel Bruxelles-Capitale 1200",
+    "addr:housenumber":"143",
+    "addr:postcode":"1200",
+    "addr:street":"Rue Saint-Lambert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1042165145,
-    "wof:lastmodified":1473499826,
+    "wof:lastmodified":1473721430,
     "wof:name":"Postomat Bruxelles",
     "wof:parent_id":85801825,
     "wof:placetype":"venue",

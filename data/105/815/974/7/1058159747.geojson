@@ -2,6 +2,10 @@
   "id": 1058159747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sleepstraat 80 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"80",
+    "addr:postcode":"9000",
+    "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058159747,
-    "wof:lastmodified":1473512434,
+    "wof:lastmodified":1473722915,
     "wof:name":"De Geyter Patrick",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

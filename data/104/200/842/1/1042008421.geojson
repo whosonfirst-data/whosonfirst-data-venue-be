@@ -2,6 +2,10 @@
   "id": 1042008421,
   "type": "Feature",
   "properties": {
+    "addr:full":"Arthur Latourstraat 37 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"37",
+    "addr:postcode":"9050",
+    "addr:street":"Arthur Latourstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042008421,
-    "wof:lastmodified":1473492632,
+    "wof:lastmodified":1473722427,
     "wof:name":"Caf\u00c9 Den Hemel",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

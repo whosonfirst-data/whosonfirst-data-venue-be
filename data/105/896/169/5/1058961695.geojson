@@ -2,6 +2,10 @@
   "id": 1058961695,
   "type": "Feature",
   "properties": {
+    "addr:full":"Wenigerstraat 12 Box 2 Borsbeek Antwerpen 2150",
+    "addr:housenumber":"12;2",
+    "addr:postcode":"2150",
+    "addr:street":"Wenigerstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1058961695,
-    "wof:lastmodified":1473548850,
+    "wof:lastmodified":1473719889,
     "wof:name":"Oakhouse Bvba",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",

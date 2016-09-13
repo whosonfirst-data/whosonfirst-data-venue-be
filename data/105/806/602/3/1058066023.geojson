@@ -2,6 +2,10 @@
   "id": 1058066023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Aalmoezenierstraat 42 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"42",
+    "addr:postcode":"2000",
+    "addr:street":"Aalmoezenierstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058066023,
-    "wof:lastmodified":1473508156,
+    "wof:lastmodified":1473721785,
     "wof:name":"Studio 42",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

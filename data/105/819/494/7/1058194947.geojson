@@ -2,6 +2,10 @@
   "id": 1058194947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place Sylvain Dupuis 5 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"5;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Place Sylvain Dupuis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058194947,
-    "wof:lastmodified":1473513991,
+    "wof:lastmodified":1473721369,
     "wof:name":"La Galerie Du Son Sprl",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

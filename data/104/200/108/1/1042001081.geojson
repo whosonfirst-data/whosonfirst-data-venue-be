@@ -2,6 +2,10 @@
   "id": 1042001081,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Rue De Wand 1020 Bruxelles 95",
+    "addr:housenumber":"95",
+    "addr:postcode":"1020;95",
+    "addr:street":"Rue De Wand",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042001081,
-    "wof:lastmodified":1473492352,
+    "wof:lastmodified":1473719792,
     "wof:name":"Restaurant Soave",
     "wof:parent_id":85801201,
     "wof:placetype":"venue",

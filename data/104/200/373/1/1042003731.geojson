@@ -2,6 +2,10 @@
   "id": 1042003731,
   "type": "Feature",
   "properties": {
+    "addr:full":"Michel Van Hammestraat 132 Brugge West-Vlaanderen 8310",
+    "addr:housenumber":"132",
+    "addr:postcode":"8310",
+    "addr:street":"Michel Van Hammestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042003731,
-    "wof:lastmodified":1473492445,
+    "wof:lastmodified":1473721039,
     "wof:name":"Arnold Dreesen",
     "wof:parent_id":85800777,
     "wof:placetype":"venue",

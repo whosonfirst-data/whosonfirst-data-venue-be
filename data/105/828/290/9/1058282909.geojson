@@ -2,6 +2,10 @@
   "id": 1058282909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Livingstone 26 Box 3 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"26;3",
+    "addr:postcode":"1000",
+    "addr:street":"Avenue Livingstone;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058282909,
-    "wof:lastmodified":1473517826,
+    "wof:lastmodified":1473720708,
     "wof:name":"Iab Europe",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

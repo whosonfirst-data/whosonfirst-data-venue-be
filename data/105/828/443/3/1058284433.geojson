@@ -2,6 +2,10 @@
   "id": 1058284433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Lambermont 24 Box 7 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"24;7",
+    "addr:postcode":"1030",
+    "addr:street":"Boulevard Lambermont;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058284433,
-    "wof:lastmodified":1473517893,
+    "wof:lastmodified":1473721286,
     "wof:name":"Mbnet-belgium.com",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041843579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lange Violettestraat 172 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"172",
+    "addr:postcode":"9000",
+    "addr:street":"Lange Violettestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041843579,
-    "wof:lastmodified":1473485531,
+    "wof:lastmodified":1473720922,
     "wof:name":"Van Steenkiste Bvba",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

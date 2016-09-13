@@ -2,6 +2,10 @@
   "id": 1058799963,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-margrietstraat 31 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"31",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Margrietstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058799963,
-    "wof:lastmodified":1473541563,
+    "wof:lastmodified":1473722902,
     "wof:name":"C De Reuck",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

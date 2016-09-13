@@ -2,6 +2,10 @@
   "id": 1058676253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Drabstraat 30 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"30",
+    "addr:postcode":"9000",
+    "addr:street":"Drabstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058676253,
-    "wof:lastmodified":1473536114,
+    "wof:lastmodified":1473721803,
     "wof:name":"Restaurant 't Marmietje",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

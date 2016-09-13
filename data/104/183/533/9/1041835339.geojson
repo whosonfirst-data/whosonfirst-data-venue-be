@@ -2,6 +2,10 @@
   "id": 1041835339,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Tervueren 192 Box 6 Bruxelles (woluwe-saint-pierre) Bruxelles-Capitale 1150",
+    "addr:housenumber":"192;6",
+    "addr:postcode":"1150",
+    "addr:street":"Avenue De Tervueren;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041835339,
-    "wof:lastmodified":1473485171,
+    "wof:lastmodified":1473721562,
     "wof:name":"Bessiere J",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058062961,
   "type": "Feature",
   "properties": {
+    "addr:full":"Osystraat 41 Box 2 Antwerpen Antwerpen 2060",
+    "addr:housenumber":"41;2",
+    "addr:postcode":"2060",
+    "addr:street":"Osystraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058062961,
-    "wof:lastmodified":1473508049,
+    "wof:lastmodified":1473720779,
     "wof:name":"Belmarag Bvba",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

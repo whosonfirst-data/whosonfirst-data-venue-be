@@ -2,6 +2,10 @@
   "id": 1058791377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Paalstraat 3 Box 2 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"3;2",
+    "addr:postcode":"8000",
+    "addr:street":"Paalstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058791377,
-    "wof:lastmodified":1473541141,
+    "wof:lastmodified":1473719899,
     "wof:name":"Dercon Bvba",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",

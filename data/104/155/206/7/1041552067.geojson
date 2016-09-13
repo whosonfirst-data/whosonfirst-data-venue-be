@@ -2,6 +2,10 @@
   "id": 1041552067,
   "type": "Feature",
   "properties": {
+    "addr:full":"Uitbreidingstraat 180 Postbus 6 Berchem Antwerpen 2600",
+    "addr:housenumber":"180;6",
+    "addr:postcode":"2600",
+    "addr:street":"Uitbreidingstraat;Postbus;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041552067,
-    "wof:lastmodified":1473473270,
+    "wof:lastmodified":1473720284,
     "wof:name":"Bank Of America, N.a.",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042088925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Joseph Desmet 111 Rixensart Brabant Wallon 1332",
+    "addr:housenumber":"111",
+    "addr:postcode":"1332",
+    "addr:street":"Rue Joseph Desmet;Wallon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1042088925,
-    "wof:lastmodified":1473495907,
+    "wof:lastmodified":1473722632,
     "wof:name":"R.c.s. De Genval",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

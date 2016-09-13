@@ -2,6 +2,10 @@
   "id": 1042123583,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Stevin 8b43 Brussel/bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"8b43",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Stevin;/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042123583,
-    "wof:lastmodified":1473497586,
+    "wof:lastmodified":1473720933,
     "wof:name":"Additional Input Service",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

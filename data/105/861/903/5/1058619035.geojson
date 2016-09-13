@@ -2,6 +2,10 @@
   "id": 1058619035,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Montoyer 24 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"24;1",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Montoyer;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058619035,
-    "wof:lastmodified":1473533532,
+    "wof:lastmodified":1473722709,
     "wof:name":"Febeltex",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

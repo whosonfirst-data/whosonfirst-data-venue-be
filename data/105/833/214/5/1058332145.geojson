@@ -2,6 +2,10 @@
   "id": 1058332145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 391 Box 1 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"391;1",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058332145,
-    "wof:lastmodified":1473520098,
+    "wof:lastmodified":1473720285,
     "wof:name":"Masons",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

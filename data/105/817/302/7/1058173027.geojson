@@ -2,6 +2,10 @@
   "id": 1058173027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De L'harmonie 28 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"28;4",
+    "addr:postcode":"1000",
+    "addr:street":"Rue De L'Harmonie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058173027,
-    "wof:lastmodified":1473513027,
+    "wof:lastmodified":1473719974,
     "wof:name":"Mansour Georges",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

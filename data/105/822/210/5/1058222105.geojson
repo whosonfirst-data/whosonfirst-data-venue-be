@@ -2,6 +2,10 @@
   "id": 1058222105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place Jean Jacobs 13 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"13",
+    "addr:postcode":"1000",
+    "addr:street":"Place Jean Jacobs",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058222105,
-    "wof:lastmodified":1473515175,
+    "wof:lastmodified":1473720295,
     "wof:name":"M.wa.m",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

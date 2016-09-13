@@ -2,6 +2,10 @@
   "id": 1058393919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard E. Bockstael 262 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"262",
+    "addr:postcode":"1020",
+    "addr:street":"Boulevard;Bockstael",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058393919,
-    "wof:lastmodified":1473522957,
+    "wof:lastmodified":1473721228,
     "wof:name":"Planet Telecom",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",

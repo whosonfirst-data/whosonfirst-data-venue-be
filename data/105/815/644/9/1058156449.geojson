@@ -2,6 +2,10 @@
   "id": 1058156449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Groenstraat 70 Box 1 Zaventem Vlaams-Brabant 1930",
+    "addr:housenumber":"70;1",
+    "addr:postcode":"1930",
+    "addr:street":"Groenstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058156449,
-    "wof:lastmodified":1473512286,
+    "wof:lastmodified":1473721867,
     "wof:name":"Bruynbroeck Bart",
     "wof:parent_id":85801287,
     "wof:placetype":"venue",

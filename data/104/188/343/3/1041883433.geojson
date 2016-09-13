@@ -2,6 +2,10 @@
   "id": 1041883433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Charles Andrieslaan 11 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"11",
+    "addr:postcode":"9000",
+    "addr:street":"Charles Andrieslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041883433,
-    "wof:lastmodified":1473487225,
+    "wof:lastmodified":1473720933,
     "wof:name":"Pan-d'ora (bakkerij)",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

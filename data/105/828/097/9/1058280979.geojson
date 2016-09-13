@@ -2,6 +2,10 @@
   "id": 1058280979,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Maurice Lemonnier 64 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"64",
+    "addr:postcode":"1000",
+    "addr:street":"Boulevard Maurice Lemonnier",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058280979,
-    "wof:lastmodified":1473517734,
+    "wof:lastmodified":1473719705,
     "wof:name":"Ferret B",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

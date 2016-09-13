@@ -2,6 +2,10 @@
   "id": 1058401023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Natalis 47b Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"47b;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Natalis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058401023,
-    "wof:lastmodified":1473523286,
+    "wof:lastmodified":1473719715,
     "wof:name":"Solidarite Et Sante Asbl",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

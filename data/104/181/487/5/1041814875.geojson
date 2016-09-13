@@ -2,6 +2,10 @@
   "id": 1041814875,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-annaplein 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Annaplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041814875,
-    "wof:lastmodified":1473484299,
+    "wof:lastmodified":1473721466,
     "wof:name":"Luc Van Houtte",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

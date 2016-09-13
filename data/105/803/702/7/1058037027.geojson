@@ -2,6 +2,10 @@
   "id": 1058037027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gandastraat 53 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"53",
+    "addr:postcode":"9000",
+    "addr:street":"Gandastraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058037027,
-    "wof:lastmodified":1473506975,
+    "wof:lastmodified":1473722069,
     "wof:name":"Magnus Bvba",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

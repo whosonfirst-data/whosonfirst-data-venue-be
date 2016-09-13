@@ -2,6 +2,10 @@
   "id": 1041669883,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stationstraat 30 Kortenberg Vlaams-Brabant 3070",
+    "addr:housenumber":"30",
+    "addr:postcode":"3070",
+    "addr:street":"Stationstraat;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041669883,
-    "wof:lastmodified":1473478148,
+    "wof:lastmodified":1473722925,
     "wof:name":"Taxi Van Opstal",
     "wof:parent_id":85801697,
     "wof:placetype":"venue",

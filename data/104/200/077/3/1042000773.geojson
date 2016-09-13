@@ -2,6 +2,10 @@
   "id": 1042000773,
   "type": "Feature",
   "properties": {
+    "addr:full":"87 Rue Joseph Stallaert 1180 Uccle 87",
+    "addr:housenumber":"87;87",
+    "addr:postcode":"1180",
+    "addr:street":"Rue Joseph Stallaert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000773,
-    "wof:lastmodified":1473492341,
+    "wof:lastmodified":1473719646,
     "wof:name":"La Maconnaise Sprl",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058576551,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Avrijestraat 31 Evergem Oost-Vlaanderen 9940",
+    "addr:housenumber":"31",
+    "addr:postcode":"9940",
+    "addr:street":"Hoge Avrijestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058576551,
-    "wof:lastmodified":1473531594,
+    "wof:lastmodified":1473721863,
     "wof:name":"Busschaert",
     "wof:parent_id":85862069,
     "wof:placetype":"venue",

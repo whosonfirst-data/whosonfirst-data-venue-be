@@ -2,6 +2,10 @@
   "id": 1042001355,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 H. Torleylaan 1654 Beersel Huizingen 100",
+    "addr:housenumber":"100",
+    "addr:postcode":"1654;100",
+    "addr:street":"H. Torleylaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042001355,
-    "wof:lastmodified":1473492362,
+    "wof:lastmodified":1473719912,
     "wof:name":"Het Kasteel Van Huizingen Nv",
     "wof:parent_id":85802037,
     "wof:placetype":"venue",

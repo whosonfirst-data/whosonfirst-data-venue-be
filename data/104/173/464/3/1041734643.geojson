@@ -2,6 +2,10 @@
   "id": 1041734643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 120 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"120",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041734643,
-    "wof:lastmodified":1473480644,
+    "wof:lastmodified":1473721355,
     "wof:name":"Immoboss",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

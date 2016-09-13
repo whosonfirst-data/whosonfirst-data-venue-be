@@ -2,6 +2,10 @@
   "id": 1058273479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Van Rijswijcklaan 217 Box 5 Antwerpen Antwerpen 2020",
+    "addr:housenumber":"217;5",
+    "addr:postcode":"2020",
+    "addr:street":"Jan Van Rijswijcklaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058273479,
-    "wof:lastmodified":1473517411,
+    "wof:lastmodified":1473720913,
     "wof:name":"Menelascom",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042115977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bernard Spaelaan 125 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"125",
+    "addr:postcode":"9000",
+    "addr:street":"Bernard Spaelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042115977,
-    "wof:lastmodified":1473497166,
+    "wof:lastmodified":1473721760,
     "wof:name":"Libert C",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

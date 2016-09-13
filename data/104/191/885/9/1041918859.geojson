@@ -2,6 +2,10 @@
   "id": 1041918859,
   "type": "Feature",
   "properties": {
+    "addr:full":"Begijnhoflaan 406 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"406",
+    "addr:postcode":"9000",
+    "addr:street":"Begijnhoflaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041918859,
-    "wof:lastmodified":1473488681,
+    "wof:lastmodified":1473722681,
     "wof:name":"Tonnard L",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

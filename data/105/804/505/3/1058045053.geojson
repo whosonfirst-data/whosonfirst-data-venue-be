@@ -2,6 +2,10 @@
   "id": 1058045053,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kapucijnenvoer 50 Box 401 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"50;401",
+    "addr:postcode":"3000",
+    "addr:street":"Kapucijnenvoer;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1058045053,
-    "wof:lastmodified":1473507311,
+    "wof:lastmodified":1473721491,
     "wof:name":"Wellfit",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041878321,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kuitenbergstraat 120 Evergem Oost-Vlaanderen 9940",
+    "addr:housenumber":"120",
+    "addr:postcode":"9940",
+    "addr:street":"Kuitenbergstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041878321,
-    "wof:lastmodified":1473487000,
+    "wof:lastmodified":1473722361,
     "wof:name":"Bak-mat Import",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",

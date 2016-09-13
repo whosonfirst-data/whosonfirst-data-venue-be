@@ -2,6 +2,10 @@
   "id": 1058979611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sportstraat 155 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"155",
+    "addr:postcode":"9000",
+    "addr:street":"Sportstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058979611,
-    "wof:lastmodified":1473549625,
+    "wof:lastmodified":1473722319,
     "wof:name":"Etienne Henderick",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

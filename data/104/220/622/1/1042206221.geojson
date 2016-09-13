@@ -2,6 +2,10 @@
   "id": 1042206221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Adolphe Willemyns 160 Box 6 Bruxelles (anderlecht) Bruxelles-Capitale 1070",
+    "addr:housenumber":"160;6",
+    "addr:postcode":"1070",
+    "addr:street":"Rue Adolphe Willemyns;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042206221,
-    "wof:lastmodified":1473502264,
+    "wof:lastmodified":1473721823,
     "wof:name":"Herinckx Electra Nv",
     "wof:parent_id":85800971,
     "wof:placetype":"venue",

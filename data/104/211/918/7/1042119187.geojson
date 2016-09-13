@@ -2,6 +2,10 @@
   "id": 1042119187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 265 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"265",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042119187,
-    "wof:lastmodified":1473497355,
+    "wof:lastmodified":1473722760,
     "wof:name":"Bricscad Nv",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

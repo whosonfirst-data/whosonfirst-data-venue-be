@@ -2,6 +2,10 @@
   "id": 1058195009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lostraat 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Lostraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1058195009,
-    "wof:lastmodified":1473513993,
+    "wof:lastmodified":1473721383,
     "wof:name":"Sony Center Gent Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

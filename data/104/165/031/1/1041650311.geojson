@@ -2,6 +2,10 @@
   "id": 1041650311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Leeuwstraat 3t Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"3t",
+    "addr:postcode":"9000",
+    "addr:street":"Leeuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041650311,
-    "wof:lastmodified":1473477356,
+    "wof:lastmodified":1473719360,
     "wof:name":"Degroote Roos",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

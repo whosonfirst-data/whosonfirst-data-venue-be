@@ -2,6 +2,10 @@
   "id": 1058135367,
   "type": "Feature",
   "properties": {
+    "addr:full":"Geldmunt 42 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Geldmunt;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058135367,
-    "wof:lastmodified":1473511253,
+    "wof:lastmodified":1473721576,
     "wof:name":"Van Durme W",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

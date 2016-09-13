@@ -2,6 +2,10 @@
   "id": 1058513021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Edouard Remouchamps 3 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"3;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Edouard Remouchamps",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058513021,
-    "wof:lastmodified":1473528687,
+    "wof:lastmodified":1473720784,
     "wof:name":"Inter Decor",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

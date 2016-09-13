@@ -2,6 +2,10 @@
   "id": 1058456857,
   "type": "Feature",
   "properties": {
+    "addr:full":"Coupure 234 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"234",
+    "addr:postcode":"9000",
+    "addr:street":"Coupure;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058456857,
-    "wof:lastmodified":1473526033,
+    "wof:lastmodified":1473721926,
     "wof:name":"Yang",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

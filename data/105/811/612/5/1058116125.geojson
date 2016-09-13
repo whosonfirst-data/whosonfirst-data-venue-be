@@ -2,6 +2,10 @@
   "id": 1058116125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hector Van Wittenberghestraat 12 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Hector Van Wittenberghestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058116125,
-    "wof:lastmodified":1473510266,
+    "wof:lastmodified":1473721702,
     "wof:name":"Bauwens S",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

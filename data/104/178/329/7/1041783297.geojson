@@ -2,6 +2,10 @@
   "id": 1041783297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pourbusstraat 3 Box 6 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"3;6",
+    "addr:postcode":"2000",
+    "addr:street":"Pourbusstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041783297,
-    "wof:lastmodified":1473483041,
+    "wof:lastmodified":1473720900,
     "wof:name":"Vaes B",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

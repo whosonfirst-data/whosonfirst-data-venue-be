@@ -2,6 +2,10 @@
   "id": 1041783657,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jakob Jordaensstraat 19 Box 2 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"19;2",
+    "addr:postcode":"9000",
+    "addr:street":"Jakob Jordaensstraat;Box;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041783657,
-    "wof:lastmodified":1473483052,
+    "wof:lastmodified":1473720993,
     "wof:name":"Van Den Daele T",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058841213,
   "type": "Feature",
   "properties": {
+    "addr:full":"Antwerpsesteenweg 123 Kontich Antwerpen 2550",
+    "addr:housenumber":"123",
+    "addr:postcode":"2550",
+    "addr:street":"Antwerpsesteenweg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1058841213,
-    "wof:lastmodified":1473543366,
+    "wof:lastmodified":1473719835,
     "wof:name":"Aldi",
     "wof:parent_id":85800891,
     "wof:placetype":"venue",

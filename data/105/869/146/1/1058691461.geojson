@@ -2,6 +2,10 @@
   "id": 1058691461,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-lievenspoortstraat 59 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"59",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Lievenspoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058691461,
-    "wof:lastmodified":1473536756,
+    "wof:lastmodified":1473719964,
     "wof:name":"Durmiline",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

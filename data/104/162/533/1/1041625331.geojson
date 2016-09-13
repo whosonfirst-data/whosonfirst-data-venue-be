@@ -2,6 +2,10 @@
   "id": 1041625331,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard De Smet De Naeyer 2 Box 3 Bruxelles (jette) Bruxelles-Capitale 1090",
+    "addr:housenumber":"2;3",
+    "addr:postcode":"1090",
+    "addr:street":"Boulevard De Smet De Naeyer;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041625331,
-    "wof:lastmodified":1473476322,
+    "wof:lastmodified":1473721546,
     "wof:name":"Van Aelst Victor",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",

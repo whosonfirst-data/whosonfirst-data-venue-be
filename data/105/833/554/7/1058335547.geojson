@@ -2,6 +2,10 @@
   "id": 1058335547,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mechelsesteenweg 12 Box 8 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"12;8",
+    "addr:postcode":"2000",
+    "addr:street":"Mechelsesteenweg;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058335547,
-    "wof:lastmodified":1473520273,
+    "wof:lastmodified":1473721642,
     "wof:name":"Collin Ann",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

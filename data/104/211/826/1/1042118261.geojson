@@ -2,6 +2,10 @@
   "id": 1042118261,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Bruno 172 Box 1 Seraing Li\u00e8ge 4100",
+    "addr:housenumber":"172;1",
+    "addr:postcode":"4100",
+    "addr:street":"Rue Bruno;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042118261,
-    "wof:lastmodified":1473497283,
+    "wof:lastmodified":1473722473,
     "wof:name":"Vandeneede M",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",

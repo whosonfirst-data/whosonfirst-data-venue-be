@@ -2,6 +2,10 @@
   "id": 1058831977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Colonies 56 Box 15 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"56 box 15",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Colonies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058831977,
-    "wof:lastmodified":1473542936,
+    "wof:lastmodified":1473720253,
     "wof:name":"Nasdaq Europe",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

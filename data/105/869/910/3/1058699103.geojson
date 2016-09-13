@@ -2,6 +2,10 @@
   "id": 1058699103,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 Vosseschijnstraat Haven 182 2030 Antwerpen 59",
+    "addr:housenumber":"59;182;59",
+    "addr:postcode":"2030",
+    "addr:street":"Vosseschijnstraat Haven;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058699103,
-    "wof:lastmodified":1473537077,
+    "wof:lastmodified":1473722640,
     "wof:name":"Northern Manuport Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

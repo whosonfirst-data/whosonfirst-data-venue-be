@@ -2,6 +2,10 @@
   "id": 1041667777,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoogstraat 72ba Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"72ba",
+    "addr:postcode":"9000",
+    "addr:street":"Hoogstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041667777,
-    "wof:lastmodified":1473478041,
+    "wof:lastmodified":1473722353,
     "wof:name":"Fabian Van Der Meersche",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

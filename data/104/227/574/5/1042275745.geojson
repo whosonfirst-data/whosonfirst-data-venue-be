@@ -2,6 +2,10 @@
   "id": 1042275745,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Avenue De Broqueville 1150 Woluwe St Pierre 12",
+    "addr:housenumber":"12;12",
+    "addr:postcode":"1150",
+    "addr:street":"Avenue De Broqueville;Woluwe St Pierre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1042275745,
-    "wof:lastmodified":1473505479,
+    "wof:lastmodified":1473721637,
     "wof:name":"Bruxelles-recyclage Sa",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",

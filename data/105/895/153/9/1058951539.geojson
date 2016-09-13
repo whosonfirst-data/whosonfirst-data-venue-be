@@ -2,6 +2,10 @@
   "id": 1058951539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 25 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058951539,
-    "wof:lastmodified":1473548355,
+    "wof:lastmodified":1473720020,
     "wof:name":"Paul Panis",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

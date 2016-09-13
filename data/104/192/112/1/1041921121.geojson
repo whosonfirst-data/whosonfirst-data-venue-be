@@ -2,6 +2,10 @@
   "id": 1041921121,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tolhuislaan 172-183 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"172-183",
+    "addr:postcode":"9000",
+    "addr:street":"Tolhuislaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041921121,
-    "wof:lastmodified":1473488774,
+    "wof:lastmodified":1473719733,
     "wof:name":"1000 Matrassen",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

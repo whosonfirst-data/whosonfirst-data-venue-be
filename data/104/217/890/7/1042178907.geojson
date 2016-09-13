@@ -2,6 +2,10 @@
   "id": 1042178907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Martelaarslaan 345 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"345",
+    "addr:postcode":"9000",
+    "addr:street":"Martelaarslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1042178907,
-    "wof:lastmodified":1473500666,
+    "wof:lastmodified":1473722615,
     "wof:name":"Van Cauwenberge G",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

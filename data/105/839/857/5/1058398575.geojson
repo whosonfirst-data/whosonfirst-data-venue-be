@@ -2,6 +2,10 @@
   "id": 1058398575,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Nieuwdreef 2170 Antwerpen 78",
+    "addr:housenumber":"78;78",
+    "addr:postcode":"2170",
+    "addr:street":"Nieuwdreef;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058398575,
-    "wof:lastmodified":1473523153,
+    "wof:lastmodified":1473722533,
     "wof:name":"Centrale Verwarming Raets Bvba",
     "wof:parent_id":85801615,
     "wof:placetype":"venue",

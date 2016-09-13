@@ -2,6 +2,10 @@
   "id": 1042069099,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Place Dumon 1150 Woluwe St Pierre 8",
+    "addr:housenumber":"8;8",
+    "addr:postcode":"1150",
+    "addr:street":"Place Dumon;Woluwe St Pierre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042069099,
-    "wof:lastmodified":1473495039,
+    "wof:lastmodified":1473722677,
     "wof:name":"Jalutex Sa",
     "wof:parent_id":85801937,
     "wof:placetype":"venue",

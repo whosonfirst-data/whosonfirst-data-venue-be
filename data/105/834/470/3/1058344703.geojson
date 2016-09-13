@@ -2,6 +2,10 @@
   "id": 1058344703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Cortenbergh 118 Box 2 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"118;2",
+    "addr:postcode":"1000",
+    "addr:street":"Avenue De Cortenbergh;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058344703,
-    "wof:lastmodified":1473520698,
+    "wof:lastmodified":1473721375,
     "wof:name":"Niemeyer Hans-j\u00f6rg",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

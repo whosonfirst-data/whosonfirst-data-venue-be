@@ -2,6 +2,10 @@
   "id": 1058641139,
   "type": "Feature",
   "properties": {
+    "addr:full":"Motorstraat 117 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"117",
+    "addr:postcode":"9000",
+    "addr:street":"Motorstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058641139,
-    "wof:lastmodified":1473534546,
+    "wof:lastmodified":1473719760,
     "wof:name":"Zeveneken",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

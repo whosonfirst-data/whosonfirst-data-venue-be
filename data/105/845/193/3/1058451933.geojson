@@ -2,6 +2,10 @@
   "id": 1058451933,
   "type": "Feature",
   "properties": {
+    "addr:full":"Charles De Kerchovelaan 367 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"367",
+    "addr:postcode":"9000",
+    "addr:street":"Charles De Kerchovelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058451933,
-    "wof:lastmodified":1473525783,
+    "wof:lastmodified":1473720212,
     "wof:name":"Wilfried Vermout",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

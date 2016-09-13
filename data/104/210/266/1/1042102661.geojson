@@ -2,6 +2,10 @@
   "id": 1042102661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Monterreystraat 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Monterreystraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042102661,
-    "wof:lastmodified":1473496507,
+    "wof:lastmodified":1473720448,
     "wof:name":"Gielen Service",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

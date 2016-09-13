@@ -2,6 +2,10 @@
   "id": 1058041291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Van Eyck 46 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"46",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Van Eyck",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058041291,
-    "wof:lastmodified":1473507158,
+    "wof:lastmodified":1473719885,
     "wof:name":"Security House Sa",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

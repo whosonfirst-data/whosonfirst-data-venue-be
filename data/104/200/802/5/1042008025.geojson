@@ -2,6 +2,10 @@
   "id": 1042008025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sleepstraat 210 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"210",
+    "addr:postcode":"9000",
+    "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042008025,
-    "wof:lastmodified":1473492613,
+    "wof:lastmodified":1473722307,
     "wof:name":"Caf\u00c9 De Toren",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

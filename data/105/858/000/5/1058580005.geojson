@@ -2,6 +2,10 @@
   "id": 1058580005,
   "type": "Feature",
   "properties": {
+    "addr:full":"Krijgslaan 275 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"275",
+    "addr:postcode":"9000",
+    "addr:street":"Krijgslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058580005,
-    "wof:lastmodified":1473531777,
+    "wof:lastmodified":1473718870,
     "wof:name":"Paul De Vos",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

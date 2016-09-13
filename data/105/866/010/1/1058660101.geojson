@@ -2,6 +2,10 @@
   "id": 1058660101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Georges-truffaut 42 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"42;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Avenue Georges-Truffaut",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1058660101,
-    "wof:lastmodified":1473535428,
+    "wof:lastmodified":1473718908,
     "wof:name":"Thys",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",

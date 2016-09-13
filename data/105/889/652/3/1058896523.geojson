@@ -2,6 +2,10 @@
   "id": 1058896523,
   "type": "Feature",
   "properties": {
+    "addr:full":"Haven 1111 Steenlandln 3 Kallo Oost-Vlaanderen 9130",
+    "addr:housenumber":"1111;3",
+    "addr:postcode":"9130",
+    "addr:street":"Haven;Steenlandln;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058896523,
-    "wof:lastmodified":1473545760,
+    "wof:lastmodified":1473721880,
     "wof:name":"Adpo Nv",
     "wof:parent_id":85801609,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058662203,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagattenstraat 47-49 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"47-49",
+    "addr:postcode":"9000",
+    "addr:street":"Bagattenstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058662203,
-    "wof:lastmodified":1473535516,
+    "wof:lastmodified":1473720245,
     "wof:name":"Rozendael Service Residentie",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

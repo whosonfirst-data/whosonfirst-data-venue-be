@@ -2,6 +2,10 @@
   "id": 1058407217,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Bus 1 Gramayestraat Antwerpen Antwerpen 2000",
+    "addr:housenumber":"4;1",
+    "addr:postcode":"2000",
+    "addr:street":"Bus;Gramayestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058407217,
-    "wof:lastmodified":1473523560,
+    "wof:lastmodified":1473722018,
     "wof:name":"Promafercom",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041698009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 475 Box 6 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"475;6",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041698009,
-    "wof:lastmodified":1473479205,
+    "wof:lastmodified":1473722330,
     "wof:name":"Dentsu Europe",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

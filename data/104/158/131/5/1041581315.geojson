@@ -2,6 +2,10 @@
   "id": 1041581315,
   "type": "Feature",
   "properties": {
+    "addr:full":"August Vermeylenlaan 15 Box 5 Antwerpen Antwerpen 2050",
+    "addr:housenumber":"15;5",
+    "addr:postcode":"2050",
+    "addr:street":"August Vermeylenlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041581315,
-    "wof:lastmodified":1473474505,
+    "wof:lastmodified":1473719835,
     "wof:name":"Bijl Elektro",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

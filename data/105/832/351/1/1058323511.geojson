@@ -2,6 +2,10 @@
   "id": 1058323511,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 137 Box 6 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"137;6",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058323511,
-    "wof:lastmodified":1473519676,
+    "wof:lastmodified":1473720871,
     "wof:name":"Celsis",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

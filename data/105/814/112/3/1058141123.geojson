@@ -2,6 +2,10 @@
   "id": 1058141123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Stevin 119 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"119",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Stevin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058141123,
-    "wof:lastmodified":1473511524,
+    "wof:lastmodified":1473719802,
     "wof:name":"Herminio",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

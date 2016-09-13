@@ -2,6 +2,10 @@
   "id": 1058149591,
   "type": "Feature",
   "properties": {
+    "addr:full":"Motorstraat 115 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"115",
+    "addr:postcode":"9000",
+    "addr:street":"Motorstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058149591,
-    "wof:lastmodified":1473511977,
+    "wof:lastmodified":1473722826,
     "wof:name":"De Lage Vuurse",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

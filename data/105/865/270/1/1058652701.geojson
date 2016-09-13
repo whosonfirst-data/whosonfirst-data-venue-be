@@ -2,6 +2,10 @@
   "id": 1058652701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Emile Claus 15 Box 6 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"15;6",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Emile Claus;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058652701,
-    "wof:lastmodified":1473535076,
+    "wof:lastmodified":1473720460,
     "wof:name":"Ramcash Sprl",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

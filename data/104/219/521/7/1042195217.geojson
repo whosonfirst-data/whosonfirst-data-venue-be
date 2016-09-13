@@ -2,6 +2,10 @@
   "id": 1042195217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Victor Braeckmanlaan 107 Gent Oost-Vlaanderen 9040",
+    "addr:housenumber":"107",
+    "addr:postcode":"9040",
+    "addr:street":"Victor Braeckmanlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042195217,
-    "wof:lastmodified":1473501645,
+    "wof:lastmodified":1473721442,
     "wof:name":"Meeting Media Plus",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

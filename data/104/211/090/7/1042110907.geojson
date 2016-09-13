@@ -2,6 +2,10 @@
   "id": 1042110907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lucas De Heerestraat 25 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Lucas De Heerestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042110907,
-    "wof:lastmodified":1473496893,
+    "wof:lastmodified":1473719708,
     "wof:name":"Tormenta",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

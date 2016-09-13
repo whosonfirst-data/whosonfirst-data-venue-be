@@ -2,6 +2,10 @@
   "id": 1058153023,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Veltwijcklaan 2180 Antwerpen 76",
+    "addr:housenumber":"76;76",
+    "addr:postcode":"2180",
+    "addr:street":"Veltwijcklaan;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058153023,
-    "wof:lastmodified":1473512136,
+    "wof:lastmodified":1473720722,
     "wof:name":"Antwerps Dentaal Labo Bvba",
     "wof:parent_id":85801969,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058825731,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du March\u00e9 Aux Herbes 105 Box 5 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"105;5",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Marche\u0301 Aux Herbes;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058825731,
-    "wof:lastmodified":1473542683,
+    "wof:lastmodified":1473721663,
     "wof:name":"Rapsodie",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

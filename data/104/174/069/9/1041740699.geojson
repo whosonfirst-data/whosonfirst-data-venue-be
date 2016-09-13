@@ -2,6 +2,10 @@
   "id": 1041740699,
   "type": "Feature",
   "properties": {
+    "addr:full":"Groendreef 221 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"221",
+    "addr:postcode":"9000",
+    "addr:street":"Groendreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041740699,
-    "wof:lastmodified":1473480960,
+    "wof:lastmodified":1473719555,
     "wof:name":"Zona Verde",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",

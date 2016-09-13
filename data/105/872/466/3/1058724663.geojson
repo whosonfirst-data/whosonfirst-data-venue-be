@@ -2,6 +2,10 @@
   "id": 1058724663,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stropstraat 143 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"143",
+    "addr:postcode":"9000",
+    "addr:street":"Stropstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058724663,
-    "wof:lastmodified":1473538212,
+    "wof:lastmodified":1473721391,
     "wof:name":"Orbegit",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

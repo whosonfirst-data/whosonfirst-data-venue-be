@@ -2,6 +2,10 @@
   "id": 1042123169,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Palais 44 Box 1 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"44;1",
+    "addr:postcode":"1030",
+    "addr:street":"Rue Des Palais;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042123169,
-    "wof:lastmodified":1473497560,
+    "wof:lastmodified":1473720822,
     "wof:name":"M-brussels Village",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

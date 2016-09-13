@@ -2,6 +2,10 @@
   "id": 1058657037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Louis Smits 75 Etterbeek Bruxelles-Capitale 1040",
+    "addr:housenumber":"75",
+    "addr:postcode":"1040",
+    "addr:street":"Boulevard Louis Smits",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058657037,
-    "wof:lastmodified":1473535272,
+    "wof:lastmodified":1473721892,
     "wof:name":"Belgian Air Travel",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041555947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koopvaardijlaan 180-182 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"180-182",
+    "addr:postcode":"9000",
+    "addr:street":"Koopvaardijlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041555947,
-    "wof:lastmodified":1473473440,
+    "wof:lastmodified":1473721672,
     "wof:name":"Moreels Nv",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

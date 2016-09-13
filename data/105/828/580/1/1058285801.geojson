@@ -2,6 +2,10 @@
   "id": 1058285801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Esmoreitlaan 1 Box 4 Antwerpen Antwerpen 2050",
+    "addr:housenumber":"1;4",
+    "addr:postcode":"2050",
+    "addr:street":"Esmoreitlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058285801,
-    "wof:lastmodified":1473517954,
+    "wof:lastmodified":1473721727,
     "wof:name":"Ivepa Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

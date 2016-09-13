@@ -2,6 +2,10 @@
   "id": 1042000759,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Rue Des Bouchers 1000 Bruxelles 31",
+    "addr:housenumber":"31",
+    "addr:postcode":"1000;31",
+    "addr:street":"Rue Des Bouchers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000759,
-    "wof:lastmodified":1473492341,
+    "wof:lastmodified":1473719639,
     "wof:name":"L'arlequin Sc",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

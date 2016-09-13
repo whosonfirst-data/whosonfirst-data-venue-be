@@ -2,6 +2,10 @@
   "id": 1058504665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bernadettestraat 50 Gent Oost-Vlaanderen 9040",
+    "addr:housenumber":"50",
+    "addr:postcode":"9040",
+    "addr:street":"Sint-Bernadettestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058504665,
-    "wof:lastmodified":1473528302,
+    "wof:lastmodified":1473721308,
     "wof:name":"D. De Ruyver",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

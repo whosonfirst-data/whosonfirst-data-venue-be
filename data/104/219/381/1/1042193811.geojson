@@ -2,6 +2,10 @@
   "id": 1042193811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Industrieweg 226 Gent Oost-Vlaanderen 9030",
+    "addr:housenumber":"226",
+    "addr:postcode":"9030",
+    "addr:street":"Industrieweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042193811,
-    "wof:lastmodified":1473501567,
+    "wof:lastmodified":1473720925,
     "wof:name":"Grafiek",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",

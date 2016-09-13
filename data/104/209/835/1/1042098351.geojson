@@ -2,6 +2,10 @@
   "id": 1042098351,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Midi 162 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"162;4",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Midi;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042098351,
-    "wof:lastmodified":1473496313,
+    "wof:lastmodified":1473722507,
     "wof:name":"Fondation Joseph Jacquemotte Asbl",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

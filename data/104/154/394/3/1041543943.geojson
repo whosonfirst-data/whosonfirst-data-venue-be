@@ -2,6 +2,10 @@
   "id": 1041543943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge-aardstraat 26 Antwerpen Antwerpen 2610",
+    "addr:housenumber":"26",
+    "addr:postcode":"2610",
+    "addr:street":"Hoge-Aardstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041543943,
-    "wof:lastmodified":1473472956,
+    "wof:lastmodified":1473721004,
     "wof:name":"Didier Coens",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",

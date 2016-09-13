@@ -2,6 +2,10 @@
   "id": 1058650723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 203 Box 4 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"203;4",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058650723,
-    "wof:lastmodified":1473534986,
+    "wof:lastmodified":1473719561,
     "wof:name":"Imbelco Sa",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

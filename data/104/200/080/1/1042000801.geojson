@@ -2,6 +2,10 @@
   "id": 1042000801,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Grote Markt 2000 Antwerpen 23",
+    "addr:housenumber":"23;23",
+    "addr:postcode":"2000",
+    "addr:street":"Grote Markt;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000801,
-    "wof:lastmodified":1473492342,
+    "wof:lastmodified":1473719664,
     "wof:name":"Las Tapas Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

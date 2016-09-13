@@ -2,6 +2,10 @@
   "id": 1058016241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Willem Van Nassaustraat 43 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"43",
+    "addr:postcode":"9000",
+    "addr:street":"Willem Van Nassaustraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058016241,
-    "wof:lastmodified":1473506050,
+    "wof:lastmodified":1473720766,
     "wof:name":"Michel Blanckaert",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

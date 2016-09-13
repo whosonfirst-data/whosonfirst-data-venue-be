@@ -2,6 +2,10 @@
   "id": 1058455507,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tentoonstellingslaan 121 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"121",
+    "addr:postcode":"9000",
+    "addr:street":"Tentoonstellingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058455507,
-    "wof:lastmodified":1473525970,
+    "wof:lastmodified":1473721569,
     "wof:name":"News Shop",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

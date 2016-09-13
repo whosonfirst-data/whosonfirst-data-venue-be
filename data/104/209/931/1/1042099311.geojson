@@ -2,6 +2,10 @@
   "id": 1042099311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 19 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"19",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042099311,
-    "wof:lastmodified":1473496360,
+    "wof:lastmodified":1473722819,
     "wof:name":"Authentiek",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

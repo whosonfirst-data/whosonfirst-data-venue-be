@@ -2,6 +2,10 @@
   "id": 1041773521,
   "type": "Feature",
   "properties": {
+    "addr:full":"Molenaarsstraat 111 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"111",
+    "addr:postcode":"9000",
+    "addr:street":"Molenaarsstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041773521,
-    "wof:lastmodified":1473482676,
+    "wof:lastmodified":1473720950,
     "wof:name":"Coussee & Goris Architecten",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

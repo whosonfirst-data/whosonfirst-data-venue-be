@@ -2,6 +2,10 @@
   "id": 1058787325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Vennes 50 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"50;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Des Vennes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058787325,
-    "wof:lastmodified":1473540974,
+    "wof:lastmodified":1473722161,
     "wof:name":"Grand Cerf (le)",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

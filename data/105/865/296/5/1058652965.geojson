@@ -2,6 +2,10 @@
   "id": 1058652965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De L'observatoire 112 Box 5 Bruxelles (uccle) Bruxelles-Capitale 1180",
+    "addr:housenumber":"112;5",
+    "addr:postcode":"1180",
+    "addr:street":"Avenue De L'Observatoire;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058652965,
-    "wof:lastmodified":1473535090,
+    "wof:lastmodified":1473720679,
     "wof:name":"Simetra Sprl",
     "wof:parent_id":85801553,
     "wof:placetype":"venue",

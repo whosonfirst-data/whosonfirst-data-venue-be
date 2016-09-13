@@ -2,6 +2,10 @@
   "id": 1058662705,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Basse-wez 301 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"301;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Basse-Wez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058662705,
-    "wof:lastmodified":1473535534,
+    "wof:lastmodified":1473720657,
     "wof:name":"Valdor (le)",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

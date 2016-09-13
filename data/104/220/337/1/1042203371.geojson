@@ -2,6 +2,10 @@
   "id": 1042203371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Noyer 175 Box 2 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"175;2",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Noyer;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1042203371,
-    "wof:lastmodified":1473502142,
+    "wof:lastmodified":1473720903,
     "wof:name":"Swille Ph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

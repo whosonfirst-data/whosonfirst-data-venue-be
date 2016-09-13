@@ -2,6 +2,10 @@
   "id": 1041781501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Des Croix De Guerre 361 Box 4 Bruxelles Bruxelles-Capitale 1120",
+    "addr:housenumber":"361;4",
+    "addr:postcode":"1120",
+    "addr:street":"Avenue Des Croix De Guerre;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041781501,
-    "wof:lastmodified":1473482976,
+    "wof:lastmodified":1473719972,
     "wof:name":"Raes S",
     "wof:parent_id":85801673,
     "wof:placetype":"venue",

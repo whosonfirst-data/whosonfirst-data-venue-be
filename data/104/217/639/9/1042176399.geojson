@@ -2,6 +2,10 @@
   "id": 1042176399,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bernadettestraat 108 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"108",
+    "addr:postcode":"9000",
+    "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042176399,
-    "wof:lastmodified":1473500517,
+    "wof:lastmodified":1473721820,
     "wof:name":"Aldrank",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

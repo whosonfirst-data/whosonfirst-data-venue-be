@@ -2,6 +2,10 @@
   "id": 1058151749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De La Poterie 20 Box 4 Bruxelles (anderlecht) Bruxelles-Capitale 1070",
+    "addr:housenumber":"20;4",
+    "addr:postcode":"1070",
+    "addr:street":"Rue De La Poterie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058151749,
-    "wof:lastmodified":1473512070,
+    "wof:lastmodified":1473720155,
     "wof:name":"Service D'accompagnement De Bruxelles",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058188209,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Heerweg 24 A Gent Oost-Vlaanderen 9051",
+    "addr:housenumber":"24 a",
+    "addr:postcode":"9051",
+    "addr:street":"Hoge Heerweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058188209,
-    "wof:lastmodified":1473513698,
+    "wof:lastmodified":1473722407,
     "wof:name":"Garage De Paepe",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",

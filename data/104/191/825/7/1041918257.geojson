@@ -2,6 +2,10 @@
   "id": 1041918257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Statiestraat 114 Antwerpen (berchem) Antwerpen 2600",
+    "addr:housenumber":"114",
+    "addr:postcode":"2600",
+    "addr:street":"Statiestraat;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041918257,
-    "wof:lastmodified":1473488658,
+    "wof:lastmodified":1473722505,
     "wof:name":"Orly",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

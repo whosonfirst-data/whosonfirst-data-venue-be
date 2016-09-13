@@ -2,6 +2,10 @@
   "id": 1042001159,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Quai Aux Briques 1000 Bruxelles 20",
+    "addr:housenumber":"20",
+    "addr:postcode":"1000;20",
+    "addr:street":"Quai Aux Briques",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042001159,
-    "wof:lastmodified":1473492354,
+    "wof:lastmodified":1473719827,
     "wof:name":"Sogerest Sa",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

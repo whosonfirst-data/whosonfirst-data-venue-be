@@ -2,6 +2,10 @@
   "id": 1058036759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Bodeghem 91-93 Box 6 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"91-93;6",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Bodeghem;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058036759,
-    "wof:lastmodified":1473506967,
+    "wof:lastmodified":1473721970,
     "wof:name":"Comptamatique Sprl Henri Ubfal",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

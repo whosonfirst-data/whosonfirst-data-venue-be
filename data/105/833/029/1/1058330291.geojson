@@ -2,6 +2,10 @@
   "id": 1058330291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Stassart 54 Box 3 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"54;3",
+    "addr:postcode":"1050",
+    "addr:street":"Rue De Stassart;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058330291,
-    "wof:lastmodified":1473520004,
+    "wof:lastmodified":1473719375,
     "wof:name":"Tonglet A",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

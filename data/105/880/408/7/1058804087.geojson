@@ -2,6 +2,10 @@
   "id": 1058804087,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vriesenhof 20 Box 5 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"20;5",
+    "addr:postcode":"3000",
+    "addr:street":"Vriesenhof;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1058804087,
-    "wof:lastmodified":1473541731,
+    "wof:lastmodified":1473721203,
     "wof:name":"Royackers L",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

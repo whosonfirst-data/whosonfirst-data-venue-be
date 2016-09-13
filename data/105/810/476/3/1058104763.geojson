@@ -2,6 +2,10 @@
   "id": 1058104763,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bennesteeg 25 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Bennesteeg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058104763,
-    "wof:lastmodified":1473509799,
+    "wof:lastmodified":1473720834,
     "wof:name":"Meridian",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

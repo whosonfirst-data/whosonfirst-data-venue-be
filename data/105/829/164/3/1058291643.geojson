@@ -2,6 +2,10 @@
   "id": 1058291643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 5 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"5",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058291643,
-    "wof:lastmodified":1473518216,
+    "wof:lastmodified":1473720069,
     "wof:name":"Movies Nv",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

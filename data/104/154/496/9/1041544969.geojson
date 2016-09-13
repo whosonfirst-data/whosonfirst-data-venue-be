@@ -2,6 +2,10 @@
   "id": 1041544969,
   "type": "Feature",
   "properties": {
+    "addr:full":"David Teniersstraat 33bd Zemst Vlaams-Brabant 1980",
+    "addr:housenumber":"33bd",
+    "addr:postcode":"1980",
+    "addr:street":"David Teniersstraat;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041544969,
-    "wof:lastmodified":1473472991,
+    "wof:lastmodified":1473721418,
     "wof:name":"R. Despeghel",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",

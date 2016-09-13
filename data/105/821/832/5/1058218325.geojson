@@ -2,6 +2,10 @@
   "id": 1058218325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Palfijnstraat 17 Box 1 Antwerpen Antwerpen 2060",
+    "addr:housenumber":"17;1",
+    "addr:postcode":"2060",
+    "addr:street":"Jan Palfijnstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1058218325,
-    "wof:lastmodified":1473515011,
+    "wof:lastmodified":1473722363,
     "wof:name":"Maenhout K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

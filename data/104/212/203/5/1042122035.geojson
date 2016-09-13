@@ -2,6 +2,10 @@
   "id": 1042122035,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Ecoliers 26 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"26;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Des Ecoliers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042122035,
-    "wof:lastmodified":1473497505,
+    "wof:lastmodified":1473720195,
     "wof:name":"Soft Construct",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

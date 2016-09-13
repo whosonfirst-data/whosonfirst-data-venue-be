@@ -2,6 +2,10 @@
   "id": 1058514017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Gaucet 39 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"39;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Gaucet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058514017,
-    "wof:lastmodified":1473528730,
+    "wof:lastmodified":1473721182,
     "wof:name":"Petit G",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

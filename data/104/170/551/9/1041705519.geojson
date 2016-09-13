@@ -2,6 +2,10 @@
   "id": 1041705519,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 77 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"77",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041705519,
-    "wof:lastmodified":1473479497,
+    "wof:lastmodified":1473721583,
     "wof:name":"Danneels Guy",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

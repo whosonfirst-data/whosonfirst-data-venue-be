@@ -2,6 +2,10 @@
   "id": 1058234719,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Hul 61 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"61",
+    "addr:postcode":"8000",
+    "addr:street":"Hoge Hul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058234719,
-    "wof:lastmodified":1473515733,
+    "wof:lastmodified":1473721333,
     "wof:name":"Erik Dhondt",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",

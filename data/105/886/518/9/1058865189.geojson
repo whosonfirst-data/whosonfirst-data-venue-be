@@ -2,6 +2,10 @@
   "id": 1058865189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard De L'imp\u00e9ratrice 66 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"66;1",
+    "addr:postcode":"1000",
+    "addr:street":"Boulevard De L'Impe \u0301Ratrice;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058865189,
-    "wof:lastmodified":1473544366,
+    "wof:lastmodified":1473721460,
     "wof:name":"B-telecom",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

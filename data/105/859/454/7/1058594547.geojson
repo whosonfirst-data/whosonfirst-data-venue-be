@@ -2,6 +2,10 @@
   "id": 1058594547,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Raikem 22 Box 1 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"22;1;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Raikem;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058594547,
-    "wof:lastmodified":1473532378,
+    "wof:lastmodified":1473721291,
     "wof:name":"Union Des Patrons Plombiers Et Couvreurs",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058462879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Dautzenberg 65 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"65;4",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Dautzenberg;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058462879,
-    "wof:lastmodified":1473526340,
+    "wof:lastmodified":1473720746,
     "wof:name":"Diffusion Stan Sprl",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

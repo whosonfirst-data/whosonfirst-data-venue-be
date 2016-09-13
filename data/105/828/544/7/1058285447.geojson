@@ -2,6 +2,10 @@
   "id": 1058285447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stationsstraat 26 Box 3 Zaventem Vlaams-Brabant 1930",
+    "addr:housenumber":"26;3",
+    "addr:postcode":"1930",
+    "addr:street":"Stationsstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058285447,
-    "wof:lastmodified":1473517939,
+    "wof:lastmodified":1473721558,
     "wof:name":"Vickman Translations",
     "wof:parent_id":85802033,
     "wof:placetype":"venue",

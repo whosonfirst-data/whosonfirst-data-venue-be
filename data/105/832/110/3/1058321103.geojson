@@ -2,6 +2,10 @@
   "id": 1058321103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kouterdreef 25 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Kouterdreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058321103,
-    "wof:lastmodified":1473519550,
+    "wof:lastmodified":1473719728,
     "wof:name":"Speedbird Express Service",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

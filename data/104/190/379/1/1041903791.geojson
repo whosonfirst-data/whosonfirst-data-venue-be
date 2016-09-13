@@ -2,6 +2,10 @@
   "id": 1041903791,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jorisstraat 54 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"54",
+    "addr:postcode":"8000",
+    "addr:street":"Sint-Jorisstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041903791,
-    "wof:lastmodified":1473488085,
+    "wof:lastmodified":1473721005,
     "wof:name":"Bacob",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",

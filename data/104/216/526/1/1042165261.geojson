@@ -2,6 +2,10 @@
   "id": 1042165261,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Rixensart 31 Rixensart Brabant Wallon 1330",
+    "addr:housenumber":"31",
+    "addr:postcode":"1330",
+    "addr:street":"Rue De Rixensart;Wallon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1042165261,
-    "wof:lastmodified":1473499831,
+    "wof:lastmodified":1473721461,
     "wof:name":"Postomat Rixensart",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

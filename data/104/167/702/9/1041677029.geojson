@@ -2,6 +2,10 @@
   "id": 1041677029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place De L'yser 8 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"8;1",
+    "addr:postcode":"1000",
+    "addr:street":"Place De L'Yser;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041677029,
-    "wof:lastmodified":1473478403,
+    "wof:lastmodified":1473721778,
     "wof:name":"Sharp Vision Center Brussels",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

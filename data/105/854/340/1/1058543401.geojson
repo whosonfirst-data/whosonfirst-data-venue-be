@@ -2,6 +2,10 @@
   "id": 1058543401,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pieter Jozef Nauwelaertsstraat 33 Box 2 Antwerpen (berchem) Antwerpen 2600",
+    "addr:housenumber":"33;2",
+    "addr:postcode":"2600",
+    "addr:street":"Pieter Jozef Nauwelaertsstraat;Box;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058543401,
-    "wof:lastmodified":1473530079,
+    "wof:lastmodified":1473721013,
     "wof:name":"Soto & Land\u00e9 Bvba",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

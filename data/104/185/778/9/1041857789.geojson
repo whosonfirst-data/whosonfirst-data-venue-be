@@ -2,6 +2,10 @@
   "id": 1041857789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Constantin Meunierstraat 111 Leuven (groot) Vlaams-Brabant 3000",
+    "addr:housenumber":"111",
+    "addr:postcode":"3000",
+    "addr:street":"Constantin Meunierstraat;Groot Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1041857789,
-    "wof:lastmodified":1473486118,
+    "wof:lastmodified":1473722302,
     "wof:name":"E. Merckx",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

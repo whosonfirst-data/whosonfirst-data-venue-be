@@ -2,6 +2,10 @@
   "id": 1041628819,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Des Invalides 171 Box 2 Bruxelles (auderghem) Bruxelles-Capitale 1160",
+    "addr:housenumber":"171;2",
+    "addr:postcode":"1160",
+    "addr:street":"Boulevard Des Invalides;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041628819,
-    "wof:lastmodified":1473476475,
+    "wof:lastmodified":1473722515,
     "wof:name":"Lodge * React Surveys Nv",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",

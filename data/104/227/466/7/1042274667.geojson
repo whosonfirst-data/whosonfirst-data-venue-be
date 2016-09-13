@@ -2,6 +2,10 @@
   "id": 1042274667,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue E. Van Elewijck 33 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"33",
+    "addr:postcode":"1780",
+    "addr:street":"Rue E. Van Elewijck;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042274667,
-    "wof:lastmodified":1473505437,
+    "wof:lastmodified":1473721379,
     "wof:name":"Garage Lambrechts",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

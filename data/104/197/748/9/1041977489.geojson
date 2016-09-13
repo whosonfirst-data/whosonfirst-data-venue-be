@@ -2,6 +2,10 @@
   "id": 1041977489,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jacobsnieuwstraat 111 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"111",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Jacobsnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041977489,
-    "wof:lastmodified":1473491393,
+    "wof:lastmodified":1473722180,
     "wof:name":"Geert Botterman",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

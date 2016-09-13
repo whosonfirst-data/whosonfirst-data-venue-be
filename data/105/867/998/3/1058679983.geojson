@@ -2,6 +2,10 @@
   "id": 1058679983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-baafsplein 17 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Baafsplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058679983,
-    "wof:lastmodified":1473536280,
+    "wof:lastmodified":1473722918,
     "wof:name":"Taverne De Foyer",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

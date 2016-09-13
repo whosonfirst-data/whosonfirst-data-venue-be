@@ -2,6 +2,10 @@
   "id": 1042120579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Keizer Karelstraat 25 Box 1 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"25;1",
+    "addr:postcode":"8000",
+    "addr:street":"Keizer Karelstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042120579,
-    "wof:lastmodified":1473497422,
+    "wof:lastmodified":1473719520,
     "wof:name":"Ihc Group Nv",
     "wof:parent_id":85862073,
     "wof:placetype":"venue",

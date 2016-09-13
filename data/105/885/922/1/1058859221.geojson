@@ -2,6 +2,10 @@
   "id": 1058859221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Siphon 19 Box 5 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"19;5",
+    "addr:postcode":"1020",
+    "addr:street":"Rue Du Siphon;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1058859221,
-    "wof:lastmodified":1473544119,
+    "wof:lastmodified":1473722693,
     "wof:name":"Riobell J P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

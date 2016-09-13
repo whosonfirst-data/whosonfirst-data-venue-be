@@ -2,6 +2,10 @@
   "id": 1042210021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dorpstraat 67 Box 1v Zwijndrecht (burcht) Antwerpen 2070",
+    "addr:housenumber":"67;1v",
+    "addr:postcode":"2070",
+    "addr:street":"Dorpstraat;Box;Burcht",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042210021,
-    "wof:lastmodified":1473502428,
+    "wof:lastmodified":1473719432,
     "wof:name":"Laytec",
     "wof:parent_id":85801609,
     "wof:placetype":"venue",

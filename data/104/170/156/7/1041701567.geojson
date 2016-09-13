@@ -2,6 +2,10 @@
   "id": 1041701567,
   "type": "Feature",
   "properties": {
+    "addr:full":"Constantin Meunierstraat 111 Leuven (groot) Vlaams-Brabant 3000",
+    "addr:housenumber":"111",
+    "addr:postcode":"3000",
+    "addr:street":"Constantin Meunierstraat;Groot Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1041701567,
-    "wof:lastmodified":1473479353,
+    "wof:lastmodified":1473720029,
     "wof:name":"A. Termonie",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

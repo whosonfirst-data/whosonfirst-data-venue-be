@@ -2,6 +2,10 @@
   "id": 1042075393,
   "type": "Feature",
   "properties": {
+    "addr:full":"Onderstraat 14 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"14",
+    "addr:postcode":"9000",
+    "addr:street":"Onderstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042075393,
-    "wof:lastmodified":1473495297,
+    "wof:lastmodified":1473721549,
     "wof:name":"Michel",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

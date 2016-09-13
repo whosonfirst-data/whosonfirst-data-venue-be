@@ -2,6 +2,10 @@
   "id": 1058477701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gustaaf Callierlaan 106 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"106",
+    "addr:postcode":"9000",
+    "addr:street":"Gustaaf Callierlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058477701,
-    "wof:lastmodified":1473527041,
+    "wof:lastmodified":1473722197,
     "wof:name":"E. De Staercke",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

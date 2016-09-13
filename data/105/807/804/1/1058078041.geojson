@@ -2,6 +2,10 @@
   "id": 1058078041,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fonteineplein 33 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"33",
+    "addr:postcode":"9000",
+    "addr:street":"Fonteineplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058078041,
-    "wof:lastmodified":1473508641,
+    "wof:lastmodified":1473722223,
     "wof:name":"De Fruitmand",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

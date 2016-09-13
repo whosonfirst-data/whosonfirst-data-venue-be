@@ -2,6 +2,10 @@
   "id": 1041664295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Alex Bouvy 18 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"18;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Alex Bouvy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041664295,
-    "wof:lastmodified":1473477914,
+    "wof:lastmodified":1473721302,
     "wof:name":"Centre De Sant\u00e9 Mentale",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

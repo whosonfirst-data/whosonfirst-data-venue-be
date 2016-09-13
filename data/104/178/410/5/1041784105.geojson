@@ -2,6 +2,10 @@
   "id": 1041784105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Joost Van Den Vondelstraat 31 Box 1 Vilvoorde Vlaams-Brabant 1800",
+    "addr:housenumber":"31;1",
+    "addr:postcode":"1800",
+    "addr:street":"Joost Van Den Vondelstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041784105,
-    "wof:lastmodified":1473483068,
+    "wof:lastmodified":1473721241,
     "wof:name":"Van Loon E",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",

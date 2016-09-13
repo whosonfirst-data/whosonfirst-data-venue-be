@@ -2,6 +2,10 @@
   "id": 1058155127,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Saint-michel 5 Box 4 Bruxelles (woluwe-saint-pierre) Bruxelles-Capitale 1150",
+    "addr:housenumber":"5;4",
+    "addr:postcode":"1150",
+    "addr:street":"Boulevard Saint-Michel;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058155127,
-    "wof:lastmodified":1473512233,
+    "wof:lastmodified":1473721469,
     "wof:name":"Bitar N",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

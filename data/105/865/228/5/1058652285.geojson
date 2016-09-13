@@ -2,6 +2,10 @@
   "id": 1058652285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue D'arenberg 12 Box 3 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"12;3",
+    "addr:postcode":"1000",
+    "addr:street":"Rue D'Arenberg;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058652285,
-    "wof:lastmodified":1473535059,
+    "wof:lastmodified":1473720264,
     "wof:name":"Mondiacom Sprl",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

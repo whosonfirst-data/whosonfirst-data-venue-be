@@ -2,6 +2,10 @@
   "id": 1041570561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Noyer 299 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"299",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Noyer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041570561,
-    "wof:lastmodified":1473474067,
+    "wof:lastmodified":1473719511,
     "wof:name":"Mi-ange",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

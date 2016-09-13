@@ -2,6 +2,10 @@
   "id": 1041904585,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 242 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"242",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041904585,
-    "wof:lastmodified":1473488114,
+    "wof:lastmodified":1473721374,
     "wof:name":"Bbl",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

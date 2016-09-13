@@ -2,6 +2,10 @@
   "id": 1041573435,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louis Bertrand 100 Box 12a Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"100;12a",
+    "addr:postcode":"1030",
+    "addr:street":"Avenue Louis Bertrand;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041573435,
-    "wof:lastmodified":1473474188,
+    "wof:lastmodified":1473720902,
     "wof:name":"Decis",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

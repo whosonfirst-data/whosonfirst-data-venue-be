@@ -2,6 +2,10 @@
   "id": 1041742201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-michielsstraat 2 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"2",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Michielsstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041742201,
-    "wof:lastmodified":1473481044,
+    "wof:lastmodified":1473720320,
     "wof:name":"Initial Security Nv",
     "wof:parent_id":85800977,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058544071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ossenstraat 91 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"91",
+    "addr:postcode":"9000",
+    "addr:street":"Ossenstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058544071,
-    "wof:lastmodified":1473530106,
+    "wof:lastmodified":1473721249,
     "wof:name":"De Bock J",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

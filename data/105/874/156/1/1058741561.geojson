@@ -2,6 +2,10 @@
   "id": 1058741561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Alphonse Schneider 166 Anvers (grand) Antwerpen 2100",
+    "addr:housenumber":"166",
+    "addr:postcode":"2100",
+    "addr:street":"Avenue Alphonse Schneider;Grand Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058741561,
-    "wof:lastmodified":1473538967,
+    "wof:lastmodified":1473720015,
     "wof:name":"Crea Line",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

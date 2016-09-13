@@ -2,6 +2,10 @@
   "id": 1058343071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 523 Box 8 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"523;8",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058343071,
-    "wof:lastmodified":1473520625,
+    "wof:lastmodified":1473720773,
     "wof:name":"Libouton Jacques",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042095423,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 142 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"142",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1042095423,
-    "wof:lastmodified":1473496190,
+    "wof:lastmodified":1473721637,
     "wof:name":"Bancontact-mister Cash",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058513477,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Charles Quint 487 Box 9 Bruxelles (berchem-sainte-agathe) Bruxelles-Capitale 1082",
+    "addr:housenumber":"487;9",
+    "addr:postcode":"1082",
+    "addr:street":"Avenue Charles Quint;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058513477,
-    "wof:lastmodified":1473528707,
+    "wof:lastmodified":1473720914,
     "wof:name":"Machado",
     "wof:parent_id":85800829,
     "wof:placetype":"venue",

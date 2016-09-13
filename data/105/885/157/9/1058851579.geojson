@@ -2,6 +2,10 @@
   "id": 1058851579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 115 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"115",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058851579,
-    "wof:lastmodified":1473543805,
+    "wof:lastmodified":1473720069,
     "wof:name":"Palyshop",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

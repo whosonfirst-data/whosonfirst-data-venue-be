@@ -2,6 +2,10 @@
   "id": 1058059501,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Rue F Robbrechts 1780 Wemmel 30",
+    "addr:housenumber":"30;30",
+    "addr:postcode":"1780",
+    "addr:street":"Rue F Robbrechts;Wemmel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1058059501,
-    "wof:lastmodified":1473507897,
+    "wof:lastmodified":1473722858,
     "wof:name":"Rovacos",
     "wof:parent_id":85801089,
     "wof:placetype":"venue",

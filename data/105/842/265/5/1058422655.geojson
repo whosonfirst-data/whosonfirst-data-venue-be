@@ -2,6 +2,10 @@
   "id": 1058422655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Chartreux 25 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"25",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Chartreux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058422655,
-    "wof:lastmodified":1473524301,
+    "wof:lastmodified":1473720681,
     "wof:name":"Album",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

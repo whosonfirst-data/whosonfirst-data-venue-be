@@ -2,6 +2,10 @@
   "id": 1058421251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Saint-pholien 18 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"18;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Saint-Pholien",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058421251,
-    "wof:lastmodified":1473524228,
+    "wof:lastmodified":1473719884,
     "wof:name":"Pascal (les Fleurs De)",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

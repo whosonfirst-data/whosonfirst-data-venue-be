@@ -2,6 +2,10 @@
   "id": 1058418989,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Rue Charles Demeer 1020 Bruxelles 19",
+    "addr:housenumber":"19",
+    "addr:postcode":"1020;19",
+    "addr:street":"Rue Charles Demeer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058418989,
-    "wof:lastmodified":1473524088,
+    "wof:lastmodified":1473722601,
     "wof:name":"Lamirage B.r. Sprl",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",

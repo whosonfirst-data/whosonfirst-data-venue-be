@@ -2,6 +2,10 @@
   "id": 1041708435,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint Martensstraat 16 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"16",
+    "addr:postcode":"9000",
+    "addr:street":"Sint Martensstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041708435,
-    "wof:lastmodified":1473479614,
+    "wof:lastmodified":1473722393,
     "wof:name":"Geerts Filip",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

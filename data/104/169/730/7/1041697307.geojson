@@ -2,6 +2,10 @@
   "id": 1041697307,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fruithoflaan 13 Box 9 Antwerpen (berchem) Antwerpen 2600",
+    "addr:housenumber":"13;9",
+    "addr:postcode":"2600",
+    "addr:street":"Fruithoflaan;Box;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1041697307,
-    "wof:lastmodified":1473479180,
+    "wof:lastmodified":1473722118,
     "wof:name":"New Sales",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058883259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Smidsestraat 131 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"131",
+    "addr:postcode":"9000",
+    "addr:street":"Smidsestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058883259,
-    "wof:lastmodified":1473545161,
+    "wof:lastmodified":1473720831,
     "wof:name":"B. Van Haelst",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

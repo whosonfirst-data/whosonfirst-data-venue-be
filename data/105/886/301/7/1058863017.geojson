@@ -2,6 +2,10 @@
   "id": 1058863017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Alfred Stevens 100 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"100",
+    "addr:postcode":"1020",
+    "addr:street":"Rue Alfred Stevens",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058863017,
-    "wof:lastmodified":1473544277,
+    "wof:lastmodified":1473720708,
     "wof:name":"Teapot (the)",
     "wof:parent_id":85801243,
     "wof:placetype":"venue",

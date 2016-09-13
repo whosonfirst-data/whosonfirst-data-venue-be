@@ -2,6 +2,10 @@
   "id": 1058381111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Van Rijswijcklaan 164 Box 9 Antwerpen Antwerpen 2020",
+    "addr:housenumber":"164;9",
+    "addr:postcode":"2020",
+    "addr:street":"Jan Van Rijswijcklaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058381111,
-    "wof:lastmodified":1473522403,
+    "wof:lastmodified":1473719759,
     "wof:name":"Caratt Group Belgium Bvba",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

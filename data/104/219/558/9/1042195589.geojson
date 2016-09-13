@@ -2,6 +2,10 @@
   "id": 1042195589,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersplein 44 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"44",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042195589,
-    "wof:lastmodified":1473501659,
+    "wof:lastmodified":1473721545,
     "wof:name":"Campus Studiebegeleiding",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

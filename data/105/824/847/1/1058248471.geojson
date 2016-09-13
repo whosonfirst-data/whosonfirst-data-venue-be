@@ -2,6 +2,10 @@
   "id": 1058248471,
   "type": "Feature",
   "properties": {
+    "addr:full":"Simon De Mirabellostraat 25 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"25",
+    "addr:postcode":"9000",
+    "addr:street":"Simon;Mirabellostraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058248471,
-    "wof:lastmodified":1473516347,
+    "wof:lastmodified":1473722520,
     "wof:name":"Bouwbedrijf De Braekeleir",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

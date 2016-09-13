@@ -2,6 +2,10 @@
   "id": 1041959127,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-elisabethstraat 38 Antwerpen Antwerpen 2060",
+    "addr:housenumber":"38",
+    "addr:postcode":"2060",
+    "addr:street":"Sint-Elisabethstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041959127,
-    "wof:lastmodified":1473490481,
+    "wof:lastmodified":1473722724,
     "wof:name":"Intrass",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

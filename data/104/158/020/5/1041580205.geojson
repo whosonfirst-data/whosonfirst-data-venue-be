@@ -2,6 +2,10 @@
   "id": 1041580205,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Stevens-delannoy 101 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"101",
+    "addr:postcode":"1020",
+    "addr:street":"Rue Stevens-Delannoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041580205,
-    "wof:lastmodified":1473474464,
+    "wof:lastmodified":1473718983,
     "wof:name":"Institut Marie Stella St-lambert",
     "wof:parent_id":85801243,
     "wof:placetype":"venue",

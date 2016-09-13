@@ -2,6 +2,10 @@
   "id": 1058418751,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Rue Des Moines 1190 Forest 11",
+    "addr:housenumber":"11;11",
+    "addr:postcode":"1190",
+    "addr:street":"Rue Des Moines;Forest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058418751,
-    "wof:lastmodified":1473524079,
+    "wof:lastmodified":1473722529,
     "wof:name":"Esperatax Sprl",
     "wof:parent_id":85801633,
     "wof:placetype":"venue",

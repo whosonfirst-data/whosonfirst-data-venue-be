@@ -2,6 +2,10 @@
   "id": 1058132879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 485 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"485",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058132879,
-    "wof:lastmodified":1473511141,
+    "wof:lastmodified":1473720730,
     "wof:name":"Engels A",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

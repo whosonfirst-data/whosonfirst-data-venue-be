@@ -2,6 +2,10 @@
   "id": 1042183889,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel Van Wijnendaelelaan 28 Sint Martens Latem Oost-Vlaanderen 9830",
+    "addr:housenumber":"28",
+    "addr:postcode":"9830",
+    "addr:street":"Karel Van Wijnendaelelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1042183889,
-    "wof:lastmodified":1473501014,
+    "wof:lastmodified":1473721179,
     "wof:name":"Media Vision",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",

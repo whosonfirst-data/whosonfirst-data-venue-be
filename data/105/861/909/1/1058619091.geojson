@@ -2,6 +2,10 @@
   "id": 1058619091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Defacqz 1 Box 8 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"1;8",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Defacqz;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058619091,
-    "wof:lastmodified":1473533534,
+    "wof:lastmodified":1473722729,
     "wof:name":"Fedesa",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058649481,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Victor Gilsoul 108-110 Box 8 Bruxelles (woluwe-saint-lambert) Bruxelles-Capitale 1200",
+    "addr:housenumber":"108-110;8",
+    "addr:postcode":"1200",
+    "addr:street":"Avenue Victor Gilsoul;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058649481,
-    "wof:lastmodified":1473534908,
+    "wof:lastmodified":1473722747,
     "wof:name":"City & Country",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058337037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gustaaf Callierlaan 55 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"55",
+    "addr:postcode":"9000",
+    "addr:street":"Gustaaf Callierlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058337037,
-    "wof:lastmodified":1473520335,
+    "wof:lastmodified":1473722089,
     "wof:name":"De Pauw Piet",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

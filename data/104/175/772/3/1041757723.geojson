@@ -2,6 +2,10 @@
   "id": 1041757723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ham 137 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"137",
+    "addr:postcode":"9000",
+    "addr:street":"Ham;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041757723,
-    "wof:lastmodified":1473481746,
+    "wof:lastmodified":1473722256,
     "wof:name":"Woodstrip International",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

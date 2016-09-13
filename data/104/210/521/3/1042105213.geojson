@@ -2,6 +2,10 @@
   "id": 1042105213,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jules Pauwelsstraat 19 Antwerpen Antwerpen 2660",
+    "addr:housenumber":"19",
+    "addr:postcode":"2660",
+    "addr:street":"Jules Pauwelsstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042105213,
-    "wof:lastmodified":1473496604,
+    "wof:lastmodified":1473721453,
     "wof:name":"Meersman",
     "wof:parent_id":85801273,
     "wof:placetype":"venue",

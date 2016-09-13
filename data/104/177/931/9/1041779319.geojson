@@ -2,6 +2,10 @@
   "id": 1041779319,
   "type": "Feature",
   "properties": {
+    "addr:full":"Molenaarsstraat 111 Box 20 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"111 box 20",
+    "addr:postcode":"9000",
+    "addr:street":"Molenaarsstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041779319,
-    "wof:lastmodified":1473482889,
+    "wof:lastmodified":1473722716,
     "wof:name":"Lust H",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

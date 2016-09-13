@@ -2,6 +2,10 @@
   "id": 1058964701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boomgaardstraat 5 Box 1 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"5;1",
+    "addr:postcode":"8000",
+    "addr:street":"Boomgaardstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058964701,
-    "wof:lastmodified":1473548981,
+    "wof:lastmodified":1473721267,
     "wof:name":"Lemayeur P",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",

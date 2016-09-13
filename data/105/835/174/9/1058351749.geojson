@@ -2,6 +2,10 @@
   "id": 1058351749,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Rue Ecole Moderne 1070 Bruxelles 13",
+    "addr:housenumber":"13",
+    "addr:postcode":"1070;13",
+    "addr:street":"Rue Ecole",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058351749,
-    "wof:lastmodified":1473521027,
+    "wof:lastmodified":1473720106,
     "wof:name":"Sacelux Sprl",
     "wof:parent_id":85801031,
     "wof:placetype":"venue",

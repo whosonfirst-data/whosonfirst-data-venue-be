@@ -2,6 +2,10 @@
   "id": 1042132143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Louis Mettewie 65 Box 8 Bruxelles (molenbeek-saint-jean) Bruxelles-Capitale 1080",
+    "addr:housenumber":"65;8",
+    "addr:postcode":"1080",
+    "addr:street":"Boulevard Louis Mettewie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042132143,
-    "wof:lastmodified":1473498064,
+    "wof:lastmodified":1473720250,
     "wof:name":"Dumalin Jean-pierre",
     "wof:parent_id":85801767,
     "wof:placetype":"venue",

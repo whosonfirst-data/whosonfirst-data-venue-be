@@ -2,6 +2,10 @@
   "id": 1058589939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-baafskouterstraat 79 Gent Oost-Vlaanderen 9040",
+    "addr:housenumber":"79",
+    "addr:postcode":"9040",
+    "addr:street":"Sint-Baafskouterstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058589939,
-    "wof:lastmodified":1473532187,
+    "wof:lastmodified":1473722847,
     "wof:name":"Rudolphe Francois",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

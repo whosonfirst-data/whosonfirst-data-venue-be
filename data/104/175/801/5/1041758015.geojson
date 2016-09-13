@@ -2,6 +2,10 @@
   "id": 1041758015,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 129 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"129",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041758015,
-    "wof:lastmodified":1473481759,
+    "wof:lastmodified":1473722362,
     "wof:name":"Castle Antiques",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058201381,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De La Commune 11 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"11;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De La Commune",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058201381,
-    "wof:lastmodified":1473514259,
+    "wof:lastmodified":1473719900,
     "wof:name":"Picha",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

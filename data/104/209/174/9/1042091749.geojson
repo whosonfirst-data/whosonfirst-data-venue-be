@@ -2,6 +2,10 @@
   "id": 1042091749,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Rue Fanny 4100 Seraing 140",
+    "addr:housenumber":"140",
+    "addr:postcode":"4100;140",
+    "addr:street":"Rue Fanny",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042091749,
-    "wof:lastmodified":1473496029,
+    "wof:lastmodified":1473720088,
     "wof:name":"Hl Travaux Sa",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",

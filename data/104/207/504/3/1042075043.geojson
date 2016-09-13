@@ -2,6 +2,10 @@
   "id": 1042075043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De M\u00e9rode 123 Bruxelles (saint-gilles) Bruxelles-Capitale 1060",
+    "addr:housenumber":"123",
+    "addr:postcode":"1060",
+    "addr:street":"Rue De Me\u0301Rode",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042075043,
-    "wof:lastmodified":1473495281,
+    "wof:lastmodified":1473721430,
     "wof:name":"Lucky Cuir",
     "wof:parent_id":85801025,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058767561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Derbystraat 217 Gent Oost-Vlaanderen 9051",
+    "addr:housenumber":"217",
+    "addr:postcode":"9051",
+    "addr:street":"Derbystraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058767561,
-    "wof:lastmodified":1473540124,
+    "wof:lastmodified":1473722121,
     "wof:name":"Eventum",
     "wof:parent_id":85801137,
     "wof:placetype":"venue",

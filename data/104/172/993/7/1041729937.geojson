@@ -2,6 +2,10 @@
   "id": 1041729937,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stropstraat 126 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"126",
+    "addr:postcode":"9000",
+    "addr:street":"Stropstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041729937,
-    "wof:lastmodified":1473480463,
+    "wof:lastmodified":1473722877,
     "wof:name":"Johan Van Praet",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

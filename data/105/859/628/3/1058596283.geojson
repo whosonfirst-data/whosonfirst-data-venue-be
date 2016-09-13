@@ -2,6 +2,10 @@
   "id": 1058596283,
   "type": "Feature",
   "properties": {
+    "addr:full":"Walstraat 105 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"105",
+    "addr:postcode":"9050",
+    "addr:street":"Walstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058596283,
-    "wof:lastmodified":1473532455,
+    "wof:lastmodified":1473721720,
     "wof:name":"Federale Politie",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

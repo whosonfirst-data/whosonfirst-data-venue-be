@@ -2,6 +2,10 @@
   "id": 1058605985,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Rue Victor Allard 1180 Uccle 45",
+    "addr:housenumber":"45;45",
+    "addr:postcode":"1180",
+    "addr:street":"Rue Victor Allard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058605985,
-    "wof:lastmodified":1473532879,
+    "wof:lastmodified":1473721711,
     "wof:name":"Sprint Sa",
     "wof:parent_id":85801951,
     "wof:placetype":"venue",

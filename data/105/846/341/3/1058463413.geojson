@@ -2,6 +2,10 @@
   "id": 1058463413,
   "type": "Feature",
   "properties": {
+    "addr:full":"Noorderlaan 98 Box 9 Antwerpen Antwerpen 2030",
+    "addr:housenumber":"98;9",
+    "addr:postcode":"2030",
+    "addr:street":"Noorderlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058463413,
-    "wof:lastmodified":1473526364,
+    "wof:lastmodified":1473720879,
     "wof:name":"Edylim Bvba",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

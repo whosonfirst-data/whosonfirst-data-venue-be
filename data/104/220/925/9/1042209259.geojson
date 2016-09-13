@@ -2,6 +2,10 @@
   "id": 1042209259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Van Artevelde 146 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"146",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Van Artevelde",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042209259,
-    "wof:lastmodified":1473502393,
+    "wof:lastmodified":1473722701,
     "wof:name":"Chanteclair Sprl",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

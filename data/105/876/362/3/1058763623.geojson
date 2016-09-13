@@ -2,6 +2,10 @@
   "id": 1058763623,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Adolphe Willemyns 166 Box 7 Bruxelles (anderlecht) Bruxelles-Capitale 1070",
+    "addr:housenumber":"166;7",
+    "addr:postcode":"1070",
+    "addr:street":"Rue Adolphe Willemyns;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058763623,
-    "wof:lastmodified":1473539940,
+    "wof:lastmodified":1473720959,
     "wof:name":"Vandeput-van Eeckhoudt",
     "wof:parent_id":85800971,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058869057,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Antoine Dansaert 145 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"145",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Antoine Dansaert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058869057,
-    "wof:lastmodified":1473544540,
+    "wof:lastmodified":1473722551,
     "wof:name":"M Interim Sa",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

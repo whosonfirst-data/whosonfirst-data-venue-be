@@ -2,6 +2,10 @@
   "id": 1042039707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Dieudonn\u00e9-defrance 8 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"8;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Dieudonne\u0301-Defrance",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042039707,
-    "wof:lastmodified":1473493854,
+    "wof:lastmodified":1473722861,
     "wof:name":"Liegeois J-cl",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",

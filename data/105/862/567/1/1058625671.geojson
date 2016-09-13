@@ -2,6 +2,10 @@
   "id": 1058625671,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Deux Eglises 37 Box 2 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"37;2",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Deux Eglises;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058625671,
-    "wof:lastmodified":1473533819,
+    "wof:lastmodified":1473721634,
     "wof:name":"Anthonissen & Associates Nv",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042185187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lucas Munichstraat 102 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"102",
+    "addr:postcode":"9000",
+    "addr:street":"Munichstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042185187,
-    "wof:lastmodified":1473501077,
+    "wof:lastmodified":1473721517,
     "wof:name":"Bart Tavernier",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

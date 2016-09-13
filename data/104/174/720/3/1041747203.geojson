@@ -2,6 +2,10 @@
   "id": 1041747203,
   "type": "Feature",
   "properties": {
+    "addr:full":"Besmelaan 123 Vorst/forest Bruxelles-Capitale 1190",
+    "addr:housenumber":"123",
+    "addr:postcode":"1190",
+    "addr:street":"Besmelaan;/ Forest",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041747203,
-    "wof:lastmodified":1473481254,
+    "wof:lastmodified":1473722209,
     "wof:name":"Eric Laurent",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

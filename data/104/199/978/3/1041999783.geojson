@@ -2,6 +2,10 @@
   "id": 1041999783,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ch De Waterloo 715 Bte 25 Bruxelles Bruxelles-Capitale 1180",
+    "addr:housenumber":"715;25",
+    "addr:postcode":"1180",
+    "addr:street":"Ch De Waterloo;Bte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041999783,
-    "wof:lastmodified":1473492308,
+    "wof:lastmodified":1473722869,
     "wof:name":"Fetra Asbl",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

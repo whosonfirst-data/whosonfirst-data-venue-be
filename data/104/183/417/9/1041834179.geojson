@@ -2,6 +2,10 @@
   "id": 1041834179,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bartholomeusstraat 15 Antwerpen Antwerpen 2170",
+    "addr:housenumber":"15",
+    "addr:postcode":"2170",
+    "addr:street":"Sint-Bartholomeusstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041834179,
-    "wof:lastmodified":1473485113,
+    "wof:lastmodified":1473721241,
     "wof:name":"De Post",
     "wof:parent_id":85801615,
     "wof:placetype":"venue",

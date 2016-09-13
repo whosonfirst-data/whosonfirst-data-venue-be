@@ -2,6 +2,10 @@
   "id": 1058632399,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 120 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"120",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058632399,
-    "wof:lastmodified":1473534145,
+    "wof:lastmodified":1473720457,
     "wof:name":"Frontline",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

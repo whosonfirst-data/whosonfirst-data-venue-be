@@ -2,6 +2,10 @@
   "id": 1041663491,
   "type": "Feature",
   "properties": {
+    "addr:full":"Beddenstraat 2 Box 44a Antwerpen Antwerpen 2000",
+    "addr:housenumber":"2;44a",
+    "addr:postcode":"2000",
+    "addr:street":"Beddenstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041663491,
-    "wof:lastmodified":1473477885,
+    "wof:lastmodified":1473720966,
     "wof:name":"Grand Bazar Shopping Center",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

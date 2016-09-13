@@ -2,6 +2,10 @@
   "id": 1058337345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Parklaan 41 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"Parklaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058337345,
-    "wof:lastmodified":1473520356,
+    "wof:lastmodified":1473722195,
     "wof:name":"De Vos-de Groote Stephane",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

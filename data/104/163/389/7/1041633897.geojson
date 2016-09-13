@@ -2,6 +2,10 @@
   "id": 1041633897,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peerstraat 31 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"31",
+    "addr:postcode":"9000",
+    "addr:street":"Peerstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041633897,
-    "wof:lastmodified":1473476668,
+    "wof:lastmodified":1473721203,
     "wof:name":"Jan Decoster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

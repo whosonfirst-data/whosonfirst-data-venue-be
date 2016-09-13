@@ -2,6 +2,10 @@
   "id": 1042250465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Champs 28 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"28;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Des Champs",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042250465,
-    "wof:lastmodified":1473504258,
+    "wof:lastmodified":1473719501,
     "wof:name":"Cerfontaine Constructions Sprl",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

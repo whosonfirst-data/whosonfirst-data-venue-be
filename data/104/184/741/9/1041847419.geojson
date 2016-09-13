@@ -2,6 +2,10 @@
   "id": 1041847419,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Georges Moreau 123 Bruxelles (anderlecht) Bruxelles-Capitale 1070",
+    "addr:housenumber":"123",
+    "addr:postcode":"1070",
+    "addr:street":"Rue Georges Moreau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041847419,
-    "wof:lastmodified":1473485686,
+    "wof:lastmodified":1473722088,
     "wof:name":"S A A D",
     "wof:parent_id":85801031,
     "wof:placetype":"venue",

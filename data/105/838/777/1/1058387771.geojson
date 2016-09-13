@@ -2,6 +2,10 @@
   "id": 1058387771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Delvinlaan 114 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"114",
+    "addr:postcode":"9000",
+    "addr:street":"Delvinlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1058387771,
-    "wof:lastmodified":1473522680,
+    "wof:lastmodified":1473722255,
     "wof:name":"Miro-quatremains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

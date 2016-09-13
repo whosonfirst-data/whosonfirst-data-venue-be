@@ -2,6 +2,10 @@
   "id": 1058651851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Braziliestraat 27-29 Box 9 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"27-29;9",
+    "addr:postcode":"2000",
+    "addr:street":"Braziliestraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058651851,
-    "wof:lastmodified":1473535034,
+    "wof:lastmodified":1473720084,
     "wof:name":"Kabia Bvba",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

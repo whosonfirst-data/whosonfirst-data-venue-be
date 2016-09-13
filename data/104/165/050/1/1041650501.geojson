@@ -2,6 +2,10 @@
   "id": 1041650501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hovestraat 161 Box 8 Edegem Antwerpen 2650",
+    "addr:housenumber":"161;8",
+    "addr:postcode":"2650",
+    "addr:street":"Hovestraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041650501,
-    "wof:lastmodified":1473477363,
+    "wof:lastmodified":1473719437,
     "wof:name":"Art Promotion Bvba",
     "wof:parent_id":85800891,
     "wof:placetype":"venue",

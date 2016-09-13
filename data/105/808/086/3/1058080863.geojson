@@ -2,6 +2,10 @@
   "id": 1058080863,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Du Luxembourg 84 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"84;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Avenue Du Luxembourg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058080863,
-    "wof:lastmodified":1473508749,
+    "wof:lastmodified":1473719697,
     "wof:name":"Constant P",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",

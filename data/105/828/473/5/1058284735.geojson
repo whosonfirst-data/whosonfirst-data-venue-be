@@ -2,6 +2,10 @@
   "id": 1058284735,
   "type": "Feature",
   "properties": {
+    "addr:full":"Antoon Van Den Bosschelaan 138 Box 5 Antwerpen (deurne) Antwerpen 2100",
+    "addr:housenumber":"138;5",
+    "addr:postcode":"2100",
+    "addr:street":"Antoon Van Den Bosschelaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1058284735,
-    "wof:lastmodified":1473517905,
+    "wof:lastmodified":1473721373,
     "wof:name":"Thesign Bvba",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

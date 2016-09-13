@@ -2,6 +2,10 @@
   "id": 1042247071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gustaaf Callierlaan 231 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"231",
+    "addr:postcode":"9000",
+    "addr:street":"Gustaaf Callierlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042247071,
-    "wof:lastmodified":1473504127,
+    "wof:lastmodified":1473722010,
     "wof:name":"Drukkerij Envelbag",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

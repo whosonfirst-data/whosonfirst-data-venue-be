@@ -2,6 +2,10 @@
   "id": 1058275741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lange Nieuwstraat 21-23 Box 7 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"21-23;7",
+    "addr:postcode":"2000",
+    "addr:street":"Lange Nieuwstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058275741,
-    "wof:lastmodified":1473517523,
+    "wof:lastmodified":1473721662,
     "wof:name":"Vanheule Frans & Co Bvba",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

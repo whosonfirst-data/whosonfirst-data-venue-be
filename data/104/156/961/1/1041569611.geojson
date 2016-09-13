@@ -2,6 +2,10 @@
   "id": 1041569611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Emile Vandervelde 172 Mons Hainaut 7000",
+    "addr:housenumber":"172",
+    "addr:postcode":"7000",
+    "addr:street":"Rue Emile Vandervelde;Hainaut",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041569611,
-    "wof:lastmodified":1473474027,
+    "wof:lastmodified":1473722874,
     "wof:name":"H.c.i. Hydro Cleaning International Nv",
     "wof:parent_id":85801235,
     "wof:placetype":"venue",

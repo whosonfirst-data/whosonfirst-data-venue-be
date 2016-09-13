@@ -2,6 +2,10 @@
   "id": 1042169795,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-benedictusstraat 121 Mortsel Antwerpen 2640",
+    "addr:housenumber":"121",
+    "addr:postcode":"2640",
+    "addr:street":"Sint-Benedictusstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1042169795,
-    "wof:lastmodified":1473500095,
+    "wof:lastmodified":1473722769,
     "wof:name":"Class Broderie",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058339029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pastoor Woutersstraat 32 Box 7 Grimbergen Vlaams-Brabant 1850",
+    "addr:housenumber":"32;7",
+    "addr:postcode":"1850",
+    "addr:street":"Pastoor Woutersstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058339029,
-    "wof:lastmodified":1473520429,
+    "wof:lastmodified":1473722731,
     "wof:name":"Durnez Ingrid",
     "wof:parent_id":85801215,
     "wof:placetype":"venue",

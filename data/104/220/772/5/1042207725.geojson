@@ -2,6 +2,10 @@
   "id": 1042207725,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Gaucet 50 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"50;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Gaucet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042207725,
-    "wof:lastmodified":1473502321,
+    "wof:lastmodified":1473722238,
     "wof:name":"Technique Et Gestion Sprl",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

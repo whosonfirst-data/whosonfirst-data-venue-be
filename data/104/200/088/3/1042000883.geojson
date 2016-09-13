@@ -2,6 +2,10 @@
   "id": 1042000883,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Rue Alphonse De Witte 1050 Bruxelles 40",
+    "addr:housenumber":"40",
+    "addr:postcode":"1050;40",
+    "addr:street":"Rue Alphonse De Witte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000883,
-    "wof:lastmodified":1473492345,
+    "wof:lastmodified":1473719692,
     "wof:name":"Marie-avenue Louise Sprl",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041569291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Bouchers 16 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"16",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Bouchers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041569291,
-    "wof:lastmodified":1473474015,
+    "wof:lastmodified":1473722729,
     "wof:name":"Actor'studio",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

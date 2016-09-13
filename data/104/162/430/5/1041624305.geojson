@@ -2,6 +2,10 @@
   "id": 1041624305,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Emile Claus 5 Box 5 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"5;5",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Emile Claus;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041624305,
-    "wof:lastmodified":1473476275,
+    "wof:lastmodified":1473721263,
     "wof:name":"De Bontridder Jean-louis",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

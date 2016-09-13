@@ -2,6 +2,10 @@
   "id": 1058879913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Krijgslaan 111 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"111",
+    "addr:postcode":"9000",
+    "addr:street":"Krijgslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058879913,
-    "wof:lastmodified":1473545008,
+    "wof:lastmodified":1473722861,
     "wof:name":"Debunderie W",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

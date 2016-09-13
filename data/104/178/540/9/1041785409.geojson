@@ -2,6 +2,10 @@
   "id": 1041785409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Montjoie 149 Box 9 Bruxelles (uccle) Bruxelles-Capitale 1180",
+    "addr:housenumber":"149;9",
+    "addr:postcode":"1180",
+    "addr:street":"Avenue Montjoie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041785409,
-    "wof:lastmodified":1473483116,
+    "wof:lastmodified":1473721595,
     "wof:name":"Verstraeten A",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042121301,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De L'eglise 61 Box 2 Bruxelles (woluwe-saint-pierre) Bruxelles-Capitale 1150",
+    "addr:housenumber":"61;2",
+    "addr:postcode":"1150",
+    "addr:street":"Rue De L'Eglise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042121301,
-    "wof:lastmodified":1473497449,
+    "wof:lastmodified":1473719860,
     "wof:name":"Nartis Bvba",
     "wof:parent_id":85801937,
     "wof:placetype":"venue",

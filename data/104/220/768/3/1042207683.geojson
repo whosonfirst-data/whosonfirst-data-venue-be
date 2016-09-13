@@ -2,6 +2,10 @@
   "id": 1042207683,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint Annastraat 42 Vilvoorde Vlaams-Brabant 1800",
+    "addr:housenumber":"42",
+    "addr:postcode":"1800",
+    "addr:street":"Sint Annastraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042207683,
-    "wof:lastmodified":1473502319,
+    "wof:lastmodified":1473722268,
     "wof:name":"Sur Sprl",
     "wof:parent_id":85801201,
     "wof:placetype":"venue",

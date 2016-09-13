@@ -2,6 +2,10 @@
   "id": 1041938011,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 153 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"153",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041938011,
-    "wof:lastmodified":1473489577,
+    "wof:lastmodified":1473722284,
     "wof:name":"E. Borgmans",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

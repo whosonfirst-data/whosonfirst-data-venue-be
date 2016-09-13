@@ -2,6 +2,10 @@
   "id": 1042000197,
   "type": "Feature",
   "properties": {
+    "addr:full":"341 Chaussee De Boondael 1050 Bruxelles 341",
+    "addr:housenumber":"341",
+    "addr:postcode":"1050;341",
+    "addr:street":"Chaussee De Boondael",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000197,
-    "wof:lastmodified":1473492322,
+    "wof:lastmodified":1473719228,
     "wof:name":"Caviran Sa",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

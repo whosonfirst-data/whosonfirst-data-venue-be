@@ -2,6 +2,10 @@
   "id": 1058098929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue E. Van Elewijck 123 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"123",
+    "addr:postcode":"1780",
+    "addr:street":"Rue E. Van Elewijck;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058098929,
-    "wof:lastmodified":1473509530,
+    "wof:lastmodified":1473722499,
     "wof:name":"De Saert Ph",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

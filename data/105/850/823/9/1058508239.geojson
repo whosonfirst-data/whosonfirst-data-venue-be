@@ -2,6 +2,10 @@
   "id": 1058508239,
   "type": "Feature",
   "properties": {
+    "addr:full":"Diepestraat 123 Antwerpen Antwerpen 2060",
+    "addr:housenumber":"123",
+    "addr:postcode":"2060",
+    "addr:street":"Diepestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058508239,
-    "wof:lastmodified":1473528452,
+    "wof:lastmodified":1473722305,
     "wof:name":"Panaderia San Juan",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

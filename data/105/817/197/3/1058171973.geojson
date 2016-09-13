@@ -2,6 +2,10 @@
   "id": 1058171973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue H. De Mol 44 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"44",
+    "addr:postcode":"1780",
+    "addr:street":"Rue H. De Mol;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058171973,
-    "wof:lastmodified":1473512986,
+    "wof:lastmodified":1473719401,
     "wof:name":"Liard A",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

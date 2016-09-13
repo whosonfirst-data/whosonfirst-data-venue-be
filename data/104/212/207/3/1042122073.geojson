@@ -2,6 +2,10 @@
   "id": 1042122073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoornstraat 5 Box 3 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"5;3",
+    "addr:postcode":"9000",
+    "addr:street":"Hoornstraat;Box;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042122073,
-    "wof:lastmodified":1473497507,
+    "wof:lastmodified":1473720214,
     "wof:name":"Softolution Bvba",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

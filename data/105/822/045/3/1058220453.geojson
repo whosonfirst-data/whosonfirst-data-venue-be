@@ -2,6 +2,10 @@
   "id": 1058220453,
   "type": "Feature",
   "properties": {
+    "addr:full":"Markt 37 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"37",
+    "addr:postcode":"1780",
+    "addr:street":"Markt;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058220453,
-    "wof:lastmodified":1473515107,
+    "wof:lastmodified":1473719445,
     "wof:name":"Ring Estate",
     "wof:parent_id":85801089,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058701229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Paris 19 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"19;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058701229,
-    "wof:lastmodified":1473537168,
+    "wof:lastmodified":1473719799,
     "wof:name":"Printemps (le)",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",

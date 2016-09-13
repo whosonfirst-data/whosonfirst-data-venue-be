@@ -2,6 +2,10 @@
   "id": 1058100123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karel De Stoutelaan 98 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"98",
+    "addr:postcode":"8000",
+    "addr:street":"Karel De Stoutelaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1058100123,
-    "wof:lastmodified":1473509595,
+    "wof:lastmodified":1473718871,
     "wof:name":"Holvoet P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

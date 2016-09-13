@@ -2,6 +2,10 @@
   "id": 1058352611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bevrijdingslaan 284 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"284",
+    "addr:postcode":"9000",
+    "addr:street":"Bevrijdingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058352611,
-    "wof:lastmodified":1473521068,
+    "wof:lastmodified":1473720632,
     "wof:name":"Pegasos",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

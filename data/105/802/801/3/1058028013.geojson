@@ -2,6 +2,10 @@
   "id": 1058028013,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kortrijksepoortstraat 95 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"95",
+    "addr:postcode":"9000",
+    "addr:street":"Kortrijksepoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058028013,
-    "wof:lastmodified":1473506605,
+    "wof:lastmodified":1473722283,
     "wof:name":"Medical Lasers",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

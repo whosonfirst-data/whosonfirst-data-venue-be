@@ -2,6 +2,10 @@
   "id": 1058016757,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Pierre Curie 20 Box 9 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"20;9",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Pierre Curie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058016757,
-    "wof:lastmodified":1473506088,
+    "wof:lastmodified":1473720936,
     "wof:name":"Taymans N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

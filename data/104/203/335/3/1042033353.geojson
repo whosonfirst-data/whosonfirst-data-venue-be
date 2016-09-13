@@ -2,6 +2,10 @@
   "id": 1042033353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Palfijnstraat 36 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"36",
+    "addr:postcode":"9000",
+    "addr:street":"Jan Palfijnstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042033353,
-    "wof:lastmodified":1473493587,
+    "wof:lastmodified":1473720886,
     "wof:name":"Bonami",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

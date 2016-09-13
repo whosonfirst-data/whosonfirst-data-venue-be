@@ -2,6 +2,10 @@
   "id": 1058763281,
   "type": "Feature",
   "properties": {
+    "addr:full":"Postbus 165 Wilrijk1 Antwerpen 2610",
+    "addr:housenumber":"165",
+    "addr:postcode":"wilrijk1;2610",
+    "addr:street":"Postbus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058763281,
-    "wof:lastmodified":1473539917,
+    "wof:lastmodified":1473720855,
     "wof:name":"H.m.c.c.p.",
     "wof:parent_id":85773391,
     "wof:placetype":"venue",

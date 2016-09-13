@@ -2,6 +2,10 @@
   "id": 1058066017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-denijslaan 343 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"343",
+    "addr:postcode":"9000",
+    "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058066017,
-    "wof:lastmodified":1473508156,
+    "wof:lastmodified":1473721825,
     "wof:name":"Studio 345",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

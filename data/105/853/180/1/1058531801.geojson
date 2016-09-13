@@ -2,6 +2,10 @@
   "id": 1058531801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Canadezenstraat 123 Brugge West-Vlaanderen 8380",
+    "addr:housenumber":"123",
+    "addr:postcode":"8380",
+    "addr:street":"Canadezenstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058531801,
-    "wof:lastmodified":1473529575,
+    "wof:lastmodified":1473720242,
     "wof:name":"Johan Dauwens",
     "wof:parent_id":85801391,
     "wof:placetype":"venue",

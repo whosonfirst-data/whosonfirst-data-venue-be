@@ -2,6 +2,10 @@
   "id": 1041834517,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Rixensart 31 Rixensart Brabant Wallon 1332",
+    "addr:housenumber":"31",
+    "addr:postcode":"1332",
+    "addr:street":"Rue De Rixensart;Wallon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1041834517,
-    "wof:lastmodified":1473485124,
+    "wof:lastmodified":1473721375,
     "wof:name":"La Poste",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

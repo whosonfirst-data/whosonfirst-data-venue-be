@@ -2,6 +2,10 @@
   "id": 1041632015,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Tentoonstellingslaan 1090 Brussel 317",
+    "addr:housenumber":"317",
+    "addr:postcode":"1090;317",
+    "addr:street":"Tentoonstellingslaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041632015,
-    "wof:lastmodified":1473476595,
+    "wof:lastmodified":1473720270,
     "wof:name":"Theo Van Avondt & Co Nv",
     "wof:parent_id":85801243,
     "wof:placetype":"venue",

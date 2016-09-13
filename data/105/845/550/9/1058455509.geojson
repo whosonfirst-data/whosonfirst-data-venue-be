@@ -2,6 +2,10 @@
   "id": 1058455509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Holstraat 98 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"98",
+    "addr:postcode":"9000",
+    "addr:street":"Holstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058455509,
-    "wof:lastmodified":1473525970,
+    "wof:lastmodified":1473721569,
     "wof:name":"Newsgallery",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

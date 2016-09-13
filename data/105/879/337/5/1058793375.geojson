@@ -2,6 +2,10 @@
   "id": 1058793375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Marie De Bourgogne 52 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"52;4",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Marie De Bourgogne;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058793375,
-    "wof:lastmodified":1473541248,
+    "wof:lastmodified":1473720854,
     "wof:name":"Operation Terre Des Enfants",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

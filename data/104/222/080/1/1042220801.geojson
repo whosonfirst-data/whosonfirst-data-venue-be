@@ -2,6 +2,10 @@
   "id": 1042220801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Heirweg 27 Sint-martens-latem Oost-Vlaanderen 9830",
+    "addr:housenumber":"27",
+    "addr:postcode":"9830",
+    "addr:street":"Hoge Heirweg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1042220801,
-    "wof:lastmodified":1473502931,
+    "wof:lastmodified":1473719603,
     "wof:name":"Danny Meirlaen",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058229867,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peter Benoitlaan 36 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"36",
+    "addr:postcode":"9050",
+    "addr:street":"Peter Benoitlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058229867,
-    "wof:lastmodified":1473515516,
+    "wof:lastmodified":1473722869,
     "wof:name":"Ernest Van Sassenbroeck",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

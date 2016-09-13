@@ -2,6 +2,10 @@
   "id": 1041699331,
   "type": "Feature",
   "properties": {
+    "addr:full":"Molenaarsstraat 111 Box 4 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"111;4",
+    "addr:postcode":"9000",
+    "addr:street":"Molenaarsstraat;Box;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041699331,
-    "wof:lastmodified":1473479252,
+    "wof:lastmodified":1473722738,
     "wof:name":"The Hunting Division Nv",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

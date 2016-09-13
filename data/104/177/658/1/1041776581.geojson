@@ -2,6 +2,10 @@
   "id": 1041776581,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 490 Box 4 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"490;4",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041776581,
-    "wof:lastmodified":1473482788,
+    "wof:lastmodified":1473721996,
     "wof:name":"Froment A",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

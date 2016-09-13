@@ -2,6 +2,10 @@
   "id": 1058871179,
   "type": "Feature",
   "properties": {
+    "addr:full":"Maaltebruggestraat 143a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"143a",
+    "addr:postcode":"9000",
+    "addr:street":"Maaltebruggestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058871179,
-    "wof:lastmodified":1473544619,
+    "wof:lastmodified":1473719863,
     "wof:name":"Artiflock",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

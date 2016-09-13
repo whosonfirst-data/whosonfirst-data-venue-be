@@ -2,6 +2,10 @@
   "id": 1058068505,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Droixhe 14 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"14;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue De Droixhe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1058068505,
-    "wof:lastmodified":1473508257,
+    "wof:lastmodified":1473722501,
     "wof:name":"Gp Distribution Sprl",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",

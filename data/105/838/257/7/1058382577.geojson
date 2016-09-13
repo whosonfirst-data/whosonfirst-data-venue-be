@@ -2,6 +2,10 @@
   "id": 1058382577,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Louis Schmidt 119 Box 3 Bruxelles (etterbeek) Bruxelles-Capitale 1040",
+    "addr:housenumber":"119;3",
+    "addr:postcode":"1040",
+    "addr:street":"Boulevard Louis Schmidt;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058382577,
-    "wof:lastmodified":1473522465,
+    "wof:lastmodified":1473720563,
     "wof:name":"Granit Consulting",
     "wof:parent_id":85801521,
     "wof:placetype":"venue",

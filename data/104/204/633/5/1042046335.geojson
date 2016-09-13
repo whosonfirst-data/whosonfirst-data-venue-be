@@ -2,6 +2,10 @@
   "id": 1042046335,
   "type": "Feature",
   "properties": {
+    "addr:full":"Derbystraat 259 Gent Oost-Vlaanderen 9051",
+    "addr:housenumber":"259",
+    "addr:postcode":"9051",
+    "addr:street":"Derbystraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042046335,
-    "wof:lastmodified":1473494111,
+    "wof:lastmodified":1473721822,
     "wof:name":"Stand-by",
     "wof:parent_id":85801137,
     "wof:placetype":"venue",

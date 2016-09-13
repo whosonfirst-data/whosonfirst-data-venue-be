@@ -2,6 +2,10 @@
   "id": 1041775395,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Dethy 35 Box 6 Bruxelles (saint-gilles) Bruxelles-Capitale 1060",
+    "addr:housenumber":"35;6",
+    "addr:postcode":"1060",
+    "addr:street":"Rue Dethy;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041775395,
-    "wof:lastmodified":1473482748,
+    "wof:lastmodified":1473721579,
     "wof:name":"Derriou L",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

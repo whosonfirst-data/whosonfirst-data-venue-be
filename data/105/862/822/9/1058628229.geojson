@@ -2,6 +2,10 @@
   "id": 1058628229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bernadettestraat 184 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"184",
+    "addr:postcode":"9000",
+    "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058628229,
-    "wof:lastmodified":1473533942,
+    "wof:lastmodified":1473722364,
     "wof:name":"Bierfonteintje ('t)",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

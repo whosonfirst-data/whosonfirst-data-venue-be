@@ -2,6 +2,10 @@
   "id": 1058416221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koopvaardijlaan 30 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"30",
+    "addr:postcode":"9000",
+    "addr:street":"Koopvaardijlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058416221,
-    "wof:lastmodified":1473523953,
+    "wof:lastmodified":1473721780,
     "wof:name":"Apis Bvba",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",

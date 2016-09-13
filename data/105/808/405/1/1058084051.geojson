@@ -2,6 +2,10 @@
   "id": 1058084051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Wollestraat 25 Box 3 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"25;3",
+    "addr:postcode":"8000",
+    "addr:street":"Wollestraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058084051,
-    "wof:lastmodified":1473508911,
+    "wof:lastmodified":1473721038,
     "wof:name":"Interior Design Danny Dufait Bvba",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

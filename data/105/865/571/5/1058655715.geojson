@@ -2,6 +2,10 @@
   "id": 1058655715,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 130b Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"130b",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058655715,
-    "wof:lastmodified":1473535218,
+    "wof:lastmodified":1473721530,
     "wof:name":"Bat Services Bvba",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

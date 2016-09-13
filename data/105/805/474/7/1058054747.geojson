@@ -2,6 +2,10 @@
   "id": 1058054747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-salvatorstraat 7 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"7",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Salvatorstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058054747,
-    "wof:lastmodified":1473507708,
+    "wof:lastmodified":1473721407,
     "wof:name":"Flordi",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

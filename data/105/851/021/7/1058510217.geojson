@@ -2,6 +2,10 @@
   "id": 1058510217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersaalststraat 41 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersaalststraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058510217,
-    "wof:lastmodified":1473528544,
+    "wof:lastmodified":1473719015,
     "wof:name":"Kaashoeve",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

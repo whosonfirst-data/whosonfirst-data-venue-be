@@ -2,6 +2,10 @@
   "id": 1042277479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Brabantdam 123 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"123",
+    "addr:postcode":"9000",
+    "addr:street":"Brabantdam;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042277479,
-    "wof:lastmodified":1473505546,
+    "wof:lastmodified":1473722154,
     "wof:name":"Celin",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

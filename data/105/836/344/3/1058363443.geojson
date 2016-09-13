@@ -2,6 +2,10 @@
   "id": 1058363443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tennisstraat 124 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"124",
+    "addr:postcode":"9050",
+    "addr:street":"Tennisstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1058363443,
-    "wof:lastmodified":1473521578,
+    "wof:lastmodified":1473720975,
     "wof:name":"Jacques Van Peteghem",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

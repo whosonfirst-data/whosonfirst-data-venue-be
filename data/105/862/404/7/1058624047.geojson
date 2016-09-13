@@ -2,6 +2,10 @@
   "id": 1058624047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Jenatzy 27 Box 9 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"27;9",
+    "addr:postcode":"1030",
+    "addr:street":"Rue Jenatzy;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058624047,
-    "wof:lastmodified":1473533748,
+    "wof:lastmodified":1473721214,
     "wof:name":"Accord Communication",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

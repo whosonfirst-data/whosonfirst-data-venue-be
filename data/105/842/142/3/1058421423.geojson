@@ -2,6 +2,10 @@
   "id": 1058421423,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Bouchers 43 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"43",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Des Bouchers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058421423,
-    "wof:lastmodified":1473524239,
+    "wof:lastmodified":1473719959,
     "wof:name":"Reneau S",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

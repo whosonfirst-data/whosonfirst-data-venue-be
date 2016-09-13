@@ -2,6 +2,10 @@
   "id": 1042000057,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Rue Voot 1200 Woluwe St Lambert 28",
+    "addr:housenumber":"28;28",
+    "addr:postcode":"1200",
+    "addr:street":"Rue Voot;Woluwe St Lambert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000057,
-    "wof:lastmodified":1473492317,
+    "wof:lastmodified":1473718916,
     "wof:name":"Alliance Cafe",
     "wof:parent_id":85802023,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041599703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Delvinlaan 98b99 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"98b99",
+    "addr:postcode":"9000",
+    "addr:street":"Delvinlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041599703,
-    "wof:lastmodified":1473475283,
+    "wof:lastmodified":1473722834,
     "wof:name":"Biscuiterie Le Vesuve",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

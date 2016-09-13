@@ -2,6 +2,10 @@
   "id": 1041949263,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 46 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"46",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041949263,
-    "wof:lastmodified":1473490084,
+    "wof:lastmodified":1473722778,
     "wof:name":"Carmelitana",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

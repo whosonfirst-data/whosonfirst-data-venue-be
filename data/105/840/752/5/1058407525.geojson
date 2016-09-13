@@ -2,6 +2,10 @@
   "id": 1058407525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 43 Box 9 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"43;9",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Box;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058407525,
-    "wof:lastmodified":1473523572,
+    "wof:lastmodified":1473722156,
     "wof:name":"Parco Bvba",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

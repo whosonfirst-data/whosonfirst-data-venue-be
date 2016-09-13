@@ -2,6 +2,10 @@
   "id": 1042000795,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Boulevard De La Cambre 1000 Bruxelles 12",
+    "addr:housenumber":"12",
+    "addr:postcode":"1000;12",
+    "addr:street":"Boulevard De La Cambre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000795,
-    "wof:lastmodified":1473492342,
+    "wof:lastmodified":1473719662,
     "wof:name":"La Truffe Noire Sa",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

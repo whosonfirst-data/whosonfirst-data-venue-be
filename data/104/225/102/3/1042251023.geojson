@@ -2,6 +2,10 @@
   "id": 1042251023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Joseph Van Hove 123 Kraainem Vlaams-Brabant 1950",
+    "addr:housenumber":"123",
+    "addr:postcode":"1950",
+    "addr:street":"Rue Joseph Van Hove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042251023,
-    "wof:lastmodified":1473504289,
+    "wof:lastmodified":1473719727,
     "wof:name":"Item",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",

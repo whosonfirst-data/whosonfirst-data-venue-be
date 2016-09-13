@@ -2,6 +2,10 @@
   "id": 1058891119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Paul Deschanel 90 Box 9 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"90;9",
+    "addr:postcode":"1030",
+    "addr:street":"Avenue Paul Deschanel;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058891119,
-    "wof:lastmodified":1473545521,
+    "wof:lastmodified":1473719795,
     "wof:name":"Dara Transports",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

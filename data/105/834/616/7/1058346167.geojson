@@ -2,6 +2,10 @@
   "id": 1058346167,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Des Arts 44 Box 8 Bruxelles (etterbeek) Bruxelles-Capitale 1040",
+    "addr:housenumber":"44;8",
+    "addr:postcode":"1040",
+    "addr:street":"Avenue Des Arts;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058346167,
-    "wof:lastmodified":1473520777,
+    "wof:lastmodified":1473721752,
     "wof:name":"Rousselle Olivier",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

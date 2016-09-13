@@ -2,6 +2,10 @@
   "id": 1042140081,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-benedictusstraat 141 Mortsel Antwerpen 2640",
+    "addr:housenumber":"141",
+    "addr:postcode":"2640",
+    "addr:street":"Sint-Benedictusstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1042140081,
-    "wof:lastmodified":1473498500,
+    "wof:lastmodified":1473718918,
     "wof:name":"Vandewalle L",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

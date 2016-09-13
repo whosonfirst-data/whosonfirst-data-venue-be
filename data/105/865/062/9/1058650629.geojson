@@ -2,6 +2,10 @@
   "id": 1058650629,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De L'observatoire 112 Box 7 Bruxelles (uccle) Bruxelles-Capitale 1180",
+    "addr:housenumber":"112;7",
+    "addr:postcode":"1180",
+    "addr:street":"Avenue De L'Observatoire;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058650629,
-    "wof:lastmodified":1473534982,
+    "wof:lastmodified":1473719514,
     "wof:name":"Horizons Sprl",
     "wof:parent_id":85801553,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058965319,
   "type": "Feature",
   "properties": {
+    "addr:full":"Groendreef 225 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"225",
+    "addr:postcode":"9000",
+    "addr:street":"Groendreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058965319,
-    "wof:lastmodified":1473549012,
+    "wof:lastmodified":1473721428,
     "wof:name":"Durieux Bvba",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",

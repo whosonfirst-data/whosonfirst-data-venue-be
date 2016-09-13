@@ -2,6 +2,10 @@
   "id": 1058155603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Franklin Roosevelt 112 Box 8 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"112;8",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Franklin Roosevelt;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058155603,
-    "wof:lastmodified":1473512255,
+    "wof:lastmodified":1473721602,
     "wof:name":"Boon Henri",
     "wof:parent_id":85800899,
     "wof:placetype":"venue",

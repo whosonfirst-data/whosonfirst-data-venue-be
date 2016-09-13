@@ -2,6 +2,10 @@
   "id": 1042194881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Visserij 201 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"201",
+    "addr:postcode":"9000",
+    "addr:street":"Visserij;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042194881,
-    "wof:lastmodified":1473501627,
+    "wof:lastmodified":1473721350,
     "wof:name":"Apple Court",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

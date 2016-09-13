@@ -2,6 +2,10 @@
   "id": 1041828355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koningin Astridlaan 185 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"185",
+    "addr:postcode":"9000",
+    "addr:street":"Koningin Astridlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041828355,
-    "wof:lastmodified":1473484872,
+    "wof:lastmodified":1473722315,
     "wof:name":"Coris-belguim",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

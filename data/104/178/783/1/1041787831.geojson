@@ -2,6 +2,10 @@
   "id": 1041787831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 38 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"38",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041787831,
-    "wof:lastmodified":1473483195,
+    "wof:lastmodified":1473722233,
     "wof:name":"Limits",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

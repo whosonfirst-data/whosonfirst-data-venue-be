@@ -2,6 +2,10 @@
   "id": 1058393881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Waterloo 74 Charleroi Hainaut 6000",
+    "addr:housenumber":"74",
+    "addr:postcode":"6000",
+    "addr:street":"Avenue De Waterloo;Hainaut",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1058393881,
-    "wof:lastmodified":1473522955,
+    "wof:lastmodified":1473721174,
     "wof:name":"Mobilphone",
     "wof:parent_id":85794353,
     "wof:placetype":"venue",

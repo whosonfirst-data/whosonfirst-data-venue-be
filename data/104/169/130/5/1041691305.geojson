@@ -2,6 +2,10 @@
   "id": 1041691305,
   "type": "Feature",
   "properties": {
+    "addr:full":"Blekersdijk 45 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"45",
+    "addr:postcode":"9000",
+    "addr:street":"Blekersdijk;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041691305,
-    "wof:lastmodified":1473478960,
+    "wof:lastmodified":1473719867,
     "wof:name":"Bureau Mattblack",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058842635,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 210 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"210",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058842635,
-    "wof:lastmodified":1473543422,
+    "wof:lastmodified":1473720705,
     "wof:name":"Unic",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

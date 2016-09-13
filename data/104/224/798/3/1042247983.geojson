@@ -2,6 +2,10 @@
   "id": 1042247983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bld Lambermont 140 Bte 10 Bruxelles Bruxelles-Capitale 1030",
+    "addr:housenumber":"140;10",
+    "addr:postcode":"1030",
+    "addr:street":"Bld Lambermont;Bte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042247983,
-    "wof:lastmodified":1473504164,
+    "wof:lastmodified":1473722318,
     "wof:name":"Goffin Meyvis Belgium Nv",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",

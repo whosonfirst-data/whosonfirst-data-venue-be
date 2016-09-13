@@ -2,6 +2,10 @@
   "id": 1041551355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersaalststraat 44b Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"44b",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersaalststraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041551355,
-    "wof:lastmodified":1473473245,
+    "wof:lastmodified":1473719964,
     "wof:name":"Van Der Heyden",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

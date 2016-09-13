@@ -2,6 +2,10 @@
   "id": 1042246823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De L'ind\u00c9pendance 123 Sint-jans-molenbeek/molenbeek- Bruxelles-Capitale 1080",
+    "addr:housenumber":"123",
+    "addr:postcode":"1080",
+    "addr:street":"Rue De;\u0301Pendance;Molenbeek",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1042246823,
-    "wof:lastmodified":1473504116,
+    "wof:lastmodified":1473721929,
     "wof:name":"Haesaert & Metten",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",

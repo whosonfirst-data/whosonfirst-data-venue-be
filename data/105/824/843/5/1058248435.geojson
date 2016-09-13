@@ -2,6 +2,10 @@
   "id": 1058248435,
   "type": "Feature",
   "properties": {
+    "addr:full":"John Kennedylaan 52 Gent Oost-Vlaanderen 9042",
+    "addr:housenumber":"52",
+    "addr:postcode":"9042",
+    "addr:street":"John Kennedylaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1058248435,
-    "wof:lastmodified":1473516346,
+    "wof:lastmodified":1473722513,
     "wof:name":"Menge",
     "wof:parent_id":85862087,
     "wof:placetype":"venue",

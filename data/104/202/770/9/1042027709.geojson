@@ -2,6 +2,10 @@
   "id": 1042027709,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 126 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"126",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042027709,
-    "wof:lastmodified":1473493346,
+    "wof:lastmodified":1473722188,
     "wof:name":"Vlaams Rechtsgenootschap",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

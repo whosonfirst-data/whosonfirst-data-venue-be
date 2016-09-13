@@ -2,6 +2,10 @@
   "id": 1041834653,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Saint-lambert 139 Sint-lambrechts-woluwe/woluwe-saint-lambert Bruxelles-Capitale 1200",
+    "addr:housenumber":"139;/",
+    "addr:postcode":"1200",
+    "addr:street":"Rue Saint-Lambert;Sint-Lambrechts-Woluwe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041834653,
-    "wof:lastmodified":1473485129,
+    "wof:lastmodified":1473721378,
     "wof:name":"La Poste",
     "wof:parent_id":85801825,
     "wof:placetype":"venue",

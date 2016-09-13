@@ -2,6 +2,10 @@
   "id": 1058655135,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Zonder Vreesstraat 50 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"50",
+    "addr:postcode":"9000",
+    "addr:street":"Jan Zonder Vreesstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058655135,
-    "wof:lastmodified":1473535197,
+    "wof:lastmodified":1473721399,
     "wof:name":"Sofie Dhooge",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

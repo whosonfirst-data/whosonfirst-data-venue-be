@@ -2,6 +2,10 @@
   "id": 1058398117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gandastraat 21 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Gandastraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058398117,
-    "wof:lastmodified":1473523134,
+    "wof:lastmodified":1473722343,
     "wof:name":"Vevo",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

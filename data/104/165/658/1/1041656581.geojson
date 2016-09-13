@@ -2,6 +2,10 @@
   "id": 1041656581,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Sylvain Dupuis 233b123 Anderlecht Bruxelles-Capitale 1070",
+    "addr:housenumber":"233b123",
+    "addr:postcode":"1070",
+    "addr:street":"Boulevard Sylvain Dupuis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041656581,
-    "wof:lastmodified":1473477603,
+    "wof:lastmodified":1473721872,
     "wof:name":"Building Concept",
     "wof:parent_id":85800971,
     "wof:placetype":"venue",

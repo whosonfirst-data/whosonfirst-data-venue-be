@@ -2,6 +2,10 @@
   "id": 1058130057,
   "type": "Feature",
   "properties": {
+    "addr:full":"Veldstraat 88 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"88",
+    "addr:postcode":"9000",
+    "addr:street":"Veldstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058130057,
-    "wof:lastmodified":1473510981,
+    "wof:lastmodified":1473718905,
     "wof:name":"Fnac Gent",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058223255,
   "type": "Feature",
   "properties": {
+    "addr:full":"Forelstraat 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"Forelstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058223255,
-    "wof:lastmodified":1473515229,
+    "wof:lastmodified":1473720890,
     "wof:name":"Druk In De Weer",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

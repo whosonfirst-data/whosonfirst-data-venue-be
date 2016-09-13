@@ -2,6 +2,10 @@
   "id": 1042193405,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Montoyer 31-33 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"31-33;4",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Montoyer;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042193405,
-    "wof:lastmodified":1473501547,
+    "wof:lastmodified":1473720823,
     "wof:name":"Fipa-tunisie",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

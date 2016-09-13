@@ -2,6 +2,10 @@
   "id": 1042140737,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Copernic 115 Box 1 Bruxelles (uccle) Bruxelles-Capitale 1180",
+    "addr:housenumber":"115;1",
+    "addr:postcode":"1180",
+    "addr:street":"Rue Copernic;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042140737,
-    "wof:lastmodified":1473498540,
+    "wof:lastmodified":1473719671,
     "wof:name":"Victoria D",
     "wof:parent_id":85801889,
     "wof:placetype":"venue",

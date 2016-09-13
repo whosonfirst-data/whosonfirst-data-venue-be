@@ -2,6 +2,10 @@
   "id": 1042097285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 256 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"256",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042097285,
-    "wof:lastmodified":1473496266,
+    "wof:lastmodified":1473722168,
     "wof:name":"Urbaan De Bock",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058605879,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Avenue Edouard De Thibault 1040 Bruxelles 30",
+    "addr:housenumber":"30",
+    "addr:postcode":"1040;30",
+    "addr:street":"Avenue Edouard De Thibault",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058605879,
-    "wof:lastmodified":1473532868,
+    "wof:lastmodified":1473721675,
     "wof:name":"Identic Sprl",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

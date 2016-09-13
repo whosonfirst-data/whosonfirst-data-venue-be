@@ -2,6 +2,10 @@
   "id": 1058623003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Aardstraat 91 Antwerpen (wilrijk) Antwerpen 2610",
+    "addr:housenumber":"91",
+    "addr:postcode":"2610",
+    "addr:street":"Hoge Aardstraat;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058623003,
-    "wof:lastmodified":1473533697,
+    "wof:lastmodified":1473720836,
     "wof:name":"Dubois A",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",

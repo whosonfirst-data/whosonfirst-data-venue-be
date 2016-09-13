@@ -2,6 +2,10 @@
   "id": 1042134373,
   "type": "Feature",
   "properties": {
+    "addr:full":"Appelstraat 34a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"34a",
+    "addr:postcode":"9000",
+    "addr:street":"Appelstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042134373,
-    "wof:lastmodified":1473498185,
+    "wof:lastmodified":1473721293,
     "wof:name":"Kerckaert K",
     "wof:parent_id":85862083,
     "wof:placetype":"venue",

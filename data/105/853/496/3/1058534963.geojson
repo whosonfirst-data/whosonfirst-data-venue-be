@@ -2,6 +2,10 @@
   "id": 1058534963,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Emile Bouilliot 31 Box 4 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"31;4",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Emile Bouilliot;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058534963,
-    "wof:lastmodified":1473529707,
+    "wof:lastmodified":1473721416,
     "wof:name":"A.m. Consultants",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

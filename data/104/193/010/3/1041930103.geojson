@@ -2,6 +2,10 @@
   "id": 1041930103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Pierre Bauwens 122 Marchienne ( Docheri) Hainaut 6030",
+    "addr:housenumber":"122",
+    "addr:postcode":"6030",
+    "addr:street":"Rue Pierre Bauwens;Marchienne Docheri Hainaut",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1041930103,
-    "wof:lastmodified":1473489257,
+    "wof:lastmodified":1473718918,
     "wof:name":"Elite",
     "wof:parent_id":420546533,
     "wof:placetype":"venue",

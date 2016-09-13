@@ -2,6 +2,10 @@
   "id": 1058545839,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Francois Lef\u00e8bvre 123 Li\u00e8ge 1 (rocourt) Li\u00e8ge 4000",
+    "addr:housenumber":"123;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Francois Lefe\u0300Bvre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1058545839,
-    "wof:lastmodified":1473530180,
+    "wof:lastmodified":1473721719,
     "wof:name":"Labo 4",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041653249,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 348-x Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"348-x",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041653249,
-    "wof:lastmodified":1473477464,
+    "wof:lastmodified":1473720851,
     "wof:name":"Accepto",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

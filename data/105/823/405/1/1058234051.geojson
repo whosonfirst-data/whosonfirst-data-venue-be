@@ -2,6 +2,10 @@
   "id": 1058234051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jules Persijnstraat 109 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"109",
+    "addr:postcode":"9050",
+    "addr:street":"Jules Persijnstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058234051,
-    "wof:lastmodified":1473515701,
+    "wof:lastmodified":1473721179,
     "wof:name":"Crispyn Denis",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

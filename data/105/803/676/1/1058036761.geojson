@@ -2,6 +2,10 @@
   "id": 1058036761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louis Bertrand 102 Box 17d Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"102;17d",
+    "addr:postcode":"1030",
+    "addr:street":"Avenue Louis Bertrand;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058036761,
-    "wof:lastmodified":1473506967,
+    "wof:lastmodified":1473721972,
     "wof:name":"Comptassistance",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

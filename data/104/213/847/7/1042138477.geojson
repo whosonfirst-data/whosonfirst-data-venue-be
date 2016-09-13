@@ -2,6 +2,10 @@
   "id": 1042138477,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Ernest Marneffe 5 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"5;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Ernest Marneffe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042138477,
-    "wof:lastmodified":1473498392,
+    "wof:lastmodified":1473722445,
     "wof:name":"Techy Sandrine",
     "wof:parent_id":85800963,
     "wof:placetype":"venue",

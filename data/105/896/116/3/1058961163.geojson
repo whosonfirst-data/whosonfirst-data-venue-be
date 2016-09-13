@@ -2,6 +2,10 @@
   "id": 1058961163,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Antoine Dansaert 42 Brussel Bruxelles-Capitale 1000",
+    "addr:housenumber":"42",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Antoine Dansaert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058961163,
-    "wof:lastmodified":1473548820,
+    "wof:lastmodified":1473719655,
     "wof:name":"Maison Via Della Spiga",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

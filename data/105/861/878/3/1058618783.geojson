@@ -2,6 +2,10 @@
   "id": 1058618783,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Joseph Ii 40 Box 7 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"40;7",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Joseph Ii;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058618783,
-    "wof:lastmodified":1473533522,
+    "wof:lastmodified":1473722625,
     "wof:name":"Conf\u00e9d\u00e9ration Des Entreprises Norv\u00e9giennes",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

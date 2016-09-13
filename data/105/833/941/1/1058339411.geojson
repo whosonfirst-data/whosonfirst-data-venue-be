@@ -2,6 +2,10 @@
   "id": 1058339411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Capitaine Crespel 2-4 Box 5 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"2-4;5",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Capitaine Crespel;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058339411,
-    "wof:lastmodified":1473520446,
+    "wof:lastmodified":1473722825,
     "wof:name":"Feyt Anne",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

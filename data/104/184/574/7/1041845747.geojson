@@ -2,6 +2,10 @@
   "id": 1041845747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Groendreef 32 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"32",
+    "addr:postcode":"9000",
+    "addr:street":"Groendreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041845747,
-    "wof:lastmodified":1473485616,
+    "wof:lastmodified":1473721654,
     "wof:name":"Autosalon Dewulf Cvba",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

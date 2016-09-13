@@ -2,6 +2,10 @@
   "id": 1058968631,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Mutsaard 42 Box 2 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"42;2",
+    "addr:postcode":"1020",
+    "addr:street":"Avenue Mutsaard;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058968631,
-    "wof:lastmodified":1473549148,
+    "wof:lastmodified":1473722467,
     "wof:name":"Delvingt D",
     "wof:parent_id":85801201,
     "wof:placetype":"venue",

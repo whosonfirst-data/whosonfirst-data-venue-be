@@ -2,6 +2,10 @@
   "id": 1041902655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 81 Box 6 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"81;6",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041902655,
-    "wof:lastmodified":1473488034,
+    "wof:lastmodified":1473720676,
     "wof:name":"Robeco Bank Belgium",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

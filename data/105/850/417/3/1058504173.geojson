@@ -2,6 +2,10 @@
   "id": 1058504173,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Docteur Follet 199 Wemmel Vlaams-Brabant 1780",
+    "addr:housenumber":"199",
+    "addr:postcode":"1780",
+    "addr:street":"Avenue Docteur Follet;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058504173,
-    "wof:lastmodified":1473528280,
+    "wof:lastmodified":1473721192,
     "wof:name":"Bread House",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

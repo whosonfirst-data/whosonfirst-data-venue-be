@@ -2,6 +2,10 @@
   "id": 1042103291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Blauwstraat 108 Gent Oost-Vlaanderen 9032",
+    "addr:housenumber":"108",
+    "addr:postcode":"9032",
+    "addr:street":"Blauwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042103291,
-    "wof:lastmodified":1473496534,
+    "wof:lastmodified":1473720816,
     "wof:name":"Pierre Dierickx",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",

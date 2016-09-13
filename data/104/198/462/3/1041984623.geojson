@@ -2,6 +2,10 @@
   "id": 1041984623,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De La Cath\u00e9drale 113 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"113;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue De La Cathe\u0301Drale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041984623,
-    "wof:lastmodified":1473491695,
+    "wof:lastmodified":1473721359,
     "wof:name":"Maison S Poirier",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",

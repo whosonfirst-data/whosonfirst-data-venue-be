@@ -2,6 +2,10 @@
   "id": 1041767817,
   "type": "Feature",
   "properties": {
+    "addr:full":"Charles De Kerckhovelaan 12c Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"12c",
+    "addr:postcode":"9000",
+    "addr:street":"Charles;Kerckhovelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041767817,
-    "wof:lastmodified":1473482308,
+    "wof:lastmodified":1473722205,
     "wof:name":"Strubbe Wouter",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

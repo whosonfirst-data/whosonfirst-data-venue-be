@@ -2,6 +2,10 @@
   "id": 1041784603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hector Van Wittenberghestraat 43 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"43",
+    "addr:postcode":"9000",
+    "addr:street":"Hector Van Wittenberghestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041784603,
-    "wof:lastmodified":1473483090,
+    "wof:lastmodified":1473721362,
     "wof:name":"Vandeputte J",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

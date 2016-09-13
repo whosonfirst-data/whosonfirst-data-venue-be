@@ -2,6 +2,10 @@
   "id": 1042276937,
   "type": "Feature",
   "properties": {
+    "addr:full":"St. Lievenslaan 35 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35",
+    "addr:postcode":"9000",
+    "addr:street":"St. Lievenslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1042276937,
-    "wof:lastmodified":1473505524,
+    "wof:lastmodified":1473721978,
     "wof:name":"Automatische Muurwinkel",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

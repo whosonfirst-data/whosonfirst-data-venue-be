@@ -2,6 +2,10 @@
   "id": 1058067533,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Hul 49 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"49",
+    "addr:postcode":"8000",
+    "addr:street":"Hoge Hul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058067533,
-    "wof:lastmodified":1473508217,
+    "wof:lastmodified":1473722216,
     "wof:name":"Van Vynckt",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",

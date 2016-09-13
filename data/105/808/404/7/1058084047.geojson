@@ -2,6 +2,10 @@
   "id": 1058084047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gustaaf Callierlaan 231 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"231",
+    "addr:postcode":"9000",
+    "addr:street":"Gustaaf Callierlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058084047,
-    "wof:lastmodified":1473508911,
+    "wof:lastmodified":1473721036,
     "wof:name":"Git'sit Nv-sa",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

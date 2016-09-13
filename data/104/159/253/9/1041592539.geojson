@@ -2,6 +2,10 @@
   "id": 1041592539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ham 41-53 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"41-53",
+    "addr:postcode":"9000",
+    "addr:street":"Ham;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1041592539,
-    "wof:lastmodified":1473474984,
+    "wof:lastmodified":1473720408,
     "wof:name":"Horecfood Nv",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

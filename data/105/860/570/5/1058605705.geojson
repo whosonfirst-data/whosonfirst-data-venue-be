@@ -2,6 +2,10 @@
   "id": 1058605705,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 Chaussee De Boondael 1050 Bruxelles 351",
+    "addr:housenumber":"351",
+    "addr:postcode":"1050;351",
+    "addr:street":"Chaussee De Boondael",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1058605705,
-    "wof:lastmodified":1473532862,
+    "wof:lastmodified":1473721672,
     "wof:name":"Agm Print Shop",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

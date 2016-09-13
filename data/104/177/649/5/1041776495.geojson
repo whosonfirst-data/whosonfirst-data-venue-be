@@ -2,6 +2,10 @@
   "id": 1041776495,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Antoine Dansaert 101 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"101",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Antoine Dansaert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041776495,
-    "wof:lastmodified":1473482786,
+    "wof:lastmodified":1473721893,
     "wof:name":"Franck C",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

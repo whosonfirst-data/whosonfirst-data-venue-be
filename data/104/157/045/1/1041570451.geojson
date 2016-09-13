@@ -2,6 +2,10 @@
   "id": 1041570451,
   "type": "Feature",
   "properties": {
+    "addr:full":"Veldstraat 65a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"65a",
+    "addr:postcode":"9000",
+    "addr:street":"Veldstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041570451,
-    "wof:lastmodified":1473474062,
+    "wof:lastmodified":1473719467,
     "wof:name":"Street One",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

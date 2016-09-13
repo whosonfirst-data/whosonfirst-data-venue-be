@@ -2,6 +2,10 @@
   "id": 1058879949,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stropstraat 150 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"150",
+    "addr:postcode":"9000",
+    "addr:street":"Stropstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058879949,
-    "wof:lastmodified":1473545009,
+    "wof:lastmodified":1473722870,
     "wof:name":"Gidsenbond Van Gent En Oost-vlaanderen",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

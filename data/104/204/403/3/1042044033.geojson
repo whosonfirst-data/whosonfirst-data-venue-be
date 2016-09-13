@@ -2,6 +2,10 @@
   "id": 1042044033,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vlaanderenstraat 127 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"127",
+    "addr:postcode":"9000",
+    "addr:street":"Vlaanderenstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1042044033,
-    "wof:lastmodified":1473494019,
+    "wof:lastmodified":1473721194,
     "wof:name":"Restaurant Hellas",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

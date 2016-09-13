@@ -2,6 +2,10 @@
   "id": 1041625211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-benedictusstraat 132 Mortsel Antwerpen 2640",
+    "addr:housenumber":"132",
+    "addr:postcode":"2640",
+    "addr:street":"Sint-Benedictusstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1041625211,
-    "wof:lastmodified":1473476318,
+    "wof:lastmodified":1473721505,
     "wof:name":"Schouterden G",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

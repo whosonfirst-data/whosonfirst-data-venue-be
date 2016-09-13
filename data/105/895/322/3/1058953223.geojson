@@ -2,6 +2,10 @@
   "id": 1058953223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koestraat 32-38 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"32-38",
+    "addr:postcode":"9000",
+    "addr:street":"Koestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058953223,
-    "wof:lastmodified":1473548445,
+    "wof:lastmodified":1473720832,
     "wof:name":"Petit Bateau",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

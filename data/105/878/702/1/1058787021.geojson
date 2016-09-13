@@ -2,6 +2,10 @@
   "id": 1058787021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Pavie 76 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"76",
+    "addr:postcode":"1000",
+    "addr:street":"Rue De Pavie",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058787021,
-    "wof:lastmodified":1473540957,
+    "wof:lastmodified":1473722075,
     "wof:name":"Du Cote De Chez Max",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

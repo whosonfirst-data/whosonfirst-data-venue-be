@@ -2,6 +2,10 @@
   "id": 1058700055,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Rue Du Craetveld 1120 Bruxelles 137",
+    "addr:housenumber":"137",
+    "addr:postcode":"1120;137",
+    "addr:street":"Rue Du Craetveld",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058700055,
-    "wof:lastmodified":1473537119,
+    "wof:lastmodified":1473718911,
     "wof:name":"Transport Service Demets Sa",
     "wof:parent_id":85801659,
     "wof:placetype":"venue",

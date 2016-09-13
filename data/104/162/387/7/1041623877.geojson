@@ -2,6 +2,10 @@
   "id": 1041623877,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Philippe Le Bon 34 Box 38 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"34 box 38",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Philippe Le Bon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041623877,
-    "wof:lastmodified":1473476260,
+    "wof:lastmodified":1473721198,
     "wof:name":"Guieu P",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

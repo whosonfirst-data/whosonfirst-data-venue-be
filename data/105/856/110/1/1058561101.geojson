@@ -2,6 +2,10 @@
   "id": 1058561101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-rochusstraat 42 Halle Vlaams-Brabant 1500",
+    "addr:housenumber":"42",
+    "addr:postcode":"1500",
+    "addr:street":"Sint-Rochusstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058561101,
-    "wof:lastmodified":1473530866,
+    "wof:lastmodified":1473719834,
     "wof:name":"Laus Peter",
     "wof:parent_id":85802037,
     "wof:placetype":"venue",

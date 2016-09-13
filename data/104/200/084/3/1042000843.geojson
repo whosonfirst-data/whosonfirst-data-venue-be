@@ -2,6 +2,10 @@
   "id": 1042000843,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Rue Des Bouchers 1000 Bruxelles 33",
+    "addr:housenumber":"33",
+    "addr:postcode":"1000;33",
+    "addr:street":"Rue Des Bouchers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000843,
-    "wof:lastmodified":1473492344,
+    "wof:lastmodified":1473719681,
     "wof:name":"Le Vignoble De Margot Sa",
     "wof:parent_id":85802023,
     "wof:placetype":"venue",

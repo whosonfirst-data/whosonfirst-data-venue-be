@@ -2,6 +2,10 @@
   "id": 1041772899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Noorderlaan 98 Box 6 Antwerpen Antwerpen 2030",
+    "addr:housenumber":"98;6",
+    "addr:postcode":"2030",
+    "addr:street":"Noorderlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041772899,
-    "wof:lastmodified":1473482656,
+    "wof:lastmodified":1473720739,
     "wof:name":"Ceulemans-engelen",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

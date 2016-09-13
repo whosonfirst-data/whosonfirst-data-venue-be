@@ -2,6 +2,10 @@
   "id": 1042169059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bernard Spaelaan 143 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"143",
+    "addr:postcode":"9000",
+    "addr:street":"Bernard Spaelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042169059,
-    "wof:lastmodified":1473500062,
+    "wof:lastmodified":1473722557,
     "wof:name":"Blue Birds Gent",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

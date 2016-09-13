@@ -2,6 +2,10 @@
   "id": 1058318017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 42 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058318017,
-    "wof:lastmodified":1473519388,
+    "wof:lastmodified":1473722397,
     "wof:name":"Stedelijke Kribbe",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

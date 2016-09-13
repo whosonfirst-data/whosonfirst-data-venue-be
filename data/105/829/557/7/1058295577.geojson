@@ -2,6 +2,10 @@
   "id": 1058295577,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Avenue Albert-elisabeth 1200 Bruxelles 46",
+    "addr:housenumber":"46",
+    "addr:postcode":"1200;46",
+    "addr:street":"Avenue Albert-Elisabeth",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058295577,
-    "wof:lastmodified":1473518387,
+    "wof:lastmodified":1473721609,
     "wof:name":"Garage Francorchamps Sa",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

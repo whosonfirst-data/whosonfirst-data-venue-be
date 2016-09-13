@@ -2,6 +2,10 @@
   "id": 1041721973,
   "type": "Feature",
   "properties": {
+    "addr:full":"570 Dorpstraat 3061 Leesdaal 570",
+    "addr:housenumber":"570",
+    "addr:postcode":"3061",
+    "addr:street":"Dorpstraat;Leesdaal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041721973,
-    "wof:lastmodified":1473480151,
+    "wof:lastmodified":1473720162,
     "wof:name":"Samaco Nv",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",

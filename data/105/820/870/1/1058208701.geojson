@@ -2,6 +2,10 @@
   "id": 1058208701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peter Benoitlaan 30 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"30",
+    "addr:postcode":"9050",
+    "addr:street":"Peter Benoitlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058208701,
-    "wof:lastmodified":1473514589,
+    "wof:lastmodified":1473722491,
     "wof:name":"Fa. Naudts",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

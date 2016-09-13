@@ -2,6 +2,10 @@
   "id": 1041672091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Moutstraat 140 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"140",
+    "addr:postcode":"9000",
+    "addr:street":"Moutstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041672091,
-    "wof:lastmodified":1473478233,
+    "wof:lastmodified":1473719819,
     "wof:name":"E.n.y. Consulting",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

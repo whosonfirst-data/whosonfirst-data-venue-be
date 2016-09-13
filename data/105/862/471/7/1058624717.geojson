@@ -2,6 +2,10 @@
   "id": 1058624717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Beaulieu 12 Box 6 Bruxelles (auderghem) Bruxelles-Capitale 1160",
+    "addr:housenumber":"12;6",
+    "addr:postcode":"1160",
+    "addr:street":"Avenue De Beaulieu;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058624717,
-    "wof:lastmodified":1473533778,
+    "wof:lastmodified":1473721391,
     "wof:name":"Honai R",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",

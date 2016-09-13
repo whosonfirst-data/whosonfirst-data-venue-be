@@ -2,6 +2,10 @@
   "id": 1042066149,
   "type": "Feature",
   "properties": {
+    "addr:full":"Brabantdam 106 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"106",
+    "addr:postcode":"9000",
+    "addr:street":"Brabantdam;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1042066149,
-    "wof:lastmodified":1473494914,
+    "wof:lastmodified":1473721827,
     "wof:name":"Abc",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

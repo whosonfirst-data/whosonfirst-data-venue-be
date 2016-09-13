@@ -2,6 +2,10 @@
   "id": 1058055899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Breydelstraat 6 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"6",
+    "addr:postcode":"9000",
+    "addr:street":"Jan Breydelstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058055899,
-    "wof:lastmodified":1473507755,
+    "wof:lastmodified":1473721761,
     "wof:name":"Papaver",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

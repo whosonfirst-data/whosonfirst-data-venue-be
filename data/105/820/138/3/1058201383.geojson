@@ -2,6 +2,10 @@
   "id": 1058201383,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vilvoordelaan 155 Box 2 Machelen Vlaams-Brabant 1830",
+    "addr:housenumber":"155;2",
+    "addr:postcode":"1830",
+    "addr:street":"Vilvoordelaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058201383,
-    "wof:lastmodified":1473514259,
+    "wof:lastmodified":1473719901,
     "wof:name":"Pirtek Brussel Noord",
     "wof:parent_id":85800977,
     "wof:placetype":"venue",

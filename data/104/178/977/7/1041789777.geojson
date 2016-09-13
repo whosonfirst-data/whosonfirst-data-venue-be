@@ -2,6 +2,10 @@
   "id": 1041789777,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 42 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041789777,
-    "wof:lastmodified":1473483272,
+    "wof:lastmodified":1473722835,
     "wof:name":"Huis Audima (dhr. Van Merhaege)",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

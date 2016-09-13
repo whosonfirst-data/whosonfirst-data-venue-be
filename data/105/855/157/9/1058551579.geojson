@@ -2,6 +2,10 @@
   "id": 1058551579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boulevard Louis Mettewie 89 Box 8 Bruxelles (molenbeek-saint-jean) Bruxelles-Capitale 1080",
+    "addr:housenumber":"89;8",
+    "addr:postcode":"1080",
+    "addr:street":"Boulevard Louis Mettewie;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058551579,
-    "wof:lastmodified":1473530431,
+    "wof:lastmodified":1473720005,
     "wof:name":"D'adesky C",
     "wof:parent_id":85801767,
     "wof:placetype":"venue",

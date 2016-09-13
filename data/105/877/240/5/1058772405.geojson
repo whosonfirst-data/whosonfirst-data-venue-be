@@ -2,6 +2,10 @@
   "id": 1058772405,
   "type": "Feature",
   "properties": {
+    "addr:full":"Steenkaai 34 Box 5 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"34;5",
+    "addr:postcode":"8000",
+    "addr:street":"Steenkaai;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058772405,
-    "wof:lastmodified":1473540354,
+    "wof:lastmodified":1473720425,
     "wof:name":"Foma Service Nv",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

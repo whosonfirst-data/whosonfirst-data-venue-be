@@ -2,6 +2,10 @@
   "id": 1042000351,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Kraanplein 8000 Brugge 5",
+    "addr:housenumber":"5;5",
+    "addr:postcode":"8000",
+    "addr:street":"Kraanplein",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000351,
-    "wof:lastmodified":1473492327,
+    "wof:lastmodified":1473719415,
     "wof:name":"De Vuurmolen Nv",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",

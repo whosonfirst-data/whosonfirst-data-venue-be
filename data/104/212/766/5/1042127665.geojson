@@ -2,6 +2,10 @@
   "id": 1042127665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Monseigneur Van Waeyenberghlaan 36 Box 6 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"36;6",
+    "addr:postcode":"3000",
+    "addr:street":"Monseigneur Van Waeyenberghlaan;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1042127665,
-    "wof:lastmodified":1473497823,
+    "wof:lastmodified":1473722239,
     "wof:name":"Poppe H",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041780889,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De L'association 69 Box 5 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"69;5",
+    "addr:postcode":"1000",
+    "addr:street":"Rue De L'Association;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041780889,
-    "wof:lastmodified":1473482948,
+    "wof:lastmodified":1473719660,
     "wof:name":"Pecheur B",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

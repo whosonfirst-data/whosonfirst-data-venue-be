@@ -2,6 +2,10 @@
   "id": 1041785899,
   "type": "Feature",
   "properties": {
+    "addr:full":"P. J. Verhaghenstraat 19 Box 301 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"19;301",
+    "addr:postcode":"3000",
+    "addr:street":"P.;Verhaghenstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1041785899,
-    "wof:lastmodified":1473483131,
+    "wof:lastmodified":1473721677,
     "wof:name":"Willaert E",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

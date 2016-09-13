@@ -2,6 +2,10 @@
   "id": 1041660557,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rederskaai 9 Poort 13 Brussel Bruxelles-Capitale 1000",
+    "addr:housenumber":"9;13",
+    "addr:postcode":"1000",
+    "addr:street":"Rederskaai;Poort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041660557,
-    "wof:lastmodified":1473477777,
+    "wof:lastmodified":1473719498,
     "wof:name":"Belgrasa Nv",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

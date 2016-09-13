@@ -2,6 +2,10 @@
   "id": 1042062943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Neuve 111 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"111",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Neuve",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042062943,
-    "wof:lastmodified":1473494788,
+    "wof:lastmodified":1473720765,
     "wof:name":"Inno S.a.",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

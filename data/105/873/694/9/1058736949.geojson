@@ -2,6 +2,10 @@
   "id": 1058736949,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-salvatorstraat 12 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"12",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Salvatorstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058736949,
-    "wof:lastmodified":1473538767,
+    "wof:lastmodified":1473721970,
     "wof:name":"Coiffure Francine",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

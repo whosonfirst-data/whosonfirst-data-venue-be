@@ -2,6 +2,10 @@
   "id": 1041910157,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-amandstraat 48 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"48",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Amandstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041910157,
-    "wof:lastmodified":1473488324,
+    "wof:lastmodified":1473718959,
     "wof:name":"Groep Argenta",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

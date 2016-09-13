@@ -2,6 +2,10 @@
   "id": 1041749741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Boomgaardstraat 5 Box 1 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"5;1",
+    "addr:postcode":"8000",
+    "addr:street":"Boomgaardstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041749741,
-    "wof:lastmodified":1473481359,
+    "wof:lastmodified":1473722865,
     "wof:name":"Brugse Automaten",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",

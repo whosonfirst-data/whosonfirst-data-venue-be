@@ -2,6 +2,10 @@
   "id": 1041999965,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Lambeaulaan 1200 Brussel 40",
+    "addr:housenumber":"40;40",
+    "addr:postcode":"1200",
+    "addr:street":"Lambeaulaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041999965,
-    "wof:lastmodified":1473492314,
+    "wof:lastmodified":1473722905,
     "wof:name":"Belga Translations Bvba",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",

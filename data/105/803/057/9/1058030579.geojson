@@ -2,6 +2,10 @@
   "id": 1058030579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 212 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"212",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058030579,
-    "wof:lastmodified":1473506716,
+    "wof:lastmodified":1473719505,
     "wof:name":"Pizza La Perla",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041789687,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-elisabethplein 21 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"21",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Elisabethplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041789687,
-    "wof:lastmodified":1473483270,
+    "wof:lastmodified":1473722812,
     "wof:name":"G. Uytterschaut",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

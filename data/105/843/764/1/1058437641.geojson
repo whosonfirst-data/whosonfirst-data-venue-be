@@ -2,6 +2,10 @@
   "id": 1058437641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Franz Merjay 123 Elsene/ixelles Bruxelles-Capitale 1050",
+    "addr:housenumber":"123",
+    "addr:postcode":"1050",
+    "addr:street":"Rue Franz Merjay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058437641,
-    "wof:lastmodified":1473525084,
+    "wof:lastmodified":1473722225,
     "wof:name":"I. Libert",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058330615,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Edith Cavell 195 Bte 10 Uccle Bruxelles-Capitale 1180",
+    "addr:housenumber":"195;10",
+    "addr:postcode":"1180",
+    "addr:street":"Rue Edith Cavell;Bte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058330615,
-    "wof:lastmodified":1473520019,
+    "wof:lastmodified":1473719559,
     "wof:name":"All-words",
     "wof:parent_id":85801553,
     "wof:placetype":"venue",

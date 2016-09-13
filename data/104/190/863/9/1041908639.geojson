@@ -2,6 +2,10 @@
   "id": 1041908639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 164 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"164",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041908639,
-    "wof:lastmodified":1473488262,
+    "wof:lastmodified":1473722549,
     "wof:name":"Fortis",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

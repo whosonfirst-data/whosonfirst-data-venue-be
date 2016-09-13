@@ -2,6 +2,10 @@
   "id": 1058116871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Blekerijstraat 75 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"75",
+    "addr:postcode":"9000",
+    "addr:street":"Blekerijstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058116871,
-    "wof:lastmodified":1473510292,
+    "wof:lastmodified":1473721908,
     "wof:name":"Kenens Hub",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041749737,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue L\u00e9on Fr\u00e9d\u00e9ricq 24 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"24;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Le\u0301On Fre\u0301De\u0301Ricq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1041749737,
-    "wof:lastmodified":1473481359,
+    "wof:lastmodified":1473722864,
     "wof:name":"Br Matic Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

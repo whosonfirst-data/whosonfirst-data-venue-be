@@ -2,6 +2,10 @@
   "id": 1058532971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place De Louvain 12 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"12;1",
+    "addr:postcode":"1000",
+    "addr:street":"Place De Louvain;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058532971,
-    "wof:lastmodified":1473529622,
+    "wof:lastmodified":1473720720,
     "wof:name":"Hdp-caisse D'assurances Sociales Pour Travailleurs Ind\u00e9pendants",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

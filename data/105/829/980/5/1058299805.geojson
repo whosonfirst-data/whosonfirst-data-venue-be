@@ -2,6 +2,10 @@
   "id": 1058299805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Albert Ier 114 Rixensart Brabant Wallon 1332",
+    "addr:housenumber":"114",
+    "addr:postcode":"1332",
+    "addr:street":"Avenue Albert Ier;Wallon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058299805,
-    "wof:lastmodified":1473518592,
+    "wof:lastmodified":1473722891,
     "wof:name":"Camp Paul Charles",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058660579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Paul Fredericqstraat 56 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"56",
+    "addr:postcode":"9000",
+    "addr:street":"Fredericqstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058660579,
-    "wof:lastmodified":1473535446,
+    "wof:lastmodified":1473719473,
     "wof:name":"De Coninck M",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

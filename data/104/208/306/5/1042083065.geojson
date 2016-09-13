@@ -2,6 +2,10 @@
   "id": 1042083065,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Van Ryswyckstraat 14 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"14",
+    "addr:postcode":"9050",
+    "addr:street":"Jan;Ryswyckstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042083065,
-    "wof:lastmodified":1473495645,
+    "wof:lastmodified":1473720819,
     "wof:name":"R.c. Gent",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

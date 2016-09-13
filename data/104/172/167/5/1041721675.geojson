@@ -2,6 +2,10 @@
   "id": 1041721675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersaalststraat 42 Gent-centrum Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersaalststraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041721675,
-    "wof:lastmodified":1473480139,
+    "wof:lastmodified":1473720010,
     "wof:name":"Van Eeckaute Joyce",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

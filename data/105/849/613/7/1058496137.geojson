@@ -2,6 +2,10 @@
   "id": 1058496137,
   "type": "Feature",
   "properties": {
+    "addr:full":"Aaigemstraat 95bd Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"95bd",
+    "addr:postcode":"9000",
+    "addr:street":"Aaigemstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058496137,
-    "wof:lastmodified":1473527916,
+    "wof:lastmodified":1473721741,
     "wof:name":"O.p.a.d.",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

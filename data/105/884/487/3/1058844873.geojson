@@ -2,6 +2,10 @@
   "id": 1058844873,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Saint-lambert 141 Box 5 Bruxelles (woluwe-saint-lambert) Bruxelles-Capitale 1200",
+    "addr:housenumber":"141;5",
+    "addr:postcode":"1200",
+    "addr:street":"Rue Saint-Lambert;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058844873,
-    "wof:lastmodified":1473543522,
+    "wof:lastmodified":1473721451,
     "wof:name":"Png (belgium)",
     "wof:parent_id":85801825,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058867465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Verspeyenstraat 26 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"26",
+    "addr:postcode":"9000",
+    "addr:street":"Jan Verspeyenstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058867465,
-    "wof:lastmodified":1473544460,
+    "wof:lastmodified":1473722088,
     "wof:name":"Hoste H",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

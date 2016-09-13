@@ -2,6 +2,10 @@
   "id": 1058280671,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersnieuwstraat 140 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"140",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersnieuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058280671,
-    "wof:lastmodified":1473517721,
+    "wof:lastmodified":1473719567,
     "wof:name":"Coopman P",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

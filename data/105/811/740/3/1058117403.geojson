@@ -2,6 +2,10 @@
   "id": 1058117403,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Joseph Dejardin 25 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"25;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Joseph Dejardin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058117403,
-    "wof:lastmodified":1473510317,
+    "wof:lastmodified":1473722071,
     "wof:name":"Signes Sc",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

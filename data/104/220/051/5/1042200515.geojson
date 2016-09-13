@@ -2,6 +2,10 @@
   "id": 1042200515,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Excelsiorlaan Bus 1 1930 Zaventem 35",
+    "addr:housenumber":"35;1;35",
+    "addr:postcode":"1930",
+    "addr:street":"Excelsiorlaan Bus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042200515,
-    "wof:lastmodified":1473501970,
+    "wof:lastmodified":1473719425,
     "wof:name":"Ebv Elektronik Vbr",
     "wof:parent_id":85801067,
     "wof:placetype":"venue",

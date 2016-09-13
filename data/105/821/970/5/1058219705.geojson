@@ -2,6 +2,10 @@
   "id": 1058219705,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rooseveltlaan 120 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"120",
+    "addr:postcode":"9000",
+    "addr:street":"Rooseveltlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058219705,
-    "wof:lastmodified":1473515072,
+    "wof:lastmodified":1473722796,
     "wof:name":"Era Immoboss Gent",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

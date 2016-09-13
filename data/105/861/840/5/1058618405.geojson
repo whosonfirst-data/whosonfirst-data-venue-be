@@ -2,6 +2,10 @@
   "id": 1058618405,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Cortenbergh 172 Box 3 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"172;3",
+    "addr:postcode":"1000",
+    "addr:street":"Avenue De Cortenbergh;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058618405,
-    "wof:lastmodified":1473533508,
+    "wof:lastmodified":1473722506,
     "wof:name":"Association Royale Des Meuniers Belges",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",

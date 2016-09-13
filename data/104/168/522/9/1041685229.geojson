@@ -2,6 +2,10 @@
   "id": 1041685229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Joe Englishstraat 54b4 Antwerpen Antwerpen 2140",
+    "addr:housenumber":"54b4",
+    "addr:postcode":"2140",
+    "addr:street":"Joe Englishstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041685229,
-    "wof:lastmodified":1473478727,
+    "wof:lastmodified":1473721491,
     "wof:name":"Deelen",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

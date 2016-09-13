@@ -2,6 +2,10 @@
   "id": 1041652201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gebroeders Vandeveldestraat 50 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"50",
+    "addr:postcode":"9000",
+    "addr:street":"Gebroeders Vandeveldestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041652201,
-    "wof:lastmodified":1473477422,
+    "wof:lastmodified":1473720295,
     "wof:name":"Shakespeare",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058457315,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Dejoncker 51 Box 15b Bruxelles (saint-gilles) Bruxelles-Capitale 1060",
+    "addr:housenumber":"51;15b",
+    "addr:postcode":"1060",
+    "addr:street":"Rue Dejoncker;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058457315,
-    "wof:lastmodified":1473526060,
+    "wof:lastmodified":1473722071,
     "wof:name":"A.c.g. Sprl",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

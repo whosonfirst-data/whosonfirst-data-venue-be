@@ -2,6 +2,10 @@
   "id": 1041908025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Belfortstraat 41 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"41",
+    "addr:postcode":"9000",
+    "addr:street":"Belfortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041908025,
-    "wof:lastmodified":1473488241,
+    "wof:lastmodified":1473722360,
     "wof:name":"Fortis",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

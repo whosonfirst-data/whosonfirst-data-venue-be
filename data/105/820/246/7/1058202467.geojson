@@ -2,6 +2,10 @@
   "id": 1058202467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 121 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"121",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058202467,
-    "wof:lastmodified":1473514303,
+    "wof:lastmodified":1473720458,
     "wof:name":"Alfa Hotels",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

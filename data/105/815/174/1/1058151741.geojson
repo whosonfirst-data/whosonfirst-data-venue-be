@@ -2,6 +2,10 @@
   "id": 1058151741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Alex Bouvy 11-13 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"2",
+    "addr:postcode":"11-13;4020",
+    "addr:street":"Rue Alex Bouvy;Lie\u0300Ge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1058151741,
-    "wof:lastmodified":1473512070,
+    "wof:lastmodified":1473720222,
     "wof:name":"S.a.p./a.p.e.m.-2-",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

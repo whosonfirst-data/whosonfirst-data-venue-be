@@ -2,6 +2,10 @@
   "id": 1058700829,
   "type": "Feature",
   "properties": {
+    "addr:full":"Achilles Musschestraat 123a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"123a",
+    "addr:postcode":"9000",
+    "addr:street":"Musschestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058700829,
-    "wof:lastmodified":1473537153,
+    "wof:lastmodified":1473719619,
     "wof:name":"Stainless Building Consultancy Bvba",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

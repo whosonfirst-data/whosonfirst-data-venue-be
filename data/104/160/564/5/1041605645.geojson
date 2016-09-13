@@ -2,6 +2,10 @@
   "id": 1041605645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Parc 33-35 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"2",
+    "addr:postcode":"33-35;4020",
+    "addr:street":"Rue Du Parc;Lie\u0300Ge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041605645,
-    "wof:lastmodified":1473475541,
+    "wof:lastmodified":1473721622,
     "wof:name":"Huskin J-p",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

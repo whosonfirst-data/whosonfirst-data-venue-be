@@ -2,6 +2,10 @@
   "id": 1041638297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Bailli 31 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"31;1",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Bailli;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1041638297,
-    "wof:lastmodified":1473476851,
+    "wof:lastmodified":1473722469,
     "wof:name":"Darms Optique",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

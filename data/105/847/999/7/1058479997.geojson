@@ -2,6 +2,10 @@
   "id": 1058479997,
   "type": "Feature",
   "properties": {
+    "addr:full":"Muntpoort 1 Box 1 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"1;1",
+    "addr:postcode":"8000",
+    "addr:street":"Muntpoort;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058479997,
-    "wof:lastmodified":1473527142,
+    "wof:lastmodified":1473722878,
     "wof:name":"Vankerckhoven Bvba",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

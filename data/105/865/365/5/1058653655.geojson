@@ -2,6 +2,10 @@
   "id": 1058653655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Jean Palfyn 94 Box 8 Bruxelles Bruxelles-Capitale 1020",
+    "addr:housenumber":"94;8",
+    "addr:postcode":"1020",
+    "addr:street":"Avenue Jean Palfyn;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058653655,
-    "wof:lastmodified":1473535126,
+    "wof:lastmodified":1473720900,
     "wof:name":"Wicom Bureau Conseil",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",

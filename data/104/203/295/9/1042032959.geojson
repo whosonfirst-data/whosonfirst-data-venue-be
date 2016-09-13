@@ -2,6 +2,10 @@
   "id": 1042032959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Monseigneur Lefort 25 Fays Namur 5555",
+    "addr:housenumber":"25",
+    "addr:postcode":"5555",
+    "addr:street":"Rue Monseigneur Lefort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1042032959,
-    "wof:lastmodified":1473493567,
+    "wof:lastmodified":1473720761,
     "wof:name":"Collin",
     "wof:parent_id":85819047,
     "wof:placetype":"venue",

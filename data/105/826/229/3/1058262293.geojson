@@ -2,6 +2,10 @@
   "id": 1058262293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jozef Guislainstraat 47 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"47",
+    "addr:postcode":"9000",
+    "addr:street":"Jozef Guislainstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058262293,
-    "wof:lastmodified":1473516934,
+    "wof:lastmodified":1473720259,
     "wof:name":"Orthop.observ.beh.centrum",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

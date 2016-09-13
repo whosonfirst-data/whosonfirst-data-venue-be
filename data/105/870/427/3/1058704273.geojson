@@ -2,6 +2,10 @@
   "id": 1058704273,
   "type": "Feature",
   "properties": {
+    "addr:full":"Zuiderlaan 5c Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"5c",
+    "addr:postcode":"9000",
+    "addr:street":"Zuiderlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058704273,
-    "wof:lastmodified":1473537299,
+    "wof:lastmodified":1473721238,
     "wof:name":"Wielerbaan Blaarmeersen",
     "wof:parent_id":85862083,
     "wof:placetype":"venue",

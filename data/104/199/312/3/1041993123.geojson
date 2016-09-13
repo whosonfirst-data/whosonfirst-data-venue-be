@@ -2,6 +2,10 @@
   "id": 1041993123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-lievenspoortstraat 20 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"20",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Lievenspoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041993123,
-    "wof:lastmodified":1473492066,
+    "wof:lastmodified":1473720819,
     "wof:name":"Brooderie Franky Snack",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

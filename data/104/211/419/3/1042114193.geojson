@@ -2,6 +2,10 @@
   "id": 1042114193,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Wallons 257 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"257;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Des Wallons",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042114193,
-    "wof:lastmodified":1473497047,
+    "wof:lastmodified":1473721292,
     "wof:name":"Autoconfig",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",

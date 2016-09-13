@@ -2,6 +2,10 @@
   "id": 1058024231,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 75 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"75",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058024231,
-    "wof:lastmodified":1473506450,
+    "wof:lastmodified":1473721228,
     "wof:name":"Chinalink Nv",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

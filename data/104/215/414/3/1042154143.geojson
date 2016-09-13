@@ -2,6 +2,10 @@
   "id": 1042154143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Julien D'andrimont 7 Box 72 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"7 box 72;1",
+    "addr:postcode":"4000",
+    "addr:street":"Rue Julien D'Andrimont;Lie\u0300Ge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042154143,
-    "wof:lastmodified":1473499225,
+    "wof:lastmodified":1473721252,
     "wof:name":"Facteur Pub",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",

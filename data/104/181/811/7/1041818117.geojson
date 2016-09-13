@@ -2,6 +2,10 @@
   "id": 1041818117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Jan Delvinlaan 101 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"101",
+    "addr:postcode":"9000",
+    "addr:street":"Delvinlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041818117,
-    "wof:lastmodified":1473484444,
+    "wof:lastmodified":1473722400,
     "wof:name":"Nicole Van Waes",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

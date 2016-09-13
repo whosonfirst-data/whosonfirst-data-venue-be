@@ -2,6 +2,10 @@
   "id": 1041639067,
   "type": "Feature",
   "properties": {
+    "addr:full":"Schooldreef 73 Gent Oost-Vlaanderen 9050",
+    "addr:housenumber":"73",
+    "addr:postcode":"9050",
+    "addr:street":"Schooldreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041639067,
-    "wof:lastmodified":1473476878,
+    "wof:lastmodified":1473722709,
     "wof:name":"2 Compute",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

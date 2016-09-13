@@ -2,6 +2,10 @@
   "id": 1041801793,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kasteellaan 42 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"42",
+    "addr:postcode":"9000",
+    "addr:street":"Kasteellaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041801793,
-    "wof:lastmodified":1473483712,
+    "wof:lastmodified":1473720124,
     "wof:name":"Anneken Van Duyse",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

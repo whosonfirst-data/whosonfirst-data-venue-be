@@ -2,6 +2,10 @@
   "id": 1058653009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Franz Guillaume 63 Box 7 Bruxelles (evere) Bruxelles-Capitale 1140",
+    "addr:housenumber":"63;7",
+    "addr:postcode":"1140",
+    "addr:street":"Avenue Franz Guillaume;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058653009,
-    "wof:lastmodified":1473535091,
+    "wof:lastmodified":1473720693,
     "wof:name":"Sofidis",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",

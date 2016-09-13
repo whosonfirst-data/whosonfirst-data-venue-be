@@ -2,6 +2,10 @@
   "id": 1058727529,
   "type": "Feature",
   "properties": {
+    "addr:full":"K. Albertlaan 134 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"134",
+    "addr:postcode":"9000",
+    "addr:street":"K. Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058727529,
-    "wof:lastmodified":1473538337,
+    "wof:lastmodified":1473722172,
     "wof:name":"A S T",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

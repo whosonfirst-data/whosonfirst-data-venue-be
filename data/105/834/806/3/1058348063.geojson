@@ -2,6 +2,10 @@
   "id": 1058348063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue De Tervueren 229 Box 7 Bruxelles (woluwe-saint-pierre) Bruxelles-Capitale 1150",
+    "addr:housenumber":"229;7",
+    "addr:postcode":"1150",
+    "addr:street":"Avenue De Tervueren;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058348063,
-    "wof:lastmodified":1473520875,
+    "wof:lastmodified":1473722361,
     "wof:name":"Van Assche Wilfriede",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",

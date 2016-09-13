@@ -2,6 +2,10 @@
   "id": 1058880409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peperstraat 3a Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"3a",
+    "addr:postcode":"8000",
+    "addr:street":"Peperstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058880409,
-    "wof:lastmodified":1473545031,
+    "wof:lastmodified":1473719409,
     "wof:name":"Kantcentrum",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",

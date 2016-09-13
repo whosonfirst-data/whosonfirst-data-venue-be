@@ -2,6 +2,10 @@
   "id": 1041645921,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stoppelstraat 35-37 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"35-37",
+    "addr:postcode":"9000",
+    "addr:street":"Stoppelstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041645921,
-    "wof:lastmodified":1473477174,
+    "wof:lastmodified":1473721652,
     "wof:name":"Pianocentrum Quatre Mains",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",

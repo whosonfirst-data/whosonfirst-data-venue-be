@@ -2,6 +2,10 @@
   "id": 1041682371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue F. Roosevelt 123 - 1050 Brussels - 32 2 660 54 84",
+    "addr:housenumber":"123;32",
+    "addr:postcode":"1050;660 54 84",
+    "addr:street":"Avenue F. Roosevelt;2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1041682371,
-    "wof:lastmodified":1473478611,
+    "wof:lastmodified":1473720325,
     "wof:name":"Zambia Embassy",
     "wof:parent_id":85800899,
     "wof:placetype":"venue",

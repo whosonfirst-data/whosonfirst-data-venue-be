@@ -2,6 +2,10 @@
   "id": 1041550999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Paul-joseph-carpay 6 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"6;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Paul-Joseph-Carpay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041550999,
-    "wof:lastmodified":1473473233,
+    "wof:lastmodified":1473719731,
     "wof:name":"Nera A",
     "wof:parent_id":85800963,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042279753,
   "type": "Feature",
   "properties": {
+    "addr:full":"Peperstraat 49 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"49",
+    "addr:postcode":"9000",
+    "addr:street":"Peperstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042279753,
-    "wof:lastmodified":1473505640,
+    "wof:lastmodified":1473722841,
     "wof:name":"Huis Haezebrouck",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

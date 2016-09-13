@@ -2,6 +2,10 @@
   "id": 1041749665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kuhlmannkaai 1 Haven 6780a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"1;6780a",
+    "addr:postcode":"9000",
+    "addr:street":"Kuhlmannkaai;Haven;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041749665,
-    "wof:lastmodified":1473481356,
+    "wof:lastmodified":1473722849,
     "wof:name":"Rhodia Chemie Nv",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041772397,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Aardstraat 69 Antwerpen (wilrijk) Antwerpen 2610",
+    "addr:housenumber":"69",
+    "addr:postcode":"2610",
+    "addr:street":"Hoge Aardstraat;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041772397,
-    "wof:lastmodified":1473482638,
+    "wof:lastmodified":1473720417,
     "wof:name":"Bracke A Bvba",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",

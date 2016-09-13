@@ -2,6 +2,10 @@
   "id": 1058648005,
   "type": "Feature",
   "properties": {
+    "addr:full":"A.reyerslaan 52 Kamer 2n 11-12 Schaerbeek Bruxelles-Capitale 1030",
+    "addr:housenumber":"52;2n",
+    "addr:postcode":"11-12;1030",
+    "addr:street":"A.Reyerslaan;Kamer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058648005,
-    "wof:lastmodified":1473534847,
+    "wof:lastmodified":1473722305,
     "wof:name":"Randstad",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

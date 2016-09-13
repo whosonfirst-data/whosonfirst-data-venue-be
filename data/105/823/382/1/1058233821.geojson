@@ -2,6 +2,10 @@
   "id": 1058233821,
   "type": "Feature",
   "properties": {
+    "addr:full":"Stationstraat 42 Kortenberg Vlaams-Brabant 3070",
+    "addr:housenumber":"42",
+    "addr:postcode":"3070",
+    "addr:street":"Stationstraat;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058233821,
-    "wof:lastmodified":1473515691,
+    "wof:lastmodified":1473720983,
     "wof:name":"Campisi",
     "wof:parent_id":85801697,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1041805901,
   "type": "Feature",
   "properties": {
+    "addr:full":"Francisco Ferrerlaan 114 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"114",
+    "addr:postcode":"9000",
+    "addr:street":"Francisco Ferrerlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041805901,
-    "wof:lastmodified":1473483898,
+    "wof:lastmodified":1473721670,
     "wof:name":"E. Nenquin",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

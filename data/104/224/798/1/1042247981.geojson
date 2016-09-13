@@ -2,6 +2,10 @@
   "id": 1042247981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bld Lambermont 140 Bte 10 Bruxelles Bruxelles-Capitale 1030",
+    "addr:housenumber":"140;10",
+    "addr:postcode":"1030",
+    "addr:street":"Bld Lambermont;Bte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1042247981,
-    "wof:lastmodified":1473504164,
+    "wof:lastmodified":1473722361,
     "wof:name":"Metrabel Sprl",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",

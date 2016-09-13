@@ -2,6 +2,10 @@
   "id": 1042100909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue J. Dubrucqlaan 86 Bte/bus 102 Bruxelles Bruxelles-Capitale 1080",
+    "addr:housenumber":"86 bte;102",
+    "addr:postcode":"1080",
+    "addr:street":"Avenue J. Dubrucqlaan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042100909,
-    "wof:lastmodified":1473496434,
+    "wof:lastmodified":1473719658,
     "wof:name":"Inter Europe Express Sprl/bvba",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",

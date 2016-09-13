@@ -2,6 +2,10 @@
   "id": 1041566097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sleepstraat 23 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"23",
+    "addr:postcode":"9000",
+    "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041566097,
-    "wof:lastmodified":1473473880,
+    "wof:lastmodified":1473721771,
     "wof:name":"Nutstime",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

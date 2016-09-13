@@ -2,6 +2,10 @@
   "id": 1041779287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De L'orme 42 Box 1 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"42;1",
+    "addr:postcode":"1030",
+    "addr:street":"Rue De L'Orme;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041779287,
-    "wof:lastmodified":1473482888,
+    "wof:lastmodified":1473722744,
     "wof:name":"Louwers Ph",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",

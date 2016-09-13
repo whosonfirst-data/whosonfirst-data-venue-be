@@ -2,6 +2,10 @@
   "id": 1058240257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Frans Van Ryhovelaan 15a Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"15a",
+    "addr:postcode":"9000",
+    "addr:street":"Frans Van Ryhovelaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058240257,
-    "wof:lastmodified":1473515995,
+    "wof:lastmodified":1473719290,
     "wof:name":"Cornix",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

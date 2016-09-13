@@ -2,6 +2,10 @@
   "id": 1058516215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-bavostraat 66 Wilrijk Antwerpen 2610",
+    "addr:housenumber":"66",
+    "addr:postcode":"2610",
+    "addr:street":"Sint-Bavostraat;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1058516215,
-    "wof:lastmodified":1473528822,
+    "wof:lastmodified":1473721832,
     "wof:name":"L. Lacroix & Fils Nv",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

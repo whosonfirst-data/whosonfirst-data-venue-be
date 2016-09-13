@@ -2,6 +2,10 @@
   "id": 1042024111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-lievenspoortstraat 13 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"13",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Lievenspoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1042024111,
-    "wof:lastmodified":1473493204,
+    "wof:lastmodified":1473721274,
     "wof:name":"Nelly Mouton",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058485929,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Rue Du Bailli 1050 Bruxelles 57",
+    "addr:housenumber":"57",
+    "addr:postcode":"1050;57",
+    "addr:street":"Rue Du Bailli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058485929,
-    "wof:lastmodified":1473527416,
+    "wof:lastmodified":1473721730,
     "wof:name":"Photolinea Scrl",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058671765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tentoonstellingslaan 119 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"119",
+    "addr:postcode":"9000",
+    "addr:street":"Tentoonstellingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058671765,
-    "wof:lastmodified":1473535926,
+    "wof:lastmodified":1473720127,
     "wof:name":"La Pizzeria",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

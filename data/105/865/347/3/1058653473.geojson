@@ -2,6 +2,10 @@
   "id": 1058653473,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tentoonstellingslaan 104 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"104",
+    "addr:postcode":"9000",
+    "addr:street":"Tentoonstellingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058653473,
-    "wof:lastmodified":1473535118,
+    "wof:lastmodified":1473720852,
     "wof:name":"Vastgoed Ryckaert",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058173645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Rempart Des Moines 78 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"78",
+    "addr:postcode":"1000",
+    "addr:street":"Rue Du Rempart Des Moines",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058173645,
-    "wof:lastmodified":1473513052,
+    "wof:lastmodified":1473720316,
     "wof:name":"De Vest",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",

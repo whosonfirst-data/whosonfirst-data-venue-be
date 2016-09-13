@@ -2,6 +2,10 @@
   "id": 1058727583,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sleepstraat 79 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"79",
+    "addr:postcode":"9000",
+    "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058727583,
-    "wof:lastmodified":1473538338,
+    "wof:lastmodified":1473722191,
     "wof:name":"El.g.b Gent",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

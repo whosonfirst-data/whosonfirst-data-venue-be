@@ -2,6 +2,10 @@
   "id": 1058867237,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Du Drapeau 45 Box 5 Bruxelles (anderlecht) Bruxelles-Capitale 1070",
+    "addr:housenumber":"45;5",
+    "addr:postcode":"1070",
+    "addr:street":"Rue Du Drapeau;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1058867237,
-    "wof:lastmodified":1473544453,
+    "wof:lastmodified":1473722021,
     "wof:name":"Close (ets) Sprl",
     "wof:parent_id":85801031,
     "wof:placetype":"venue",

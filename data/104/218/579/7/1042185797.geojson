@@ -2,6 +2,10 @@
   "id": 1042185797,
   "type": "Feature",
   "properties": {
+    "addr:full":"Meeuwstraat 10 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"10",
+    "addr:postcode":"9000",
+    "addr:street":"Meeuwstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1042185797,
-    "wof:lastmodified":1473501103,
+    "wof:lastmodified":1473721693,
     "wof:name":"K. Van Maldegem",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058264511,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-pietersaalststraat 17 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"17",
+    "addr:postcode":"9000",
+    "addr:street":"Sint-Pietersaalststraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058264511,
-    "wof:lastmodified":1473517033,
+    "wof:lastmodified":1473721300,
     "wof:name":"Instituut Praesentia",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

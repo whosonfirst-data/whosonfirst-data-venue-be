@@ -2,6 +2,10 @@
   "id": 1058157273,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Anatole France 30-32 Box 2 Bruxelles (schaerbeek) Bruxelles-Capitale 1030",
+    "addr:housenumber":"30-32;2",
+    "addr:postcode":"1030",
+    "addr:street":"Rue Anatole France;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058157273,
-    "wof:lastmodified":1473512324,
+    "wof:lastmodified":1473722168,
     "wof:name":"Chaineux J",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",

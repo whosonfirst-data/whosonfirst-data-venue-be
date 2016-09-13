@@ -2,6 +2,10 @@
   "id": 1042069253,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Rue De France 1070 Bruxelles 103",
+    "addr:housenumber":"103;103",
+    "addr:postcode":"1070",
+    "addr:street":"Rue De France",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042069253,
-    "wof:lastmodified":1473495045,
+    "wof:lastmodified":1473722712,
     "wof:name":"New Atlas Sprl",
     "wof:parent_id":85801025,
     "wof:placetype":"venue",

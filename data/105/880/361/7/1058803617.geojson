@@ -2,6 +2,10 @@
   "id": 1058803617,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-lievenspoortstraat 129 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"129",
+    "addr:postcode":"9000",
+    "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058803617,
-    "wof:lastmodified":1473541712,
+    "wof:lastmodified":1473720934,
     "wof:name":"Logopedische Dienst",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058843967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Des Arts 50 Box 4 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"50;4",
+    "addr:postcode":"1000",
+    "addr:street":"Avenue Des Arts;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058843967,
-    "wof:lastmodified":1473543484,
+    "wof:lastmodified":1473721224,
     "wof:name":"Gudrun Experts Nv Nv",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

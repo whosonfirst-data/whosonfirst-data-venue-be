@@ -2,6 +2,10 @@
   "id": 1058339235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avenue Louise 203 Box 1 Bruxelles (ixelles) Bruxelles-Capitale 1050",
+    "addr:housenumber":"203;1",
+    "addr:postcode":"1050",
+    "addr:street":"Avenue Louise;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058339235,
-    "wof:lastmodified":1473520437,
+    "wof:lastmodified":1473722822,
     "wof:name":"Everaerts C",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

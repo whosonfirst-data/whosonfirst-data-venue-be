@@ -2,6 +2,10 @@
   "id": 1058141317,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue De Flandre 19 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"19",
+    "addr:postcode":"1000",
+    "addr:street":"Rue De Flandre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1058141317,
-    "wof:lastmodified":1473511531,
+    "wof:lastmodified":1473719878,
     "wof:name":"Infrastructure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042000477,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 Boondaalse Steenweg 1050 Brussel 326",
+    "addr:housenumber":"326",
+    "addr:postcode":"1050;326",
+    "addr:street":"Boondaalse Steenweg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000477,
-    "wof:lastmodified":1473492331,
+    "wof:lastmodified":1473719479,
     "wof:name":"Fleur De Lotus Bvba",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",

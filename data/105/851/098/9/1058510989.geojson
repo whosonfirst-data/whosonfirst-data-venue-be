@@ -2,6 +2,10 @@
   "id": 1058510989,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hoge Weg 20 Antwerpen (berchem) Antwerpen 2600",
+    "addr:housenumber":"20",
+    "addr:postcode":"2600",
+    "addr:street":"Hoge Weg;Antwerpen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058510989,
-    "wof:lastmodified":1473528576,
+    "wof:lastmodified":1473719786,
     "wof:name":"Arco Decor",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

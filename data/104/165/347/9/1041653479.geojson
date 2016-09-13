@@ -2,6 +2,10 @@
   "id": 1041653479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Surlet 5 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"5;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Surlet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041653479,
-    "wof:lastmodified":1473477473,
+    "wof:lastmodified":1473720964,
     "wof:name":"Euro R\u00e9sidences",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",

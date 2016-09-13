@@ -2,6 +2,10 @@
   "id": 1058649861,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tentoonstellingslaan 113 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"113",
+    "addr:postcode":"9000",
+    "addr:street":"Tentoonstellingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058649861,
-    "wof:lastmodified":1473534929,
+    "wof:lastmodified":1473722857,
     "wof:name":"Denimmo",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

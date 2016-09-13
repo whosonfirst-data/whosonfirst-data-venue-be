@@ -2,6 +2,10 @@
   "id": 1041534433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Rodenbach 145 Box 7 Bruxelles (forest) Bruxelles-Capitale 1190",
+    "addr:housenumber":"145;7",
+    "addr:postcode":"1190",
+    "addr:street":"Rue Rodenbach;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1041534433,
-    "wof:lastmodified":1473472587,
+    "wof:lastmodified":1473718883,
     "wof:name":"Schmeder Sa",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",

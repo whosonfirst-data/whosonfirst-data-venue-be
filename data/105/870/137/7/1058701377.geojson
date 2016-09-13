@@ -2,6 +2,10 @@
   "id": 1058701377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jakobsstraat 12 Bruges West-Vlaanderen 8000",
+    "addr:housenumber":"12",
+    "addr:postcode":"8000",
+    "addr:street":"Sint-Jakobsstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058701377,
-    "wof:lastmodified":1473537173,
+    "wof:lastmodified":1473719859,
     "wof:name":"Cat & Dog Shop",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",

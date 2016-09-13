@@ -2,6 +2,10 @@
   "id": 1058284185,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Scailquin 35 Box 25d Bruxelles (saint-josse-ten-noode) Bruxelles-Capitale 1210",
+    "addr:housenumber":"35;25d",
+    "addr:postcode":"1210",
+    "addr:street":"Rue Scailquin;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1058284185,
-    "wof:lastmodified":1473517883,
+    "wof:lastmodified":1473721255,
     "wof:name":"Fabri-k",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058163881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Square Marguerite 35 Box 1 Bruxelles Bruxelles-Capitale 1000",
+    "addr:housenumber":"35;1",
+    "addr:postcode":"1000",
+    "addr:street":"Square Marguerite;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058163881,
-    "wof:lastmodified":1473512601,
+    "wof:lastmodified":1473720995,
     "wof:name":"Druez W",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

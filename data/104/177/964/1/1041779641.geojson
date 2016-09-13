@@ -2,6 +2,10 @@
   "id": 1041779641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Des Vennes 25 Li\u00e8ge 1 (li\u00e8ge 2) Li\u00e8ge 4020",
+    "addr:housenumber":"25;1;2",
+    "addr:postcode":"4020",
+    "addr:street":"Rue Des Vennes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041779641,
-    "wof:lastmodified":1473482903,
+    "wof:lastmodified":1473722809,
     "wof:name":"Marville S",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",

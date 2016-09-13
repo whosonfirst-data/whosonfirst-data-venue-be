@@ -2,6 +2,10 @@
   "id": 1041999619,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av. Louise 326 Boite 29 Blue Tower Bruxelles Bruxelles-Capitale 1050",
+    "addr:housenumber":"326;29",
+    "addr:postcode":"1050",
+    "addr:street":"Av. Louise;Blue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1041999619,
-    "wof:lastmodified":1473492302,
+    "wof:lastmodified":1473722805,
     "wof:name":"Sopra Benelux Sa",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1042000797,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Rue De La Longue Haie 1000 Bruxelles 76",
+    "addr:housenumber":"76",
+    "addr:postcode":"1000;76",
+    "addr:street":"Rue De La Longue Haie",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042000797,
-    "wof:lastmodified":1473492342,
+    "wof:lastmodified":1473719663,
     "wof:name":"Laeta Beau Site Sa",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",

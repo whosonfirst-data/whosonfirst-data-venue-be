@@ -2,6 +2,10 @@
   "id": 1058085431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Burgstraat 40 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"40",
+    "addr:postcode":"9000",
+    "addr:street":"Burgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058085431,
-    "wof:lastmodified":1473508966,
+    "wof:lastmodified":1473721514,
     "wof:name":"Alpa/paul Van Cauter",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

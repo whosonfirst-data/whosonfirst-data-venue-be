@@ -2,6 +2,10 @@
   "id": 1042072459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sint-jakobsstraat 56 Brugge West-Vlaanderen 8000",
+    "addr:housenumber":"56",
+    "addr:postcode":"8000",
+    "addr:street":"Sint-Jakobsstraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1042072459,
-    "wof:lastmodified":1473495176,
+    "wof:lastmodified":1473720367,
     "wof:name":"Cadee",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",

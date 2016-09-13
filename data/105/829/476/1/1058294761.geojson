@@ -2,6 +2,10 @@
   "id": 1058294761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Edouard Henrard 13 Box 3 Bruxelles (auderghem) Bruxelles-Capitale 1160",
+    "addr:housenumber":"13;3",
+    "addr:postcode":"1160",
+    "addr:street":"Rue Edouard Henrard;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058294761,
-    "wof:lastmodified":1473518353,
+    "wof:lastmodified":1473721396,
     "wof:name":"Mertens",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",

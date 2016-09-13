@@ -2,6 +2,10 @@
   "id": 1058269727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Franklin Rooseveltlaan 123 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"123",
+    "addr:postcode":"9000",
+    "addr:street":"Franklin Rooseveltlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1058269727,
-    "wof:lastmodified":1473517245,
+    "wof:lastmodified":1473722813,
     "wof:name":"Brains Bvba",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",

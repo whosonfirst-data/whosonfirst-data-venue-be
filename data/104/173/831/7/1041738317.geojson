@@ -2,6 +2,10 @@
   "id": 1041738317,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Rue De Liedekerke 1210 Bruxelles 106",
+    "addr:housenumber":"106",
+    "addr:postcode":"1210;106",
+    "addr:street":"Rue De Liedekerke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1041738317,
-    "wof:lastmodified":1473480831,
+    "wof:lastmodified":1473722394,
     "wof:name":"Restover Sprl",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",

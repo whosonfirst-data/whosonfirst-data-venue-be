@@ -2,6 +2,10 @@
   "id": 1058599363,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tervuursestraat 40 Leuven Vlaams-Brabant 3000",
+    "addr:housenumber":"40",
+    "addr:postcode":"3000",
+    "addr:street":"Tervuursestraat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1058599363,
-    "wof:lastmodified":1473532583,
+    "wof:lastmodified":1473722635,
     "wof:name":"De Post",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

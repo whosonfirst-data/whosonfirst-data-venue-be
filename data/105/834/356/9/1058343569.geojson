@@ -2,6 +2,10 @@
   "id": 1058343569,
   "type": "Feature",
   "properties": {
+    "addr:full":"Place Saint-lambert 70 Box 1 Li\u00e8ge 1 Li\u00e8ge 4000",
+    "addr:housenumber":"70;1;1",
+    "addr:postcode":"4000",
+    "addr:street":"Place Saint-Lambert;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1058343569,
-    "wof:lastmodified":1473520644,
+    "wof:lastmodified":1473720952,
     "wof:name":"Malta D",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1058088615,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Rue Bara 1070 Anderlecht 123",
+    "addr:housenumber":"123;123",
+    "addr:postcode":"1070",
+    "addr:street":"Rue Bara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1058088615,
-    "wof:lastmodified":1473509097,
+    "wof:lastmodified":1473722482,
     "wof:name":"Ballons Coppe Scrl",
     "wof:parent_id":85801025,
     "wof:placetype":"venue",

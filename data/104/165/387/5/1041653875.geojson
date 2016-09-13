@@ -2,6 +2,10 @@
   "id": 1041653875,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tolstraat 24 Box 5 Antwerpen Antwerpen 2000",
+    "addr:housenumber":"24;5",
+    "addr:postcode":"2000",
+    "addr:street":"Tolstraat;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1041653875,
-    "wof:lastmodified":1473477491,
+    "wof:lastmodified":1473721187,
     "wof:name":"Wouters Consultants Bvba",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

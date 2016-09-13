@@ -2,6 +2,10 @@
   "id": 1041950021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bevrijdingslaan 132 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"132",
+    "addr:postcode":"9000",
+    "addr:street":"Bevrijdingslaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1041950021,
-    "wof:lastmodified":1473490131,
+    "wof:lastmodified":1473718881,
     "wof:name":"A B C",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",

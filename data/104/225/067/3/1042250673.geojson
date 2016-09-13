@@ -2,6 +2,10 @@
   "id": 1042250673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Acaciadreef 17 Box 3 Kapellen Antwerpen 2950",
+    "addr:housenumber":"17;3",
+    "addr:postcode":"2950",
+    "addr:street":"Acaciadreef;Box",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1042250673,
-    "wof:lastmodified":1473504271,
+    "wof:lastmodified":1473719551,
     "wof:name":"Sibbex Bvba",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",

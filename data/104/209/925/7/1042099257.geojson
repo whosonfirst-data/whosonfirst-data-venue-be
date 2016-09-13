@@ -2,6 +2,10 @@
   "id": 1042099257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Koning Albertlaan 86 Gent Oost-Vlaanderen 9000",
+    "addr:housenumber":"86",
+    "addr:postcode":"9000",
+    "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1042099257,
-    "wof:lastmodified":1473496359,
+    "wof:lastmodified":1473722798,
     "wof:name":"Anno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

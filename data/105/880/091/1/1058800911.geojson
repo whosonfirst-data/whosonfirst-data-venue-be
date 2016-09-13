@@ -2,6 +2,10 @@
   "id": 1058800911,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rue Saint Lambert 200 Magasin 112b Brussel/bruxelles Bruxelles-Capitale 1200",
+    "addr:housenumber":"200;112b",
+    "addr:postcode":"1200",
+    "addr:street":"Rue Saint Lambert;Magasin;/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1058800911,
-    "wof:lastmodified":1473541599,
+    "wof:lastmodified":1473719661,
     "wof:name":"Coup De Coeur",
     "wof:parent_id":85801913,
     "wof:placetype":"venue",
