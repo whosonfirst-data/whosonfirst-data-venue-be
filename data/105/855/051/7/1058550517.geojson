@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6025109291,46.3370933533,2.6025109291,46.3370933533",
     "geom:latitude":46.337093,
     "geom:longitude":2.602511,
@@ -31,17 +32,38 @@
         "physiotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
+        102072223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51f7PfIh4GCdlXzSAIX3Qa_46.337093_2.602511@1306268528"
     },
     "wof:country":"BE",
     "wof:created":1473530389,
-    "wof:geomhash":"a1062940f1641bad4fcd76dc8ab108a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6153690f961e4a74a7ff673e55823a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072223,
+            "empire_id":136253037,
+            "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
+            "region_id":85683293,
+            "venue_id":1058550517
+        }
+    ],
     "wof:id":1058550517,
-    "wof:lastmodified":1473719487,
+    "wof:lastmodified":1496781925,
     "wof:name":"Christiaens Isabelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

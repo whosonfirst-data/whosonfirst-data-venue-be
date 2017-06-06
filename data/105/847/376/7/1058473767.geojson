@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4379038811,50.8169174194,4.4379038811,50.8169174194",
     "geom:latitude":50.816917,
     "geom:longitude":4.437904,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801955,
+        85801943,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801943
+        85801955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801955,
+            "neighbourhood_id":85801943,
             "region_id":85681713,
             "venue_id":1058473767
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801943,
+            "neighbourhood_id":85801955,
             "region_id":85681713,
             "venue_id":1058473767
         }
     ],
     "wof:id":1058473767,
-    "wof:lastmodified":1473721054,
+    "wof:lastmodified":1491933015,
     "wof:name":"Vanderborght L",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

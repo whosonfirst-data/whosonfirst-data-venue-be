@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2684941292,50.8442001343,4.2684941292,50.8442001343",
     "geom:latitude":50.8442,
     "geom:longitude":4.268494,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973,
-        85801651,
         102191581,
+        85632997,
         404227357,
-        101913245
+        101913245,
+        102049973,
+        85681731,
+        85801651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +53,11 @@
     "wof:geomhash":"85f6cd3603e78b835e1cbcc651f6a9e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041914653
@@ -70,9 +74,9 @@
         }
     ],
     "wof:id":1041914653,
-    "wof:lastmodified":1473721404,
+    "wof:lastmodified":1491938044,
     "wof:name":"Co\u00f6rdisan Bvba",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

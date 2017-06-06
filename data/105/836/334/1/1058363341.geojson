@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4788999557,44.577911377,4.4788999557,44.577911377",
     "geom:latitude":44.577911,
     "geom:longitude":4.4789,
@@ -36,17 +37,39 @@
         "banquet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683421,
+        102191581,
+        85633147,
+        404375763,
+        404227599,
+        1108826389,
+        136253037,
+        102069599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pR0akKzqIuYWIrt2BJxV3_44.577911_4.478900@1306268496"
     },
     "wof:country":"BE",
     "wof:created":1473521573,
-    "wof:geomhash":"17a3f962bfe7f7a3cd60cc87a03f5c38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb23248d465179564be2594c06575110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069599,
+            "empire_id":136253037,
+            "localadmin_id":404375763,
+            "locality_id":-1,
+            "macrocounty_id":404227599,
+            "macroregion_id":1108826389,
+            "region_id":85683421,
+            "venue_id":1058363341
+        }
+    ],
     "wof:id":1058363341,
-    "wof:lastmodified":1473720938,
+    "wof:lastmodified":1496779804,
     "wof:name":"Loca F\u00cates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

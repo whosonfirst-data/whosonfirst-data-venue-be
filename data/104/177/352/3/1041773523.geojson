@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2554411888,50.8346672058,4.2554411888,50.8346672058",
     "geom:latitude":50.834667,
     "geom:longitude":4.255441,
@@ -29,10 +30,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"8dbc30236c18f9645ed3f99ca5a76dfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041773523
         }
     ],
     "wof:id":1041773523,
-    "wof:lastmodified":1473720950,
+    "wof:lastmodified":1491938031,
     "wof:name":"Coussens D",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

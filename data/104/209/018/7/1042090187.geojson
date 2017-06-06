@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.227737427,34.1394767761,-118.227737427,34.1394767761",
     "geom:latitude":34.139477,
     "geom:longitude":-118.227737,
@@ -24,13 +25,13 @@
     "sg:province":"Luxembourg",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85815751",
         102191575,
+        1108692433,
         85633793,
         85923517,
         102086957,
-        85877205,
-        85877761
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +46,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85877205,
-            "region_id":85688637,
-            "venue_id":1042090187
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85877761,
+            "macrohood_id":1108692433,
+            "neighbourhood_id":"85815751",
             "region_id":85688637,
             "venue_id":1042090187
         }
     ],
     "wof:id":1042090187,
-    "wof:lastmodified":1473718979,
+    "wof:lastmodified":1488933263,
     "wof:name":"Dany Computer",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85815751",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

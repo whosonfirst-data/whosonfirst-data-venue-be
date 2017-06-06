@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.372238159,-46.3894195557,168.372238159,-46.3894195557",
     "geom:latitude":-46.38942,
     "geom:longitude":168.372238,
@@ -32,7 +33,6 @@
         85687211,
         102191583,
         85633345,
-        101915517,
         102079397,
         85781525
     ],
@@ -42,20 +42,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473488002,
-    "wof:geomhash":"45b557fcea710775b7d8f4d8aa0d3081",
+    "wof:geomhash":"cd730c2f6efd3cd77cc2f82a0a629124",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079397,
-            "locality_id":101915517,
+            "locality_id":-1,
             "neighbourhood_id":85781525,
             "region_id":85687211,
             "venue_id":1041901869
         }
     ],
     "wof:id":1041901869,
-    "wof:lastmodified":1473720251,
+    "wof:lastmodified":1496776720,
     "wof:name":"Krediet Nuverheid",
     "wof:parent_id":85781525,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3726601601,50.8590507507,4.3726601601,50.8590507507",
     "geom:latitude":50.859051,
     "geom:longitude":4.37266,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801909,
+        85801855,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801855
+        85801909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801909,
+            "neighbourhood_id":85801855,
             "region_id":85681713,
             "venue_id":1058267219
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801855,
+            "neighbourhood_id":85801909,
             "region_id":85681713,
             "venue_id":1058267219
         }
     ],
     "wof:id":1058267219,
-    "wof:lastmodified":1473722097,
+    "wof:lastmodified":1491892531,
     "wof:name":"Farra",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

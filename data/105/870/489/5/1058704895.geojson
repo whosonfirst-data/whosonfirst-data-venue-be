@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.7488380075,46.1060447693,-0.7488380075,46.1060447693",
     "geom:latitude":46.106045,
     "geom:longitude":-0.748838,
@@ -23,17 +24,40 @@
     "sg:postcode":"6500",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683275,
+        102191581,
+        404227833,
+        404376029,
+        85633147,
+        1108826385,
+        101766459,
+        136253037,
+        102070741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NOWcr4fBJFqezRL8bz2Ya_46.106045_-0.748838@1306268557"
     },
     "wof:country":"BE",
     "wof:created":1473537324,
-    "wof:geomhash":"b1c3f5d962b70fe06986f5a63e3cb026",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f8791251d37f260c7565d8d6efe0c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070741,
+            "empire_id":136253037,
+            "localadmin_id":404376029,
+            "locality_id":101766459,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
+            "region_id":85683275,
+            "venue_id":1058704895
+        }
+    ],
     "wof:id":1058704895,
-    "wof:lastmodified":1473721439,
+    "wof:lastmodified":1496777537,
     "wof:name":"Alphonsus Bogers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

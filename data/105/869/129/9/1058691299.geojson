@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2691540718,50.8374023438,4.2691540718,50.8374023438",
     "geom:latitude":50.837402,
     "geom:longitude":4.269154,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"83ba516bba214862c2af94e8a29da4a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058691299
         }
     ],
     "wof:id":1058691299,
-    "wof:lastmodified":1473719899,
+    "wof:lastmodified":1491938047,
     "wof:name":"Claude Bogaert",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

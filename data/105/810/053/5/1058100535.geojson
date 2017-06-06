@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.8512420654,17.600479126,80.8512420654,17.600479126",
     "geom:latitude":17.600479,
     "geom:longitude":80.851242,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85672141,
+        102191569,
+        85632469,
+        890509771
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_129EpUBC2EKMoswWbVoBQO_17.600479_80.851242@1306268445"
     },
     "wof:country":"BE",
     "wof:created":1473509613,
-    "wof:geomhash":"311b2a13af4493723425db40509c861c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a096d444ee8c4418b36e20eb4aba30b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890509771,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":1058100535
+        }
+    ],
     "wof:id":1058100535,
-    "wof:lastmodified":1473718908,
+    "wof:lastmodified":1494285070,
     "wof:name":"Kuypers Graszoden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

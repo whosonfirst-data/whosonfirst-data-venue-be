@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.6028620005,46.3833007812,1.6028620005,46.3833007812",
     "geom:latitude":46.383301,
     "geom:longitude":1.602862,
@@ -23,17 +24,39 @@
     "sg:postcode":"1420",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683179,
+        102191581,
+        85633147,
+        404354947,
+        404227843,
+        1108826385,
+        136253037,
+        102066861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vD2uuymiBFwFELbBvfVgW_46.383301_1.602862@1306268537"
     },
     "wof:country":"BE",
     "wof:created":1473532598,
-    "wof:geomhash":"cb2bb18f1fa8b12bbb4815f7e9657df5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b03a0cfa9e8015766de5a6268d7098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066861,
+            "empire_id":136253037,
+            "localadmin_id":404354947,
+            "locality_id":-1,
+            "macrocounty_id":404227843,
+            "macroregion_id":1108826385,
+            "region_id":85683179,
+            "venue_id":1058599729
+        }
+    ],
     "wof:id":1058599729,
-    "wof:lastmodified":1473722766,
+    "wof:lastmodified":1496775365,
     "wof:name":"La Poste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

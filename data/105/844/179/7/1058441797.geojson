@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2584009171,50.8432540894,4.2584009171,50.8432540894",
     "geom:latitude":50.843254,
     "geom:longitude":4.258401,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"222fb4eb53d658c564daa1a41e5785b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058441797
         }
     ],
     "wof:id":1058441797,
-    "wof:lastmodified":1473720140,
+    "wof:lastmodified":1491937995,
     "wof:name":"L. De Mey",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

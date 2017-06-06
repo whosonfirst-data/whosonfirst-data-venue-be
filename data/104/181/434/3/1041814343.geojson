@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2627491951,50.8398895264,4.2627491951,50.8398895264",
     "geom:latitude":50.83989,
     "geom:longitude":4.262749,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"f8e1a936b5a12961c8b51ba18c8e5a6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041814343
         }
     ],
     "wof:id":1041814343,
-    "wof:lastmodified":1473721326,
+    "wof:lastmodified":1491938031,
     "wof:name":"Leo Groenweghe",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

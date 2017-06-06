@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3287677765,50.847530365,4.3287677765,50.847530365",
     "geom:latitude":50.84753,
     "geom:longitude":4.328768,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800757,
+        85801705,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801705
+        85800757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800757,
+            "neighbourhood_id":85801705,
             "region_id":85681713,
             "venue_id":1058221347
         },
@@ -67,15 +68,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801705,
+            "neighbourhood_id":85800757,
             "region_id":85681713,
             "venue_id":1058221347
         }
     ],
     "wof:id":1058221347,
-    "wof:lastmodified":1473719897,
+    "wof:lastmodified":1491907430,
     "wof:name":"Auto Halaoui Sprl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

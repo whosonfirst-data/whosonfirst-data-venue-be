@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3391270638,50.7984695435,4.3391270638,50.7984695435",
     "geom:latitude":50.79847,
     "geom:longitude":4.339127,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801925,
+        85801951,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801951
+        85801925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801925,
+            "neighbourhood_id":85801951,
             "region_id":85681713,
             "venue_id":1042161089
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801951,
+            "neighbourhood_id":85801925,
             "region_id":85681713,
             "venue_id":1042161089
         }
     ],
     "wof:id":1042161089,
-    "wof:lastmodified":1473719762,
+    "wof:lastmodified":1491895613,
     "wof:name":"Geminii Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

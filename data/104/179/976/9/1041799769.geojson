@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4164171219,50.8231124878,4.4164171219,50.8231124878",
     "geom:latitude":50.823112,
     "geom:longitude":4.416417,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800813,
+        85801989,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801989
+        85800813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800813,
+            "neighbourhood_id":85801989,
             "region_id":85681713,
             "venue_id":1041799769
         },
@@ -67,15 +68,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801989,
+            "neighbourhood_id":85800813,
             "region_id":85681713,
             "venue_id":1041799769
         }
     ],
     "wof:id":1041799769,
-    "wof:lastmodified":1473722828,
+    "wof:lastmodified":1491907036,
     "wof:name":"Machri",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

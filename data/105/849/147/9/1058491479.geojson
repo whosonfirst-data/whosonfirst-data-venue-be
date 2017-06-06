@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.339381218,50.7978057861,4.339381218,50.7978057861",
     "geom:latitude":50.797806,
     "geom:longitude":4.339381,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801925,
+        85801951,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801951
+        85801925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801925,
+            "neighbourhood_id":85801951,
             "region_id":85681713,
             "venue_id":1058491479
         },
@@ -65,15 +66,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801951,
+            "neighbourhood_id":85801925,
             "region_id":85681713,
             "venue_id":1058491479
         }
     ],
     "wof:id":1058491479,
-    "wof:lastmodified":1473719988,
+    "wof:lastmodified":1491895574,
     "wof:name":"Swing And Dixie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

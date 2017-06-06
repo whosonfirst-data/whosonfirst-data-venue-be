@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4554409981,50.8949928284,4.4554409981,50.8949928284",
     "geom:latitude":50.894993,
     "geom:longitude":4.455441,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801053,
+        85801859,
         102191581,
         85632997,
         404227357,
         101913231,
         102049973,
         85681731,
-        85801859
+        85801053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
             "county_id":102049973,
             "locality_id":101913231,
             "macroregion_id":404227357,
-            "neighbourhood_id":85801053,
+            "neighbourhood_id":85801859,
             "region_id":85681731,
             "venue_id":1058604199
         },
@@ -66,15 +67,15 @@
             "county_id":102049973,
             "locality_id":101913231,
             "macroregion_id":404227357,
-            "neighbourhood_id":85801859,
+            "neighbourhood_id":85801053,
             "region_id":85681731,
             "venue_id":1058604199
         }
     ],
     "wof:id":1058604199,
-    "wof:lastmodified":1473721258,
+    "wof:lastmodified":1491915107,
     "wof:name":"Van Hoeck",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

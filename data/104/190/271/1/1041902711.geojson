@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4301810265,50.8095054626,4.4301810265,50.8095054626",
     "geom:latitude":50.809505,
     "geom:longitude":4.430181,
@@ -28,14 +29,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801147,
+        85801943,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801943
+        85801147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801147,
+            "neighbourhood_id":85801943,
             "region_id":85681713,
             "venue_id":1041902711
         },
@@ -61,15 +62,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801943,
+            "neighbourhood_id":85801147,
             "region_id":85681713,
             "venue_id":1041902711
         }
     ],
     "wof:id":1041902711,
-    "wof:lastmodified":1473720692,
+    "wof:lastmodified":1491920511,
     "wof:name":"Sofibanque Sa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

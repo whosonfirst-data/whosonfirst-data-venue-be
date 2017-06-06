@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.1157360002,45.9544868469,0.1157360002,45.9544868469",
     "geom:latitude":45.954487,
     "geom:longitude":0.115736,
@@ -23,17 +24,40 @@
     "sg:postcode":"7011",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683437,
+        102191581,
+        404228035,
+        404412767,
+        85633147,
+        1108826385,
+        101892269,
+        136253037,
+        102064377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YkZNU5yrqW4mu1JNRa0jI_45.954487_0.115736@1306268517"
     },
     "wof:country":"BE",
     "wof:created":1473527597,
-    "wof:geomhash":"131569864bf8fa44ebd54ce110fe4873",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1047407bd2ce481397884fa8479002eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064377,
+            "empire_id":136253037,
+            "localadmin_id":404412767,
+            "locality_id":101892269,
+            "macrocounty_id":404228035,
+            "macroregion_id":1108826385,
+            "region_id":85683437,
+            "venue_id":1058489825
+        }
+    ],
     "wof:id":1058489825,
-    "wof:lastmodified":1473722924,
+    "wof:lastmodified":1496775618,
     "wof:name":"Optique Jemappes-ghlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

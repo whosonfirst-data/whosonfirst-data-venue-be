@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2632579803,50.8457145691,4.2632579803,50.8457145691",
     "geom:latitude":50.845715,
     "geom:longitude":4.263258,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"b834b8cf20450a3fdec16379c8935d04",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1042055141
         }
     ],
     "wof:id":1042055141,
-    "wof:lastmodified":1473721506,
+    "wof:lastmodified":1491938012,
     "wof:name":"Huis Zazoe",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

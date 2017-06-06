@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4102292061,50.8408813477,4.4102292061,50.8408813477",
     "geom:latitude":50.840881,
     "geom:longitude":4.410229,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801123,
+        85802019,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85802019
+        85801123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801123,
+            "neighbourhood_id":85802019,
             "region_id":85681713,
             "venue_id":1041807607
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85802019,
+            "neighbourhood_id":85801123,
             "region_id":85681713,
             "venue_id":1041807607
         }
     ],
     "wof:id":1041807607,
-    "wof:lastmodified":1473722133,
+    "wof:lastmodified":1491917735,
     "wof:name":"Fran\u00c7oise Leth\u00c9",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2630629539,50.8405799866,4.2630629539,50.8405799866",
     "geom:latitude":50.84058,
     "geom:longitude":4.263063,
@@ -23,10 +24,13 @@
     "sg:postcode":"1710",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,15 +41,18 @@
     "wof:geomhash":"17000a2b88ab51cbb7044fb4281193b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041582781
         }
     ],
     "wof:id":1041582781,
-    "wof:lastmodified":1473720689,
+    "wof:lastmodified":1491938036,
     "wof:name":"Emile Hans",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

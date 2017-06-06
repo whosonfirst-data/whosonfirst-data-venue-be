@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2635059357,50.843788147,4.2635059357,50.843788147",
     "geom:latitude":50.843788,
     "geom:longitude":4.263506,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"d08efe3dd2b4c1c4179a345c945bba79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1042191599
         }
     ],
     "wof:id":1042191599,
-    "wof:lastmodified":1473720052,
+    "wof:lastmodified":1491938003,
     "wof:name":"Ambroos Ii",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

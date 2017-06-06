@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2618532181,50.8467597961,4.2618532181,50.8467597961",
     "geom:latitude":50.84676,
     "geom:longitude":4.261853,
@@ -24,14 +25,14 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973,
-        85801651,
         102191581,
+        85632997,
         404227357,
-        101913245
+        101913245,
+        102049973,
+        85681731,
+        85801651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +43,11 @@
     "wof:geomhash":"fcea2157bbc808dd8c9ee18b635cbaf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058850127
@@ -60,9 +64,9 @@
         }
     ],
     "wof:id":1058850127,
-    "wof:lastmodified":1473718943,
+    "wof:lastmodified":1491938042,
     "wof:name":"Pwa Dilbeek",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2691059113,50.8414840698,4.2691059113,50.8414840698",
     "geom:latitude":50.841484,
     "geom:longitude":4.269106,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +53,18 @@
     "wof:geomhash":"dab509e7c6a467d10aa6cccb925ba9c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1042116673
         }
     ],
     "wof:id":1042116673,
-    "wof:lastmodified":1473721981,
+    "wof:lastmodified":1491938033,
     "wof:name":"Rodem Consulting Bvba",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

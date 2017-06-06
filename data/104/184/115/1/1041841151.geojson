@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2474551201,50.842716217,4.2474551201,50.842716217",
     "geom:latitude":50.842716,
     "geom:longitude":4.247455,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +53,18 @@
     "wof:geomhash":"97cb48d12d94de53a8566d887e14af96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041841151
         }
     ],
     "wof:id":1041841151,
-    "wof:lastmodified":1473719812,
+    "wof:lastmodified":1491938010,
     "wof:name":"Crono Bvba",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

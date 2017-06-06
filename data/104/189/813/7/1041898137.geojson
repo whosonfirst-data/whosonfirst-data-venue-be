@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2624697685,50.8459281921,4.2624697685,50.8459281921",
     "geom:latitude":50.845928,
     "geom:longitude":4.26247,
@@ -28,10 +29,13 @@
     "sg:postcode":"1710",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"d1df3e95b96890362b9ff389843f5e9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041898137
         }
     ],
     "wof:id":1041898137,
-    "wof:lastmodified":1473722345,
+    "wof:lastmodified":1491938042,
     "wof:name":"Aslk-cger Bank",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.7320629954,46.028339386,0.7320629954,46.028339386",
     "geom:latitude":46.028339,
     "geom:longitude":0.732063,
@@ -31,17 +32,39 @@
         "professional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683437,
+        102191581,
+        85633147,
+        404366531,
+        404228035,
+        1108826385,
+        136253037,
+        102067113
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YVqLEHyV34yr1K1TwofDa_46.028339_0.732063@1306268541"
     },
     "wof:country":"BE",
     "wof:created":1473533590,
-    "wof:geomhash":"74d1c4bb5282b7aba0c42b9a1e5c1ff6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6181b50a77706f3095d14f1a9031774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067113,
+            "empire_id":136253037,
+            "localadmin_id":404366531,
+            "locality_id":-1,
+            "macrocounty_id":404228035,
+            "macroregion_id":1108826385,
+            "region_id":85683437,
+            "venue_id":1058620479
+        }
+    ],
     "wof:id":1058620479,
-    "wof:lastmodified":1473719467,
+    "wof:lastmodified":1496775367,
     "wof:name":"Schumacher I (psychologue)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

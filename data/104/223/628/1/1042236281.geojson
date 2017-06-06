@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.3899297714,52.5172615051,13.3899297714,52.5172615051",
     "geom:latitude":52.517262,
     "geom:longitude":13.38993,
@@ -24,12 +25,13 @@
     "sg:province":"Li\u00e8ge",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682499,
+        420784293,
         102191581,
         85633111,
         101748799,
+        1108815545,
         102063945,
-        85899637
+        85682499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +42,20 @@
     "wof:geomhash":"ef201cb864ebdc26e7c8e690197107e9",
     "wof:hierarchy":[
         {
+            "borough_id":1108815545,
             "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063945,
             "locality_id":101748799,
-            "neighbourhood_id":85899637,
+            "neighbourhood_id":420784293,
             "region_id":85682499,
             "venue_id":1042236281
         }
     ],
     "wof:id":1042236281,
-    "wof:lastmodified":1473721818,
+    "wof:lastmodified":1489091951,
     "wof:name":"Joseph Jenchenne",
-    "wof:parent_id":85899637,
+    "wof:parent_id":420784293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

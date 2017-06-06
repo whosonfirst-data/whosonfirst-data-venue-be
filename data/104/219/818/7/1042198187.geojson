@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4220700264,50.8161811829,4.4220700264,50.8161811829",
     "geom:latitude":50.816181,
     "geom:longitude":4.42207,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801989,
+        85801955,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801955
+        85801989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801989,
+            "neighbourhood_id":85801955,
             "region_id":85681713,
             "venue_id":1042198187
         },
@@ -65,15 +66,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801955,
+            "neighbourhood_id":85801989,
             "region_id":85681713,
             "venue_id":1042198187
         }
     ],
     "wof:id":1042198187,
-    "wof:lastmodified":1473722310,
+    "wof:lastmodified":1491907019,
     "wof:name":"Academie De Musique & Des Arts De La Parole Franz Constant D'auderghem",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

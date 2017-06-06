@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.329076767,50.8550376892,4.329076767,50.8550376892",
     "geom:latitude":50.855038,
     "geom:longitude":4.329077,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801875,
+        85801705,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801705
+        85801875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801875,
+            "neighbourhood_id":85801705,
             "region_id":85681713,
             "venue_id":1058067001
         },
@@ -65,15 +66,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801705,
+            "neighbourhood_id":85801875,
             "region_id":85681713,
             "venue_id":1058067001
         }
     ],
     "wof:id":1058067001,
-    "wof:lastmodified":1473722067,
+    "wof:lastmodified":1491907371,
     "wof:name":"Fondalu",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

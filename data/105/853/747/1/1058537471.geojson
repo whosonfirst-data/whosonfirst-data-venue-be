@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2269301414,50.8332519531,4.2269301414,50.8332519531",
     "geom:latitude":50.833252,
     "geom:longitude":4.22693,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"0cf08be8c2e425d16553c0f5c4534701",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058537471
         }
     ],
     "wof:id":1058537471,
-    "wof:lastmodified":1473722176,
+    "wof:lastmodified":1491937982,
     "wof:name":"Lundmar Nv",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

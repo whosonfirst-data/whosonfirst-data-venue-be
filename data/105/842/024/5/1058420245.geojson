@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8036999702,45.9799995422,5.8036999702,45.9799995422",
     "geom:latitude":45.98,
     "geom:longitude":5.8037,
@@ -23,17 +24,39 @@
     "sg:postcode":"1420",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        85633147,
+        404398757,
+        404227585,
+        1108826389,
+        136253037,
+        102069921
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77RonI41CS4jYjWWHZQg7B_45.980000_5.803700@1306268506"
     },
     "wof:country":"BE",
     "wof:created":1473524161,
-    "wof:geomhash":"c3b3dda8b8d6896b71cc2d1d45e6f352",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8755a86bcf6e9bc670b754ef6fb203f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069921,
+            "empire_id":136253037,
+            "localadmin_id":404398757,
+            "locality_id":-1,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1058420245
+        }
+    ],
     "wof:id":1058420245,
-    "wof:lastmodified":1473719354,
+    "wof:lastmodified":1496781926,
     "wof:name":"Jipeco S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

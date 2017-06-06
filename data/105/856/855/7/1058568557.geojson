@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4232811928,50.8372764587,4.4232811928,50.8372764587",
     "geom:latitude":50.837276,
     "geom:longitude":4.423281,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802023,
+        85800817,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85800817
+        85802023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85802023,
+            "neighbourhood_id":85800817,
             "region_id":85681713,
             "venue_id":1058568557
         },
@@ -65,15 +66,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800817,
+            "neighbourhood_id":85802023,
             "region_id":85681713,
             "venue_id":1058568557
         }
     ],
     "wof:id":1058568557,
-    "wof:lastmodified":1473722532,
+    "wof:lastmodified":1491900804,
     "wof:name":"Struyf M-p",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

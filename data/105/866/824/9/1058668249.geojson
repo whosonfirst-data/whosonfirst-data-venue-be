@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.258559227,50.8364982605,4.258559227,50.8364982605",
     "geom:latitude":50.836498,
     "geom:longitude":4.258559,
@@ -29,10 +30,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"ed871c4450a8bad196299f4a9fbf6f34",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058668249
         }
     ],
     "wof:id":1058668249,
-    "wof:lastmodified":1473722356,
+    "wof:lastmodified":1491938000,
     "wof:name":"Effe'naf",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

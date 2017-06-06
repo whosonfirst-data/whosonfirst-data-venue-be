@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2518920898,50.8430747986,4.2518920898,50.8430747986",
     "geom:latitude":50.843075,
     "geom:longitude":4.251892,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"1e12ba3efc247bdbce53a666806bad48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058829365
         }
     ],
     "wof:id":1058829365,
-    "wof:lastmodified":1473722695,
+    "wof:lastmodified":1491938002,
     "wof:name":"Esso",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

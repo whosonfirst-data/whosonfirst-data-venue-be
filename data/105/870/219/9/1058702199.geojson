@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8084897995,46.1109008789,5.8084897995,46.1109008789",
     "geom:latitude":46.110901,
     "geom:longitude":5.80849,
@@ -23,17 +24,40 @@
     "sg:postcode":"1200",
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404228195,
+        404383667,
+        85633147,
+        1108826389,
+        101767975,
+        136253037,
+        102064803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JhO9mq3UYPe7Gf1QM2ouY_46.110901_5.808490@1306268556"
     },
     "wof:country":"BE",
     "wof:created":1473537204,
-    "wof:geomhash":"6a320538cb42998be5a4748c1274a9d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1a38134d1856366021d3ed1f7589986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064803,
+            "empire_id":136253037,
+            "localadmin_id":404383667,
+            "locality_id":101767975,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1058702199
+        }
+    ],
     "wof:id":1058702199,
-    "wof:lastmodified":1473720295,
+    "wof:lastmodified":1496781655,
     "wof:name":"Wieland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

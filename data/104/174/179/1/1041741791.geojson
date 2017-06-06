@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.6079025269,41.7101249695,-87.6079025269,41.7101249695",
     "geom:latitude":41.710125,
     "geom:longitude":-87.607903,
@@ -27,11 +28,12 @@
     "sg:postcode":"60611",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843259,
+        420783609,
         102191575,
         404496273,
         85633793,
         85940195,
+        958036681,
         102084317,
         85688697
     ],
@@ -44,20 +46,21 @@
     "wof:geomhash":"671b4852fe0b3837ecf64df92d126673",
     "wof:hierarchy":[
         {
+            "borough_id":958036681,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084317,
             "localadmin_id":404496273,
             "locality_id":85940195,
-            "neighbourhood_id":85843259,
+            "neighbourhood_id":420783609,
             "region_id":85688697,
             "venue_id":1041741791
         }
     ],
     "wof:id":1041741791,
-    "wof:lastmodified":1473720130,
+    "wof:lastmodified":1491372092,
     "wof:name":"Wahlstrom/chicago (a.k. Stone)",
-    "wof:parent_id":85843259,
+    "wof:parent_id":420783609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

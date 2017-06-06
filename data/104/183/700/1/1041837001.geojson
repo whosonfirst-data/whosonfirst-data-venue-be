@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2313919067,50.8321151733,4.2313919067,50.8321151733",
     "geom:latitude":50.832115,
     "geom:longitude":4.231392,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"4ac695e9af5bf01bd39e06e89ea2c7da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041837001
         }
     ],
     "wof:id":1041837001,
-    "wof:lastmodified":1473722045,
+    "wof:lastmodified":1491937987,
     "wof:name":"Bov\u00e9 C",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

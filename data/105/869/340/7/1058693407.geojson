@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"78.8970184326,19.3073501587,78.8970184326,19.3073501587",
     "geom:latitude":19.30735,
     "geom:longitude":78.897018,
@@ -23,17 +24,32 @@
     "sg:postcode":"8200",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85672141,
+        102191569,
+        85632469,
+        890507569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZrkgwO9c8XyWasVzoxgbY_19.307350_78.897018@1306268555"
     },
     "wof:country":"BE",
     "wof:created":1473536835,
-    "wof:geomhash":"0aedf2773414210d89a89c36dad7b795",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ce45444b57cc3fae9d3fdb3074f5d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507569,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85672141,
+            "venue_id":1058693407
+        }
+    ],
     "wof:id":1058693407,
-    "wof:lastmodified":1473720873,
+    "wof:lastmodified":1494285070,
     "wof:name":"W. Ijpelaar Tegelwerken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

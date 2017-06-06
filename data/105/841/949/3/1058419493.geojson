@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0856199265,45.7502403259,3.0856199265,45.7502403259",
     "geom:latitude":45.75024,
     "geom:longitude":3.08562,
@@ -30,17 +31,40 @@
         "motorbike"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683471,
+        102191581,
+        404227937,
+        404362039,
+        85633147,
+        1108826389,
+        101748989,
+        136253037,
+        102071711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kCQYiTekvKW14Z3DboFUY_45.750240_3.085620@1306268506"
     },
     "wof:country":"BE",
     "wof:created":1473524119,
-    "wof:geomhash":"9af47808ec2e6433454b2b336869a1d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"721daa0d2502afb54fc62df7120d12e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071711,
+            "empire_id":136253037,
+            "localadmin_id":404362039,
+            "locality_id":101748989,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
+            "region_id":85683471,
+            "venue_id":1058419493
+        }
+    ],
     "wof:id":1058419493,
-    "wof:lastmodified":1473722768,
+    "wof:lastmodified":1496779582,
     "wof:name":"Dafy Moto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2513141632,50.8364067078,4.2513141632,50.8364067078",
     "geom:latitude":50.836407,
     "geom:longitude":4.251314,
@@ -29,10 +30,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"028e482de1feeb651e6d5bbed1825bff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041542395
         }
     ],
     "wof:id":1041542395,
-    "wof:lastmodified":1473720339,
+    "wof:lastmodified":1491937984,
     "wof:name":"Mennens M",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

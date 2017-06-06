@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2980999947,46.1339187622,-0.2980999947,46.1339187622",
     "geom:latitude":46.133919,
     "geom:longitude":-0.2981,
@@ -23,17 +24,40 @@
     "sg:postcode":"1853",
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683163,
+        102191581,
+        404227969,
+        404357653,
+        85633147,
+        1108826385,
+        101892997,
+        136253037,
+        102065131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kd2EJh0yqcuyK4KvlQfuT_46.133919_-0.298100@1306268383"
     },
     "wof:country":"BE",
     "wof:created":1473493902,
-    "wof:geomhash":"72713280b333da1aeef11aa508ece40e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46b08d9935fb1222c1c0d0648532cab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065131,
+            "empire_id":136253037,
+            "localadmin_id":404357653,
+            "locality_id":101892997,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
+            "region_id":85683163,
+            "venue_id":1042040929
+        }
+    ],
     "wof:id":1042040929,
-    "wof:lastmodified":1473719656,
+    "wof:lastmodified":1496775364,
     "wof:name":"La Petite Fourchette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

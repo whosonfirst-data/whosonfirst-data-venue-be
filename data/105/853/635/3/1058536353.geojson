@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2486758232,50.8397026062,4.2486758232,50.8397026062",
     "geom:latitude":50.839703,
     "geom:longitude":4.248676,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"427b9126b29c65b34549624813cf377d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058536353
         }
     ],
     "wof:id":1058536353,
-    "wof:lastmodified":1473721767,
+    "wof:lastmodified":1491937996,
     "wof:name":"Ideas C.v.b.a.",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

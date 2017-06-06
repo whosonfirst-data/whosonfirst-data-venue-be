@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7768621445,45.088104248,5.7768621445,45.088104248",
     "geom:latitude":45.088104,
     "geom:longitude":5.776862,
@@ -31,17 +32,40 @@
         "cultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683427,
+        102191581,
+        404227669,
+        404377847,
+        85633147,
+        1108826389,
+        101830537,
+        136253037,
+        102071305
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JDNrKknCfNdPjwhggNRTQ_45.088104_5.776862@1306268395"
     },
     "wof:country":"BE",
     "wof:created":1473496325,
-    "wof:geomhash":"fa5d015228186ca2c792598afc908f93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff2a6219b3b0c95aa20fef723efaa47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071305,
+            "empire_id":136253037,
+            "localadmin_id":404377847,
+            "locality_id":101830537,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
+            "region_id":85683427,
+            "venue_id":1042098475
+        }
+    ],
     "wof:id":1042098475,
-    "wof:lastmodified":1473722528,
+    "wof:lastmodified":1496779551,
     "wof:name":"Institut Tib\u00e9tain Yeunten Ling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

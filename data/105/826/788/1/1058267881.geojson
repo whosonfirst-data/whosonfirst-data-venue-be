@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0982899666,46.2723312378,6.0982899666,46.2723312378",
     "geom:latitude":46.272331,
     "geom:longitude":6.09829,
@@ -23,17 +24,40 @@
     "sg:postcode":"1210",
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683153,
+        102191581,
+        404228005,
+        404399327,
+        85633147,
+        1108826389,
+        101753279,
+        136253037,
+        102066711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_058RHVtC6qvg2TxCpLP5u1_46.272331_6.098290@1306268477"
     },
     "wof:country":"BE",
     "wof:created":1473517168,
-    "wof:geomhash":"776049a535e2cc5307c981ec8970b42a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6f60338bcccf40373cae23a3dde3817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066711,
+            "empire_id":136253037,
+            "localadmin_id":404399327,
+            "locality_id":101753279,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
+            "region_id":85683153,
+            "venue_id":1058267881
+        }
+    ],
     "wof:id":1058267881,
-    "wof:lastmodified":1473722239,
+    "wof:lastmodified":1496781895,
     "wof:name":"Kaufmann Pianos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

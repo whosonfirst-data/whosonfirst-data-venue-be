@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2352318764,50.8413963318,4.2352318764,50.8413963318",
     "geom:latitude":50.841396,
     "geom:longitude":4.235232,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,18 @@
     "wof:geomhash":"69551fb1c0e2b00a0afb28b85853402a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058906195
         }
     ],
     "wof:id":1058906195,
-    "wof:lastmodified":1473721734,
+    "wof:lastmodified":1491938002,
     "wof:name":"De Cooman Ph",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

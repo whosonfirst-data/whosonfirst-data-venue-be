@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2290282249,50.8380050659,4.2290282249,50.8380050659",
     "geom:latitude":50.838005,
     "geom:longitude":4.229028,
@@ -29,10 +30,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"3cbadd4aacad5b179a4eb6eed58c086f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041778873
         }
     ],
     "wof:id":1041778873,
-    "wof:lastmodified":1473722580,
+    "wof:lastmodified":1491938031,
     "wof:name":"Lemaire E",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

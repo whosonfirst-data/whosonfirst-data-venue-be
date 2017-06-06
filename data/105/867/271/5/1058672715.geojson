@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4271349907,50.8621406555,4.4271349907,50.8621406555",
     "geom:latitude":50.862141,
     "geom:longitude":4.427135,
@@ -29,14 +30,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802019,
+        85800923,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85800923
+        85802019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85802019,
+            "neighbourhood_id":85800923,
             "region_id":85681713,
             "venue_id":1058672715
         },
@@ -62,15 +63,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800923,
+            "neighbourhood_id":85802019,
             "region_id":85681713,
             "venue_id":1058672715
         }
     ],
     "wof:id":1058672715,
-    "wof:lastmodified":1473720649,
+    "wof:lastmodified":1491917664,
     "wof:name":"Le Danube Bleu Ii",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

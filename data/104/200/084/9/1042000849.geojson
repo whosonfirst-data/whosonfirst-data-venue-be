@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356470108,50.8407058716,4.356470108,50.8407058716",
     "geom:latitude":50.840706,
     "geom:longitude":4.35647,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801319,
+        85801789,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801789
+        85801319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801319,
+            "neighbourhood_id":85801789,
             "region_id":85681713,
             "venue_id":1042000849
         },
@@ -66,15 +67,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801789,
+            "neighbourhood_id":85801319,
             "region_id":85681713,
             "venue_id":1042000849
         }
     ],
     "wof:id":1042000849,
-    "wof:lastmodified":1473719682,
+    "wof:lastmodified":1491898414,
     "wof:name":"Lecailler Du Palais Royal Sa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

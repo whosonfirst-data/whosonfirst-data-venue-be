@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.7535690069,45.9510803223,1.7535690069,45.9510803223",
     "geom:latitude":45.95108,
     "geom:longitude":1.753569,
@@ -39,17 +40,40 @@
         "mach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683179,
+        102191581,
+        404227843,
+        404364543,
+        85633147,
+        1108826385,
+        101768299,
+        136253037,
+        102065521
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1msFgRcgAr3cQQviw4hN5F_45.951080_1.753569@1306268414"
     },
     "wof:country":"BE",
     "wof:created":1473501986,
-    "wof:geomhash":"d02e947611211a36d191fd89c0c14440",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a9cb5d25e77602ebde79b190b688e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065521,
+            "empire_id":136253037,
+            "localadmin_id":404364543,
+            "locality_id":101768299,
+            "macrocounty_id":404227843,
+            "macroregion_id":1108826385,
+            "region_id":85683179,
+            "venue_id":1042200677
+        }
+    ],
     "wof:id":1042200677,
-    "wof:lastmodified":1473719533,
+    "wof:lastmodified":1496776823,
     "wof:name":"Sime Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

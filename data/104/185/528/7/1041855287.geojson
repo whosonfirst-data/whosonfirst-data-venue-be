@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.353290081,50.8426704407,4.353290081,50.8426704407",
     "geom:latitude":50.84267,
     "geom:longitude":4.35329,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801789,
+        85801191,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801191
+        85801789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801789,
+            "neighbourhood_id":85801191,
             "region_id":85681713,
             "venue_id":1041855287
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801191,
+            "neighbourhood_id":85801789,
             "region_id":85681713,
             "venue_id":1041855287
         }
     ],
     "wof:id":1041855287,
-    "wof:lastmodified":1473721569,
+    "wof:lastmodified":1491898414,
     "wof:name":"C. Sartini Vandenkerckhove",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2948899269,52.112487793,4.2948899269,52.112487793",
     "geom:latitude":52.112488,
     "geom:longitude":4.29489,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687041,
+        102191581,
+        404474179,
         85633337,
-        85798379,
-        85687041
+        101752763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +48,18 @@
     "wof:geomhash":"2497818b1b1f503d54b64ade715ed05b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633337,
-            "neighbourhood_id":85798379,
+            "localadmin_id":404474179,
+            "locality_id":101752763,
             "region_id":85687041,
             "venue_id":1058298205
         }
     ],
     "wof:id":1058298205,
-    "wof:lastmodified":1473722387,
+    "wof:lastmodified":1491939477,
     "wof:name":"Bennies Fifties",
-    "wof:parent_id":85798379,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

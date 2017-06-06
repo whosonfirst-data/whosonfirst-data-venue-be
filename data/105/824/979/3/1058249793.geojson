@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.234623909,50.8304748535,4.234623909,50.8304748535",
     "geom:latitude":50.830475,
     "geom:longitude":4.234624,
@@ -24,10 +25,13 @@
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"747f1f04ce915098c0b687956d53cb8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058249793
         }
     ],
     "wof:id":1058249793,
-    "wof:lastmodified":1473722916,
+    "wof:lastmodified":1491938021,
     "wof:name":"Itterplastiek",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6910381317,49.3924102783,4.6910381317,49.3924102783",
     "geom:latitude":49.39241,
     "geom:longitude":4.691038,
@@ -31,17 +32,40 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        404228201,
+        404358105,
+        85633147,
+        1108826391,
+        101815019,
+        136253037,
+        102070057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fGzYohfLLsLaOVeRC17Kf_49.392410_4.691038@1306268322"
     },
     "wof:country":"BE",
     "wof:created":1473478774,
-    "wof:geomhash":"6098d274e336693f92d074b4c79df467",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6c52c7e5582934331c8780dd5a742c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070057,
+            "empire_id":136253037,
+            "localadmin_id":404358105,
+            "locality_id":101815019,
+            "macrocounty_id":404228201,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1041686543
+        }
+    ],
     "wof:id":1041686543,
-    "wof:lastmodified":1473721867,
+    "wof:lastmodified":1496783879,
     "wof:name":"Henri-paul Coppens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

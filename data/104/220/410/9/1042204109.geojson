@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3694381714,50.8093605042,4.3694381714,50.8093605042",
     "geom:latitude":50.809361,
     "geom:longitude":4.369438,
@@ -35,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800787,
+        85801553,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801553
+        85800787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800787,
+            "neighbourhood_id":85801553,
             "region_id":85681713,
             "venue_id":1042204109
         },
@@ -68,15 +69,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801553,
+            "neighbourhood_id":85800787,
             "region_id":85681713,
             "venue_id":1042204109
         }
     ],
     "wof:id":1042204109,
-    "wof:lastmodified":1473721244,
+    "wof:lastmodified":1491928978,
     "wof:name":"Bossaert P",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

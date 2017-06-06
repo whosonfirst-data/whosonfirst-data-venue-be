@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4160170555,50.7988319397,4.4160170555,50.7988319397",
     "geom:latitude":50.798832,
     "geom:longitude":4.416017,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801147,
+        85800947,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85800947
+        85801147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801147,
+            "neighbourhood_id":85800947,
             "region_id":85681713,
             "venue_id":1058444105
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85800947,
+            "neighbourhood_id":85801147,
             "region_id":85681713,
             "venue_id":1058444105
         }
     ],
     "wof:id":1058444105,
-    "wof:lastmodified":1473721157,
+    "wof:lastmodified":1491920507,
     "wof:name":"Marcel Cumps",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

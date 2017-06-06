@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2637429237,50.8446960449,4.2637429237,50.8446960449",
     "geom:latitude":50.844696,
     "geom:longitude":4.263743,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"07f2421baf774347cd4d53f5d109f55b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1041580147
         }
     ],
     "wof:id":1041580147,
-    "wof:lastmodified":1473718957,
+    "wof:lastmodified":1491938010,
     "wof:name":"Gemeentelijk Lager Onderwijs Dilbeek",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

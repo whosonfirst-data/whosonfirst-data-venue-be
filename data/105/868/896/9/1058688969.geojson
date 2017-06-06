@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4060120583,50.8421020508,4.4060120583,50.8421020508",
     "geom:latitude":50.842102,
     "geom:longitude":4.406012,
@@ -35,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802019,
+        85801123,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801123
+        85802019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85802019,
+            "neighbourhood_id":85801123,
             "region_id":85681713,
             "venue_id":1058688969
         },
@@ -68,15 +69,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801123,
+            "neighbourhood_id":85802019,
             "region_id":85681713,
             "venue_id":1058688969
         }
     ],
     "wof:id":1058688969,
-    "wof:lastmodified":1473722571,
+    "wof:lastmodified":1491917631,
     "wof:name":"L'orchidee Bleue",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.479629517,-45.8810691833,170.479629517,-45.8810691833",
     "geom:latitude":-45.881069,
     "geom:longitude":170.47963,
@@ -36,7 +37,6 @@
         85687201,
         102191583,
         85633345,
-        101915521,
         102079387,
         85778177
     ],
@@ -46,20 +46,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473545580,
-    "wof:geomhash":"609bf5bfe1b7afa837809bc02f48ddee",
+    "wof:geomhash":"222189c81cc1eba2e511cb0017594001",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
             "county_id":102079387,
-            "locality_id":101915521,
+            "locality_id":-1,
             "neighbourhood_id":85778177,
             "region_id":85687201,
             "venue_id":1058892717
         }
     ],
     "wof:id":1058892717,
-    "wof:lastmodified":1473720686,
+    "wof:lastmodified":1496775762,
     "wof:name":"Mosolf Benelux Bvba",
     "wof:parent_id":85778177,
     "wof:placetype":"venue",

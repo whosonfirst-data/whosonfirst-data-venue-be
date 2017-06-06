@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.262969017,50.8403739929,4.262969017,50.8403739929",
     "geom:latitude":50.840374,
     "geom:longitude":4.262969,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"36a4d2762af97280b51a8fcd3c3f46df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1042082989
         }
     ],
     "wof:id":1042082989,
-    "wof:lastmodified":1473720780,
+    "wof:lastmodified":1491938048,
     "wof:name":"R. Baudouin T.h.c.",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

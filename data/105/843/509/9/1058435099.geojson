@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4260802269,50.8403778076,4.4260802269,50.8403778076",
     "geom:latitude":50.840378,
     "geom:longitude":4.42608,
@@ -24,14 +25,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802023,
+        85801913,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801913
+        85802023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85802023,
+            "neighbourhood_id":85801913,
             "region_id":85681713,
             "venue_id":1058435099
         },
@@ -57,15 +58,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801913,
+            "neighbourhood_id":85802023,
             "region_id":85681713,
             "venue_id":1058435099
         }
     ],
     "wof:id":1058435099,
-    "wof:lastmodified":1473721521,
+    "wof:lastmodified":1491900799,
     "wof:name":"Fran\u00c7oise Lemeunier",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

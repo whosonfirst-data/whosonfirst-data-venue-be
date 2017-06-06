@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2735347748,50.8371391296,4.2735347748,50.8371391296",
     "geom:latitude":50.837139,
     "geom:longitude":4.273535,
@@ -24,10 +25,13 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"fdce1dbd12abbc7f142a53ff54157328",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058770291
         }
     ],
     "wof:id":1058770291,
-    "wof:lastmodified":1473719353,
+    "wof:lastmodified":1491938025,
     "wof:name":"Top Dog",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3397140503,50.7984275818,4.3397140503,50.7984275818",
     "geom:latitude":50.798428,
     "geom:longitude":4.339714,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801925,
+        85801951,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801951
+        85801925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801925,
+            "neighbourhood_id":85801951,
             "region_id":85681713,
             "venue_id":1058117377
         },
@@ -66,15 +67,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801951,
+            "neighbourhood_id":85801925,
             "region_id":85681713,
             "venue_id":1058117377
         }
     ],
     "wof:id":1058117377,
-    "wof:lastmodified":1473722062,
+    "wof:lastmodified":1491895591,
     "wof:name":"Schmiedeberg A",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

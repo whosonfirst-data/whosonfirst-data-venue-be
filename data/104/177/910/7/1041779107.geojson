@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3837490082,50.8543624878,4.3837490082,50.8543624878",
     "geom:latitude":50.854362,
     "geom:longitude":4.383749,
@@ -29,14 +30,14 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801909,
+        85801855,
         102191581,
         85632997,
         404227355,
         101751573,
         102049957,
         85681713,
-        85801855
+        85801909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801909,
+            "neighbourhood_id":85801855,
             "region_id":85681713,
             "venue_id":1041779107
         },
@@ -62,15 +63,15 @@
             "county_id":102049957,
             "locality_id":101751573,
             "macroregion_id":404227355,
-            "neighbourhood_id":85801855,
+            "neighbourhood_id":85801909,
             "region_id":85681713,
             "venue_id":1041779107
         }
     ],
     "wof:id":1041779107,
-    "wof:lastmodified":1473722700,
+    "wof:lastmodified":1491892477,
     "wof:name":"Liekens T",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],

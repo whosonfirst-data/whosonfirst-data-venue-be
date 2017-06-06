@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2377300262,50.8418540955,4.2377300262,50.8418540955",
     "geom:latitude":50.841854,
     "geom:longitude":4.23773,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681731,
-        85632997,
         85800917,
-        102049973
+        102191581,
+        85632997,
+        404227357,
+        101913245,
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"e15cbcede2a4ecc67bf02b3d77319788",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049973,
+            "locality_id":101913245,
+            "macroregion_id":404227357,
             "neighbourhood_id":85800917,
             "region_id":85681731,
             "venue_id":1058918099
         }
     ],
     "wof:id":1058918099,
-    "wof:lastmodified":1473722336,
+    "wof:lastmodified":1491938022,
     "wof:name":"Design Veranda's Nv",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",
