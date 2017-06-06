@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0249700546,49.6892700195,5.0249700546,49.6892700195",
     "geom:latitude":49.68927,
     "geom:longitude":5.02497,
@@ -30,17 +31,39 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        85633147,
+        404377701,
+        404228017,
+        1108826391,
+        136253037,
+        102069371
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F1o2ime0iPyDPiCELTi47_49.689270_5.024970@1306268409"
     },
     "wof:country":"BE",
     "wof:created":1473500316,
-    "wof:geomhash":"390e904a6cdcd9ddaa3beb49090a9a0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad0f0a2acc776e859124cb110edc1f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069371,
+            "empire_id":136253037,
+            "localadmin_id":404377701,
+            "locality_id":-1,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1042173289
+        }
+    ],
     "wof:id":1042173289,
-    "wof:lastmodified":1473720837,
+    "wof:lastmodified":1496784535,
     "wof:name":"Catherine Charles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

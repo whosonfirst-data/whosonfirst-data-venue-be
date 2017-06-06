@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0881028175,48.4873046875,6.0881028175,48.4873046875",
     "geom:latitude":48.487305,
     "geom:longitude":6.088103,
@@ -31,17 +32,40 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683343,
+        102191581,
+        404228113,
+        404410963,
+        85633147,
+        1108826391,
+        101765085,
+        136253037,
+        102069717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WKbPz0IoFzo1Spmjbq2Nz_48.487305_6.088103@1306268541"
     },
     "wof:country":"BE",
     "wof:created":1473533743,
-    "wof:geomhash":"c1e018b3a70fa03a30e74c688765e6cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b8190594127df1d39acafbece5d3217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069717,
+            "empire_id":136253037,
+            "localadmin_id":404410963,
+            "locality_id":101765085,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
+            "venue_id":1058623939
+        }
+    ],
     "wof:id":1058623939,
-    "wof:lastmodified":1473721186,
+    "wof:lastmodified":1496784438,
     "wof:name":"Vanhoutte M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
