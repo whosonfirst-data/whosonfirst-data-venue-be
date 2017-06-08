@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.6273139715,50.2169342041,1.6273139715,50.2169342041",
     "geom:latitude":50.216934,
     "geom:longitude":1.627314,
@@ -31,17 +32,40 @@
         "motorbike"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227761,
+        404382623,
+        85633147,
+        1108826399,
+        101811135,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qFTrr5gLI5ToR6au6j1Yi_50.216934_1.627314@1306268506"
     },
     "wof:country":"BE",
     "wof:created":1473524130,
-    "wof:geomhash":"05b736769666c982c8220090dfa1b2cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1cc8df4fbf106c930275891d29dcf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404382623,
+            "locality_id":101811135,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1058419751
+        }
+    ],
     "wof:id":1058419751,
-    "wof:lastmodified":1473722818,
+    "wof:lastmodified":1496791199,
     "wof:name":"Maison Barbaix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

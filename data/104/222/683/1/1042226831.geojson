@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6308879852,50.8201713562,2.6308879852,50.8201713562",
     "geom:latitude":50.820171,
     "geom:longitude":2.630888,
@@ -23,17 +24,39 @@
     "sg:postcode":"8978",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404398047,
+        404228245,
+        1108826399,
+        136253037,
+        102071769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vZYIE40MsglObcHGcPZji_50.820171_2.630888@1306268418"
     },
     "wof:country":"BE",
     "wof:created":1473503220,
-    "wof:geomhash":"e7b434517d4f40382847137637925ea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ee43a3116c577c8a659d959e43d92ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071769,
+            "empire_id":136253037,
+            "localadmin_id":404398047,
+            "locality_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042226831
+        }
+    ],
     "wof:id":1042226831,
-    "wof:lastmodified":1473722024,
+    "wof:lastmodified":1496791222,
     "wof:name":"Marc Heyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

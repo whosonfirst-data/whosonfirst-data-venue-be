@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5995159149,50.4944915771,3.5995159149,50.4944915771",
     "geom:latitude":50.494492,
     "geom:longitude":3.599516,
@@ -28,17 +29,34 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839795,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Nel3ICZUvuLTuQ7rBaW9J_50.494492_3.599516@1306268577"
     },
     "wof:country":"BE",
     "wof:created":1473542549,
-    "wof:geomhash":"b2ba9f7d18d5c052404c2e62eb985fd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40c26cb52726244eeb492e3b5b62a9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101839795,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058822341
+        }
+    ],
     "wof:id":1058822341,
-    "wof:lastmodified":1473720335,
+    "wof:lastmodified":1496791267,
     "wof:name":"Fun-gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

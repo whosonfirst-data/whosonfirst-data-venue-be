@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1088590622,50.3030853271,4.1088590622,50.3030853271",
     "geom:latitude":50.303085,
     "geom:longitude":4.108859,
@@ -34,17 +35,40 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404380993,
+        85633147,
+        1108826399,
+        101840783,
+        136253037,
+        102071309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sBZaPIxYCRm38ryVXKJPF_50.303085_4.108859@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536568,
-    "wof:geomhash":"1021876a9af9fdcfe7022fe5a172e643",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a0a0239cae4d7622560498e5ca55193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071309,
+            "empire_id":136253037,
+            "localadmin_id":404380993,
+            "locality_id":101840783,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058686603
+        }
+    ],
     "wof:id":1058686603,
-    "wof:lastmodified":1473721844,
+    "wof:lastmodified":1496792241,
     "wof:name":"Le Palais Du Dragon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

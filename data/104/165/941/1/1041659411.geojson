@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1309890747,50.7871398926,3.1309890747,50.7871398926",
     "geom:latitude":50.78714,
     "geom:longitude":3.130989,
@@ -32,17 +33,40 @@
         "coiffure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OxctLNz88y6AyH1BnS2Wf_50.787140_3.130989@1306268562"
     },
     "wof:country":"BE",
     "wof:created":1473477733,
-    "wof:geomhash":"8c1c95d1ed932dc7b182b004c2828831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6b9fe149127d06b6fb0ea84c2744c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041659411
+        }
+    ],
     "wof:id":1041659411,
-    "wof:lastmodified":1473722863,
+    "wof:lastmodified":1496791258,
     "wof:name":"Coiffure Georges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

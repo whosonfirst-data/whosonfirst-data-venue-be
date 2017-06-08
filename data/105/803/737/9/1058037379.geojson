@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5994539261,50.4941520691,3.5994539261,50.4941520691",
     "geom:latitude":50.494152,
     "geom:longitude":3.599454,
@@ -23,17 +24,34 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839795,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M7NOhHbZzIwxFziJXp9Ra_50.494152_3.599454@1306268432"
     },
     "wof:country":"BE",
     "wof:created":1473506993,
-    "wof:geomhash":"a5551b38ee193943dce2a069557ba07d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a68a8577d308891fbf5fb49d22a55c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101839795,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058037379
+        }
+    ],
     "wof:id":1058037379,
-    "wof:lastmodified":1473722173,
+    "wof:lastmodified":1496791209,
     "wof:name":"Cyclo Delrue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

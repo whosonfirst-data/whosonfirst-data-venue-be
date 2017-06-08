@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1866619587,50.7459983826,3.1866619587,50.7459983826",
     "geom:latitude":50.745998,
     "geom:longitude":3.186662,
@@ -23,17 +24,34 @@
     "sg:postcode":"7700",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PsTkXr6znSpMxJdsG6PYz_50.745998_3.186662@1306268385"
     },
     "wof:country":"BE",
     "wof:created":1473494343,
-    "wof:geomhash":"53d71b7b859ddb020e451aeb83fb5ee0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"addf13cd17ea6cc30c542ae92b6f8c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1042051931
+        }
+    ],
     "wof:id":1042051931,
-    "wof:lastmodified":1473720126,
+    "wof:lastmodified":1496790725,
     "wof:name":"T.t.s. Toitures Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

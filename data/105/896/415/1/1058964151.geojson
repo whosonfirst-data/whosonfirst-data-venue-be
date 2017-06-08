@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.3769299984,51.0369949341,2.3769299984,51.0369949341",
     "geom:latitude":51.036995,
     "geom:longitude":2.37693,
@@ -33,17 +34,38 @@
         "clock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
+        102071923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GnJntQaHAJnI58Tjsd2Gs_51.036995_2.376930@1306268604"
     },
     "wof:country":"BE",
     "wof:created":1473548959,
-    "wof:geomhash":"180480742b85fb82f18d4035086f74f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0786fc53fa3d78c78d1c8e6f656f9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071923,
+            "empire_id":136253037,
+            "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058964151
+        }
+    ],
     "wof:id":1058964151,
-    "wof:lastmodified":1473720993,
+    "wof:lastmodified":1496791243,
     "wof:name":"Verhoeven Joaillier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

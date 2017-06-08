@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1110739708,43.6818313599,4.1110739708,43.6818313599",
     "geom:latitude":43.681831,
     "geom:longitude":4.111074,
@@ -32,17 +33,39 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683419,
+        102191581,
+        85633147,
+        404375249,
+        404228073,
+        1108826387,
+        136253037,
+        102067509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E8LDP6AbNYE6jZFB11gjy_43.681831_4.111074@1306268459"
     },
     "wof:country":"BE",
     "wof:created":1473512606,
-    "wof:geomhash":"8205688ce7a44c491dbca1337f6add97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f71431da84514454c296f9c90952fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067509,
+            "empire_id":136253037,
+            "localadmin_id":404375249,
+            "locality_id":-1,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
+            "region_id":85683419,
+            "venue_id":1058164013
+        }
+    ],
     "wof:id":1058164013,
-    "wof:lastmodified":1473721058,
+    "wof:lastmodified":1496799194,
     "wof:name":"Duchateau Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

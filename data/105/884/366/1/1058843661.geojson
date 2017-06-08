@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.302615881,50.5227050781,3.302615881,50.5227050781",
     "geom:latitude":50.522705,
     "geom:longitude":3.302616,
@@ -32,17 +33,39 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404398339,
+        404228283,
+        1108826399,
+        136253037,
+        102068135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13yppHcP2BFtecDXB6VGUK_50.522705_3.302616@1306268582"
     },
     "wof:country":"BE",
     "wof:created":1473543468,
-    "wof:geomhash":"9f3e25b502bcef2fa674d0f3ee869083",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f999d014449bd9d8d1c8320bc0eb5b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068135,
+            "empire_id":136253037,
+            "localadmin_id":404398339,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058843661
+        }
+    ],
     "wof:id":1058843661,
-    "wof:lastmodified":1473721008,
+    "wof:lastmodified":1496791199,
     "wof:name":"Acfi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

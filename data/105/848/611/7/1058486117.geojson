@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6402101517,49.9385681152,4.6402101517,49.9385681152",
     "geom:latitude":49.938568,
     "geom:longitude":4.64021,
@@ -30,17 +31,40 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        404227601,
+        404351585,
+        85633147,
+        1108826391,
+        101813731,
+        136253037,
+        102070493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LFXqr8WYsqHwMKAwcjM3x_49.938568_4.640210@1306268516"
     },
     "wof:country":"BE",
     "wof:created":1473527423,
-    "wof:geomhash":"2078454263ce00eeb41597a019bcfe77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc457617903f64678923115e1bc81746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070493,
+            "empire_id":136253037,
+            "localadmin_id":404351585,
+            "locality_id":101813731,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1058486117
+        }
+    ],
     "wof:id":1058486117,
-    "wof:lastmodified":1473721796,
+    "wof:lastmodified":1496805310,
     "wof:name":"Arden'vision Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

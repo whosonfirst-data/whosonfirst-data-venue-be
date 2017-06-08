@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5897960663,50.4919509888,3.5897960663,50.4919509888",
     "geom:latitude":50.491951,
     "geom:longitude":3.589796,
@@ -23,17 +24,34 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839795,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YOh3YB9AEqogtEGk0RLBw_50.491951_3.589796@1306268385"
     },
     "wof:country":"BE",
     "wof:created":1473494374,
-    "wof:geomhash":"f18f30780ef89d53ed9d4d7f4ccda929",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96957b5693dbf0db16bd522d03eeba03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101839795,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1042052717
+        }
+    ],
     "wof:id":1042052717,
-    "wof:lastmodified":1473720514,
+    "wof:lastmodified":1496796143,
     "wof:name":"Jacques Delacroix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

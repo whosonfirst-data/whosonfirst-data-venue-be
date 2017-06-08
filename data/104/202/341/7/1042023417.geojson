@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2183599472,50.7121009827,3.2183599472,50.7121009827",
     "geom:latitude":50.712101,
     "geom:longitude":3.21836,
@@ -30,17 +31,38 @@
         "caf\u00e9s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751565,
+        136253037,
+        102072569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VJCfEmQZ30og9ngZKW2Sa_50.712101_3.218360@1306268379"
     },
     "wof:country":"BE",
     "wof:created":1473493181,
-    "wof:geomhash":"8a77758913283c056f4f8b4209ee7004",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bece369696991801efd23942cb8dc513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072569,
+            "empire_id":136253037,
+            "locality_id":101751565,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042023417
+        }
+    ],
     "wof:id":1042023417,
-    "wof:lastmodified":1473720909,
+    "wof:lastmodified":1496791105,
     "wof:name":"Martine Leclercq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

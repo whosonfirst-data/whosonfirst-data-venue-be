@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.132463932,50.7875366211,3.132463932,50.7875366211",
     "geom:latitude":50.787537,
     "geom:longitude":3.132464,
@@ -34,17 +35,40 @@
         "camping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u7iwxc7HeMInERw8rGSFL_50.787537_3.132464@1306268339"
     },
     "wof:country":"BE",
     "wof:created":1473483189,
-    "wof:geomhash":"cd9c6316932cc36310b0d9257d7cb414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26fbdb9a345e0a36cde0823d0c864dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041787653
+        }
+    ],
     "wof:id":1041787653,
-    "wof:lastmodified":1473722181,
+    "wof:lastmodified":1496792712,
     "wof:name":"Hengelsport Pasius",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

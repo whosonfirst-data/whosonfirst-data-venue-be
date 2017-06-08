@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.531088829,49.3939552307,5.531088829,49.3939552307",
     "geom:latitude":49.393955,
     "geom:longitude":5.531089,
@@ -31,17 +32,40 @@
         "boarding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683297,
+        102191581,
+        404228117,
+        404359783,
+        85633147,
+        1108826391,
+        101902551,
+        136253037,
+        102067909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DVWOz0DEBYAI53QYyiRnT_49.393955_5.531089@1306268366"
     },
     "wof:country":"BE",
     "wof:created":1473489989,
-    "wof:geomhash":"8f6b34143af83aa20688319412172c30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"695005142d82d3c03507e939339fd086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067909,
+            "empire_id":136253037,
+            "localadmin_id":404359783,
+            "locality_id":101902551,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
+            "region_id":85683297,
+            "venue_id":1041947587
+        }
+    ],
     "wof:id":1041947587,
-    "wof:lastmodified":1473722272,
+    "wof:lastmodified":1496785818,
     "wof:name":"Ath\u00e9n\u00e9e Royal Riva Bella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

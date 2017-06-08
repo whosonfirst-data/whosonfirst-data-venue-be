@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9106140137,50.694934845,2.9106140137,50.694934845",
     "geom:latitude":50.694935,
     "geom:longitude":2.910614,
@@ -28,17 +29,40 @@
     "sg:postcode":"7783",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404420253,
+        85633147,
+        1108826399,
+        101913807,
+        136253037,
+        102064615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1twzHvtUy2INYYPMkOVCr1_50.694935_2.910614@1306268567"
     },
     "wof:country":"BE",
     "wof:created":1473540003,
-    "wof:geomhash":"0c48771b72ddfba74ec766be760d4b57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86dc886d440ddba68fc59498a78087fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404420253,
+            "locality_id":101913807,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058765123
+        }
+    ],
     "wof:id":1058765123,
-    "wof:lastmodified":1473721479,
+    "wof:lastmodified":1496796104,
     "wof:name":"Station Rodenbach Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

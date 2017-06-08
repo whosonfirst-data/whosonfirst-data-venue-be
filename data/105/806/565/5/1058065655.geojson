@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1841259003,49.3898658752,5.1841259003,49.3898658752",
     "geom:latitude":49.389866,
     "geom:longitude":5.184126,
@@ -23,17 +24,40 @@
     "sg:postcode":"7750",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683297,
+        102191581,
+        404228117,
+        404422669,
+        85633147,
+        1108826391,
+        101902573,
+        136253037,
+        102065583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i2YTkn7BQ6BcgnFPgmsmW_49.389866_5.184126@1306268438"
     },
     "wof:country":"BE",
     "wof:created":1473508142,
-    "wof:geomhash":"71c61dc247dac9e9ae201bde9c9bede0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b2e4487fb7fb9294c4d7951f049aa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065583,
+            "empire_id":136253037,
+            "localadmin_id":404422669,
+            "locality_id":101902573,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
+            "region_id":85683297,
+            "venue_id":1058065655
+        }
+    ],
     "wof:id":1058065655,
-    "wof:lastmodified":1473721665,
+    "wof:lastmodified":1496785600,
     "wof:name":"Palet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

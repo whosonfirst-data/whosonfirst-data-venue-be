@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2217209339,50.7105331421,3.2217209339,50.7105331421",
     "geom:latitude":50.710533,
     "geom:longitude":3.221721,
@@ -23,17 +24,34 @@
     "sg:postcode":"7712",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00VUSqy9QUJmP7cGXyWNi5_50.710533_3.221721@1306268501"
     },
     "wof:country":"BE",
     "wof:created":1473522809,
-    "wof:geomhash":"4f0f7bc6d496b4f526109119dd26cbcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"355b79605e114382111b975478251653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058390663
+        }
+    ],
     "wof:id":1058390663,
-    "wof:lastmodified":1473719577,
+    "wof:lastmodified":1496791208,
     "wof:name":"Leon Dieu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

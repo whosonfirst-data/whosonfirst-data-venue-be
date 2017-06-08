@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.7649080753,50.7580795288,2.7649080753,50.7580795288",
     "geom:latitude":50.75808,
     "geom:longitude":2.764908,
@@ -34,17 +35,37 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        136253037,
+        102071899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08TvmMTdafTFlcShBCs2pO_50.758080_2.764908@1306268465"
     },
     "wof:country":"BE",
     "wof:created":1473514042,
-    "wof:geomhash":"8895b3238ffcb24ba467b48a1d14bf3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98de8c599f4fd2cf7ec54dbbda6f37a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071899,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058196207
+        }
+    ],
     "wof:id":1058196207,
-    "wof:lastmodified":1473721676,
+    "wof:lastmodified":1496790728,
     "wof:name":"De Hille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

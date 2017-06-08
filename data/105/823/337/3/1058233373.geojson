@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.6691839695,50.2733345032,1.6691839695,50.2733345032",
     "geom:latitude":50.273335,
     "geom:longitude":1.669184,
@@ -23,17 +24,40 @@
     "sg:postcode":"4690",
     "sg:province":"Li\u00e8ge",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227761,
+        404374855,
+        85633147,
+        1108826399,
+        101811139,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55MPk7Hlx0TtfHdW8mhqJ6_50.273335_1.669184@1306268472"
     },
     "wof:country":"BE",
     "wof:created":1473515668,
-    "wof:geomhash":"7c46bdad56040bcacc86c11af5da8217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e8c0a1f4b4e692d157c9f78dec94f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404374855,
+            "locality_id":101811139,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1058233373
+        }
+    ],
     "wof:id":1058233373,
-    "wof:lastmodified":1473720865,
+    "wof:lastmodified":1496795460,
     "wof:name":"Amplitude Stylike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

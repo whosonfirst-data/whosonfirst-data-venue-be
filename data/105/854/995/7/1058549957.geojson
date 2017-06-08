@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5970199108,50.4933700562,3.5970199108,50.4933700562",
     "geom:latitude":50.49337,
     "geom:longitude":3.59702,
@@ -31,17 +32,34 @@
         "physiotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839795,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24vbVXNnQCSHMPynJsF34V_50.493370_3.597020@1306268528"
     },
     "wof:country":"BE",
     "wof:created":1473530357,
-    "wof:geomhash":"00b417adad3da254fb41e32278067fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a41909eda48a8654f299fa59d0641f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101839795,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058549957
+        }
+    ],
     "wof:id":1058549957,
-    "wof:lastmodified":1473722907,
+    "wof:lastmodified":1496792712,
     "wof:name":"Calonne Erwin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

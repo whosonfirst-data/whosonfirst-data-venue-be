@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1890449524,50.7431602478,3.1890449524,50.7431602478",
     "geom:latitude":50.74316,
     "geom:longitude":3.189045,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jEMab0V7JYOf78ALVkNw3_50.743160_3.189045@1306268449"
     },
     "wof:country":"BE",
     "wof:created":1473510455,
-    "wof:geomhash":"3a908ee3d65c929083e86443b22598fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e166bd3a220d006d4523392b8217525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058119063
+        }
+    ],
     "wof:id":1058119063,
-    "wof:lastmodified":1473722592,
+    "wof:lastmodified":1496790727,
     "wof:name":"Cassaert F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

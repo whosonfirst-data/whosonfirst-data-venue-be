@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2144699097,50.665435791,3.2144699097,50.665435791",
     "geom:latitude":50.665436,
     "geom:longitude":3.21447,
@@ -30,17 +31,40 @@
         "foam"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404384009,
+        85633147,
+        1108826399,
+        101750285,
+        136253037,
+        102070353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RHzz4ni360l2eohY7SOgm_50.665436_3.214470@1306268534"
     },
     "wof:country":"BE",
     "wof:created":1473531909,
-    "wof:geomhash":"b625aa8fa1414e5e1b845debf7427aec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"489ab7eb9f4cd1becce55b4da2fa06b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404384009,
+            "locality_id":101750285,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058583281
+        }
+    ],
     "wof:id":1058583281,
-    "wof:lastmodified":1473720856,
+    "wof:lastmodified":1496792706,
     "wof:name":"Lys Mousse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

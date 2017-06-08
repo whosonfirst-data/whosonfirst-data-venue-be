@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1903147697,47.3447799683,5.1903147697,47.3447799683",
     "geom:latitude":47.34478,
     "geom:longitude":5.190315,
@@ -31,17 +32,40 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683563,
+        102191581,
+        404227839,
+        404374733,
+        85633147,
+        1108826395,
+        101843047,
+        136253037,
+        102066083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FBl1XZYQMse0lsOsOezsO_47.344780_5.190315@1306268348"
     },
     "wof:country":"BE",
     "wof:created":1473485568,
-    "wof:geomhash":"f3b0d7ebb26c0d81d65eeb48e7a2cf02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfe0047817ebd6afe32f0241ce19dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404374733,
+            "locality_id":101843047,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
+            "region_id":85683563,
+            "venue_id":1041844549
+        }
+    ],
     "wof:id":1041844549,
-    "wof:lastmodified":1473721317,
+    "wof:lastmodified":1496788124,
     "wof:name":"As Auto Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

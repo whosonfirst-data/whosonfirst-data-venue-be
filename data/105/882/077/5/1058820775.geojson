@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8097581863,50.1569786072,4.8097581863,50.1569786072",
     "geom:latitude":50.156979,
     "geom:longitude":4.809758,
@@ -23,17 +24,33 @@
     "sg:postcode":"5544",
     "sg:province":"Namur",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        85633147,
+        1108826391,
+        136253037
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kapvemr98zFCtAtvMTnoh_50.156979_4.809758@1306268577"
     },
     "wof:country":"BE",
     "wof:created":1473542474,
-    "wof:geomhash":"b9bd21d74e7a815d45a8a6642c53c0f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc82ad215d4401dfd7f9f6e407a3b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1058820775
+        }
+    ],
     "wof:id":1058820775,
-    "wof:lastmodified":1473719598,
+    "wof:lastmodified":1496805380,
     "wof:name":"St. Cl. Feschaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

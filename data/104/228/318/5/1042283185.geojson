@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3953509331,50.4969367981,3.3953509331,50.4969367981",
     "geom:latitude":50.496937,
     "geom:longitude":3.395351,
@@ -23,17 +24,39 @@
     "sg:postcode":"7623",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404417145,
+        404228303,
+        1108826399,
+        136253037,
+        102071717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ethYU1ZLym5T8km9Yxb63_50.496937_3.395351@1306268427"
     },
     "wof:country":"BE",
     "wof:created":1473505798,
-    "wof:geomhash":"ceed51b119aa341602457a7f009cd259",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e82ea040139e246ba12e999325bc753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071717,
+            "empire_id":136253037,
+            "localadmin_id":404417145,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042283185
+        }
+    ],
     "wof:id":1042283185,
-    "wof:lastmodified":1473720778,
+    "wof:lastmodified":1496796130,
     "wof:name":"Raymond Boge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

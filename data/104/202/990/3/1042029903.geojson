@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.254899025,50.67395401,3.254899025,50.67395401",
     "geom:latitude":50.673954,
     "geom:longitude":3.254899,
@@ -23,17 +24,39 @@
     "sg:postcode":"7730",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404421141,
+        404228283,
+        1108826399,
+        136253037,
+        102070353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FNWx0FMuKR7GAL5pO9uQz_50.673954_3.254899@1306268381"
     },
     "wof:country":"BE",
     "wof:created":1473493438,
-    "wof:geomhash":"9e3718f2e6b22d856756938980effae0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"797acac349fd3e7ab8c362395f5e9bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421141,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042029903
+        }
+    ],
     "wof:id":1042029903,
-    "wof:lastmodified":1473722811,
+    "wof:lastmodified":1496792712,
     "wof:name":"Caf\u00c9 Le Pantin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

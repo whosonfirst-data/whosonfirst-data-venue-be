@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9603960514,50.4612350464,2.9603960514,50.4612350464",
     "geom:latitude":50.461235,
     "geom:longitude":2.960396,
@@ -22,17 +23,39 @@
     "sg:phone":"+33 3 21 20 09 77",
     "sg:postcode":"62710",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        85633147,
+        404417797,
+        404228311,
+        1108826399,
+        136253037,
+        102071757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ueYYTKrbnttRgnpCkQxjE_50.461235_2.960396@1306268416"
     },
     "wof:country":"BE",
     "wof:created":1473474532,
-    "wof:geomhash":"43d813db78a2009a0d2e8bc68eae5218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da8fec296de43c4e5a96e9b80a60fec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071757,
+            "empire_id":136253037,
+            "localadmin_id":404417797,
+            "locality_id":-1,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1041582063
+        }
+    ],
     "wof:id":1041582063,
-    "wof:lastmodified":1473720220,
+    "wof:lastmodified":1496791252,
     "wof:name":"Securelec-socem Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

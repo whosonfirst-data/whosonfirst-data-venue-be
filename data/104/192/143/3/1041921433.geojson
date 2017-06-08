@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1792399883,50.6947784424,3.1792399883,50.6947784424",
     "geom:latitude":50.694778,
     "geom:longitude":3.17924,
@@ -32,17 +33,40 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
+        102072029
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xJ8dmbkX4XQJAB4ttyDoQ_50.694778_3.179240@1306268362"
     },
     "wof:country":"BE",
     "wof:created":1473488790,
-    "wof:geomhash":"cba2d18268a5ed46e2ada07f92778b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c441fba04b9f4ae51340d7ea1a3113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
+            "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041921433
+        }
+    ],
     "wof:id":1041921433,
-    "wof:lastmodified":1473719911,
+    "wof:lastmodified":1496791196,
     "wof:name":"Literie Thiriez Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

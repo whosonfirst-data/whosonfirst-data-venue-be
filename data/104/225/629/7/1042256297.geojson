@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.1571278572,47.6203651428,6.1571278572,47.6203651428",
     "geom:latitude":47.620365,
     "geom:longitude":6.157128,
@@ -23,17 +24,38 @@
     "sg:postcode":"7750",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683559,
+        102191581,
+        85633147,
+        404227951,
+        1108826395,
+        101829471,
+        136253037,
+        102072073
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FjrGwAMMJA2DSMF13FtwU_47.620365_6.157128@1306268423"
     },
     "wof:country":"BE",
     "wof:created":1473504576,
-    "wof:geomhash":"d55595fcb89c3da957deeae7cde7ebf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1072852e9e0f7c1c94d40e002250a077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072073,
+            "empire_id":136253037,
+            "locality_id":101829471,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
+            "region_id":85683559,
+            "venue_id":1042256297
+        }
+    ],
     "wof:id":1042256297,
-    "wof:lastmodified":1473721904,
+    "wof:lastmodified":1496788298,
     "wof:name":"Ecole Fondamentale Libre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

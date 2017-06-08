@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8699431419,50.121799469,4.8699431419,50.121799469",
     "geom:latitude":50.121799,
     "geom:longitude":4.869943,
@@ -35,17 +36,39 @@
         "article"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        85633147,
+        404358907,
+        404227601,
+        1108826391,
+        136253037,
+        102066215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WhsAYLegnbKTWTDsEkPj1_50.121799_4.869943@1306268565"
     },
     "wof:country":"BE",
     "wof:created":1473539359,
-    "wof:geomhash":"12046e1da899158341e584c9894cb145",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9922a1539da61c58740e1affa8d58be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066215,
+            "empire_id":136253037,
+            "localadmin_id":404358907,
+            "locality_id":-1,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1058750491
+        }
+    ],
     "wof:id":1058750491,
-    "wof:lastmodified":1473719477,
+    "wof:lastmodified":1496805382,
     "wof:name":"Sanideal Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

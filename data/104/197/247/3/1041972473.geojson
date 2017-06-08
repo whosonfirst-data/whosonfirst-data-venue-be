@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9736769199,50.2798690796,3.9736769199,50.2798690796",
     "geom:latitude":50.279869,
     "geom:longitude":3.973677,
@@ -30,17 +31,40 @@
         "bookseller"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404354321,
+        85633147,
+        1108826399,
+        101840639,
+        136253037,
+        102071955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17XdGG9NJEgve4YzvQwf8q_50.279869_3.973677@1306268370"
     },
     "wof:country":"BE",
     "wof:created":1473491184,
-    "wof:geomhash":"32a3b97c9108ee2dc272b1bc7364451f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1578ce718a0b52c47d36306a2e3ced7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071955,
+            "empire_id":136253037,
+            "localadmin_id":404354321,
+            "locality_id":101840639,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041972473
+        }
+    ],
     "wof:id":1041972473,
-    "wof:lastmodified":1473720423,
+    "wof:lastmodified":1496792712,
     "wof:name":"Librairie-papeterie Vauban",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

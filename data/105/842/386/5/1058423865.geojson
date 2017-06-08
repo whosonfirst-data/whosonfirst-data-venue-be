@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9322168827,50.7103691101,2.9322168827,50.7103691101",
     "geom:latitude":50.710369,
     "geom:longitude":2.932217,
@@ -29,17 +30,40 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404401807,
+        85633147,
+        1108826399,
+        101811389,
+        136253037,
+        102064615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sji62PXCGgULaBMOjcx4r_50.710369_2.932217@1306268507"
     },
     "wof:country":"BE",
     "wof:created":1473524354,
-    "wof:geomhash":"9d86daa88311ec720cb413134bfeb24d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fffbff4e3b5c9e2c01a255669c63aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404401807,
+            "locality_id":101811389,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058423865
+        }
+    ],
     "wof:id":1058423865,
-    "wof:lastmodified":1473721190,
+    "wof:lastmodified":1496790013,
     "wof:name":"Baudry Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

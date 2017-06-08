@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1278650761,50.3441352844,2.1278650761,50.3441352844",
     "geom:latitude":50.344135,
     "geom:longitude":2.127865,
@@ -23,17 +24,40 @@
     "sg:postcode":"1315",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228249,
+        404397537,
+        85633147,
+        1108826399,
+        101898371,
+        136253037,
+        102071005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rOj00t1A50WX6d91vAXV4_50.344135_2.127865@1306268501"
     },
     "wof:country":"BE",
     "wof:created":1473522911,
-    "wof:geomhash":"bad3d59b4ab37adbd2fe0e8bc2f34ef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ef2dab3d80c74e284932e7dcd51d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071005,
+            "empire_id":136253037,
+            "localadmin_id":404397537,
+            "locality_id":101898371,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1058392671
+        }
+    ],
     "wof:id":1058392671,
-    "wof:lastmodified":1473720691,
+    "wof:lastmodified":1496792116,
     "wof:name":"Transport Sablitrans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

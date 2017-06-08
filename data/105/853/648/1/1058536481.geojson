@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1303069592,50.7873077393,3.1303069592,50.7873077393",
     "geom:latitude":50.787308,
     "geom:longitude":3.130307,
@@ -32,17 +33,40 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wcvPkHyVkewILxvcZK1c0_50.787308_3.130307@1306268525"
     },
     "wof:country":"BE",
     "wof:created":1473529791,
-    "wof:geomhash":"37386721a4c9b8acff4c4207a720b491",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29157cb6ba456ba48b2865189fe4d812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058536481
+        }
+    ],
     "wof:id":1058536481,
-    "wof:lastmodified":1473721813,
+    "wof:lastmodified":1496796124,
     "wof:name":"Au Paradis Du Chien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

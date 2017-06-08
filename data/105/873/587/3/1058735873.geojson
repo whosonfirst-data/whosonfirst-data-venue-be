@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1872150898,50.7434806824,3.1872150898,50.7434806824",
     "geom:latitude":50.743481,
     "geom:longitude":3.187215,
@@ -32,17 +33,34 @@
         "coiffure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LBnS4XfAdlOj7DCqznOck_50.743481_3.187215@1306268561"
     },
     "wof:country":"BE",
     "wof:created":1473538729,
-    "wof:geomhash":"24d1e5177e5d37290c0c808034634762",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2483bdc264de8e4465ffb6bebccbeb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058735873
+        }
+    ],
     "wof:id":1058735873,
-    "wof:lastmodified":1473721656,
+    "wof:lastmodified":1496791213,
     "wof:name":"Coiffure Christine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

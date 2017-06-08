@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2279930115,50.6768531799,3.2279930115,50.6768531799",
     "geom:latitude":50.676853,
     "geom:longitude":3.227993,
@@ -32,17 +33,40 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404421141,
+        85633147,
+        1108826399,
+        101750271,
+        136253037,
+        102070353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3liQPW2etMyTnJlO4LuLuf_50.676853_3.227993@1306268605"
     },
     "wof:country":"BE",
     "wof:created":1473549336,
-    "wof:geomhash":"c736982de1cf8da284f8cd5720baa2f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7af736e967b0681db72f1a769f5c531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421141,
+            "locality_id":101750271,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058972785
+        }
+    ],
     "wof:id":1058972785,
-    "wof:lastmodified":1473719904,
+    "wof:lastmodified":1496792723,
     "wof:name":"Auchan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

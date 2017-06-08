@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9098510742,50.6953811646,2.9098510742,50.6953811646",
     "geom:latitude":50.695381,
     "geom:longitude":2.909851,
@@ -31,17 +32,40 @@
         "caf\u00e9s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404420253,
+        85633147,
+        1108826399,
+        101913807,
+        136253037,
+        102064615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WyX7FXqE0BqkfKEBpTFfv_50.695381_2.909851@1306268377"
     },
     "wof:country":"BE",
     "wof:created":1473492700,
-    "wof:geomhash":"8bea9570be26febe9a44f1af08610cda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd7f916476d65eff8c6553eff739e8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404420253,
+            "locality_id":101913807,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042010391
+        }
+    ],
     "wof:id":1042010391,
-    "wof:lastmodified":1473719429,
+    "wof:lastmodified":1496791196,
     "wof:name":"Caf\u00c9 La Petite Flandre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0533940792,50.6133651733,3.0533940792,50.6133651733",
     "geom:latitude":50.613365,
     "geom:longitude":3.053394,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473474013,
-    "wof:geomhash":"a3ee8d04b1d6f8f3ae063ae267d84f4f",
+    "wof:geomhash":"c162214e84a0d5f6c2d84c6f942ad6b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":1041569249
         }
     ],
     "wof:id":1041569249,
-    "wof:lastmodified":1473722712,
+    "wof:lastmodified":1496790194,
     "wof:name":"Verbrugge Ets G",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

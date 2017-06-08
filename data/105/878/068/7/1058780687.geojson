@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1324999332,50.7874526978,3.1324999332,50.7874526978",
     "geom:latitude":50.787453,
     "geom:longitude":3.1325,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JmVAmC1G3JeZkBKJRrNJ0_50.787453_3.132500@1306268570"
     },
     "wof:country":"BE",
     "wof:created":1473540683,
-    "wof:geomhash":"256d532d3d99c4c5599868052bf43898",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92687c35822c156e8c0d3931869d12bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058780687
+        }
+    ],
     "wof:id":1058780687,
-    "wof:lastmodified":1473719565,
+    "wof:lastmodified":1496796135,
     "wof:name":"Guy Vandenberghe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

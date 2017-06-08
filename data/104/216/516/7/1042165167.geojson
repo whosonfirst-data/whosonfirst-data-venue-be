@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1090450287,50.3027687073,4.1090450287,50.3027687073",
     "geom:latitude":50.302769,
     "geom:longitude":4.109045,
@@ -22,17 +23,40 @@
     "sg:postcode":"6560",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404380993,
+        85633147,
+        1108826399,
+        101840783,
+        136253037,
+        102071309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pnSpBflzJ6bMV0u7DzBAI_50.302769_4.109045@1306268407"
     },
     "wof:country":"BE",
     "wof:created":1473499827,
-    "wof:geomhash":"114021f04037b9104c2f5487b451ca8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e01be3b99f6d7203ad4970ae2c2886b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071309,
+            "empire_id":136253037,
+            "localadmin_id":404380993,
+            "locality_id":101840783,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042165167
+        }
+    ],
     "wof:id":1042165167,
-    "wof:lastmodified":1473721479,
+    "wof:lastmodified":1496796129,
     "wof:name":"Postomat Erquelinnes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

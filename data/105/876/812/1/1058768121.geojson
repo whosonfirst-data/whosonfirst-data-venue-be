@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.542470932,50.4965286255,3.542470932,50.4965286255",
     "geom:latitude":50.496529,
     "geom:longitude":3.542471,
@@ -33,17 +34,39 @@
         "personnes"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404358559,
+        404228303,
+        1108826399,
+        136253037,
+        102067939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IFYmCAoVhWULac2us5hDp_50.496529_3.542471@1306268568"
     },
     "wof:country":"BE",
     "wof:created":1473540145,
-    "wof:geomhash":"6f0574beb8b41b68ef96ce73d0584d85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e5844ceaac9b7a0f64f27ac6af484f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067939,
+            "empire_id":136253037,
+            "localadmin_id":404358559,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058768121
+        }
+    ],
     "wof:id":1058768121,
-    "wof:lastmodified":1473722292,
+    "wof:lastmodified":1496791266,
     "wof:name":"Bruno Lenglez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

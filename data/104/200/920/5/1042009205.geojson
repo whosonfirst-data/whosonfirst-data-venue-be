@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4993801117,50.48878479,3.4993801117,50.48878479",
     "geom:latitude":50.488785,
     "geom:longitude":3.49938,
@@ -31,17 +32,39 @@
         "caf\u00e9s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404390179,
+        404228303,
+        1108826399,
+        136253037,
+        102071701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ocxwWyn6tSaAVgKFCifUq_50.488785_3.499380@1306268377"
     },
     "wof:country":"BE",
     "wof:created":1473492659,
-    "wof:geomhash":"95a6149d14ad2a6f6e122947ba3ed27c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6524b4913f0987b655f762d425f3e360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071701,
+            "empire_id":136253037,
+            "localadmin_id":404390179,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042009205
+        }
+    ],
     "wof:id":1042009205,
-    "wof:lastmodified":1473722653,
+    "wof:lastmodified":1496796133,
     "wof:name":"Caf\u00c9 Franco Belge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

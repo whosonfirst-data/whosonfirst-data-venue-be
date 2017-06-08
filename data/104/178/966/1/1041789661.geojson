@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8469250202,50.2216186523,3.8469250202,50.2216186523",
     "geom:latitude":50.221619,
     "geom:longitude":3.846925,
@@ -23,17 +24,40 @@
     "sg:postcode":"6061",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404358499,
+        85633147,
+        1108826399,
+        101840773,
+        136253037,
+        102066043
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MwSXD0L1dllA4MMIv4vXr_50.221619_3.846925@1306268339"
     },
     "wof:country":"BE",
     "wof:created":1473483269,
-    "wof:geomhash":"d7d83adaafa8f4b841792bc44dc60054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc9d0668bf28d52d2c7693e817d336dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066043,
+            "empire_id":136253037,
+            "localadmin_id":404358499,
+            "locality_id":101840773,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041789661
+        }
+    ],
     "wof:id":1041789661,
-    "wof:lastmodified":1473722807,
+    "wof:lastmodified":1496792712,
     "wof:name":"D.s. Orthop\u00c9die Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8210599422,50.2684555054,3.8210599422,50.2684555054",
     "geom:latitude":50.268456,
     "geom:longitude":3.82106,
@@ -30,17 +31,39 @@
         "forestry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404416315,
+        404227715,
+        1108826399,
+        136253037,
+        102065641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dis5s3G7zXF1Xkcw19udW_50.268456_3.821060@1306268437"
     },
     "wof:country":"BE",
     "wof:created":1473507945,
-    "wof:geomhash":"8993ed32ba3842ae115b982cb7a95f73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eee36c90e1df22cc657e8d26befbd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065641,
+            "empire_id":136253037,
+            "localadmin_id":404416315,
+            "locality_id":-1,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058060307
+        }
+    ],
     "wof:id":1058060307,
-    "wof:lastmodified":1473719367,
+    "wof:lastmodified":1496791214,
     "wof:name":"Lefebvre Eric Bois Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.156719923,50.6797294617,3.156719923,50.6797294617",
     "geom:latitude":50.679729,
     "geom:longitude":3.15672,
@@ -26,17 +27,40 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"59170",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404407891,
+        85633147,
+        1108826399,
+        101750249,
+        136253037,
+        102071681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_562AGEkGLVmvmM4LC1MAX3_50.679729_3.156720@1306268546"
     },
     "wof:country":"BE",
     "wof:created":1473534890,
-    "wof:geomhash":"09abbb967ef8534b8eb9db531c2eec38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3ca54e88bb289230df54ef8b4963828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071681,
+            "empire_id":136253037,
+            "localadmin_id":404407891,
+            "locality_id":101750249,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058648989
+        }
+    ],
     "wof:id":1058648989,
-    "wof:lastmodified":1473722586,
+    "wof:lastmodified":1496791261,
     "wof:name":"Bayart Francois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

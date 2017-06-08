@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5916440487,50.4920539856,3.5916440487,50.4920539856",
     "geom:latitude":50.492054,
     "geom:longitude":3.591644,
@@ -23,17 +24,34 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839795,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15IZegNw6zeb0pHFcTBCZ0_50.492054_3.591644@1306268468"
     },
     "wof:country":"BE",
     "wof:created":1473514607,
-    "wof:geomhash":"9a0e33c5710d7fcd6734ce433f479f23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"851fd8a1eeb16655c037be9e42bb2472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101839795,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058209067
+        }
+    ],
     "wof:id":1058209067,
-    "wof:lastmodified":1473722598,
+    "wof:lastmodified":1496796139,
     "wof:name":"Hommerin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

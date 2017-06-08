@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.109855175,50.3036422729,4.109855175,50.3036422729",
     "geom:latitude":50.303642,
     "geom:longitude":4.109855,
@@ -23,17 +24,40 @@
     "sg:postcode":"6560",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404380993,
+        85633147,
+        1108826399,
+        101840783,
+        136253037,
+        102071309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JZpfJwPdBkowEYl01std9_50.303642_4.109855@1306268483"
     },
     "wof:country":"BE",
     "wof:created":1473518284,
-    "wof:geomhash":"d508074c981798a2470a5cfc177641f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc728a8d7171b03c931994e43f89a02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071309,
+            "empire_id":136253037,
+            "localadmin_id":404380993,
+            "locality_id":101840783,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058293157
+        }
+    ],
     "wof:id":1058293157,
-    "wof:lastmodified":1473720831,
+    "wof:lastmodified":1496791255,
     "wof:name":"Ladbrokes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3991549015,50.4686889648,3.3991549015,50.4686889648",
     "geom:latitude":50.468689,
     "geom:longitude":3.399155,
@@ -30,17 +31,40 @@
         "photoengravers"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228303,
+        404349341,
+        85633147,
+        1108826399,
+        101840691,
+        136253037,
+        102072097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sST0PrfMCyYPgXU199fAH_50.468689_3.399155@1306268526"
     },
     "wof:country":"BE",
     "wof:created":1473530070,
-    "wof:geomhash":"286924e66784c0cf6cfbb6de1bbec577",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01a24debc8cc1262e72dd0c97b8abb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072097,
+            "empire_id":136253037,
+            "localadmin_id":404349341,
+            "locality_id":101840691,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058543167
+        }
+    ],
     "wof:id":1058543167,
-    "wof:lastmodified":1473720859,
+    "wof:lastmodified":1496796132,
     "wof:name":"Compotype Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

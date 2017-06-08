@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1646299362,50.6852302551,3.1646299362,50.6852302551",
     "geom:latitude":50.68523,
     "geom:longitude":3.16463,
@@ -27,17 +28,40 @@
     "sg:phone":"+33 3 20 26 32 18",
     "sg:postcode":"59100",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
+        102072029
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3edsDaNFU36pk00TA2e0mg_50.685230_3.164630@1306268332"
     },
     "wof:country":"BE",
     "wof:created":1473481395,
-    "wof:geomhash":"9dfe55957bcb1f196ae28abf6decded7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8d454f0ed81125f331bb7b030624997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
+            "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041750489
+        }
+    ],
     "wof:id":1041750489,
-    "wof:lastmodified":1473719564,
+    "wof:lastmodified":1496791252,
     "wof:name":"Au Paradis D'indiana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

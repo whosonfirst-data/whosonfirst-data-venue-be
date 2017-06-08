@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2084128857,50.7114868164,3.2084128857,50.7114868164",
     "geom:latitude":50.711487,
     "geom:longitude":3.208413,
@@ -23,17 +24,34 @@
     "sg:postcode":"7712",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KjSP1iPD9Jy4YiUUCvXSR_50.711487_3.208413@1306268484"
     },
     "wof:country":"BE",
     "wof:created":1473518601,
-    "wof:geomhash":"d9e6c926875314abb73795c878a1e66b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"971921021b8856ef123ddc0fa691f786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058300049
+        }
+    ],
     "wof:id":1058300049,
-    "wof:lastmodified":1473718898,
+    "wof:lastmodified":1496791251,
     "wof:name":"Ladbroke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

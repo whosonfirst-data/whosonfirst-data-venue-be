@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4295620918,43.6282691956,3.4295620918,43.6282691956",
     "geom:latitude":43.628269,
     "geom:longitude":3.429562,
@@ -31,17 +32,40 @@
         "softener"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683419,
+        102191581,
+        404227871,
+        404363549,
+        85633147,
+        1108826387,
+        101773825,
+        136253037,
+        102066095
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1El677XyJEaZT0TQnA5BE7_43.628269_3.429562@1306268604"
     },
     "wof:country":"BE",
     "wof:created":1473548979,
-    "wof:geomhash":"d2cf2528fc32df129551b278c52fb0a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d54b7a1309948003f8423b8346cdef67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066095,
+            "empire_id":136253037,
+            "localadmin_id":404363549,
+            "locality_id":101773825,
+            "macrocounty_id":404227871,
+            "macroregion_id":1108826387,
+            "region_id":85683419,
+            "venue_id":1058964655
+        }
+    ],
     "wof:id":1058964655,
-    "wof:lastmodified":1473721263,
+    "wof:lastmodified":1496799360,
     "wof:name":"Aquasertech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6289680004,50.8242912292,2.6289680004,50.8242912292",
     "geom:latitude":50.824291,
     "geom:longitude":2.628968,
@@ -28,17 +29,39 @@
     "sg:postcode":"8978",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404398047,
+        404228245,
+        1108826399,
+        136253037,
+        102071769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29254LjOOTj8CoXn57YyvC_50.824291_2.628968@1306268545"
     },
     "wof:country":"BE",
     "wof:created":1473534449,
-    "wof:geomhash":"6f825e9813e917a7afc706563dfbc4b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fb7d61c67a9e7196a134803737d834a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071769,
+            "empire_id":136253037,
+            "localadmin_id":404398047,
+            "locality_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058638985
+        }
+    ],
     "wof:id":1058638985,
-    "wof:lastmodified":1473722564,
+    "wof:lastmodified":1496791185,
     "wof:name":"St-eloi (nouveau)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

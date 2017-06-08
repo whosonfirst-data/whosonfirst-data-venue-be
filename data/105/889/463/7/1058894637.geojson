@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0528960228,50.6867294312,3.0528960228,50.6867294312",
     "geom:latitude":50.686729,
     "geom:longitude":3.052896,
@@ -30,17 +31,40 @@
         "transport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404375475,
+        85633147,
+        1108826399,
+        101751551,
+        136253037,
+        102070919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UycgIarmTXd6j4ugtzKr4_50.686729_3.052896@1306268591"
     },
     "wof:country":"BE",
     "wof:created":1473545657,
-    "wof:geomhash":"1f2f970be8f7381f1d0fe6f91feebbd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0c5b9a1273beb2889bb15791fa8af45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070919,
+            "empire_id":136253037,
+            "localadmin_id":404375475,
+            "locality_id":101751551,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058894637
+        }
+    ],
     "wof:id":1058894637,
-    "wof:lastmodified":1473721356,
+    "wof:lastmodified":1496791194,
     "wof:name":"Bailly Transport Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

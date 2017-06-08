@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1404891014,50.7890586853,3.1404891014,50.7890586853",
     "geom:latitude":50.789059,
     "geom:longitude":3.140489,
@@ -28,17 +29,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zC5uNxRZkCrxgVBasUVJy_50.789059_3.140489@1306268551"
     },
     "wof:country":"BE",
     "wof:created":1473535921,
-    "wof:geomhash":"e3b207f5a2e2c60bf380421c03a5e216",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6a4fdf915adf86d96863b78c0a7eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058671649
+        }
+    ],
     "wof:id":1058671649,
-    "wof:lastmodified":1473720088,
+    "wof:lastmodified":1496790014,
     "wof:name":"La Palma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

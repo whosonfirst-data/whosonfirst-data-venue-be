@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.5620419979,50.2148284912,1.5620419979,50.2148284912",
     "geom:latitude":50.214828,
     "geom:longitude":1.562042,
@@ -28,17 +29,39 @@
     "sg:postcode":"7134",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        85633147,
+        404358153,
+        404227761,
+        1108826399,
+        136253037,
+        102071035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FDmkVg6r3m2FsvwFTZYFA_50.214828_1.562042@1306268551"
     },
     "wof:country":"BE",
     "wof:created":1473535949,
-    "wof:geomhash":"0a12430aa0eddf0072ffd892b6d45938",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5793fd451033cb1d41139722ed3085d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071035,
+            "empire_id":136253037,
+            "localadmin_id":404358153,
+            "locality_id":-1,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1058672355
+        }
+    ],
     "wof:id":1058672355,
-    "wof:lastmodified":1473720397,
+    "wof:lastmodified":1496792115,
     "wof:name":"Le Brasero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

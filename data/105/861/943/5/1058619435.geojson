@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.7989799976,50.4276542664,2.7989799976,50.4276542664",
     "geom:latitude":50.427654,
     "geom:longitude":2.79898,
@@ -32,17 +33,38 @@
         "federation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840503,
+        136253037,
+        102072031
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69vShItZs29vULzMRSEJJh_50.427654_2.798980@1306268540"
     },
     "wof:country":"BE",
     "wof:created":1473533547,
-    "wof:geomhash":"ad93e74eac533061338fb10e993d2166",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a92e1de1333e6cd6c96910f0eaa30af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072031,
+            "empire_id":136253037,
+            "locality_id":101840503,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1058619435
+        }
+    ],
     "wof:id":1058619435,
-    "wof:lastmodified":1473722855,
+    "wof:lastmodified":1496791207,
     "wof:name":"Mutualit\u00e9 Chr\u00e9tienne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

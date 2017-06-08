@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5830278397,47.5770721436,5.5830278397,47.5770721436",
     "geom:latitude":47.577072,
     "geom:longitude":5.583028,
@@ -31,17 +32,40 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683559,
+        102191581,
+        404227951,
+        404413859,
+        85633147,
+        1108826395,
+        101887853,
+        136253037,
+        102064937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oHvKTJQkIo71qf5IcxCS7_47.577072_5.583028@1306268384"
     },
     "wof:country":"BE",
     "wof:created":1473494192,
-    "wof:geomhash":"3f5b2d2a96825ed683fe0c741a22045a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc77c0c458ccb8ea6a2409b9f068c2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064937,
+            "empire_id":136253037,
+            "localadmin_id":404413859,
+            "locality_id":101887853,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
+            "region_id":85683559,
+            "venue_id":1042048563
+        }
+    ],
     "wof:id":1042048563,
-    "wof:lastmodified":1473722496,
+    "wof:lastmodified":1496788124,
     "wof:name":"Laureys A-m",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

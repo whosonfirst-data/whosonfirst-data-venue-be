@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9118010998,48.0015869141,3.9118010998,48.0015869141",
     "geom:latitude":48.001587,
     "geom:longitude":3.911801,
@@ -31,17 +32,39 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683193,
+        102191581,
+        85633147,
+        404421217,
+        404228021,
+        1108826391,
+        136253037,
+        102065959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P593kKBO1V5gp8qKOs3NN_48.001587_3.911801@1306268451"
     },
     "wof:country":"BE",
     "wof:created":1473510947,
-    "wof:geomhash":"3b0ec1f5c481131122fefffd2af95672",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24861aefdf3e924ad16697257c84ef7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065959,
+            "empire_id":136253037,
+            "localadmin_id":404421217,
+            "locality_id":-1,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
+            "region_id":85683193,
+            "venue_id":1058129251
+        }
+    ],
     "wof:id":1058129251,
-    "wof:lastmodified":1473722670,
+    "wof:lastmodified":1496805380,
     "wof:name":"Arden Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

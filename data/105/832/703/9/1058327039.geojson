@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4278039932,50.5063858032,3.4278039932,50.5063858032",
     "geom:latitude":50.506386,
     "geom:longitude":3.427804,
@@ -23,17 +24,39 @@
     "sg:postcode":"7620",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404362043,
+        404228303,
+        1108826399,
+        136253037,
+        102071717
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i7TKY0np7932PCHYSVrwm_50.506386_3.427804@1306268488"
     },
     "wof:country":"BE",
     "wof:created":1473519850,
-    "wof:geomhash":"ca9c2c405c26edc8da57e2b4d52068cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ad67e477538fb8f1740e6a3119b5a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071717,
+            "empire_id":136253037,
+            "localadmin_id":404362043,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058327039
+        }
+    ],
     "wof:id":1058327039,
-    "wof:lastmodified":1473721986,
+    "wof:lastmodified":1496790013,
     "wof:name":"M.j.m.b. Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

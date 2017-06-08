@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1101150513,50.3036613464,4.1101150513,50.3036613464",
     "geom:latitude":50.303661,
     "geom:longitude":4.110115,
@@ -23,17 +24,40 @@
     "sg:postcode":"6560",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404380993,
+        85633147,
+        1108826399,
+        101840783,
+        136253037,
+        102071309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DI5kSaO3EsVulPyZwVWvQ_50.303661_4.110115@1306268520"
     },
     "wof:country":"BE",
     "wof:created":1473528459,
-    "wof:geomhash":"bc82d30cbd6a8fd34bac8866d4581d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"438a7f9b0a369a1c27eb8d3c33af99c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071309,
+            "empire_id":136253037,
+            "localadmin_id":404380993,
+            "locality_id":101840783,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058508447
+        }
+    ],
     "wof:id":1058508447,
-    "wof:lastmodified":1473722363,
+    "wof:lastmodified":1496790014,
     "wof:name":"Patricia Waroquier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

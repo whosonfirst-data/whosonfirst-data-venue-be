@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5816609859,50.491230011,3.5816609859,50.491230011",
     "geom:latitude":50.49123,
     "geom:longitude":3.581661,
@@ -23,17 +24,34 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101838675,
+        102049951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WCppmTjITwOKMKedHfOYz_50.491230_3.581661@1306268426"
     },
     "wof:country":"BE",
     "wof:created":1473505616,
-    "wof:geomhash":"7a1c9417899622f11af6ca668cd45890",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa7594af42407eaff61277d8dd96a5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":101838675,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1042279127
+        }
+    ],
     "wof:id":1042279127,
-    "wof:lastmodified":1473722622,
+    "wof:lastmodified":1496790723,
     "wof:name":"G. Wautelet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

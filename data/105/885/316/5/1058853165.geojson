@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1287059784,50.7866134644,3.1287059784,50.7866134644",
     "geom:latitude":50.786613,
     "geom:longitude":3.128706,
@@ -32,17 +33,40 @@
         "tatouages"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kgAsGjLtA4nOE2GPojahb_50.786613_3.128706@1306268583"
     },
     "wof:country":"BE",
     "wof:created":1473543865,
-    "wof:geomhash":"90616c6fcf189a0777c58d75e9955c91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d659f07cf5a97157d753b66e310f103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058853165
+        }
+    ],
     "wof:id":1058853165,
-    "wof:lastmodified":1473720842,
+    "wof:lastmodified":1496791244,
     "wof:name":"Jack\u00b4s Tattoo Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

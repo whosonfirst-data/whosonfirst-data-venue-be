@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.5713379383,46.362197876,2.5713379383,46.362197876",
     "geom:latitude":46.362198,
     "geom:longitude":2.571338,
@@ -23,17 +24,38 @@
     "sg:postcode":"7750",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
+        102072223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rhCAynizEBCuwBJQdJXGS_46.362198_2.571338@1306268558"
     },
     "wof:country":"BE",
     "wof:created":1473537668,
-    "wof:geomhash":"1c1b308a0f1809302d318b9a9fdd68ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71a5f2e2d2598d2239edd105b5f4893e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072223,
+            "empire_id":136253037,
+            "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
+            "region_id":85683293,
+            "venue_id":1058713253
+        }
+    ],
     "wof:id":1058713253,
-    "wof:lastmodified":1473720822,
+    "wof:lastmodified":1496806458,
     "wof:name":"Marc Festjens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

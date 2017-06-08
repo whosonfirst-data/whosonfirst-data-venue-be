@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0037870407,50.7655029297,3.0037870407,50.7655029297",
     "geom:latitude":50.765503,
     "geom:longitude":3.003787,
@@ -31,17 +32,40 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404402821,
+        85633147,
+        1108826399,
+        101839661,
+        136253037,
+        102071617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5faBS375iSMkZRgBLPnltz_50.765503_3.003787@1306268568"
     },
     "wof:country":"BE",
     "wof:created":1473540252,
-    "wof:geomhash":"a8d43f78efe13e388a4b95a9cd6ba2cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83cdb152b4b5a5e09c60150e4066eb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071617,
+            "empire_id":136253037,
+            "localadmin_id":404402821,
+            "locality_id":101839661,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058770531
+        }
+    ],
     "wof:id":1058770531,
-    "wof:lastmodified":1473719474,
+    "wof:lastmodified":1496796135,
     "wof:name":"Admin. Contrib. Directes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4640750885,50.5031318665,3.4640750885,50.5031318665",
     "geom:latitude":50.503132,
     "geom:longitude":3.464075,
@@ -31,17 +32,40 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228303,
+        404390179,
+        85633147,
+        1108826399,
+        101840613,
+        136253037,
+        102071701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rUDfqpBN2GnKdsVrz7qLg_50.503132_3.464075@1306268505"
     },
     "wof:country":"BE",
     "wof:created":1473523962,
-    "wof:geomhash":"9fbddbe2f1a58f82369d6e663d589957",
-    "wof:hierarchy":[],
+    "wof:geomhash":"078c0e9724e5024a9aca37f9fb1c49ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071701,
+            "empire_id":136253037,
+            "localadmin_id":404390179,
+            "locality_id":101840613,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058416457
+        }
+    ],
     "wof:id":1058416457,
-    "wof:lastmodified":1473721844,
+    "wof:lastmodified":1496792711,
     "wof:name":"Caby Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1309399605,50.7880401611,3.1309399605,50.7880401611",
     "geom:latitude":50.78804,
     "geom:longitude":3.13094,
@@ -31,17 +32,40 @@
         "de"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wELwUS3Yphe3fPXGrzrHR_50.788040_3.130940@1306268391"
     },
     "wof:country":"BE",
     "wof:created":1473495573,
-    "wof:geomhash":"e23b75c152f83f892300a81e5f310eb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f8b869aab3ecc8676e509e7ea14f644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042081339
+        }
+    ],
     "wof:id":1042081339,
-    "wof:lastmodified":1473719901,
+    "wof:lastmodified":1496796102,
     "wof:name":"Kon. Wielersportclub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

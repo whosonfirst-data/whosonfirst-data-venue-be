@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6331400871,50.4747009277,3.6331400871,50.4747009277",
     "geom:latitude":50.474701,
     "geom:longitude":3.63314,
@@ -23,17 +24,34 @@
     "sg:postcode":"7320",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101839787,
+        102049949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lIhLyHxmEKS0BRfCMLfAP_50.474701_3.633140@1306268484"
     },
     "wof:country":"BE",
     "wof:created":1473518598,
-    "wof:geomhash":"72359b3fe2bdf9ffee97f4bf179716db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e49fc03d73577e099c5548ddb6cd1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":101839787,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058299959
+        }
+    ],
     "wof:id":1058299959,
-    "wof:lastmodified":1473722916,
+    "wof:lastmodified":1496792227,
     "wof:name":"Jean-marie Vivier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.243719101,50.655128479,3.243719101,50.655128479",
     "geom:latitude":50.655128,
     "geom:longitude":3.243719,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85794639,
-        102070353
+        102191581,
+        85633147,
+        404421999,
+        404228283,
+        1108826399,
+        136253037,
+        102070353,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473531258,
-    "wof:geomhash":"cf25fed092e0d379c1c9018e1c1b610f",
+    "wof:geomhash":"5488f0585516682eb73db2991ccddb78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421999,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794639,
             "region_id":85683445,
             "venue_id":1058568927
         }
     ],
     "wof:id":1058568927,
-    "wof:lastmodified":1473722639,
+    "wof:lastmodified":1496791207,
     "wof:name":"Thieffry S",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",

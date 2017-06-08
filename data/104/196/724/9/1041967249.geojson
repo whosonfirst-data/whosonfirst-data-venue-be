@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2658081055,47.2069892883,5.2658081055,47.2069892883",
     "geom:latitude":47.206989,
     "geom:longitude":5.265808,
@@ -31,17 +32,40 @@
         "bookkeeper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683563,
+        102191581,
+        404227839,
+        404382293,
+        85633147,
+        1108826395,
+        101889493,
+        136253037,
+        102066859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WCt1GltJhbxp97phts6rE_47.206989_5.265808@1306268369"
     },
     "wof:country":"BE",
     "wof:created":1473490795,
-    "wof:geomhash":"d71b383c76ff57436e90d1fb2f871d52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ea1d2d981951460cfe46905751e8e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066859,
+            "empire_id":136253037,
+            "localadmin_id":404382293,
+            "locality_id":101889493,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
+            "region_id":85683563,
+            "venue_id":1041967249
+        }
+    ],
     "wof:id":1041967249,
-    "wof:lastmodified":1473722079,
+    "wof:lastmodified":1496788649,
     "wof:name":"Minet H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

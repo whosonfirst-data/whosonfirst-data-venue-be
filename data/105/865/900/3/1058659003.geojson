@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.876914978,50.2842941284,3.876914978,50.2842941284",
     "geom:latitude":50.284294,
     "geom:longitude":3.876915,
@@ -29,17 +30,39 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404390751,
+        404227715,
+        1108826399,
+        136253037,
+        102065641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UyNGztDRIZ5WCo2I0YgYA_50.284294_3.876915@1306268548"
     },
     "wof:country":"BE",
     "wof:created":1473535368,
-    "wof:geomhash":"c1ab93921171f2f3a536d71ca07733a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b44b0666e65ea7afb636b0406a600917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065641,
+            "empire_id":136253037,
+            "localadmin_id":404390751,
+            "locality_id":-1,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058659003
+        }
+    ],
     "wof:id":1058659003,
-    "wof:lastmodified":1473722529,
+    "wof:lastmodified":1496791205,
     "wof:name":"Demenagement Williame Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

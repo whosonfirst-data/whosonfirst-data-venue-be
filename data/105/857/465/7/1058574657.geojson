@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9557900429,49.5703697205,3.9557900429,49.5703697205",
     "geom:latitude":49.57037,
     "geom:longitude":3.95579,
@@ -30,17 +31,39 @@
         "piano"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683247,
+        102191581,
+        85633147,
+        404385315,
+        404227799,
+        1108826399,
+        136253037,
+        102069807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FTLjmwZicty8Z2vPQXkLX_49.570370_3.955790@1306268533"
     },
     "wof:country":"BE",
     "wof:created":1473531513,
-    "wof:geomhash":"18296a85383529e77ae12f4197867ea0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f0e136d62d8a3251ad8d8074f1c5a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069807,
+            "empire_id":136253037,
+            "localadmin_id":404385315,
+            "locality_id":-1,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
+            "region_id":85683247,
+            "venue_id":1058574657
+        }
+    ],
     "wof:id":1058574657,
-    "wof:lastmodified":1473721332,
+    "wof:lastmodified":1496791193,
     "wof:name":"Pianos Perlot Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

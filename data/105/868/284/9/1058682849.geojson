@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4298698902,50.505279541,3.4298698902,50.505279541",
     "geom:latitude":50.50528,
     "geom:longitude":3.42987,
@@ -23,17 +24,40 @@
     "sg:postcode":"7620",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228303,
+        404422727,
+        85633147,
+        1108826399,
+        101840611,
+        136253037,
+        102071701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08tk5qpfqgeYaLJiFo9ChP_50.505280_3.429870@1306268553"
     },
     "wof:country":"BE",
     "wof:created":1473536409,
-    "wof:geomhash":"13a12a506fca08974ff39e7bba457f0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7be86930254325d540882cc4349d198e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071701,
+            "empire_id":136253037,
+            "localadmin_id":404422727,
+            "locality_id":101840611,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058682849
+        }
+    ],
     "wof:id":1058682849,
-    "wof:lastmodified":1473720719,
+    "wof:lastmodified":1496792707,
     "wof:name":"Taverne Pont De Maulde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1751999855,50.6917037964,3.1751999855,50.6917037964",
     "geom:latitude":50.691704,
     "geom:longitude":3.1752,
@@ -31,17 +32,40 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
+        102072029
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0501RHXP30QS7CPEHDovnU_50.691704_3.175200@1306268396"
     },
     "wof:country":"BE",
     "wof:created":1473496813,
-    "wof:geomhash":"5488616ca375c986da63994c53c4220a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76c2f95a7605ef119f435176153a9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
+            "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042109255
+        }
+    ],
     "wof:id":1042109255,
-    "wof:lastmodified":1473722599,
+    "wof:lastmodified":1496791198,
     "wof:name":"Ecole Du Ballet Du Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.5084180832,48.0977096558,15.5084180832,48.0977096558",
     "geom:latitude":48.09771,
     "geom:longitude":15.508418,
@@ -28,17 +29,33 @@
     "sg:postcode":"3202",
     "sg:province":"Vlaams-Brabant",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108836715,
+        85632785,
+        102049869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZWI3ET48OmMrC2V0JGIwV_48.097710_15.508418@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487939,
-    "wof:geomhash":"531c02fe426579faeaf713b19faef6fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a21df42beaae336462660a9552b5f04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049869,
+            "localadmin_id":1108836715,
+            "locality_id":-1,
+            "region_id":85681671,
+            "venue_id":1041900681
+        }
+    ],
     "wof:id":1041900681,
-    "wof:lastmodified":1473719575,
+    "wof:lastmodified":1496876677,
     "wof:name":"Gemeentekrediet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

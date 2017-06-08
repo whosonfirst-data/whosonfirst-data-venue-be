@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4893890023,44.4295501709,-0.4893890023,44.4295501709",
     "geom:latitude":44.42955,
     "geom:longitude":-0.489389,
@@ -23,17 +24,40 @@
     "sg:postcode":"7021",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683243,
+        102191581,
+        404228071,
+        404359289,
+        85633147,
+        1108826385,
+        101771841,
+        136253037,
+        102071375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cvZB4DHTVesQx7LW9IT6W_44.429550_-0.489389@1306268383"
     },
     "wof:country":"BE",
     "wof:created":1473493951,
-    "wof:geomhash":"9b42b92f546dfdcf40eea2f436e52a9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c4fe2b40bf76906496a2d216fce827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071375,
+            "empire_id":136253037,
+            "localadmin_id":404359289,
+            "locality_id":101771841,
+            "macrocounty_id":404228071,
+            "macroregion_id":1108826385,
+            "region_id":85683243,
+            "venue_id":1042042295
+        }
+    ],
     "wof:id":1042042295,
-    "wof:lastmodified":1473720376,
+    "wof:lastmodified":1496798057,
     "wof:name":"Les Tilleuls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

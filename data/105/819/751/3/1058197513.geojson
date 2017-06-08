@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.7642049789,50.3296928406,1.7642049789,50.3296928406",
     "geom:latitude":50.329693,
     "geom:longitude":1.764205,
@@ -31,17 +32,39 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        85633147,
+        404386153,
+        404227761,
+        1108826399,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42MFpPEPdQbRGpZAGwQS6V_50.329693_1.764205@1306268466"
     },
     "wof:country":"BE",
     "wof:created":1473514093,
-    "wof:geomhash":"1bd59bb7a6eed373e6958bc161b37f15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7333e40f35dfd316f6505952cdaba78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404386153,
+            "locality_id":-1,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1058197513
+        }
+    ],
     "wof:id":1058197513,
-    "wof:lastmodified":1473722053,
+    "wof:lastmodified":1496795338,
     "wof:name":"De Cnyf M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

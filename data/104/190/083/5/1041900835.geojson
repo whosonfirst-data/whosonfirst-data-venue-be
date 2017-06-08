@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.6017103195,48.0229492188,15.6017103195,48.0229492188",
     "geom:latitude":48.022949,
     "geom:longitude":15.60171,
@@ -28,17 +29,34 @@
     "sg:postcode":"3570",
     "sg:province":"Limburg",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108834897,
+        85632785,
+        101785683,
+        102049823
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0abcB2KGDGQXmkNLrBQOK3_48.022949_15.601710@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487945,
-    "wof:geomhash":"265fc8391c2b173d75df1c494d316101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5494b12bd406b7684aa725e121859ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049823,
+            "localadmin_id":1108834897,
+            "locality_id":101785683,
+            "region_id":85681671,
+            "venue_id":1041900835
+        }
+    ],
     "wof:id":1041900835,
-    "wof:lastmodified":1473719639,
+    "wof:lastmodified":1496876739,
     "wof:name":"Gemeentekrediet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

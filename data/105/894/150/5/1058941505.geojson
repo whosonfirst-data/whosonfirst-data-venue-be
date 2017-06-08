@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1266970634,50.7867431641,3.1266970634,50.7867431641",
     "geom:latitude":50.786743,
     "geom:longitude":3.126697,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WtoRaXa6wCMH75vJSz01O_50.786743_3.126697@1306268600"
     },
     "wof:country":"BE",
     "wof:created":1473547865,
-    "wof:geomhash":"2948bfe8439d3e3ad8e5616f5428f5f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb51cc0ecc5e442996cc55e449d9d974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058941505
+        }
+    ],
     "wof:id":1058941505,
-    "wof:lastmodified":1473719983,
+    "wof:lastmodified":1496791180,
     "wof:name":"Traiteur Savan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

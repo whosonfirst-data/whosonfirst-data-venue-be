@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1867220402,50.7448387146,3.1867220402,50.7448387146",
     "geom:latitude":50.744839,
     "geom:longitude":3.186722,
@@ -31,17 +32,34 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ohPYa2iYbpvMpleFowPGu_50.744839_3.186722@1306268434"
     },
     "wof:country":"BE",
     "wof:created":1473507539,
-    "wof:geomhash":"cc141f6ccf5d5c0613be987d363855d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3ae563cc61b18acf31de79e3c28df9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058050661
+        }
+    ],
     "wof:id":1058050661,
-    "wof:lastmodified":1473719597,
+    "wof:lastmodified":1496791210,
     "wof:name":"C S D Delnatte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

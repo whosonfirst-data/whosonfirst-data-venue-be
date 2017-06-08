@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1270198822,50.7864990234,3.1270198822,50.7864990234",
     "geom:latitude":50.786499,
     "geom:longitude":3.12702,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NDSIbjALp2lPRFw2Eoh3R_50.786499_3.127020@1306268427"
     },
     "wof:country":"BE",
     "wof:created":1473505843,
-    "wof:geomhash":"d5842d37f7ba6b7208686f05bcf6d1da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dde2c427b177dbec8aec9c38272b910a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042284129
+        }
+    ],
     "wof:id":1042284129,
-    "wof:lastmodified":1473721184,
+    "wof:lastmodified":1496796224,
     "wof:name":"Stephane Deman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

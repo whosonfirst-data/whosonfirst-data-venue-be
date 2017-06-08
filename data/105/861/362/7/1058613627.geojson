@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.0125010004,48.7456130981,-0.0125010004,48.7456130981",
     "geom:latitude":48.745613,
     "geom:longitude":-0.012501,
@@ -23,17 +24,40 @@
     "sg:postcode":"1050",
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683527,
+        102191581,
+        404227931,
+        404357711,
+        85633147,
+        1108826393,
+        101762603,
+        136253037,
+        102072163
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AWyOHkyPBdo9Tl7j4tZPY_48.745613_-0.012501@1306268539"
     },
     "wof:country":"BE",
     "wof:created":1473533279,
-    "wof:geomhash":"6e39c6e0f0d285de750398baef7c99fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a43a03d8ebbc412354864fc46e8e0ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072163,
+            "empire_id":136253037,
+            "localadmin_id":404357711,
+            "locality_id":101762603,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
+            "region_id":85683527,
+            "venue_id":1058613627
+        }
+    ],
     "wof:id":1058613627,
-    "wof:lastmodified":1473721005,
+    "wof:lastmodified":1496787892,
     "wof:name":"Lta-le Tel\u00c9-achat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

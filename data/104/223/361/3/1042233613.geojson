@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.280287981,50.572681427,3.280287981,50.572681427",
     "geom:latitude":50.572681,
     "geom:longitude":3.280288,
@@ -23,17 +24,39 @@
     "sg:postcode":"7502",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404388327,
+        404228283,
+        1108826399,
+        136253037,
+        102068135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5my3sLoM1bcK3IO4woQSY7_50.572681_3.280288@1306268419"
     },
     "wof:country":"BE",
     "wof:created":1473503518,
-    "wof:geomhash":"4f468fc34841ed6d84ca9ab96f040af4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"514a2ccdf36d436bfcbd7df50f21be93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068135,
+            "empire_id":136253037,
+            "localadmin_id":404388327,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042233613
+        }
+    ],
     "wof:id":1042233613,
-    "wof:lastmodified":1473720957,
+    "wof:lastmodified":1496796103,
     "wof:name":"Gilbert Dermaut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

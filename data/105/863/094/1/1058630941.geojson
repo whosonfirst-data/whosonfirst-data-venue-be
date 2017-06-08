@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1273300648,50.7878189087,3.1273300648,50.7878189087",
     "geom:latitude":50.787819,
     "geom:longitude":3.12733,
@@ -28,17 +29,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P0N2pl3JxTI80kzBjzf9q_50.787819_3.127330@1306268543"
     },
     "wof:country":"BE",
     "wof:created":1473534069,
-    "wof:geomhash":"6587740a1cd2e80282247360861bc0bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ee7913fe28bd6111ccb6edde3a8d48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058630941
+        }
+    ],
     "wof:id":1058630941,
-    "wof:lastmodified":1473719660,
+    "wof:lastmodified":1496791212,
     "wof:name":"De Pompe ( Cafe )",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

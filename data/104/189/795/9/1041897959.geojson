@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1751999855,50.6916999817,3.1751999855,50.6916999817",
     "geom:latitude":50.6917,
     "geom:longitude":3.1752,
@@ -27,17 +28,40 @@
     "sg:phone":"+32 69 35 27 27",
     "sg:postcode":"7720",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
+        102072029
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RZWz9vrGSIQlcHYDkFnWf_50.691700_3.175200@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487823,
-    "wof:geomhash":"6ea45b7a76ed8381ce6cb5ddba6efa27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58ac7dbd50912f7b8015afa690f4c5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
+            "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041897959
+        }
+    ],
     "wof:id":1041897959,
-    "wof:lastmodified":1473722286,
+    "wof:lastmodified":1496790728,
     "wof:name":"Aslk-cger Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

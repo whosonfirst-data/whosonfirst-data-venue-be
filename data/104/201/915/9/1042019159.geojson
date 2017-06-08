@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7178230286,47.0204772949,5.7178230286,47.0204772949",
     "geom:latitude":47.020477,
     "geom:longitude":5.717823,
@@ -31,17 +32,40 @@
         "caf\u00e9s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683173,
+        102191581,
+        404227671,
+        404366343,
+        85633147,
+        1108826395,
+        101889823,
+        136253037,
+        102067391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vq42MqbpGgK8NzFryYqv5_47.020477_5.717823@1306268379"
     },
     "wof:country":"BE",
     "wof:created":1473493024,
-    "wof:geomhash":"a8da41e703a01819c6dc4b8e2b4eb210",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a94da82a6ec8db48bde47e7ed896615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067391,
+            "empire_id":136253037,
+            "localadmin_id":404366343,
+            "locality_id":101889823,
+            "macrocounty_id":404227671,
+            "macroregion_id":1108826395,
+            "region_id":85683173,
+            "venue_id":1042019159
+        }
+    ],
     "wof:id":1042019159,
-    "wof:lastmodified":1473722759,
+    "wof:lastmodified":1496788122,
     "wof:name":"Hilde Haedens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

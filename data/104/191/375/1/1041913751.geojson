@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1882638931,50.7433662415,3.1882638931,50.7433662415",
     "geom:latitude":50.743366,
     "geom:longitude":3.188264,
@@ -28,17 +29,34 @@
     "sg:postcode":"7700",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IOrCJM7PRbcIvKficDSjB_50.743366_3.188264@1306268360"
     },
     "wof:country":"BE",
     "wof:created":1473488463,
-    "wof:geomhash":"8018256b7868d843ae7ea884d33cef07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f33e65eafef7f1a3baed5a8531f92ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1041913751
+        }
+    ],
     "wof:id":1041913751,
-    "wof:lastmodified":1473721171,
+    "wof:lastmodified":1496790724,
     "wof:name":"P'tit D\u00e9tour (au)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

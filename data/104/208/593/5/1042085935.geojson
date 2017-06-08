@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6432609558,49.5480155945,5.6432609558,49.5480155945",
     "geom:latitude":49.548016,
     "geom:longitude":5.643261,
@@ -31,17 +32,39 @@
         "de"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683343,
+        102191581,
+        85633147,
+        404370447,
+        404227705,
+        1108826391,
+        136253037,
+        102070099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rcTNfgFf6OWjO5KzDPvsd_49.548016_5.643261@1306268392"
     },
     "wof:country":"BE",
     "wof:created":1473495775,
-    "wof:geomhash":"d71b586352f33ac2d0482cfec830693c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"092e6aea2138c0c4dbe455bb5186e53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070099,
+            "empire_id":136253037,
+            "localadmin_id":404370447,
+            "locality_id":-1,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
+            "venue_id":1042085935
+        }
+    ],
     "wof:id":1042085935,
-    "wof:lastmodified":1473721722,
+    "wof:lastmodified":1496785601,
     "wof:name":"V.c. Stabulois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

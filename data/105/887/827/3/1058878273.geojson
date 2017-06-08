@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1719930172,50.7166404724,3.1719930172,50.7166404724",
     "geom:latitude":50.71664,
     "geom:longitude":3.171993,
@@ -30,17 +31,38 @@
         "timber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
+        102072217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5csuVvazAqUZysAKKm9uoV_50.716640_3.171993@1306268588"
     },
     "wof:country":"BE",
     "wof:created":1473544941,
-    "wof:geomhash":"325092fc14d44e61a7258f477c76c477",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cb152d2b72e2d65f0111679ae09d4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072217,
+            "empire_id":136253037,
+            "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058878273
+        }
+    ],
     "wof:id":1058878273,
-    "wof:lastmodified":1473722409,
+    "wof:lastmodified":1496791244,
     "wof:name":"Senelar Ets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

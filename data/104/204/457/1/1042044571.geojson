@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.126732111,50.7873268127,3.126732111,50.7873268127",
     "geom:latitude":50.787327,
     "geom:longitude":3.126732,
@@ -34,17 +35,40 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n0MUrKPcIu7IpHLIracFc_50.787327_3.126732@1306268384"
     },
     "wof:country":"BE",
     "wof:created":1473494039,
-    "wof:geomhash":"eaed8d6c887aef9a910f940bada04e77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30c737fd3eed22ef9876854a8f7dc5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042044571
+        }
+    ],
     "wof:id":1042044571,
-    "wof:lastmodified":1473721319,
+    "wof:lastmodified":1496796102,
     "wof:name":"Disco Smash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

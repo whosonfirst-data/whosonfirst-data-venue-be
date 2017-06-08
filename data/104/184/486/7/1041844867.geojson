@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.618060112,50.5472488403,2.618060112,50.5472488403",
     "geom:latitude":50.547249,
     "geom:longitude":2.61806,
@@ -31,17 +32,39 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        85633147,
+        404403099,
+        404227933,
+        1108826399,
+        136253037,
+        102066517
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aQxsZu9u4cPXVXfKBypyH_50.547249_2.618060@1306268348"
     },
     "wof:country":"BE",
     "wof:created":1473485580,
-    "wof:geomhash":"8fead4a994a830d19884ad0081305418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72f32e812552802bc7fd84a950e6154c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066517,
+            "empire_id":136253037,
+            "localadmin_id":404403099,
+            "locality_id":-1,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1041844867
+        }
+    ],
     "wof:id":1041844867,
-    "wof:lastmodified":1473721427,
+    "wof:lastmodified":1496790723,
     "wof:name":"Pro Auto 2000 Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

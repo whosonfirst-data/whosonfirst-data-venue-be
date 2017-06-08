@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3242900372,50.4668006897,3.3242900372,50.4668006897",
     "geom:latitude":50.466801,
     "geom:longitude":3.32429,
@@ -27,17 +28,39 @@
     "sg:phone":"+32 60 55 54 20",
     "sg:postcode":"6568",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404385541,
+        404228125,
+        1108826399,
+        136253037,
+        102071465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K1db2Zo6zEFzcifqn5Vmp_50.466801_3.324290@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487992,
-    "wof:geomhash":"1423cb2ea91515d60cacaed3b2dfc14b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c4b686ab81d89a5bac7cfba70ea30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071465,
+            "empire_id":136253037,
+            "localadmin_id":404385541,
+            "locality_id":-1,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041901619
+        }
+    ],
     "wof:id":1041901619,
-    "wof:lastmodified":1473720068,
+    "wof:lastmodified":1496790724,
     "wof:name":"G\u00e9n\u00e9rale De Banque Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

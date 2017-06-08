@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.3476009369,49.135383606,6.3476009369,49.135383606",
     "geom:latitude":49.135384,
     "geom:longitude":6.347601,
@@ -23,17 +24,39 @@
     "sg:postcode":"7830",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683271,
+        102191581,
+        85633147,
+        404364225,
+        404228321,
+        1108826391,
+        136253037,
+        102070603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lLKsOgRWOig3FbrrFc34V_49.135384_6.347601@1306268578"
     },
     "wof:country":"BE",
     "wof:created":1473542722,
-    "wof:geomhash":"2332b1d80b3d5d850ffdfc6eefec547a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd51b287e8dfaec16518231cb8cee114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070603,
+            "empire_id":136253037,
+            "localadmin_id":404364225,
+            "locality_id":-1,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
+            "region_id":85683271,
+            "venue_id":1058826779
+        }
+    ],
     "wof:id":1058826779,
-    "wof:lastmodified":1473721901,
+    "wof:lastmodified":1496793898,
     "wof:name":"Les Ecuries Des Champs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

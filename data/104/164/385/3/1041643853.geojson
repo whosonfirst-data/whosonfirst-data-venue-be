@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2632879913,47.0404434204,-0.2632879913,47.0404434204",
     "geom:latitude":47.040443,
     "geom:longitude":-0.263288,
@@ -23,17 +24,40 @@
     "sg:postcode":"7750",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683163,
+        102191581,
+        404227759,
+        404353609,
+        85633147,
+        1108826385,
+        101765391,
+        136253037,
+        102072121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ngfj3tDnSXKj6wfQFSHRq_47.040443_-0.263288@1306268526"
     },
     "wof:country":"BE",
     "wof:created":1473477097,
-    "wof:geomhash":"23f221d14c50389ab3bc925ca0b37c8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf4efba840d380386f5438d55732b271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072121,
+            "empire_id":136253037,
+            "localadmin_id":404353609,
+            "locality_id":101765391,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
+            "region_id":85683163,
+            "venue_id":1041643853
+        }
+    ],
     "wof:id":1041643853,
-    "wof:lastmodified":1473720978,
+    "wof:lastmodified":1496798890,
     "wof:name":"Anne-marie Vromant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

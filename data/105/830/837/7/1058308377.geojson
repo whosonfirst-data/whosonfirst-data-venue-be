@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2083499432,50.7123947144,3.2083499432,50.7123947144",
     "geom:latitude":50.712395,
     "geom:longitude":3.20835,
@@ -23,17 +24,34 @@
     "sg:postcode":"7712",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        101754289,
+        102049953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UU1c95OAk5Dz6LElbgFjD_50.712395_3.208350@1306268485"
     },
     "wof:country":"BE",
     "wof:created":1473518956,
-    "wof:geomhash":"8fd533e1004ad64baf8b2965a46fa657",
-    "wof:hierarchy":[],
+    "wof:geomhash":"316b7919b80f55ba403526ded66e603e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049953,
+            "locality_id":101754289,
+            "macroregion_id":404227353,
+            "region_id":85681723,
+            "venue_id":1058308377
+        }
+    ],
     "wof:id":1058308377,
-    "wof:lastmodified":1473722515,
+    "wof:lastmodified":1496791212,
     "wof:name":"Coiffure Ren\u00c9e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

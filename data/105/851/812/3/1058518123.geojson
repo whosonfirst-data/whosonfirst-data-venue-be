@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1370968819,50.7884292603,3.1370968819,50.7884292603",
     "geom:latitude":50.788429,
     "geom:longitude":3.137097,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g12bfjc4sXZAjn6Jr8CXl_50.788429_3.137097@1306268522"
     },
     "wof:country":"BE",
     "wof:created":1473528918,
-    "wof:geomhash":"97092933cc9cb3d3ce13ea840a0ddfc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ad838664fefaedd04a3c97da891708b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058518123
+        }
+    ],
     "wof:id":1058518123,
-    "wof:lastmodified":1473722398,
+    "wof:lastmodified":1496796127,
     "wof:name":"Ellen Raemdonck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1270680428,50.7869644165,3.1270680428,50.7869644165",
     "geom:latitude":50.786964,
     "geom:longitude":3.127068,
@@ -28,17 +29,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xY9rkvJOKOWt76YydrPJe_50.786964_3.127068@1306268546"
     },
     "wof:country":"BE",
     "wof:created":1473534897,
-    "wof:geomhash":"fa0fb3f0e7304421b3f7746409fc8b83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1eab460b029545c5f12fbf0cacd9eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058649191
+        }
+    ],
     "wof:id":1058649191,
-    "wof:lastmodified":1473722661,
+    "wof:lastmodified":1496796134,
     "wof:name":"Budget Plus Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

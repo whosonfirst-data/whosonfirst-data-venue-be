@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1334719658,50.7875213623,3.1334719658,50.7875213623",
     "geom:latitude":50.787521,
     "geom:longitude":3.133472,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N6ltr0whQffiYhPPIRmCl_50.787521_3.133472@1306268477"
     },
     "wof:country":"BE",
     "wof:created":1473516966,
-    "wof:geomhash":"a6a8c2e12e907de07eb07c80100b34e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0897de19e39ccc1ad2ac8c1428bb6a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058262811
+        }
+    ],
     "wof:id":1058262811,
-    "wof:lastmodified":1473720644,
+    "wof:lastmodified":1496792700,
     "wof:name":"Anick Serlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

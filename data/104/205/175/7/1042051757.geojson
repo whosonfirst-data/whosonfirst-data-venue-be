@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5933160782,50.4918289185,3.5933160782,50.4918289185",
     "geom:latitude":50.491829,
     "geom:longitude":3.593316,
@@ -23,17 +24,39 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404395427,
+        404228303,
+        1108826399,
+        136253037,
+        102067939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71oiCxdIaPxEdRng8KrrwR_50.491829_3.593316@1306268385"
     },
     "wof:country":"BE",
     "wof:created":1473494337,
-    "wof:geomhash":"e167483c769aa4780d6bf59449b2b9e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f93b9467d28bbbec37f437358ef9fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067939,
+            "empire_id":136253037,
+            "localadmin_id":404395427,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1042051757
+        }
+    ],
     "wof:id":1042051757,
-    "wof:lastmodified":1473720038,
+    "wof:lastmodified":1496790727,
     "wof:name":"Rene Younsi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

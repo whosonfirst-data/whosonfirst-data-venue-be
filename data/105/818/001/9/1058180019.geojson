@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1989550591,50.7044944763,3.1989550591,50.7044944763",
     "geom:latitude":50.704494,
     "geom:longitude":3.198955,
@@ -31,17 +32,38 @@
         "medicinal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751565,
+        136253037,
+        102072569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xiqU33om9naMW6ji37p2n_50.704494_3.198955@1306268463"
     },
     "wof:country":"BE",
     "wof:created":1473513337,
-    "wof:geomhash":"d69a0a60797f3ceb3012a4106d2026c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2679fe8ad546e5b8b76f86a3266474c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072569,
+            "empire_id":136253037,
+            "locality_id":101751565,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058180019
+        }
+    ],
     "wof:id":1058180019,
-    "wof:lastmodified":1473718880,
+    "wof:lastmodified":1496791251,
     "wof:name":"Herberie Cousin-wiame Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

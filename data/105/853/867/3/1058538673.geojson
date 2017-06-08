@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1311049461,50.7871131897,3.1311049461,50.7871131897",
     "geom:latitude":50.787113,
     "geom:longitude":3.131105,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Bb66Mr6eGIDd3XpJ6WigR_50.787113_3.131105@1306268526"
     },
     "wof:country":"BE",
     "wof:created":1473529889,
-    "wof:geomhash":"0bcf0bc0e6abb3b965971385eec97b26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf2b8e7e8bbdac0dbff87496f5ed228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058538673
+        }
+    ],
     "wof:id":1058538673,
-    "wof:lastmodified":1473722467,
+    "wof:lastmodified":1496791922,
     "wof:name":"Cl. Vergote",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1678850651,50.715423584,3.1678850651,50.715423584",
     "geom:latitude":50.715424,
     "geom:longitude":3.167885,
@@ -32,17 +33,38 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
+        102072217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UAC4bdt6eoVwsWCbWsdeC_50.715424_3.167885@1306268574"
     },
     "wof:country":"BE",
     "wof:created":1473541539,
-    "wof:geomhash":"2fa72b8253b4b241517ccb614818050e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4985d34676d6ad8d22196a2432af264f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072217,
+            "empire_id":136253037,
+            "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058799331
+        }
+    ],
     "wof:id":1058799331,
-    "wof:lastmodified":1473722733,
+    "wof:lastmodified":1496791244,
     "wof:name":"Feeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

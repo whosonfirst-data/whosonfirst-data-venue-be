@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8368377686,50.1541595459,4.8368377686,50.1541595459",
     "geom:latitude":50.15416,
     "geom:longitude":4.836838,
@@ -28,17 +29,40 @@
     "sg:postcode":"5543",
     "sg:province":"Namur",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        404227601,
+        404359541,
+        85633147,
+        1108826391,
+        101840275,
+        136253037,
+        102066215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q94dG8Z4QUJroPQZOrnBt_50.154160_4.836838@1306268543"
     },
     "wof:country":"BE",
     "wof:created":1473534164,
-    "wof:geomhash":"9c13a59327ca0ee4a00f5a8cb7ed9351",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35d6b3c817a8787bea1ca141047118ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066215,
+            "empire_id":136253037,
+            "localadmin_id":404359541,
+            "locality_id":101840275,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1058632863
+        }
+    ],
     "wof:id":1058632863,
-    "wof:lastmodified":1473720704,
+    "wof:lastmodified":1496805380,
     "wof:name":"Gros Caillou (au)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

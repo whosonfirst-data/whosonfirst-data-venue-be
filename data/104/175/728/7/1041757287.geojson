@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0047311783,50.3207626343,4.0047311783,50.3207626343",
     "geom:latitude":50.320763,
     "geom:longitude":4.004731,
@@ -27,17 +28,40 @@
     "sg:phone":"+33 3 27 68 41 17",
     "sg:postcode":"59600",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404399805,
+        85633147,
+        1108826399,
+        101899555,
+        136253037,
+        102071309
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12Oc7Tj5LPHfpHqIglgDrb_50.320763_4.004731@1306268334"
     },
     "wof:country":"BE",
     "wof:created":1473481731,
-    "wof:geomhash":"252ff7e190d7dac859001175f90e7b76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2d3cdff2205046cc666922be0ee3650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071309,
+            "empire_id":136253037,
+            "localadmin_id":404399805,
+            "locality_id":101899555,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041757287
+        }
+    ],
     "wof:id":1041757287,
-    "wof:lastmodified":1473722108,
+    "wof:lastmodified":1496797210,
     "wof:name":"Palissandre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

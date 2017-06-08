@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6687500477,50.4242591858,3.6687500477,50.4242591858",
     "geom:latitude":50.424259,
     "geom:longitude":3.66875,
@@ -31,17 +32,39 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404401125,
+        404228303,
+        1108826399,
+        136253037,
+        102067939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HW7DVSk4phyx240CNi2Ic_50.424259_3.668750@1306268429"
     },
     "wof:country":"BE",
     "wof:created":1473506317,
-    "wof:geomhash":"219910e1002249a03e7881be92a6c92b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26bcf26181af634db3f12f2926e16e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067939,
+            "empire_id":136253037,
+            "localadmin_id":404401125,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058021183
+        }
+    ],
     "wof:id":1058021183,
-    "wof:lastmodified":1473719819,
+    "wof:lastmodified":1496790728,
     "wof:name":"Debonnet R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

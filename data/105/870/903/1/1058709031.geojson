@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5727899075,50.4966850281,3.5727899075,50.4966850281",
     "geom:latitude":50.496685,
     "geom:longitude":3.57279,
@@ -23,17 +24,39 @@
     "sg:postcode":"7600",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404359237,
+        404228303,
+        1108826399,
+        136253037,
+        102067939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6No1ZaPL9zxJ6lGfH1NA8x_50.496685_3.572790@1306268557"
     },
     "wof:country":"BE",
     "wof:created":1473537483,
-    "wof:geomhash":"21bd759f2bf691a31aafc555437a90fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10f0eb13d78999dee72152be4e9d01f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067939,
+            "empire_id":136253037,
+            "localadmin_id":404359237,
+            "locality_id":-1,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058709031
+        }
+    ],
     "wof:id":1058709031,
-    "wof:lastmodified":1473722652,
+    "wof:lastmodified":1496792707,
     "wof:name":"Gilbert Verstraete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

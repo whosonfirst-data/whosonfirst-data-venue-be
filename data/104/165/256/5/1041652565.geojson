@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6814789772,50.1292037964,3.6814789772,50.1292037964",
     "geom:latitude":50.129204,
     "geom:longitude":3.681479,
@@ -32,17 +33,40 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404227715,
+        404405351,
+        85633147,
+        1108826399,
+        101812693,
+        136253037,
+        102070101
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eVSj0XfI6B7kZHlY9vfsa_50.129204_3.681479@1306268545"
     },
     "wof:country":"BE",
     "wof:created":1473477436,
-    "wof:geomhash":"0e7d99d72ccc7e8fe5bbc25c09957d3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2319cd4d9b4041ba0779c72abd4ecfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070101,
+            "empire_id":136253037,
+            "localadmin_id":404405351,
+            "locality_id":101812693,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041652565
+        }
+    ],
     "wof:id":1041652565,
-    "wof:lastmodified":1473720534,
+    "wof:lastmodified":1496791249,
     "wof:name":"Renson Landrecies-france Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

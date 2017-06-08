@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7333202362,47.6654129028,4.7333202362,47.6654129028",
     "geom:latitude":47.665413,
     "geom:longitude":4.73332,
@@ -23,17 +24,40 @@
     "sg:postcode":"1420",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683563,
+        102191581,
+        404228045,
+        404427819,
+        85633147,
+        1108826395,
+        101887961,
+        136253037,
+        102064379
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VQFF6dAdKpITJAmiNovS0_47.665413_4.733320@1306268545"
     },
     "wof:country":"BE",
     "wof:created":1473534591,
-    "wof:geomhash":"6f06e27378bc9ccb902b32a1b3a178d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d09515e916eb2cb2b632ea721be94b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064379,
+            "empire_id":136253037,
+            "localadmin_id":404427819,
+            "locality_id":101887961,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
+            "region_id":85683563,
+            "venue_id":1058642303
+        }
+    ],
     "wof:id":1058642303,
-    "wof:lastmodified":1473720410,
+    "wof:lastmodified":1496788126,
     "wof:name":"Stanford Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

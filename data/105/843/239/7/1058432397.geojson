@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.4312300682,47.5464172363,6.4312300682,47.5464172363",
     "geom:latitude":47.546417,
     "geom:longitude":6.43123,
@@ -23,17 +24,40 @@
     "sg:postcode":"1495",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683559,
+        102191581,
+        404227739,
+        404364305,
+        85633147,
+        1108826395,
+        101767269,
+        136253037,
+        102069295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wdA8zwzqTJLxZMpRrec8R_47.546417_6.431230@1306268508"
     },
     "wof:country":"BE",
     "wof:created":1473524783,
-    "wof:geomhash":"69dc531c806d34c8cce6b22fe9031efc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eec2d1334d9e0246686e5bf02d6d4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069295,
+            "empire_id":136253037,
+            "localadmin_id":404364305,
+            "locality_id":101767269,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
+            "region_id":85683559,
+            "venue_id":1058432397
+        }
+    ],
     "wof:id":1058432397,
-    "wof:lastmodified":1473720423,
+    "wof:lastmodified":1496789130,
     "wof:name":"D. Pierman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.7829298973,50.1309890747,2.7829298973,50.1309890747",
     "geom:latitude":50.130989,
     "geom:longitude":2.78293,
@@ -32,17 +33,40 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404227723,
+        404407669,
+        85633147,
+        1108826399,
+        101899505,
+        136253037,
+        102065849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dt1ZvHYe99xxkdSKyE5h1_50.130989_2.782930@1306268348"
     },
     "wof:country":"BE",
     "wof:created":1473485574,
-    "wof:geomhash":"060c1e2ce8310af1804707dbf271bdbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba61120eb275bb3bcdd6caf1623bc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065849,
+            "empire_id":136253037,
+            "localadmin_id":404407669,
+            "locality_id":101899505,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1041844721
+        }
+    ],
     "wof:id":1041844721,
-    "wof:lastmodified":1473721358,
+    "wof:lastmodified":1496790724,
     "wof:name":"Espas'auto Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1315989494,50.787399292,3.1315989494,50.787399292",
     "geom:latitude":50.787399,
     "geom:longitude":3.131599,
@@ -31,17 +32,40 @@
         "tackle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LalhRtZl9kBfkJWulVhRC_50.787399_3.131599@1306268433"
     },
     "wof:country":"BE",
     "wof:created":1473507279,
-    "wof:geomhash":"3f01695e40147ee31084ea4f50690b4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db57e2bdfbf3a212b97e4284941394fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058044171
+        }
+    ],
     "wof:id":1058044171,
-    "wof:lastmodified":1473721278,
+    "wof:lastmodified":1496791271,
     "wof:name":"Thalassa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

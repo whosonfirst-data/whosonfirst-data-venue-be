@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6176450253,50.9689064026,2.6176450253,50.9689064026",
     "geom:latitude":50.968906,
     "geom:longitude":2.617645,
@@ -23,17 +24,39 @@
     "sg:postcode":"8691",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404420743,
+        404228245,
+        1108826399,
+        136253037,
+        102070063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C05Og7cCgwnOKzvOuQw1C_50.968906_2.617645@1306268600"
     },
     "wof:country":"BE",
     "wof:created":1473547955,
-    "wof:geomhash":"478839536bc8645896a401e6f8aa9c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22b1f55cdc97bf23992c0550d34fcc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070063,
+            "empire_id":136253037,
+            "localadmin_id":404420743,
+            "locality_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058943167
+        }
+    ],
     "wof:id":1058943167,
-    "wof:lastmodified":1473720870,
+    "wof:lastmodified":1496790505,
     "wof:name":"J. Bollengier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

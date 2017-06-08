@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.1557350159,49.3033638,1.1557350159,49.3033638",
     "geom:latitude":49.303364,
     "geom:longitude":1.155735,
@@ -33,17 +34,40 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683283,
+        102191581,
+        404227641,
+        404384587,
+        85633147,
+        1108826393,
+        101753537,
+        136253037,
+        102069445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5INQpYmDrWeVJ3poXfh0oP_49.303364_1.155735@1306268398"
     },
     "wof:country":"BE",
     "wof:created":1473497246,
-    "wof:geomhash":"47ddae5848deb6ce640e8299eba3f78d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"810339f96d01a014b55f1b5668951449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069445,
+            "empire_id":136253037,
+            "localadmin_id":404384587,
+            "locality_id":101753537,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
+            "region_id":85683283,
+            "venue_id":1042117727
+        }
+    ],
     "wof:id":1042117727,
-    "wof:lastmodified":1473722341,
+    "wof:lastmodified":1496805091,
     "wof:name":"Sesa Systems Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

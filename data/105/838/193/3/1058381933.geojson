@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1329829693,48.1388168335,3.1329829693,48.1388168335",
     "geom:latitude":48.138817,
     "geom:longitude":3.132983,
@@ -31,17 +32,39 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683503,
+        102191581,
+        85633147,
+        404406367,
+        404228181,
+        1108826395,
+        136253037,
+        102066377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R2jYcNqCxM8pi3fw7BAHl_48.138817_3.132983@1306268499"
     },
     "wof:country":"BE",
     "wof:created":1473522438,
-    "wof:geomhash":"bf3c73201c12a7cb57ee5f8e3d49e76b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"241fd6257334ff7bb89646c1e7dca572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066377,
+            "empire_id":136253037,
+            "localadmin_id":404406367,
+            "locality_id":-1,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
+            "region_id":85683503,
+            "venue_id":1058381933
+        }
+    ],
     "wof:id":1058381933,
-    "wof:lastmodified":1473720197,
+    "wof:lastmodified":1496788152,
     "wof:name":"E.b.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2083009928,46.3530006409,-0.2083009928,46.3530006409",
     "geom:latitude":46.353001,
     "geom:longitude":-0.208301,
@@ -23,17 +24,39 @@
     "sg:postcode":"7300",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683163,
+        102191581,
+        85633147,
+        404412223,
+        404227969,
+        1108826385,
+        136253037,
+        102069157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ezhjBL6BI71SsYAWzrPxd_46.353001_-0.208301@1306268426"
     },
     "wof:country":"BE",
     "wof:created":1473505558,
-    "wof:geomhash":"51c6e948a4e04bd5894d520b86c38250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac2d39b11bc771b3f120a07d4c6b5af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069157,
+            "empire_id":136253037,
+            "localadmin_id":404412223,
+            "locality_id":-1,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
+            "region_id":85683163,
+            "venue_id":1042277811
+        }
+    ],
     "wof:id":1042277811,
-    "wof:lastmodified":1473722241,
+    "wof:lastmodified":1496798634,
     "wof:name":"Clair De Lune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

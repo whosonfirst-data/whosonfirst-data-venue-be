@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1926898956,50.7273254395,3.1926898956,50.7273254395",
     "geom:latitude":50.727325,
     "geom:longitude":3.19269,
@@ -23,17 +24,38 @@
     "sg:postcode":"7700",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751565,
+        136253037,
+        102072569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13hxnaZhCJnpCnTuCc5xdh_50.727325_3.192690@1306268512"
     },
     "wof:country":"BE",
     "wof:created":1473526179,
-    "wof:geomhash":"d57e1e99788c02c748b87be63d909c1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4a37e307d9b3af3f480b52b91edd45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072569,
+            "empire_id":136253037,
+            "locality_id":101751565,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058459615
+        }
+    ],
     "wof:id":1058459615,
-    "wof:lastmodified":1473722772,
+    "wof:lastmodified":1496791207,
     "wof:name":"Boillot-gematex Sa-nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8394699097,49.6903495789,4.8394699097,49.6903495789",
     "geom:latitude":49.69035,
     "geom:longitude":4.83947,
@@ -31,17 +32,39 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        85633147,
+        404425079,
+        404227601,
+        1108826391,
+        136253037,
+        102065811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uESdZ5bIWa0lifiFgTd2n_49.690350_4.839470@1306268382"
     },
     "wof:country":"BE",
     "wof:created":1473493608,
-    "wof:geomhash":"0be6eecf420956af5b249ad223205c21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c307b5f87c65c20354e4d051bcb93026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065811,
+            "empire_id":136253037,
+            "localadmin_id":404425079,
+            "locality_id":-1,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
+            "region_id":85683309,
+            "venue_id":1042033951
+        }
+    ],
     "wof:id":1042033951,
-    "wof:lastmodified":1473721207,
+    "wof:lastmodified":1496785600,
     "wof:name":"Centre Caravaning De L'est Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.7993799448,50.9349098206,1.7993799448,50.9349098206",
     "geom:latitude":50.93491,
     "geom:longitude":1.79938,
@@ -29,17 +30,40 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228305,
+        404416443,
+        85633147,
+        1108826399,
+        101753599,
+        136253037,
+        102067165
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bB5uUD3iZNQ5EnYEX8uRC_50.934910_1.799380@1306268569"
     },
     "wof:country":"BE",
     "wof:created":1473540401,
-    "wof:geomhash":"e57637e8edfdc74b78b0eb0afa97e005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fabed7e8e2b5139fe096a82b7f2fd3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102067165,
+            "empire_id":136253037,
+            "localadmin_id":404416443,
+            "locality_id":101753599,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":1058773523
+        }
+    ],
     "wof:id":1058773523,
-    "wof:lastmodified":1473720970,
+    "wof:lastmodified":1496791214,
     "wof:name":"France Manche (eurotunnel)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

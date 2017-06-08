@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6083500385,50.6945114136,2.6083500385,50.6945114136",
     "geom:latitude":50.694511,
     "geom:longitude":2.60835,
@@ -23,17 +24,39 @@
     "sg:postcode":"1420",
     "sg:province":"Brabant Wallon",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404364101,
+        404228245,
+        1108826399,
+        136253037,
+        102065393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NFy2MCW6WQGyM7vI7Q7KI_50.694511_2.608350@1306268514"
     },
     "wof:country":"BE",
     "wof:created":1473526797,
-    "wof:geomhash":"ba39e4324b2e28e7e9d14c67c153a90f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddee1447749f767690b762776ccc865d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102065393,
+            "empire_id":136253037,
+            "localadmin_id":404364101,
+            "locality_id":-1,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058472409
+        }
+    ],
     "wof:id":1058472409,
-    "wof:lastmodified":1473720478,
+    "wof:lastmodified":1496796124,
     "wof:name":"T.palm S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

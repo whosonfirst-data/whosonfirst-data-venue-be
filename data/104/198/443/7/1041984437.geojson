@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1279129982,50.7865943909,3.1279129982,50.7865943909",
     "geom:latitude":50.786594,
     "geom:longitude":3.127913,
@@ -31,17 +32,40 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sTTggQOpEBsO8AoyQwSiv_50.786594_3.127913@1306268372"
     },
     "wof:country":"BE",
     "wof:created":1473491689,
-    "wof:geomhash":"0d8bb0643fef6d7127ccc92e7c020d46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7079e3725259f6e8a4ff8de1d533c69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041984437
+        }
+    ],
     "wof:id":1041984437,
-    "wof:lastmodified":1473721359,
+    "wof:lastmodified":1496791223,
     "wof:name":"Lady Samy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

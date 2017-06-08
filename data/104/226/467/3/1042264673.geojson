@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.6665409803,50.2729225159,1.6665409803,50.2729225159",
     "geom:latitude":50.272923,
     "geom:longitude":1.666541,
@@ -23,17 +24,40 @@
     "sg:postcode":"7370",
     "sg:province":"Hainaut",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683363,
+        102191581,
+        404227761,
+        404374855,
+        85633147,
+        1108826399,
+        101811139,
+        136253037,
+        102070943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UfR1jpNcxXipuMIQ8ejPq_50.272923_1.666541@1306268424"
     },
     "wof:country":"BE",
     "wof:created":1473504982,
-    "wof:geomhash":"5a525a04aa48a4f945bd47cedbe4a89f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb85db2a4808f0a7fa7401be39c84475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404374855,
+            "locality_id":101811139,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
+            "region_id":85683363,
+            "venue_id":1042264673
+        }
+    ],
     "wof:id":1042264673,
-    "wof:lastmodified":1473721322,
+    "wof:lastmodified":1496791217,
     "wof:name":"Ath\u00c9n\u00c9e Royal De Dour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

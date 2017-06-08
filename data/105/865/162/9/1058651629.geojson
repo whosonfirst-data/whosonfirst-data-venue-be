@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1779661179,50.6902122498,3.1779661179,50.6902122498",
     "geom:latitude":50.690212,
     "geom:longitude":3.177966,
@@ -27,17 +28,40 @@
     "sg:phone":"+32 2 345 35 70",
     "sg:postcode":"59100",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
+        102072029
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yV8gtrLLkzw7XXqRDXK0u_50.690212_3.177966@1306268547"
     },
     "wof:country":"BE",
     "wof:created":1473535026,
-    "wof:geomhash":"1ee71204c0f5a5f9ff8056abd9558424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd59616e879843b82b9b29e6ae6bbfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
+            "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1058651629
+        }
+    ],
     "wof:id":1058651629,
-    "wof:lastmodified":1473719967,
+    "wof:lastmodified":1496791057,
     "wof:name":"Immosoleil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

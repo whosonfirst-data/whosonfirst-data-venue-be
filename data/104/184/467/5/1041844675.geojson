@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0242009163,50.5401954651,3.0242009163,50.5401954651",
     "geom:latitude":50.540195,
     "geom:longitude":3.024201,
@@ -31,17 +32,40 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404360725,
+        85633147,
+        1108826399,
+        101751529,
+        136253037,
+        102071883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QTvxXz6uRRXbZ31BMul8S_50.540195_3.024201@1306268348"
     },
     "wof:country":"BE",
     "wof:created":1473485573,
-    "wof:geomhash":"b07f8217e514a1ccaf92ed5d5ae2d9b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3778f3391b5556ad47514519da19294c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071883,
+            "empire_id":136253037,
+            "localadmin_id":404360725,
+            "locality_id":101751529,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041844675
+        }
+    ],
     "wof:id":1041844675,
-    "wof:lastmodified":1473721348,
+    "wof:lastmodified":1496790725,
     "wof:name":"Creauto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

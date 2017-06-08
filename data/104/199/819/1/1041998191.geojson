@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1321399212,50.7875480652,3.1321399212,50.7875480652",
     "geom:latitude":50.787548,
     "geom:longitude":3.13214,
@@ -23,17 +24,40 @@
     "sg:postcode":"8930",
     "sg:province":"West-Vlaanderen",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
+        102071785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DQuesOEVVwKISCjUfd8qV_50.787548_3.132140@1306268374"
     },
     "wof:country":"BE",
     "wof:created":1473492246,
-    "wof:geomhash":"97c16580fc899d25e0f648210094d991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c64d7394d5c5449868eed0359d4e0a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
+            "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
+            "venue_id":1041998191
+        }
+    ],
     "wof:id":1041998191,
-    "wof:lastmodified":1473722389,
+    "wof:lastmodified":1496791211,
     "wof:name":"Simonne Glorieux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
