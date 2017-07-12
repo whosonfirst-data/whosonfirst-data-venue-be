@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.1083898544,47.2554588318,10.1083898544,47.2554588318",
     "geom:latitude":47.255459,
     "geom:longitude":10.10839,
@@ -27,17 +28,33 @@
     "sg:phone":"+32 51 77 97 39",
     "sg:postcode":"6888",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108838045,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PPw9fZmFDqPRiIQ0u0Nn0_47.255459_10.108390@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487858,
-    "wof:geomhash":"f54a4dd4d662e0b1ef2d274e6c208054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16e3b5bc6318beddd71baaad595e3c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108838045,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":1041898621
+        }
+    ],
     "wof:id":1041898621,
-    "wof:lastmodified":1473722487,
+    "wof:lastmodified":1496901715,
     "wof:name":"Bank Van Roeselare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

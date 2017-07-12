@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.9202899933,46.5424613953,13.9202899933,46.5424613953",
     "geom:latitude":46.542461,
     "geom:longitude":13.92029,
@@ -27,17 +28,33 @@
     "sg:phone":"+32 54 41 75 61",
     "sg:postcode":"9582",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838339,
+        85632785,
+        102049683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DgHbuKGnM7F4mL7WMjJOn_46.542461_13.920290@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473488010,
-    "wof:geomhash":"ad30d2a8153d1fe5914d0af397007245",
-    "wof:hierarchy":[],
+    "wof:geomhash":"053968be9f306832644bfb42ecac9841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049683,
+            "localadmin_id":1108838339,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1041901963
+        }
+    ],
     "wof:id":1041901963,
-    "wof:lastmodified":1473720289,
+    "wof:lastmodified":1496907393,
     "wof:name":"Krediet Nuverheid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

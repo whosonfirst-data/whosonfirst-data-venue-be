@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.4311332703,46.9119606018,14.4311332703,46.9119606018",
     "geom:latitude":46.911961,
     "geom:longitude":14.431133,
@@ -27,17 +28,33 @@
     "sg:phone":"+32 52 33 44 85",
     "sg:postcode":"9360",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838233,
+        85632785,
+        102049697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KRuwEOMQ58w7Z3H8Dibrx_46.911961_14.431133@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487951,
-    "wof:geomhash":"cea82a409571d8f53ce4256052279188",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f962d18d80fd717d3a94265b2d3b4a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838233,
+            "locality_id":-1,
+            "region_id":85681655,
+            "venue_id":1041900979
+        }
+    ],
     "wof:id":1041900979,
-    "wof:lastmodified":1473719709,
+    "wof:lastmodified":1496906663,
     "wof:name":"Gemeentekrediet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

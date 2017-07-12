@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.366733551,48.1460418701,16.366733551,48.1460418701",
     "geom:latitude":48.146042,
     "geom:longitude":16.366734,
@@ -24,12 +25,13 @@
     "sg:province":"Bruxelles-Capitale",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681667,
+        85898309,
         102191581,
+        1108838101,
         85632785,
         101748073,
         102049859,
-        85898309
+        85681667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,12 +39,13 @@
     },
     "wof:country":"BE",
     "wof:created":1473544826,
-    "wof:geomhash":"0e9999d180f32bfa06264b8ed3d799b9",
+    "wof:geomhash":"fe1e7400f8bff98f03d1e8838b55c281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85632785,
             "county_id":102049859,
+            "localadmin_id":1108838101,
             "locality_id":101748073,
             "neighbourhood_id":85898309,
             "region_id":85681667,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1058875903,
-    "wof:lastmodified":1473721700,
+    "wof:lastmodified":1496903683,
     "wof:name":"Express Medical Interim",
     "wof:parent_id":85898309,
     "wof:placetype":"venue",

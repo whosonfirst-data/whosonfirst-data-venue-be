@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"10.8585796356,46.8271484375,10.8585796356,46.8271484375",
     "geom:latitude":46.827148,
     "geom:longitude":10.85858,
@@ -27,17 +28,33 @@
     "sg:phone":"+32 60 41 15 30",
     "sg:postcode":"6458",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681661,
+        102191581,
+        1108837447,
+        85632785,
+        102049727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SASh5xzrbXlXlrS7Wj77s_46.827148_10.858580@1306268358"
     },
     "wof:country":"BE",
     "wof:created":1473487990,
-    "wof:geomhash":"65408e89ca042843d31ad9ca46599a7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ecfe2511c0733cb09c0b17528d7641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049727,
+            "localadmin_id":1108837447,
+            "locality_id":-1,
+            "region_id":85681661,
+            "venue_id":1041901555
+        }
+    ],
     "wof:id":1041901555,
-    "wof:lastmodified":1473720023,
+    "wof:lastmodified":1496897934,
     "wof:name":"G\u00e9n\u00e9rale De Banque Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
