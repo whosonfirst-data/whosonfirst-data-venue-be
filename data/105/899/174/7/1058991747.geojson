@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Avenue Georges-Truffaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6157331467,50.6507225037,5.6157331467,50.6507225037",
     "geom:latitude":50.650723,
     "geom:longitude":5.615733,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Georges-truffaut 49",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473550175,
-    "wof:geomhash":"9e1e89789376e2b3b28aee31429c9b91",
+    "wof:geomhash":"abeddfec68981062a8434e90524e2d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1058991747,
-    "wof:lastmodified":1473720111,
+    "wof:lastmodified":1510941598,
     "wof:name":"Mondia-li\u00e8ge",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058991739
+    ],
+    "wof:supersedes":[
+        1042092457
+    ],
     "wof:tags":[
         "platform",
         "work"

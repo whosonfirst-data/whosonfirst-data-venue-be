@@ -7,13 +7,16 @@
     "addr:postcode":"2610",
     "addr:street":"Neerland;Antwerpen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3946051598,51.1691131592,4.3946051598,51.1691131592",
     "geom:latitude":51.169113,
     "geom:longitude":4.394605,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Neerland 7",
     "sg:city":"Antwerpen (wilrijk)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488441,
-    "wof:geomhash":"3a51560eca13a587b641e399267db619",
+    "wof:geomhash":"6bcfbeaeb97742f768261a9135123498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,17 @@
         }
     ],
     "wof:id":1041913181,
-    "wof:lastmodified":1473720888,
+    "wof:lastmodified":1510943592,
     "wof:name":"Digi Carrin Nv",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058398225,
+        1058501265,
+        1058323263,
+        1058752765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barcode",

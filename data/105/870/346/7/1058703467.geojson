@@ -15,6 +15,7 @@
     "geom:longitude":4.350036,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Lombard 29-31",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537262,
-    "wof:geomhash":"0caf5ad43e8b7e5ac87f9fa9ccc86e1a",
+    "wof:geomhash":"1c2482de1cc1697383b23032b21cb680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":1058703467,
-    "wof:lastmodified":1491898309,
+    "wof:lastmodified":1510943541,
     "wof:name":"D\u00e9cor Sauvage",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058496653
+    ],
     "wof:tags":[
         "repair",
         "restoration",

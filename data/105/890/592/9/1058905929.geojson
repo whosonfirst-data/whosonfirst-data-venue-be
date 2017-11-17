@@ -7,13 +7,16 @@
     "addr:postcode":"8830",
     "addr:street":"Bruggesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0929589272,50.9822273254,3.0929589272,50.9822273254",
     "geom:latitude":50.982227,
     "geom:longitude":3.092959,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bruggesteenweg 127",
     "sg:city":"Hooglede (gits)",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473546221,
-    "wof:geomhash":"5262026540bf0f5cb38f2b12699c9e2a",
+    "wof:geomhash":"41eeb60e3f812f26bcc1cd62b827b907",
     "wof:hierarchy":[],
     "wof:id":1058905929,
-    "wof:lastmodified":1473721670,
+    "wof:lastmodified":1510942949,
     "wof:name":"Turbo's Hoet Truckcenter Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058906321
+    ],
+    "wof:supersedes":[
+        1058881829,
+        1041847637,
+        1058021227
+    ],
     "wof:tags":[
         "truck-body"
     ]

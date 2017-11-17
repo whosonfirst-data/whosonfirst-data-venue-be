@@ -7,13 +7,16 @@
     "addr:postcode":"4990",
     "addr:street":"Rue Du Centre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7945179939,50.2835769653,5.7945179939,50.2835769653",
     "geom:latitude":50.283577,
     "geom:longitude":5.794518,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Centre 80",
     "sg:city":"Lierneux",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473528045,
-    "wof:geomhash":"cd192a0b4cfeb12a7a3b6e047d48188f",
+    "wof:geomhash":"38352b8386a84036d1425682ac25d5d7",
     "wof:hierarchy":[],
     "wof:id":1058498749,
-    "wof:lastmodified":1473722550,
+    "wof:lastmodified":1510943959,
     "wof:name":"Administration Communale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058770905,
+        1042002937
+    ],
+    "wof:supersedes":[
+        1042002937
+    ],
     "wof:tags":[]
 },
   "bbox": [

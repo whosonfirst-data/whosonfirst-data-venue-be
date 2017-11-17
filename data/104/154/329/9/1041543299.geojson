@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Chausse\u0301E D'Ixelles",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3697271347,50.8301048279,4.3697271347,50.8301048279",
     "geom:latitude":50.830105,
     "geom:longitude":4.369727,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e D'ixelles 262",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472930,
-    "wof:geomhash":"0d64c7f601a90a91d14855059b282449",
+    "wof:geomhash":"852b9c035c0105454f4806c5f06284e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041543299,
-    "wof:lastmodified":1473720824,
+    "wof:lastmodified":1510941305,
     "wof:name":"Borges'music Box",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058491121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

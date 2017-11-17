@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Rue Rogier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8678159714,50.4676208496,4.8678159714,50.4676208496",
     "geom:latitude":50.467621,
     "geom:longitude":4.867816,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Rogier 49",
     "sg:city":"Namur",
     "sg:classifiers":[
@@ -41,16 +44,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473485450,
-    "wof:geomhash":"671a410cf32c8bc3ba03c95a6e24b160",
+    "wof:geomhash":"5d44c7031c3b2bdb74afe44df0e0c7b0",
     "wof:hierarchy":[],
     "wof:id":1041841887,
-    "wof:lastmodified":1473720166,
+    "wof:lastmodified":1510942946,
     "wof:name":"Dessenius M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041843795,
+        1058129513
+    ],
+    "wof:supersedes":[
+        1041840885
+    ],
     "wof:tags":[
         "automobile",
         "servic",

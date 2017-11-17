@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5948138237,50.6391105652,5.5948138237,50.6391105652",
     "geom:latitude":50.639111,
     "geom:longitude":5.594814,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des Mara\u00eechers 83",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546143,
-    "wof:geomhash":"b16d0a8517e08a5bd9d0f63db9ac8afc",
+    "wof:geomhash":"5d34d875169b594d676560cbcd3e57e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058904145,
-    "wof:lastmodified":1473721215,
+    "wof:lastmodified":1510942584,
     "wof:name":"W'allons Nous?",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041732375
+    ],
     "wof:tags":[
         "agency"
     ]

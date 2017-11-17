@@ -7,13 +7,16 @@
     "addr:postcode":"9340",
     "addr:street":"Nieuwstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9816069603,50.9656639099,3.9816069603,50.9656639099",
     "geom:latitude":50.965664,
     "geom:longitude":3.981607,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nieuwstraat 26",
     "sg:city":"Lede",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473489401,
-    "wof:geomhash":"1ab889c2403a20038398f2003757207d",
+    "wof:geomhash":"407499e3af396e8661b85576f037a5d8",
     "wof:hierarchy":[],
     "wof:id":1041933363,
-    "wof:lastmodified":1473720878,
+    "wof:lastmodified":1510942173,
     "wof:name":"De Smet W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058416843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

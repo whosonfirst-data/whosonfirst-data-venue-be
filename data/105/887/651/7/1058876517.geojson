@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1863641739,50.8153343201,5.1863641739,50.8153343201",
     "geom:latitude":50.815334,
     "geom:longitude":5.186364,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schurhovenveld 3220",
     "sg:city":"Sint-truiden",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544863,
-    "wof:geomhash":"5bd3a77ee0da41cb76c2f69e5363813f",
+    "wof:geomhash":"f285a712f320ab5ea41e4f366644c919",
     "wof:hierarchy":[],
     "wof:id":1058876517,
-    "wof:lastmodified":1473721824,
+    "wof:lastmodified":1510943306,
     "wof:name":"Assenti-stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058386477
+    ],
     "wof:tags":[
         "tile"
     ]

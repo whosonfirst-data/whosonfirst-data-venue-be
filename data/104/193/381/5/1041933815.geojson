@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2066841125,51.2049942017,3.2066841125,51.2049942017",
     "geom:latitude":51.204994,
     "geom:longitude":3.206684,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Legeweg 34",
     "sg:city":"Brugge (sint-andries)",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":159308230,
         "sg:id":"SG_0qIewLSZ58mhS3M7tpGN30_51.204994_3.206684@1306268364"
     },
     "wof:country":"BE",
     "wof:created":1473489421,
-    "wof:geomhash":"78ed1ac73e1c6c1731bde6e2786833d8",
+    "wof:geomhash":"3f338eef8e61d4fc6f8552a2ec179db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1041933815,
-    "wof:lastmodified":1473721035,
+    "wof:lastmodified":1510943861,
     "wof:name":"Loose W",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",

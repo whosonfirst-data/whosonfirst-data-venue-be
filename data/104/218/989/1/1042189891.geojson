@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Bijkhoevelaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4940361977,51.2323265076,4.4940361977,51.2323265076",
     "geom:latitude":51.232327,
     "geom:longitude":4.494036,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bijkhoevelaan 14",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501369,
-    "wof:geomhash":"37495159cf10ef19664a39c5ee80a663",
+    "wof:geomhash":"7d4c2ee3a0d4de4fc62a8b481183ee17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042189891,
-    "wof:lastmodified":1473722889,
+    "wof:lastmodified":1510941858,
     "wof:name":"Alcagro Nv",
     "wof:parent_id":85862031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058575677
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "earth",

@@ -7,13 +7,16 @@
     "addr:postcode":"28-30;2000",
     "addr:street":"Londenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4096360207,51.2307815552,4.4096360207,51.2307815552",
     "geom:latitude":51.230782,
     "geom:longitude":4.409636,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Londenstraat 28-30",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532842,
-    "wof:geomhash":"b78f620d27c9cff82821118a57e39b7a",
+    "wof:geomhash":"45a877298251cec219169b62281b0515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,18 @@
         }
     ],
     "wof:id":1058605345,
-    "wof:lastmodified":1473721557,
+    "wof:lastmodified":1510943273,
     "wof:name":"A.a.a. The Color Revolution",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058604349
+    ],
+    "wof:supersedes":[
+        1058602459,
+        1058598047
+    ],
     "wof:tags":[
         "digital"
     ]

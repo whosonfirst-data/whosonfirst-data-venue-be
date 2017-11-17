@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Transcontinentaalweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3968148232,51.2735557556,4.3968148232,51.2735557556",
     "geom:latitude":51.273556,
     "geom:longitude":4.396815,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Transcontinentaalweg 4",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537105,
-    "wof:geomhash":"cf3be7bf3b0c39fef0e726878dd09fac",
+    "wof:geomhash":"3563f0365392d6862542bf3d9efd7e33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,19 @@
         }
     ],
     "wof:id":1058699795,
-    "wof:lastmodified":1473722867,
+    "wof:lastmodified":1510943952,
     "wof:name":"Riga Natie Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058962501
+    ],
+    "wof:supersedes":[
+        1042154067,
+        1042100987,
+        1058597977
+    ],
     "wof:tags":[
         "transport",
         "road"

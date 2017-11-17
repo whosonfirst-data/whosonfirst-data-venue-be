@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Rue De Dinant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8561358452,50.5874061584,5.8561358452,50.5874061584",
     "geom:latitude":50.587406,
     "geom:longitude":5.856136,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Dinant 16",
     "sg:city":"Verviers",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473526079,
-    "wof:geomhash":"b6eb8a77bbd8e06d1e848ab0d7313b38",
+    "wof:geomhash":"7483a48c521e083d96b91cd88f02d992",
     "wof:hierarchy":[],
     "wof:id":1058457731,
-    "wof:lastmodified":1473722211,
+    "wof:lastmodified":1510943936,
     "wof:name":"Alain Joset Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058687689
+    ],
+    "wof:supersedes":[
+        1058204991,
+        1042067713,
+        1058085137
+    ],
     "wof:tags":[]
 },
   "bbox": [

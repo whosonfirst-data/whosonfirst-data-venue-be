@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5197601318,50.6351661682,5.5197601318,50.6351661682",
     "geom:latitude":50.635166,
     "geom:longitude":5.51976,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Fays 80",
     "sg:city":"Saint-nicolas (montegn\u00e9e)",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539355,
-    "wof:geomhash":"52d08cb26c0d76e73af453b21b08909b",
+    "wof:geomhash":"26c5648645744cb2258496f92909d810",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +66,18 @@
         }
     ],
     "wof:id":1058750367,
-    "wof:lastmodified":1473719413,
+    "wof:lastmodified":1510943487,
     "wof:name":"Polli-egouts Freres",
     "wof:parent_id":85801645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042176263,
+        1058660795,
+        1058594227,
+        1058703153
+    ],
     "wof:tags":[
         "repair",
         "-",

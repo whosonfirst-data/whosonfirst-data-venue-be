@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Lange Gasthuisstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4052410126,51.2134513855,4.4052410126,51.2134513855",
     "geom:latitude":51.213451,
     "geom:longitude":4.405241,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lange Gasthuisstraat 45",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473538545,
-    "wof:geomhash":"c38c82ef1d66dbb9dba80cf2986593b5",
+    "wof:geomhash":"33b597aac8b6f9be5d91421784ffbfc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058731609,
-    "wof:lastmodified":1473720087,
+    "wof:lastmodified":1510943410,
     "wof:name":"'t Elzenveld Congrescentrum",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058704339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

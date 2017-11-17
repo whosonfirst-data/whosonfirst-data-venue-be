@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Rue Ame\u0301Ricaine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3545088768,50.82447052,4.3545088768,50.82447052",
     "geom:latitude":50.824471,
     "geom:longitude":4.354509,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Am\u00c9ricaine 1",
     "sg:city":"Sint-gillis",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478418,
-    "wof:geomhash":"c279e8e6bf2c9f00d2bbce23202c4472",
+    "wof:geomhash":"a0fa13df3386a6c44b5a87b3bbe30cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041677421,
-    "wof:lastmodified":1473721893,
+    "wof:lastmodified":1510943810,
     "wof:name":"D\u00c9lice Et Gourmandise",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042126553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

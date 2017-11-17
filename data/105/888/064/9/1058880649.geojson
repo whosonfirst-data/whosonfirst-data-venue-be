@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6468567848,50.6881866455,5.6468567848,50.6881866455",
     "geom:latitude":50.688187,
     "geom:longitude":5.646857,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rue Des Naiveux 14",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":119631936,
         "sg:id":"SG_0z9u9ZJ8r2CAoa5CFxmG6j_50.688187_5.646857@1306268589"
     },
     "wof:country":"BE",
     "wof:created":1473545047,
-    "wof:geomhash":"d984603d92775955f7f79b5a0c340725",
+    "wof:geomhash":"812959aa292c2b2a02065547068f0d7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058880649,
-    "wof:lastmodified":1473719536,
+    "wof:lastmodified":1510941458,
     "wof:name":"Dreamland",
     "wof:parent_id":85800909,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"4730",
     "addr:street":"An Der Follmuhle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0729899406,50.7056884766,6.0729899406,50.7056884766",
     "geom:latitude":50.705688,
     "geom:longitude":6.07299,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"An Der Follmuhle 2-4",
     "sg:city":"Hauset",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474738,
-    "wof:geomhash":"a53006a528f0a839260a5f3daf5f515d",
+    "wof:geomhash":"d417fa6161d3e9d41134e2a64366a564",
     "wof:hierarchy":[],
     "wof:id":1041587211,
-    "wof:lastmodified":1473722095,
+    "wof:lastmodified":1510943441,
     "wof:name":"Heutz-homburg S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058465629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "brickwork"

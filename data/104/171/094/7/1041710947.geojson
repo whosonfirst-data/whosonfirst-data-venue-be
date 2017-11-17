@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Tolstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400247097,51.2096328735,4.400247097,51.2096328735",
     "geom:latitude":51.209633,
     "geom:longitude":4.400247,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tolstraat 53",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479717,
-    "wof:geomhash":"80a87a6fb505b85add248b30e6ade882",
+    "wof:geomhash":"983499bd9fd4802ba0352350de1fb826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041710947,
-    "wof:lastmodified":1473719765,
+    "wof:lastmodified":1510943775,
     "wof:name":"Jan Helsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041862517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8595261574,50.5916366577,5.8595261574,50.5916366577",
     "geom:latitude":50.591637,
     "geom:longitude":5.859526,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Xhav\u00e9e 19",
     "sg:city":"Verviers",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473517602,
-    "wof:geomhash":"a52cefc5f896c1fc26361b4944dd850f",
+    "wof:geomhash":"df325552e2f605c794203da89d2b0e6f",
     "wof:hierarchy":[],
     "wof:id":1058277731,
-    "wof:lastmodified":1473722258,
+    "wof:lastmodified":1510942882,
     "wof:name":"Boite \u00e0 Couture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041579205
+    ],
     "wof:tags":[
         "interior",
         "decoration"

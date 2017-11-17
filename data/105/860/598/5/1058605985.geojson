@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3356747627,50.8025856018,4.3356747627,50.8025856018",
     "geom:latitude":50.802586,
     "geom:longitude":4.335675,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45",
     "sg:city":"Rue Victor Allard 1180 Uccle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532879,
-    "wof:geomhash":"7ae6a153e9123960295249a048162a58",
+    "wof:geomhash":"f1c8cb6c4bd537af17235699e5277d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058605985,
-    "wof:lastmodified":1473721711,
+    "wof:lastmodified":1510943941,
     "wof:name":"Sprint Sa",
     "wof:parent_id":85801951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041644699
+    ],
     "wof:tags":[
         "publishing"
     ]

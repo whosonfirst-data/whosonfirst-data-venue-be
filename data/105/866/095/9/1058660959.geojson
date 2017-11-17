@@ -7,13 +7,16 @@
     "addr:postcode":"7500",
     "addr:street":"Rue De Lannoy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3747460842,50.6145744324,3.3747460842,50.6145744324",
     "geom:latitude":50.614574,
     "geom:longitude":3.374746,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Lannoy 24",
     "sg:city":"Tournai",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473535462,
-    "wof:geomhash":"f7172c91fbf50c9ba362f469ff8ca9bb",
+    "wof:geomhash":"bcad226bf5a3570addb48cf1ca1e643c",
     "wof:hierarchy":[],
     "wof:id":1058660959,
-    "wof:lastmodified":1473719651,
+    "wof:lastmodified":1510944162,
     "wof:name":"Flexplan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058965159,
+        1058700661,
+        1058845385
+    ],
+    "wof:supersedes":[
+        1058391331,
+        1041987441
+    ],
     "wof:tags":[
         "resin"
     ]

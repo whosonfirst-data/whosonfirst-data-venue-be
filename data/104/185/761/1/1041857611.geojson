@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4251060486,50.9263877869,4.4251060486,50.9263877869",
     "geom:latitude":50.926388,
     "geom:longitude":4.425106,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Heldenplein 18",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486111,
-    "wof:geomhash":"a23e2bbc4c65bb394d176e65a75c9f2f",
+    "wof:geomhash":"ed4e69b94176ae520d3fc737431b1a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041857611,
-    "wof:lastmodified":1473722250,
+    "wof:lastmodified":1510943186,
     "wof:name":"E. De Mey",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041706141
+    ],
     "wof:tags":[]
 },
   "bbox": [

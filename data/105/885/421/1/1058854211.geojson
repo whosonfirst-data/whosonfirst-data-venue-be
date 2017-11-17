@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.606347084,50.8036117554,5.606347084,50.8036117554",
     "geom:latitude":50.803612,
     "geom:longitude":5.606347,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vis\u00e9steenweg 234",
     "sg:city":"Riemst",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473543904,
-    "wof:geomhash":"969aa60cdfd3105421ea5a75157635f8",
+    "wof:geomhash":"b9825635eda179804abf3470016f8d58",
     "wof:hierarchy":[],
     "wof:id":1058854211,
-    "wof:lastmodified":1473721214,
+    "wof:lastmodified":1510941842,
     "wof:name":"Butler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058665137
+    ],
     "wof:tags":[
         "tavern"
     ]

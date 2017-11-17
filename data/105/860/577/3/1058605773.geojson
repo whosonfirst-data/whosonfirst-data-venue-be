@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.322332859,50.8453674316,4.322332859,50.8453674316",
     "geom:latitude":50.845367,
     "geom:longitude":4.322333,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131",
     "sg:city":"Rue De Birmingham 1070 Bruxelles",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532864,
-    "wof:geomhash":"ac585de0ff41b44133dfd5bc245e696a",
+    "wof:geomhash":"eec8ed708fe4f4b45a9176d914d43913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058605773,
-    "wof:lastmodified":1473721686,
+    "wof:lastmodified":1510941984,
     "wof:name":"Deloge Sa",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058480647
+    ],
     "wof:tags":[
         "publishing"
     ]

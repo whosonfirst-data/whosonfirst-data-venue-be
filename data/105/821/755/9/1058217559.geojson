@@ -7,13 +7,16 @@
     "addr:postcode":"9030",
     "addr:street":"Kaleweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.674366951,51.0880699158,3.674366951,51.0880699158",
     "geom:latitude":51.08807,
     "geom:longitude":3.674367,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kaleweg 3",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514982,
-    "wof:geomhash":"05429b408fa4c116252f25dcbef939e7",
+    "wof:geomhash":"1c42c70bef66395cf1b9f46368bf7acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058217559,
-    "wof:lastmodified":1473722120,
+    "wof:lastmodified":1510941352,
     "wof:name":"Fabory Center Gent",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058576437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2149031162,50.8085212708,3.2149031162,50.8085212708",
     "geom:latitude":50.808521,
     "geom:longitude":3.214903,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vlamingstraat 35",
     "sg:city":"Wevelgem",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473542829,
-    "wof:geomhash":"2d93f6550ef01805b36b0090c398bbff",
+    "wof:geomhash":"b0e01b4a030bc6dc580349eb2f74aa61",
     "wof:hierarchy":[],
     "wof:id":1058829455,
-    "wof:lastmodified":1473722722,
+    "wof:lastmodified":1510942019,
     "wof:name":"Fa. Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041928535
+    ],
     "wof:tags":[
         "stations-service",
         "carburants"

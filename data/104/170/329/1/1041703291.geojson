@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue Louise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.355919838,50.8357810974,4.355919838,50.8357810974",
     "geom:latitude":50.835781,
     "geom:longitude":4.35592,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Louise 385b1",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479414,
-    "wof:geomhash":"aeb3936f322f71743ac6f6d513e5d600",
+    "wof:geomhash":"daaa873b2e84df7aa2168accd4ca21cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703291,
-    "wof:lastmodified":1473720840,
+    "wof:lastmodified":1510943347,
     "wof:name":"Belle A F",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

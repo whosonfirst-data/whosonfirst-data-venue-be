@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue Bara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3326249123,50.836769104,4.3326249123,50.836769104",
     "geom:latitude":50.836769,
     "geom:longitude":4.332625,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"160 Rue Bara",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474029,
-    "wof:geomhash":"8b73b962a7c32b63c4919885c43ebaa5",
+    "wof:geomhash":"800d20a613d4e8eb9502fecee1595e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041569689,
-    "wof:lastmodified":1473722850,
+    "wof:lastmodified":1510942213,
     "wof:name":"Alcodin S.a.",
     "wof:parent_id":85801025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042074961
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "textile",

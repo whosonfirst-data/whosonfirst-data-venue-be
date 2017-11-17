@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9111709595,51.0862312317,4.9111709595,51.0862312317",
     "geom:latitude":51.086231,
     "geom:longitude":4.911171,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"De Merodedreef 46",
     "sg:city":"Westerlo",
     "sg:classifiers":[
@@ -38,16 +40,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473543862,
-    "wof:geomhash":"1f37a338b510e2b80b3528c064573720",
+    "wof:geomhash":"aa2db522776af40f4671eb8d53c562a2",
     "wof:hierarchy":[],
     "wof:id":1058853065,
-    "wof:lastmodified":1473720824,
+    "wof:lastmodified":1510943755,
     "wof:name":"Velum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058797543,
+        1058473985
+    ],
     "wof:tags":[
         "tarpaulin"
     ]

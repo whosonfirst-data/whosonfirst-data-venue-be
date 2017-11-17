@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5902228355,50.6367721558,5.5902228355,50.6367721558",
     "geom:latitude":50.636772,
     "geom:longitude":5.590223,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De L\u00b4amercoeur 55",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473550310,
-    "wof:geomhash":"114c9d4961a017012be8c221b2813e1a",
+    "wof:geomhash":"45c6c0ae6472e5e3f47d2f21202cde3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058994715,
-    "wof:lastmodified":1473721350,
+    "wof:lastmodified":1510941482,
     "wof:name":"Centre Dento-facial D'amercoeur",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042068437
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"1210",
     "addr:street":"Rue Du Me\u0301Rinos",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3739681244,50.8544883728,4.3739681244,50.8544883728",
     "geom:latitude":50.854488,
     "geom:longitude":4.373968,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du M\u00e9rinos 34",
     "sg:city":"Bruxelles (saint-josse-ten-noode)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473977,
-    "wof:geomhash":"2900db441dd3956846de64fd376010b5",
+    "wof:geomhash":"a8da0c1e372d06a632b5a5d0f1fcbc3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041568411,
-    "wof:lastmodified":1473722461,
+    "wof:lastmodified":1510943076,
     "wof:name":"Pharmacie Du M\u00e9rinos",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058540915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemist"

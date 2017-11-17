@@ -7,13 +7,16 @@
     "addr:postcode":"2630",
     "addr:street":"Kontichsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3845739365,51.1431732178,4.3845739365,51.1431732178",
     "geom:latitude":51.143173,
     "geom:longitude":4.384574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kontichsesteenweg 25",
     "sg:city":"Aartselaar",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478643,
-    "wof:geomhash":"69dbd7853f39e8c845b773cb7ea9e8ea",
+    "wof:geomhash":"8a9f37a8158935430fe3ec50ff695291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,22 @@
         }
     ],
     "wof:id":1041683127,
-    "wof:lastmodified":1473720766,
+    "wof:lastmodified":1510943593,
     "wof:name":"E.n.i.",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058045543,
+        1058463323,
+        1058772917,
+        1058396385,
+        1058843531,
+        1058229439,
+        1058656751,
+        1042208661,
+        1058772875
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "access-control",

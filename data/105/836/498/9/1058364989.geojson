@@ -7,13 +7,16 @@
     "addr:postcode":"2200",
     "addr:street":"Spekmolenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8411002159,51.1725311279,4.8411002159,51.1725311279",
     "geom:latitude":51.172531,
     "geom:longitude":4.8411,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Spekmolenstraat 92",
     "sg:city":"Herentals",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473521645,
-    "wof:geomhash":"17eee1d37ba408d5ff4b23aacfacb483",
+    "wof:geomhash":"e4cf647b42e1d326efd7dcdaad0d8c0c",
     "wof:hierarchy":[],
     "wof:id":1058364989,
-    "wof:lastmodified":1473721546,
+    "wof:lastmodified":1510943194,
     "wof:name":"Blok Security Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058762647
+    ],
+    "wof:supersedes":[
+        1041843739,
+        1041840833
+    ],
     "wof:tags":[
         "lock",
         "key"

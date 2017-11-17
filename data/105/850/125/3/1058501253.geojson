@@ -7,13 +7,16 @@
     "addr:postcode":"2200",
     "addr:street":"Toekomstlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8103518486,51.1609764099,4.8103518486,51.1609764099",
     "geom:latitude":51.160976,
     "geom:longitude":4.810352,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Toekomstlaan 14",
     "sg:city":"Herentals",
     "sg:classifiers":[
@@ -38,16 +41,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473528149,
-    "wof:geomhash":"1037a4d85ebb035118db542850519d86",
+    "wof:geomhash":"48b42928aade455c53e3029e3921edb7",
     "wof:hierarchy":[],
     "wof:id":1058501253,
-    "wof:lastmodified":1473719826,
+    "wof:lastmodified":1510943791,
     "wof:name":"Decapac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058501465,
+        1058925027
+    ],
+    "wof:supersedes":[
+        1058103539,
+        1041974213,
+        1058501099,
+        1058501117,
+        1058038457
+    ],
     "wof:tags":[
         "packing"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4139590263,50.9051780701,3.4139590263,50.9051780701",
     "geom:latitude":50.905178,
     "geom:longitude":3.413959,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gentseweg 622",
     "sg:city":"Waregem (sint-eloois-vijve)",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473531929,
-    "wof:geomhash":"219af9bcdf6b74b29b0fa2d19dd8cd3e",
+    "wof:geomhash":"abcbe7762f4687dfedd78b026ba13d24",
     "wof:hierarchy":[],
     "wof:id":1058583709,
-    "wof:lastmodified":1473720971,
+    "wof:lastmodified":1510942997,
     "wof:name":"D'hont Kunststoffen Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058583183,
+        1058583511
+    ],
     "wof:tags":[
         "industrial",
         "-"

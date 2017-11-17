@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Avenue Du Prince He\u0301Ritier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4086880684,50.8471565247,4.4086880684,50.8471565247",
     "geom:latitude":50.847157,
     "geom:longitude":4.408688,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Du Prince H\u00e9ritier 202",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474841,
-    "wof:geomhash":"7a653b99e849bf7aee461a3486863ce7",
+    "wof:geomhash":"5b54862041ca1973de57054a662c8725",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041589263,
-    "wof:lastmodified":1473722629,
+    "wof:lastmodified":1510942857,
     "wof:name":"To Do Today Productions Sprl",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042089859
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "producer",

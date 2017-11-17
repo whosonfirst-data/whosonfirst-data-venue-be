@@ -7,13 +7,16 @@
     "addr:postcode":"8600",
     "addr:street":"Vladslostraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.902780056,51.0307884216,2.902780056,51.0307884216",
     "geom:latitude":51.030788,
     "geom:longitude":2.90278,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vladslostraat 9a",
     "sg:city":"Diksmuide",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473531955,
-    "wof:geomhash":"4c2e168ce53c8556327e09cdef986e91",
+    "wof:geomhash":"70dda026c47099071974540e393d2f41",
     "wof:hierarchy":[],
     "wof:id":1058584405,
-    "wof:lastmodified":1473721285,
+    "wof:lastmodified":1510943723,
     "wof:name":"Attracties Dewilde A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058655419
+    ],
+    "wof:supersedes":[
+        1058148959,
+        1058026955
+    ],
     "wof:tags":[
         "equipment",
         "playground"

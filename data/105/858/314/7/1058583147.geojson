@@ -7,13 +7,16 @@
     "addr:postcode":"2500",
     "addr:street":"Berlaarsesteenweg;Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5883798599,51.1283416748,4.5883798599,51.1283416748",
     "geom:latitude":51.128342,
     "geom:longitude":4.58838,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Berlaarsesteenweg 128 Box 1",
     "sg:city":"Lier",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473531903,
-    "wof:geomhash":"08a2040ad8c152355ffc4c0652325107",
+    "wof:geomhash":"0813e43c73e6c24d757510cece5f41f4",
     "wof:hierarchy":[],
     "wof:id":1058583147,
-    "wof:lastmodified":1473720790,
+    "wof:lastmodified":1510942524,
     "wof:name":"Bouwmaterialen Van Den Broeck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058700577,
+        1058964467
+    ],
+    "wof:supersedes":[
+        1058268215,
+        1058026821
+    ],
     "wof:tags":[
         "plaster"
     ]

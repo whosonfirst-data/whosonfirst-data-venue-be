@@ -7,13 +7,16 @@
     "addr:postcode":"1130",
     "addr:street":"Rue Arthur Maes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4233908653,50.8843765259,4.4233908653,50.8843765259",
     "geom:latitude":50.884377,
     "geom:longitude":4.423391,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Arthur Maes 100",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481199,
-    "wof:geomhash":"3ddd1d313b8f21bf00a2d6a61ba808ba",
+    "wof:geomhash":"9dd7cc409fca32e94a3dbaabf7ffa059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,18 @@
         }
     ],
     "wof:id":1041745747,
-    "wof:lastmodified":1473721683,
+    "wof:lastmodified":1510943556,
     "wof:name":"Demimpex V.r.p.",
     "wof:parent_id":85801223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041843259,
+        1041842243,
+        1058221623,
+        1042209059,
+        1058419519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "terrain",

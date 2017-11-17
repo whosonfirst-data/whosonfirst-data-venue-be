@@ -7,13 +7,16 @@
     "addr:postcode":"2660",
     "addr:street":"Oudestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4200091362,51.225353241,4.4200091362,51.225353241",
     "geom:latitude":51.225353,
     "geom:longitude":4.420009,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oudestraat 34",
     "sg:city":"Antwerpen (hoboken)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499039,
-    "wof:geomhash":"33b93a5e1a0295e5693337297916e1b2",
+    "wof:geomhash":"bd7b649c6a576de3c15e3a7ad425a761",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":1042150199,
-    "wof:lastmodified":1473718968,
+    "wof:lastmodified":1510943937,
     "wof:name":"Geneeskunde Voor Het Volk",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058173689
+    ],
+    "wof:supersedes":[
+        1058165917
+    ],
     "wof:tags":[
         "dietitian"
     ]

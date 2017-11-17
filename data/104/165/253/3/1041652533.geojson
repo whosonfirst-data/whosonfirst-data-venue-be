@@ -7,13 +7,16 @@
     "addr:postcode":"4040",
     "addr:street":"Rue De Herme\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6257891655,50.6913337708,5.6257891655,50.6913337708",
     "geom:latitude":50.691334,
     "geom:longitude":5.625789,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Herm\u00e9e 175",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477435,
-    "wof:geomhash":"42da31da2d14531e1aaea1d6cae398e6",
+    "wof:geomhash":"176bb01339b80aa5526b26ce4de824fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041652533,
-    "wof:lastmodified":1473720496,
+    "wof:lastmodified":1510942913,
     "wof:name":"Hydrobel Sa",
     "wof:parent_id":85801795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058103483
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pump",

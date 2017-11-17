@@ -7,13 +7,16 @@
     "addr:postcode":"2900",
     "addr:street":"Kopstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5045409203,51.2616424561,4.5045409203,51.2616424561",
     "geom:latitude":51.261642,
     "geom:longitude":4.504541,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kopstraat 346-348",
     "sg:city":"Schoten",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537064,
-    "wof:geomhash":"b11a3ee436edf67e154040da1260e971",
+    "wof:geomhash":"d51d45f0259135d7964ddf7b6e372da7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,19 @@
         }
     ],
     "wof:id":1058698777,
-    "wof:lastmodified":1473722538,
+    "wof:lastmodified":1510943820,
     "wof:name":"Gonnissen-wijckmans",
     "wof:parent_id":85801969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881949,
+        1058797361
+    ],
+    "wof:supersedes":[
+        1042174761,
+        1042174169
+    ],
     "wof:tags":[
         "signalling",
         "yard",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5092978477,50.9037322998,5.5092978477,50.9037322998",
     "geom:latitude":50.903732,
     "geom:longitude":5.509298,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Eikerweg 3",
     "sg:city":"Bilzen (munsterbilzen)",
     "sg:classifiers":[
@@ -38,16 +40,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473544889,
-    "wof:geomhash":"23938302c97576d1b506be935b9c837e",
+    "wof:geomhash":"15282733093213570e7c7ac8b0819543",
     "wof:hierarchy":[],
     "wof:id":1058877091,
-    "wof:lastmodified":1473721991,
+    "wof:lastmodified":1510942132,
     "wof:name":"Huis Gregoor Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058828059,
+        1058748907,
+        1058268261,
+        1058386709
+    ],
     "wof:tags":[
         "tile"
     ]

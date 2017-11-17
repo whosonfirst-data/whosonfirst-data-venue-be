@@ -7,13 +7,16 @@
     "addr:postcode":"3000",
     "addr:street":"Mechelsestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6981921196,50.8827857971,4.6981921196,50.8827857971",
     "geom:latitude":50.882786,
     "geom:longitude":4.698192,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelsestraat 121",
     "sg:city":"Leuven",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473526494,
-    "wof:geomhash":"9fd8b1b9fa930ed8f0cc8ebaf8ddf007",
+    "wof:geomhash":"28d97b182e68ac4ba4882d54a3cc018f",
     "wof:hierarchy":[],
     "wof:id":1058466037,
-    "wof:lastmodified":1473721735,
+    "wof:lastmodified":1510942868,
     "wof:name":"Imperplex Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058034545
+    ],
+    "wof:supersedes":[
+        1058034545
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4700160027,50.7685775757,4.4700160027,50.7685775757",
     "geom:latitude":50.768578,
     "geom:longitude":4.470016,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Marcel F\u00e9lic\u00e9straat 2",
     "sg:city":"Hoeilaart",
     "sg:classifiers":[
@@ -36,11 +38,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":342020304,
         "sg:id":"SG_0eFLdFLL73X16nzW09oBUK_50.768578_4.470016@1306268544"
     },
     "wof:country":"BE",
     "wof:created":1473534431,
-    "wof:geomhash":"2252b001f0e17749e9136e04576cb8b4",
+    "wof:geomhash":"df02639cc7ca582f9293d8c458045fa6",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1058638525,
-    "wof:lastmodified":1473722484,
+    "wof:lastmodified":1510941877,
     "wof:name":"Speaker's Corner",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",

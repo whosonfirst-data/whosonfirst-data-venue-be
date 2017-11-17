@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Patenier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.556748867,50.64112854,5.556748867,50.64112854",
     "geom:latitude":50.641129,
     "geom:longitude":5.556749,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Patenier 20",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480450,
-    "wof:geomhash":"aab8a30217085b6fba60c67b7ae100b9",
+    "wof:geomhash":"d438a07eb8ad7a29102d36216f19d363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041729571,
-    "wof:lastmodified":1473722742,
+    "wof:lastmodified":1510942976,
     "wof:name":"C.r.d.",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041630029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

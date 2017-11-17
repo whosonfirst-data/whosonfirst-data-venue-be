@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9127569199,50.2591400146,4.9127569199,50.2591400146",
     "geom:latitude":50.25914,
     "geom:longitude":4.912757,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Winston-churchill 21",
     "sg:city":"Dinant",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473493401,
-    "wof:geomhash":"bbf463a31ce9b3f490d1fe3f085e0c89",
+    "wof:geomhash":"667d52ca58360ce4b7df404d1381a14f",
     "wof:hierarchy":[],
     "wof:id":1042029001,
-    "wof:lastmodified":1473722572,
+    "wof:lastmodified":1510942787,
     "wof:name":"Taverne Des Alli\u00c9s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041669521
+    ],
     "wof:tags":[
         "caf\u00e9s"
     ]

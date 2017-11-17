@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4916257858,51.1400413513,4.4916257858,51.1400413513",
     "geom:latitude":51.140041,
     "geom:longitude":4.491626,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Lintsesteenweg 531",
     "sg:city":"Hove",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":43524951,
         "sg:id":"SG_1r0mKwoQlwd4M1Rjs8Q0sK_51.140041_4.491626@1306268523"
     },
     "wof:country":"BE",
     "wof:created":1473529300,
-    "wof:geomhash":"061b9df2bafd72e56d22dee81a1d1328",
+    "wof:geomhash":"bbfe3af4c5897a88c7196b56c691c22a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1058526257,
-    "wof:lastmodified":1473721847,
+    "wof:lastmodified":1510943657,
     "wof:name":"Hof Van Wayenborch",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",

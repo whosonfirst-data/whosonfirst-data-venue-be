@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.506439209,50.356338501,4.506439209,50.356338501",
     "geom:latitude":50.356339,
     "geom:longitude":4.506439,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chemin Du Comp\u00e8re 20",
     "sg:city":"Gerpinnes (joncret)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473537020,
-    "wof:geomhash":"16f42bfbea2aba1c0d52f447ec239f0e",
+    "wof:geomhash":"f88af2dc462307a222fc355573896ed1",
     "wof:hierarchy":[],
     "wof:id":1058697609,
-    "wof:lastmodified":1473722183,
+    "wof:lastmodified":1510942077,
     "wof:name":"Ecurie Du Comp\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041563839
+    ],
     "wof:tags":[
         "riding",
         "school"

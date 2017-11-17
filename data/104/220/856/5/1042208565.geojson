@@ -7,13 +7,16 @@
     "addr:postcode":"2860",
     "addr:street":"Drevendaal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5099959373,51.0692863464,4.5099959373,51.0692863464",
     "geom:latitude":51.069286,
     "geom:longitude":4.509996,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Drevendaal 40",
     "sg:city":"Sint-katelijne-waver",
     "sg:classifiers":[
@@ -41,16 +44,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473502359,
-    "wof:geomhash":"5a483a8515bc7f1d089a325863bdaabe",
+    "wof:geomhash":"b59a67b692817742a8a97dbed0ebdf5c",
     "wof:hierarchy":[],
     "wof:id":1042208565,
-    "wof:lastmodified":1473722484,
+    "wof:lastmodified":1510942851,
     "wof:name":"Belloy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058772521
+    ],
+    "wof:supersedes":[
+        1042210441,
+        1041886767,
+        1042203973
+    ],
     "wof:tags":[
         "industrial",
         "-",

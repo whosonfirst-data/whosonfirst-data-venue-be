@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5521130562,50.4786987305,4.5521130562,50.4786987305",
     "geom:latitude":50.478699,
     "geom:longitude":4.552113,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53",
     "sg:city":"Rue De Fleurjoux 6220 Fleurus",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473496037,
-    "wof:geomhash":"3265393b1ff08567ee00f24011dbe759",
+    "wof:geomhash":"ac8a96ad458d0ba32e44faaa873c5b89",
     "wof:hierarchy":[],
     "wof:id":1042091945,
-    "wof:lastmodified":1473720259,
+    "wof:lastmodified":1510942760,
     "wof:name":"U.c.e. Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041667485
+    ],
     "wof:tags":[
         "work",
         "public"

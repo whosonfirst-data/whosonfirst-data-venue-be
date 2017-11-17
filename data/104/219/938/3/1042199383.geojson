@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3871002197,50.8484916687,4.3871002197,50.8484916687",
     "geom:latitude":50.848492,
     "geom:longitude":4.3871,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des Conf\u00e9d\u00e9r\u00e9s 70",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501917,
-    "wof:geomhash":"3aaea94eb2c3a8bfcf3b1e3394aa6447",
+    "wof:geomhash":"f46fe74dba3dbd9631a5df3818c60d80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1042199383,
-    "wof:lastmodified":1473722705,
+    "wof:lastmodified":1510944119,
     "wof:name":"Lycee La Retraite",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042265289
+    ],
     "wof:tags":[
         "secondary"
     ]

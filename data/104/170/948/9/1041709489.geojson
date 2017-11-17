@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Quai Marcellis",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5765681267,50.6361312866,5.5765681267,50.6361312866",
     "geom:latitude":50.636131,
     "geom:longitude":5.576568,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Quai Marcellis 4b11",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479662,
-    "wof:geomhash":"29f676c315ae5212a673188be5226a34",
+    "wof:geomhash":"9a044780521f03ba9b590ef70e9d8109",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041709489,
-    "wof:lastmodified":1473722743,
+    "wof:lastmodified":1510944114,
     "wof:name":"I. Tasset",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041861035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

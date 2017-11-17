@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue Du Doyenne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3374300003,50.8071289062,4.3374300003,50.8071289062",
     "geom:latitude":50.807129,
     "geom:longitude":4.33743,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Doyenne 16",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474283,
-    "wof:geomhash":"e62a4e27f472d9a2500f09113abd7bbf",
+    "wof:geomhash":"b4b954e072d6310324e0b381ce720eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041575731,
-    "wof:lastmodified":1473721676,
+    "wof:lastmodified":1510942970,
     "wof:name":"Original Script S.a.",
     "wof:parent_id":85801951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058603759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "digital"

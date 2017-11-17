@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Sleepstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7262980938,51.0613517761,3.7262980938,51.0613517761",
     "geom:latitude":51.061352,
     "geom:longitude":3.726298,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sleepstraat 79",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502619,
-    "wof:geomhash":"55cee4b9ce29a20ebf4e59cb7ae07324",
+    "wof:geomhash":"c3f72531a416dcfe82ff2de3683c88a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042214213,
-    "wof:lastmodified":1473721197,
+    "wof:lastmodified":1510943505,
     "wof:name":"El.g.b Gent",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058727583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

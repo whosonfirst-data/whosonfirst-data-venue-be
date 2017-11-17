@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3698368073,50.9330673218,4.3698368073,50.9330673218",
     "geom:latitude":50.933067,
     "geom:longitude":4.369837,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Lage Steenweg 10",
     "sg:city":"Grimbergen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544741,
-    "wof:geomhash":"8c1a966e77cae9216735c988ee7714cf",
+    "wof:geomhash":"37ddfa6ffebd7435afc4487d6781c599",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058873845,
-    "wof:lastmodified":1473721007,
+    "wof:lastmodified":1510943549,
     "wof:name":"Dekoratie Gaudaen",
     "wof:parent_id":85801215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058580931
+    ],
     "wof:tags":[]
 },
   "bbox": [

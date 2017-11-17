@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Chausse\u0301E De Ninove",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.301566124,50.8472862244,4.301566124,50.8472862244",
     "geom:latitude":50.847286,
     "geom:longitude":4.301566,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Ninove 565",
     "sg:city":"Anderlecht",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474735,
-    "wof:geomhash":"2f73d04464a813ea78a19f0515bbdc6a",
+    "wof:geomhash":"11537915f20b4ffb6cd876bc1e80a5c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041587133,
-    "wof:lastmodified":1473721990,
+    "wof:lastmodified":1510941694,
     "wof:name":"Day-light Center",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058461715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

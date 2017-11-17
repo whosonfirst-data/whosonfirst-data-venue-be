@@ -7,13 +7,16 @@
     "addr:postcode":"8200",
     "addr:street":"Legeweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2017149925,51.2045822144,3.2017149925,51.2045822144",
     "geom:latitude":51.204582,
     "geom:longitude":3.201715,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Legeweg 121",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484261,
-    "wof:geomhash":"79cc51a7c78a24d84575d8b70172fb0c",
+    "wof:geomhash":"7b15e64d8f4118fc4be13ca6c2e9df1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041814135,
-    "wof:lastmodified":1473721243,
+    "wof:lastmodified":1510943797,
     "wof:name":"L. Vanderkeelen",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058442055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

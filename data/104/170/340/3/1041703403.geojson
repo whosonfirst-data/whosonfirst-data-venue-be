@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Charles Morren",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5617837906,50.6326560974,5.5617837906,50.6326560974",
     "geom:latitude":50.632656,
     "geom:longitude":5.561784,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Charles Morren 4",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479417,
-    "wof:geomhash":"76123871314aa6dce1503cf08c8d9822",
+    "wof:geomhash":"2fe6df037ea018a8c0998e91525c1351",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703403,
-    "wof:lastmodified":1473720871,
+    "wof:lastmodified":1510943864,
     "wof:name":"Bernard Bastin",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

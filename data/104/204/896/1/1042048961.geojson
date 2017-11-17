@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Gouden-Handstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2271521091,51.2137908936,3.2271521091,51.2137908936",
     "geom:latitude":51.213791,
     "geom:longitude":3.227152,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gouden-handstraat 17",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494211,
-    "wof:geomhash":"dd2692c1b5931883cebb15d867065612",
+    "wof:geomhash":"4d69066b0dc977a1a8a95714fdde95f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,19 @@
         }
     ],
     "wof:id":1042048961,
-    "wof:lastmodified":1473722596,
+    "wof:lastmodified":1510943721,
     "wof:name":"Corona Nv",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058390471,
+        1058461275,
+        1058110607,
+        1042200933,
+        1058965927,
+        1058868123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ceremony",

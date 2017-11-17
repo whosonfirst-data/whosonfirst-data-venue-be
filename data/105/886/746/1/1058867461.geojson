@@ -7,13 +7,16 @@
     "addr:postcode":"1020",
     "addr:street":"Rue Marie-Christine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.354446888,50.8753471375,4.354446888,50.8753471375",
     "geom:latitude":50.875347,
     "geom:longitude":4.354447,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Marie-christine 91",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544460,
-    "wof:geomhash":"1523c6d5ecabc5b5647e9a34a6132f7c",
+    "wof:geomhash":"7d1449874ae92005812d5ee8755f15ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1058867461,
-    "wof:lastmodified":1473722087,
+    "wof:lastmodified":1510944073,
     "wof:name":"Hitachi-aae-video Service",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058938903
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "radio",

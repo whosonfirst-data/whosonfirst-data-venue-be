@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5627598763,50.6583099365,4.5627598763,50.6583099365",
     "geom:latitude":50.65831,
     "geom:longitude":4.56276,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des Technologies 22",
     "sg:city":"Ottignies-louvain-la-neuve (c\u00e9roux-mousty)",
     "sg:classifiers":[
@@ -39,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473532857,
-    "wof:geomhash":"0df7b034518581be165f64ac7a25c96c",
+    "wof:geomhash":"fd11e06329ceee21d9ef515ee23b288a",
     "wof:hierarchy":[],
     "wof:id":1058605593,
-    "wof:lastmodified":1473721594,
+    "wof:lastmodified":1510943519,
     "wof:name":"C.p. Bourg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041961467,
+        1058376311,
+        1058460131
+    ],
     "wof:tags":[
         "machine",
         "equipment"

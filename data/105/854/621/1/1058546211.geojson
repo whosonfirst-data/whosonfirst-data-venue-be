@@ -7,13 +7,16 @@
     "addr:postcode":"7000",
     "addr:street":"Rue Rogier;Hainaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9447050095,50.4520378113,3.9447050095,50.4520378113",
     "geom:latitude":50.452038,
     "geom:longitude":3.944705,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Rogier 6",
     "sg:city":"Mons",
     "sg:classifiers":[
@@ -41,16 +44,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473530194,
-    "wof:geomhash":"91a58f98263e83d068cf38d1b79b6304",
+    "wof:geomhash":"2205472beb67d1b95484d05b78fc6d9f",
     "wof:hierarchy":[],
     "wof:id":1058546211,
-    "wof:lastmodified":1473721806,
+    "wof:lastmodified":1510943861,
     "wof:name":"Mons Photo-action Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058868485
+    ],
+    "wof:supersedes":[
+        1058194965,
+        1058129769,
+        1042118075
+    ],
     "wof:tags":[
         "photographic",
         "equipment",

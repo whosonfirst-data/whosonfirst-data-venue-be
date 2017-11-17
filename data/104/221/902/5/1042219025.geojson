@@ -7,13 +7,16 @@
     "addr:postcode":"9830",
     "addr:street":"Kortrijksesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6452920437,51.0131492615,3.6452920437,51.0131492615",
     "geom:latitude":51.013149,
     "geom:longitude":3.645292,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kortrijksesteenweg 49",
     "sg:city":"Sint-martens-latem",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502844,
-    "wof:geomhash":"a9b68ed7746895d9640281b03ece2b0b",
+    "wof:geomhash":"7897ca1e2c50a8353db4f1094c602890",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +49,18 @@
         }
     ],
     "wof:id":1042219025,
-    "wof:lastmodified":1473722533,
+    "wof:lastmodified":1510943452,
     "wof:name":"V.m.a. Industrie",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058226241,
+        1058257763
+    ],
+    "wof:supersedes":[
+        1042208987
+    ],
     "wof:tags":[]
 },
   "bbox": [

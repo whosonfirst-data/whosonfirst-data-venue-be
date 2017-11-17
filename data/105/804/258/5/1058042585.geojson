@@ -7,13 +7,16 @@
     "addr:postcode":"2235",
     "addr:street":"Industriepark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8126020432,51.0795402527,4.8126020432,51.0795402527",
     "geom:latitude":51.07954,
     "geom:longitude":4.812602,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriepark 40",
     "sg:city":"Hulshout",
     "sg:classifiers":[
@@ -38,16 +41,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473507214,
-    "wof:geomhash":"564e48dfe29525eadfe81fe7448a9ab4",
+    "wof:geomhash":"02ec06c3d7dd2a1343e309382f0848fe",
     "wof:hierarchy":[],
     "wof:id":1058042585,
-    "wof:lastmodified":1473720701,
+    "wof:lastmodified":1510944014,
     "wof:name":"Bouwcenter Dils Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058876589,
+        1058386501,
+        1058524629,
+        1058827861
+    ],
+    "wof:supersedes":[
+        1042048687,
+        1058041729
+    ],
     "wof:tags":[
         "first-aid"
     ]

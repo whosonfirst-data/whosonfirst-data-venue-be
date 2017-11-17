@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5832400322,50.6204605103,5.5832400322,50.6204605103",
     "geom:latitude":50.620461,
     "geom:longitude":5.58324,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Quai Du Condroz 11",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486271,
-    "wof:geomhash":"44f29e457001554f87acadc9458a2f59",
+    "wof:geomhash":"66b2870d08022cbff2c2fde8a02c9145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041861407,
-    "wof:lastmodified":1473719903,
+    "wof:lastmodified":1510943323,
     "wof:name":"Ives Detilloux",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041709883
+    ],
     "wof:tags":[]
 },
   "bbox": [

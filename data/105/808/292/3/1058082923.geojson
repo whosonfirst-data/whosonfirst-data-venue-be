@@ -7,13 +7,16 @@
     "addr:postcode":"4432",
     "addr:street":"Rue Reine Astrid",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5135231018,50.6720542908,5.5135231018,50.6720542908",
     "geom:latitude":50.672054,
     "geom:longitude":5.513523,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Reine Astrid 61",
     "sg:city":"Ans (alleur)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508843,
-    "wof:geomhash":"966729bb6ccb827fe3bde6531adeaf2e",
+    "wof:geomhash":"a736721e6b461021ee01197ec67f4269",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,12 +57,15 @@
         }
     ],
     "wof:id":1058082923,
-    "wof:lastmodified":1473720683,
+    "wof:lastmodified":1510942179,
     "wof:name":"For\u00eat Floralies",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058421197,
+        1058054843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "director"

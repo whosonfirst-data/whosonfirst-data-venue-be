@@ -7,13 +7,16 @@
     "addr:postcode":"3140",
     "addr:street":"Oudstrijderslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6282958984,51.0025482178,4.6282958984,51.0025482178",
     "geom:latitude":51.002548,
     "geom:longitude":4.628296,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oudstrijderslaan 36",
     "sg:city":"Keerbergen",
     "sg:classifiers":[
@@ -38,16 +41,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473500442,
-    "wof:geomhash":"be72501f278263be19d030fbbdf48fc2",
+    "wof:geomhash":"b3f35beeca1fb9607988c336856d1afc",
     "wof:hierarchy":[],
     "wof:id":1042175633,
-    "wof:lastmodified":1473721616,
+    "wof:lastmodified":1510943764,
     "wof:name":"Schroons & Zonen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042165833,
+        1058961745,
+        1058249585,
+        1058970931,
+        1058279833,
+        1058828259,
+        1058918357
+    ],
+    "wof:supersedes":[
+        1042038335
+    ],
     "wof:tags":[
         "door"
     ]

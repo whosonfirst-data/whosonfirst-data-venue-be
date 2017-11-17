@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5060868263,50.6168174744,5.5060868263,50.6168174744",
     "geom:latitude":50.616817,
     "geom:longitude":5.506087,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Grand-vin\u00c2ve 51",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473528426,
-    "wof:geomhash":"5ba4b90391949c4cfaef3137b87ac366",
+    "wof:geomhash":"e53090c58b669a495c3e49109abb6f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058507531,
-    "wof:lastmodified":1473722101,
+    "wof:lastmodified":1510942692,
     "wof:name":"L\u00c9onidas",
     "wof:parent_id":85862059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042065227
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue Froissart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.381799221,50.8387145996,4.381799221,50.8387145996",
     "geom:latitude":50.838715,
     "geom:longitude":4.381799,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Froissart 38",
     "sg:city":"Bruxelles (etterbeek)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514279,
-    "wof:geomhash":"fca18ee46a5d1f6d5f3e99b2ca369da8",
+    "wof:geomhash":"a664c9d466911a0be8d8783a73fc32b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1058201843,
-    "wof:lastmodified":1473720134,
+    "wof:lastmodified":1510943907,
     "wof:name":"Centre D'opthalmologie Du Parc L\u00e9opold",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058400397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

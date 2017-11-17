@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Universiteitslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3632459641,50.9311904907,5.3632459641,50.9311904907",
     "geom:latitude":50.93119,
     "geom:longitude":5.363246,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Universiteitslaan 1",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473496343,
-    "wof:geomhash":"c6364ff24539e52d8ae3cd9efc7ba1ac",
+    "wof:geomhash":"48d560652c352b8e59543bb381e4b630",
     "wof:hierarchy":[],
     "wof:id":1042098837,
-    "wof:lastmodified":1473722708,
+    "wof:lastmodified":1510942891,
     "wof:name":"Provincie Limburg-directie Cultuur T.a.v Dhr Leurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058874891,
+        1058422979
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cultural"

@@ -7,6 +7,7 @@
     "addr:postcode":"4020",
     "addr:street":"Quai Des Vennes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":5.593865,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Quai Des Vennes 1",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":1042107449,
-    "wof:lastmodified":1510875453,
+    "wof:lastmodified":1510943470,
     "wof:name":"M&s Mode",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058955369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"9042",
     "addr:street":"Knippegroen;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8020489216,51.1569480896,3.8020489216,51.1569480896",
     "geom:latitude":51.156948,
     "geom:longitude":3.802049,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Knippegroen 1",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473521636,
-    "wof:geomhash":"d8b5ff4299a7ccd86357ddb92eafb60e",
+    "wof:geomhash":"7a0140bf3c8e231750d9d39ceafa3c42",
     "wof:hierarchy":[],
     "wof:id":1058364793,
-    "wof:lastmodified":1473721454,
+    "wof:lastmodified":1510943184,
     "wof:name":"Van Seumeren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058894139
+    ],
+    "wof:supersedes":[
+        1058114497
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"1050;1160",
     "addr:street":"Chausse\u0301E De Wavre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4009251595,50.8240280151,4.4009251595,50.8240280151",
     "geom:latitude":50.824028,
     "geom:longitude":4.400925,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Wavre 1050",
     "sg:city":"Oudergem/auderghem",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473775,
-    "wof:geomhash":"a57a5f228cb12299202bcd741daeeb06",
+    "wof:geomhash":"a2976e9e23e4e01447becc0fdc6d5912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041563473,
-    "wof:lastmodified":1473720912,
+    "wof:lastmodified":1510941876,
     "wof:name":"Caf\u00c9 Lisbonne",
     "wof:parent_id":85801521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058629145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caf\u00e9s"

@@ -15,6 +15,7 @@
     "geom:longitude":4.241096,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bodegemstraat 7-9",
     "sg:city":"Dilbeek (itterbeek)",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532310,
-    "wof:geomhash":"c5b491395cbdf60afce8211f9b000b11",
+    "wof:geomhash":"c0ee8ea44cf293afe489595c0594aec1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":1058592881,
-    "wof:lastmodified":1491937996,
+    "wof:lastmodified":1510942072,
     "wof:name":"A",
     "wof:parent_id":85800917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058178125,
+        1042175955
+    ],
     "wof:tags":[
         "contractor"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5278987885,50.4025039673,4.5278987885,50.4025039673",
     "geom:latitude":50.402504,
     "geom:longitude":4.527899,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grand Rue 33",
     "sg:city":"Ch\u00e2telet",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473547645,
-    "wof:geomhash":"651a45300b64228baaebfd32e681eb28",
+    "wof:geomhash":"09ccabfcb9f8ae060b3b2a812a9a36f0",
     "wof:hierarchy":[],
     "wof:id":1058937721,
-    "wof:lastmodified":1473722267,
+    "wof:lastmodified":1510943681,
     "wof:name":"Cin\u00e9-vid\u00e9o",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041675149
+    ],
     "wof:tags":[
         "hiring",
         "-"

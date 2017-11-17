@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Brederodestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3928098679,51.2026138306,4.3928098679,51.2026138306",
     "geom:latitude":51.202614,
     "geom:longitude":4.39281,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brederodestraat 128",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523311,
-    "wof:geomhash":"7653ca721c059839c8c37e3990153cbd",
+    "wof:geomhash":"e14b4c8765c3b62005557cc452ddaf74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1058401577,
-    "wof:lastmodified":1473719974,
+    "wof:lastmodified":1510943385,
     "wof:name":"Van Houdt Etn",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058906697,
+        1058826171,
+        1058473549,
+        1058843105
+    ],
+    "wof:supersedes":[
+        1058201761
+    ],
     "wof:tags":[
         "instrument",
         "apparatus"

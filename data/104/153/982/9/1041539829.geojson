@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5669360161,50.5327568054,5.5669360161,50.5327568054",
     "geom:latitude":50.532757,
     "geom:longitude":5.566936,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Promenade Du D\u00e9versoir 26",
     "sg:city":"M\u00e9ry",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472786,
-    "wof:geomhash":"746e1b015711bb7c770df780ad7c29e4",
+    "wof:geomhash":"96fcb5441d2e3499e93572e44dd563eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041539829,
-    "wof:lastmodified":1473721229,
+    "wof:lastmodified":1510942721,
     "wof:name":"M\u00e9rytherm S.a.",
     "wof:parent_id":85801627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041630637
+    ],
     "wof:tags":[]
 },
   "bbox": [

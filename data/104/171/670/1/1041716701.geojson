@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Justitiestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.405506134,51.2089996338,4.405506134,51.2089996338",
     "geom:latitude":51.209,
     "geom:longitude":4.405506,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Justitiestraat 26",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479931,
-    "wof:geomhash":"f2bc944391396474ae7a3f35167daea7",
+    "wof:geomhash":"7c9daa131f9b835bd2531bd22271b3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041716701,
-    "wof:lastmodified":1473721879,
+    "wof:lastmodified":1510942236,
     "wof:name":"Peter De Maeyer",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041868477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

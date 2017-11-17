@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Herkenrodesingel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3299031258,50.9420547485,5.3299031258,50.9420547485",
     "geom:latitude":50.942055,
     "geom:longitude":5.329903,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herkenrodesingel 85",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -39,16 +42,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473517600,
-    "wof:geomhash":"1eec073683ca1c270be35b5bc27f795b",
+    "wof:geomhash":"e437555197d489720e0494dd3c9f3c1e",
     "wof:hierarchy":[],
     "wof:id":1058277691,
-    "wof:lastmodified":1473722246,
+    "wof:lastmodified":1510943914,
     "wof:name":"Beulen Houtmarkt Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058877843,
+        1058295737,
+        1058524599,
+        1058961413
+    ],
+    "wof:supersedes":[
+        1042175189,
+        1042045599,
+        1042034779,
+        1042171081
+    ],
     "wof:tags":[
         "interior",
         "decoration"

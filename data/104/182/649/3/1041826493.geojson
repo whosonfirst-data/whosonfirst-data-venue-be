@@ -7,13 +7,16 @@
     "addr:postcode":"9041",
     "addr:street":"Pijphoekstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7634520531,51.1012153625,3.7634520531,51.1012153625",
     "geom:latitude":51.101215,
     "geom:longitude":3.763452,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pijphoekstraat 44",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484771,
-    "wof:geomhash":"d535c5897469516af8e56075ab1743db",
+    "wof:geomhash":"292dc9147809892f251d4a80905f6f34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041826493,
-    "wof:lastmodified":1473721749,
+    "wof:lastmodified":1510941901,
     "wof:name":"Accountants Ackerman",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058925617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

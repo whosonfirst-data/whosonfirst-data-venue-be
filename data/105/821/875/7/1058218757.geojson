@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3464708328,50.87758255,4.3464708328,50.87758255",
     "geom:latitude":50.877583,
     "geom:longitude":4.346471,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Fransman 2",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515027,
-    "wof:geomhash":"cec5a8bb9f8220fdae3e11ad850b8ce6",
+    "wof:geomhash":"5d3653c6afaafa64f6f8664e8a961dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058218757,
-    "wof:lastmodified":1473722485,
+    "wof:lastmodified":1510943703,
     "wof:name":"Cld",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041665205
+    ],
     "wof:tags":[
         "-",
         "imitation"

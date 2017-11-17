@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2177348137,51.1233406067,4.2177348137,51.1233406067",
     "geom:latitude":51.123341,
     "geom:longitude":4.217735,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wilfordkaai 41",
     "sg:city":"Temse",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473539288,
-    "wof:geomhash":"888f72502bcf37370dcfb7bfd06887e0",
+    "wof:geomhash":"5d72647196d2b17403b77f97572e3b15",
     "wof:hierarchy":[],
     "wof:id":1058748953,
-    "wof:lastmodified":1473722632,
+    "wof:lastmodified":1510942052,
     "wof:name":"Van Riet D Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058597997,
+        1058700849
+    ],
     "wof:tags":[
         "sand",
         "gravel"

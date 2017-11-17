@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7195940018,51.0555229187,3.7195940018,51.0555229187",
     "geom:latitude":51.055523,
     "geom:longitude":3.719594,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Drabstraat 14",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487350,
-    "wof:geomhash":"48bf80248e573ee06b17e416e43f91c6",
+    "wof:geomhash":"fe37592efaee3857cc93b667fd1299b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":1041886419,
-    "wof:lastmodified":1473721870,
+    "wof:lastmodified":1510942662,
     "wof:name":"Vandermeersch Christophe",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041721805,
+        1041886357,
+        1041721807
+    ],
     "wof:tags":[]
 },
   "bbox": [

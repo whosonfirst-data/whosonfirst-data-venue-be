@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7348608971,50.6317558289,5.7348608971,50.6317558289",
     "geom:latitude":50.631756,
     "geom:longitude":5.734861,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue C\u00c9sar De Paepe 28",
     "sg:city":"Soumagne",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488753,
-    "wof:geomhash":"22c34589ba9ad2ee43cd66519e706522",
+    "wof:geomhash":"7d8036b6f2240d759533c43dc5e5d2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041920659,
-    "wof:lastmodified":1473719585,
+    "wof:lastmodified":1510942441,
     "wof:name":"Peau De P\u00cache",
     "wof:parent_id":85801143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041664829
+    ],
     "wof:tags":[]
 },
   "bbox": [

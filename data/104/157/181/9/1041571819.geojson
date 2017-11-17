@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Square Sainctelette",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3479962349,50.8586502075,4.3479962349,50.8586502075",
     "geom:latitude":50.85865,
     "geom:longitude":4.347996,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Square Sainctelette 19",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474111,
-    "wof:geomhash":"a954e933f2468fc39e3ec9a6b6e7a821",
+    "wof:geomhash":"a5751abdf6498a30eb6f3c451eba5571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041571819,
-    "wof:lastmodified":1473720134,
+    "wof:lastmodified":1510943367,
     "wof:name":"Cjp",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042193605
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cultural"

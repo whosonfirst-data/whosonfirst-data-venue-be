@@ -7,6 +7,7 @@
     "addr:postcode":"1030",
     "addr:street":"Rue Artan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":4.383639,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Artan 116",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473497778,
-    "wof:geomhash":"c701de46fd89dd2ef649ade1ef71f92f",
+    "wof:geomhash":"556aef6ca603952769019e1fb752d231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,12 +76,15 @@
         }
     ],
     "wof:id":1042127097,
-    "wof:lastmodified":1491892499,
+    "wof:lastmodified":1510943205,
     "wof:name":"Promo Sapiens Sa",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058202271,
+        1058730467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

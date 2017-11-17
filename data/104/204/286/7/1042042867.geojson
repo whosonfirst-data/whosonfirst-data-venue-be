@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.380616188,51.1446647644,4.380616188,51.1446647644",
     "geom:latitude":51.144665,
     "geom:longitude":4.380616,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Antwerpsesteenweg 124",
     "sg:city":"Aartselaar",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473493972,
-    "wof:geomhash":"dc544af9ac7d4115e9933f53efeb958e",
+    "wof:geomhash":"daa0c1fb18cf35e695ca6d905506c900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042042867,
-    "wof:lastmodified":1473720696,
+    "wof:lastmodified":1510943713,
     "wof:name":"Geresto",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042040231
+    ],
     "wof:tags":[]
 },
   "bbox": [

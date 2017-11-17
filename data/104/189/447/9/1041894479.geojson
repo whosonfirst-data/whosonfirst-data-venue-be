@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.445702076,51.1556167603,4.445702076,51.1556167603",
     "geom:latitude":51.155617,
     "geom:longitude":4.445702,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Hovestraat 6",
     "sg:city":"Edegem",
     "sg:classifiers":[],
@@ -35,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":389071864,
         "sg:id":"SG_0KrpqpumGha10jQsIIZhl2_51.155617_4.445702@1306268357"
     },
     "wof:country":"BE",
     "wof:created":1473487675,
-    "wof:geomhash":"8e706bfa50ef605c556929936b9dadc4",
+    "wof:geomhash":"f56487e0f48687fd06ad1c847e1ed9af",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1041894479,
-    "wof:lastmodified":1473721356,
+    "wof:lastmodified":1510943303,
     "wof:name":"Kbc",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

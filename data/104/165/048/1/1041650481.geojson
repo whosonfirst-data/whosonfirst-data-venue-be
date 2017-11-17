@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Ave. Ariane",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4321470261,50.8574638367,4.4321470261,50.8574638367",
     "geom:latitude":50.857464,
     "geom:longitude":4.432147,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ave. Ariane 4",
     "sg:city":"Brussels",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477362,
-    "wof:geomhash":"1f97eef083ba5ce5f67fcb611bea09e2",
+    "wof:geomhash":"ad3aa833ee30be13dcb70ef4e570fc57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,15 @@
         }
     ],
     "wof:id":1041650481,
-    "wof:lastmodified":1473719431,
+    "wof:lastmodified":1510943752,
     "wof:name":"Belgonucleaire S.a.",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058050369,
+        1041637625
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "large",

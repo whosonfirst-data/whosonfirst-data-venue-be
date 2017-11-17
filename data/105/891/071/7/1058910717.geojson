@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.463239193,51.2665863037,4.463239193,51.2665863037",
     "geom:latitude":51.266586,
     "geom:longitude":4.463239,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bredabaan 1261",
     "sg:city":"Schoten",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546457,
-    "wof:geomhash":"1499d3e24688d2d5a1e673c961a30129",
+    "wof:geomhash":"e6cc1cf9cc06c90db58a99d576f74c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,21 @@
         }
     ],
     "wof:id":1058910717,
-    "wof:lastmodified":1473719575,
+    "wof:lastmodified":1510941333,
     "wof:name":"Donckers Nv",
     "wof:parent_id":85801969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058910713,
+        1041844477,
+        1058702857,
+        1041844269,
+        1058911057,
+        1041915007,
+        1058021285
+    ],
     "wof:tags":[
         "recapping",
         "-",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6089639664,50.6449394226,5.6089639664,50.6449394226",
     "geom:latitude":50.644939,
     "geom:longitude":5.608964,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Dieudonn\u00e9-defrance 28",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473528597,
-    "wof:geomhash":"eb57409ecfbc2d33e49b43a2975df6cf",
+    "wof:geomhash":"e0e4e651775b0d3b96d49cf228066ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058511505,
-    "wof:lastmodified":1473719976,
+    "wof:lastmodified":1510943384,
     "wof:name":"Co Savochim",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041656623
+    ],
     "wof:tags":[
         "painting",
         "contractor"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7159869671,51.0403785706,3.7159869671,51.0403785706",
     "geom:latitude":51.040379,
     "geom:longitude":3.715987,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Baliestraat 28",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520370,
-    "wof:geomhash":"fabc6e35d67934c2ff71e848f46d67ef",
+    "wof:geomhash":"6437f4034e52f8822544affd2de0426b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058337705,
-    "wof:lastmodified":1473722306,
+    "wof:lastmodified":1510943397,
     "wof:name":"Defrenne Serge",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041721059,
+        1041886375
+    ],
     "wof:tags":[]
 },
   "bbox": [

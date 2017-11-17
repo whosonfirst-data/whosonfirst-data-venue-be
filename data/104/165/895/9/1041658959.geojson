@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4688601494,50.4028930664,4.4688601494,50.4028930664",
     "geom:latitude":50.402893,
     "geom:longitude":4.46886,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Charleroi 132",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473477714,
-    "wof:geomhash":"9705434ef4cf3525853705b19385b48c",
+    "wof:geomhash":"6b2fb1d5cce96de51546191096d6ec58",
     "wof:hierarchy":[],
     "wof:id":1041658959,
-    "wof:lastmodified":1473722672,
+    "wof:lastmodified":1510943765,
     "wof:name":"l. Coiffure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058135507
+    ],
     "wof:tags":[
         "de",
         "coiffure"

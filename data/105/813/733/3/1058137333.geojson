@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue Ge\u0301Rard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3966879845,50.842754364,4.3966879845,50.842754364",
     "geom:latitude":50.842754,
     "geom:longitude":4.396688,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue G\u00e9rard 11",
     "sg:city":"Bruxelles (etterbeek)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473511330,
-    "wof:geomhash":"4ed223fbe63ad04996bf16af08ff61c2",
+    "wof:geomhash":"d2318372edadd2e6faf5ffcdf4378fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,18 @@
         }
     ],
     "wof:id":1058137333,
-    "wof:lastmodified":1473722108,
+    "wof:lastmodified":1510943815,
     "wof:name":"Centre Biosth\u00e9tique",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058748721,
+        1041916153
+    ],
+    "wof:supersedes":[
+        1058132599
+    ],
     "wof:tags":[
         "lady",
         "-",

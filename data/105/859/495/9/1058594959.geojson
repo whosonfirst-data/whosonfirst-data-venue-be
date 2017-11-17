@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5803799629,50.737159729,4.5803799629,50.737159729",
     "geom:latitude":50.73716,
     "geom:longitude":4.58038,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue V\u00e9sale 38",
     "sg:city":"Wavre",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473532396,
-    "wof:geomhash":"6faf4fbcbd83fc356341a591d8c61115",
+    "wof:geomhash":"d163cc0536d5622d5c9272a0b52ff937",
     "wof:hierarchy":[],
     "wof:id":1058594959,
-    "wof:lastmodified":1473721383,
+    "wof:lastmodified":1510942305,
     "wof:name":"Elcomat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041546747
+    ],
     "wof:tags":[
         "pneumatic",
         "automation"

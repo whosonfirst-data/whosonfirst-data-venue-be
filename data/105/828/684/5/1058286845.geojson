@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Du Calvaire",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5526380539,50.6385116577,5.5526380539,50.6385116577",
     "geom:latitude":50.638512,
     "geom:longitude":5.552638,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Calvaire 58",
     "sg:city":"Li\u00e8ge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473518000,
-    "wof:geomhash":"08f0ee7d954cef921ede0c35d772bd25",
+    "wof:geomhash":"90b4eede364d4fe9b7ce96e6454bfa9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058286845,
-    "wof:lastmodified":1473721946,
+    "wof:lastmodified":1510941253,
     "wof:name":"Ital Distribution S.a.",
     "wof:parent_id":85862023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058466279
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wine",

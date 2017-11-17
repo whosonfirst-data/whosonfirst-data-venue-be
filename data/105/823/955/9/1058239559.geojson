@@ -7,13 +7,16 @@
     "addr:postcode":"4050",
     "addr:street":"Rue Fond Des Cris",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6263427734,50.5865402222,5.6263427734,50.5865402222",
     "geom:latitude":50.58654,
     "geom:longitude":5.626343,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Fond Des Cris 16",
     "sg:city":"Chaudfontaine",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515967,
-    "wof:geomhash":"66042ed2ba6a6e2cfa91ba826c3bc94e",
+    "wof:geomhash":"870c0f290414a115ada91da8e052205e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,19 @@
         }
     ],
     "wof:id":1058239559,
-    "wof:lastmodified":1473722705,
+    "wof:lastmodified":1510943751,
     "wof:name":"Tenhaaf P. & Fils",
     "wof:parent_id":85801253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058828297,
+        1058319709,
+        1058971021
+    ],
+    "wof:supersedes":[
+        1058249851
+    ],
     "wof:tags":[]
 },
   "bbox": [

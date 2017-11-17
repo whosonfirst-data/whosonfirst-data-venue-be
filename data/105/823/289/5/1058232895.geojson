@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7036318779,50.8720626831,4.7036318779,50.8720626831",
     "geom:latitude":50.872063,
     "geom:longitude":4.703632,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30",
     "sg:city":"Hendrik Consciencestraat 3000 Leuven",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515651,
-    "wof:geomhash":"1e63b3a87cef4b9e39daebeef444c3a4",
+    "wof:geomhash":"ade62a35898c3e0526e700d3b3577024",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":1058232895,
-    "wof:lastmodified":1473720719,
+    "wof:lastmodified":1510941501,
     "wof:name":"Lansa Ltd- European Office",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042115941
+    ],
     "wof:tags":[
         "information",
         "technology",

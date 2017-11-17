@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4031558037,50.8092689514,4.4031558037,50.8092689514",
     "geom:latitude":50.809269,
     "geom:longitude":4.403156,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Eug\u00e8ne Keym 70",
     "sg:city":"Bruxelles (watermael-boitsfort)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488576,
-    "wof:geomhash":"a5b86c469e15f6aa9e269eb29a5beec9",
+    "wof:geomhash":"3496d919473ffd9988e6b3ed27d601a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041916175,
-    "wof:lastmodified":1473721834,
+    "wof:lastmodified":1510943940,
     "wof:name":"Centre De B\u00e9aut\u00e9 Venus",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041616419
+    ],
     "wof:tags":[]
 },
   "bbox": [

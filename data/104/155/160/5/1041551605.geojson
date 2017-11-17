@@ -7,13 +7,16 @@
     "addr:postcode":"6461",
     "addr:street":"Rue Forge Monseu",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3358068466,50.0529136658,4.3358068466,50.0529136658",
     "geom:latitude":50.052914,
     "geom:longitude":4.335807,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Forge Monseu 31",
     "sg:city":"Chimay (virelles)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473253,
-    "wof:geomhash":"0ebe33b684dacb3cae44cfdfd187350e",
+    "wof:geomhash":"fffe0e3bc4f609530befffba729d7096",
     "wof:hierarchy":[],
     "wof:id":1041551605,
-    "wof:lastmodified":1473720038,
+    "wof:lastmodified":1510944105,
     "wof:name":"D\u00e9co-ballons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041939071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "balloon"

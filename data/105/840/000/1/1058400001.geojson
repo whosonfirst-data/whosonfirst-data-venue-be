@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Victor Greyson",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3788180351,50.8222160339,4.3788180351,50.8222160339",
     "geom:latitude":50.822216,
     "geom:longitude":4.378818,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Victor Greyson 91",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523244,
-    "wof:geomhash":"9c47f43cd947531e012701c31da3aea9",
+    "wof:geomhash":"fd56ad3b71a80046ff2353306de004f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,21 @@
         }
     ],
     "wof:id":1058400001,
-    "wof:lastmodified":1473718868,
+    "wof:lastmodified":1510944020,
     "wof:name":"Michiels-ixelles Sa",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058831941,
+        1058604967
+    ],
+    "wof:supersedes":[
+        1041876083,
+        1042251801,
+        1041902873,
+        1058045833
+    ],
     "wof:tags":[
         "trophy",
         "medal"

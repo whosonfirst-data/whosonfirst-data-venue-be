@@ -7,13 +7,16 @@
     "addr:postcode":"3550",
     "addr:street":"Terlaemen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2722058296,51.0092391968,5.2722058296,51.0092391968",
     "geom:latitude":51.009239,
     "geom:longitude":5.272206,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Terlaemen 30",
     "sg:city":"Heusden-zolder (zolder)",
     "sg:classifiers":[
@@ -39,16 +42,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473519321,
-    "wof:geomhash":"3db299e2b8cc134cb3cdfb024bcfbcfc",
+    "wof:geomhash":"60208c6cfcc3d84b0154e070232d15d6",
     "wof:hierarchy":[],
     "wof:id":1058316423,
-    "wof:lastmodified":1473721906,
+    "wof:lastmodified":1510943855,
     "wof:name":"Circuit Zolder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058809277,
+        1058826479
+    ],
+    "wof:supersedes":[
+        1058259355,
+        1042078237,
+        1058019925,
+        1041848249
+    ],
     "wof:tags":[
         "karting",
         "accessory"

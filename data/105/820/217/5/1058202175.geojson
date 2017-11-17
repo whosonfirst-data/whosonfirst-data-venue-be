@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Basse-Wez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5881638527,50.6325073242,5.5881638527,50.6325073242",
     "geom:latitude":50.632507,
     "geom:longitude":5.588164,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Basse-wez 301",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514292,
-    "wof:geomhash":"50dd72d6e4158735437c1265a1738c64",
+    "wof:geomhash":"d31be84ebab3e4b38ddd9c5e93fe9d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1058202175,
-    "wof:lastmodified":1473720288,
+    "wof:lastmodified":1510943085,
     "wof:name":"Valdor (clinique Le)",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058662703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

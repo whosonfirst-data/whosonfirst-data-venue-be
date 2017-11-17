@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue Des Chalets",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3811321259,50.7855300903,4.3811321259,50.7855300903",
     "geom:latitude":50.78553,
     "geom:longitude":4.381132,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Des Chalets 41",
     "sg:city":"Uccle",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478593,
-    "wof:geomhash":"005a0085489877c682e415c0a214600b",
+    "wof:geomhash":"887c6b09e3bb3e265c1581cc0d96ab0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041681869,
-    "wof:lastmodified":1473720132,
+    "wof:lastmodified":1510942900,
     "wof:name":"Finances Et Industries Sa",
     "wof:parent_id":85800947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041896427
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

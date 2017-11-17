@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3650622368,50.8096733093,4.3650622368,50.8096733093",
     "geom:latitude":50.809673,
     "geom:longitude":4.365062,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av. De La Floride 7",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494563,
-    "wof:geomhash":"fa49e8b23a63bf65a5a9a704215780fa",
+    "wof:geomhash":"d6721e20de1f41a82df288b8ee40975d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042057297,
-    "wof:lastmodified":1473722061,
+    "wof:lastmodified":1510942439,
     "wof:name":"Icp Sprl",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041643759
+    ],
     "wof:tags":[
         "chemical",
         "pharmaceutical",

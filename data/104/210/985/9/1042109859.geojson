@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Avenue Baron De Moreau",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8634738922,50.4573020935,4.8634738922,50.4573020935",
     "geom:latitude":50.457302,
     "geom:longitude":4.863474,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Baron De Moreau 1",
     "sg:city":"Namur",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473496841,
-    "wof:geomhash":"1093a0b78cc381036bd95892ac9ad894",
+    "wof:geomhash":"8f6520dd1f18ef9f7baee9f4fa209b87",
     "wof:hierarchy":[],
     "wof:id":1042109859,
-    "wof:lastmodified":1473722787,
+    "wof:lastmodified":1510943605,
     "wof:name":"Casino Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042152033
+    ],
+    "wof:supersedes":[
+        1042110111
+    ],
     "wof:tags":[]
 },
   "bbox": [

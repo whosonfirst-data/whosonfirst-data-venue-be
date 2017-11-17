@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4561347961,50.6350669861,5.4561347961,50.6350669861",
     "geom:latitude":50.635067,
     "geom:longitude":5.456135,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Di\u00e9rain Patar 49",
     "sg:city":"Gr\u00e2ce-hollogne (hollogne-aux-pierres)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479301,
-    "wof:geomhash":"eda774fa26b3dee88ee049b14c5efedd",
+    "wof:geomhash":"e1cc8d7e28c0724c83485023e438f983",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1041700399,
-    "wof:lastmodified":1473719441,
+    "wof:lastmodified":1510941676,
     "wof:name":"Cr\u00e9ation Clair Obscur",
     "wof:parent_id":85801837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041592129
+    ],
     "wof:tags":[
         "photography"
     ]

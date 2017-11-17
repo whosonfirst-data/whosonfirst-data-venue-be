@@ -7,13 +7,16 @@
     "addr:postcode":"1731",
     "addr:street":"Brusselsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.281332016,50.8784675598,4.281332016,50.8784675598",
     "geom:latitude":50.878468,
     "geom:longitude":4.281332,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brusselsesteenweg 605",
     "sg:city":"Asse",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522946,
-    "wof:geomhash":"97c89cb23ff040447152801fb1a3e2f1",
+    "wof:geomhash":"ba31edf487451869ac7b28fd14f11e91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058393641,
-    "wof:lastmodified":1473720981,
+    "wof:lastmodified":1510943594,
     "wof:name":"De Smet Paul Garage",
     "wof:parent_id":85801195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058864147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

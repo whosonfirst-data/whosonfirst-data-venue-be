@@ -7,13 +7,16 @@
     "addr:postcode":"7040",
     "addr:street":"Rue De Bavay",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9131720066,50.3935127258,3.9131720066,50.3935127258",
     "geom:latitude":50.393513,
     "geom:longitude":3.913172,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Bavay 46",
     "sg:city":"Genly",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473518394,
-    "wof:geomhash":"44128d4035a600f50a6c35c88e7cfde4",
+    "wof:geomhash":"e7e3543379d81ae7b011281d327f993a",
     "wof:hierarchy":[],
     "wof:id":1058295763,
-    "wof:lastmodified":1473721639,
+    "wof:lastmodified":1510943340,
     "wof:name":"Menuiserie Godart S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058970589
+    ],
+    "wof:supersedes":[
+        1042175541,
+        1042037543,
+        1042174841
+    ],
     "wof:tags":[]
 },
   "bbox": [

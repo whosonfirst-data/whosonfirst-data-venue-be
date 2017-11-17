@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2453279495,50.8573074341,3.2453279495,50.8573074341",
     "geom:latitude":50.857307,
     "geom:longitude":3.245328,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Industrieln. 1",
     "sg:city":"Heule",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473510103,
-    "wof:geomhash":"2b5d5e49ed1986f8cbb77acdb0d5466d",
+    "wof:geomhash":"e9ebe11202035e523119ad87a803dc32",
     "wof:hierarchy":[],
     "wof:id":1058112389,
-    "wof:lastmodified":1473720382,
+    "wof:lastmodified":1510943671,
     "wof:name":"Mirodan Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058112163
+    ],
     "wof:tags":[
         "building",
         "material"

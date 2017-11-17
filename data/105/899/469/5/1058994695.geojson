@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.722589016,51.0607261658,3.722589016,51.0607261658",
     "geom:latitude":51.060726,
     "geom:longitude":3.722589,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Tichelrei 1",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473550309,
-    "wof:geomhash":"7c8cdce9ff470efc2d9c847bcd91ee76",
+    "wof:geomhash":"d9a36db124b8d97c55049a3d3de29398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,18 @@
         }
     ],
     "wof:id":1058994695,
-    "wof:lastmodified":1473721346,
+    "wof:lastmodified":1510941477,
     "wof:name":"Az Volkskliniek",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041824237,
+        1058201783,
+        1042068409,
+        1058452521
+    ],
     "wof:tags":[]
 },
   "bbox": [

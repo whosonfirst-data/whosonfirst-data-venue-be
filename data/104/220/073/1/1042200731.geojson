@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Gaucet",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5814290047,50.6245231628,5.5814290047,50.6245231628",
     "geom:latitude":50.624523,
     "geom:longitude":5.581429,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Gaucet 26",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501988,
-    "wof:geomhash":"8314fbcb7254633bccd5f7f5ee086878",
+    "wof:geomhash":"a68f610d1c4ff8ddb55a86a7ee66f305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,15 @@
         }
     ],
     "wof:id":1042200731,
-    "wof:lastmodified":1473719553,
+    "wof:lastmodified":1510943320,
     "wof:name":"Aeg",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058727019,
+        1058182303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

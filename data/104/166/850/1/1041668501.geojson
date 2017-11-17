@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue De La Sablonnie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.366519928,50.8516807556,4.366519928,50.8516807556",
     "geom:latitude":50.851681,
     "geom:longitude":4.36652,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Sablonni\u00c8re 25",
     "sg:city":"Bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478084,
-    "wof:geomhash":"ae1461ca34c30da665a790569c307e8c",
+    "wof:geomhash":"3b84303eee76c076fccb30bd284f2672",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041668501,
-    "wof:lastmodified":1473722570,
+    "wof:lastmodified":1510943903,
     "wof:name":"Union Nationale Des Syndicats Ind\u00c9pendants",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058619747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

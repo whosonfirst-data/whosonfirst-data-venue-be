@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Groendreef;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7037220001,51.061252594,3.7037220001,51.061252594",
     "geom:latitude":51.061253,
     "geom:longitude":3.703722,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Groendreef 34",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526263,
-    "wof:geomhash":"aa5aee1a23fb87eb23406ccfac12e83f",
+    "wof:geomhash":"f2de40a0ee598a54ae67648df106c7d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1058461217,
-    "wof:lastmodified":1473719839,
+    "wof:lastmodified":1510944120,
     "wof:name":"Coppens & Zn",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058730179
+    ],
+    "wof:supersedes":[
+        1042175271,
+        1058112829
+    ],
     "wof:tags":[]
 },
   "bbox": [

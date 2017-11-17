@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.532201767,50.6647911072,5.532201767,50.6647911072",
     "geom:latitude":50.664791,
     "geom:longitude":5.532202,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue D'oth\u00e9e 73",
     "sg:city":"Ans",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473549202,
-    "wof:geomhash":"081a1f080e9e2bfdd32fff51ba689362",
+    "wof:geomhash":"773ebc5ee9ddf360539a50e0444aa0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,18 @@
         }
     ],
     "wof:id":1058969741,
-    "wof:lastmodified":1473722733,
+    "wof:lastmodified":1510941429,
     "wof:name":"Collignon & Fils",
     "wof:parent_id":85801177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042035241,
+        1058041517,
+        1058042105,
+        1058268131
+    ],
     "wof:tags":[
         "window"
     ]

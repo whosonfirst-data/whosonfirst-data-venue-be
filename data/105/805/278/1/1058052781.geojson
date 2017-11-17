@@ -7,13 +7,16 @@
     "addr:postcode":"2160",
     "addr:street":"Gulkenrodestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5062041283,51.1935081482,4.5062041283,51.1935081482",
     "geom:latitude":51.193508,
     "geom:longitude":4.506204,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gulkenrodestraat 3",
     "sg:city":"Wommelgem",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507614,
-    "wof:geomhash":"581cbc5bf420aa45726f19c5ce896fb4",
+    "wof:geomhash":"9cc8244f9bb661dd4d5884c9834e7ff1",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1058052781,
-    "wof:lastmodified":1473720740,
+    "wof:lastmodified":1510941541,
     "wof:name":"Resitec Nv",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058832035
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial",

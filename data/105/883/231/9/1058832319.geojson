@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3929448128,51.2055778503,4.3929448128,51.2055778503",
     "geom:latitude":51.205578,
     "geom:longitude":4.392945,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Amerikalei 169-171",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473542954,
-    "wof:geomhash":"0aa5436c93cfa147bd4e4070dbbd71be",
+    "wof:geomhash":"85a92c89174f344af0d8f00200c31d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058832319,
-    "wof:lastmodified":1473720419,
+    "wof:lastmodified":1510942230,
     "wof:name":"Allshop Bvba",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041576001
+    ],
     "wof:tags":[
         "fixture",
         "store"

@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Chausse\u0301E De Wavre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3903408051,50.8303794861,4.3903408051,50.8303794861",
     "geom:latitude":50.830379,
     "geom:longitude":4.390341,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Wavre 724",
     "sg:city":"Etterbeek/etterbeek",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474104,
-    "wof:geomhash":"f18677e228e8c8589f98451b0581fbb3",
+    "wof:geomhash":"80989e5d8bd8d933c3bd148045630ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041571615,
-    "wof:lastmodified":1473720033,
+    "wof:lastmodified":1510942539,
     "wof:name":"Agence Maurice No\u00cbl",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058040289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue De La Pastorale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3015971184,50.8484382629,4.3015971184,50.8484382629",
     "geom:latitude":50.848438,
     "geom:longitude":4.301597,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Pastorale 59",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515660,
-    "wof:geomhash":"de2fb87651f2fdbc92085a2dc38424a2",
+    "wof:geomhash":"59536253792a8557c408d4e63a6bdb00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,24 @@
         }
     ],
     "wof:id":1058233143,
-    "wof:lastmodified":1473720851,
+    "wof:lastmodified":1510943254,
     "wof:name":"Devos C Bvba",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058496803,
+        1058969995,
+        1058776741,
+        1058797309,
+        1058918105
+    ],
+    "wof:supersedes":[
+        1042174693,
+        1058042127,
+        1042175863,
+        1042175919
+    ],
     "wof:tags":[
         "insect",
         "screen"

@@ -7,13 +7,16 @@
     "addr:postcode":"1082",
     "addr:street":"Avenue Charles Quint",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3092451096,50.8691329956,4.3092451096,50.8691329956",
     "geom:latitude":50.869133,
     "geom:longitude":4.309245,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Charles Quint 147",
     "sg:city":"Bruxelles (berchem-sainte-agathe)",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474161,
-    "wof:geomhash":"5f646a648c8f9d55371bc2ffeea5f419",
+    "wof:geomhash":"b21f28111f67016c21cbd69ff81b7c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":1041572909,
-    "wof:lastmodified":1473720716,
+    "wof:lastmodified":1510944150,
     "wof:name":"Fast Byte System",
     "wof:parent_id":85801163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058492625
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

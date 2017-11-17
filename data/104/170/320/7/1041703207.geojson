@@ -7,13 +7,16 @@
     "addr:postcode":"1932",
     "addr:street":"Woluwedal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4497799873,50.8589706421,4.4497799873,50.8589706421",
     "geom:latitude":50.858971,
     "geom:longitude":4.44978,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Woluwedal 20",
     "sg:city":"Zaventem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479411,
-    "wof:geomhash":"ec8189ae10db92fe24fa188e6821767f",
+    "wof:geomhash":"db58f4f1e39eebabf668cc78d45b5a93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703207,
-    "wof:lastmodified":1473720827,
+    "wof:lastmodified":1510942973,
     "wof:name":"Bart Lieben",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4189400673,51.2153816223,4.4189400673,51.2153816223",
     "geom:latitude":51.215382,
     "geom:longitude":4.41894,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoveniersstraat 19",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533370,
-    "wof:geomhash":"10d3b98570c7f3d7245c8b91eda37fec",
+    "wof:geomhash":"5817c89f274cc3b5fd9db0ba05702c92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058615313,
-    "wof:lastmodified":1473721569,
+    "wof:lastmodified":1510943424,
     "wof:name":"Carlo Schreiber",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042162259
+    ],
     "wof:tags":[]
 },
   "bbox": [

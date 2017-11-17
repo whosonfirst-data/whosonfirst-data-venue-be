@@ -7,13 +7,16 @@
     "addr:postcode":"3191",
     "addr:street":"Leuvense Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5394611359,50.9896774292,4.5394611359,50.9896774292",
     "geom:latitude":50.989677,
     "geom:longitude":4.539461,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leuvense Steenweg 64",
     "sg:city":"Boortmeerbeek (hever)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473544188,
-    "wof:geomhash":"3c77f575b677d5c139fdbd48ec413732",
+    "wof:geomhash":"f58d920b84c8d7b884fa7a41648d3daa",
     "wof:hierarchy":[],
     "wof:id":1058860713,
-    "wof:lastmodified":1473719559,
+    "wof:lastmodified":1510942049,
     "wof:name":"O Kee Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058861561
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"

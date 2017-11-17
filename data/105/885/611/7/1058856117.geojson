@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2353200912,50.2372131348,4.2353200912,50.2372131348",
     "geom:latitude":50.237213,
     "geom:longitude":4.23532,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"All\u00e9e Des Tilleuls 1",
     "sg:city":"Beaumont (barben\u00e7on)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473543983,
-    "wof:geomhash":"2ada9d9313cc2214b5a9d2bb81defc17",
+    "wof:geomhash":"2f581f7b6ee473e7efb1e0fb8d9cfbf1",
     "wof:hierarchy":[],
     "wof:id":1058856117,
-    "wof:lastmodified":1473721729,
+    "wof:lastmodified":1510943726,
     "wof:name":"Le Lac De Barben\u00e7on",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041564541
+    ],
     "wof:tags":[
         "tavern"
     ]

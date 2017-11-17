@@ -7,13 +7,16 @@
     "addr:postcode":"4141",
     "addr:street":"Rue Du Pe\u0301Rre\u0301On",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7104492188,50.5313072205,5.7104492188,50.5313072205",
     "geom:latitude":50.531307,
     "geom:longitude":5.710449,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du P\u00e9rr\u00e9on 27",
     "sg:city":"Sprimont (louveign\u00e9)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473475104,
-    "wof:geomhash":"4481922e978edb4c7b5c75b0925877eb",
+    "wof:geomhash":"1c84bb625c56dae2522320c5de5983be",
     "wof:hierarchy":[],
     "wof:id":1041595447,
-    "wof:lastmodified":1473721527,
+    "wof:lastmodified":1510943795,
     "wof:name":"Ep Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058192439
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"

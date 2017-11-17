@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Vestingstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4201111794,51.2154541016,4.4201111794,51.2154541016",
     "geom:latitude":51.215454,
     "geom:longitude":4.420111,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vestingstraat 74",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473498658,
-    "wof:geomhash":"c3e592c1a2cef8b96563eb1d3027b75f",
+    "wof:geomhash":"cdb996bd1a231c62598a4764fce9cd1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042143277,
-    "wof:lastmodified":1473720824,
+    "wof:lastmodified":1510943382,
     "wof:name":"Trau Bros Nv",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042143701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "diamond",

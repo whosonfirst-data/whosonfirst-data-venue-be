@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Chausse\u0301E De Roodebeek",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4285187721,50.8485069275,4.4285187721,50.8485069275",
     "geom:latitude":50.848507,
     "geom:longitude":4.428519,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Roodebeek 206",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527119,
-    "wof:geomhash":"936926a4d88c4e781ff23b0fd2845e27",
+    "wof:geomhash":"d13f114848eb326cbab9d07975918e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,19 @@
         }
     ],
     "wof:id":1058479513,
-    "wof:lastmodified":1473722757,
+    "wof:lastmodified":1510944147,
     "wof:name":"Babylone",
     "wof:parent_id":85801825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058785345,
+        1058730311
+    ],
+    "wof:supersedes":[
+        1058019803,
+        1041697689
+    ],
     "wof:tags":[
         "firm"
     ]

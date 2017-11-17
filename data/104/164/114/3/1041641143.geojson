@@ -7,13 +7,16 @@
     "addr:postcode":"1410",
     "addr:street":"Clos Du Renard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3879241943,50.7305793762,4.3879241943,50.7305793762",
     "geom:latitude":50.730579,
     "geom:longitude":4.387924,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Clos Du Renard 13",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476965,
-    "wof:geomhash":"0d523c44585c2e8ea3708bbcd1de57a3",
+    "wof:geomhash":"d95e7b9a4df7f0eb7d49cab0dfe4fd43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041641143,
-    "wof:lastmodified":1473719780,
+    "wof:lastmodified":1510943080,
     "wof:name":"Decorum",
     "wof:parent_id":85800903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058181557
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "painting",

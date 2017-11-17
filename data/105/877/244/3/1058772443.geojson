@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330324173,50.8426933289,4.330324173,50.8426933289",
     "geom:latitude":50.842693,
     "geom:longitude":4.330324,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Ropsy Chaudron 9",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540356,
-    "wof:geomhash":"f96052fbab2b282f54e5182348cb6147",
+    "wof:geomhash":"b294071892309eb80180bbd1d60d50ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058772443,
-    "wof:lastmodified":1473720452,
+    "wof:lastmodified":1510943455,
     "wof:name":"Paulus Stuart Sprl",
     "wof:parent_id":85800757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058059497
+    ],
     "wof:tags":[
         "sharpening"
     ]

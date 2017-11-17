@@ -7,13 +7,16 @@
     "addr:postcode":"1090",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3361620903,50.8760643005,4.3361620903,50.8760643005",
     "geom:latitude":50.876064,
     "geom:longitude":4.336162,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R. Esseghem 110",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505479,
-    "wof:geomhash":"9c34369b2e942746c56133f6cb558a69",
+    "wof:geomhash":"271f14bc831865e35113578ed6949e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":1042275733,
-    "wof:lastmodified":1473721633,
+    "wof:lastmodified":1510942856,
     "wof:name":"Auxi Eaux Sa",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058458607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

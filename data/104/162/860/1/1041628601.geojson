@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Avenue Molie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3469891548,50.8163528442,4.3469891548,50.8163528442",
     "geom:latitude":50.816353,
     "geom:longitude":4.346989,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Moli\u00e8re 139",
     "sg:city":"Bruxelles (forest)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476464,
-    "wof:geomhash":"077bad17a95345b37b87dfc7df04f28f",
+    "wof:geomhash":"1525cd672cd2439eb391608a874bb2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":1041628601,
-    "wof:lastmodified":1473722437,
+    "wof:lastmodified":1510943739,
     "wof:name":"Pr\u00e9sident International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042157767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"

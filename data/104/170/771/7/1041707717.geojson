@@ -7,13 +7,16 @@
     "addr:postcode":"1731",
     "addr:street":"Noorderlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2799057961,50.8827667236,4.2799057961,50.8827667236",
     "geom:latitude":50.882767,
     "geom:longitude":4.279906,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Noorderlaan 30",
     "sg:city":"Asse",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479583,
-    "wof:geomhash":"ab1b1748749edd8be8855142611e9ccb",
+    "wof:geomhash":"86e5ddd2b6bd751e8e76b0d745ae6d4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041707717,
-    "wof:lastmodified":1473722256,
+    "wof:lastmodified":1510943576,
     "wof:name":"Frank Hardtke",
     "wof:parent_id":85801195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041859205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

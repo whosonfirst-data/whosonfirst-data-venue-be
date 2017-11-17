@@ -7,13 +7,16 @@
     "addr:postcode":"3200",
     "addr:street":"Langdorpsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8478198051,50.9935379028,4.8478198051,50.9935379028",
     "geom:latitude":50.993538,
     "geom:longitude":4.84782,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Langdorpsesteenweg 129",
     "sg:city":"Aarschot",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473481353,
-    "wof:geomhash":"62aae593f29769fcc3400fcbd3a257a1",
+    "wof:geomhash":"600b4a1ba6da12caeece9f02c2cdea4c",
     "wof:hierarchy":[],
     "wof:id":1041749579,
-    "wof:lastmodified":1473722825,
+    "wof:lastmodified":1510942784,
     "wof:name":"Ziekenwagen Aarschot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058995039
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"

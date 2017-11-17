@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3509712219,50.8645248413,4.3509712219,50.8645248413",
     "geom:latitude":50.864525,
     "geom:longitude":4.350971,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Quai Des Mat\u00e9riaux 13",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473548930,
-    "wof:geomhash":"17a4ea134c8016ed9ab8ec61439c0553",
+    "wof:geomhash":"1cd452f1c65d3041bfbe4bdb036c3350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":1058963389,
-    "wof:lastmodified":1473720781,
+    "wof:lastmodified":1510943979,
     "wof:name":"Gemat Nv-sa",
     "wof:parent_id":85801801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042171639,
+        1058963461,
+        1041786283
+    ],
     "wof:tags":[
         "paper",
         "waste"

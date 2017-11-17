@@ -7,13 +7,16 @@
     "addr:postcode":"7000",
     "addr:street":"Rue Des Archers;Hainaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9577760696,50.4524497986,3.9577760696,50.4524497986",
     "geom:latitude":50.45245,
     "geom:longitude":3.957776,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Archers 4",
     "sg:city":"Mons",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473517417,
-    "wof:geomhash":"ebd9af1d95bab50b8bfbaba232d50e57",
+    "wof:geomhash":"acb7ebe1b857a85fad1091cd84a4eb9c",
     "wof:hierarchy":[],
     "wof:id":1058273635,
-    "wof:lastmodified":1473720997,
+    "wof:lastmodified":1510944019,
     "wof:name":"Mons-assur Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058285863
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"

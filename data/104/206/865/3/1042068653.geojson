@@ -7,13 +7,16 @@
     "addr:postcode":"1480",
     "addr:street":"Avenue Landas",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1719450951,50.7104911804,4.1719450951,50.7104911804",
     "geom:latitude":50.710491,
     "geom:longitude":4.171945,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Landas 21",
     "sg:city":"Tubize (saintes)",
     "sg:classifiers":[
@@ -39,16 +42,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473495021,
-    "wof:geomhash":"6a2188dba522a12bbf8d634ab63e17cc",
+    "wof:geomhash":"d7b204cc9bd51107db5ab6ca0eb872ee",
     "wof:hierarchy":[],
     "wof:id":1042068653,
-    "wof:lastmodified":1473722557,
+    "wof:lastmodified":1510942908,
     "wof:name":"Ets Poisson Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058729443,
+        1058832407,
+        1058991833
+    ],
+    "wof:supersedes":[
+        1058152161
+    ],
     "wof:tags":[
         "cloakroom",
         "installation",

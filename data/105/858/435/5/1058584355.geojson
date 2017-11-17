@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Chemin De Plomcot",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8889231682,50.4678153992,4.8889231682,50.4678153992",
     "geom:latitude":50.467815,
     "geom:longitude":4.888923,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De Plomcot 10",
     "sg:city":"Namur",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473531953,
-    "wof:geomhash":"47b44674380d51205a055930b26d1b63",
+    "wof:geomhash":"a2e1b24c92b3b732ffe954c2c648dac2",
     "wof:hierarchy":[],
     "wof:id":1058584355,
-    "wof:lastmodified":1473721274,
+    "wof:lastmodified":1510943701,
     "wof:name":"Carlier Bois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058877889
+    ],
+    "wof:supersedes":[
+        1058268219,
+        1058524653,
+        1042175229
+    ],
     "wof:tags":[
         "plate",
         "-",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.5295219421,51.1975975037,3.5295219421,51.1975975037",
     "geom:latitude":51.197598,
     "geom:longitude":3.529522,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kunstdal 8",
     "sg:city":"Eeklo",
     "sg:classifiers":[
@@ -38,16 +40,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473549210,
-    "wof:geomhash":"db5becb596a03832e4d5fd6b553d3a33",
+    "wof:geomhash":"787c826e647d23b301ed9cdac76f36d4",
     "wof:hierarchy":[],
     "wof:id":1058969965,
-    "wof:lastmodified":1473722798,
+    "wof:lastmodified":1510941764,
     "wof:name":"Depa Ramen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041748207,
+        1042104605,
+        1058762427,
+        1042052475,
+        1041748429
+    ],
     "wof:tags":[
         "window"
     ]

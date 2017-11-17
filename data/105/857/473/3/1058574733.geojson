@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue Gray",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.380710125,50.835735321,4.380710125,50.835735321",
     "geom:latitude":50.835735,
     "geom:longitude":4.38071,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Gray 10",
     "sg:city":"Bruxelles (etterbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473531518,
-    "wof:geomhash":"18906af968fab1eee9dcb66835200b02",
+    "wof:geomhash":"384ec61612b288086a98aa948326d426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1058574733,
-    "wof:lastmodified":1473721354,
+    "wof:lastmodified":1510943902,
     "wof:name":"Artiges C & Fils",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058575197
+    ],
+    "wof:supersedes":[
+        1058087939
+    ],
     "wof:tags":[
         "picture",
         "framer"

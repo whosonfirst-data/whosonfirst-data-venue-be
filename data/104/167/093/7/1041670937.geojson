@@ -7,13 +7,16 @@
     "addr:postcode":"7780",
     "addr:street":"Avenue Des Cha\u0302Teaux",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.998914957,50.7775382996,2.998914957,50.7775382996",
     "geom:latitude":50.777538,
     "geom:longitude":2.998915,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Des Ch\u00e2teaux 119",
     "sg:city":"Comines-warneton (comines)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473478186,
-    "wof:geomhash":"53671c7458a183349784316fa816f595",
+    "wof:geomhash":"3fb3f696bbbf40abe887cf0f3a7603b0",
     "wof:hierarchy":[],
     "wof:id":1041670937,
-    "wof:lastmodified":1473718934,
+    "wof:lastmodified":1510943429,
     "wof:name":"Socomaille Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058419097
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "finishing"

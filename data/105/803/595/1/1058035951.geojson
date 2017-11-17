@@ -7,13 +7,16 @@
     "addr:postcode":"5030",
     "addr:street":"Chausse\u0301E De Tirlemont;Namur",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7115259171,50.5830078125,4.7115259171,50.5830078125",
     "geom:latitude":50.583008,
     "geom:longitude":4.711526,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Tirlemont 110",
     "sg:city":"Gembloux-sur-orneau (gembloux)",
     "sg:classifiers":[
@@ -38,16 +41,29 @@
     },
     "wof:country":"BE",
     "wof:created":1473506933,
-    "wof:geomhash":"1ce9fcc0973fee6d016392056dacbd3e",
+    "wof:geomhash":"dfd1a318103e748e0ba59b89c3c9107e",
     "wof:hierarchy":[],
     "wof:id":1058035951,
-    "wof:lastmodified":1473721730,
+    "wof:lastmodified":1510943988,
     "wof:name":"Somagri Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058332757,
+        1058097329,
+        1058762985,
+        1058471939,
+        1058418497,
+        1058879515,
+        1058096397,
+        1058879809
+    ],
+    "wof:supersedes":[
+        1058152721,
+        1042048433,
+        1058085353
+    ],
     "wof:tags":[
         "fence"
     ]

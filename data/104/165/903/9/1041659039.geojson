@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3560109138,50.830821991,4.3560109138,50.830821991",
     "geom:latitude":50.830822,
     "geom:longitude":4.356011,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Charleroi 77",
     "sg:city":"Sint-gillis/saint-gilles",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477718,
-    "wof:geomhash":"ae0f62ab65375e944a9bf392d764331b",
+    "wof:geomhash":"6c0f51a4d862d105989f353d912a6b61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1041659039,
-    "wof:lastmodified":1473722726,
+    "wof:lastmodified":1510944180,
     "wof:name":"Celini C.n.",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041600947
+    ],
     "wof:tags":[
         "de",
         "coiffure"

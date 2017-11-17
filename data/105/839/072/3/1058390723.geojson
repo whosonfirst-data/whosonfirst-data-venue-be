@@ -7,13 +7,16 @@
     "addr:postcode":"6800",
     "addr:street":"Devant Le Spinet;Libramont-Chevigny Saint-Pierre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3761348724,49.9199943542,5.3761348724,49.9199943542",
     "geom:latitude":49.919994,
     "geom:longitude":5.376135,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Devant Le Spinet 62",
     "sg:city":"Libramont-chevigny (saint-pierre)",
     "sg:classifiers":[
@@ -39,16 +42,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473522811,
-    "wof:geomhash":"148ab5c80b0a58e317c24620cb42869c",
+    "wof:geomhash":"8f688d72481d059e0084b59aa32f0afe",
     "wof:hierarchy":[],
     "wof:id":1058390723,
-    "wof:lastmodified":1473719738,
+    "wof:lastmodified":1510942503,
     "wof:name":"Goedert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881043
+    ],
+    "wof:supersedes":[
+        1058060643
+    ],
     "wof:tags":[
         "machine",
         "handling"

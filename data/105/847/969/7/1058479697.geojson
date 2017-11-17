@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4020428658,51.2151298523,4.4020428658,51.2151298523",
     "geom:latitude":51.21513,
     "geom:longitude":4.402043,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bredestraat 4",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527130,
-    "wof:geomhash":"ba314c0c83418753df30626c790f0f03",
+    "wof:geomhash":"7737dea0e62a3bd9f8ca134433158571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":1058479697,
-    "wof:lastmodified":1473722845,
+    "wof:lastmodified":1510942926,
     "wof:name":"Lectra Bvba",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058082493,
+        1041698559
+    ],
     "wof:tags":[
         "firm"
     ]

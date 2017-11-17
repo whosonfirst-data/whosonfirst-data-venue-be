@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2241148949,51.2064094543,3.2241148949,51.2064094543",
     "geom:latitude":51.206409,
     "geom:longitude":3.224115,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oude Burg 27",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473541184,
-    "wof:geomhash":"bf230110712af8a37803fc17ab024335",
+    "wof:geomhash":"b5e8e1bcbd55f6e7e72226324161f448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058792155,
-    "wof:lastmodified":1473720365,
+    "wof:lastmodified":1510941472,
     "wof:name":"Hof Van Watervliet",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058730823,
+        1058703977
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4073691368,51.2066688538,4.4073691368,51.2066688538",
     "geom:latitude":51.206669,
     "geom:longitude":4.407369,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Molenstraat 52",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486583,
-    "wof:geomhash":"ca74a3a7bd5fb664fa2a6ff5b34565eb",
+    "wof:geomhash":"923004ece7a052f9bbe42b3c4f0a07ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041868451,
-    "wof:lastmodified":1473722456,
+    "wof:lastmodified":1510942080,
     "wof:name":"Peggy Coppieters",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041716675
+    ],
     "wof:tags":[]
 },
   "bbox": [

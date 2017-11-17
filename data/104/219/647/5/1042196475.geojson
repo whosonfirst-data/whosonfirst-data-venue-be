@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue Joseph Hazard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3665671349,50.8136672974,4.3665671349,50.8136672974",
     "geom:latitude":50.813667,
     "geom:longitude":4.366567,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Joseph Hazard 34",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501691,
-    "wof:geomhash":"a209362c1a8182246e64a8d572189664",
+    "wof:geomhash":"f799f8639cef2fbfa550d4e61bd7f84e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1042196475,
-    "wof:lastmodified":1473721779,
+    "wof:lastmodified":1510943809,
     "wof:name":"Isti A.s.b.l. Asbl",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058330791
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "higher"

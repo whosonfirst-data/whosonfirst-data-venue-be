@@ -7,13 +7,16 @@
     "addr:postcode":"4342",
     "addr:street":"Rue Chaussee",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4641771317,50.6824493408,5.4641771317,50.6824493408",
     "geom:latitude":50.682449,
     "geom:longitude":5.464177,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Chaussee 29",
     "sg:city":"Hognoul",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476833,
-    "wof:geomhash":"95778c4eaf0b3988e61b9e5ae5dfb22e",
+    "wof:geomhash":"5c059fb45624a5a1c4cb54f4667c0efe",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1041637791,
-    "wof:lastmodified":1473722334,
+    "wof:lastmodified":1510941535,
     "wof:name":"Buroda S.a.",
     "wof:parent_id":85801985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058087257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"

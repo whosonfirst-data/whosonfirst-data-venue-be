@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue De La Concorde",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3599271774,50.8323020935,4.3599271774,50.8323020935",
     "geom:latitude":50.832302,
     "geom:longitude":4.359927,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Concorde 62",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517775,
-    "wof:geomhash":"9e6fbae45ab926902cc18f5bc60b5543",
+    "wof:geomhash":"67e0e64e0fc687427fd00ed0aa3c244f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,18 @@
         }
     ],
     "wof:id":1058281859,
-    "wof:lastmodified":1473720157,
+    "wof:lastmodified":1510942561,
     "wof:name":"Verhoustraeten Axel & Co",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058412803
+    ],
+    "wof:supersedes":[
+        1041939303,
+        1042186375
+    ],
     "wof:tags":[
         "interior",
         "designer"

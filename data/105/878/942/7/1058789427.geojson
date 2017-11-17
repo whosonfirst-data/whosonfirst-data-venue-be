@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3263158798,50.8983192444,4.3263158798,50.8983192444",
     "geom:latitude":50.898319,
     "geom:longitude":4.326316,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Houba De Strooper 789 Box 15",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473541064,
-    "wof:geomhash":"7dfe4571decd33607e82d6bb5d3ee369",
+    "wof:geomhash":"e7cec654ae7cfb2b6a6c2f1938eaa3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":1058789427,
-    "wof:lastmodified":1473722864,
+    "wof:lastmodified":1510943811,
     "wof:name":"Cobru Bvba",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041642735
+    ],
     "wof:tags":[
         "consultant",
         "-",

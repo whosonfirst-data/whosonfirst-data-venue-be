@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Frankrijklei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4113101959,51.2132072449,4.4113101959,51.2132072449",
     "geom:latitude":51.213207,
     "geom:longitude":4.41131,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frankrijklei 93",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479643,
-    "wof:geomhash":"b8fc860f58698a75c3ed8bed9f0a3a9d",
+    "wof:geomhash":"6d1137f66bb665f4aef071dd7c7be586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041709111,
-    "wof:lastmodified":1473722676,
+    "wof:lastmodified":1510941689,
     "wof:name":"Helena Jackers",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041860605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

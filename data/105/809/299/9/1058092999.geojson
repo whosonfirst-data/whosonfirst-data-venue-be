@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2871038914,50.8395805359,3.2871038914,50.8395805359",
     "geom:latitude":50.839581,
     "geom:longitude":3.287104,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kortrijksesteenweg 401",
     "sg:city":"Harelbeke",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473509280,
-    "wof:geomhash":"8307684a4faf013848e90323a42b1501",
+    "wof:geomhash":"cb526420a22c77487d4907ac3ce3e98a",
     "wof:hierarchy":[],
     "wof:id":1058092999,
-    "wof:lastmodified":1473720774,
+    "wof:lastmodified":1510944121,
     "wof:name":"Jeep-novoto-vanneste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041846837
+    ],
     "wof:tags":[
         "garage"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"2800",
     "addr:street":"Bruul",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4821209908,51.0240631104,4.4821209908,51.0240631104",
     "geom:latitude":51.024063,
     "geom:longitude":4.482121,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bruul 103",
     "sg:city":"Mechelen",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473513367,
-    "wof:geomhash":"2a36dc82b74547ec935511a29785f80d",
+    "wof:geomhash":"60ecad388a0cce8aaf48086e22b81c2d",
     "wof:hierarchy":[],
     "wof:id":1058180765,
-    "wof:lastmodified":1473719587,
+    "wof:lastmodified":1510943624,
     "wof:name":"Vedea Menswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058957677,
+        1058958151
+    ],
+    "wof:supersedes":[
+        1058180725
+    ],
     "wof:tags":[]
 },
   "bbox": [

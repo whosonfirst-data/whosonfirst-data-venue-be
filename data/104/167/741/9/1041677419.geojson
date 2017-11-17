@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De La Re\u0301Gence",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5732941628,50.6429405212,5.5732941628,50.6429405212",
     "geom:latitude":50.642941,
     "geom:longitude":5.573294,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La R\u00c9gence 15",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478418,
-    "wof:geomhash":"f821443887b291fa12746fe8f772f7fc",
+    "wof:geomhash":"82f39f839acb2f9eb6d1cb1fd6ba4e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041677419,
-    "wof:lastmodified":1473721892,
+    "wof:lastmodified":1510943339,
     "wof:name":"Di\u00c9t\u00c9tique & Sport",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042149287
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

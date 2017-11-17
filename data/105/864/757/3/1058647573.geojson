@@ -7,13 +7,16 @@
     "addr:postcode":"8200",
     "addr:street":"Zandstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1941699982,51.2022781372,3.1941699982,51.2022781372",
     "geom:latitude":51.202278,
     "geom:longitude":3.19417,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zandstraat 450",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534830,
-    "wof:geomhash":"f40b92b2d58de96946039ef5dfbed057",
+    "wof:geomhash":"23bdcc461be462846ca6bf79ab8dce55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,19 @@
         }
     ],
     "wof:id":1058647573,
-    "wof:lastmodified":1473722174,
+    "wof:lastmodified":1510942523,
     "wof:name":"De Keyser Containerdienst",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058703051
+    ],
+    "wof:supersedes":[
+        1058214139,
+        1042176151,
+        1042067515
+    ],
     "wof:tags":[]
 },
   "bbox": [

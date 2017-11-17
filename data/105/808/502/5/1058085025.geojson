@@ -7,13 +7,16 @@
     "addr:postcode":"1083",
     "addr:street":"Avenue Charles Quint",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3136029243,50.8679695129,4.3136029243,50.8679695129",
     "geom:latitude":50.86797,
     "geom:longitude":4.313603,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Charles Quint 39",
     "sg:city":"Bruxelles (ganshoren)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508951,
-    "wof:geomhash":"ad73f5a57e0896a1c46acc1c52949cc1",
+    "wof:geomhash":"064efb53b192922e5c0e2964a36ee8e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1058085025,
-    "wof:lastmodified":1473721392,
+    "wof:lastmodified":1510944134,
     "wof:name":"Rolf Benz - Forme & Style",
     "wof:parent_id":85801163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058525223,
+        1058961731,
+        1058354779,
+        1058086499
+    ],
+    "wof:supersedes":[
+        1058083853
+    ],
     "wof:tags":[
         "design",
         "-"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8019189835,50.4593696594,5.8019189835,50.4593696594",
     "geom:latitude":50.45937,
     "geom:longitude":5.801919,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chemin Du Congo 55",
     "sg:city":"Theux (la Reid)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473528692,
-    "wof:geomhash":"43e3f254b094d3e7c0532e2bfb2f01da",
+    "wof:geomhash":"d49654b65f8600be1be513ebe26ea36f",
     "wof:hierarchy":[],
     "wof:id":1058513101,
-    "wof:lastmodified":1473720821,
+    "wof:lastmodified":1510943758,
     "wof:name":"Jcv Decor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041646391
+    ],
     "wof:tags":[
         "painting",
         "contractor"

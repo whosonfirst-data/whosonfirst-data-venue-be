@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3851380348,50.8567352295,4.3851380348,50.8567352295",
     "geom:latitude":50.856735,
     "geom:longitude":4.385138,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grande Rue Au Bois 29 Box 2",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532788,
-    "wof:geomhash":"d53176bcafa5e7cf370f4c5c59ac21cd",
+    "wof:geomhash":"9d81f7a6e73252a11373309674eeadca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058604051,
-    "wof:lastmodified":1473721222,
+    "wof:lastmodified":1510943046,
     "wof:name":"Steenwerckx Print Sprl",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041535661
+    ],
     "wof:tags":[
         "printing",
         "-"

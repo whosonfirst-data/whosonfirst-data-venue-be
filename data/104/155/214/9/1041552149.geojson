@@ -7,13 +7,16 @@
     "addr:postcode":"1150",
     "addr:street":"Av De Tervueren",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4450421333,50.8274459839,4.4450421333,50.8274459839",
     "geom:latitude":50.827446,
     "geom:longitude":4.445042,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av De Tervueren 412",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473273,
-    "wof:geomhash":"2edd3ca3ba6001ea7d4e0b69c2eaac9f",
+    "wof:geomhash":"33a84bd58e652ac4b78d3ea2377d62ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041552149,
-    "wof:lastmodified":1473720322,
+    "wof:lastmodified":1510942647,
     "wof:name":"Civis Gie",
     "wof:parent_id":85801589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058276613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

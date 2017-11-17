@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Chausse\u0301E De Gand;Molenbeek",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3297557831,50.8567428589,4.3297557831,50.8567428589",
     "geom:latitude":50.856743,
     "geom:longitude":4.329756,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Gand 232",
     "sg:city":"Sint-jans-molenbeek/molenbeek-",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474417,
-    "wof:geomhash":"a4edd439dd118039335a0a59b5033a3a",
+    "wof:geomhash":"80788cf10639e8892787f711cf1f9156",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041579043,
-    "wof:lastmodified":1473722665,
+    "wof:lastmodified":1510942429,
     "wof:name":"M.c. Christen",
     "wof:parent_id":85801875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041843385
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4313349724,50.2514762878,4.4313349724,50.2514762878",
     "geom:latitude":50.251476,
     "geom:longitude":4.431335,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Morialm\u00e9 62",
     "sg:city":"Walcourt (fraire)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473535523,
-    "wof:geomhash":"1bfa9d10ca40f663f60613c0317e59c3",
+    "wof:geomhash":"c721edc8250edb27df05f36fcd7eb3ad",
     "wof:hierarchy":[],
     "wof:id":1058662417,
-    "wof:lastmodified":1473720345,
+    "wof:lastmodified":1510942472,
     "wof:name":"R\u00e9sidence Les Saules",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041658071
+    ],
     "wof:tags":[
         "home",
         "rest"

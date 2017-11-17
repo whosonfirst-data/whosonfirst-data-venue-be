@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Hoornstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7214450836,51.0520057678,3.7214450836,51.0520057678",
     "geom:latitude":51.052006,
     "geom:longitude":3.721445,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hoornstraat 13",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480109,
-    "wof:geomhash":"1aee47fdd72b66b7402559a9e8030123",
+    "wof:geomhash":"52ec25a430eff325f43b3fdadbff48b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,16 @@
         }
     ],
     "wof:id":1041720879,
-    "wof:lastmodified":1473719635,
+    "wof:lastmodified":1510942698,
     "wof:name":"De Groote Els",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041872741,
+        1041705625,
+        1041857021
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

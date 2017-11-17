@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Hoveniersstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4188599586,51.2144813538,4.4188599586,51.2144813538",
     "geom:latitude":51.214481,
     "geom:longitude":4.41886,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hoveniersstraat 53b128",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499658,
-    "wof:geomhash":"2623e63a62e5b5e9736e9dd329f567cd",
+    "wof:geomhash":"f0619caeb1b6f34dfc9ea9bbb2e67c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042162621,
-    "wof:lastmodified":1473720456,
+    "wof:lastmodified":1510942467,
     "wof:name":"Fa. Nakoda Diamonds",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058615707
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

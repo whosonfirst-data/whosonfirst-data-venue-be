@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue Pe\u0300Re De Deken",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4025168419,50.8339729309,4.4025168419,50.8339729309",
     "geom:latitude":50.833973,
     "geom:longitude":4.402517,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue P\u00e8re De Deken 70",
     "sg:city":"Bruxelles (etterbeek)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477901,
-    "wof:geomhash":"d9be1ca36d1e763da411aeace57e9ebd",
+    "wof:geomhash":"56611c4dc5711d6d0f85dbb6afe881b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041663935,
-    "wof:lastmodified":1473721247,
+    "wof:lastmodified":1510941376,
     "wof:name":"Couleur Caf\u00e8",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041654997
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "snack-bars"

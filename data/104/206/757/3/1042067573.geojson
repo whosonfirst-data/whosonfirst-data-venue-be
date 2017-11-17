@@ -7,13 +7,16 @@
     "addr:postcode":"2320",
     "addr:street":"Industrieweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7347459793,51.3888778687,4.7347459793,51.3888778687",
     "geom:latitude":51.388878,
     "geom:longitude":4.734746,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industrieweg 12",
     "sg:city":"Hoogstraten",
     "sg:classifiers":[
@@ -39,16 +42,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473494974,
-    "wof:geomhash":"e140f8938869d6e7c4c24ef140f4db2a",
+    "wof:geomhash":"ab6a1960f40d3df57eb5310eeb942a3d",
     "wof:hierarchy":[],
     "wof:id":1042067573,
-    "wof:lastmodified":1473722243,
+    "wof:lastmodified":1510944125,
     "wof:name":"K\u00c4rcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058912779,
+        1042068049,
+        1058015665,
+        1058376553,
+        1058912681
+    ],
+    "wof:supersedes":[
+        1041851001,
+        1042056349
+    ],
     "wof:tags":[
         "industrial",
         "-"

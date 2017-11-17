@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4025697708,50.8091888428,4.4025697708,50.8091888428",
     "geom:latitude":50.809189,
     "geom:longitude":4.40257,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Grat\u00c8s 2",
     "sg:city":"Watermaal-bosvoorde/watermael-boitsfort",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507483,
-    "wof:geomhash":"ec1136046e69c2f0acffced508842e00",
+    "wof:geomhash":"787c2098945327ce5edb270f1f847375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058049197,
-    "wof:lastmodified":1473722649,
+    "wof:lastmodified":1510942415,
     "wof:name":"Sa\u00cf",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041591167
+    ],
     "wof:tags":[]
 },
   "bbox": [

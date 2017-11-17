@@ -7,13 +7,16 @@
     "addr:postcode":"4100",
     "addr:street":"Rue De Rotheux",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5031719208,50.5796394348,5.5031719208,50.5796394348",
     "geom:latitude":50.579639,
     "geom:longitude":5.503172,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Rotheux 269",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496017,
-    "wof:geomhash":"6e2072b776d9f0ac42015b9f621c783d",
+    "wof:geomhash":"b1731a52e25ebff8e1fff5567490af2a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1042091411,
-    "wof:lastmodified":1473719900,
+    "wof:lastmodified":1510942719,
     "wof:name":"A. & Technotronics Engin.",
     "wof:parent_id":85801565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058727585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

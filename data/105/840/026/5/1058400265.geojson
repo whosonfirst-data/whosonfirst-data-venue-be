@@ -7,13 +7,16 @@
     "addr:postcode":"3290",
     "addr:street":"Nijverheidslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0496058464,50.9899101257,5.0496058464,50.9899101257",
     "geom:latitude":50.98991,
     "geom:longitude":5.049606,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nijverheidslaan 1",
     "sg:city":"Diest",
     "sg:classifiers":[
@@ -38,16 +41,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473523256,
-    "wof:geomhash":"85104ea64b889c478cb1b4eb50916a5c",
+    "wof:geomhash":"3903fc387a80960f61144d6a20228bb9",
     "wof:hierarchy":[],
     "wof:id":1058400265,
-    "wof:lastmodified":1473718978,
+    "wof:lastmodified":1510942708,
     "wof:name":"Mercatron Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866189
+    ],
+    "wof:supersedes":[
+        1058283107,
+        1058387763,
+        1042151003,
+        1058387227,
+        1041698753,
+        1058383895
+    ],
     "wof:tags":[
         "medium"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3054170609,50.7253112793,3.3054170609,50.7253112793",
     "geom:latitude":50.725311,
     "geom:longitude":3.305417,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Saint-l\u00e9ger 51",
     "sg:city":"Mouscron (dottignies)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473535527,
-    "wof:geomhash":"07abc7d151790c88a7dd4d607a9f2c7e",
+    "wof:geomhash":"b0a2ce44d57b0472645ffeb13f67d18d",
     "wof:hierarchy":[],
     "wof:id":1058662525,
-    "wof:lastmodified":1473720396,
+    "wof:lastmodified":1510942679,
     "wof:name":"Seniorie ma Maison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041628301
+    ],
     "wof:tags":[
         "home",
         "rest"

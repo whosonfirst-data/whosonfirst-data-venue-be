@@ -7,13 +7,16 @@
     "addr:postcode":"2060",
     "addr:street":"Van Wesenbekestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4205942154,51.2205734253,4.4205942154,51.2205734253",
     "geom:latitude":51.220573,
     "geom:longitude":4.420594,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Van Wesenbekestraat 53",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480958,
-    "wof:geomhash":"c21d2a56a0aec1ef9e7f577a506b034f",
+    "wof:geomhash":"31090e2b3b2efa316407e031b3007348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,17 @@
         }
     ],
     "wof:id":1041740657,
-    "wof:lastmodified":1473719526,
+    "wof:lastmodified":1510944004,
     "wof:name":"Biljarts Thissen",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041749731,
+        1041937403,
+        1058024697,
+        1058825255
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

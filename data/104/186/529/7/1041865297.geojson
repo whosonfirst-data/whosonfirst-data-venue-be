@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3977508545,51.1913223267,4.3977508545,51.1913223267",
     "geom:latitude":51.191322,
     "geom:longitude":4.397751,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Jan Van Rijswijcklaan 164",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486444,
-    "wof:geomhash":"940f498faf100aad3f86af058c90d7b8",
+    "wof:geomhash":"0c67491ea74f721f16595c69a7019826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041865297,
-    "wof:lastmodified":1473721494,
+    "wof:lastmodified":1510941982,
     "wof:name":"M. Dillen",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041713643
+    ],
     "wof:tags":[]
 },
   "bbox": [

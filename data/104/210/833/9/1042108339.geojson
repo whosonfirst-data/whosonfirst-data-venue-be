@@ -7,13 +7,16 @@
     "addr:postcode":"4630",
     "addr:street":"Avenue De La Re\u0301Sistance",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.73310709,50.6304626465,5.73310709,50.6304626465",
     "geom:latitude":50.630463,
     "geom:longitude":5.733107,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La R\u00c9sistance 221",
     "sg:city":"Soumagne",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496762,
-    "wof:geomhash":"d0d43bd896bced27f1fb51f5a1609362",
+    "wof:geomhash":"c3e4d3b49c80c5f4a3f8aa56d810aa6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042108339,
-    "wof:lastmodified":1473722320,
+    "wof:lastmodified":1510943196,
     "wof:name":"Califice Vetements",
     "wof:parent_id":85801143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041570031
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

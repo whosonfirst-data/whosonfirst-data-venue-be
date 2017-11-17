@@ -7,13 +7,16 @@
     "addr:postcode":"6724",
     "addr:street":"Grand'Rue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5386037827,49.7265663147,5.5386037827,49.7265663147",
     "geom:latitude":49.726566,
     "geom:longitude":5.538604,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grand'rue 103",
     "sg:city":"Habay (rulles)",
     "sg:classifiers":[
@@ -38,16 +41,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473532703,
-    "wof:geomhash":"080719bb63325ca486105b7d43a83ebd",
+    "wof:geomhash":"e78f8ed9e9121f7905785fde610e5544",
     "wof:hierarchy":[],
     "wof:id":1058602125,
-    "wof:lastmodified":1473720287,
+    "wof:lastmodified":1510944194,
     "wof:name":"Rectilux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058889597
+    ],
+    "wof:supersedes":[
+        1041844349,
+        1041843883,
+        1041843495,
+        1058420675,
+        1042251549,
+        1042251527,
+        1041842937
+    ],
     "wof:tags":[
         "precision"
     ]

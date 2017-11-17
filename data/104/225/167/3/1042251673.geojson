@@ -7,13 +7,16 @@
     "addr:postcode":"5580",
     "addr:street":"Rue Du Tige",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2162799835,50.1629219055,5.2162799835,50.1629219055",
     "geom:latitude":50.162922,
     "geom:longitude":5.21628,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Tige 44",
     "sg:city":"Rochefort",
     "sg:classifiers":[
@@ -38,16 +41,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473504321,
-    "wof:geomhash":"615180c8acfd9d2c61e445e98c9ca43a",
+    "wof:geomhash":"29477bfe8fbc91dd388983c73e74ae34",
     "wof:hierarchy":[],
     "wof:id":1042251673,
-    "wof:lastmodified":1473720056,
+    "wof:lastmodified":1510944150,
     "wof:name":"Atelier St-vincent Asbl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058458459,
+        1058773811,
+        1058331361,
+        1058729307,
+        1058772761
+    ],
+    "wof:supersedes":[
+        1041851047,
+        1042066749,
+        1042075663
+    ],
     "wof:tags":[
         "engraving"
     ]

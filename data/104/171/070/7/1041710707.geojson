@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue De Chaudfontaine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5849699974,50.6218566895,5.5849699974,50.6218566895",
     "geom:latitude":50.621857,
     "geom:longitude":5.58497,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Chaudfontaine 13",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479709,
-    "wof:geomhash":"f66a7ce8df1aabfbb0cc2743f51cfa7f",
+    "wof:geomhash":"965d7b2fc3c2c4914b6efc7b887f2633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041710707,
-    "wof:lastmodified":1473719574,
+    "wof:lastmodified":1510942173,
     "wof:name":"J.m. Rikkers",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041862237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

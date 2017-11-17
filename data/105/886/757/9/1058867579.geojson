@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Quai Des Ardennes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5900659561,50.6197090149,5.5900659561,50.6197090149",
     "geom:latitude":50.619709,
     "geom:longitude":5.590066,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Quai Des Ardennes 50",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544465,
-    "wof:geomhash":"7de74fee12b1af2d5a12287d6d1d3057",
+    "wof:geomhash":"1e381af8d358a5aec316891ef425c045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1058867579,
-    "wof:lastmodified":1473722113,
+    "wof:lastmodified":1510942487,
     "wof:name":"Panasonic",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058938925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "radio",

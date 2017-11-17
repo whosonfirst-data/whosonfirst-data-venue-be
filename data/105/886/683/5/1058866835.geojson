@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3554530144,50.8278083801,4.3554530144,50.8278083801",
     "geom:latitude":50.827808,
     "geom:longitude":4.355453,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Charleroi 116",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544440,
-    "wof:geomhash":"a4731338608798b01788682ffb9bda60",
+    "wof:geomhash":"199c70e35546d58ab11a94e47496fd60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,22 @@
         }
     ],
     "wof:id":1058866835,
-    "wof:lastmodified":1473721909,
+    "wof:lastmodified":1510942661,
     "wof:name":"Siemens",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058393957,
+        1058453789,
+        1058865629,
+        1058617309,
+        1058864457,
+        1058606239,
+        1058375921,
+        1058393415
+    ],
     "wof:tags":[
         "installation"
     ]

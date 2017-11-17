@@ -7,13 +7,16 @@
     "addr:postcode":"4100",
     "addr:street":"Rue De Colard Trouillet",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5083842278,50.6141929626,5.5083842278,50.6141929626",
     "geom:latitude":50.614193,
     "geom:longitude":5.508384,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Colard Trouillet 47",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480020,
-    "wof:geomhash":"6028926c3c4cc470972a3a8ae69d506f",
+    "wof:geomhash":"dac7b7a2f73beb9e9fedc15cb60b467b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041718641,
-    "wof:lastmodified":1473722492,
+    "wof:lastmodified":1510943912,
     "wof:name":"Sophie Wolf",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041870473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

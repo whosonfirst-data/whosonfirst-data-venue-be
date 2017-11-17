@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6225681305,50.664276123,5.6225681305,50.664276123",
     "geom:latitude":50.664276,
     "geom:longitude":5.622568,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue F\u00e9lix Chaumont 46",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473531933,
-    "wof:geomhash":"090d8bedb84dfe65157226e5d40a73f8",
+    "wof:geomhash":"dfd8760b619d4241fc6f8312debd4d59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058583841,
-    "wof:lastmodified":1473721008,
+    "wof:lastmodified":1510943529,
     "wof:name":"Trevisan Sprl",
     "wof:parent_id":85862055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041590413
+    ],
     "wof:tags":[
         "industrial",
         "-"

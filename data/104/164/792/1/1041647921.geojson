@@ -7,13 +7,16 @@
     "addr:postcode":"2560",
     "addr:street":"Dorp",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6755628586,51.1400909424,4.6755628586,51.1400909424",
     "geom:latitude":51.140091,
     "geom:longitude":4.675563,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bevel Dorp 23",
     "sg:city":"Nijlen (bevel)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473477266,
-    "wof:geomhash":"943dc62a8f89e83f513376f0eaa5a131",
+    "wof:geomhash":"b2e444fa80adf3e5d8cd33424e5970d5",
     "wof:hierarchy":[],
     "wof:id":1041647921,
-    "wof:lastmodified":1473722278,
+    "wof:lastmodified":1510941778,
     "wof:name":"Verberck D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058370295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

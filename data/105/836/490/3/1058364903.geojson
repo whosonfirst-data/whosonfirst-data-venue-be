@@ -7,13 +7,16 @@
     "addr:postcode":"1090",
     "addr:street":"Rue Tilmont",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3295860291,50.8749694824,4.3295860291,50.8749694824",
     "geom:latitude":50.874969,
     "geom:longitude":4.329586,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Tilmont 64",
     "sg:city":"Bruxelles (jette)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473521641,
-    "wof:geomhash":"e01fd93a9756780ada883e78eddf3397",
+    "wof:geomhash":"cbec1716d4504b84ba39b16f416cd651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,21 @@
         }
     ],
     "wof:id":1058364903,
-    "wof:lastmodified":1473721520,
+    "wof:lastmodified":1510942845,
     "wof:name":"Agence D H T",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058660483,
+        1058592961
+    ],
+    "wof:supersedes":[
+        1042203679,
+        1042176025,
+        1058178179,
+        1058112727
+    ],
     "wof:tags":[
         "lock",
         "key"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8772549629,50.4774513245,4.8772549629,50.4774513245",
     "geom:latitude":50.477451,
     "geom:longitude":4.877255,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Louvain 291",
     "sg:city":"Namur (bouge)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473540412,
-    "wof:geomhash":"57d4a3b474b9675a97e19c2b74ed08b5",
+    "wof:geomhash":"33bc222d7f2a2cdce4d211554a37a543",
     "wof:hierarchy":[],
     "wof:id":1058773835,
-    "wof:lastmodified":1473721158,
+    "wof:lastmodified":1510943946,
     "wof:name":"Bouge Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041607279
+    ],
     "wof:tags":[
         "shoemaker"
     ]

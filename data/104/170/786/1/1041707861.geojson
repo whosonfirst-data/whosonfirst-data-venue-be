@@ -7,13 +7,16 @@
     "addr:postcode":"4460",
     "addr:street":"Rue Joseph Heusdens",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.506360054,50.642490387,5.506360054,50.642490387",
     "geom:latitude":50.64249,
     "geom:longitude":5.50636,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Joseph Heusdens 55",
     "sg:city":"Grace-hollogne",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479588,
-    "wof:geomhash":"4c5a64ddd5b2d59e2db5ed5d0284df77",
+    "wof:geomhash":"12bd4bf1cc4a22b297f3b6d48a2fbf53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041707861,
-    "wof:lastmodified":1473722204,
+    "wof:lastmodified":1510941429,
     "wof:name":"Fran\u00c7oise Wilmotte",
     "wof:parent_id":85801183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041859353
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

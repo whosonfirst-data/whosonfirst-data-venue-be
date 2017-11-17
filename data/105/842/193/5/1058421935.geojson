@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6062760353,50.6106338501,5.6062760353,50.6106338501",
     "geom:latitude":50.610634,
     "geom:longitude":5.606276,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Ch\u00ean\u00e9e 53",
     "sg:city":"Li\u00e8ge 1 (angleur)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473524262,
-    "wof:geomhash":"92e4aae05c9a7d94afb231c9548b2d96",
+    "wof:geomhash":"fa55754788b652f03e5f46d2bc427861",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":1058421935,
-    "wof:lastmodified":1473720210,
+    "wof:lastmodified":1510942872,
     "wof:name":"Technomedia Sa",
     "wof:parent_id":85800763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042111807,
+        1058284729,
+        1042122311
+    ],
     "wof:tags":[
         "multimedia",
         "-",

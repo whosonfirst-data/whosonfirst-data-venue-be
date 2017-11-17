@@ -7,6 +7,7 @@
     "addr:postcode":"6000",
     "addr:street":"Boulevard Joseph Ii;Hainaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":4.452319,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Joseph Ii 13",
     "sg:city":"Charleroi",
     "sg:classifiers":[],
@@ -36,13 +37,20 @@
     "wof:geomhash":"9f79782dd31149f6b591b61749482468",
     "wof:hierarchy":[],
     "wof:id":1058722269,
-    "wof:lastmodified":1510874993,
+    "wof:lastmodified":1510942196,
     "wof:name":"C.p.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058771031,
+        1058883603
+    ],
+    "wof:supersedes":[
+        1058517661,
+        1058377025,
+        1058498853
+    ],
     "wof:tags":[]
 },
   "bbox": [

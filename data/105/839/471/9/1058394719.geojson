@@ -7,6 +7,7 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Du Pont D\u00b4Avroy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":6.22509,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Pont D\u00b4avroy 20",
     "sg:city":"Liege-centre",
     "sg:classifiers":[
@@ -47,12 +48,18 @@
     "wof:geomhash":"10dd0cc6f518334f8ecfb357b652c825",
     "wof:hierarchy":[],
     "wof:id":1058394719,
-    "wof:lastmodified":1510697082,
+    "wof:lastmodified":1510943401,
     "wof:name":"The Phone House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058864779,
+        1058865149,
+        1058874395,
+        1058864781,
+        1058846501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house",

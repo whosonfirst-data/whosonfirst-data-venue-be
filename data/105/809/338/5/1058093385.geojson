@@ -7,13 +7,16 @@
     "addr:postcode":"5140",
     "addr:street":"Chausse\u0301E De Charleroi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5774960518,50.498878479,4.5774960518,50.498878479",
     "geom:latitude":50.498878,
     "geom:longitude":4.577496,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Charleroi 222",
     "sg:city":"Sombreffe (ligny)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473509296,
-    "wof:geomhash":"badff8a0d3b41a08b8b22a5237fffa0c",
+    "wof:geomhash":"b8cc0e36d20896f7e84b54b6229c3e4b",
     "wof:hierarchy":[],
     "wof:id":1058093385,
-    "wof:lastmodified":1473720892,
+    "wof:lastmodified":1510943418,
     "wof:name":"Ligny Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058418993
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"

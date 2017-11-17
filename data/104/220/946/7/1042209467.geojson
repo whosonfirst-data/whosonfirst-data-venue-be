@@ -7,13 +7,16 @@
     "addr:postcode":"1420",
     "addr:street":"Rue Colo-Hugues;L'Alleud",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-105.55091095,38.9978408813,-105.55091095,38.9978408813",
     "geom:latitude":38.997841,
     "geom:longitude":-105.550911,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"67",
     "sg:city":"Rue Colo-hugues 1420 Braine L'alleud",
     "sg:classifiers":[
@@ -39,16 +42,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473502401,
-    "wof:geomhash":"0f0a0a7651cd7e330bf1f5aaeb93f63a",
+    "wof:geomhash":"afc18b2315f1460fa1637e00fea3779a",
     "wof:hierarchy":[],
     "wof:id":1042209467,
-    "wof:lastmodified":1473722757,
+    "wof:lastmodified":1510943978,
     "wof:name":"All-matic-doors Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058911509
+    ],
+    "wof:supersedes":[
+        1041577703
+    ],
     "wof:tags":[
         "electronic",
         "electrical",

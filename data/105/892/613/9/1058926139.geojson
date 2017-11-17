@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0285048485,50.9357223511,4.0285048485,50.9357223511",
     "geom:latitude":50.935722,
     "geom:longitude":4.028505,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Capucienenlaan 41",
     "sg:city":"Aalst",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473547185,
-    "wof:geomhash":"0b55e833bf88a7ec68f413129dd51fcb",
+    "wof:geomhash":"39971b510bf7f59427dcefe1764e45c5",
     "wof:hierarchy":[],
     "wof:id":1058926139,
-    "wof:lastmodified":1473721805,
+    "wof:lastmodified":1510942738,
     "wof:name":"Avika",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041826979
+    ],
     "wof:tags":[
         "verzekeringsmakelaars",
         "expert"

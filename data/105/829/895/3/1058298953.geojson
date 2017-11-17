@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5751109123,50.642326355,5.5751109123,50.642326355",
     "geom:latitude":50.642326,
     "geom:longitude":5.575111,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Regence 49",
     "sg:city":"Luik",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473518550,
-    "wof:geomhash":"da11ce946efb4164cefa8ddba5dffe8a",
+    "wof:geomhash":"ee001f0c5b81d9de64d12a20a2b5d825",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058298953,
-    "wof:lastmodified":1473722654,
+    "wof:lastmodified":1510943369,
     "wof:name":"Liege Collection",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058294681
+    ],
     "wof:tags":[]
 },
   "bbox": [

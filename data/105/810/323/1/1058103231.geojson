@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Herkenrodesingel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3328509331,50.9410743713,5.3328509331,50.9410743713",
     "geom:latitude":50.941074,
     "geom:longitude":5.332851,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herkenrodesingel 89",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473509733,
-    "wof:geomhash":"b79f8925a04724535198e95565093d62",
+    "wof:geomhash":"b70e04082b9f934bb331152168cad0ee",
     "wof:hierarchy":[],
     "wof:id":1058103231,
-    "wof:lastmodified":1473720054,
+    "wof:lastmodified":1510944073,
     "wof:name":"Scholiers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058798435,
+        1058024721
+    ],
+    "wof:supersedes":[
+        1041886733
+    ],
     "wof:tags":[
         "industrial",
         "-"

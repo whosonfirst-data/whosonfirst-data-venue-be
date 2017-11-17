@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Blankenbergse Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2239320278,51.208278656,3.2239320278,51.208278656",
     "geom:latitude":51.208279,
     "geom:longitude":3.223932,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Blankenbergse Steenweg 6",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473529321,
-    "wof:geomhash":"5f8d942f6632afb71a337054a60c26f8",
+    "wof:geomhash":"fb51ac80647b3c9600f8b4c78087c44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,26 @@
         }
     ],
     "wof:id":1058526717,
-    "wof:lastmodified":1473721999,
+    "wof:lastmodified":1510943872,
     "wof:name":"Huurland",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058991719,
+        1058752623,
+        1058659939
+    ],
+    "wof:supersedes":[
+        1058524397,
+        1042209103,
+        1058174627,
+        1058214523,
+        1058376515,
+        1042143555,
+        1042067543,
+        1058202349
+    ],
     "wof:tags":[
         "rental",
         "-"

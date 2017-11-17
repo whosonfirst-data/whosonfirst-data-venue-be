@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4023971558,50.8120689392,4.4023971558,50.8120689392",
     "geom:latitude":50.812069,
     "geom:longitude":4.402397,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Du Martin P\u00cacheur 19",
     "sg:city":"Watermaal-bosvoorde/watermael-",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484870,
-    "wof:geomhash":"a99517d9941067b5ef7dce306beb8095",
+    "wof:geomhash":"16d03f8ac54f8c19b979f39428967dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1041828299,
-    "wof:lastmodified":1473722293,
+    "wof:lastmodified":1510944081,
     "wof:name":"Codex Brokers",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041616993
+    ],
     "wof:tags":[
         "assurance"
     ]

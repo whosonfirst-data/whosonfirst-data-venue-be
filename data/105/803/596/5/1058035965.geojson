@@ -7,13 +7,16 @@
     "addr:postcode":"5651",
     "addr:street":"Route De Philippeville",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4792962074,50.3119926453,4.4792962074,50.3119926453",
     "geom:latitude":50.311993,
     "geom:longitude":4.479296,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Philippeville 54",
     "sg:city":"Walcourt (tarcienne)",
     "sg:classifiers":[
@@ -38,16 +41,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473506933,
-    "wof:geomhash":"59fde27781fb2690dbaf0e837a2090f8",
+    "wof:geomhash":"cce1a9e58841634b99ed2551ad2a3ce7",
     "wof:hierarchy":[],
     "wof:id":1058035965,
-    "wof:lastmodified":1473721732,
+    "wof:lastmodified":1510944097,
     "wof:name":"Sud Garden Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058332765,
+        1058882045,
+        1058845543,
+        1058097547,
+        1058597833
+    ],
+    "wof:supersedes":[
+        1058085367,
+        1041913157,
+        1042065793
+    ],
     "wof:tags":[
         "fence"
     ]

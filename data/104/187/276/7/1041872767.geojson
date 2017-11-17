@@ -7,13 +7,16 @@
     "addr:postcode":"9910",
     "addr:street":"Urselseweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4261949062,51.1347885132,3.4261949062,51.1347885132",
     "geom:latitude":51.134789,
     "geom:longitude":3.426195,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Urselseweg 63",
     "sg:city":"Knesselare",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473486770,
-    "wof:geomhash":"9f429cbe2b167b6333943e1769dc1b49",
+    "wof:geomhash":"3bb6f6b69bfd27d0343d851cb7395f66",
     "wof:hierarchy":[],
     "wof:id":1041872767,
-    "wof:lastmodified":1473720494,
+    "wof:lastmodified":1510943792,
     "wof:name":"De Neve Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041885835,
+        1058337001
+    ],
+    "wof:supersedes":[
+        1041720945,
+        1041720947
+    ],
     "wof:tags":[]
 },
   "bbox": [

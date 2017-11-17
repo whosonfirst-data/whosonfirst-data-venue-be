@@ -7,13 +7,16 @@
     "addr:postcode":"1457",
     "addr:street":"Rue De Saint-Paul;Wallon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7010512352,50.6318321228,4.7010512352,50.6318321228",
     "geom:latitude":50.631832,
     "geom:longitude":4.701051,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Saint-paul 75",
     "sg:city":"Walhain (walhain-saint-paul)",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473481666,
-    "wof:geomhash":"b1beee8409fd036394993bbb9c06e768",
+    "wof:geomhash":"7d0d14dcbcab5b04156217d8965aae01",
     "wof:hierarchy":[],
     "wof:id":1041755735,
-    "wof:lastmodified":1473721691,
+    "wof:lastmodified":1510943723,
     "wof:name":"Montulet (eb\u00e9nisterie D'art)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058083985,
+        1058084529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "restoration"

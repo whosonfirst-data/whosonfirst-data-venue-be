@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6061701775,50.1923789978,4.6061701775,50.1923789978",
     "geom:latitude":50.192379,
     "geom:longitude":4.60617,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Ch\u00e2telet 12",
     "sg:city":"Philippeville (villers-le-gambon)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473507262,
-    "wof:geomhash":"e60acd03e4bba3ceea6e8e2ba815fa5e",
+    "wof:geomhash":"c006147c9d64ca5d75595960b02f8735",
     "wof:hierarchy":[],
     "wof:id":1058043651,
-    "wof:lastmodified":1473720994,
+    "wof:lastmodified":1510942220,
     "wof:name":"Pisciculture Du Ry Des Pr\u00e9s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041646127
+    ],
     "wof:tags":[
         "breeding"
     ]

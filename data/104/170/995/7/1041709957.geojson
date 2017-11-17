@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Quai De Rome",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5737218857,50.6263160706,5.5737218857,50.6263160706",
     "geom:latitude":50.626316,
     "geom:longitude":5.573722,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Quai De Rome 2",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479678,
-    "wof:geomhash":"8979a72610aaff5ab1650c914095e4de",
+    "wof:geomhash":"0e0d99f0ff772d78a0c7e77db4790635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041709957,
-    "wof:lastmodified":1473722876,
+    "wof:lastmodified":1510943799,
     "wof:name":"J. Clesse",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041861493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

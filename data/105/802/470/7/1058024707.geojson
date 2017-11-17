@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Boterhamvaartweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4140968323,51.252910614,4.4140968323,51.252910614",
     "geom:latitude":51.252911,
     "geom:longitude":4.414097,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boterhamvaartweg 2",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473506469,
-    "wof:geomhash":"55e976a5471d23e1d6f86dc752f622d8",
+    "wof:geomhash":"0c06b64e56e40abed42098ee6da20501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,17 @@
         }
     ],
     "wof:id":1058024707,
-    "wof:lastmodified":1473721346,
+    "wof:lastmodified":1510944016,
     "wof:name":"Las Service",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058798415
+    ],
+    "wof:supersedes":[
+        1042210601
+    ],
     "wof:tags":[
         "extraction",
         "-",

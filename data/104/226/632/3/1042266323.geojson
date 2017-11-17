@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7367749214,51.0411300659,3.7367749214,51.0411300659",
     "geom:latitude":51.04113,
     "geom:longitude":3.736775,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-lievenspoortstraat 143",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505046,
-    "wof:geomhash":"7f034e6bd71d6b2078fb5b9f5d0a3a32",
+    "wof:geomhash":"47e82fa86015ad0f494f42c513f6e878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042266323,
-    "wof:lastmodified":1473721805,
+    "wof:lastmodified":1510943020,
     "wof:name":"Kathol. Hogeschool Gent",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058195773
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

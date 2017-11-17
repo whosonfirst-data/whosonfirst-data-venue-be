@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.425675869,50.8210868835,4.425675869,50.8210868835",
     "geom:latitude":50.821087,
     "geom:longitude":4.425676,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Des Mesanges 1",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515345,
-    "wof:geomhash":"359070e4aa288fb9931fb3de59acce9a",
+    "wof:geomhash":"f8ee45cca5c731d8e539ccfb185aa68a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058225741,
-    "wof:lastmodified":1473721661,
+    "wof:lastmodified":1510943431,
     "wof:name":"Roselyn's Belgium S.a.",
     "wof:parent_id":85801955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041636661
+    ],
     "wof:tags":[
         "industrial"
     ]

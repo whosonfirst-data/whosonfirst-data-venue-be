@@ -7,13 +7,16 @@
     "addr:postcode":"8930",
     "addr:street":"Wervikstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1054639816,50.7889175415,3.1054639816,50.7889175415",
     "geom:latitude":50.788918,
     "geom:longitude":3.105464,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wervikstraat 320",
     "sg:city":"Menen",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473523571,
-    "wof:geomhash":"11645a0510cc71851dddb4cff8b3b9cf",
+    "wof:geomhash":"7a2115565c453220f5f7a514d3172d2e",
     "wof:hierarchy":[],
     "wof:id":1058407499,
-    "wof:lastmodified":1473722107,
+    "wof:lastmodified":1510943444,
     "wof:name":"Galloo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058725445,
+        1058759857
+    ],
+    "wof:supersedes":[
+        1058404025
+    ],
     "wof:tags":[
         "non-ferrous",
         "-"

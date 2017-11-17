@@ -7,13 +7,16 @@
     "addr:postcode":"1932",
     "addr:street":"Lozenberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4598970413,50.8684883118,4.4598970413,50.8684883118",
     "geom:latitude":50.868488,
     "geom:longitude":4.459897,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lozenberg 18",
     "sg:city":"Sint-stevens-woluwe",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523539,
-    "wof:geomhash":"d3410474604a7229512a8ad3cb3e72f4",
+    "wof:geomhash":"42145b6a4f22792583462d4d481d5335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,18 @@
         }
     ],
     "wof:id":1058406895,
-    "wof:lastmodified":1473721914,
+    "wof:lastmodified":1510942617,
     "wof:name":"Anixter Belgium Bvba",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058453387
+    ],
+    "wof:supersedes":[
+        1042202255,
+        1042111255
+    ],
     "wof:tags":[
         "metallurgy",
         "pipe",

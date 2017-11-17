@@ -7,13 +7,16 @@
     "addr:postcode":"1850",
     "addr:street":"Hogesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.371322155,50.9332275391,4.371322155,50.9332275391",
     "geom:latitude":50.933228,
     "geom:longitude":4.371322,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hogesteenweg 1",
     "sg:city":"Grimbergen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527438,
-    "wof:geomhash":"8cc6811d94295ebc058c84f5c4ffc967",
+    "wof:geomhash":"bb865a4fbf1c4700d56f8f3eb756d1f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1058486483,
-    "wof:lastmodified":1473721922,
+    "wof:lastmodified":1510941484,
     "wof:name":"De Temmerman-van De Velde",
     "wof:parent_id":85801215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058488401
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

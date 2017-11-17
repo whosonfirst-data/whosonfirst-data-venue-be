@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Hessenplein",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4099440575,51.2262001038,4.4099440575,51.2262001038",
     "geom:latitude":51.2262,
     "geom:longitude":4.409944,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hessenplein 23",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473521958,
-    "wof:geomhash":"5cdef112e345d1ae015008ba90998564",
+    "wof:geomhash":"287b948ad162d49524fe7a1bd935767f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,26 @@
         }
     ],
     "wof:id":1058371697,
-    "wof:lastmodified":1473720078,
+    "wof:lastmodified":1510943992,
     "wof:name":"Bellekens E & Co Nv (etn)",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881633,
+        1058459147,
+        1058879215
+    ],
+    "wof:supersedes":[
+        1041840825,
+        1058129431,
+        1041845179,
+        1041842843,
+        1041843729,
+        1041842021,
+        1058089137,
+        1041843137
+    ],
     "wof:tags":[
         "luggage-carriers"
     ]

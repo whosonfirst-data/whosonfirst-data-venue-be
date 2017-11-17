@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7945950031,51.0838737488,3.7945950031,51.0838737488",
     "geom:latitude":51.083874,
     "geom:longitude":3.794595,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Antwerpsesteenweg 965",
     "sg:city":"Gent (oostakker)",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":316401894,
         "sg:id":"SG_280bT4MDTGaCKsqBiDlYDw_51.083874_3.794595@1306268444"
     },
     "wof:country":"BE",
     "wof:created":1473509448,
-    "wof:geomhash":"4d991593a5e80fb465886f642b91ecc4",
+    "wof:geomhash":"3b18c3a825a7bfa8d3dd6ddf3408024f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058096999,
-    "wof:lastmodified":1473721947,
+    "wof:lastmodified":1510942665,
     "wof:name":"Van Eeckhaut",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

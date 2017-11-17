@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Dreve Du Prieure",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4369559288,50.8206176758,4.4369559288,50.8206176758",
     "geom:latitude":50.820618,
     "geom:longitude":4.436956,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19",
     "sg:city":"Dreve Du Prieure 1160 Auderghem",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473495951,
-    "wof:geomhash":"934e3f53178dfd333189d46e02849009",
+    "wof:geomhash":"3a0ee61e246342fb356850c773b7f080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042089899,
-    "wof:lastmodified":1473722915,
+    "wof:lastmodified":1510942224,
     "wof:name":"Carlson Marketing Group Sa",
     "wof:parent_id":85801955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042150915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing",

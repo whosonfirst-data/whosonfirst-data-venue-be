@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7360901833,50.6460418701,5.7360901833,50.6460418701",
     "geom:latitude":50.646042,
     "geom:longitude":5.73609,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Clef 15",
     "sg:city":"Soumagne (melen)",
     "sg:classifiers":[
@@ -39,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473521189,
-    "wof:geomhash":"20a86d20da5ff6e08c6310e9e8dbf302",
+    "wof:geomhash":"b21f4b9ed8429b205e58e9d764114920",
     "wof:hierarchy":[],
     "wof:id":1058355193,
-    "wof:lastmodified":1473721542,
+    "wof:lastmodified":1510941199,
     "wof:name":"Hummer-off Road Service Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058092847,
+        1041745763,
+        1041840257
+    ],
     "wof:tags":[
         "gear",
         "lifting"

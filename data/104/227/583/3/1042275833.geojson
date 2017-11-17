@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Gulledelle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4258899689,50.8560447693,4.4258899689,50.8560447693",
     "geom:latitude":50.856045,
     "geom:longitude":4.42589,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gulledelle 100",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505482,
-    "wof:geomhash":"f1fbca1d26f29d14f79e33a16dff3bbf",
+    "wof:geomhash":"25099f99ef337df3812c0930c5b90e53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1042275833,
-    "wof:lastmodified":1473721664,
+    "wof:lastmodified":1510941674,
     "wof:name":"B.i.m.",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058495295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environment",

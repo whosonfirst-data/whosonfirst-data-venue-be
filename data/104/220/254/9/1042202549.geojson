@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3673710823,50.8142623901,4.3673710823,50.8142623901",
     "geom:latitude":50.814262,
     "geom:longitude":4.367371,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Waterloo 735",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502107,
-    "wof:geomhash":"48a018589584835594a7c88af49b5410",
+    "wof:geomhash":"c0cf85be33ae0661b67507827c78f1d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042202549,
-    "wof:lastmodified":1473720631,
+    "wof:lastmodified":1510943800,
     "wof:name":"Bascule Electricit\u00e9",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041615115
+    ],
     "wof:tags":[
         "-",
         "electric",

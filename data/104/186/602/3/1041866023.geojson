@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5849699974,50.6218566895,5.5849699974,50.6218566895",
     "geom:latitude":50.621857,
     "geom:longitude":5.58497,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Chaudfontaine 13",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486470,
-    "wof:geomhash":"f66a7ce8df1aabfbb0cc2743f51cfa7f",
+    "wof:geomhash":"965d7b2fc3c2c4914b6efc7b887f2633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041866023,
-    "wof:lastmodified":1473721699,
+    "wof:lastmodified":1510943020,
     "wof:name":"Marc Geron",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041714331
+    ],
     "wof:tags":[]
 },
   "bbox": [

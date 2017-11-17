@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.612308979,50.6693153381,4.612308979,50.6693153381",
     "geom:latitude":50.669315,
     "geom:longitude":4.612309,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grand Place 13",
     "sg:city":"Ottignies-louvain-la-neuve (louvain-la-neuve)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473491152,
-    "wof:geomhash":"bb1629ee08e27f7a6ac80ece64d86590",
+    "wof:geomhash":"0951092c95ad805c09257dc03f794d46",
     "wof:hierarchy":[],
     "wof:id":1041972085,
-    "wof:lastmodified":1473720329,
+    "wof:lastmodified":1510942198,
     "wof:name":"Le Grand Mechant Loup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041625927
+    ],
     "wof:tags":[
         "bookseller"
     ]

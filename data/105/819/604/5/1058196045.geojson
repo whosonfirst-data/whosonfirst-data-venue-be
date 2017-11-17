@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Gasmeterlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7241010666,51.0674591064,3.7241010666,51.0674591064",
     "geom:latitude":51.067459,
     "geom:longitude":3.724101,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gasmeterlaan 210",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514036,
-    "wof:geomhash":"0c9566272b42ad9abfb051bd55966b7b",
+    "wof:geomhash":"8c2dad0cfb21275dc3b8221d312e88b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,23 @@
         }
     ],
     "wof:id":1058196045,
-    "wof:lastmodified":1473721635,
+    "wof:lastmodified":1510944162,
     "wof:name":"Dezutter Nv",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058331007,
+        1058406931,
+        1058852023,
+        1058701273,
+        1058853001,
+        1058355165
+    ],
+    "wof:supersedes":[
+        1042002157,
+        1042049321
+    ],
     "wof:tags":[
         "hoisting-",
         "lashingbelts"

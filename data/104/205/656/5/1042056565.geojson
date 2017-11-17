@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Wiedauwkaai;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7257680893,51.0867156982,3.7257680893,51.0867156982",
     "geom:latitude":51.086716,
     "geom:longitude":3.725768,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wiedauwkaai 109",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494534,
-    "wof:geomhash":"896ee5a67317bab3c3d107d61e310d19",
+    "wof:geomhash":"063952ad17f5c5c17976626709cc8606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,20 @@
         }
     ],
     "wof:id":1042056565,
-    "wof:lastmodified":1473721845,
+    "wof:lastmodified":1510944057,
     "wof:name":"Gandagas Company Nv",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058174609,
+        1058103169,
+        1058659909,
+        1058103395
+    ],
+    "wof:supersedes":[
+        1042032761
+    ],
     "wof:tags":[
         "pharmaceutical",
         "chemistry",

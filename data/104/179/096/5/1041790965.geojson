@@ -7,13 +7,16 @@
     "addr:postcode":"2660",
     "addr:street":"Oudestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4211587906,51.2268714905,4.4211587906,51.2268714905",
     "geom:latitude":51.226871,
     "geom:longitude":4.421159,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oudestraat 91",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473483315,
-    "wof:geomhash":"9b0e894467c1b68994e4278b46224db1",
+    "wof:geomhash":"cc74d66175bdbc1e780e9f226a7530df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,16 @@
         }
     ],
     "wof:id":1041790965,
-    "wof:lastmodified":1473719713,
+    "wof:lastmodified":1510944032,
     "wof:name":"Atelier Emvedee",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041795391,
+        1041799399,
+        1058352449
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

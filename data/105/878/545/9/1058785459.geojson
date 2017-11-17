@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4365448952,50.4123649597,4.4365448952,50.4123649597",
     "geom:latitude":50.412365,
     "geom:longitude":4.436545,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Bruxelles 21",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -38,16 +40,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473540881,
-    "wof:geomhash":"7296302ef242101aed97e82a5666516b",
+    "wof:geomhash":"56ddedba4f6eb41a75d843c29b0607b6",
     "wof:hierarchy":[],
     "wof:id":1058785459,
-    "wof:lastmodified":1473721630,
+    "wof:lastmodified":1510941768,
     "wof:name":"Endermologie Fun Gym Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041916687,
+        1058044543
+    ],
     "wof:tags":[
         "slimming"
     ]

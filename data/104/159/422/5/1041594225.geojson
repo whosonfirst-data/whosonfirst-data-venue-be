@@ -7,13 +7,16 @@
     "addr:postcode":"4430",
     "addr:street":"Rue Du Quinze Aou\u0302T",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5352501869,50.6574211121,5.5352501869,50.6574211121",
     "geom:latitude":50.657421,
     "geom:longitude":5.53525,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Quinze Ao\u00fbt 16",
     "sg:city":"Ans",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475061,
-    "wof:geomhash":"eb18e9b2fd784b5110e10c1ef114cc45",
+    "wof:geomhash":"acdf28013f98a20e63f011f5e19e3e65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041594225,
-    "wof:lastmodified":1473721225,
+    "wof:lastmodified":1510943526,
     "wof:name":"Carpentier B",
     "wof:parent_id":85801177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058233853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "made",

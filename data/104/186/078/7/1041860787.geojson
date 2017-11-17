@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4232978821,51.1821250916,4.4232978821,51.1821250916",
     "geom:latitude":51.182125,
     "geom:longitude":4.423298,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Elisabethlaan 73",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486248,
-    "wof:geomhash":"312c89d879b8e7309556c044eeddbeac",
+    "wof:geomhash":"f0c22a28ba72f2f1f6490f0570986f76",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1041860787,
-    "wof:lastmodified":1473719607,
+    "wof:lastmodified":1510942736,
     "wof:name":"Hubert Dubois",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041709263
+    ],
     "wof:tags":[]
 },
   "bbox": [

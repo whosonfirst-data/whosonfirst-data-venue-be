@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3964869976,50.9092674255,3.3964869976,50.9092674255",
     "geom:latitude":50.909267,
     "geom:longitude":3.396487,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vlasstraat 17",
     "sg:city":"Wielsbeke (sint-baafs-vijve)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473533861,
-    "wof:geomhash":"88250c9583f1df031fd6d87e0cdda2e7",
+    "wof:geomhash":"c68eeb76bc09389465a0843da132e437",
     "wof:hierarchy":[],
     "wof:id":1058626615,
-    "wof:lastmodified":1473721877,
+    "wof:lastmodified":1510943154,
     "wof:name":"Eenhoorn (de)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058456465
+    ],
     "wof:tags":[
         "publisher"
     ]

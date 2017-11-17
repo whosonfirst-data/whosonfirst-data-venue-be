@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Place De Brouckere",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3526349068,50.851764679,4.3526349068,50.851764679",
     "geom:latitude":50.851765,
     "geom:longitude":4.352635,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place De Brouckere 38",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474016,
-    "wof:geomhash":"fcebb5df0ac66dfad09f1467baef3369",
+    "wof:geomhash":"8c8fa0e79b9b10a0f91ac3447dfdf871",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041569327,
-    "wof:lastmodified":1473722741,
+    "wof:lastmodified":1510941470,
     "wof:name":"U G C De Brouckere",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041939665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

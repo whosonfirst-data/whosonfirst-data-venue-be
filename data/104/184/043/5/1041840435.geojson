@@ -7,13 +7,16 @@
     "addr:postcode":"2500",
     "addr:street":"Antwerpsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5298581123,51.150806427,4.5298581123,51.150806427",
     "geom:latitude":51.150806,
     "geom:longitude":4.529858,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpsesteenweg 505",
     "sg:city":"Lier",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485389,
-    "wof:geomhash":"462de7dd14896dbd84b0258019a2693b",
+    "wof:geomhash":"d3f872e47989677569c9369722f85701",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,15 @@
         }
     ],
     "wof:id":1041840435,
-    "wof:lastmodified":1473719474,
+    "wof:lastmodified":1510943753,
     "wof:name":"Peugeot/ Garage Nova",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041847271,
+        1041844161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

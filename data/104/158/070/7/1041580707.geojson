@@ -7,13 +7,16 @@
     "addr:postcode":"3200",
     "addr:street":"Pastoor Dergentlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7980999947,50.964389801,4.7980999947,50.964389801",
     "geom:latitude":50.96439,
     "geom:longitude":4.7981,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pastoor Dergentlaan 62",
     "sg:city":"Aarschot",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474482,
-    "wof:geomhash":"3f9b8c51071596d1922bea23fc97f5b9",
+    "wof:geomhash":"d32ec11247d0c95e39764a8ad410e65b",
     "wof:hierarchy":[],
     "wof:id":1041580707,
-    "wof:lastmodified":1473719539,
+    "wof:lastmodified":1510941527,
     "wof:name":"Siba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042265549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"

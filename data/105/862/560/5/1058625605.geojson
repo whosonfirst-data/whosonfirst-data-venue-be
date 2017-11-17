@@ -7,13 +7,16 @@
     "addr:postcode":"2470",
     "addr:street":"Veldenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0784740448,51.2732887268,5.0784740448,51.2732887268",
     "geom:latitude":51.273289,
     "geom:longitude":5.078474,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Veldenstraat 14",
     "sg:city":"Retie",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473533817,
-    "wof:geomhash":"a665a706e17eaaef09e8918d5fa2d340",
+    "wof:geomhash":"39ec45006eb840ef49d63c91e6be677b",
     "wof:hierarchy":[],
     "wof:id":1058625605,
-    "wof:lastmodified":1473721622,
+    "wof:lastmodified":1510942813,
     "wof:name":"Dica's Pedalos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058992279,
+        1058804839
+    ],
+    "wof:supersedes":[
+        1058292187,
+        1058584433,
+        1041932957
+    ],
     "wof:tags":[
         "furniture"
     ]

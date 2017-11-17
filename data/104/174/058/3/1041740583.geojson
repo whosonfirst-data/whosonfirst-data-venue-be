@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Place Du Rinsdelle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3963270187,50.8339614868,4.3963270187,50.8339614868",
     "geom:latitude":50.833961,
     "geom:longitude":4.396327,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Du Rinsdelle 29",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480955,
-    "wof:geomhash":"12a07a86b5e8335899dfdc1934316d84",
+    "wof:geomhash":"f5856fbb5aba9e2735f0eddf2244ddcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041740583,
-    "wof:lastmodified":1473719483,
+    "wof:lastmodified":1510942426,
     "wof:name":"Sima S.a.",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058399313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air-conditioning",

@@ -7,13 +7,16 @@
     "addr:postcode":"5580",
     "addr:street":"Rue De France",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2218427658,50.1575317383,5.2218427658,50.1575317383",
     "geom:latitude":50.157532,
     "geom:longitude":5.221843,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De France 17",
     "sg:city":"Rochefort",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473518644,
-    "wof:geomhash":"4d7e06165a509db2f5bc64e870510a5b",
+    "wof:geomhash":"7236d12fc03911c5130de5a5d79faa08",
     "wof:hierarchy":[],
     "wof:id":1058301119,
-    "wof:lastmodified":1473719776,
+    "wof:lastmodified":1510943370,
     "wof:name":"Jacli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058846365
+    ],
+    "wof:supersedes":[
+        1042090753,
+        1058067799
+    ],
     "wof:tags":[]
 },
   "bbox": [

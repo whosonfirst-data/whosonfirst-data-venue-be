@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Co\u0302Te D'Or;Sclessin Lie\u0300Ge",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5848197937,50.6475486755,5.5848197937,50.6475486755",
     "geom:latitude":50.647549,
     "geom:longitude":5.58482,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue C\u00f4te D'or 286",
     "sg:city":"Li\u00e8ge 1 (sclessin)",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526495,
-    "wof:geomhash":"25e5d7396e956cd7a1f71b4554237c73",
+    "wof:geomhash":"8c7acfe353531fbd2ddb8a0358c8c6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,31 @@
         }
     ],
     "wof:id":1058466055,
-    "wof:lastmodified":1473721740,
+    "wof:lastmodified":1510944123,
     "wof:name":"Imprimat Sprl",
     "wof:parent_id":85862039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058479417,
+        1058479925,
+        1058583405,
+        1058866041,
+        1058605625,
+        1058479363,
+        1058828801
+    ],
+    "wof:supersedes":[
+        1042143801,
+        1042117477,
+        1042275619,
+        1058515827,
+        1041961471,
+        1042171645,
+        1058087049,
+        1042184289,
+        1042118373
+    ],
     "wof:tags":[]
 },
   "bbox": [

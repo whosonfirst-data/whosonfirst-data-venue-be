@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Boulevard D'Avroy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5678730011,50.6307067871,5.5678730011,50.6307067871",
     "geom:latitude":50.630707,
     "geom:longitude":5.567873,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard D'avroy 280",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479373,
-    "wof:geomhash":"fc701319692465f654e53fff3f8898d3",
+    "wof:geomhash":"463adcf18f63982eebca3cff71f496c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041702137,
-    "wof:lastmodified":1473720296,
+    "wof:lastmodified":1510942839,
     "wof:name":"Andr\u00c9 Musch",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041853429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

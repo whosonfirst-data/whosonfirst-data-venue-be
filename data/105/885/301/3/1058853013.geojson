@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5669360161,50.5327568054,5.5669360161,50.5327568054",
     "geom:latitude":50.532757,
     "geom:longitude":5.566936,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Neef 15",
     "sg:city":"Esneux (tilff)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543860,
-    "wof:geomhash":"746e1b015711bb7c770df780ad7c29e4",
+    "wof:geomhash":"96fcb5441d2e3499e93572e44dd563eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,25 @@
         }
     ],
     "wof:id":1058853013,
-    "wof:lastmodified":1473720751,
+    "wof:lastmodified":1510943681,
     "wof:name":"Lemmens Cablerie-corderie",
     "wof:parent_id":85801627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058701297,
+        1042002163,
+        1058730041,
+        1058467397,
+        1041902861,
+        1058852037,
+        1042049337,
+        1058355203,
+        1058151125,
+        1058196053,
+        1058845645
+    ],
     "wof:tags":[
         "tarpaulin"
     ]

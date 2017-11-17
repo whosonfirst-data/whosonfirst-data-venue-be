@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7542519569,51.0352363586,3.7542519569,51.0352363586",
     "geom:latitude":51.035236,
     "geom:longitude":3.754252,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brusselsesteenweg 427",
     "sg:city":"Gent (gentbrugge)",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535406,
-    "wof:geomhash":"5a6f4ea889d7cbb0b070640b30629c9b",
+    "wof:geomhash":"567192e2f3c8dd609a38cf281df0c96e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,13 +67,21 @@
         }
     ],
     "wof:id":1058659691,
-    "wof:lastmodified":1473722752,
+    "wof:lastmodified":1510941365,
     "wof:name":"Air Compact Belgium",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058510463,
+        1041941953,
+        1058214729,
+        1058201413,
+        1042209021,
+        1058594937,
+        1058376383
+    ],
     "wof:tags":[
         "use",
         "apparatus",

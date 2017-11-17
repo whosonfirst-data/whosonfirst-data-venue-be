@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4009451866,51.1639022827,4.4009451866,51.1639022827",
     "geom:latitude":51.163902,
     "geom:longitude":4.400945,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Universiteitsplein 1",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514031,
-    "wof:geomhash":"7ec2f0f3941b7b7447dabc230892c0ba",
+    "wof:geomhash":"767995fd2564bd0006b77cf02ef9a674",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058195933,
-    "wof:lastmodified":1473721607,
+    "wof:lastmodified":1510943051,
     "wof:name":"U.i.a.-faculteit Rechten",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042266513
+    ],
     "wof:tags":[]
 },
   "bbox": [

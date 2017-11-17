@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7218608856,51.0466041565,3.7218608856,51.0466041565",
     "geom:latitude":51.046604,
     "geom:longitude":3.721861,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nederkouter 124",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486242,
-    "wof:geomhash":"13e8e271f5b74670564181c1828363b1",
+    "wof:geomhash":"8ffc4e3ed1b265bdc570e35a627e3d58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041860631,
-    "wof:lastmodified":1473719525,
+    "wof:lastmodified":1510941844,
     "wof:name":"Henri D'haenens",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041709133
+    ],
     "wof:tags":[]
 },
   "bbox": [

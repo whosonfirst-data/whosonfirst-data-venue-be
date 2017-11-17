@@ -7,13 +7,16 @@
     "addr:postcode":"8310",
     "addr:street":"Maalsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2523839474,51.2095336914,3.2523839474,51.2095336914",
     "geom:latitude":51.209534,
     "geom:longitude":3.252384,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maalsesteenweg 197",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473491861,
-    "wof:geomhash":"a2ce877be2868b5c231d516a868cfc8d",
+    "wof:geomhash":"2867ec57d741d72d73c8648a7bf5f678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041988629,
-    "wof:lastmodified":1473722515,
+    "wof:lastmodified":1510944030,
     "wof:name":"Colora",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058461085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

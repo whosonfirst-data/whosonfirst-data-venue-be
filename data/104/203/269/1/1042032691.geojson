@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3506169319,50.8410873413,4.3506169319,50.8410873413",
     "geom:latitude":50.841087,
     "geom:longitude":4.350617,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place De La Chapelle 8",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473493557,
-    "wof:geomhash":"d5ab4886e5b8a4f991b186d43517537a",
+    "wof:geomhash":"dc606c64ebaeba22794a829a850862d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":1042032691,
-    "wof:lastmodified":1473720681,
+    "wof:lastmodified":1510943240,
     "wof:name":"Monev S.a.",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041571049
+    ],
     "wof:tags":[
         "television",
         "camera",

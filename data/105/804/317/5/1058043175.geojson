@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2150011063,51.2054672241,3.2150011063,51.2054672241",
     "geom:latitude":51.205467,
     "geom:longitude":3.215001,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Smedenstraat 36",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1203374461,
         "sg:id":"SG_25UcXRpMDgsVNpKCybtYWx_51.205467_3.215001@1306268433"
     },
     "wof:country":"BE",
     "wof:created":1473507244,
-    "wof:geomhash":"b866201bc39f6d9492e6f8f51e515504",
+    "wof:geomhash":"32c2227d72213529259fbbcf983f8540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1058043175,
-    "wof:lastmodified":1473720850,
+    "wof:lastmodified":1510941612,
     "wof:name":"Verdievel",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"9255",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1914110184,51.0306549072,4.1914110184,51.0306549072",
     "geom:latitude":51.030655,
     "geom:longitude":4.191411,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Provincialebaan 136",
     "sg:city":"Buggenhout",
     "sg:classifiers":[
@@ -38,16 +41,30 @@
     },
     "wof:country":"BE",
     "wof:created":1473514862,
-    "wof:geomhash":"340157128677e30541ad94cbbf5751f9",
+    "wof:geomhash":"1615a641b6a3cf24a26f7db31b867e55",
     "wof:hierarchy":[],
     "wof:id":1058214775,
-    "wof:lastmodified":1473721341,
+    "wof:lastmodified":1510943806,
     "wof:name":"De Kinder Hardware Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058879271,
+        1058376453,
+        1058595027,
+        1058461895,
+        1058406007,
+        1058798383,
+        1058729975,
+        1058324275,
+        1058879687
+    ],
+    "wof:supersedes":[
+        1058152499,
+        1041961273,
+        1058045663
+    ],
     "wof:tags":[
         "hydraulics"
     ]

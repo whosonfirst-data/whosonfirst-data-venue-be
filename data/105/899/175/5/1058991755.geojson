@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5921797752,51.1415214539,5.5921797752,51.1415214539",
     "geom:latitude":51.141521,
     "geom:longitude":5.59218,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nieuwstadpoort 43",
     "sg:city":"Bree",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473550175,
-    "wof:geomhash":"4bdfdb0db7360ef3fad572dccee1859c",
+    "wof:geomhash":"ac3e29a9f33b57ab1bd422c7f2c43258",
     "wof:hierarchy":[],
     "wof:id":1058991755,
-    "wof:lastmodified":1473720114,
+    "wof:lastmodified":1510941602,
     "wof:name":"Profitrent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041560875
+    ],
     "wof:tags":[
         "platform",
         "work"

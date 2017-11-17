@@ -7,13 +7,16 @@
     "addr:postcode":"2860",
     "addr:street":"Drevendaal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5127978325,51.0679359436,4.5127978325,51.0679359436",
     "geom:latitude":51.067936,
     "geom:longitude":4.512798,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Drevendaal 13",
     "sg:city":"Sint-katelijne-waver",
     "sg:classifiers":[
@@ -37,16 +40,30 @@
     },
     "wof:country":"BE",
     "wof:created":1473505473,
-    "wof:geomhash":"3867f5deec9b16b749601d115597b877",
+    "wof:geomhash":"28bb8c1eb9f75521f75ad437356ee163",
     "wof:hierarchy":[],
     "wof:id":1042275593,
-    "wof:lastmodified":1473721592,
+    "wof:lastmodified":1510944052,
     "wof:name":"Drukkerij Hellemans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058543187,
+        1058828453,
+        1058546373,
+        1058604877,
+        1058323267,
+        1058604537,
+        1058223407,
+        1058603023
+    ],
+    "wof:supersedes":[
+        1042150753,
+        1041698049,
+        1042117361,
+        1042141343
+    ],
     "wof:tags":[
         "envelope"
     ]

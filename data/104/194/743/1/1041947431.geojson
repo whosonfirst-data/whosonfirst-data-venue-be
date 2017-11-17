@@ -7,13 +7,16 @@
     "addr:postcode":"1820",
     "addr:street":"Haachtsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.47712183,50.9100990295,4.47712183,50.9100990295",
     "geom:latitude":50.910099,
     "geom:longitude":4.477122,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Haachtsesteenweg 228",
     "sg:city":"Melsbroek",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489981,
-    "wof:geomhash":"859f8091433834fa1b850c2d17b2fdda",
+    "wof:geomhash":"d574849c78155c61c6e54ee6ffc4fa3f",
     "wof:hierarchy":[
         {
             "campus_id":102546425,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":1041947431,
-    "wof:lastmodified":1473722226,
+    "wof:lastmodified":1510943444,
     "wof:name":"Tanghe",
     "wof:parent_id":102546425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041947459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "autos",

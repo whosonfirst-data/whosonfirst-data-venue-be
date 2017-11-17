@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2239289284,51.2085151672,3.2239289284,51.2085151672",
     "geom:latitude":51.208515,
     "geom:longitude":3.223929,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Markt 14",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":101731618,
         "sg:id":"SG_2av1sJqFtsJqO4kenMqVZJ_51.208515_3.223929@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536674,
-    "wof:geomhash":"07f73e752e1e237264cf34a276bf7167",
+    "wof:geomhash":"a68ddaf48e165a763640ffaef9822069",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1058689393,
-    "wof:lastmodified":1473722690,
+    "wof:lastmodified":1510942644,
     "wof:name":"Quick",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

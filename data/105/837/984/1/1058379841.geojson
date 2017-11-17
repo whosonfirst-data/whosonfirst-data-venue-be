@@ -7,13 +7,16 @@
     "addr:postcode":"1930",
     "addr:street":"Hoge Wei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.500234127,50.8733787537,4.500234127,50.8733787537",
     "geom:latitude":50.873379,
     "geom:longitude":4.500234,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hoge Wei 27",
     "sg:city":"Zaventem (nossegem)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522354,
-    "wof:geomhash":"cf75f8d0c2ce24598500f65dc5d44391",
+    "wof:geomhash":"2c99d7caf691c780ba59cc65032fbb19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,24 @@
         }
     ],
     "wof:id":1058379841,
-    "wof:lastmodified":1473722850,
+    "wof:lastmodified":1510944087,
     "wof:name":"Asea Brown Boveri",
     "wof:parent_id":85801697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058458391,
+        1058397091,
+        1058586135
+    ],
+    "wof:supersedes":[
+        1041739123,
+        1058366069,
+        1058259083,
+        1042203845,
+        1058225815,
+        1041741051
+    ],
     "wof:tags":[
         "technical",
         "management",

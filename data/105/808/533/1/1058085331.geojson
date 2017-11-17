@@ -7,13 +7,16 @@
     "addr:postcode":"3570",
     "addr:street":"Bisschopsweyerstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2714409828,50.8611946106,5.2714409828,50.8611946106",
     "geom:latitude":50.861195,
     "geom:longitude":5.271441,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bisschopsweyerstraat 37",
     "sg:city":"Alken",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473508962,
-    "wof:geomhash":"30131b87d6e16f4157224bcd1234b83c",
+    "wof:geomhash":"77fc5d2157fbfc506be9873f09e7e2d9",
     "wof:hierarchy":[],
     "wof:id":1058085331,
-    "wof:lastmodified":1473721491,
+    "wof:lastmodified":1510944064,
     "wof:name":"Raemaekers Communications Agencies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058387263,
+        1058387831,
+        1058117303
+    ],
+    "wof:supersedes":[
+        1041699077
+    ],
     "wof:tags":[
         "-"
     ]

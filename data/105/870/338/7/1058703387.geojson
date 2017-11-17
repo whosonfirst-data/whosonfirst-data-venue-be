@@ -7,13 +7,16 @@
     "addr:postcode":"4620",
     "addr:street":"Rue De Magne\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.677749157,50.610168457,5.677749157,50.610168457",
     "geom:latitude":50.610168,
     "geom:longitude":5.677749,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Magn\u00e9e 94-96",
     "sg:city":"Fl\u00e9ron",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537259,
-    "wof:geomhash":"1ab79ca6396e1756a6b2108cd53e92f3",
+    "wof:geomhash":"f94a6d50e5ecea187dcc613fe13cfdfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,20 @@
         }
     ],
     "wof:id":1058703387,
-    "wof:lastmodified":1473720876,
+    "wof:lastmodified":1510941861,
     "wof:name":"Lamy G.c.n. Ets",
     "wof:parent_id":85801585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968833
+    ],
+    "wof:supersedes":[
+        1058041199,
+        1058034579,
+        1058287649,
+        1058376557
+    ],
     "wof:tags":[
         "-",
         "rug",

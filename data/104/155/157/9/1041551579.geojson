@@ -7,13 +7,16 @@
     "addr:postcode":"1140",
     "addr:street":"Rue Edouard Dekoster",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4034371376,50.878578186,4.4034371376,50.878578186",
     "geom:latitude":50.878578,
     "geom:longitude":4.403437,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Edouard Dekoster 61-91",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473252,
-    "wof:geomhash":"5ec9092ac6d1d4728dcff30a8be8fe37",
+    "wof:geomhash":"37a6dbe518e9f300a3f5b66873f4bf93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":1041551579,
-    "wof:lastmodified":1473720022,
+    "wof:lastmodified":1510942598,
     "wof:name":"Inter Distribution Corporation S.a.",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058515973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ball",

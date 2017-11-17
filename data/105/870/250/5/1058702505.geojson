@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4942011833,51.19713974,4.4942011833,51.19713974",
     "geom:latitude":51.19714,
     "geom:longitude":4.494201,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schanslaan 152",
     "sg:city":"Borsbeek",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537218,
-    "wof:geomhash":"aaf46b09ae9eda52cdb4f359b6fa3921",
+    "wof:geomhash":"c573e0e86314ff73ca43c93f172bb303",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1058702505,
-    "wof:lastmodified":1473720424,
+    "wof:lastmodified":1510943511,
     "wof:name":"De Bondt Garden Center",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041946955
+    ],
     "wof:tags":[]
 },
   "bbox": [

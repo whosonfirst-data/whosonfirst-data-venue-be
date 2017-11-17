@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7016558647,50.8703918457,4.7016558647,50.8703918457",
     "geom:latitude":50.870392,
     "geom:longitude":4.701656,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Constantin Meunierstraat 111",
     "sg:city":"Leuven",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486364,
-    "wof:geomhash":"57fc9db04a5bed608c00f274fb31bf94",
+    "wof:geomhash":"17434307dbab8b37b29dfe892273d576",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1041863485,
-    "wof:lastmodified":1473720887,
+    "wof:lastmodified":1510943439,
     "wof:name":"K. Jans",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041711837
+    ],
     "wof:tags":[]
 },
   "bbox": [

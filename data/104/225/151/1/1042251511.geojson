@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Lodewijk Coiseaukaai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2261660099,51.2305412292,3.2261660099,51.2305412292",
     "geom:latitude":51.230541,
     "geom:longitude":3.226166,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lodewijk Coiseaukaai 7a",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473504312,
-    "wof:geomhash":"9ad386109e54fca3379f083828bed427",
+    "wof:geomhash":"b6c3b2cf1a6e63c35202cc7d78ead7d3",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,13 +59,20 @@
         }
     ],
     "wof:id":1042251511,
-    "wof:lastmodified":1473719959,
+    "wof:lastmodified":1510944187,
     "wof:name":"Flanders Ship Repair",
     "wof:parent_id":85862105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042251557,
+        1058772923,
+        1058966367,
+        1058376805
+    ],
+    "wof:supersedes":[
+        1042251323
+    ],
     "wof:tags":[
         "engine",
         "diesel",

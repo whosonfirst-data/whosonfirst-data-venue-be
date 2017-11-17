@@ -7,13 +7,16 @@
     "addr:postcode":"1342",
     "addr:street":"Rue Charles Dubois",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5862388611,50.6818275452,4.5862388611,50.6818275452",
     "geom:latitude":50.681828,
     "geom:longitude":4.586239,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Charles Dubois 87",
     "sg:city":"Ottignies-louvain-la-neuve",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473536715,
-    "wof:geomhash":"685d69445dd712e318fcde9e898dcaee",
+    "wof:geomhash":"be3db60eb85873a8fe77f978326725ba",
     "wof:hierarchy":[],
     "wof:id":1058690485,
-    "wof:lastmodified":1473719480,
+    "wof:lastmodified":1510943482,
     "wof:name":"Ch\u00c2teau De Limelette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058763167
+    ],
+    "wof:supersedes":[
+        1058205899,
+        1058202913
+    ],
     "wof:tags":[]
 },
   "bbox": [

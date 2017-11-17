@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5697441101,51.2719421387,4.5697441101,51.2719421387",
     "geom:latitude":51.271942,
     "geom:longitude":4.569744,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint-jobsteenweg 90",
     "sg:city":"Schilde ('s Gravenwezel)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473517375,
-    "wof:geomhash":"5c3fefcc68555a1bc94d887db64467fd",
+    "wof:geomhash":"7d6af3af0b8c4734d7ba70c4c95652d2",
     "wof:hierarchy":[],
     "wof:id":1058272601,
-    "wof:lastmodified":1473720669,
+    "wof:lastmodified":1510943038,
     "wof:name":"Jcr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041545983
+    ],
     "wof:tags":[
         "broker"
     ]

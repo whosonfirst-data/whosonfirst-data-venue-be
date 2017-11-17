@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.410577774,50.861114502,4.410577774,50.861114502",
     "geom:latitude":50.861115,
     "geom:longitude":4.410578,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De La Qui\u00e9tude 15",
     "sg:city":"Bruxelles (evere)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535474,
-    "wof:geomhash":"e4559cbb60aa5956e2066ba0cadde913",
+    "wof:geomhash":"d0bc949feb5794bded940a82db908fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058661271,
-    "wof:lastmodified":1473719775,
+    "wof:lastmodified":1510941949,
     "wof:name":"Clos De La Qui\u00e9tude",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041628091
+    ],
     "wof:tags":[
         "home",
         "rest"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0463769436,51.0180397034,3.0463769436,51.0180397034",
     "geom:latitude":51.01804,
     "geom:longitude":3.046377,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoogledestraat 92",
     "sg:city":"Kortemark",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473545508,
-    "wof:geomhash":"864bd69d05606fed4a8cc225343a7547",
+    "wof:geomhash":"923ec1aceff7b9fc9674184d493b502e",
     "wof:hierarchy":[],
     "wof:id":1058890775,
-    "wof:lastmodified":1473719631,
+    "wof:lastmodified":1510942751,
     "wof:name":"Briqueteries Desimpel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058026825,
+        1058459885
+    ],
     "wof:tags":[
         "-",
         "transport"

@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Chausse\u0301E De Waterloo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.360394001,50.8198318481,4.360394001,50.8198318481",
     "geom:latitude":50.819832,
     "geom:longitude":4.360394,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Waterloo 522",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478041,
-    "wof:geomhash":"f9932478e4d8b206b71ea0f50450df89",
+    "wof:geomhash":"4496e7a41d8bfd270d61a128f9f293d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041667775,
-    "wof:lastmodified":1473722352,
+    "wof:lastmodified":1510942341,
     "wof:name":"B.m.t.",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042117397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

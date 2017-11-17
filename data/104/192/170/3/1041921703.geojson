@@ -7,13 +7,16 @@
     "addr:postcode":"3090",
     "addr:street":"Rameistraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5385890007,50.7509765625,4.5385890007,50.7509765625",
     "geom:latitude":50.750977,
     "geom:longitude":4.538589,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rameistraat 62",
     "sg:city":"Overijse",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488799,
-    "wof:geomhash":"d19a5998f356e988ba24a95253aa2a82",
+    "wof:geomhash":"1cecc14c4516bd36a40caa3b4a4ba299",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,20 @@
         }
     ],
     "wof:id":1041921703,
-    "wof:lastmodified":1473720061,
+    "wof:lastmodified":1510943962,
     "wof:name":"All Drinks Brux-ale",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041931919,
+        1058939299,
+        1058917361,
+        1041935653,
+        1058971511,
+        1041990287,
+        1058965503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ale",

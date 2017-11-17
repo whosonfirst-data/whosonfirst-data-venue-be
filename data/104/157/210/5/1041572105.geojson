@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue De La Petite Ile",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3174748421,50.8309059143,4.3174748421,50.8309059143",
     "geom:latitude":50.830906,
     "geom:longitude":4.317475,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Petite Ile 9",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474122,
-    "wof:geomhash":"66d2d90e227a346178e6cae4af60c170",
+    "wof:geomhash":"c1d914ffae8ff781fdcf40bc3ebea1de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041572105,
-    "wof:lastmodified":1473720251,
+    "wof:lastmodified":1510942528,
     "wof:name":"Stimac Sa",
     "wof:parent_id":85801525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058373701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tool",

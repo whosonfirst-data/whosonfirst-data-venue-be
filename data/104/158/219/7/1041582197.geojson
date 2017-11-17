@@ -7,13 +7,16 @@
     "addr:postcode":"7110",
     "addr:street":"La",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1505050659,50.4826698303,4.1505050659,50.4826698303",
     "geom:latitude":50.48267,
     "geom:longitude":4.150505,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pav\u00e9 Du Roeulx 201",
     "sg:city":"La Louvi\u00e8re (str\u00e9py-bracquegnies)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474537,
-    "wof:geomhash":"20152d832a1cd47403b248badc87753b",
+    "wof:geomhash":"9514092ed0161270429b174ff5083a6d",
     "wof:hierarchy":[],
     "wof:id":1041582197,
-    "wof:lastmodified":1473720309,
+    "wof:lastmodified":1510944088,
     "wof:name":"Electro-gros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042214197
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"

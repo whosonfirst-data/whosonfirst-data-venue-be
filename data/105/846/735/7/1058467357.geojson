@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Antwerpsesteenweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7440481186,51.058719635,3.7440481186,51.058719635",
     "geom:latitude":51.05872,
     "geom:longitude":3.744048,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpsesteenweg 63",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526552,
-    "wof:geomhash":"b490b46ba8f0eb68403acba1ef6ac23a",
+    "wof:geomhash":"2c218968f419d4b847b2582879c8d938",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,22 @@
         }
     ],
     "wof:id":1058467357,
-    "wof:lastmodified":1473722114,
+    "wof:lastmodified":1510943971,
     "wof:name":"Legiest",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058775445,
+        1058647443,
+        1058956645
+    ],
+    "wof:supersedes":[
+        1042108501,
+        1042073543,
+        1058421101,
+        1042071491
+    ],
     "wof:tags":[]
 },
   "bbox": [

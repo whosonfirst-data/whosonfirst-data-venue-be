@@ -7,13 +7,16 @@
     "addr:postcode":"15-21;4032",
     "addr:street":"Rue De La Coope\u0301Ration",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.620221138,50.6122055054,5.620221138,50.6122055054",
     "geom:latitude":50.612206,
     "geom:longitude":5.620221,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Coop\u00e9ration 15-21",
     "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473548969,
-    "wof:geomhash":"5d6af2c69b9dd3f92f24f4afcefeba66",
+    "wof:geomhash":"bfb2804018f7910f0195e4756c6d6ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,26 @@
         }
     ],
     "wof:id":1058964379,
-    "wof:lastmodified":1473721216,
+    "wof:lastmodified":1510943330,
     "wof:name":"Philippe (entreprises) Sa",
     "wof:parent_id":85800991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058965429,
+        1058964997
+    ],
+    "wof:supersedes":[
+        1058041601,
+        1058179333,
+        1058177031,
+        1058268545,
+        1058912337,
+        1058906873,
+        1041739485,
+        1058594177,
+        1058750351
+    ],
     "wof:tags":[
         "water",
         "heater"

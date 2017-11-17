@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8966031075,50.3793869019,4.8966031075,50.3793869019",
     "geom:latitude":50.379387,
     "geom:longitude":4.896603,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Saint-leger 8",
     "sg:city":"Profondeville",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473492587,
-    "wof:geomhash":"eb4532ac054fefd43269edddfdc1b3b2",
+    "wof:geomhash":"14c748efe6100d9a565e30341c42debc",
     "wof:hierarchy":[],
     "wof:id":1042007479,
-    "wof:lastmodified":1473722164,
+    "wof:lastmodified":1510943532,
     "wof:name":"Caf\u00c9 De La Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041650989
+    ],
     "wof:tags":[
         "caf\u00e9s"
     ]

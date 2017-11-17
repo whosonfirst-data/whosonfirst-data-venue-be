@@ -7,13 +7,16 @@
     "addr:postcode":"3630",
     "addr:street":"Sint-Pietersstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7374100685,50.994468689,5.7374100685,50.994468689",
     "geom:latitude":50.994469,
     "geom:longitude":5.73741,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-pietersstraat 82",
     "sg:city":"Maasmechelen (leut)",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472902,
-    "wof:geomhash":"5b35946127beadcf28ca0a8e0fba162f",
+    "wof:geomhash":"153d5a0f0ddce4a390cfa04d23bbcb00",
     "wof:hierarchy":[
         {
             "country_id":85633337,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":1041542521,
-    "wof:lastmodified":1473720388,
+    "wof:lastmodified":1510942418,
     "wof:name":"Van Ende K",
     "wof:parent_id":85797937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041770319
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

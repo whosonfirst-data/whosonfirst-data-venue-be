@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1579329967,50.923576355,3.1579329967,50.923576355",
     "geom:latitude":50.923576,
     "geom:longitude":3.157933,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oekensestraat 149",
     "sg:city":"Roeselare (rumbeke)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473507907,
-    "wof:geomhash":"f695f4bd949d7b2d95f5fde9615f704b",
+    "wof:geomhash":"0cc009e1257d17d6303241d69bc7884d",
     "wof:hierarchy":[],
     "wof:id":1058059729,
-    "wof:lastmodified":1473722892,
+    "wof:lastmodified":1510943293,
     "wof:name":"Parrein Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041990083
+    ],
     "wof:tags":[
         "frozen",
         "-"

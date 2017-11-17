@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.318628788,50.7955780029,4.318628788,50.7955780029",
     "geom:latitude":50.795578,
     "geom:longitude":4.318629,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Stalle 292b",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501880,
-    "wof:geomhash":"eec7e55da0d55b395a365a7be43bed29",
+    "wof:geomhash":"86e97b6c193786ad60f4937b77167495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":1042198907,
-    "wof:lastmodified":1473722549,
+    "wof:lastmodified":1510941327,
     "wof:name":"Infac-infobo-espace Formation Pme",
     "wof:parent_id":85801557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041696587,
+        1042196385
+    ],
     "wof:tags":[
         "secondary"
     ]

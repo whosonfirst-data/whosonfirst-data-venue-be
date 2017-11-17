@@ -7,13 +7,16 @@
     "addr:postcode":"3001",
     "addr:street":"Interleuvenlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7285151482,50.8478012085,4.7285151482,50.8478012085",
     "geom:latitude":50.847801,
     "geom:longitude":4.728515,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Interleuvenlaan 5",
     "sg:city":"Leuven",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473508011,
-    "wof:geomhash":"f7c54ff5fd7a15f4875bf8c6ffec8c57",
+    "wof:geomhash":"1b2199586b327b160587dc18dd42fc0e",
     "wof:hierarchy":[],
     "wof:id":1058062021,
-    "wof:lastmodified":1473720253,
+    "wof:lastmodified":1510942492,
     "wof:name":"N.e.t.g.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058421811
+    ],
+    "wof:supersedes":[
+        1042166631,
+        1042123195
+    ],
     "wof:tags":[
         "enseignement",
         "formation"

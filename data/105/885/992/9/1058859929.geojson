@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1628270149,51.1614990234,4.1628270149,51.1614990234",
     "geom:latitude":51.161499,
     "geom:longitude":4.162827,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Geraniumstraat 4",
     "sg:city":"Sint-niklaas",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544153,
-    "wof:geomhash":"ec9356d40b92b448d35b63abb919158e",
+    "wof:geomhash":"3dc3ff487d0e43822b5f82152e80e7e4",
     "wof:hierarchy":[],
     "wof:id":1058859929,
-    "wof:lastmodified":1473722885,
+    "wof:lastmodified":1510942397,
     "wof:name":"Eurotaxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058859925
+    ],
     "wof:tags":[
         "taxi's"
     ]

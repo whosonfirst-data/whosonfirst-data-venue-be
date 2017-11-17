@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Sint-Jozefsstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2338209152,51.2273712158,3.2338209152,51.2273712158",
     "geom:latitude":51.227371,
     "geom:longitude":3.233821,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-jozefsstraat 44",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494793,
-    "wof:geomhash":"91da8da3162e8af1181c024c462a4461",
+    "wof:geomhash":"3a00288572ea097e9d92bd94b94904cd",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,16 @@
         }
     ],
     "wof:id":1042063061,
-    "wof:lastmodified":1473720823,
+    "wof:lastmodified":1510943665,
     "wof:name":"Jacxens Marc & Zoon",
     "wof:parent_id":85862105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058058419,
+        1058178999,
+        1042063239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "builder",

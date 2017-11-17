@@ -7,6 +7,7 @@
     "addr:postcode":"9300",
     "addr:street":"Langestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":4.060408,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Langestraat 12",
     "sg:city":"Aalst",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"4f62b6ef8383f73100d12c8877af5e53",
     "wof:hierarchy":[],
     "wof:id":1041692637,
-    "wof:lastmodified":1510695830,
+    "wof:lastmodified":1510944112,
     "wof:name":"Clb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058372665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4297227859,50.913066864,4.4297227859,50.913066864",
     "geom:latitude":50.913067,
     "geom:longitude":4.429723,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Kerklaan 37",
     "sg:city":"Machelen",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":28809550,
         "sg:id":"SG_3dB2dDzmsWSkGrBvYmBVeA_50.913067_4.429723@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536576,
-    "wof:geomhash":"33519aad512f9556647777fe943c2f82",
+    "wof:geomhash":"9ce2534f9b4d573ffd8b509d5e00576f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1058686825,
-    "wof:lastmodified":1473721910,
+    "wof:lastmodified":1510941633,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85800977,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue Ge\u0301Ne\u0301Ral Lotz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3577871323,50.8143882751,4.3577871323,50.8143882751",
     "geom:latitude":50.814388,
     "geom:longitude":4.357787,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue G\u00e9n\u00e9ral Lotz 33",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475307,
-    "wof:geomhash":"45ef461af45fce0bf480abdf5b6904f9",
+    "wof:geomhash":"376c012c965b622c813e83b28bf2c4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041600223,
-    "wof:lastmodified":1473718923,
+    "wof:lastmodified":1510941907,
     "wof:name":"Foty-fr\u00e8re",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058742451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gentleman",

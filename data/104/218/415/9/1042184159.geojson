@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4990739822,50.654384613,5.4990739822,50.654384613",
     "geom:latitude":50.654385,
     "geom:longitude":5.499074,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"R De L'informatique 3",
     "sg:city":"Grace-hollogne",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501029,
-    "wof:geomhash":"fa4f2e313eb48962cf7a5f288044ace3",
+    "wof:geomhash":"9e2fdd297e3452a280fbe3743f933cff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042184159,
-    "wof:lastmodified":1473721252,
+    "wof:lastmodified":1510943533,
     "wof:name":"Hydrogaz Sa",
     "wof:parent_id":85801183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041597023
+    ],
     "wof:tags":[
         "duct",
         "underground",

@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Brugsepoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7102630138,51.0562744141,3.7102630138,51.0562744141",
     "geom:latitude":51.056274,
     "geom:longitude":3.710263,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brugsepoortstraat 17",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527290,
-    "wof:geomhash":"44f00afc4089e712268d50f2154c123a",
+    "wof:geomhash":"40b1c798f4fd7d045a99927b64222bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1058483275,
-    "wof:lastmodified":1473720863,
+    "wof:lastmodified":1510943667,
     "wof:name":"Garage Regniers",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058948069
+    ],
+    "wof:supersedes":[
+        1058483227,
+        1058483195
+    ],
     "wof:tags":[]
 },
   "bbox": [

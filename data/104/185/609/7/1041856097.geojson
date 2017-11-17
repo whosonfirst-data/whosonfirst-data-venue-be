@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6839799881,51.0187416077,3.6839799881,51.0187416077",
     "geom:latitude":51.018742,
     "geom:longitude":3.68398,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pieter Van Reysschootlaan 2",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486050,
-    "wof:geomhash":"fd472b1d7476d921a091795ec487af2f",
+    "wof:geomhash":"72290485118e4f0ac40f4998580b28bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041856097,
-    "wof:lastmodified":1473721800,
+    "wof:lastmodified":1510943465,
     "wof:name":"Christophe Poppe",
     "wof:parent_id":85801137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041704731
+    ],
     "wof:tags":[]
 },
   "bbox": [

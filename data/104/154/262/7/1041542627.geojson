@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8026518822,50.5630607605,5.8026518822,50.5630607605",
     "geom:latitude":50.563061,
     "geom:longitude":5.802652,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue La N\u00d4 34",
     "sg:city":"Pepinster",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473472906,
-    "wof:geomhash":"635b04b662a3449d155a00a7b64c86b2",
+    "wof:geomhash":"9cd0e2fe20cd91612cea727aadea57bb",
     "wof:hierarchy":[],
     "wof:id":1041542627,
-    "wof:lastmodified":1473720443,
+    "wof:lastmodified":1510942440,
     "wof:name":"Armurerie F.g. 42",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058130195
+    ],
     "wof:tags":[
         "armes",
         "munition"

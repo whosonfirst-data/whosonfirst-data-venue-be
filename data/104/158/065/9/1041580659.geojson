@@ -7,13 +7,16 @@
     "addr:postcode":"1410",
     "addr:street":"Dre\u0300Ve D'Argenteuil",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4051589966,50.7042236328,4.4051589966,50.7042236328",
     "geom:latitude":50.704224,
     "geom:longitude":4.405159,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dr\u00e8ve D'argenteuil 10c",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474480,
-    "wof:geomhash":"d630a7444b5a83260cb804b28365d002",
+    "wof:geomhash":"800378d3cd8e34cc10f1e0dc6d3f4135",
     "wof:hierarchy":[],
     "wof:id":1041580659,
-    "wof:lastmodified":1473719517,
+    "wof:lastmodified":1510941957,
     "wof:name":"Lyc\u00e9e De Berlaymont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042264597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"

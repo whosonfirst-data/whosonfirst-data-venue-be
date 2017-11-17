@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Avenue Euge\u0300Ne Plasky",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3977088928,50.8544387817,4.3977088928,50.8544387817",
     "geom:latitude":50.854439,
     "geom:longitude":4.397709,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Eug\u00e8ne Plasky 212",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475711,
-    "wof:geomhash":"7a866e988a21c9f245cb8a36d168b4b3",
+    "wof:geomhash":"26dd53d8d104283d50eb7f042da92c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041610099,
-    "wof:lastmodified":1473718918,
+    "wof:lastmodified":1510941789,
     "wof:name":"Hotel Plasky",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058215875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

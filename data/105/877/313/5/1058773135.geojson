@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Stokerijstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5350279808,51.2266273499,4.5350279808,51.2266273499",
     "geom:latitude":51.226627,
     "geom:longitude":4.535028,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stokerijstraat 35",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -39,16 +42,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473540386,
-    "wof:geomhash":"591f035275c721120eb5bfb82af264ff",
+    "wof:geomhash":"c34b9c688c4648637447ae3e6c762683",
     "wof:hierarchy":[],
     "wof:id":1058773135,
-    "wof:lastmodified":1473720825,
+    "wof:lastmodified":1510943606,
     "wof:name":"De Backere Industrial Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058992267
+    ],
+    "wof:supersedes":[
+        1042002151,
+        1041913259,
+        1058420589,
+        1042049317
+    ],
     "wof:tags":[
         "equipment",
         "ship"

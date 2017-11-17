@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Ottogracht;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7274730206,51.0587043762,3.7274730206,51.0587043762",
     "geom:latitude":51.058704,
     "geom:longitude":3.727473,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ottogracht 28",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480109,
-    "wof:geomhash":"14d1ff719e93817d1e19c2e5f60f9845",
+    "wof:geomhash":"0eb40004f0277ee2b46aa4194e46bbdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,17 @@
         }
     ],
     "wof:id":1041720883,
-    "wof:lastmodified":1473719705,
+    "wof:lastmodified":1510942383,
     "wof:name":"De Groote Patrick",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041886253,
+        1041720887,
+        1058336673,
+        1041872745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

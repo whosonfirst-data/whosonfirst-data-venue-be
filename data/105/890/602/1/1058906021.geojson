@@ -7,13 +7,16 @@
     "addr:postcode":"2630",
     "addr:street":"Boomsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3704738617,51.112323761,4.3704738617,51.112323761",
     "geom:latitude":51.112324,
     "geom:longitude":4.370474,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boomsesteenweg 42",
     "sg:city":"Aartselaar",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546229,
-    "wof:geomhash":"c6025f77b87a71876458ed4d0fb568df",
+    "wof:geomhash":"d1b38c1af06f17b76e61f0871a5d5cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,21 @@
         }
     ],
     "wof:id":1058906021,
-    "wof:lastmodified":1473721688,
+    "wof:lastmodified":1510944158,
     "wof:name":"Nissan Belgium",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058943463,
+        1058946279
+    ],
+    "wof:supersedes":[
+        1041840397,
+        1041745785,
+        1058093943,
+        1042127035
+    ],
     "wof:tags":[
         "-",
         "truck"

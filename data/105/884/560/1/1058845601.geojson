@@ -7,13 +7,16 @@
     "addr:postcode":"8200",
     "addr:street":"Koningin Astridlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2514960766,51.197933197,3.2514960766,51.197933197",
     "geom:latitude":51.197933,
     "geom:longitude":3.251496,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Koningin Astridlaan 97-8",
     "sg:city":"Brugge (sint-michiels)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543550,
-    "wof:geomhash":"6fd4501617e483c469aacd764a037e2a",
+    "wof:geomhash":"99f18ae86f51e70498cba9f15d08afdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1058845601,
-    "wof:lastmodified":1473721639,
+    "wof:lastmodified":1510943157,
     "wof:name":"Alucasa-sunset",
     "wof:parent_id":85800777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058917947
+    ],
+    "wof:supersedes":[
+        1058845251
+    ],
     "wof:tags":[
         "cover",
         "-"

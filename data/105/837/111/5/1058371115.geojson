@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4178462029,51.2288093567,4.4178462029,51.2288093567",
     "geom:latitude":51.228809,
     "geom:longitude":4.417846,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Duboisstraat 48",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473521934,
-    "wof:geomhash":"28a8c1fbf40f178b2e541b9e89137c6e",
+    "wof:geomhash":"829b5c73c94682957f73f9ccbe00c0ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058371115,
-    "wof:lastmodified":1473719777,
+    "wof:lastmodified":1510942630,
     "wof:name":"Transtel-sabima Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041836819
+    ],
     "wof:tags":[
         "loudspeaker"
     ]

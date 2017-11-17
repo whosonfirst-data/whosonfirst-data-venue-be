@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3722290993,50.9334487915,4.3722290993,50.9334487915",
     "geom:latitude":50.933449,
     "geom:longitude":4.372229,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hogesteenweg 21",
     "sg:city":"Grimbergen",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488651,
-    "wof:geomhash":"b6bc711899d94b843b61ba37533b9689",
+    "wof:geomhash":"abadb380de4773a6eba3d3f5853a04d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041918065,
-    "wof:lastmodified":1473722442,
+    "wof:lastmodified":1510942888,
     "wof:name":"Nailstyling Creon",
     "wof:parent_id":85801215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041920645
+    ],
     "wof:tags":[]
 },
   "bbox": [

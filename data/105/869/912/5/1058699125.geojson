@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3003997803,50.911239624,4.3003997803,50.911239624",
     "geom:latitude":50.91124,
     "geom:longitude":4.3004,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21",
     "sg:city":"Steenweg Op Merchtem 1780 Wemmel",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473537078,
-    "wof:geomhash":"03a743ebb81eb22a0d033c1c1f4b34c2",
+    "wof:geomhash":"643abe72028773bf6451e4f02b9cfc58",
     "wof:hierarchy":[],
     "wof:id":1058699125,
-    "wof:lastmodified":1473722679,
+    "wof:lastmodified":1510943728,
     "wof:name":"A Socquet Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058421481
+    ],
     "wof:tags":[
         "transport",
         "road"

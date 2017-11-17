@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7658700943,51.083568573,3.7658700943,51.083568573",
     "geom:latitude":51.083569,
     "geom:longitude":3.76587,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-jozefstraat 10",
     "sg:city":"Gent (oostakker)",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":239717334,
         "sg:id":"SG_3KAoVIw0GeEiI6YfQFfbXO_51.083569_3.765870@1306268413"
     },
     "wof:country":"BE",
     "wof:created":1473501873,
-    "wof:geomhash":"2a17a3c6fd4c42203be9062739dd58e2",
+    "wof:geomhash":"18b88529651a3ed5fddb416a85a15c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1042198741,
-    "wof:lastmodified":1473722488,
+    "wof:lastmodified":1510942520,
     "wof:name":"Edugo Campus De Toren",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

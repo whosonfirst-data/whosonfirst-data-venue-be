@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Avenue De Jupille",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.622631073,50.6508674622,5.622631073,50.6508674622",
     "geom:latitude":50.650867,
     "geom:longitude":5.622631,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Jupille 4",
     "sg:city":"Li\u00e8ge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473512038,
-    "wof:geomhash":"b0aaaeaea6d4d2e7fb794a969429ae76",
+    "wof:geomhash":"f96b2bf87123565de214c3ab92454bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058151079,
-    "wof:lastmodified":1473719729,
+    "wof:lastmodified":1510943721,
     "wof:name":"La Vieille Abbaye S.a.",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058059135
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bacon",

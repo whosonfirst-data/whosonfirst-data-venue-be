@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De L'Universite \u0301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5746068954,50.641330719,5.5746068954,50.641330719",
     "geom:latitude":50.641331,
     "geom:longitude":5.574607,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De L'universit\u00e9 45",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507166,
-    "wof:geomhash":"b22a015f119cb6d4c021226aa6768d00",
+    "wof:geomhash":"c80baa0ef38572d6f379624adb448583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,18 @@
         }
     ],
     "wof:id":1058041501,
-    "wof:lastmodified":1473719972,
+    "wof:lastmodified":1510943901,
     "wof:name":"Bellartes",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058913831,
+        1058751129,
+        1058575217,
+        1058965253,
+        1058990655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fire",

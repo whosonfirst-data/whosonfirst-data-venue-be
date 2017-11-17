@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3327851295,50.8016357422,4.3327851295,50.8016357422",
     "geom:latitude":50.801636,
     "geom:longitude":4.332785,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Victor Allard 88",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473510272,
-    "wof:geomhash":"d50418f573d4b9a5a030a84387a0d693",
+    "wof:geomhash":"3fe0ab96d8a469e1831d8ac9669c06b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058116325,
-    "wof:lastmodified":1473721752,
+    "wof:lastmodified":1510942156,
     "wof:name":"D-side Design Studio Sprl",
     "wof:parent_id":85801557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041697947
+    ],
     "wof:tags":[
         "graphic",
         "designer"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3726811409,50.8271903992,4.3726811409,50.8271903992",
     "geom:latitude":50.82719,
     "geom:longitude":4.372681,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Eugene Flagey 18",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472647,
-    "wof:geomhash":"294a266deed5ffc626ad94a4bc1caa04",
+    "wof:geomhash":"2f3da8391a0e5ba06026d3a590ea6cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1041536069,
-    "wof:lastmodified":1473719430,
+    "wof:lastmodified":1510943489,
     "wof:name":"Publicis S.a.",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041699009
+    ],
     "wof:tags":[
         "agency"
     ]

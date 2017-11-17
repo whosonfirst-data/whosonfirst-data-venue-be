@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3993468285,51.2156143188,4.3993468285,51.2156143188",
     "geom:latitude":51.215614,
     "geom:longitude":4.399347,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-antoniusstraat 8",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1426908505,
         "sg:id":"SG_4HsWlHbTl5m7BRtOtnzI6E_51.215614_4.399347@1306268523"
     },
     "wof:country":"BE",
     "wof:created":1473529301,
-    "wof:geomhash":"b1594892b162ba377c53126274ab5f1d",
+    "wof:geomhash":"ca26067408d36a24444ae302d2ecce26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058526269,
-    "wof:lastmodified":1473721889,
+    "wof:lastmodified":1510943865,
     "wof:name":"Huis De Colvenier",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",

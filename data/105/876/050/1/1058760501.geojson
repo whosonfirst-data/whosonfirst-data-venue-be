@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Frankrijklei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4154119492,51.2192802429,4.4154119492,51.2192802429",
     "geom:latitude":51.21928,
     "geom:longitude":4.415412,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frankrijklei 8 Bus 2",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539800,
-    "wof:geomhash":"472f80c5dad9186395cd8a5e3da581a4",
+    "wof:geomhash":"0d06d8cefb24ff517ca78d9a5d476469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058760501,
-    "wof:lastmodified":1473719506,
+    "wof:lastmodified":1510941638,
     "wof:name":"Derca Nv",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058773343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transport",

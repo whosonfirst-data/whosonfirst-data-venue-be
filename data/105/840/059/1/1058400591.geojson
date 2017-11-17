@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6068739891,50.713848114,4.6068739891,50.713848114",
     "geom:latitude":50.713848,
     "geom:longitude":4.606874,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Pont Saint-jean 2",
     "sg:city":"Wavre",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473523269,
-    "wof:geomhash":"6fd3c6cd0c532819fb43c5f07be5c5cf",
+    "wof:geomhash":"b7c619ec20b2a672fbd69e849f05c786",
     "wof:hierarchy":[],
     "wof:id":1058400591,
-    "wof:lastmodified":1473719494,
+    "wof:lastmodified":1510942785,
     "wof:name":"Centre M\u00e9dical De Wavre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041681523
+    ],
     "wof:tags":[
         "medical"
     ]

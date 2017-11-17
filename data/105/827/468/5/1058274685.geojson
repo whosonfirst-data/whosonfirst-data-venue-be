@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.274409771,50.7544898987,4.274409771,50.7544898987",
     "geom:latitude":50.75449,
     "geom:longitude":4.27441,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Theresiastraat 26",
     "sg:city":"Beersel (huizingen)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517479,
-    "wof:geomhash":"4c065c70d0d4582d4881298effde3546",
+    "wof:geomhash":"fe5890653d3dd908d07dd32d17575880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":1058274685,
-    "wof:lastmodified":1473721358,
+    "wof:lastmodified":1510943464,
     "wof:name":"Smismans-denayer",
     "wof:parent_id":85802037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041958543,
+        1041834705
+    ],
     "wof:tags":[
         "broker"
     ]

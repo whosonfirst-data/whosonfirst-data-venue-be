@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Dampoortstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7340888977,51.0565605164,3.7340888977,51.0565605164",
     "geom:latitude":51.056561,
     "geom:longitude":3.734089,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dampoortstraat 8-10",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473497300,
-    "wof:geomhash":"f815e098ff9163f438523d1b42d1064a",
+    "wof:geomhash":"ddd031fb1e9f88b7679275b03b813686",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,23 @@
         }
     ],
     "wof:id":1042118413,
-    "wof:lastmodified":1473722525,
+    "wof:lastmodified":1510943340,
     "wof:name":"Vercruysse Nv",
     "wof:parent_id":85862051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058087211,
+        1058866579,
+        1058453863,
+        1042039883,
+        1058866115
+    ],
+    "wof:supersedes":[
+        1042122547,
+        1042118265,
+        1042117745
+    ],
     "wof:tags":[
         "-",
         "processing",

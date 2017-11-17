@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4008097649,50.8511695862,4.4008097649,50.8511695862",
     "geom:latitude":50.85117,
     "geom:longitude":4.40081,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Auguste Reyers 81",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473519573,
-    "wof:geomhash":"bf894df5dab04819768854688425b52d",
+    "wof:geomhash":"e61528bec3c9591818d566b9022be9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058321481,
-    "wof:lastmodified":1473719892,
+    "wof:lastmodified":1510943666,
     "wof:name":"Agoria",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042194985
+    ],
     "wof:tags":[]
 },
   "bbox": [

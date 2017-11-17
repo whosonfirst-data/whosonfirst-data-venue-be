@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Chanvre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8646430969,50.4635314941,4.8646430969,50.4635314941",
     "geom:latitude":50.463531,
     "geom:longitude":4.864643,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"March\u00c9 Au Chanvre 5",
     "sg:city":"Namur",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473808,
-    "wof:geomhash":"d6c31943597f6ad3376b168f76a0d068",
+    "wof:geomhash":"d84f4be2afa344f2ecb90df739cf510a",
     "wof:hierarchy":[],
     "wof:id":1041564173,
-    "wof:lastmodified":1473721233,
+    "wof:lastmodified":1510942078,
     "wof:name":"Mambo Caf\u00c9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058634973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caf\u00e9s"

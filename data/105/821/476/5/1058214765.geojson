@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Noorderlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4197978973,51.253704071,4.4197978973,51.253704071",
     "geom:latitude":51.253704,
     "geom:longitude":4.419798,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Noorderlaan 77",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514862,
-    "wof:geomhash":"907f167d5fc064ff32b857a4a339a4b4",
+    "wof:geomhash":"181bb15601b2003552530a3aa500230d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,20 @@
         }
     ],
     "wof:id":1058214765,
-    "wof:lastmodified":1473721340,
+    "wof:lastmodified":1510942098,
     "wof:name":"Central Auto",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058641339
+    ],
+    "wof:supersedes":[
+        1058045651,
+        1041789979,
+        1042090007,
+        1041961267
+    ],
     "wof:tags":[
         "hydraulics"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"2150",
     "addr:street":"Frans Beirenslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4750800133,51.1883468628,4.4750800133,51.1883468628",
     "geom:latitude":51.188347,
     "geom:longitude":4.47508,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Frans Beirenslaan 2a",
     "sg:city":"Borsbeek",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474337,
-    "wof:geomhash":"f171cc833f3e11063503d428f0d7b50b",
+    "wof:geomhash":"3e3d162bd3fee806c6158a618d659031",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041577049,
-    "wof:lastmodified":1473722146,
+    "wof:lastmodified":1510943071,
     "wof:name":"Jeugdhuistuitvlugt",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058993017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

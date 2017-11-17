@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1995439529,51.240322113,3.1995439529,51.240322113",
     "geom:latitude":51.240322,
     "geom:longitude":3.199544,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Blankenbergsesteenweg 382",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501292,
-    "wof:geomhash":"0141e496c4508646b45dbfc7baae9024",
+    "wof:geomhash":"bbb227c260d293adb015b4692d947c09",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1042188961,
-    "wof:lastmodified":1473722623,
+    "wof:lastmodified":1510941720,
     "wof:name":"Piloting Center",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041843473
+    ],
     "wof:tags":[]
 },
   "bbox": [

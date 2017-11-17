@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4211587906,51.2268714905,4.4211587906,51.2268714905",
     "geom:latitude":51.226871,
     "geom:longitude":4.421159,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oudestraat 91",
     "sg:city":"Antwerpen (hoboken)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540856,
-    "wof:geomhash":"9b0e894467c1b68994e4278b46224db1",
+    "wof:geomhash":"cc74d66175bdbc1e780e9f226a7530df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,16 @@
         }
     ],
     "wof:id":1058784815,
-    "wof:lastmodified":1473721429,
+    "wof:lastmodified":1510944059,
     "wof:name":"De Feyter L",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058034993,
+        1058593361
+    ],
     "wof:tags":[
         "roofing",
         "slate"

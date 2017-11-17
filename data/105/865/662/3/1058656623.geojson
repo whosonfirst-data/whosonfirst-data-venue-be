@@ -7,13 +7,16 @@
     "addr:postcode":"9040",
     "addr:street":"Grondwetlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7505099773,51.0674591064,3.7505099773,51.0674591064",
     "geom:latitude":51.067459,
     "geom:longitude":3.75051,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grondwetlaan 81",
     "sg:city":"Gent (sint-amandsberg)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535252,
-    "wof:geomhash":"1b3c7668b846a1a325f8bfe0eb48d0ae",
+    "wof:geomhash":"7bb2c6ce0518b03c2e51cbf337c212fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,20 @@
         }
     ],
     "wof:id":1058656623,
-    "wof:lastmodified":1473721766,
+    "wof:lastmodified":1510942398,
     "wof:name":"Adek Bvba",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058971413
+    ],
+    "wof:supersedes":[
+        1058318161,
+        1042200723,
+        1058457543,
+        1058319957
+    ],
     "wof:tags":[
         "-",
         "freezer",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.30356884,50.8267593384,4.30356884,50.8267593384",
     "geom:latitude":50.826759,
     "geom:longitude":4.303569,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue F\u00c9lix De Cuyper 56",
     "sg:city":"Anderlecht",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496484,
-    "wof:geomhash":"884db68cd48826dcd4874d0c18a6b042",
+    "wof:geomhash":"ef9e68040711a60198d0f77baf4a9700",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042102249,
-    "wof:lastmodified":1473720319,
+    "wof:lastmodified":1510941427,
     "wof:name":"Delleuse R.",
     "wof:parent_id":85801961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041663711
+    ],
     "wof:tags":[]
 },
   "bbox": [

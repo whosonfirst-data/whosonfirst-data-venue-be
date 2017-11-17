@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.322303772,50.0467376709,4.322303772,50.0467376709",
     "geom:latitude":50.046738,
     "geom:longitude":4.322304,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Couvin 48",
     "sg:city":"Chimay",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473485760,
-    "wof:geomhash":"c8d81d6e02ba17134e8f9f597e273763",
+    "wof:geomhash":"29117f63b5f0abdc85409063bb491098",
     "wof:hierarchy":[],
     "wof:id":1041848935,
-    "wof:lastmodified":1473722559,
+    "wof:lastmodified":1510941435,
     "wof:name":"Carrosserie S\u00e9n\u00e9sael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041677789
+    ],
     "wof:tags":[
         "automobile-body"
     ]

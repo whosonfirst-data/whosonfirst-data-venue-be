@@ -7,13 +7,16 @@
     "addr:postcode":"1140",
     "addr:street":"Av Du Four A Briques",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4127788544,50.8651618958,4.4127788544,50.8651618958",
     "geom:latitude":50.865162,
     "geom:longitude":4.412779,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Du Four A Briques 3a",
     "sg:city":"Ev\u00e8re",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476993,
-    "wof:geomhash":"74f0be3ce16784f8e2492918e49b568e",
+    "wof:geomhash":"8125c08734f5e31c984b0373e3c829e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041641713,
-    "wof:lastmodified":1473720130,
+    "wof:lastmodified":1510942595,
     "wof:name":"Techni-pack Sa",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041558247
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "raw",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4696187973,50.7094306946,5.4696187973,50.7094306946",
     "geom:latitude":50.709431,
     "geom:longitude":5.469619,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Englebert Lescrenier 27",
     "sg:city":"Awans (oth\u00e9e)",
     "sg:classifiers":[
@@ -38,16 +40,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473549177,
-    "wof:geomhash":"dfdbc66178c0219ee0e07c488b5b411a",
+    "wof:geomhash":"3785141750825b33c509589fdbf30cd4",
     "wof:hierarchy":[],
     "wof:id":1058969429,
-    "wof:lastmodified":1473722626,
+    "wof:lastmodified":1510943854,
     "wof:name":"Andre Warnier Paque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058251399,
+        1058239693
+    ],
     "wof:tags":[
         "window"
     ]

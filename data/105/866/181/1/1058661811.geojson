@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5000200272,50.9204711914,4.5000200272,50.9204711914",
     "geom:latitude":50.920471,
     "geom:longitude":4.50002,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Tervuursesteenweg 43",
     "sg:city":"Steenokkerzeel",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535495,
-    "wof:geomhash":"2bd73e808a40d27cba31e150a862469d",
+    "wof:geomhash":"a45d6e620111911d247fd3d8c8d987be",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":1058661811,
-    "wof:lastmodified":1473720075,
+    "wof:lastmodified":1510942548,
     "wof:name":"Lifranhome",
     "wof:parent_id":85801313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041657965
+    ],
     "wof:tags":[
         "home",
         "rest"

@@ -7,13 +7,16 @@
     "addr:postcode":"3200",
     "addr:street":"Leuvensesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8058838844,50.9741363525,4.8058838844,50.9741363525",
     "geom:latitude":50.974136,
     "geom:longitude":4.805884,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leuvensesteenweg 319",
     "sg:city":"Aarschot (gelrode)",
     "sg:classifiers":[
@@ -38,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473546812,
-    "wof:geomhash":"20ddda8e5e78b54572feb0f3efce86b2",
+    "wof:geomhash":"ade6cb9c050769c2fd705e809ad52dc6",
     "wof:hierarchy":[],
     "wof:id":1058918411,
-    "wof:lastmodified":1473722397,
+    "wof:lastmodified":1510943690,
     "wof:name":"Ve-ra-bo Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058971231,
+        1058918413
+    ],
+    "wof:supersedes":[
+        1058797541
+    ],
     "wof:tags":[
         "veranda"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"9820",
     "addr:street":"Dokter Dhaenenslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7590410709,51.0092811584,3.7590410709,51.0092811584",
     "geom:latitude":51.009281,
     "geom:longitude":3.759041,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dokter Dhaenenslaan 41",
     "sg:city":"Merelbeke",
     "sg:classifiers":[
@@ -38,16 +41,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473518004,
-    "wof:geomhash":"cb841dd2852d4dc97b00e27ddbf29dc7",
+    "wof:geomhash":"c6a0d31f2f5471e7b41b5647be20ed5b",
     "wof:hierarchy":[],
     "wof:id":1058286955,
-    "wof:lastmodified":1473721991,
+    "wof:lastmodified":1510944085,
     "wof:name":"Alcyon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058515321,
+        1058524297,
+        1058510903,
+        1058968355,
+        1058900897
+    ],
+    "wof:supersedes":[
+        1042067715,
+        1042159917
+    ],
     "wof:tags":[
         "janitor"
     ]

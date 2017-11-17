@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Bld De Douai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5940852165,50.6212501526,5.5940852165,50.6212501526",
     "geom:latitude":50.62125,
     "geom:longitude":5.594085,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bld De Douai 28",
     "sg:city":"Li\u00e8ge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502389,
-    "wof:geomhash":"d65d78d1d4db3aa0a39c6674d8495934",
+    "wof:geomhash":"50a9e8c304fcad2d35be61b9873cb1f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,26 @@
         }
     ],
     "wof:id":1042209187,
-    "wof:lastmodified":1473722678,
+    "wof:lastmodified":1510943631,
     "wof:name":"Deal S.a.",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058462161,
+        1058129501,
+        1058964335
+    ],
+    "wof:supersedes":[
+        1041914999,
+        1041690443,
+        1041840875,
+        1042201039,
+        1042204795,
+        1042035675,
+        1042174405,
+        1042202275
+    ],
     "wof:tags":[
         "installation",
         "electric"

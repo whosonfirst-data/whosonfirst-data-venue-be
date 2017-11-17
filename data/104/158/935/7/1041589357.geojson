@@ -7,13 +7,16 @@
     "addr:postcode":"1130",
     "addr:street":"Rue De La Fuse\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4193868637,50.8776702881,4.4193868637,50.8776702881",
     "geom:latitude":50.87767,
     "geom:longitude":4.419387,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Fus\u00e9e 60",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474844,
-    "wof:geomhash":"cfe5654ffbbedd6faa726fba4443e9a3",
+    "wof:geomhash":"c31bb65e8ff5f4c34766abea0a296394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041589357,
-    "wof:lastmodified":1473722658,
+    "wof:lastmodified":1510942132,
     "wof:name":"Millipore Sa",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058040067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "filter",

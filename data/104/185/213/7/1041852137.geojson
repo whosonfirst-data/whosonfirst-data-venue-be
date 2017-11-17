@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5742268562,50.6201286316,5.5742268562,50.6201286316",
     "geom:latitude":50.620129,
     "geom:longitude":5.574227,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Du G\u00c9n\u00c9ral Leman 25",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485896,
-    "wof:geomhash":"45f23236b64d0f783a2b2d70dcc7280a",
+    "wof:geomhash":"42fd94005dbd0406ec3453cc15437f71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041852137,
-    "wof:lastmodified":1473720336,
+    "wof:lastmodified":1510941431,
     "wof:name":"A.a.l.l. Car Rent Cobemi",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041547397
+    ],
     "wof:tags":[]
 },
   "bbox": [

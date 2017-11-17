@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3214590549,50.9919395447,3.3214590549,50.9919395447",
     "geom:latitude":50.99194,
     "geom:longitude":3.321459,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kasteelstraat 97",
     "sg:city":"Tielt",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473532766,
-    "wof:geomhash":"b188ac6090afea3a6f39476072e6ae6c",
+    "wof:geomhash":"20d626f733f3d698f652ae30137dfca0",
     "wof:hierarchy":[],
     "wof:id":1058603551,
-    "wof:lastmodified":1473720941,
+    "wof:lastmodified":1510943118,
     "wof:name":"Lannoo Drukkerij Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042143737
+    ],
     "wof:tags":[
         "printing",
         "-"

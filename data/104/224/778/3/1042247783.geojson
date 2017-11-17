@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4107980728,50.8346672058,4.4107980728,50.8346672058",
     "geom:latitude":50.834667,
     "geom:longitude":4.410798,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Maurice Lietart 14",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473504155,
-    "wof:geomhash":"d6273a354643ab2a3896bc2b64168315",
+    "wof:geomhash":"b97784124942cf1028d918b465c8334c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042247783,
-    "wof:lastmodified":1473722220,
+    "wof:lastmodified":1510942179,
     "wof:name":"Excoser S.a.",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041583817
+    ],
     "wof:tags":[
         "environmental",
         "energy",

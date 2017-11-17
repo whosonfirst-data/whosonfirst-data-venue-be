@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.396299839,50.8353919983,4.396299839,50.8353919983",
     "geom:latitude":50.835392,
     "geom:longitude":4.3963,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30",
     "sg:city":"Avenue Edouard De Thibault 1040 Bruxelles",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532868,
-    "wof:geomhash":"3791cf89e00bae17999a3fc014783ec0",
+    "wof:geomhash":"e573facc7cfa65811310c43610c71625",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058605879,
-    "wof:lastmodified":1473721675,
+    "wof:lastmodified":1510943769,
     "wof:name":"Identic Sprl",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041649019
+    ],
     "wof:tags":[
         "publishing"
     ]

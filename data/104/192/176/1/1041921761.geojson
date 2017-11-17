@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.37059021,50.8358001709,4.37059021,50.8358001709",
     "geom:latitude":50.8358,
     "geom:longitude":4.37059,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Wavre 174-176",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488806,
-    "wof:geomhash":"f2139ffc37b2a7cd7417f6da797d024e",
+    "wof:geomhash":"0ddd55c4a2b5735de0aae340696d73d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1041921761,
-    "wof:lastmodified":1473720093,
+    "wof:lastmodified":1510942901,
     "wof:name":"Bieres Artisanales",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041599557
+    ],
     "wof:tags":[
         "ale",
         "-"

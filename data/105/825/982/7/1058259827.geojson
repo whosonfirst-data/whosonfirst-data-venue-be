@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6673808098,50.8225669861,4.6673808098,50.8225669861",
     "geom:latitude":50.822567,
     "geom:longitude":4.667381,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Meerdaalweg 2",
     "sg:city":"Oud-heverlee",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3276629613,
         "sg:id":"SG_5Uov40sf633WzS6UGTjvS5_50.822567_4.667381@1306268476"
     },
     "wof:country":"BE",
     "wof:created":1473516823,
-    "wof:geomhash":"f34ea0d68d1308bd360033aab8a21bb0",
+    "wof:geomhash":"51091489e7215ec222bf48ea6451709a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1058259827,
-    "wof:lastmodified":1473722833,
+    "wof:lastmodified":1510944015,
     "wof:name":"Meerdaalhof",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5476880074,50.6799583435,5.5476880074,50.6799583435",
     "geom:latitude":50.679958,
     "geom:longitude":5.547688,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Francois-lefebvre 77",
     "sg:city":"Rocourt",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473504156,
-    "wof:geomhash":"d926c08f2e4985ce98732e1ba4babd77",
+    "wof:geomhash":"07b9215a95bfcd78a626a65a530aa6d5",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1042247803,
-    "wof:lastmodified":1473722225,
+    "wof:lastmodified":1510942293,
     "wof:name":"Apex S.p.r.l.",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041582269
+    ],
     "wof:tags":[
         "energy"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9432191849,51.1203804016,4.9432191849,51.1203804016",
     "geom:latitude":51.12038,
     "geom:longitude":4.943219,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grote Steenweg 18",
     "sg:city":"Geel",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473543899,
-    "wof:geomhash":"30ce1aece08efe3d2f8ee0121f02999a",
+    "wof:geomhash":"7b2634fafc47e5f55f54b745d3346c5d",
     "wof:hierarchy":[],
     "wof:id":1058854085,
-    "wof:lastmodified":1473721186,
+    "wof:lastmodified":1510941785,
     "wof:name":"Brasserie Geel-west",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058664953
+    ],
     "wof:tags":[
         "tavern"
     ]

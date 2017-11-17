@@ -7,13 +7,16 @@
     "addr:postcode":"9185",
     "addr:street":"Puyenbrug",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8647110462,51.149848938,3.8647110462,51.149848938",
     "geom:latitude":51.149849,
     "geom:longitude":3.864711,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Puyenbrug 1a",
     "sg:city":"Wachtebeke",
     "sg:classifiers":[
@@ -39,16 +42,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473493575,
-    "wof:geomhash":"49f25d34d2a3c3d910d9e750c2e84c4d",
+    "wof:geomhash":"5b58c4c6c94a99702dfb607b8fd9a915",
     "wof:hierarchy":[],
     "wof:id":1042033179,
-    "wof:lastmodified":1473720840,
+    "wof:lastmodified":1510944093,
     "wof:name":"Puyenbroeck Provinciaal Domein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058291997,
+        1058823237,
+        1058655405,
+        1058806925,
+        1058261839,
+        1042047997,
+        1058655569
+    ],
+    "wof:supersedes":[
+        1041835785
+    ],
     "wof:tags":[
         "site",
         "camping"

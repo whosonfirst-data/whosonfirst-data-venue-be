@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Quai Des Ardennes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5901021957,50.6196708679,5.5901021957,50.6196708679",
     "geom:latitude":50.619671,
     "geom:longitude":5.590102,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Quai Des Ardennes 50",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502559,
-    "wof:geomhash":"532b2db0b018c550617be81137a2eb34",
+    "wof:geomhash":"8b0275acfb2255a601b9974e100e2af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042213137,
-    "wof:lastmodified":1473720750,
+    "wof:lastmodified":1510942631,
     "wof:name":"Maison Telectro",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058182867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Lesbroussart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3653039932,50.8277549744,4.3653039932,50.8277549744",
     "geom:latitude":50.827755,
     "geom:longitude":4.365304,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Lesbroussart 111",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508892,
-    "wof:geomhash":"906e3d6467bba57c58fbcccd6a79c780",
+    "wof:geomhash":"81be476702d06d54b37c11f895b90385",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,18 @@
         }
     ],
     "wof:id":1058083697,
-    "wof:lastmodified":1473720918,
+    "wof:lastmodified":1510943856,
     "wof:name":"Toby P",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058703441
+    ],
+    "wof:supersedes":[
+        1042067377,
+        1042049405
+    ],
     "wof:tags":[
         "repair",
         "buckskin",

@@ -7,13 +7,16 @@
     "addr:postcode":"3001",
     "addr:street":"Ambachtenlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7191500664,50.8499412537,4.7191500664,50.8499412537",
     "geom:latitude":50.849941,
     "geom:longitude":4.71915,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ambachtenlaan 6",
     "sg:city":"Leuven",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473486725,
-    "wof:geomhash":"6f4081a2d11fa18dd1e91af230a0cdce",
+    "wof:geomhash":"366b6aa09803c494f98028288d7d16d8",
     "wof:hierarchy":[],
     "wof:id":1041871661,
-    "wof:lastmodified":1473719974,
+    "wof:lastmodified":1510942013,
     "wof:name":"Vanhimbeek Vanessa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058350029
+    ],
+    "wof:supersedes":[
+        1041719775
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.086771965,51.3202438354,5.086771965,51.3202438354",
     "geom:latitude":51.320244,
     "geom:longitude":5.086772,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoge Mauw 17",
     "sg:city":"Arendonk",
     "sg:classifiers":[
@@ -39,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473548849,
-    "wof:geomhash":"55168853dbde5b6f43d6637a49144e0b",
+    "wof:geomhash":"4f81cfb99490f79a826b384ad1f0c4b4",
     "wof:hierarchy":[],
     "wof:id":1058961687,
-    "wof:lastmodified":1473719956,
+    "wof:lastmodified":1510943022,
     "wof:name":"Nordex Deuren-portes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058828165,
+        1058152363,
+        1058525095
+    ],
     "wof:tags":[
         "wall",
         "cupboard"

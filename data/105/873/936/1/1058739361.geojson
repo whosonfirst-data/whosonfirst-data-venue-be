@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5467767715,50.4832763672,4.5467767715,50.4832763672",
     "geom:latitude":50.483276,
     "geom:longitude":4.546777,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Station 79",
     "sg:city":"Fleurus",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473538875,
-    "wof:geomhash":"5ad6a1479ee555475eb943b7779e6049",
+    "wof:geomhash":"e2ec3257baee24db221ed466a9879ab5",
     "wof:hierarchy":[],
     "wof:id":1058739361,
-    "wof:lastmodified":1473722738,
+    "wof:lastmodified":1510941520,
     "wof:name":"Coiffure Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058307401
+    ],
     "wof:tags":[
         "de",
         "coiffure"

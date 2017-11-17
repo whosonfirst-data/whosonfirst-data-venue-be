@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8266282082,51.2362785339,4.8266282082,51.2362785339",
     "geom:latitude":51.236279,
     "geom:longitude":4.826628,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Poederleese Weg 43",
     "sg:city":"Lille",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473534072,
-    "wof:geomhash":"491e2497977f1ab128031a44912e5312",
+    "wof:geomhash":"d16affa8414d5bce91f045fc2e4b74be",
     "wof:hierarchy":[],
     "wof:id":1058631011,
-    "wof:lastmodified":1473719687,
+    "wof:lastmodified":1510943180,
     "wof:name":"De Sporthal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042016241
+    ],
     "wof:tags":[]
 },
   "bbox": [

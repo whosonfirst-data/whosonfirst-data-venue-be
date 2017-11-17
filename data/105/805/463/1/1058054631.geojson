@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3975801468,50.810131073,4.3975801468,50.810131073",
     "geom:latitude":50.810131,
     "geom:longitude":4.39758,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De Vis\u00e9 13",
     "sg:city":"Bruxelles (watermael-boitsfort)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507699,
-    "wof:geomhash":"717edff54a3e74eca5a4d984b589b36c",
+    "wof:geomhash":"b9b18453911bc27a693206a00f41e2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058054631,
-    "wof:lastmodified":1473721370,
+    "wof:lastmodified":1510941843,
     "wof:name":"Fleurs De Vis\u00e9",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041590203
+    ],
     "wof:tags":[]
 },
   "bbox": [

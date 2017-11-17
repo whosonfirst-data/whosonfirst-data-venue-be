@@ -7,13 +7,16 @@
     "addr:postcode":"3150",
     "addr:street":"Werchtersesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6475601196,50.9737434387,4.6475601196,50.9737434387",
     "geom:latitude":50.973743,
     "geom:longitude":4.64756,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Werchtersesteenweg 94",
     "sg:city":"Haacht",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473532809,
-    "wof:geomhash":"5ccc1ed72c2744233a39aeec2f9c9380",
+    "wof:geomhash":"7b15da2fc57a85630ce8c5c80625c798",
     "wof:hierarchy":[],
     "wof:id":1058604557,
-    "wof:lastmodified":1473721338,
+    "wof:lastmodified":1510944109,
     "wof:name":"Dvf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058603105
+    ],
+    "wof:supersedes":[
+        1042181553,
+        1058223145
+    ],
     "wof:tags":[
         "-",
         "offset"

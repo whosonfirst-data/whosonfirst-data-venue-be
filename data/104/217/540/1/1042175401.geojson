@@ -7,13 +7,16 @@
     "addr:postcode":"3890",
     "addr:street":"Sint-Rumoldusstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1343398094,50.7201881409,5.1343398094,50.7201881409",
     "geom:latitude":50.720188,
     "geom:longitude":5.13434,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-rumoldusstraat 1a",
     "sg:city":"Gingelom (montenaken)",
     "sg:classifiers":[
@@ -38,16 +41,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473500433,
-    "wof:geomhash":"af7c4c538fce5a8ea64501530957edf3",
+    "wof:geomhash":"438986fe0f378d4afe647692575620c7",
     "wof:hierarchy":[],
     "wof:id":1042175401,
-    "wof:lastmodified":1473721560,
+    "wof:lastmodified":1510943603,
     "wof:name":"Gikimat Nv-sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058524851,
+        1058700677,
+        1058828025,
+        1058970233,
+        1058878043
+    ],
+    "wof:supersedes":[
+        1042045753
+    ],
     "wof:tags":[
         "door"
     ]

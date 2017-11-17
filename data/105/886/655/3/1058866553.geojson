@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4216618538,50.8473091125,4.4216618538,50.8473091125",
     "geom:latitude":50.847309,
     "geom:longitude":4.421662,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Georges Henri 62a",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544430,
-    "wof:geomhash":"56975e6743c1120704dc11987bf7fafb",
+    "wof:geomhash":"4ab4e71545d2e7710f68f56a96aea4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,19 @@
         }
     ],
     "wof:id":1058866553,
-    "wof:lastmodified":1473721833,
+    "wof:lastmodified":1510943552,
     "wof:name":"Sonauto Sprl",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058129893,
+        1041842945,
+        1041843893,
+        1058866843,
+        1041840993
+    ],
     "wof:tags":[
         "telephone",
         "apparatus",

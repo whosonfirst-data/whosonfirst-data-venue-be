@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8953518867,51.144203186,4.8953518867,51.144203186",
     "geom:latitude":51.144203,
     "geom:longitude":4.895352,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nijverheidsstraat 52",
     "sg:city":"Westerlo (oevel)",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473546779,
-    "wof:geomhash":"e3e006dc9a527da3ef09b538f7553599",
+    "wof:geomhash":"30dc0de44eab5db5567974efe0225779",
     "wof:hierarchy":[],
     "wof:id":1058917843,
-    "wof:lastmodified":1473722252,
+    "wof:lastmodified":1510941399,
     "wof:name":"Lembreghts M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058467393,
+        1058174509
+    ],
     "wof:tags":[
         "ventilating",
         "system"

@@ -7,13 +7,16 @@
     "addr:postcode":"1800",
     "addr:street":"Mechelsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4394698143,50.9427185059,4.4394698143,50.9427185059",
     "geom:latitude":50.942719,
     "geom:longitude":4.43947,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelsesteenweg 277",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488768,
-    "wof:geomhash":"11d480219802573f1604a5b1056068bf",
+    "wof:geomhash":"fb68dca6a55f6b891544f92aa379983d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041920945,
-    "wof:lastmodified":1473719659,
+    "wof:lastmodified":1510942235,
     "wof:name":"Bedrijvencentrum Vilvoorde",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042046251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

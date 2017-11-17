@@ -7,13 +7,16 @@
     "addr:postcode":"1150",
     "addr:street":"Avenue De Broqueville",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4098777771,50.8380851746,4.4098777771,50.8380851746",
     "geom:latitude":50.838085,
     "geom:longitude":4.409878,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Broqueville 12",
     "sg:city":"Bruxelles (woluwe-saint-pierre)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473542987,
-    "wof:geomhash":"26c10155acce68978945281ff5741876",
+    "wof:geomhash":"8834d9b19476d8b4b489072632063583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,18 @@
         }
     ],
     "wof:id":1058833043,
-    "wof:lastmodified":1473720813,
+    "wof:lastmodified":1510943704,
     "wof:name":"Net Brussel",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058963397,
+        1058963281
+    ],
+    "wof:supersedes":[
+        1058655865
+    ],
     "wof:tags":[
         "machine",
         "street",

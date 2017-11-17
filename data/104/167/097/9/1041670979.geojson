@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Chausse\u0301E D'Ixelles",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3705711365,50.8286437988,4.3705711365,50.8286437988",
     "geom:latitude":50.828644,
     "geom:longitude":4.370571,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e D'ixelles 335",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478187,
-    "wof:geomhash":"23cc47300145bf20492bceea6ddd5ce5",
+    "wof:geomhash":"3222e8f5314500383f155c198cbcbee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041670979,
-    "wof:lastmodified":1473718955,
+    "wof:lastmodified":1510943616,
     "wof:name":"New Textiles (v)",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058870539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "retail",

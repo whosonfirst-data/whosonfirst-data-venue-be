@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4503450394,50.9682502747,4.4503450394,50.9682502747",
     "geom:latitude":50.96825,
     "geom:longitude":4.450345,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Beekstraat 52",
     "sg:city":"Zemst (eppegem)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473529470,
-    "wof:geomhash":"b63a7119456a76c8816506b8ec1b4cda",
+    "wof:geomhash":"7bb550a1b6919ff8af9fbe979b7b4f8b",
     "wof:hierarchy":[],
     "wof:id":1058529671,
-    "wof:lastmodified":1473722866,
+    "wof:lastmodified":1510943008,
     "wof:name":"P\u00e9n\u00e9lope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041616357
+    ],
     "wof:tags":[
         "pedicure"
     ]

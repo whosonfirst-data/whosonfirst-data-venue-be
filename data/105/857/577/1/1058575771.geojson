@@ -7,13 +7,16 @@
     "addr:postcode":"9050",
     "addr:street":"Hundelgemsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.748677969,51.0257034302,3.748677969,51.0257034302",
     "geom:latitude":51.025703,
     "geom:longitude":3.748678,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hundelgemsesteenweg 363",
     "sg:city":"Gent (ledeberg)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473531561,
-    "wof:geomhash":"f1ba8817268c81f41ec9b661a8f8c675",
+    "wof:geomhash":"1356e44cec4cc38b523b6a900f1a6524",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,19 @@
         }
     ],
     "wof:id":1058575771,
-    "wof:lastmodified":1473721639,
+    "wof:lastmodified":1510943626,
     "wof:name":"Hydor/perrot",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058575569,
+        1058641527
+    ],
+    "wof:supersedes":[
+        1058286651,
+        1058201455
+    ],
     "wof:tags":[
         "pipe",
         "-"

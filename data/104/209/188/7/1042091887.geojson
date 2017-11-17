@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6395778656,50.2506408691,5.6395778656,50.2506408691",
     "geom:latitude":50.250641,
     "geom:longitude":5.639578,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39",
     "sg:city":"Col De Lamormenil 6960 Manhay",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473496034,
-    "wof:geomhash":"0d218c9ca0f09192fed5cded0803872f",
+    "wof:geomhash":"494e595e4841122a2380db0bba7feef8",
     "wof:hierarchy":[],
     "wof:id":1042091887,
-    "wof:lastmodified":1473720150,
+    "wof:lastmodified":1510942424,
     "wof:name":"Roberty Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041579187
+    ],
     "wof:tags":[
         "work",
         "public"

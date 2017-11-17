@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4082159996,51.2161712646,4.4082159996,51.2161712646",
     "geom:latitude":51.216171,
     "geom:longitude":4.408216,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Graanmarkt 2",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486334,
-    "wof:geomhash":"f41b2869d6b75e351de10849d5453569",
+    "wof:geomhash":"d6f41bc6a9def42c76454400b0c0959c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041862727,
-    "wof:lastmodified":1473720663,
+    "wof:lastmodified":1510942031,
     "wof:name":"Jean-fran\u00c7ois Peters",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041711131
+    ],
     "wof:tags":[]
 },
   "bbox": [

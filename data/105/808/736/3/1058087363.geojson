@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3228740692,50.8008003235,4.3228740692,50.8008003235",
     "geom:latitude":50.8008,
     "geom:longitude":4.322874,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Kersbeek 300",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509049,
-    "wof:geomhash":"bc0e471acea319dd8f9dfae38028118d",
+    "wof:geomhash":"d82c627a059d2ab2faf3fddd6eeb0831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1058087363,
-    "wof:lastmodified":1473722057,
+    "wof:lastmodified":1510941723,
     "wof:name":"Cocquibus-wahl Trading Sa",
     "wof:parent_id":85801557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041657105
+    ],
     "wof:tags":[
         "storage",
         "-",

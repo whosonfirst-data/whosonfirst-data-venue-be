@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7384619713,51.0595092773,3.7384619713,51.0595092773",
     "geom:latitude":51.059509,
     "geom:longitude":3.738462,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kleindokkaai 15 (dampoort)",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505284,
-    "wof:geomhash":"64f54210641013bed867e3ab338d0ce3",
+    "wof:geomhash":"5abbbf334a079aa0622e56b57b405ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042271813,
-    "wof:lastmodified":1473720117,
+    "wof:lastmodified":1510941449,
     "wof:name":"J. B. Gent",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041548397
+    ],
     "wof:tags":[]
 },
   "bbox": [

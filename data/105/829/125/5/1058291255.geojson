@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3323988914,50.8412742615,4.3323988914,50.8412742615",
     "geom:latitude":50.841274,
     "geom:longitude":4.332399,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Clemenceau 87",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473518195,
-    "wof:geomhash":"6cd5577fec3a01ac8a07962fa9defd5e",
+    "wof:geomhash":"468cbc1654d09ac9fcc8e7a2084c9afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1058291255,
-    "wof:lastmodified":1473719933,
+    "wof:lastmodified":1510942774,
     "wof:name":"Brussels Jeans Center Sprl",
     "wof:parent_id":85800757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042075583
+    ],
     "wof:tags":[
         "jean",
         "casual",

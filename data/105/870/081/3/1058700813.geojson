@@ -7,13 +7,16 @@
     "addr:postcode":"9820",
     "addr:street":"Ambachtsweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7625639439,50.9927787781,3.7625639439,50.9927787781",
     "geom:latitude":50.992779,
     "geom:longitude":3.762564,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ambachtsweg 22",
     "sg:city":"Merelbeke",
     "sg:classifiers":[
@@ -40,16 +43,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473537152,
-    "wof:geomhash":"bfe002f72efdf45703ec9ba085e2fecf",
+    "wof:geomhash":"b97def758ff63fdb0c773f90629d72e0",
     "wof:hierarchy":[],
     "wof:id":1058700813,
-    "wof:lastmodified":1473719612,
+    "wof:lastmodified":1510944196,
     "wof:name":"Rubitec Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058877411
+    ],
+    "wof:supersedes":[
+        1058471079
+    ],
     "wof:tags":[
         "roofing",
         "material",

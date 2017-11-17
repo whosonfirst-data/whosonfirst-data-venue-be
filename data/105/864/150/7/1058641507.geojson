@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4601340294,51.1218681335,4.4601340294,51.1218681335",
     "geom:latitude":51.121868,
     "geom:longitude":4.460134,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Heiveldekens 20",
     "sg:city":"Kontich",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534560,
-    "wof:geomhash":"810fe52ab63742a7268ecc47a2d2ec88",
+    "wof:geomhash":"f6dbbd9945536614af6d70c9031d2ba4",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,13 +58,16 @@
         }
     ],
     "wof:id":1058641507,
-    "wof:lastmodified":1473719929,
+    "wof:lastmodified":1510943883,
     "wof:name":"Friatec",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058641359,
+        1058045559
+    ],
     "wof:tags":[
         "water",
         "pump",

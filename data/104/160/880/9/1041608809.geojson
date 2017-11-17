@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4249911308,50.8169059753,4.4249911308,50.8169059753",
     "geom:latitude":50.816906,
     "geom:longitude":4.424991,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Wavre 1616",
     "sg:city":"Bruxelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475657,
-    "wof:geomhash":"429e49f55e1d684cfca85977d0e7b169",
+    "wof:geomhash":"b1ea87dd889e1c7be3edd824106ffd52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041608809,
-    "wof:lastmodified":1473722427,
+    "wof:lastmodified":1510941872,
     "wof:name":"Psr",
     "wof:parent_id":85801955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041631683
+    ],
     "wof:tags":[]
 },
   "bbox": [

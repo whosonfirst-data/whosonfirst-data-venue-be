@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue De La Couronne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3865990639,50.8238792419,4.3865990639,50.8238792419",
     "geom:latitude":50.823879,
     "geom:longitude":4.386599,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La Couronne 340",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473506250,
-    "wof:geomhash":"5d0efeab6a37cd64eee2426427514753",
+    "wof:geomhash":"ffd0fae9ad48d28be70b4a0c77d1bf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,15 @@
         }
     ],
     "wof:id":1058019797,
-    "wof:lastmodified":1473721955,
+    "wof:lastmodified":1510943481,
     "wof:name":"B & S (business & Show Syntagmes) Sa-nv",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058763111,
+        1058625681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organisation"

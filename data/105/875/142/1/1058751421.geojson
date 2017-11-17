@@ -7,13 +7,16 @@
     "addr:postcode":"1700",
     "addr:street":"Kattebroekstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2787380219,50.8599472046,4.2787380219,50.8599472046",
     "geom:latitude":50.859947,
     "geom:longitude":4.278738,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kattebroekstraat 290",
     "sg:city":"Dilbeek",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539393,
-    "wof:geomhash":"7b9757835d06a1e8a641964def8a3a15",
+    "wof:geomhash":"50af5e9cbecadf7c46a95693c800f6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +60,18 @@
         }
     ],
     "wof:id":1058751421,
-    "wof:lastmodified":1473719868,
+    "wof:lastmodified":1510943473,
     "wof:name":"Chalcedone",
     "wof:parent_id":85801651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058797723
+    ],
+    "wof:supersedes":[
+        1041916213,
+        1058044489
+    ],
     "wof:tags":[]
 },
   "bbox": [

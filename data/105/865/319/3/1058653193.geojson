@@ -7,13 +7,16 @@
     "addr:postcode":"1020",
     "addr:street":"Rue Laneau",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3455181122,50.8760566711,4.3455181122,50.8760566711",
     "geom:latitude":50.876057,
     "geom:longitude":4.345518,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Laneau 39",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535100,
-    "wof:geomhash":"79d578aca1788e974f7758c02c983f81",
+    "wof:geomhash":"c72a1c08e25df1024b30e5af5254e392",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +60,22 @@
         }
     ],
     "wof:id":1058653193,
-    "wof:lastmodified":1473720750,
+    "wof:lastmodified":1510943667,
     "wof:name":"Top Connexion Sa",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058844149
+    ],
+    "wof:supersedes":[
+        1058196461,
+        1058280019,
+        1058514587,
+        1058281665,
+        1058034797,
+        1058035169
+    ],
     "wof:tags":[]
 },
   "bbox": [

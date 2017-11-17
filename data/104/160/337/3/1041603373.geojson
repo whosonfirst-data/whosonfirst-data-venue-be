@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2658867836,50.8166122437,4.2658867836,50.8166122437",
     "geom:latitude":50.816612,
     "geom:longitude":4.265887,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"All De La Recherche 10",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475449,
-    "wof:geomhash":"9e505dfd549be7d4be5efddc05c1152e",
+    "wof:geomhash":"bb2b0b19acf72f1290082be621db8216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,15 @@
         }
     ],
     "wof:id":1041603373,
-    "wof:lastmodified":1473720864,
+    "wof:lastmodified":1510943198,
     "wof:name":"Kavo-benelux S.a.",
     "wof:parent_id":85801261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041574413,
+        1041574425
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

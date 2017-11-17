@@ -7,13 +7,16 @@
     "addr:postcode":"4040",
     "addr:street":"Voie De Liege",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6310281754,50.6682319641,5.6310281754,50.6682319641",
     "geom:latitude":50.668232,
     "geom:longitude":5.631028,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Voie De Liege 33",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477896,
-    "wof:geomhash":"d0d5434050abf4469ffc9ffacaed574c",
+    "wof:geomhash":"fd12f405ca533ff8582f8314049668ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041663815,
-    "wof:lastmodified":1473721172,
+    "wof:lastmodified":1510941831,
     "wof:name":"Fn Herstal S.a.",
     "wof:parent_id":85862055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058088671
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "small",

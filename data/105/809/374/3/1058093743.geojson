@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8239550591,50.712474823,3.8239550591,50.712474823",
     "geom:latitude":50.712475,
     "geom:longitude":3.823955,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Renaix 15",
     "sg:city":"Lessines",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473509310,
-    "wof:geomhash":"81128ef5fc95f85941682a977f856fd9",
+    "wof:geomhash":"cc3ecd59d79844f8d9474c4679c43617",
     "wof:hierarchy":[],
     "wof:id":1058093743,
-    "wof:lastmodified":1473720976,
+    "wof:lastmodified":1510941712,
     "wof:name":"Midula (garage)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041608221
+    ],
     "wof:tags":[
         "garage"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue Archime\u0300De",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3834872246,50.8455467224,4.3834872246,50.8455467224",
     "geom:latitude":50.845547,
     "geom:longitude":4.383487,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Archim\u00e8de 48",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475238,
-    "wof:geomhash":"098f705c3f897db01016817069d78a39",
+    "wof:geomhash":"5911825acb3b67a0cd1577487e107c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041598799,
-    "wof:lastmodified":1473722556,
+    "wof:lastmodified":1510943418,
     "wof:name":"Kenlis-the Irish Shop",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041950245
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

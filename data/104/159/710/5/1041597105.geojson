@@ -7,13 +7,16 @@
     "addr:postcode":"1332",
     "addr:street":"Rue Des De\u0301Porte\u0301S;Wallon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4959249496,50.7167320251,4.4959249496,50.7167320251",
     "geom:latitude":50.716732,
     "geom:longitude":4.495925,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des D\u00c9port\u00c9s 15a",
     "sg:city":"Rixensart",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475175,
-    "wof:geomhash":"582b9a76fe3f00d874039d778985e1f3",
+    "wof:geomhash":"a6dfa12658905414ae2dc660e8a90953",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041597105,
-    "wof:lastmodified":1473722049,
+    "wof:lastmodified":1510942831,
     "wof:name":"G 3",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058104001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

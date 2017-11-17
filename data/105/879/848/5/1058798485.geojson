@@ -7,13 +7,16 @@
     "addr:postcode":"8520",
     "addr:street":"Ringlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2814209461,50.8413085938,3.2814209461,50.8413085938",
     "geom:latitude":50.841309,
     "geom:longitude":3.281421,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ringlaan 20",
     "sg:city":"Kuurne",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473541491,
-    "wof:geomhash":"7ff2f5e7d92f47d75e5a28e4c33e15c1",
+    "wof:geomhash":"476a3f43b47467c714ea98fb63bfb45b",
     "wof:hierarchy":[],
     "wof:id":1058798485,
-    "wof:lastmodified":1473722487,
+    "wof:lastmodified":1510942129,
     "wof:name":"3time Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866125
+    ],
+    "wof:supersedes":[
+        1058485631
+    ],
     "wof:tags":[]
 },
   "bbox": [

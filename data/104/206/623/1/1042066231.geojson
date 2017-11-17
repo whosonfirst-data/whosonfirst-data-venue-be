@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3399200439,50.8963127136,4.3399200439,50.8963127136",
     "geom:latitude":50.896313,
     "geom:longitude":4.33992,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Du Centenaire 20",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494917,
-    "wof:geomhash":"b8e7b35c0a18b400dd4cabb3badd8769",
+    "wof:geomhash":"a510fd99d8a951bc752fbe1dd17fe506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1042066231,
-    "wof:lastmodified":1473721853,
+    "wof:lastmodified":1510942854,
     "wof:name":"Kinepolis",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041569353
+    ],
     "wof:tags":[]
 },
   "bbox": [

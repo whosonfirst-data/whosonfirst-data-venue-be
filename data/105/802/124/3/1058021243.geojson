@@ -7,13 +7,16 @@
     "addr:postcode":"2340",
     "addr:street":"Turnhoutseweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8660769463,51.3118553162,4.8660769463,51.3118553162",
     "geom:latitude":51.311855,
     "geom:longitude":4.866077,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Turnhoutseweg 69",
     "sg:city":"Beerse",
     "sg:classifiers":[
@@ -39,16 +42,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473506322,
-    "wof:geomhash":"169fe1874e6dbc6a40ebb15e91b74364",
+    "wof:geomhash":"76025572411873b366a4e44d8776f770",
     "wof:hierarchy":[],
     "wof:id":1058021243,
-    "wof:lastmodified":1473719921,
+    "wof:lastmodified":1510943626,
     "wof:name":"Auto-service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881627,
+        1058458561
+    ],
+    "wof:supersedes":[
+        1041844231,
+        1041843067,
+        1041850817,
+        1041842839,
+        1041840677
+    ],
     "wof:tags":[
         "exhaust",
         "system"

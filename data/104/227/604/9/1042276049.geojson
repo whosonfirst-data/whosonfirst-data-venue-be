@@ -7,13 +7,16 @@
     "addr:postcode":"2600",
     "addr:street":"Prins Boudewijnlaan;Antwerpen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4234127998,51.180519104,4.4234127998,51.180519104",
     "geom:latitude":51.180519,
     "geom:longitude":4.423413,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Prins Boudewijnlaan 22",
     "sg:city":"Antwerpen (berchem)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505491,
-    "wof:geomhash":"ffd03177602ec14c60d8906c52cfc919",
+    "wof:geomhash":"92b3ae32392f5f80de4637af50af5a4b",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":1042276049,
-    "wof:lastmodified":1473721754,
+    "wof:lastmodified":1510942268,
     "wof:name":"Bacta-pur Europe Bvba",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058597519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

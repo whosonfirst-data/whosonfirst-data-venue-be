@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4381299019,50.8864517212,4.4381299019,50.8864517212",
     "geom:latitude":50.886452,
     "geom:longitude":4.43813,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kosterstraat 209",
     "sg:city":"Machelen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533669,
-    "wof:geomhash":"2bb45dce152c1c454d94a5a487aaaea3",
+    "wof:geomhash":"2cf63759ec588e2bd8b1695317b6059d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":1058622347,
-    "wof:lastmodified":1473720377,
+    "wof:lastmodified":1510943792,
     "wof:name":"Kbc Lease",
     "wof:parent_id":85801067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058215133,
+        1058363807,
+        1041851899
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7259910107,51.0504264832,3.7259910107,51.0504264832",
     "geom:latitude":51.050426,
     "geom:longitude":3.725991,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vogelmarkt 9",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486185,
-    "wof:geomhash":"4d29cd1791a85092db1f9247d30b8557",
+    "wof:geomhash":"904c4fc897552c3c54b02d1d748c74c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041859379,
-    "wof:lastmodified":1473722779,
+    "wof:lastmodified":1510941571,
     "wof:name":"Frederik D\u00b4hulst",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041707891
+    ],
     "wof:tags":[]
 },
   "bbox": [

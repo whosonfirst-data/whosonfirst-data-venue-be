@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0940208435,51.3278427124,5.0940208435,51.3278427124",
     "geom:latitude":51.327843,
     "geom:longitude":5.094021,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wampenberg 72",
     "sg:city":"Arendonk",
     "sg:classifiers":[
@@ -38,16 +40,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473550159,
-    "wof:geomhash":"408214b8fd122a41ca9b9b53d4b4ebed",
+    "wof:geomhash":"ce26f24ef548157a8e322d29f3d4d5fe",
     "wof:hierarchy":[],
     "wof:id":1058991343,
-    "wof:lastmodified":1473719863,
+    "wof:lastmodified":1510943908,
     "wof:name":"Van Mechgelen Pieter Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058964605,
+        1058700847,
+        1042171541,
+        1058097741,
+        1058525349,
+        1058878351,
+        1058097571
+    ],
     "wof:tags":[
         "wood"
     ]

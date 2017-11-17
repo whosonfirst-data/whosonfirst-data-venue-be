@@ -7,13 +7,16 @@
     "addr:postcode":"3980",
     "addr:street":"Hulsterweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1142559052,51.0684432983,5.1142559052,51.0684432983",
     "geom:latitude":51.068443,
     "geom:longitude":5.114256,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hulsterweg 82",
     "sg:city":"Tessenderlo",
     "sg:classifiers":[
@@ -38,16 +41,30 @@
     },
     "wof:country":"BE",
     "wof:created":1473540519,
-    "wof:geomhash":"52c3356584cfb5788a94ab61759c38b5",
+    "wof:geomhash":"68ff52b4e7abcf87338902300827a4a7",
     "wof:hierarchy":[],
     "wof:id":1058776627,
-    "wof:lastmodified":1473721929,
+    "wof:lastmodified":1510943481,
     "wof:name":"Baldewijns Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058796923,
+        1058969485,
+        1058917987,
+        1058797237
+    ],
+    "wof:supersedes":[
+        1058111979,
+        1042175839,
+        1058730161,
+        1041748153,
+        1042099135,
+        1058112771,
+        1058414851,
+        1042175171
+    ],
     "wof:tags":[
         "shutter"
     ]

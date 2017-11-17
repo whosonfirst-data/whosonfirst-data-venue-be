@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1945741177,51.2105331421,3.1945741177,51.2105331421",
     "geom:latitude":51.210533,
     "geom:longitude":3.194574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dirk Martensstraat 15",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523038,
-    "wof:geomhash":"4079825cc84194f1d1ff8379c0a87c7a",
+    "wof:geomhash":"209a533824a0bc1e7703ed12eb7ba903",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1058395867,
-    "wof:lastmodified":1473721691,
+    "wof:lastmodified":1510942201,
     "wof:name":"Claeys-verhelst",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041740885
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9479959011,50.9507064819,3.9479959011,50.9507064819",
     "geom:latitude":50.950706,
     "geom:longitude":3.947996,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Impestraat 36",
     "sg:city":"Erpe-mere (erondegem)",
     "sg:classifiers":[
@@ -38,16 +40,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473544895,
-    "wof:geomhash":"4c5674375db99a7a62073b2b99138b9b",
+    "wof:geomhash":"ebf80df4642034fbe343330e5c8a5eb9",
     "wof:hierarchy":[],
     "wof:id":1058877253,
-    "wof:lastmodified":1473722043,
+    "wof:lastmodified":1510942332,
     "wof:name":"Mark Van Den Eeckhaut Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058750183,
+        1058051721,
+        1058386775
+    ],
     "wof:tags":[
         "tile"
     ]

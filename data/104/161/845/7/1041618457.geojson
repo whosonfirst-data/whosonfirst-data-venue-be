@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue Molie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361345768,50.8159103394,4.361345768,50.8159103394",
     "geom:latitude":50.81591,
     "geom:longitude":4.361346,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Moli\u00e8re 292",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476041,
-    "wof:geomhash":"257e030a9da0d767a97a28445877ce76",
+    "wof:geomhash":"3697f96d6516d7707c318108f70d217e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041618457,
-    "wof:lastmodified":1473722526,
+    "wof:lastmodified":1510942061,
     "wof:name":"Dj & S",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058921275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "interior",

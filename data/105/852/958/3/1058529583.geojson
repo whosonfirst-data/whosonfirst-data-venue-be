@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3753600121,50.4641075134,4.3753600121,50.4641075134",
     "geom:latitude":50.464108,
     "geom:longitude":4.37536,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Hamal 5",
     "sg:city":"Courcelles",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473529467,
-    "wof:geomhash":"ba771b743dcc373b0d70534e4c2c5f0d",
+    "wof:geomhash":"1137c97992a88e8d695be038cd740f76",
     "wof:hierarchy":[],
     "wof:id":1058529583,
-    "wof:lastmodified":1473722848,
+    "wof:lastmodified":1510942504,
     "wof:name":"Pedilook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041661589
+    ],
     "wof:tags":[
         "pedicure"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Merksemsebaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5043888092,51.2314987183,4.5043888092,51.2314987183",
     "geom:latitude":51.231499,
     "geom:longitude":4.504389,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merksemsebaan 262",
     "sg:city":"Wijnegem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481180,
-    "wof:geomhash":"106cd791629023739c0804fab3f5c574",
+    "wof:geomhash":"fa00824544af6fe5082abf3f7b053ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,18 @@
         }
     ],
     "wof:id":1041745373,
-    "wof:lastmodified":1473721572,
+    "wof:lastmodified":1510943635,
     "wof:name":"D'ouwe Kaars",
     "wof:parent_id":85862031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058020033,
+        1058763191,
+        1058526071,
+        1058149543,
+        1042042339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

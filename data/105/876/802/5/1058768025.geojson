@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3865990639,50.8238792419,4.3865990639,50.8238792419",
     "geom:latitude":50.823879,
     "geom:longitude":4.386599,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De La Couronne 340",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540142,
-    "wof:geomhash":"5d0efeab6a37cd64eee2426427514753",
+    "wof:geomhash":"ffd0fae9ad48d28be70b4a0c77d1bf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058768025,
-    "wof:lastmodified":1473722310,
+    "wof:lastmodified":1510943842,
     "wof:name":"B & S (business & Show Syntagmes)",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042170895
+    ],
     "wof:tags":[]
 },
   "bbox": [

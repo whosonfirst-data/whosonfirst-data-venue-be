@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Rue Fernand Se\u0301Verin",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.390458107,50.876499176,4.390458107,50.876499176",
     "geom:latitude":50.876499,
     "geom:longitude":4.390458,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Fernand S\u00e9verin 75",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477524,
-    "wof:geomhash":"ebd3115d595fcc1b284f2918d6b011d1",
+    "wof:geomhash":"97c82e9ab2cc0e7bb7c9bfd6043de980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041654713,
-    "wof:lastmodified":1473721400,
+    "wof:lastmodified":1510943440,
     "wof:name":"Residence Chantal",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058378415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

@@ -7,13 +7,16 @@
     "addr:postcode":"3128",
     "addr:street":"Beulkensstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7539200783,50.9992027283,4.7539200783,50.9992027283",
     "geom:latitude":50.999203,
     "geom:longitude":4.75392,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Beulkensstraat 15",
     "sg:city":"Tremelo (baal)",
     "sg:classifiers":[
@@ -38,16 +41,27 @@
     },
     "wof:country":"BE",
     "wof:created":1473542761,
-    "wof:geomhash":"cbdadfa9d9b9163618db7b49a89bf4ba",
+    "wof:geomhash":"e55ba676edbd25afc8ce0d9f605ce750",
     "wof:hierarchy":[],
     "wof:id":1058827881,
-    "wof:lastmodified":1473722208,
+    "wof:lastmodified":1510943189,
     "wof:name":"Claes Marcel & Zn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058969725,
+        1058918029
+    ],
+    "wof:supersedes":[
+        1058042103,
+        1042175249,
+        1058479193,
+        1058524667,
+        1058832349,
+        1042174661,
+        1042035171
+    ],
     "wof:tags":[
         "stair"
     ]

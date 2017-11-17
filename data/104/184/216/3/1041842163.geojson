@@ -7,13 +7,16 @@
     "addr:postcode":"7060",
     "addr:street":"Chausse\u0301E Du Roeulx",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0694298744,50.568977356,4.0694298744,50.568977356",
     "geom:latitude":50.568977,
     "geom:longitude":4.06943,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e Du Roeulx 114b",
     "sg:city":"Soignies",
     "sg:classifiers":[
@@ -39,16 +42,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473485468,
-    "wof:geomhash":"fd30ff83c2d94357b649e914149b2f40",
+    "wof:geomhash":"bde89a37612354f9cda4f635793ae44d",
     "wof:hierarchy":[],
     "wof:id":1041842163,
-    "wof:lastmodified":1473720271,
+    "wof:lastmodified":1510943893,
     "wof:name":"Thewissen O Scrl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058906495,
+        1042049221,
+        1041842731,
+        1041844189
+    ],
+    "wof:supersedes":[
+        1041841527,
+        1041840755
+    ],
     "wof:tags":[
         "automobile",
         "-"

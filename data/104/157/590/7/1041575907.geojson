@@ -7,13 +7,16 @@
     "addr:postcode":"1457",
     "addr:street":"Rue Du Vieux Cha\u0302Teau;Wallon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6970200539,50.615447998,4.6970200539,50.615447998",
     "geom:latitude":50.615448,
     "geom:longitude":4.69702,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Vieux Ch\u00e2teau 11",
     "sg:city":"Walhain (walhain-saint-paul)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474289,
-    "wof:geomhash":"b7fb189db695ef8fd53d6515a4f12acf",
+    "wof:geomhash":"7b29a88aba170d55f8cde49e5879aed2",
     "wof:hierarchy":[],
     "wof:id":1041575907,
-    "wof:lastmodified":1473721725,
+    "wof:lastmodified":1510942636,
     "wof:name":"Exm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042109681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "discotheque"

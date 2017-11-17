@@ -7,13 +7,16 @@
     "addr:postcode":"359-361;4000",
     "addr:street":"Rue Sainte-Marguerite",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5512008667,50.6478462219,5.5512008667,50.6478462219",
     "geom:latitude":50.647846,
     "geom:longitude":5.551201,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Sainte-marguerite 359-361",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496409,
-    "wof:geomhash":"45e1b8e11d4c52a1d094a2967727930e",
+    "wof:geomhash":"06ef65385f957c1e087ed25e56db0478",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,20 @@
         }
     ],
     "wof:id":1042100335,
-    "wof:lastmodified":1473719375,
+    "wof:lastmodified":1510944023,
     "wof:name":"Lacroix (ets)",
     "wof:parent_id":85801177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058513243,
+        1058050447,
+        1058524989,
+        1058797055,
+        1058467129,
+        1058961967,
+        1058279081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "curtain",

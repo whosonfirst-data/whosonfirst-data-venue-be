@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3566222191,50.8044471741,4.3566222191,50.8044471741",
     "geom:latitude":50.804447,
     "geom:longitude":4.356622,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De Fr\u00e9 82",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540510,
-    "wof:geomhash":"5db75a29d9a4d9db60859fac48f57c5d",
+    "wof:geomhash":"4e6c9128202f5cdb0d4c063de84b780e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058776375,
-    "wof:lastmodified":1473721842,
+    "wof:lastmodified":1510942019,
     "wof:name":"Vicario Linea",
     "wof:parent_id":85801553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041661225
+    ],
     "wof:tags":[
         "slipper",
         "-"

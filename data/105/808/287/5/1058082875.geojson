@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.603869915,50.6346054077,5.603869915,50.6346054077",
     "geom:latitude":50.634605,
     "geom:longitude":5.60387,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Herve 65",
     "sg:city":"Li\u00e8ge 1 (jupille-sur-meuse)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508838,
-    "wof:geomhash":"982e3ef0fd5b20f1366f0693c1b82129",
+    "wof:geomhash":"492033f5c8b22552fc4d10ad0f0a02ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058082875,
-    "wof:lastmodified":1473720671,
+    "wof:lastmodified":1510942810,
     "wof:name":"Duchesne & Dethier",
     "wof:parent_id":85862019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042092641
+    ],
     "wof:tags":[
         "director"
     ]

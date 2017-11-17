@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Chausse\u0301E De Waterloo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3445701599,50.8277702332,4.3445701599,50.8277702332",
     "geom:latitude":50.82777,
     "geom:longitude":4.34457,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Waterloo 172",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473342,
-    "wof:geomhash":"f115df610622ad48dbcedf3d14a84a01",
+    "wof:geomhash":"e903173b987780ec7a98deaa2db4ba69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041553569,
-    "wof:lastmodified":1473720919,
+    "wof:lastmodified":1510942530,
     "wof:name":"Institut De Beaut\u00e9 D.s.",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058264051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

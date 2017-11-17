@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Avenue Emile Gryson",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2954311371,50.8161201477,4.2954311371,50.8161201477",
     "geom:latitude":50.81612,
     "geom:longitude":4.295431,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Emile Gryson 1",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479153,
-    "wof:geomhash":"a2b6833d89457ac037c8b3b092a7f7ef",
+    "wof:geomhash":"e09250d38ed9ede3a18ac86764c97ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,16 @@
         }
     ],
     "wof:id":1041696541,
-    "wof:lastmodified":1473721907,
+    "wof:lastmodified":1510943886,
     "wof:name":"Elishout",
     "wof:parent_id":85801261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041947621,
+        1042198747,
+        1042196257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"

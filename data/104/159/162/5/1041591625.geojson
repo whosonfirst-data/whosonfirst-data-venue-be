@@ -7,13 +7,16 @@
     "addr:postcode":"4032",
     "addr:street":"Rue Des Grands-Pre\u0301S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6209540367,50.6056175232,5.6209540367,50.6056175232",
     "geom:latitude":50.605618,
     "geom:longitude":5.620954,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Grands-pr\u00e9s 164",
     "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474950,
-    "wof:geomhash":"d2e6b25fcf4b8d1542baa0062a89f433",
+    "wof:geomhash":"39b458a9d37566b6d09f493aad297808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041591625,
-    "wof:lastmodified":1473720034,
+    "wof:lastmodified":1510943642,
     "wof:name":"Mio Sa",
     "wof:parent_id":85800991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058217549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

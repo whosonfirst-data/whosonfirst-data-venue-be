@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Merksemsebaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5188288689,51.2278404236,4.5188288689,51.2278404236",
     "geom:latitude":51.22784,
     "geom:longitude":4.518829,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merksemsebaan 11",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -42,16 +45,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473513277,
-    "wof:geomhash":"dbc6b1526b35c4e151421ac4ca7e9fd1",
+    "wof:geomhash":"234ed7c6ce9c9d16acf8d04680b0ca5d",
     "wof:hierarchy":[],
     "wof:id":1058178683,
-    "wof:lastmodified":1473722118,
+    "wof:lastmodified":1510943791,
     "wof:name":"Dru-apt Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058964353,
+        1058832777
+    ],
+    "wof:supersedes":[
+        1042210131
+    ],
     "wof:tags":[
         "repair",
         "mainten",

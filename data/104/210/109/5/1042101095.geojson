@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Noorderlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4198851585,51.2554740906,4.4198851585,51.2554740906",
     "geom:latitude":51.255474,
     "geom:longitude":4.419885,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Noorderlaan 83",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496441,
-    "wof:geomhash":"a3f820f845de01ae25846a107048b5dc",
+    "wof:geomhash":"6073d35b885ac9175ed128be311653d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,23 @@
         }
     ],
     "wof:id":1042101095,
-    "wof:lastmodified":1473719737,
+    "wof:lastmodified":1510943751,
     "wof:name":"Fabory Centre",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058045703,
+        1058879731,
+        1058089201,
+        1058464075,
+        1058879319,
+        1058827501
+    ],
+    "wof:supersedes":[
+        1041845245,
+        1041961299
+    ],
     "wof:tags":[
         "tool",
         "cutting"

@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Pl;Gudule",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3599381447,50.8473167419,4.3599381447,50.8473167419",
     "geom:latitude":50.847317,
     "geom:longitude":4.359938,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pl Ste Gudule 19",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487763,
-    "wof:geomhash":"42cc423156e4f7694ee6dcab915a80d5",
+    "wof:geomhash":"cfc12a1e58c20cd0d2f3ef2f53fd1f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041896473,
-    "wof:lastmodified":1473721831,
+    "wof:lastmodified":1510942931,
     "wof:name":"Petercam Sa",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058285887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banking",

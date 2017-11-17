@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Marathonstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6978828907,51.0419082642,3.6978828907,51.0419082642",
     "geom:latitude":51.041908,
     "geom:longitude":3.697883,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marathonstraat 14",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480120,
-    "wof:geomhash":"5f181456523bcfa26cd2e1298f48771b",
+    "wof:geomhash":"6907112ecd04c712d226fd475c93fd17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,19 @@
         }
     ],
     "wof:id":1041721149,
-    "wof:lastmodified":1473719759,
+    "wof:lastmodified":1510943287,
     "wof:name":"Flamme Jean",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041886285,
+        1041872837,
+        1058339473
+    ],
+    "wof:supersedes":[
+        1041721147
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6209387779,50.6055641174,5.6209387779,50.6055641174",
     "geom:latitude":50.605564,
     "geom:longitude":5.620939,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des Grands-pres 164",
     "sg:city":"Ch\u00ean\u00e9e",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514982,
-    "wof:geomhash":"19e5f96bc8ef2f06fbc01cb42891cf17",
+    "wof:geomhash":"b15ef5782f26644948339f33a11a6b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058217549,
-    "wof:lastmodified":1473722160,
+    "wof:lastmodified":1510943642,
     "wof:name":"Mio S.a.",
     "wof:parent_id":85800991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041591625
+    ],
     "wof:tags":[
         "ice-cream"
     ]

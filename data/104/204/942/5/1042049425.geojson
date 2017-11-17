@@ -7,13 +7,16 @@
     "addr:postcode":"76-82;1000",
     "addr:street":"Rue Du Midi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3494668007,50.8456192017,4.3494668007,50.8456192017",
     "geom:latitude":50.845619,
     "geom:longitude":4.349467,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Midi 76-82",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494228,
-    "wof:geomhash":"f489cf3cbf1863bc39210fe7966e8f85",
+    "wof:geomhash":"d6002519f0779f80fe82b1b8571aa6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,20 @@
         }
     ],
     "wof:id":1042049425,
-    "wof:lastmodified":1473722773,
+    "wof:lastmodified":1510942960,
     "wof:name":"Brasseur",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058906567,
+        1058044243,
+        1058497037,
+        1058390197
+    ],
+    "wof:supersedes":[
+        1041789803
+    ],
     "wof:tags":[
         "chair",
         "-",

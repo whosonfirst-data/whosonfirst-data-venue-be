@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6676449776,50.8905563354,5.6676449776,50.8905563354",
     "geom:latitude":50.890556,
     "geom:longitude":5.667645,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32",
     "sg:city":"Bedrijfsweg 3620 Lanaken",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473510101,
-    "wof:geomhash":"09b4587c7c4a745372da83bedb0dd7d6",
+    "wof:geomhash":"91bd91fb7e34e53a710ffc452a34bebe",
     "wof:hierarchy":[],
     "wof:id":1058112317,
-    "wof:lastmodified":1473720422,
+    "wof:lastmodified":1510941467,
     "wof:name":"Atelier Joelle Dalsace Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058111961
+    ],
     "wof:tags":[
         "building",
         "material"

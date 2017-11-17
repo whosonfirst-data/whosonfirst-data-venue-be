@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2024002075,50.8291053772,5.2024002075,50.8291053772",
     "geom:latitude":50.829105,
     "geom:longitude":5.2024,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hasseltsesteenweg 416a",
     "sg:city":"Sint-truiden",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473508910,
-    "wof:geomhash":"7606ea139ce36f7d36b2d48232943157",
+    "wof:geomhash":"d3c2d8c1f0916240a842af5c1c178b8e",
     "wof:hierarchy":[],
     "wof:id":1058084021,
-    "wof:lastmodified":1473721016,
+    "wof:lastmodified":1510942163,
     "wof:name":"Vend\u00f4me",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041630989
+    ],
     "wof:tags":[
         "-",
         "furniture"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.541164875,50.6114616394,5.541164875,50.6114616394",
     "geom:latitude":50.611462,
     "geom:longitude":5.541165,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Verte Voie 49-51",
     "sg:city":"Sclessin",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507898,
-    "wof:geomhash":"ef54dc068c12146a5d28bcdf8b6b1a41",
+    "wof:geomhash":"20a10bcaf3ef4451e39ff2d48832f6db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058059535,
-    "wof:lastmodified":1473722846,
+    "wof:lastmodified":1510942397,
     "wof:name":"Jac S.a.",
     "wof:parent_id":85801867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041550033
+    ],
     "wof:tags":[]
 },
   "bbox": [

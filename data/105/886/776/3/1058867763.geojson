@@ -7,13 +7,16 @@
     "addr:postcode":"529-531;1050",
     "addr:street":"Chausse\u0301E De Waterloo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3602070808,50.8196601868,4.3602070808,50.8196601868",
     "geom:latitude":50.81966,
     "geom:longitude":4.360207,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Waterloo 529-531",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544472,
-    "wof:geomhash":"54782110fa6a686ab014c7a2849f74ea",
+    "wof:geomhash":"a22ed69fb873e092c893997799a45281",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,18 @@
         }
     ],
     "wof:id":1058867763,
-    "wof:lastmodified":1473722171,
+    "wof:lastmodified":1510943438,
     "wof:name":"Square Radio Electro Sc",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058868645
+    ],
+    "wof:supersedes":[
+        1058656693,
+        1042201963
+    ],
     "wof:tags":[
         "radio",
         "television",

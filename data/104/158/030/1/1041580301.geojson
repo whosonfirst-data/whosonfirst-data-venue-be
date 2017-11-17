@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.454018116,51.1801261902,4.454018116,51.1801261902",
     "geom:latitude":51.180126,
     "geom:longitude":4.454018,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-reinhildisstraat 15b",
     "sg:city":"Mortsel",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":45563676,
         "sg:id":"SG_5Hzior75gqI9Ka5g8c1EWL_51.180126_4.454018@1306268413"
     },
     "wof:country":"BE",
     "wof:created":1473474467,
-    "wof:geomhash":"006fb27bcb1e75f64885b19c84a3217b",
+    "wof:geomhash":"fa581f09fbb0f3d2b3b3eb35fc81ec62",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1041580301,
-    "wof:lastmodified":1473719359,
+    "wof:lastmodified":1510942600,
     "wof:name":"Rozenregen",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

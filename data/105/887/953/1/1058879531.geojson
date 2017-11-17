@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.50669384,50.7285423279,4.50669384,50.7285423279",
     "geom:latitude":50.728542,
     "geom:longitude":4.506694,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Tasni\u00e8re 89",
     "sg:city":"Rixensart (genval)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544993,
-    "wof:geomhash":"5577fe8ccaa56dbd841d01d7ecd48059",
+    "wof:geomhash":"5faa863232d918f771438cfc1d63bde7",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1058879531,
-    "wof:lastmodified":1473722751,
+    "wof:lastmodified":1510943551,
     "wof:name":"T M L Sprl",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041582057
+    ],
     "wof:tags":[
         "-"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"1390",
     "addr:street":"Chausse\u0301E De Wavre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6466069221,50.7328109741,4.6466069221,50.7328109741",
     "geom:latitude":50.732811,
     "geom:longitude":4.646607,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Wavre 504",
     "sg:city":"Grez-doiceau",
     "sg:classifiers":[
@@ -39,16 +42,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473544997,
-    "wof:geomhash":"06eae44a19e49272628b5c3a3d4ac49a",
+    "wof:geomhash":"458f6d42f0e20dab0db344177a181fcf",
     "wof:hierarchy":[],
     "wof:id":1058879647,
-    "wof:lastmodified":1473722785,
+    "wof:lastmodified":1510942841,
     "wof:name":"Beltools Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058990851
+    ],
+    "wof:supersedes":[
+        1058798361,
+        1042067479,
+        1058729937,
+        1041961259,
+        1042101055,
+        1058879219
+    ],
     "wof:tags":[
         "tool",
         "electric"

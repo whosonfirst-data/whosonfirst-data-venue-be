@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Avenue Du Sippelberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3237938881,50.8595695496,4.3237938881,50.8595695496",
     "geom:latitude":50.85957,
     "geom:longitude":4.323794,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Du Sippelberg 1",
     "sg:city":"Bruxelles (molenbeek-saint-jean)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539936,
-    "wof:geomhash":"c6cc03d75d90be5db148f6af30b7de20",
+    "wof:geomhash":"65dd84ea9f5d340342fd74f242147146",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":1058763509,
-    "wof:lastmodified":1473720968,
+    "wof:lastmodified":1510944058,
     "wof:name":"Stadium",
     "wof:parent_id":85801385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058823875,
+        1058798127
+    ],
+    "wof:supersedes":[
+        1058751597
+    ],
     "wof:tags":[
         "organisation",
         "seminar"

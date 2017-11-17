@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Hessenplein",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4099440575,51.2262001038,4.4099440575,51.2262001038",
     "geom:latitude":51.2262,
     "geom:longitude":4.409944,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hessenplein 23",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485408,
-    "wof:geomhash":"5cdef112e345d1ae015008ba90998564",
+    "wof:geomhash":"287b948ad162d49524fe7a1bd935767f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,24 @@
         }
     ],
     "wof:id":1041840897,
-    "wof:lastmodified":1473719674,
+    "wof:lastmodified":1510943874,
     "wof:name":"E Bellekens Etn Co Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058879293,
+        1041843809,
+        1058463285,
+        1041843293,
+        1041842885,
+        1058089173,
+        1058881661,
+        1058371719,
+        1041842033,
+        1058129525,
+        1041845223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

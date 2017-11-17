@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7759840488,51.0731277466,3.7759840488,51.0731277466",
     "geom:latitude":51.073128,
     "geom:longitude":3.775984,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Antwerpsesteenweg 733",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":316400369,
         "sg:id":"SG_3jotxKGcYXuPUNXSJ8MJaO_51.073128_3.775984@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536578,
-    "wof:geomhash":"c298e50e283e966648d29a83c027c6f3",
+    "wof:geomhash":"6d8224a90080c8cce467079c5e01117e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1058686877,
-    "wof:lastmodified":1473721922,
+    "wof:lastmodified":1510942643,
     "wof:name":"Quick",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"5000",
     "addr:street":"Chausse\u0301E De Dinant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8562068939,50.4461097717,4.8562068939,50.4461097717",
     "geom:latitude":50.44611,
     "geom:longitude":4.856207,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Dinant 191",
     "sg:city":"Namur",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473478122,
-    "wof:geomhash":"fc8b16d8decca5f96e65abb4cdf8553a",
+    "wof:geomhash":"9c9018f20cdcd3d850aec83fe7f150f6",
     "wof:hierarchy":[],
     "wof:id":1041669169,
-    "wof:lastmodified":1473722778,
+    "wof:lastmodified":1510943531,
     "wof:name":"Club Fran\u00e7ois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042030205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"

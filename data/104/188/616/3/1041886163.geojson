@@ -7,13 +7,16 @@
     "addr:postcode":"9032",
     "addr:street":"Sint-Markoenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7144889832,51.0903129578,3.7144889832,51.0903129578",
     "geom:latitude":51.090313,
     "geom:longitude":3.714489,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-markoenstraat 18",
     "sg:city":"Wondelgem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487341,
-    "wof:geomhash":"58082ee980776f1e983f05d38239e250",
+    "wof:geomhash":"b4b3675ca859e1f0900078143fe555ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1041886163,
-    "wof:lastmodified":1473721797,
+    "wof:lastmodified":1510944173,
     "wof:name":"Van Parys Tony",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058349259
+    ],
+    "wof:supersedes":[
+        1041721741,
+        1041721739
+    ],
     "wof:tags":[]
 },
   "bbox": [

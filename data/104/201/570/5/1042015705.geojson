@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7259469032,51.0387458801,3.7259469032,51.0387458801",
     "geom:latitude":51.038746,
     "geom:longitude":3.725947,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Overpoortstraat 114",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":493114885,
         "sg:id":"SG_50XC77n51lCV4CQ92GH678_51.038746_3.725947@1306268378"
     },
     "wof:country":"BE",
     "wof:created":1473492902,
-    "wof:geomhash":"5704929ea4bfed8ad7137f9b4df76ac8",
+    "wof:geomhash":"fe211680d02cad052069261d2834f14c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1042015705,
-    "wof:lastmodified":1473721742,
+    "wof:lastmodified":1510941418,
     "wof:name":"Confrater",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",

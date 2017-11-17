@@ -7,13 +7,16 @@
     "addr:postcode":"8490",
     "addr:street":"Marienhovedreef",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1436910629,51.1811981201,3.1436910629,51.1811981201",
     "geom:latitude":51.181198,
     "geom:longitude":3.143691,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marienhovedreef 11",
     "sg:city":"Jabbeke (varsenare)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499018,
-    "wof:geomhash":"bbb9a5a7aa273f687105aeaebf1dc771",
+    "wof:geomhash":"b4b96e21e0a646f858f3a9f04dbf9fee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1042149791,
-    "wof:lastmodified":1473722913,
+    "wof:lastmodified":1510944012,
     "wof:name":"Solvida",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058681919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "health",

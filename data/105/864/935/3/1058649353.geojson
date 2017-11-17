@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Wiertz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3747739792,50.8378143311,4.3747739792,50.8378143311",
     "geom:latitude":50.837814,
     "geom:longitude":4.374774,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Wiertz 50",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534903,
-    "wof:geomhash":"d329db72ebfbce658cafc34ba263c763",
+    "wof:geomhash":"fb198ccaa2410b5874f3f86a3a0cc078",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +60,18 @@
         }
     ],
     "wof:id":1058649353,
-    "wof:lastmodified":1473722700,
+    "wof:lastmodified":1510943747,
     "wof:name":"Catella Codemer",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058843785
+    ],
+    "wof:supersedes":[
+        1058019167,
+        1041735161
+    ],
     "wof:tags":[]
 },
   "bbox": [

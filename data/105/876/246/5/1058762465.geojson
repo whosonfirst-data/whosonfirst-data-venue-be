@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.586165905,50.7327461243,4.586165905,50.7327461243",
     "geom:latitude":50.732746,
     "geom:longitude":4.586166,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Mercator 5",
     "sg:city":"Wavre",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473539880,
-    "wof:geomhash":"8e90d59bc3d8de13592b55ca42a16b3a",
+    "wof:geomhash":"f8f034aeabcd05b1d89cf1ece7ccddeb",
     "wof:hierarchy":[],
     "wof:id":1058762465,
-    "wof:lastmodified":1473720459,
+    "wof:lastmodified":1510941891,
     "wof:name":"Automatic Systems Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042209471
+    ],
     "wof:tags":[
         "consultant"
     ]

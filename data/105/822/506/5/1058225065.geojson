@@ -7,13 +7,16 @@
     "addr:postcode":"3390",
     "addr:street":"Leuvensesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8771390915,50.9076194763,4.8771390915,50.9076194763",
     "geom:latitude":50.907619,
     "geom:longitude":4.877139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Leuvensesteenweg 199",
     "sg:city":"Sint-joris-winge",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473515318,
-    "wof:geomhash":"a4a0f4affdf68c6cc22b21e0b4340dd4",
+    "wof:geomhash":"975335bab55f34cf2f6a797b24595d86",
     "wof:hierarchy":[],
     "wof:id":1058225065,
-    "wof:lastmodified":1473721518,
+    "wof:lastmodified":1510944125,
     "wof:name":"Broodjesbar Loneux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058851747
+    ],
+    "wof:supersedes":[
+        1042183565,
+        1042183573
+    ],
     "wof:tags":[]
 },
   "bbox": [

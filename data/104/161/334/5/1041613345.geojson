@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Square Jules Algoet",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.299516201,50.838344574,4.299516201,50.838344574",
     "geom:latitude":50.838345,
     "geom:longitude":4.299516,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Square Jules Algoet 5",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475840,
-    "wof:geomhash":"8404f6fcc5fce7a3a8cb302b1c8c21ec",
+    "wof:geomhash":"87b72a03f35c531b0dc846f3b9432f02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041613345,
-    "wof:lastmodified":1473720903,
+    "wof:lastmodified":1510944122,
     "wof:name":"Medatec",
     "wof:parent_id":85800971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058401447
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

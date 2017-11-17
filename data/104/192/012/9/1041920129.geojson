@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6932182312,50.7380485535,5.6932182312,50.7380485535",
     "geom:latitude":50.738049,
     "geom:longitude":5.693218,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Mar\u00c9chal Foch 3",
     "sg:city":"Vise",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488733,
-    "wof:geomhash":"092ea9f2d9fda85f1ca4132dfd37059f",
+    "wof:geomhash":"a8cc73558bf7bb6ba2f63740c468f7ab",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1041920129,
-    "wof:lastmodified":1473718928,
+    "wof:lastmodified":1510942329,
     "wof:name":"Esth\u00c9tique Vend\u00d4me",
     "wof:parent_id":85802011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041553509
+    ],
     "wof:tags":[]
 },
   "bbox": [

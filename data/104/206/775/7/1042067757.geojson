@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4170298576,51.2213821411,4.4170298576,51.2213821411",
     "geom:latitude":51.221382,
     "geom:longitude":4.41703,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Itali\u00eblei 215",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494981,
-    "wof:geomhash":"e7138d8f764461bbce553b6aba1860a5",
+    "wof:geomhash":"2357ec67bc5204d316ce16498163ec70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042067757,
-    "wof:lastmodified":1473722302,
+    "wof:lastmodified":1510942661,
     "wof:name":"Bondis Bvba",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042056443
+    ],
     "wof:tags":[
         "product",
         "cleaning",

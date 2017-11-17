@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3857989311,51.2314796448,4.3857989311,51.2314796448",
     "geom:latitude":51.23148,
     "geom:longitude":4.385799,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Bouvaertlaan 29",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2419216995,
         "sg:id":"SG_4GAmwDQfio1sQWHMclYLqj_51.231480_4.385799@1306268584"
     },
     "wof:country":"BE",
     "wof:created":1473478133,
-    "wof:geomhash":"78ded06fe328fb6ade6a1016611abc1d",
+    "wof:geomhash":"19a540fe9f02611a9ebedd3b1c546a30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1041669473,
-    "wof:lastmodified":1473722879,
+    "wof:lastmodified":1510943718,
     "wof:name":"San Marco",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

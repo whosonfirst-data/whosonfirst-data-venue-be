@@ -7,13 +7,16 @@
     "addr:postcode":"2800",
     "addr:street":"Van Benedenlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4743061066,51.0214195251,4.4743061066,51.0214195251",
     "geom:latitude":51.02142,
     "geom:longitude":4.474306,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Van Benedenlaan 4",
     "sg:city":"Mechelen",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473544488,
-    "wof:geomhash":"70a4ac9fb9400cc9eef9511bd09038e4",
+    "wof:geomhash":"6b5fa1129b7de8f0a518a1b10c5ebe19",
     "wof:hierarchy":[],
     "wof:id":1058868001,
-    "wof:lastmodified":1473722241,
+    "wof:lastmodified":1510943568,
     "wof:name":"Audiovision Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058936735
+    ],
+    "wof:supersedes":[
+        1058194807,
+        1041843713,
+        1058867147
+    ],
     "wof:tags":[
         "-",
         "television",

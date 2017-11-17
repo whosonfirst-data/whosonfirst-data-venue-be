@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De Hesbaye",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5546917915,50.6484413147,5.5546917915,50.6484413147",
     "geom:latitude":50.648441,
     "geom:longitude":5.554692,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Hesbaye 75",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523260,
-    "wof:geomhash":"3a6e78448173c2fd3ad91740eff395bd",
+    "wof:geomhash":"82aa849a3c7e03c1e5669b3271fc6ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,18 @@
         }
     ],
     "wof:id":1058400365,
-    "wof:lastmodified":1473719366,
+    "wof:lastmodified":1510944157,
     "wof:name":"C H C Asbl",
     "wof:parent_id":85801177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058661179
+    ],
+    "wof:supersedes":[
+        1058201831,
+        1042127119
+    ],
     "wof:tags":[
         "medical"
     ]

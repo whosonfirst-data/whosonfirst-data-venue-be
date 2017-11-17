@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6587190628,50.9741439819,3.6587190628,50.9741439819",
     "geom:latitude":50.974144,
     "geom:longitude":3.658719,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Begoniastraat 7",
     "sg:city":"Nazareth (eke)",
     "sg:classifiers":[
@@ -38,16 +40,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473548828,
-    "wof:geomhash":"70c67dda3f2abfa8b82f18a554e07a11",
+    "wof:geomhash":"072dc53c1334c2a2a3f4b0fea48a250a",
     "wof:hierarchy":[],
     "wof:id":1058961369,
-    "wof:lastmodified":1473719731,
+    "wof:lastmodified":1510943866,
     "wof:name":"Vandeweege Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058268361,
+        1058583173,
+        1058473793,
+        1058722217
+    ],
     "wof:tags":[
         "covering"
     ]

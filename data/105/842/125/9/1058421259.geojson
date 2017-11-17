@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6315350533,50.6012535095,5.6315350533,50.6012535095",
     "geom:latitude":50.601254,
     "geom:longitude":5.631535,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Gravier 3",
     "sg:city":"Chaudfontaine (vaux-sous-ch\u00e8vremont)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473524229,
-    "wof:geomhash":"0ebeecfa5d97920effe49019546be3e7",
+    "wof:geomhash":"22355f4f457e2b7e8e06b3bb27210477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058421259,
-    "wof:lastmodified":1473719958,
+    "wof:lastmodified":1510941886,
     "wof:name":"Renwa (pompes Fun\u00e8bres)",
     "wof:parent_id":85801253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058083347
+    ],
     "wof:tags":[
         "wreath",
         "mourning"

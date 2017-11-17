@@ -7,13 +7,16 @@
     "addr:postcode":"9050",
     "addr:street":"Brusselsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7458300591,51.0390625,3.7458300591,51.0390625",
     "geom:latitude":51.039062,
     "geom:longitude":3.74583,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brusselsesteenweg 424-426",
     "sg:city":"Gent (ledeberg)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485503,
-    "wof:geomhash":"0ebbe2a7754e8fd91d320557ccce8521",
+    "wof:geomhash":"3c25f0a46b74073d9e1bf51264ceec99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,24 @@
         }
     ],
     "wof:id":1041842819,
-    "wof:lastmodified":1473720697,
+    "wof:lastmodified":1510944138,
     "wof:name":"All Communications Nv",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866289,
+        1058129363,
+        1058534923,
+        1058646649,
+        1058865937,
+        1058866629,
+        1058866409,
+        1058865711
+    ],
+    "wof:supersedes":[
+        1058130019
+    ],
     "wof:tags":[
         "automobile",
         "-",

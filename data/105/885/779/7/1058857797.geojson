@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2182500362,51.2048149109,3.2182500362,51.2048149109",
     "geom:latitude":51.204815,
     "geom:longitude":3.21825,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"'t Zand 25",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":101568963,
         "sg:id":"SG_6aEa3dral1JUTwUR9jvzlH_51.204815_3.218250@1306268584"
     },
     "wof:country":"BE",
     "wof:created":1473544047,
-    "wof:geomhash":"11b463ca6eb78572d8ba2c6909e5b177",
+    "wof:geomhash":"5221e068741f333494ee9ba4a3e3766e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1058857797,
-    "wof:lastmodified":1473722258,
+    "wof:lastmodified":1510941965,
     "wof:name":"The Green",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",

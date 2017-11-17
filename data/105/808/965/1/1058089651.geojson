@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9444921017,50.4469871521,3.9444921017,50.4469871521",
     "geom:latitude":50.446987,
     "geom:longitude":3.944492,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Sainctelette 39",
     "sg:city":"Mons",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473509138,
-    "wof:geomhash":"344dc5d00f7714c046e11e927b0af9fd",
+    "wof:geomhash":"314073fd37b55663e2b4d262e5e643d5",
     "wof:hierarchy":[],
     "wof:id":1058089651,
-    "wof:lastmodified":1473722751,
+    "wof:lastmodified":1510941870,
     "wof:name":"American Cars-gm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041848419
+    ],
     "wof:tags":[
         "garage"
     ]

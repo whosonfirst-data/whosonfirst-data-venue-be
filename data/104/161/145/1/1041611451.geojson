@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Navez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3741469383,50.8740272522,4.3741469383,50.8740272522",
     "geom:latitude":50.874027,
     "geom:longitude":4.374147,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R. Fran\u00c7ois-joseph Navez 165",
     "sg:city":"Schaarbeek/schaerbeek",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475760,
-    "wof:geomhash":"dd84b0bcc6ea74eb783df8d1e4c6b76b",
+    "wof:geomhash":"6edb018ec6950f807cc79272d5941439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041611451,
-    "wof:lastmodified":1473719940,
+    "wof:lastmodified":1510942162,
     "wof:name":"H\u00d4tel La Potini\u00c8re",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058203591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

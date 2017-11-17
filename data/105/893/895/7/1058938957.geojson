@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5900659561,50.6197090149,5.5900659561,50.6197090149",
     "geom:latitude":50.619709,
     "geom:longitude":5.590066,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Quai Des Ardennes 50",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473547708,
-    "wof:geomhash":"7de74fee12b1af2d5a12287d6d1d3057",
+    "wof:geomhash":"1e381af8d358a5aec316891ef425c045",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,16 @@
         }
     ],
     "wof:id":1058938957,
-    "wof:lastmodified":1473722677,
+    "wof:lastmodified":1510942955,
     "wof:name":"Sony",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058546293,
+        1058867745
+    ],
     "wof:tags":[]
 },
   "bbox": [

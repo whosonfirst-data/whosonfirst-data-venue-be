@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6394171715,50.7063980103,5.6394171715,50.7063980103",
     "geom:latitude":50.706398,
     "geom:longitude":5.639417,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Vis\u00e9-voie 84",
     "sg:city":"Oupeye",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473522394,
-    "wof:geomhash":"aa8ef4057954f63579e9b4c28e3f93b4",
+    "wof:geomhash":"96c588906683214db4ddedb2787a2425",
     "wof:hierarchy":[],
     "wof:id":1058380887,
-    "wof:lastmodified":1473719658,
+    "wof:lastmodified":1510942829,
     "wof:name":"Brajkovic Z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041576231
+    ],
     "wof:tags":[
         "consultant"
     ]

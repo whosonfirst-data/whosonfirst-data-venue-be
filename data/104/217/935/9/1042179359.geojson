@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3288550377,50.0454063416,4.3288550377,50.0454063416",
     "geom:latitude":50.045406,
     "geom:longitude":4.328855,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Couvin 63",
     "sg:city":"Chimay",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473500697,
-    "wof:geomhash":"64cefa5e657c14bfa6b687de52cb309d",
+    "wof:geomhash":"3445cc3de611f79911c5fae8c93e6e14",
     "wof:hierarchy":[],
     "wof:id":1042179359,
-    "wof:lastmodified":1473722714,
+    "wof:lastmodified":1510941693,
     "wof:name":"Wilcothera Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041643717
+    ],
     "wof:tags":[
         "product",
         "related"

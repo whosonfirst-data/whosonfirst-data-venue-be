@@ -7,13 +7,16 @@
     "addr:postcode":"9052",
     "addr:street":"Tramstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7167270184,51.0002937317,3.7167270184,51.0002937317",
     "geom:latitude":51.000294,
     "geom:longitude":3.716727,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tramstraat 61",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539841,
-    "wof:geomhash":"a7fcf6fac929950f54e67391d5534871",
+    "wof:geomhash":"8141fd4aa1fc9ce3f057836ae02ab8d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":1058761473,
-    "wof:lastmodified":1473719998,
+    "wof:lastmodified":1510943812,
     "wof:name":"Congemetal Oost-&west-vlaanderen",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058795435,
+        1058789429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

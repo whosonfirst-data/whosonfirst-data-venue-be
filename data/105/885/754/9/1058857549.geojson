@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4461560249,50.4061584473,4.4461560249,50.4061584473",
     "geom:latitude":50.406158,
     "geom:longitude":4.446156,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Joseph Tirou 122",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544034,
-    "wof:geomhash":"c062d6fd83560742e3742f5ec99bbe31",
+    "wof:geomhash":"c1f0b49b93a36c545a387930887da258",
     "wof:hierarchy":[],
     "wof:id":1058857549,
-    "wof:lastmodified":1473722192,
+    "wof:lastmodified":1510943491,
     "wof:name":"Star Rock Caf\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041655501
+    ],
     "wof:tags":[
         "tavern"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7119669914,51.043346405,3.7119669914,51.043346405",
     "geom:latitude":51.043346,
     "geom:longitude":3.711967,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Groot-brittanni\u00eblaan 151",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520345,
-    "wof:geomhash":"1d0f30b6272660c82f61999ab09b8b5b",
+    "wof:geomhash":"ffda26e6d5020dfdbed768174846b2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058337211,
-    "wof:lastmodified":1473722143,
+    "wof:lastmodified":1510941629,
     "wof:name":"De Schryver Ilse",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041886371,
+        1041721001
+    ],
     "wof:tags":[]
 },
   "bbox": [

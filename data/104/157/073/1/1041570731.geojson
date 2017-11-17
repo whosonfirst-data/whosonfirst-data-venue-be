@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue De La Che\u0302Naie;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3503260612,50.788356781,4.3503260612,50.788356781",
     "geom:latitude":50.788357,
     "geom:longitude":4.350326,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La Ch\u00canaie 83",
     "sg:city":"Ukkel/uccle",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474073,
-    "wof:geomhash":"0878923fae8eda29c8933920df4a1457",
+    "wof:geomhash":"fa1a2401bce4055de789837565a9ce70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041570731,
-    "wof:lastmodified":1473719601,
+    "wof:lastmodified":1510942701,
     "wof:name":"Cercle De Tir De La Sauvag\u00c8re",
     "wof:parent_id":85801889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058821813
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "de"

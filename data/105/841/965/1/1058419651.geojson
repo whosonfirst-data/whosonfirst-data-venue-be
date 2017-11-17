@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0716547966,50.9452209473,4.0716547966,50.9452209473",
     "geom:latitude":50.945221,
     "geom:longitude":4.071655,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Moorselbaan 448",
     "sg:city":"Aalst",
     "sg:classifiers":[
@@ -38,16 +40,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473524125,
-    "wof:geomhash":"ad3ee0960a8fdc23fe2854f9e8fe6b7b",
+    "wof:geomhash":"c05958d4f0f1c630dced80a85bef4f04",
     "wof:hierarchy":[],
     "wof:id":1058419651,
-    "wof:lastmodified":1473722787,
+    "wof:lastmodified":1510943356,
     "wof:name":"Honda Center Van Gijsegem Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041840251,
+        1058332569,
+        1058096319
+    ],
     "wof:tags":[
         "motorbike"
     ]

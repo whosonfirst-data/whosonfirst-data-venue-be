@@ -7,13 +7,16 @@
     "addr:postcode":"1150",
     "addr:street":"Avenue De Tervueren",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4092907906,50.8367004395,4.4092907906,50.8367004395",
     "geom:latitude":50.8367,
     "geom:longitude":4.409291,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Tervueren 197",
     "sg:city":"Bruxelles (woluwe-saint-pierre)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517892,
-    "wof:geomhash":"a45d86df26e90a19bab108ce5884a45d",
+    "wof:geomhash":"6bdc67e496504f396bc3df28d55bed43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,19 @@
         }
     ],
     "wof:id":1058284403,
-    "wof:lastmodified":1473721275,
+    "wof:lastmodified":1510943549,
     "wof:name":"Littera Graphis Nv",
     "wof:parent_id":85800817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058421751,
+        1058601803
+    ],
+    "wof:supersedes":[
+        1042141407,
+        1058283053
+    ],
     "wof:tags":[
         "webdesign",
         "-",

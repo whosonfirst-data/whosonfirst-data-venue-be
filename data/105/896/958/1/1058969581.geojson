@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0086159706,50.4765396118,4.0086159706,50.4765396118",
     "geom:latitude":50.47654,
     "geom:longitude":4.008616,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Filature 33",
     "sg:city":"Mons (obourg)",
     "sg:classifiers":[
@@ -37,16 +39,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473549196,
-    "wof:geomhash":"2b37b5e2c91b5d56b68aed5598ed28b1",
+    "wof:geomhash":"4a189e4a4c5ac4aeb6427dfa630af018",
     "wof:hierarchy":[],
     "wof:id":1058969581,
-    "wof:lastmodified":1473722673,
+    "wof:lastmodified":1510942679,
     "wof:name":"Boursier (ets)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042034921,
+        1058776661
+    ],
     "wof:tags":[
         "window"
     ]

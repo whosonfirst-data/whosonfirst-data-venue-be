@@ -7,13 +7,16 @@
     "addr:postcode":"1930",
     "addr:street":"Tomberglaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4830021858,50.8758087158,4.4830021858,50.8758087158",
     "geom:latitude":50.875809,
     "geom:longitude":4.483002,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tomberglaan 22",
     "sg:city":"Zaventem",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489652,
-    "wof:geomhash":"67c085829849af144f100b5f1c3ff1bf",
+    "wof:geomhash":"fe970e92581dc2e291d4086e120b8425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,15 @@
         }
     ],
     "wof:id":1041939695,
-    "wof:lastmodified":1473722810,
+    "wof:lastmodified":1510942871,
     "wof:name":"A.b. Bio Clean Cv",
     "wof:parent_id":85801397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042276037,
+        1042175991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

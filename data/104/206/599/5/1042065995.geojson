@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2226140499,51.2062911987,3.2226140499,51.2062911987",
     "geom:latitude":51.206291,
     "geom:longitude":3.222614,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Simon Stevinplein 13",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1187790230,
         "sg:id":"SG_2s61oBZb15HVML7hwUr0pi_51.206291_3.222614@1306268388"
     },
     "wof:country":"BE",
     "wof:created":1473494909,
-    "wof:geomhash":"0abe96101355c2dfc13f59f59ea62bb5",
+    "wof:geomhash":"e7b4caab85b0f6577e650aaa573769b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1042065995,
-    "wof:lastmodified":1473721780,
+    "wof:lastmodified":1510942334,
     "wof:name":"Jerry's Cigar Bar",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

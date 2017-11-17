@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue De Linthout",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4014201164,50.841129303,4.4014201164,50.841129303",
     "geom:latitude":50.841129,
     "geom:longitude":4.40142,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Linthout 236",
     "sg:city":"Etterbeek",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476356,
-    "wof:geomhash":"e77d8cab8159b16849295a3a58b4974d",
+    "wof:geomhash":"607cb4e3ce77a46034b37ecc3f59951d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041626227,
-    "wof:lastmodified":1473721779,
+    "wof:lastmodified":1510943324,
     "wof:name":"L\u00c9gitime F\u00c9minit\u00c9",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041914491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ondergoed",

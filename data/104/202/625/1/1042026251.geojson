@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5856599808,50.6134490967,5.5856599808,50.6134490967",
     "geom:latitude":50.613449,
     "geom:longitude":5.58566,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Vaudr\u00c9e 289",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473493292,
-    "wof:geomhash":"a0159b894c6b7aa905a6f63e61e8a05f",
+    "wof:geomhash":"04dd7a513ff3216350b19cfc6220b1e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1042026251,
-    "wof:lastmodified":1473721764,
+    "wof:lastmodified":1510941601,
     "wof:name":"Sart Tilman Automatique",
     "wof:parent_id":85801367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041750067
+    ],
     "wof:tags":[
         "caf\u00e9s"
     ]

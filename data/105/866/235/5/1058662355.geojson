@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2284598351,50.6755447388,5.2284598351,50.6755447388",
     "geom:latitude":50.675545,
     "geom:longitude":5.22846,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Georges C\u00e9sar 50",
     "sg:city":"Waremme (grand-axhe)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473535521,
-    "wof:geomhash":"3329276702b3ef22c992dd744a168eda",
+    "wof:geomhash":"60e8c90de1a07648aba9977bc0fb39a1",
     "wof:hierarchy":[],
     "wof:id":1058662355,
-    "wof:lastmodified":1473720312,
+    "wof:lastmodified":1510942323,
     "wof:name":"R\u00e9sidence Du Vieux Moulin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041658055
+    ],
     "wof:tags":[
         "home",
         "rest"

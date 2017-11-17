@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3509511948,50.8267555237,4.3509511948,50.8267555237",
     "geom:latitude":50.826756,
     "geom:longitude":4.350951,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Saint-bernard 133",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488609,
-    "wof:geomhash":"03fad3412645d519ddd3b98969834b63",
+    "wof:geomhash":"d8aaaa5b41d0ea76438f7f296e6e419b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041917023,
-    "wof:lastmodified":1473722102,
+    "wof:lastmodified":1510942927,
     "wof:name":"Giuliano S",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041616133
+    ],
     "wof:tags":[]
 },
   "bbox": [

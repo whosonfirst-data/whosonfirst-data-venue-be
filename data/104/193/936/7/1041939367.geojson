@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Pierreuse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5727667809,50.6496582031,5.5727667809,50.6496582031",
     "geom:latitude":50.649658,
     "geom:longitude":5.572767,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pierreuse 119",
     "sg:city":"Liege",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489640,
-    "wof:geomhash":"dd423fc7fc25b2516a54ac36f2bb66c4",
+    "wof:geomhash":"7e5c29b0d1fe3d6da4fecf8e028555c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,29 @@
         }
     ],
     "wof:id":1041939367,
-    "wof:lastmodified":1473722718,
+    "wof:lastmodified":1510944091,
     "wof:name":"Lambert A.",
     "wof:parent_id":85801929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968831,
+        1058833033,
+        1042067575,
+        1058513259,
+        1058100565,
+        1058524995,
+        1058287645,
+        1058965391,
+        1058990691,
+        1058279089,
+        1058281223
+    ],
+    "wof:supersedes":[
+        1041698543,
+        1041730547,
+        1041824323
+    ],
     "wof:tags":[]
 },
   "bbox": [

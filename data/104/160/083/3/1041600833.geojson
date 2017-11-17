@@ -7,13 +7,16 @@
     "addr:postcode":"4602",
     "addr:street":"Rue De Vise\u0301;Cheratte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6706190109,50.6829719543,5.6706190109,50.6829719543",
     "geom:latitude":50.682972,
     "geom:longitude":5.670619,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Vis\u00e9 112",
     "sg:city":"Vis\u00e9 (cheratte)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475329,
-    "wof:geomhash":"2bbc61f1ec1cd59e0e97f4b5b8c368d7",
+    "wof:geomhash":"feff0aa9749b2a4e6bc721848eeff8ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041600833,
-    "wof:lastmodified":1473719580,
+    "wof:lastmodified":1510942525,
     "wof:name":"Bo\u00eete \u00e0 Boucles",
     "wof:parent_id":85801979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058302121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lady",

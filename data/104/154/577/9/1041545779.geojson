@@ -7,13 +7,16 @@
     "addr:postcode":"7000",
     "addr:street":"Chausse\u0301E Du Roeulx;Hainaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9936549664,50.4578285217,3.9936549664,50.4578285217",
     "geom:latitude":50.457829,
     "geom:longitude":3.993655,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e Du Roeulx 366",
     "sg:city":"Mons",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473022,
-    "wof:geomhash":"a7b7fb7b5226a3616e018fb39bf46041",
+    "wof:geomhash":"31216535415db91a2ade429857ca1e50",
     "wof:hierarchy":[],
     "wof:id":1041545779,
-    "wof:lastmodified":1473721638,
+    "wof:lastmodified":1510942540,
     "wof:name":"Cr\u00c9dit Montois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058417467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3944270611,50.8338699341,3.3944270611,50.8338699341",
     "geom:latitude":50.83387,
     "geom:longitude":3.394427,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Beukenhofstraat 51 B 4",
     "sg:city":"Vichte",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473477218,
-    "wof:geomhash":"586b50b34062347261c389900d0d5ed5",
+    "wof:geomhash":"dd901cac537b05cbe19149d0b2adbc12",
     "wof:hierarchy":[],
     "wof:id":1041646847,
-    "wof:lastmodified":1473721948,
+    "wof:lastmodified":1510942969,
     "wof:name":"R E L Plastics Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041646789
+    ],
     "wof:tags":[]
 },
   "bbox": [

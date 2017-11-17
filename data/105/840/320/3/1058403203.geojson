@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5562272072,51.1368560791,4.5562272072,51.1368560791",
     "geom:latitude":51.136856,
     "geom:longitude":4.556227,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zuid-australielaan 63",
     "sg:city":"Lier",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473523381,
-    "wof:geomhash":"41e3d026a3f1baa15fba4b18dc060e99",
+    "wof:geomhash":"ebc89d5046c7195bac9e58cfd012f8b3",
     "wof:hierarchy":[],
     "wof:id":1058403203,
-    "wof:lastmodified":1473720855,
+    "wof:lastmodified":1510943634,
     "wof:name":"Monarca Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058351863
+    ],
     "wof:tags":[
         "men's",
         "boot"

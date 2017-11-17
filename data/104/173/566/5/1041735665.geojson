@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Stijfselrui",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4129948616,51.2258262634,4.4129948616,51.2258262634",
     "geom:latitude":51.225826,
     "geom:longitude":4.412995,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stijfselrui 44",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480689,
-    "wof:geomhash":"b6317b7b67454fae62d774fab0e5653a",
+    "wof:geomhash":"33a60080c646ac2bd8768413ed2bfc2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041735665,
-    "wof:lastmodified":1473721675,
+    "wof:lastmodified":1510942557,
     "wof:name":"Trans-maritime Freight Agency",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058994681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

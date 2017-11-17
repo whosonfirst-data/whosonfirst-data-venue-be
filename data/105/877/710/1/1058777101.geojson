@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Chausse\u0301E De Ruisbroek",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3137540817,50.7988853455,4.3137540817,50.7988853455",
     "geom:latitude":50.798885,
     "geom:longitude":4.313754,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Ruisbroek 111",
     "sg:city":"Bruxelles (forest)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540539,
-    "wof:geomhash":"e418b3787f62eac6b9b7c011c843d8d6",
+    "wof:geomhash":"4a7652e97802a7c54342fcaa32183b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,18 @@
         }
     ],
     "wof:id":1058777101,
-    "wof:lastmodified":1473722062,
+    "wof:lastmodified":1510944055,
     "wof:name":"Petrus Sa",
     "wof:parent_id":85801557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058991753,
+        1058759689
+    ],
+    "wof:supersedes":[
+        1058777281
+    ],
     "wof:tags":[
         "sign-boards"
     ]

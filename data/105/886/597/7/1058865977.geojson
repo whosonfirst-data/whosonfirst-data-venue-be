@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1946899891,51.2132072449,3.1946899891,51.2132072449",
     "geom:latitude":51.213207,
     "geom:longitude":3.19469,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Lieven Bauwensstraat 15",
     "sg:city":"Brugge (sint-andries)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544405,
-    "wof:geomhash":"d6bb664737969c159769c9a64660ad88",
+    "wof:geomhash":"1bd68c03cf9fd90cd89d29774408d096",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,23 @@
         }
     ],
     "wof:id":1058865977,
-    "wof:lastmodified":1473721680,
+    "wof:lastmodified":1510941567,
     "wof:name":"Buro Center",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058086925,
+        1042111421,
+        1042117655,
+        1041939235,
+        1042118329,
+        1058453425,
+        1042117819,
+        1058067741,
+        1042112159
+    ],
     "wof:tags":[
         "telecopiers"
     ]

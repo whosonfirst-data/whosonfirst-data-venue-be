@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5806879997,50.6390037537,5.5806879997,50.6390037537",
     "geom:latitude":50.639004,
     "geom:longitude":5.580688,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Pitteurs 41",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485978,
-    "wof:geomhash":"40ccaa3c8597b4c23beadbf5e9a0d618",
+    "wof:geomhash":"5d784ba801052dff448092979ba4cd96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041854309,
-    "wof:lastmodified":1473721295,
+    "wof:lastmodified":1510941832,
     "wof:name":"B. Rixhon",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041703023
+    ],
     "wof:tags":[]
 },
   "bbox": [

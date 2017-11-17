@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Av De;\u0301Pendance",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.581829071,50.6424331665,5.581829071,50.6424331665",
     "geom:latitude":50.642433,
     "geom:longitude":5.581829,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av De L'ind\u00e9pendance 51",
     "sg:city":"Wandre",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477621,
-    "wof:geomhash":"1e8806ab7c5eaa5ca254337fb1dc1d8a",
+    "wof:geomhash":"ed2e5b7d51ed2525d74d381733f2d005",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041657077,
-    "wof:lastmodified":1473722037,
+    "wof:lastmodified":1510943750,
     "wof:name":"Dimma Design Sa",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042033789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-",

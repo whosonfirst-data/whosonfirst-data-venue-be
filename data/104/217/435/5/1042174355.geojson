@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Rue De Birmingham",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.327144146,50.8483314514,4.327144146,50.8483314514",
     "geom:latitude":50.848331,
     "geom:longitude":4.327144,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Birmingham 31",
     "sg:city":"Bruxelles (molenbeek-saint-jean)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473500375,
-    "wof:geomhash":"11bb6d6202ff44abae25dc84140126ac",
+    "wof:geomhash":"b3bccbea477372e229dca11dd53299ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,19 @@
         }
     ],
     "wof:id":1042174355,
-    "wof:lastmodified":1473721282,
+    "wof:lastmodified":1510944184,
     "wof:name":"A E I-time Limit",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058421523,
+        1058866591,
+        1058866391,
+        1058943895,
+        1058423163,
+        1058457261
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "door",

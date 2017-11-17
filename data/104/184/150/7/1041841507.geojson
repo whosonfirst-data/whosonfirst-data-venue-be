@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Dudzeelse Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2276248932,51.2291183472,3.2276248932,51.2291183472",
     "geom:latitude":51.229118,
     "geom:longitude":3.227625,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dudzeelse Steenweg 121",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485436,
-    "wof:geomhash":"d75681c238fb5bf7351312bdb8a6d31a",
+    "wof:geomhash":"c1e9d5652a613e4a89c74c0faf65c73b",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -57,12 +60,16 @@
         }
     ],
     "wof:id":1041841507,
-    "wof:lastmodified":1473719974,
+    "wof:lastmodified":1510943427,
     "wof:name":"Snauwaert A",
     "wof:parent_id":85862105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058882037,
+        1058905921,
+        1041845141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "breakdown",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5822401047,50.633808136,5.5822401047,50.633808136",
     "geom:latitude":50.633808,
     "geom:longitude":5.58224,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Gr\u00c9try 92",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522954,
-    "wof:geomhash":"daaf136f468e55fc75698d097cf5a94b",
+    "wof:geomhash":"342ded0e4bdddbd3051e36dfc5107f48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058393867,
-    "wof:lastmodified":1473721169,
+    "wof:lastmodified":1510943350,
     "wof:name":"Mobile Gr\u00c9try",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041599615
+    ],
     "wof:tags":[]
 },
   "bbox": [

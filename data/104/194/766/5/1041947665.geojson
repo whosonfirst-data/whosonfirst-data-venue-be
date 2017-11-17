@@ -7,13 +7,16 @@
     "addr:postcode":"6700",
     "addr:street":"Chemin De Weyler",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8150057793,49.6724853516,5.8150057793,49.6724853516",
     "geom:latitude":49.672485,
     "geom:longitude":5.815006,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chemin De Weyler 2",
     "sg:city":"Arlon",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473489993,
-    "wof:geomhash":"90eafb7fa19f4693fd8cad748cb4604c",
+    "wof:geomhash":"649427e3163eb793f07d9652dadc1335",
     "wof:hierarchy":[],
     "wof:id":1041947665,
-    "wof:lastmodified":1473722304,
+    "wof:lastmodified":1510942773,
     "wof:name":"Institut Technique Etienne Lenoir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042199149
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "boarding"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4009251595,50.8240280151,4.4009251595,50.8240280151",
     "geom:latitude":50.824028,
     "geom:longitude":4.400925,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Wavre 1050",
     "sg:city":"Bruxelles (auderghem)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533983,
-    "wof:geomhash":"a57a5f228cb12299202bcd741daeeb06",
+    "wof:geomhash":"a2976e9e23e4e01447becc0fdc6d5912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058629145,
-    "wof:lastmodified":1473722638,
+    "wof:lastmodified":1510941876,
     "wof:name":"Cafe Lisbonne",
     "wof:parent_id":85801521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041563473
+    ],
     "wof:tags":[]
 },
   "bbox": [

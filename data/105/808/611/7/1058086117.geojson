@@ -7,13 +7,16 @@
     "addr:postcode":"9870",
     "addr:street":"Rijksweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.494412899,50.9553871155,3.494412899,50.9553871155",
     "geom:latitude":50.955387,
     "geom:longitude":3.494413,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rijksweg 95",
     "sg:city":"Zulte (machelen)",
     "sg:classifiers":[
@@ -39,16 +42,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473508993,
-    "wof:geomhash":"9e3d01f3e7ae1f52cdbea5534d93de42",
+    "wof:geomhash":"0562f3b6279c8251e28d3916532c24ff",
     "wof:hierarchy":[],
     "wof:id":1058086117,
-    "wof:lastmodified":1473721727,
+    "wof:lastmodified":1510943305,
     "wof:name":"M.d.c. Meubelen Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058467883,
+        1058279233,
+        1058479249
+    ],
+    "wof:supersedes":[
+        1041921443,
+        1058084963,
+        1058085295
+    ],
     "wof:tags":[
         "-",
         "furniture"

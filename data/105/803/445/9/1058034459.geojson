@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Rue Henri Maubel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3346447945,50.8103713989,4.3346447945,50.8103713989",
     "geom:latitude":50.810371,
     "geom:longitude":4.334645,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Henri Maubel 53",
     "sg:city":"Bruxelles (forest)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473506872,
-    "wof:geomhash":"fc3f811f356012f504d71fdef7038fec",
+    "wof:geomhash":"7baf8c7076d5d9edc147fc32a318a51a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,15 @@
         }
     ],
     "wof:id":1058034459,
-    "wof:lastmodified":1473721350,
+    "wof:lastmodified":1510943220,
     "wof:name":"Euronet-van Belle D",
     "wof:parent_id":85801049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058965329,
+        1058512485
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fa\u00e7ade",

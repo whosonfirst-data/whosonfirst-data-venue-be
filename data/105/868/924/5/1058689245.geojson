@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2225100994,51.2083587646,3.2225100994,51.2083587646",
     "geom:latitude":51.208359,
     "geom:longitude":3.22251,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-amandsstraat 17",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4597396395,
         "sg:id":"SG_1jomZQ2HkzEGYlijZwhILm_51.208359_3.222510@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536668,
-    "wof:geomhash":"a301d32a4664d397ffd3e747fb73dcf2",
+    "wof:geomhash":"3a175fa19f2e347a460d30bf0ffec9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1058689245,
-    "wof:lastmodified":1473722682,
+    "wof:lastmodified":1510943979,
     "wof:name":"Pasta Presto",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

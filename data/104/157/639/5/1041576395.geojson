@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue Rene\u0301 Gobert;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3695468903,50.8082809448,4.3695468903,50.8082809448",
     "geom:latitude":50.808281,
     "geom:longitude":4.369547,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Ren\u00c9 Gobert 14",
     "sg:city":"Ukkel/uccle",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474314,
-    "wof:geomhash":"6a01d1bb713b0bd6088f9be0c9780c1e",
+    "wof:geomhash":"d9f0b2430511aa3b0ba45f8c68914927",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041576395,
-    "wof:lastmodified":1473721882,
+    "wof:lastmodified":1510944092,
     "wof:name":"Rog\u00c9 C.",
     "wof:parent_id":85801553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058384793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

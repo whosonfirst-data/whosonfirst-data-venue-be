@@ -7,13 +7,16 @@
     "addr:postcode":"9310",
     "addr:street":"Waverstraat;Moorsel Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0977458954,50.9436264038,4.0977458954,50.9436264038",
     "geom:latitude":50.943626,
     "geom:longitude":4.097746,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waverstraat 16",
     "sg:city":"Aalst (moorsel)",
     "sg:classifiers":[
@@ -39,16 +42,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473509020,
-    "wof:geomhash":"9cd9f509a571bac233f51da450d8e66d",
+    "wof:geomhash":"74a72d35f1957bd332d01fbdc69af994",
     "wof:hierarchy":[],
     "wof:id":1058086677,
-    "wof:lastmodified":1473721840,
+    "wof:lastmodified":1510943459,
     "wof:name":"Van Praet Spraakmakend In Interieur En Kantoor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058087195
+    ],
+    "wof:supersedes":[
+        1058083887,
+        1058085083
+    ],
     "wof:tags":[
         "-",
         "furniture"

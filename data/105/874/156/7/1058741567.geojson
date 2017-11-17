@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.381439209,50.8700675964,4.381439209,50.8700675964",
     "geom:latitude":50.870068,
     "geom:longitude":4.381439,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Helmet 59",
     "sg:city":"Schaarbeek/schaerbeek",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473538967,
-    "wof:geomhash":"f5efa76e1c00e8ea9926f053d07d3d33",
+    "wof:geomhash":"9dee951c6c95cccd50732401c0b92660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058741567,
-    "wof:lastmodified":1473720021,
+    "wof:lastmodified":1510944001,
     "wof:name":"Crea-style",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041601175
+    ],
     "wof:tags":[
         "de",
         "coiffure"

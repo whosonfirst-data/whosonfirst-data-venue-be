@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4274702072,51.2176818848,4.4274702072,51.2176818848",
     "geom:latitude":51.217682,
     "geom:longitude":4.42747,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carnotstraat 154",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544435,
-    "wof:geomhash":"92820020148eb1f174c773062df80cf5",
+    "wof:geomhash":"6a26de23ddc7bb26b73faeee42927261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058866711,
-    "wof:lastmodified":1473721876,
+    "wof:lastmodified":1510942532,
     "wof:name":"Ess",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041615125
+    ],
     "wof:tags":[
         "installation"
     ]

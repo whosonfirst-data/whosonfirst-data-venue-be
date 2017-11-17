@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Lange Herentalsestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4173059464,51.214881897,4.4173059464,51.214881897",
     "geom:latitude":51.214882,
     "geom:longitude":4.417306,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lange Herentalsestraat 48",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477330,
-    "wof:geomhash":"7131f505b24eed9a90d44949c0096108",
+    "wof:geomhash":"51f2f9186b1ef0c276b94640d97b3e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041649609,
-    "wof:lastmodified":1473722778,
+    "wof:lastmodified":1510942021,
     "wof:name":"Ok\u00c9 Diamonds",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042142959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

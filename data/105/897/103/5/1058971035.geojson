@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2312188148,50.9201507568,5.2312188148,50.9201507568",
     "geom:latitude":50.920151,
     "geom:longitude":5.231219,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kolmenstraat 139",
     "sg:city":"Hasselt (stevoort)",
     "sg:classifiers":[
@@ -38,16 +40,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473549258,
-    "wof:geomhash":"7f25093a74a50a870abb903907f6f34a",
+    "wof:geomhash":"8d730165e55815968a95bee804c55995",
     "wof:hierarchy":[],
     "wof:id":1058971035,
-    "wof:lastmodified":1473718976,
+    "wof:lastmodified":1510943756,
     "wof:name":"Thoelen Interieurbouw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058828305,
+        1042038637,
+        1042175667
+    ],
     "wof:tags":[
         "window"
     ]

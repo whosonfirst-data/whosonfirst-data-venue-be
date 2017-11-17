@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Stadsheide",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3674840927,50.9531555176,5.3674840927,50.9531555176",
     "geom:latitude":50.953156,
     "geom:longitude":5.367484,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stadsheide 7",
     "sg:city":"Hasselt",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473526733,
-    "wof:geomhash":"ed1f7f1732a89e90849362641bf87d29",
+    "wof:geomhash":"ed72a8b6a7176fbb43b68d556d2a2981",
     "wof:hierarchy":[],
     "wof:id":1058471159,
-    "wof:lastmodified":1473719818,
+    "wof:lastmodified":1510943864,
     "wof:name":"S2 Rent Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058799601
+    ],
+    "wof:supersedes":[
+        1042151775,
+        1058355523
+    ],
     "wof:tags":[]
 },
   "bbox": [

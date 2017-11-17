@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4942979813,51.2320480347,4.4942979813,51.2320480347",
     "geom:latitude":51.232048,
     "geom:longitude":4.494298,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bijkhoevelaan 16",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484688,
-    "wof:geomhash":"57427cd147e71b4e8edfb6d189b74f44",
+    "wof:geomhash":"271ef53958e874139b63d28c001615c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1041824347,
-    "wof:lastmodified":1473721202,
+    "wof:lastmodified":1510942258,
     "wof:name":"Asbestos Removal Nv",
     "wof:parent_id":85862031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041824311
+    ],
     "wof:tags":[
         "asbestos",
         "disposal",

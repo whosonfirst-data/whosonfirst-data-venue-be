@@ -7,13 +7,16 @@
     "addr:postcode":"8790",
     "addr:street":"Hoogmolenwegel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4121389389,50.880569458,3.4121389389,50.880569458",
     "geom:latitude":50.880569,
     "geom:longitude":3.412139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hoogmolenwegel 21",
     "sg:city":"Waregem",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473521960,
-    "wof:geomhash":"ac79097f54466b68f7ba28a3b472c126",
+    "wof:geomhash":"3fa98b59d3f970759e16dcf9c379ecb9",
     "wof:hierarchy":[],
     "wof:id":1058371727,
-    "wof:lastmodified":1473720160,
+    "wof:lastmodified":1510941257,
     "wof:name":"G.d.w. Nv-trekhaken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058355179,
+        1058881669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "luggage-carriers"

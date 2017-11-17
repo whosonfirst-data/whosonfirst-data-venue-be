@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Rue De;\u0301Pendance",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3277688026,50.8532142639,4.3277688026,50.8532142639",
     "geom:latitude":50.853214,
     "geom:longitude":4.327769,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De L'ind\u00e9pendance 142",
     "sg:city":"Bruxelles (molenbeek-saint-jean)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540362,
-    "wof:geomhash":"4bc35b0d04ca7a729609c15e743f2aea",
+    "wof:geomhash":"fb3b9100de5688929a0774e09f909a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,19 @@
         }
     ],
     "wof:id":1058772619,
-    "wof:lastmodified":1473720593,
+    "wof:lastmodified":1510943756,
     "wof:name":"Mommerency & Fils",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058838259
+    ],
+    "wof:supersedes":[
+        1058602369,
+        1058602101,
+        1058391023
+    ],
     "wof:tags":[
         "work",
         "sheet"

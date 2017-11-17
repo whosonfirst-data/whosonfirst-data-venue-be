@@ -7,13 +7,16 @@
     "addr:postcode":"2330",
     "addr:street":"Veldenbergstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8394651413,51.3691253662,4.8394651413,51.3691253662",
     "geom:latitude":51.369125,
     "geom:longitude":4.839465,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Veldenbergstraat 87",
     "sg:city":"Merksplas",
     "sg:classifiers":[
@@ -42,16 +45,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473506564,
-    "wof:geomhash":"68534f43f4bcf30eb445e195fcf61653",
+    "wof:geomhash":"2cec2b3a81369894eb04e99ad3eea76e",
     "wof:hierarchy":[],
     "wof:id":1058027141,
-    "wof:lastmodified":1473722025,
+    "wof:lastmodified":1510943993,
     "wof:name":"Locapromotion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058919585,
+        1058526739
+    ],
+    "wof:supersedes":[
+        1058015607
+    ],
     "wof:tags":[
         "attraction",
         "-",

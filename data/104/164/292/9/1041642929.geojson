@@ -7,13 +7,16 @@
     "addr:postcode":"4031",
     "addr:street":"Rue Du Fourchufosse\u0301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5914540291,50.613899231,5.5914540291,50.613899231",
     "geom:latitude":50.613899,
     "geom:longitude":5.591454,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Fourchufoss\u00e9 7",
     "sg:city":"Li\u00e8ge 1 (angleur)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477060,
-    "wof:geomhash":"f7d77dbad50c09c6b7619a0f21391026",
+    "wof:geomhash":"65a200f78f5c8ca5b2d74f53523a8ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041642929,
-    "wof:lastmodified":1473720698,
+    "wof:lastmodified":1510944082,
     "wof:name":"Institut Privilege",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058264151
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pedicure"

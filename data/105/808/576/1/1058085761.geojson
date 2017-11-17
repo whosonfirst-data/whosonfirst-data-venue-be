@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8839588165,51.054649353,4.8839588165,51.054649353",
     "geom:latitude":51.054649,
     "geom:longitude":4.883959,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dorp 78",
     "sg:city":"Herselt",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473508979,
-    "wof:geomhash":"bf7d6f7175613020e526b988c07fa672",
+    "wof:geomhash":"b05506d2a4c6d4b774024436f76a4e12",
     "wof:hierarchy":[],
     "wof:id":1058085761,
-    "wof:lastmodified":1473721589,
+    "wof:lastmodified":1510943817,
     "wof:name":"Ergo-relax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058083777,
+        1041921303
+    ],
     "wof:tags":[
         "-",
         "furniture"

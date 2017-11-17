@@ -7,13 +7,16 @@
     "addr:postcode":"27-31;1000",
     "addr:street":"Rue Des Fabriques",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3413281441,50.8488044739,4.3413281441,50.8488044739",
     "geom:latitude":50.848804,
     "geom:longitude":4.341328,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Fabriques 27-31",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481063,
-    "wof:geomhash":"fe603b0920e904101a262bac3325d76d",
+    "wof:geomhash":"c71fdf148a4d0e8eefe6ddaff453aba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,19 @@
         }
     ],
     "wof:id":1041742515,
-    "wof:lastmodified":1473720474,
+    "wof:lastmodified":1510944175,
     "wof:name":"Elak Electronics Sa",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058866017,
+        1058843533,
+        1042117935,
+        1058397167,
+        1042213591,
+        1058646769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "installation",

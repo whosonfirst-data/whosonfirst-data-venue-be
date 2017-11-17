@@ -7,13 +7,16 @@
     "addr:postcode":"7743",
     "addr:street":"Grand\u00b4Rue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3629209995,50.6570587158,3.3629209995,50.6570587158",
     "geom:latitude":50.657059,
     "geom:longitude":3.362921,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grand\u00b4rue 70",
     "sg:city":"Pecq",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473484870,
-    "wof:geomhash":"d676bd9c8e25ccf0a6d7f0b5e4b4fd34",
+    "wof:geomhash":"2ba44bffcd1a2f5984089dc44acabc94",
     "wof:hierarchy":[],
     "wof:id":1041828315,
-    "wof:lastmodified":1473722299,
+    "wof:lastmodified":1510941533,
     "wof:name":"Collie-devos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058927485
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

@@ -7,13 +7,16 @@
     "addr:postcode":"21-23;/ bruxelles;1030",
     "addr:street":"Rue De La Cible",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3825321198,50.8522186279,4.3825321198,50.8522186279",
     "geom:latitude":50.852219,
     "geom:longitude":4.382532,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Cible 21-23",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473500094,
-    "wof:geomhash":"d77efefc8b2761e5092d33066a114e96",
+    "wof:geomhash":"ba35d4a2ac5e061505e22e9f525df8ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1042169773,
-    "wof:lastmodified":1473722766,
+    "wof:lastmodified":1510942927,
     "wof:name":"Atelier Brotex",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058872677
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fab",

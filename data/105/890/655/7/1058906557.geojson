@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3494668007,50.8456192017,4.3494668007,50.8456192017",
     "geom:latitude":50.845619,
     "geom:longitude":4.349467,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Midi 76-82",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546254,
-    "wof:geomhash":"f489cf3cbf1863bc39210fe7966e8f85",
+    "wof:geomhash":"d6002519f0779f80fe82b1b8571aa6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,18 @@
         }
     ],
     "wof:id":1058906557,
-    "wof:lastmodified":1473721854,
+    "wof:lastmodified":1510943194,
     "wof:name":"Brasseur Etn",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042049415,
+        1058497027,
+        1058390189,
+        1058044233
+    ],
     "wof:tags":[
         "truss-makers"
     ]

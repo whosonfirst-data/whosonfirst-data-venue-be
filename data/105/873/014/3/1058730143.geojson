@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5847630501,50.6244392395,5.5847630501,50.6244392395",
     "geom:latitude":50.624439,
     "geom:longitude":5.584763,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Emile De Laveleye 75",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473538456,
-    "wof:geomhash":"43f76c98ff3cf8af3daae5573e92a4c3",
+    "wof:geomhash":"a91654033519b3073ee4fabbdd88badb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":1058730143,
-    "wof:lastmodified":1473718955,
+    "wof:lastmodified":1510943141,
     "wof:name":"Vetral Sa",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041539117
+    ],
     "wof:tags":[
         "safety",
         "collective",

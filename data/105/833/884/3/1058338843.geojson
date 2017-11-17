@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3713231087,50.8247451782,4.3713231087,50.8247451782",
     "geom:latitude":50.824745,
     "geom:longitude":4.371323,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Vall\u00e9e 38",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520420,
-    "wof:geomhash":"8189cef776a9ca1cbeee16f4703e77dc",
+    "wof:geomhash":"3ab7d958834848fda0c4dc4d9a270ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058338843,
-    "wof:lastmodified":1473722682,
+    "wof:lastmodified":1510943926,
     "wof:name":"Drymael E",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041857507
+    ],
     "wof:tags":[]
 },
   "bbox": [

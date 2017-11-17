@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.408121109,51.2103157043,4.408121109,51.2103157043",
     "geom:latitude":51.210316,
     "geom:longitude":4.408121,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelse Steenweg 13",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473511195,
-    "wof:geomhash":"538e1b7043e605555aa341fa68ddca23",
+    "wof:geomhash":"7bae634dd91af670298bebfa80940e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1058134117,
-    "wof:lastmodified":1473721231,
+    "wof:lastmodified":1510943501,
     "wof:name":"Henri Haute Coiffure-visagist",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058743667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gentleman",

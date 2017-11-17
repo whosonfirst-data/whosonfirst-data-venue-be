@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Boulevard De La Sauvenie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5689997673,50.6444625854,5.5689997673,50.6444625854",
     "geom:latitude":50.644463,
     "geom:longitude":5.569,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De La Sauveni\u00c8re 26",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477040,
-    "wof:geomhash":"73be357d358820cfd24304dccf34fc0a",
+    "wof:geomhash":"c43e4f491b748a3240c5a2920b689ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041642691,
-    "wof:lastmodified":1473720517,
+    "wof:lastmodified":1510941554,
     "wof:name":"Ideal Tourisme",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058903367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

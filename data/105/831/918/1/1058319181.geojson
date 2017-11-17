@@ -7,13 +7,16 @@
     "addr:postcode":"7800",
     "addr:street":"Rue Du Rempart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7815160751,50.6277427673,3.7815160751,50.6277427673",
     "geom:latitude":50.627743,
     "geom:longitude":3.781516,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Rempart 10",
     "sg:city":"Ath",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473519439,
-    "wof:geomhash":"ae2f86ff8dce8c6f638de1a5aeb647c2",
+    "wof:geomhash":"7a520db2f4c2e8095f71e85eb9ba5bcc",
     "wof:hierarchy":[],
     "wof:id":1058319181,
-    "wof:lastmodified":1473722722,
+    "wof:lastmodified":1510944033,
     "wof:name":"La Chaise Delmee Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058467029,
+        1058687759
+    ],
+    "wof:supersedes":[
+        1041912919,
+        1042002385,
+        1058206107
+    ],
     "wof:tags":[
         "installation"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5913977623,50.613899231,5.5913977623,50.613899231",
     "geom:latitude":50.613899,
     "geom:longitude":5.591398,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Fourchufoss\u00c9 7",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517016,
-    "wof:geomhash":"21f1abca378503876ac99106a6dc98e9",
+    "wof:geomhash":"7cba093a3533ab4e9e02ca9924c3dbb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058264151,
-    "wof:lastmodified":1473721210,
+    "wof:lastmodified":1510944082,
     "wof:name":"Institut Privil\u00c8ge",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041642929
+    ],
     "wof:tags":[]
 },
   "bbox": [

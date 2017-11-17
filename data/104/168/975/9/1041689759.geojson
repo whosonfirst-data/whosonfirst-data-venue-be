@@ -7,13 +7,16 @@
     "addr:postcode":"2640",
     "addr:street":"Liersesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4694399834,51.1690101624,4.4694399834,51.1690101624",
     "geom:latitude":51.16901,
     "geom:longitude":4.46944,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Liersesteenweg 191",
     "sg:city":"Mortsel",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478895,
-    "wof:geomhash":"855383a902e3e106bf311b1c7866dcf4",
+    "wof:geomhash":"e6d1214e7be57b1e4971beea3e88455f",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1041689759,
-    "wof:lastmodified":1473722895,
+    "wof:lastmodified":1510942096,
     "wof:name":"Vercammen Accountantskantoor",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058859533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

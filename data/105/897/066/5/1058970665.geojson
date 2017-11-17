@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0929570198,51.0448226929,4.0929570198,51.0448226929",
     "geom:latitude":51.044823,
     "geom:longitude":4.092957,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zeelsebaan 22",
     "sg:city":"Dendermonde (grembergen)",
     "sg:classifiers":[
@@ -38,16 +40,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473549238,
-    "wof:geomhash":"86b4759852baaf4ac7029b76e53024a8",
+    "wof:geomhash":"6b4fdc94b8075ffabe60b666c71c0c0f",
     "wof:hierarchy":[],
     "wof:id":1058970665,
-    "wof:lastmodified":1473718941,
+    "wof:lastmodified":1510941929,
     "wof:name":"New Decor-huyck Roger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042100413,
+        1058797083,
+        1042174853,
+        1058797453,
+        1058918299,
+        1058869243,
+        1058035859,
+        1058776869
+    ],
     "wof:tags":[
         "window"
     ]

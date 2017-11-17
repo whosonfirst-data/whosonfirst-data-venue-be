@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2762751579,50.8713378906,4.2762751579,50.8713378906",
     "geom:latitude":50.871338,
     "geom:longitude":4.276275,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Stationsstraat 41",
     "sg:city":"Dilbeek (groot - Bijgaarden)",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473510977,
-    "wof:geomhash":"538d4545a29afc6e8b7aa52c085d5136",
+    "wof:geomhash":"2735907338a272bd17b80ecb25271053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,17 @@
         }
     ],
     "wof:id":1058129951,
-    "wof:lastmodified":1473722901,
+    "wof:lastmodified":1510943312,
     "wof:name":"Trionic Sa",
     "wof:parent_id":85801195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041843921,
+        1041841007,
+        1041842965
+    ],
     "wof:tags":[
         "access",
         "gsm",

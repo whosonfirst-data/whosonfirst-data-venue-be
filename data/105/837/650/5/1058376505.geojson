@@ -7,13 +7,16 @@
     "addr:postcode":"8400",
     "addr:street":"Zandvoordestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9727780819,51.2072982788,2.9727780819,51.2072982788",
     "geom:latitude":51.207298,
     "geom:longitude":2.972778,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zandvoordestraat 500",
     "sg:city":"Oostende",
     "sg:classifiers":[
@@ -40,16 +43,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473522188,
-    "wof:geomhash":"6e05f72b4afc86887b6ff0b6f31ae52a",
+    "wof:geomhash":"bd45f91557d58241822c2383c3f716f0",
     "wof:hierarchy":[],
     "wof:id":1058376505,
-    "wof:lastmodified":1473721841,
+    "wof:lastmodified":1510943418,
     "wof:name":"Gesco Industrial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058912751,
+        1058973853
+    ],
+    "wof:supersedes":[
+        1058015117
+    ],
     "wof:tags":[
         "equipment",
         "industrial",

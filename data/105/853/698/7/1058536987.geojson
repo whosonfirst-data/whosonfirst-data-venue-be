@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8166399002,50.9314002991,4.8166399002,50.9314002991",
     "geom:latitude":50.9314,
     "geom:longitude":4.81664,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Gravenstraat 26",
     "sg:city":"Holsbeek (kortrijk-dutsel)",
     "sg:classifiers":[
@@ -39,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473529812,
-    "wof:geomhash":"3897363fa7bbeaecbba5203a780efb08",
+    "wof:geomhash":"d58e93afc6dd70adb0266b246a568480",
     "wof:hierarchy":[],
     "wof:id":1058536987,
-    "wof:lastmodified":1473721956,
+    "wof:lastmodified":1510942561,
     "wof:name":"Smets Home & Garden Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058085349,
+        1058597831,
+        1058097727,
+        1058330245
+    ],
     "wof:tags":[
         "shop",
         "-"

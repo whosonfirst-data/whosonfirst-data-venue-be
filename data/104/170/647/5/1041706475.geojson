@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Chausse\u0301E De Boondael",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.37414217,50.8274841309,4.37414217,50.8274841309",
     "geom:latitude":50.827484,
     "geom:longitude":4.374142,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Boondael 6b14",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479532,
-    "wof:geomhash":"1b620b5c07dac503b6c928ff4c13432c",
+    "wof:geomhash":"1c1e9f99f95d0239f9b0a410846f13f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041706475,
-    "wof:lastmodified":1473721820,
+    "wof:lastmodified":1510942178,
     "wof:name":"Echatti K.",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041857947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

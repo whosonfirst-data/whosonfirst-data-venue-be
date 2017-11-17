@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4579019547,50.882774353,4.4579019547,50.882774353",
     "geom:latitude":50.882774,
     "geom:longitude":4.457902,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Excelsiorlaan 8",
     "sg:city":"Zaventem",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535402,
-    "wof:geomhash":"15a656be02ff8bec3b67ee5e44f6b302",
+    "wof:geomhash":"07e22617a3d3dfee065cc117b76d8627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,13 +67,17 @@
         }
     ],
     "wof:id":1058659637,
-    "wof:lastmodified":1473722734,
+    "wof:lastmodified":1510941264,
     "wof:name":"Leaseplan Fleet Management",
     "wof:parent_id":85801067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058363821,
+        1041851921,
+        1058351691
+    ],
     "wof:tags":[
         "term",
         "van",

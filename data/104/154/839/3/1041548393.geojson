@@ -7,13 +7,16 @@
     "addr:postcode":"4820",
     "addr:street":"Rue Du Moulin",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8561091423,50.6035652161,5.8561091423,50.6035652161",
     "geom:latitude":50.603565,
     "geom:longitude":5.856109,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Moulin 20",
     "sg:city":"Dison",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473125,
-    "wof:geomhash":"5c1a3d9a83e92a49bbf71d51953a92b5",
+    "wof:geomhash":"a2cbaa2345f9b57ed148aa66cfcc0a44",
     "wof:hierarchy":[],
     "wof:id":1041548393,
-    "wof:lastmodified":1473722426,
+    "wof:lastmodified":1510941256,
     "wof:name":"Ipc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058189529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile-body"

@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De La Re\u0301Gence",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5751171112,50.6423377991,5.5751171112,50.6423377991",
     "geom:latitude":50.642338,
     "geom:longitude":5.575117,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La R\u00e9gence 49",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473518350,
-    "wof:geomhash":"768f0abe3cc21145cc7f8fadcb07696e",
+    "wof:geomhash":"bbed0e9300e09b8aef9520a4b76aaf29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058294681,
-    "wof:lastmodified":1473721374,
+    "wof:lastmodified":1510943369,
     "wof:name":"Li\u00e8ge Collection",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058298953
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller",

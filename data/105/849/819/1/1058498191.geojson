@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6997938156,51.0639266968,4.6997938156,51.0639266968",
     "geom:latitude":51.063927,
     "geom:longitude":4.699794,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Impulsstraat 7",
     "sg:city":"Heist-op-den-berg",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473528014,
-    "wof:geomhash":"8f03f32576f6e8d551fbd4ea293453bb",
+    "wof:geomhash":"50d4f52d7cec9718f23a586abd80fe05",
     "wof:hierarchy":[],
     "wof:id":1058498191,
-    "wof:lastmodified":1473722373,
+    "wof:lastmodified":1510943618,
     "wof:name":"D B Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058398655
+    ],
     "wof:tags":[
         "-",
         "oven"

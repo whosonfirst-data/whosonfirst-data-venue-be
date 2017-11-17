@@ -7,13 +7,16 @@
     "addr:postcode":"1640",
     "addr:street":"Chausse\u0301E De Waterloo;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3951001167,50.7360916138,4.3951001167,50.7360916138",
     "geom:latitude":50.736092,
     "geom:longitude":4.3951,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Waterloo 276",
     "sg:city":"Rhode-saint-genese",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474311,
-    "wof:geomhash":"a050ed34576f3a50759e38a2765244d6",
+    "wof:geomhash":"1e0cfd271ec7449b025784453b97e86a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041576313,
-    "wof:lastmodified":1473721862,
+    "wof:lastmodified":1510943903,
     "wof:name":"Innovation&communication Management",
     "wof:parent_id":85800903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058382979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"2150",
     "addr:street":"Schanslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4942011833,51.19713974,4.4942011833,51.19713974",
     "geom:latitude":51.19714,
     "geom:longitude":4.494201,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schanslaan 152",
     "sg:city":"Borsbeek",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543540,
-    "wof:geomhash":"aaf46b09ae9eda52cdb4f359b6fa3921",
+    "wof:geomhash":"c573e0e86314ff73ca43c93f172bb303",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -58,13 +61,26 @@
         }
     ],
     "wof:id":1058845339,
-    "wof:lastmodified":1473721574,
+    "wof:lastmodified":1510943104,
     "wof:name":"De Bondt",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058097413
+    ],
+    "wof:supersedes":[
+        1058584427,
+        1058035503,
+        1058118259,
+        1058097657,
+        1058097413,
+        1058096587,
+        1058089309,
+        1058597637,
+        1058376157,
+        1058536637
+    ],
     "wof:tags":[
         "equipment",
         "swimming",

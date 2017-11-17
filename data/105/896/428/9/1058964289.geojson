@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.654086113,50.9035072327,3.654086113,50.9035072327",
     "geom:latitude":50.903507,
     "geom:longitude":3.654086,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Strijpstraat 1",
     "sg:city":"Zingem",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473548965,
-    "wof:geomhash":"04d5f6ff5a4cea2d8c2dbfb0f444a434",
+    "wof:geomhash":"d897cf97a6bb4095d7d0fe6ece91346b",
     "wof:hierarchy":[],
     "wof:id":1058964289,
-    "wof:lastmodified":1473721064,
+    "wof:lastmodified":1510942125,
     "wof:name":"Aa-algemene Ontstoppingsdienst Doens & Zn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042176011,
+        1058592941
+    ],
     "wof:tags":[
         "water",
         "heater"

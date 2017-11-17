@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Place Saint-Lambert",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5727901459,50.6456489563,5.5727901459,50.6456489563",
     "geom:latitude":50.645649,
     "geom:longitude":5.57279,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Saint-lambert 82",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473695,
-    "wof:geomhash":"238622b1fffa837d1c216bb9c99fdfd1",
+    "wof:geomhash":"eb693e7e13f6c1b6c501805e0fb094ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041561619,
-    "wof:lastmodified":1473720112,
+    "wof:lastmodified":1510943717,
     "wof:name":"L\u00c9onidas",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041913023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"8530",
     "addr:street":"Gentsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3265209198,50.8642044067,3.3265209198,50.8642044067",
     "geom:latitude":50.864204,
     "geom:longitude":3.326521,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gentsesteenweg 186",
     "sg:city":"Harelbeke",
     "sg:classifiers":[
@@ -38,16 +41,29 @@
     },
     "wof:country":"BE",
     "wof:created":1473498561,
-    "wof:geomhash":"0518fce7a03fca5fa7cd3952f931a9c5",
+    "wof:geomhash":"a4d819729b7e2b76a91a4551a4dc7a3d",
     "wof:hierarchy":[],
     "wof:id":1042141245,
-    "wof:lastmodified":1473719830,
+    "wof:lastmodified":1510943964,
     "wof:name":"Joye Bureauinrichting Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042184291,
+        1058866051,
+        1058646545,
+        1058479233,
+        1058466617,
+        1058525627,
+        1058087063,
+        1042171647,
+        1042143803
+    ],
+    "wof:supersedes":[
+        1042118377,
+        1042117699
+    ],
     "wof:tags":[
         "designer"
     ]

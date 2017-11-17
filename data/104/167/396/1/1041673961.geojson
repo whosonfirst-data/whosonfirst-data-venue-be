@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Avenue De Nancy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6001372337,50.6463241577,5.6001372337,50.6463241577",
     "geom:latitude":50.646324,
     "geom:longitude":5.600137,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Nancy 8",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478296,
-    "wof:geomhash":"a1477bb1a8590c35be271923d7e98af0",
+    "wof:geomhash":"0392dbf8015f227591d258ede7cc9328",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041673961,
-    "wof:lastmodified":1473720777,
+    "wof:lastmodified":1510943547,
     "wof:name":"Hp Rent A Car Sprl",
     "wof:parent_id":85800963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042033757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "van",

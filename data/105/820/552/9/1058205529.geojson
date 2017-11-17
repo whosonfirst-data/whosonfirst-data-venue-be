@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0675911903,50.2596511841,6.0675911903,50.2596511841",
     "geom:latitude":50.259651,
     "geom:longitude":6.067591,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Neubruck 18",
     "sg:city":"Sankt Vith/saint-vith",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473514424,
-    "wof:geomhash":"7426bceabc526fd2030fb73f5e29bad3",
+    "wof:geomhash":"548c53d0ad9f0f33f04a9e6b23cb5298",
     "wof:hierarchy":[],
     "wof:id":1058205529,
-    "wof:lastmodified":1473721619,
+    "wof:lastmodified":1510941297,
     "wof:name":"Forellenhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058203253
+    ],
     "wof:tags":[
         "restaurant"
     ]

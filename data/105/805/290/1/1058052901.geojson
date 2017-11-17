@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3086562157,50.8661499023,4.3086562157,50.8661499023",
     "geom:latitude":50.86615,
     "geom:longitude":4.308656,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Petit Berchem 71",
     "sg:city":"Bruxelles (berchem-sainte-agathe)",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507617,
-    "wof:geomhash":"c1ef5bd061af8ee16bc20465e7d118fc",
+    "wof:geomhash":"fdce72807298a170b39bfdee40beaeb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":1058052901,
-    "wof:lastmodified":1473720777,
+    "wof:lastmodified":1510942433,
     "wof:name":"R\u00e9no Marbre",
     "wof:parent_id":85801163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041656311
+    ],
     "wof:tags":[
         "repair",
         "stone",

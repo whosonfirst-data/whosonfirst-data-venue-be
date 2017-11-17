@@ -7,13 +7,16 @@
     "addr:postcode":"2060",
     "addr:street":"Cassiersstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4158968925,51.2267417908,4.4158968925,51.2267417908",
     "geom:latitude":51.226742,
     "geom:longitude":4.415897,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Cassiersstraat 19",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480520,
-    "wof:geomhash":"4d602690238fc6e69e6eef8504cf28d2",
+    "wof:geomhash":"61ddd068e5df1d429b2e101f3c20d6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041731535,
-    "wof:lastmodified":1473720010,
+    "wof:lastmodified":1510943380,
     "wof:name":"Herfurth Travel",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058657449
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

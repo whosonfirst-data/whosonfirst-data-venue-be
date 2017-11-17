@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4252710342,50.9071044922,4.4252710342,50.9071044922",
     "geom:latitude":50.907104,
     "geom:longitude":4.425271,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Beaulieustraat 7",
     "sg:city":"Machelen",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543432,
-    "wof:geomhash":"beeaffbab26e40f6743c90c07651bdb5",
+    "wof:geomhash":"73f8ee03310b6e715e13363f527a14f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,13 +67,18 @@
         }
     ],
     "wof:id":1058842893,
-    "wof:lastmodified":1473720760,
+    "wof:lastmodified":1510942197,
     "wof:name":"Euromat-sud Sprl",
     "wof:parent_id":85800977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058659883,
+        1042209085,
+        1041941969,
+        1058510497
+    ],
     "wof:tags":[
         "installation",
         "metal",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.574819088,50.645565033,5.574819088,50.645565033",
     "geom:latitude":50.645565,
     "geom:longitude":5.574819,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Saint-lambert 82",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488436,
-    "wof:geomhash":"52a7caab065c99789afac096e8620720",
+    "wof:geomhash":"a8b2c685de73c7b910d849f6610fa76b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1041913023,
-    "wof:lastmodified":1473720838,
+    "wof:lastmodified":1510943717,
     "wof:name":"Leonidas",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041561619
+    ],
     "wof:tags":[
         "article",
         "baptismal"

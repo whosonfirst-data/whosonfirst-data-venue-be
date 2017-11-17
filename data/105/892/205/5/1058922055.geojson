@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4036240578,51.2203674316,4.4036240578,51.2203674316",
     "geom:latitude":51.220367,
     "geom:longitude":4.403624,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Korte Nieuwstraat 14",
     "sg:city":"Antwerpen-centrum",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473547000,
-    "wof:geomhash":"7b6737c4d19e344a2f61bc761aae3b65",
+    "wof:geomhash":"104c1e0315908bbc1adf360176872af7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058922055,
-    "wof:lastmodified":1473720273,
+    "wof:lastmodified":1510942427,
     "wof:name":"Namaste",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041597593
+    ],
     "wof:tags":[]
 },
   "bbox": [

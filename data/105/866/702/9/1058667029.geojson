@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7233800888,51.0543479919,3.7233800888,51.0543479919",
     "geom:latitude":51.054348,
     "geom:longitude":3.72338,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Donkersteeg 5",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":175020066,
         "sg:id":"SG_4BU6epUANXMoVI1lUdcLwk_51.054348_3.723380@1306268550"
     },
     "wof:country":"BE",
     "wof:created":1473535708,
-    "wof:geomhash":"14e828d801c2a79ab0aa258028f3f647",
+    "wof:geomhash":"d45c03af7816fed2401131ecdd1cc545",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058667029,
-    "wof:lastmodified":1473721964,
+    "wof:lastmodified":1510943931,
     "wof:name":"De Kruik",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

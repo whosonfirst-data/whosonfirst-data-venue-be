@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4028801918,50.8485717773,4.4028801918,50.8485717773",
     "geom:latitude":50.848572,
     "geom:longitude":4.40288,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Auguste Reyers 80",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533497,
-    "wof:geomhash":"1e162699edc94d4cdf79cf1766d1c34a",
+    "wof:geomhash":"694b13d4f0f693aaaa7308e8ba71edc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058618287,
-    "wof:lastmodified":1473722457,
+    "wof:lastmodified":1510943118,
     "wof:name":"Agoria Brabant",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058527545
+    ],
     "wof:tags":[
         "trade-union",
         "federation"

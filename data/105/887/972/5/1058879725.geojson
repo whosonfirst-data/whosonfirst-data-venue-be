@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.674366951,51.0880699158,3.674366951,51.0880699158",
     "geom:latitude":51.08807,
     "geom:longitude":3.674367,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kaleweg 3",
     "sg:city":"Gent (mariakerke)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545001,
-    "wof:geomhash":"05429b408fa4c116252f25dcbef939e7",
+    "wof:geomhash":"1c42c70bef66395cf1b9f46368bf7acd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,22 @@
         }
     ],
     "wof:id":1058879725,
-    "wof:lastmodified":1473722807,
+    "wof:lastmodified":1510942276,
     "wof:name":"Fabory Centre Gent",
     "wof:parent_id":85801595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041961295,
+        1041845241,
+        1042101091,
+        1058089197,
+        1058045699,
+        1058827497,
+        1058464067,
+        1058879315
+    ],
     "wof:tags":[
         "tool",
         "electric"

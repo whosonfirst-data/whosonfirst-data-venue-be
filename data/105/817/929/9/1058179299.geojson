@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Place Rouppe",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3455162048,50.8431282043,4.3455162048,50.8431282043",
     "geom:latitude":50.843128,
     "geom:longitude":4.345516,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Rouppe 4",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473513300,
-    "wof:geomhash":"7eada24d2c4973c776bb4b2fa4e10d06",
+    "wof:geomhash":"6bd90d6f5d16d684461e360258d27ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +67,19 @@
         }
     ],
     "wof:id":1058179299,
-    "wof:lastmodified":1473722306,
+    "wof:lastmodified":1510943414,
     "wof:name":"Ok Service Sprl-bvba",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058365301,
+        1058113031,
+        1058594125
+    ],
+    "wof:supersedes":[
+        1042207051
+    ],
     "wof:tags":[
         "repair",
         "mainten",

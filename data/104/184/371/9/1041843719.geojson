@@ -7,13 +7,16 @@
     "addr:postcode":"3960",
     "addr:street":"Bocholterkiezel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5947399139,51.1489295959,5.5947399139,51.1489295959",
     "geom:latitude":51.14893,
     "geom:longitude":5.59474,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bocholterkiezel 65",
     "sg:city":"Bree",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473485538,
-    "wof:geomhash":"b57c17e5a59d01c91419b8bc57358066",
+    "wof:geomhash":"df879716ca8d4500efdd6db4d3d21cab",
     "wof:hierarchy":[],
     "wof:id":1041843719,
-    "wof:lastmodified":1473720972,
+    "wof:lastmodified":1510942315,
     "wof:name":"Auto Shop Bree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058129383
+    ],
+    "wof:supersedes":[
+        1041842541,
+        1041840817,
+        1041843055
+    ],
     "wof:tags":[
         "automobile",
         "-",

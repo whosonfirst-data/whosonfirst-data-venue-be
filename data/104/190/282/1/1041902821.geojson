@@ -7,13 +7,16 @@
     "addr:postcode":"2640",
     "addr:street":"Liersesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4710640907,51.1684799194,4.4710640907,51.1684799194",
     "geom:latitude":51.16848,
     "geom:longitude":4.471064,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Liersesteenweg 212",
     "sg:city":"Mortsel",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488046,
-    "wof:geomhash":"d126b04bb90a614347fda731c7ffd91f",
+    "wof:geomhash":"7533d4c9687d25f1a83e67632a40cb3d",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +57,20 @@
         }
     ],
     "wof:id":1041902821,
-    "wof:lastmodified":1473720825,
+    "wof:lastmodified":1510943242,
     "wof:name":"All Sign Systems Nv",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058605359,
+        1058352757,
+        1058604821,
+        1058777123
+    ],
+    "wof:supersedes":[
+        1041700139
+    ],
     "wof:tags":[
         "banner"
     ]

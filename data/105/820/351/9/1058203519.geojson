@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0306248665,50.4252433777,6.0306248665,50.4252433777",
     "geom:latitude":50.425243,
     "geom:longitude":6.030625,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"B\u00e9verc\u00e9 11b",
     "sg:city":"Malmedy (beverc\u00e9)",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473514344,
-    "wof:geomhash":"2e2d55b0d16dfffd2f017c4ba223fdf8",
+    "wof:geomhash":"98ae007a06c2ddd91008a4cf2458a24d",
     "wof:hierarchy":[],
     "wof:id":1058203519,
-    "wof:lastmodified":1473720950,
+    "wof:lastmodified":1510943310,
     "wof:name":"Hotel De La Warche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041611443
+    ],
     "wof:tags":[]
 },
   "bbox": [

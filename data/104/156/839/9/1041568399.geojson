@@ -7,13 +7,16 @@
     "addr:postcode":"6150",
     "addr:street":"Chausse\u0301E De Thuin",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2843728065,50.3959884644,4.2843728065,50.3959884644",
     "geom:latitude":50.395988,
     "geom:longitude":4.284373,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Thuin 196",
     "sg:city":"Anderlues",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473977,
-    "wof:geomhash":"5b4a8fcac968b2d2ebc5d27b5e6558f7",
+    "wof:geomhash":"38cf2b5654037b4212c329c108b642b9",
     "wof:hierarchy":[],
     "wof:id":1041568399,
-    "wof:lastmodified":1473722458,
+    "wof:lastmodified":1510943395,
     "wof:name":"Pharmacie Des Bruy\u00e8res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041764177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemist"

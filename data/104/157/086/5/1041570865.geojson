@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Sint-Lambrechts-Herkstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3051571846,50.9065170288,5.3051571846,50.9065170288",
     "geom:latitude":50.906517,
     "geom:longitude":5.305157,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-lambrechts-herkstraat 69",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474078,
-    "wof:geomhash":"2f01802347f84ee4d4528161db12fcb2",
+    "wof:geomhash":"0ceb53d0f8d8c2ab456732f43e81099b",
     "wof:hierarchy":[],
     "wof:id":1041570865,
-    "wof:lastmodified":1473719723,
+    "wof:lastmodified":1510942690,
     "wof:name":"T.t.c. Hasselt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058824361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "de"

@@ -7,13 +7,16 @@
     "addr:postcode":"8902",
     "addr:street":"Voormezele-Dorp",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9219009876,50.8342857361,2.9219009876,50.8342857361",
     "geom:latitude":50.834286,
     "geom:longitude":2.921901,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Voormezele-dorp 12",
     "sg:city":"Ieper (voormezele)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473493834,
-    "wof:geomhash":"3db54c3a8db306aef4c3c2ba335e896a",
+    "wof:geomhash":"f3e4f5b254240a7b4125c2be6ff251d4",
     "wof:hierarchy":[],
     "wof:id":1042039115,
-    "wof:lastmodified":1473722686,
+    "wof:lastmodified":1510943463,
     "wof:name":"Vandendaele L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058247931
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"

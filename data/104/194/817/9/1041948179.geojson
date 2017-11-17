@@ -7,13 +7,16 @@
     "addr:postcode":"4053",
     "addr:street":"Voie De L'Ardenne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6067109108,50.5908546448,5.6067109108,50.5908546448",
     "geom:latitude":50.590855,
     "geom:longitude":5.606711,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Voie De L'ardenne 101",
     "sg:city":"Chaudfontaine",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473490024,
-    "wof:geomhash":"05d4781239f37103470447225176d09e",
+    "wof:geomhash":"e97671ad584c2a2616d6cdc5ea4109a7",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041948179,
-    "wof:lastmodified":1473722445,
+    "wof:lastmodified":1510943690,
     "wof:name":"Copy Embourg",
     "wof:parent_id":85801001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058658699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

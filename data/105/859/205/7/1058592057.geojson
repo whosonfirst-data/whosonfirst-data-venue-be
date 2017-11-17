@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3455162048,50.8431282043,4.3455162048,50.8431282043",
     "geom:latitude":50.843128,
     "geom:longitude":4.345516,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Rouppe 4",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532277,
-    "wof:geomhash":"7eada24d2c4973c776bb4b2fa4e10d06",
+    "wof:geomhash":"6bd90d6f5d16d684461e360258d27ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":1058592057,
-    "wof:lastmodified":1473720194,
+    "wof:lastmodified":1510943163,
     "wof:name":"O.k. Service",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041724437,
+        1058591369,
+        1042219465
+    ],
     "wof:tags":[]
 },
   "bbox": [

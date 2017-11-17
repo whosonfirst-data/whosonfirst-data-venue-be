@@ -7,13 +7,16 @@
     "addr:postcode":"7973",
     "addr:street":"Rue De Tournai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6951210499,50.5047492981,3.6951210499,50.5047492981",
     "geom:latitude":50.504749,
     "geom:longitude":3.695121,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Tournai 192",
     "sg:city":"Beloeil (stambruges)",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473539443,
-    "wof:geomhash":"e51ce759630707ccc5133799983324c1",
+    "wof:geomhash":"c0af621067633e8235bc1f45e3dc8427",
     "wof:hierarchy":[],
     "wof:id":1058752675,
-    "wof:lastmodified":1473720485,
+    "wof:lastmodified":1510943248,
     "wof:name":"Six Equipment Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058991771
+    ],
+    "wof:supersedes":[
+        1058660085
+    ],
     "wof:tags":[
         "scaffolding"
     ]

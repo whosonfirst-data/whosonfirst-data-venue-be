@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"R St Re\u0301My",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5702910423,50.6387481689,5.5702910423,50.6387481689",
     "geom:latitude":50.638748,
     "geom:longitude":5.570291,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R St R\u00e9my 11",
     "sg:city":"Li\u00e8ge",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476988,
-    "wof:geomhash":"2ea9c08e6e66662b954dfdca8f29dee4",
+    "wof:geomhash":"f7182a9d956ed7e23262d866ffa7c459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041641677,
-    "wof:lastmodified":1473720118,
+    "wof:lastmodified":1510944110,
     "wof:name":"Ipl Sa",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058828797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "finished",

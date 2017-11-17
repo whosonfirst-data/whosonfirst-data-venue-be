@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De L'Acade \u0301Mie",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5656599998,50.6468887329,5.5656599998,50.6468887329",
     "geom:latitude":50.646889,
     "geom:longitude":5.56566,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De L'acad\u00e9mie 73",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473976,
-    "wof:geomhash":"705167cf59df0afd7cae61a8d883e45e",
+    "wof:geomhash":"675f8c0471ae9c1d95f7bb24f3caf389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041568361,
-    "wof:lastmodified":1473722445,
+    "wof:lastmodified":1510942438,
     "wof:name":"Pharmacie De L'acad\u00e9mie",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058540807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemist"

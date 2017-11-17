@@ -7,13 +7,16 @@
     "addr:postcode":"8200",
     "addr:street":"Gistelsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2084679604,51.2038497925,3.2084679604,51.2038497925",
     "geom:latitude":51.20385,
     "geom:longitude":3.208468,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gistelsesteenweg 40",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489582,
-    "wof:geomhash":"c43c64728e6b2912582344da5f87fe0e",
+    "wof:geomhash":"e38babf5c5308d41d8ce66c901f84d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041938151,
-    "wof:lastmodified":1473722344,
+    "wof:lastmodified":1510944087,
     "wof:name":"Gs Ergo",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058226523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

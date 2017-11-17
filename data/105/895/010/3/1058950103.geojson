@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4813799858,51.1977272034,4.4813799858,51.1977272034",
     "geom:latitude":51.197727,
     "geom:longitude":4.48138,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Frans Beirenslaan 155",
     "sg:city":"Borsbeek",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473548286,
-    "wof:geomhash":"5f379dadef5ce3edc1b6f3cc672a744a",
+    "wof:geomhash":"6b0a9d65a6217eccd6ec458090aedeeb",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1058950103,
-    "wof:lastmodified":1473718932,
+    "wof:lastmodified":1510943278,
     "wof:name":"G. Verhoeven",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042146643
+    ],
     "wof:tags":[]
 },
   "bbox": [

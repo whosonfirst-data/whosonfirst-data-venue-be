@@ -7,13 +7,16 @@
     "addr:postcode":"7500",
     "addr:street":"Rue Saint-Martin",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3849029541,50.6031532288,3.3849029541,50.6031532288",
     "geom:latitude":50.603153,
     "geom:longitude":3.384903,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Saint-martin 107",
     "sg:city":"Tournai",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473476200,
-    "wof:geomhash":"ba81787be733993b68da942905827995",
+    "wof:geomhash":"91ac223c2ddcf157ad4865fdfb0e9721",
     "wof:hierarchy":[],
     "wof:id":1041622303,
-    "wof:lastmodified":1473720366,
+    "wof:lastmodified":1510942867,
     "wof:name":"Electro-shop Leclercq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042212947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"

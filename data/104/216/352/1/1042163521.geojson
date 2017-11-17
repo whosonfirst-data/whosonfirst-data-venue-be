@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Pelikaansstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4202280045,51.2150268555,4.4202280045,51.2150268555",
     "geom:latitude":51.215027,
     "geom:longitude":4.420228,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pelikaansstraat 62",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499728,
-    "wof:geomhash":"863f76d6aa62001003a597fd11b341a4",
+    "wof:geomhash":"0204ef526ca4cbd5b7f08de7e27c57dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042163521,
-    "wof:lastmodified":1473720877,
+    "wof:lastmodified":1510941323,
     "wof:name":"Vrije Diamanthandel",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058616709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1950",
     "addr:street":"Avenue De Wezembeek",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4721398354,50.8482894897,4.4721398354,50.8482894897",
     "geom:latitude":50.848289,
     "geom:longitude":4.47214,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Wezembeek 114",
     "sg:city":"Kraainem",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475376,
-    "wof:geomhash":"bebb9620b37bdc63bd8fb98bc3fc12d9",
+    "wof:geomhash":"ab10e12ad83d2f7605c9cdd7b41d0240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041601721,
-    "wof:lastmodified":1473720083,
+    "wof:lastmodified":1510943746,
     "wof:name":"Image",
     "wof:parent_id":85801863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058743825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lady",

@@ -7,13 +7,16 @@
     "addr:postcode":"2630",
     "addr:street":"Boomsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.375617981,51.1268844604,4.375617981,51.1268844604",
     "geom:latitude":51.126884,
     "geom:longitude":4.375618,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boomsesteenweg 77",
     "sg:city":"Aartselaar",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523306,
-    "wof:geomhash":"279a691e45ca43cdeeba548a3ed17573",
+    "wof:geomhash":"32f257308fb9e83ea2071b6a6f0fe057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,16 @@
         }
     ],
     "wof:id":1058401465,
-    "wof:lastmodified":1473720019,
+    "wof:lastmodified":1510943642,
     "wof:name":"Omnilabo Nv",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058759639,
+        1058486035,
+        1058399157
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

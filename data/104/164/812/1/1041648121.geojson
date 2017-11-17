@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Chaussee De Louvain",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3898129463,50.8527412415,4.3898129463,50.8527412415",
     "geom:latitude":50.852741,
     "geom:longitude":4.389813,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chaussee De Louvain 446",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477273,
-    "wof:geomhash":"ae41e1272fa16c94c5febcea9c627709",
+    "wof:geomhash":"31546614cd18f4d1842f11bb7b77a8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041648121,
-    "wof:lastmodified":1473722338,
+    "wof:lastmodified":1510944097,
     "wof:name":"Publiprox Belgium S.a.",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041696957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "poster",

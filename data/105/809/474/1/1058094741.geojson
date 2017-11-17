@@ -7,13 +7,16 @@
     "addr:postcode":"8460",
     "addr:street":"Brugsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.0023450851,51.1840553284,3.0023450851,51.1840553284",
     "geom:latitude":51.184055,
     "geom:longitude":3.002345,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brugsesteenweg 209",
     "sg:city":"Oudenburg (roksem)",
     "sg:classifiers":[
@@ -38,16 +41,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473509352,
-    "wof:geomhash":"b4c1c2681ef319a3f0a25c61cd59a098",
+    "wof:geomhash":"77bc28b0d2cee23b2e8a11e532152512",
     "wof:hierarchy":[],
     "wof:id":1058094741,
-    "wof:lastmodified":1473721348,
+    "wof:lastmodified":1510943082,
     "wof:name":"Schoutteet G & V Autoviger Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058660079,
+        1058991767,
+        1058906291,
+        1058906477
+    ],
+    "wof:supersedes":[
+        1041842429,
+        1041847455
+    ],
     "wof:tags":[
         "garage"
     ]

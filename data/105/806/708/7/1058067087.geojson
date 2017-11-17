@@ -7,13 +7,16 @@
     "addr:postcode":"2660",
     "addr:street":"Lageweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3653120995,51.188533783,4.3653120995,51.188533783",
     "geom:latitude":51.188534,
     "geom:longitude":4.365312,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lageweg 121",
     "sg:city":"Antwerpen (hoboken)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508199,
-    "wof:geomhash":"71418dbf6e607fab2197cd999c840f7a",
+    "wof:geomhash":"5c351a3c3873f554f222bdd2a2b86155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,16 @@
         }
     ],
     "wof:id":1058067087,
-    "wof:lastmodified":1473722096,
+    "wof:lastmodified":1510943828,
     "wof:name":"A.p.c.-geoservices Nv/ M Dammekens",
     "wof:parent_id":85801273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058966691,
+        1058286613,
+        1058641445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

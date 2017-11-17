@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.348388195,50.8250579834,4.348388195,50.8250579834",
     "geom:latitude":50.825058,
     "geom:longitude":4.348388,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Waterloo 243",
     "sg:city":"Sint-gillis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473536779,
-    "wof:geomhash":"0d526eff35a8f0689cb5bb2fb7c3e40c",
+    "wof:geomhash":"5e495e17c8d4e72be697c33a53cbeda1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058691903,
-    "wof:lastmodified":1473720222,
+    "wof:lastmodified":1510942237,
     "wof:name":"Mastour J.",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041639587
+    ],
     "wof:tags":[]
 },
   "bbox": [

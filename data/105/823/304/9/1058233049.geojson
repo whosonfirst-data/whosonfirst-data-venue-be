@@ -7,13 +7,16 @@
     "addr:postcode":"2020",
     "addr:street":"Jan Van Rijswijcklaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3901767731,51.1835861206,4.3901767731,51.1835861206",
     "geom:latitude":51.183586,
     "geom:longitude":4.390177,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jan Van Rijswijcklaan 296",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515657,
-    "wof:geomhash":"442f1dae3e28a8f54cc099c5eb1f2e14",
+    "wof:geomhash":"ede494d31e2a45a41e5644a4145cf6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +67,25 @@
         }
     ],
     "wof:id":1058233049,
-    "wof:lastmodified":1473720762,
+    "wof:lastmodified":1510943844,
     "wof:name":"Elco Nv",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058879707
+    ],
+    "wof:supersedes":[
+        1041841895,
+        1042179051,
+        1058089179,
+        1041843299,
+        1041843815,
+        1041841759,
+        1041840903,
+        1058214777,
+        1041690473
+    ],
     "wof:tags":[
         "petrol",
         "diesel",

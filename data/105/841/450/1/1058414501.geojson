@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3227939606,50.6810112,5.3227939606,50.6810112",
     "geom:latitude":50.681011,
     "geom:longitude":5.322794,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Jules M\u00e9lotte 31",
     "sg:city":"Remicourt",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473523874,
-    "wof:geomhash":"9fd739c8af56107e330b1b96aac1c2ea",
+    "wof:geomhash":"811bf87aac6e8495ae1b1c6374198868",
     "wof:hierarchy":[],
     "wof:id":1058414501,
-    "wof:lastmodified":1473721333,
+    "wof:lastmodified":1510941780,
     "wof:name":"Gascoigne Melotte Belgium Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041631403
+    ],
     "wof:tags":[
         "milking",
         "machine"

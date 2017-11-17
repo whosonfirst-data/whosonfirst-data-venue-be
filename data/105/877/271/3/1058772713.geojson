@@ -7,13 +7,16 @@
     "addr:postcode":"1654",
     "addr:street":"Guido Gezellestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2708778381,50.7543067932,4.2708778381,50.7543067932",
     "geom:latitude":50.754307,
     "geom:longitude":4.270878,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Guido Gezellestraat 122",
     "sg:city":"Beersel (huizingen)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540365,
-    "wof:geomhash":"065f3dd2431d223a44b0d1e6b6d41480",
+    "wof:geomhash":"144f3a583e32f327c7d8323317ed044f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,22 @@
         }
     ],
     "wof:id":1058772713,
-    "wof:lastmodified":1473720678,
+    "wof:lastmodified":1510944073,
     "wof:name":"Aludan",
     "wof:parent_id":85802037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058772511,
+        1058966229,
+        1058831731
+    ],
+    "wof:supersedes":[
+        1058406083,
+        1058105911,
+        1041748115,
+        1041748399
+    ],
     "wof:tags":[
         "sheet"
     ]

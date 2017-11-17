@@ -7,13 +7,16 @@
     "addr:postcode":"4130",
     "addr:street":"Avenue Neef",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5669360161,50.5327568054,5.5669360161,50.5327568054",
     "geom:latitude":50.532757,
     "geom:longitude":5.566936,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Neef 15",
     "sg:city":"Esneux (tilff)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514036,
-    "wof:geomhash":"746e1b015711bb7c770df780ad7c29e4",
+    "wof:geomhash":"96fcb5441d2e3499e93572e44dd563eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,26 @@
         }
     ],
     "wof:id":1058196053,
-    "wof:lastmodified":1473721637,
+    "wof:lastmodified":1510944047,
     "wof:name":"Lemmens Cablerie-corderie",
     "wof:parent_id":85801627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058355203,
+        1058467397,
+        1058852037,
+        1058845645,
+        1058701297,
+        1058853013,
+        1058730041
+    ],
+    "wof:supersedes":[
+        1041902861,
+        1058151125,
+        1042002163,
+        1042049337
+    ],
     "wof:tags":[
         "hoisting-",
         "lashingbelts"

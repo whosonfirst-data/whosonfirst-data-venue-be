@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6394319534,50.6777610779,5.6394319534,50.6777610779",
     "geom:latitude":50.677761,
     "geom:longitude":5.639432,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Bellenay 71",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532709,
-    "wof:geomhash":"2ac4614ebbafc963001a80fc6d4956e5",
+    "wof:geomhash":"30541f63d1fee282abe8e8ef14cd37b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058602283,
-    "wof:lastmodified":1473720336,
+    "wof:lastmodified":1510943347,
     "wof:name":"Plastics And Mechanical Technologies S.a.",
     "wof:parent_id":85800909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058399193
+    ],
     "wof:tags":[
         "precision",
         "mechanic"

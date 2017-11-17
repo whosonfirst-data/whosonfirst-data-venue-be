@@ -7,13 +7,16 @@
     "addr:postcode":"7340",
     "addr:street":"Place De L'Eglise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8434000015,50.4191017151,3.8434000015,50.4191017151",
     "geom:latitude":50.419102,
     "geom:longitude":3.8434,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place De L'eglise 14",
     "sg:city":"Colfontaine (p\u00e2turages)",
     "sg:classifiers":[
@@ -37,16 +40,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473546793,
-    "wof:geomhash":"9a1c0059d058c6ec1c58458483774b21",
+    "wof:geomhash":"b2e9f3512ee8f9d6b23db4be818d5442",
     "wof:hierarchy":[],
     "wof:id":1058918083,
-    "wof:lastmodified":1473722290,
+    "wof:lastmodified":1510943243,
     "wof:name":"Decamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058969915
+    ],
+    "wof:supersedes":[
+        1058112859,
+        1058776723
+    ],
     "wof:tags":[
         "veranda"
     ]

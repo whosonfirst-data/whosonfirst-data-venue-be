@@ -7,13 +7,16 @@
     "addr:postcode":"1160",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4083890915,50.8125991821,4.4083890915,50.8125991821",
     "geom:latitude":50.812599,
     "geom:longitude":4.408389,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"R Des P\u00eacheries 42",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477622,
-    "wof:geomhash":"76605ccce62171204efd90d881fc775b",
+    "wof:geomhash":"e70feb64824280953927095327c6487d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041657107,
-    "wof:lastmodified":1473722090,
+    "wof:lastmodified":1510944183,
     "wof:name":"De Meu-debrye Sprl",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058658981
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transport",

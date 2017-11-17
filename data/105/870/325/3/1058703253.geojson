@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4235200882,50.4423789978,4.4235200882,50.4423789978",
     "geom:latitude":50.442379,
     "geom:longitude":4.42352,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Jean-baptiste Ledoux 140",
     "sg:city":"Charleroi (jumet)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473537253,
-    "wof:geomhash":"11a60a13af6c14772a1fad1dc5ffd1d1",
+    "wof:geomhash":"ad4d21e378cc1fb968bd6886d4d19ac8",
     "wof:hierarchy":[],
     "wof:id":1058703253,
-    "wof:lastmodified":1473720839,
+    "wof:lastmodified":1510941657,
     "wof:name":"Vidange Inter Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042056741
+    ],
     "wof:tags":[
         "rubbish",
         "removal"

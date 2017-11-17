@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7284560204,51.0512886047,3.7284560204,51.0512886047",
     "geom:latitude":51.051289,
     "geom:longitude":3.728456,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Fran\u00e7ois Laurentplein 1",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520806,
-    "wof:geomhash":"dc2e4095ff2d4e5e5bd98157ee3a6383",
+    "wof:geomhash":"fc6ff18a22f638f0ec7373d1b654484f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058346659,
-    "wof:lastmodified":1473721912,
+    "wof:lastmodified":1510942363,
     "wof:name":"Seghers Jan",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041873009,
+        1041721527
+    ],
     "wof:tags":[]
 },
   "bbox": [

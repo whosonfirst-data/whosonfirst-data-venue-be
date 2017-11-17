@@ -7,13 +7,16 @@
     "addr:postcode":"9160",
     "addr:street":"Gentse Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9186890125,51.111000061,3.9186890125,51.111000061",
     "geom:latitude":51.111,
     "geom:longitude":3.918689,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gentse Steenweg 363",
     "sg:city":"Lokeren",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473485743,
-    "wof:geomhash":"3ac63512230898290d32b2a0da9034ba",
+    "wof:geomhash":"ecf6751ef09cf6b7f9e0bea0e83d92b2",
     "wof:hierarchy":[],
     "wof:id":1041848473,
-    "wof:lastmodified":1473722399,
+    "wof:lastmodified":1510942170,
     "wof:name":"Auto-aanpassingen Mees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058415523
+    ],
+    "wof:supersedes":[
+        1041840613,
+        1041850925,
+        1041845029
+    ],
     "wof:tags":[
         "automobile-body"
     ]

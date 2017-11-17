@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Rijnkaai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4030561447,51.2308540344,4.4030561447,51.2308540344",
     "geom:latitude":51.230854,
     "geom:longitude":4.403056,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rijnkaai 37",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501368,
-    "wof:geomhash":"a8426801040f5ce6a40ef7bcb75ef928",
+    "wof:geomhash":"da20f4da7a5c7a4ff57d3cdb87bb1dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1042189867,
-    "wof:lastmodified":1473722898,
+    "wof:lastmodified":1510944021,
     "wof:name":"Planet Internet",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058282173
+    ],
+    "wof:supersedes":[
+        1042161989
+    ],
     "wof:tags":[]
 },
   "bbox": [

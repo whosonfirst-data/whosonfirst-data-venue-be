@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Parc Du Cinquantenaire;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3907270432,50.84009552,4.3907270432,50.84009552",
     "geom:latitude":50.840096,
     "geom:longitude":4.390727,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Parc Du Cinquantenaire 11",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473541761,
-    "wof:geomhash":"70c1aa7deea8cba9f73ce1cc37277067",
+    "wof:geomhash":"5f07446693507fa605a7cd5be7b88569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1058804731,
-    "wof:lastmodified":1473721369,
+    "wof:lastmodified":1510942524,
     "wof:name":"Babouin",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058880561
+    ],
+    "wof:supersedes":[
+        1058292075,
+        1058415865
+    ],
     "wof:tags":[]
 },
   "bbox": [

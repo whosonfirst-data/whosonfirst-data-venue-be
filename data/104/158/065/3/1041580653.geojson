@@ -7,13 +7,16 @@
     "addr:postcode":"9160",
     "addr:street":"Brouwerijstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.988255024,51.1091651917,3.988255024,51.1091651917",
     "geom:latitude":51.109165,
     "geom:longitude":3.988255,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brouwerijstraat 5",
     "sg:city":"Lokeren",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474480,
-    "wof:geomhash":"a8abad40a794d98f8b8d30e610ceca6a",
+    "wof:geomhash":"763aab50c6373914264fb11088f9347c",
     "wof:hierarchy":[],
     "wof:id":1041580653,
-    "wof:lastmodified":1473719590,
+    "wof:lastmodified":1510941345,
     "wof:name":"Kta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042265519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"

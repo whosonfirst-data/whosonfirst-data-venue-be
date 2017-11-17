@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.333987236,50.7940292358,4.333987236,50.7940292358",
     "geom:latitude":50.794029,
     "geom:longitude":4.333987,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e D'alsemberg 1029",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473511936,
-    "wof:geomhash":"e5a9148fe279a91aab80b7f715766c4c",
+    "wof:geomhash":"4b5477a9b7c1e134a11e91a389923aff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1058148727,
-    "wof:lastmodified":1473722549,
+    "wof:lastmodified":1510941533,
     "wof:name":"V\u00e9ronique (coiffure)",
     "wof:parent_id":85801925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041660491
+    ],
     "wof:tags":[
         "lady",
         "-",

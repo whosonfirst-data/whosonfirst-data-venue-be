@@ -7,6 +7,7 @@
     "addr:postcode":"1654",
     "addr:street":"Theresiastraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":4.27441,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Theresiastraat 26",
     "sg:city":"Beersel",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":1041910537,
-    "wof:lastmodified":1510877215,
+    "wof:lastmodified":1510942756,
     "wof:name":"Ippa",
     "wof:parent_id":85802037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041893831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

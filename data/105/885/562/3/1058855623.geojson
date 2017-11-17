@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6948161125,50.8626022339,4.6948161125,50.8626022339",
     "geom:latitude":50.862602,
     "geom:longitude":4.694816,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-lambertusstraat 1",
     "sg:city":"Leuven (heverlee)",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":289029619,
         "sg:id":"SG_46pt2p0KAPPsMKe0BJoVgv_50.862602_4.694816@1306268584"
     },
     "wof:country":"BE",
     "wof:created":1473543959,
-    "wof:geomhash":"f93901c14ccb36a891ae6f23407b377e",
+    "wof:geomhash":"536d0dc6791f1a443793be6799e6b328",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1058855623,
-    "wof:lastmodified":1473721605,
+    "wof:lastmodified":1510943038,
     "wof:name":"Het Seinhuis",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",

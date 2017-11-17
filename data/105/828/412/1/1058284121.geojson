@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Rue Vervloesem",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.430229187,50.8463287354,4.430229187,50.8463287354",
     "geom:latitude":50.846329,
     "geom:longitude":4.430229,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Vervloesem 136",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517875,
-    "wof:geomhash":"0031d80f29f23edd39b737fc35572947",
+    "wof:geomhash":"e4f8716d89d50edeeef04a1454632872",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,18 @@
         }
     ],
     "wof:id":1058284121,
-    "wof:lastmodified":1473721196,
+    "wof:lastmodified":1510943374,
     "wof:name":"E-logic",
     "wof:parent_id":85801913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058453519
+    ],
+    "wof:supersedes":[
+        1042115017,
+        1042123027
+    ],
     "wof:tags":[
         "webdesign",
         "-",

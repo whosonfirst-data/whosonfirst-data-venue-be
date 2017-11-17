@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue De Stassart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3586268425,50.834274292,4.3586268425,50.834274292",
     "geom:latitude":50.834274,
     "geom:longitude":4.358627,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Stassart 117",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520024,
-    "wof:geomhash":"c35d61f646b9ffdcf52a07f5adf371c1",
+    "wof:geomhash":"c8180553a1f8d5d59f0dfe43461b459d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058330725,
-    "wof:lastmodified":1473719680,
+    "wof:lastmodified":1510943435,
     "wof:name":"E.f.-internationale Talenscholen",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058330551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

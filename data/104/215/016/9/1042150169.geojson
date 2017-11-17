@@ -7,13 +7,16 @@
     "addr:postcode":"6020",
     "addr:street":"Chausse\u0301E De Bruxelles",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4365592003,50.4127960205,4.4365592003,50.4127960205",
     "geom:latitude":50.412796,
     "geom:longitude":4.436559,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Bruxelles 21",
     "sg:city":"Charleroi (dampremy)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473499038,
-    "wof:geomhash":"e04f30fc7ab01d3451e4b28b78ef73d5",
+    "wof:geomhash":"7e26ee6c0a631926d8ffd0400c216793",
     "wof:hierarchy":[],
     "wof:id":1042150169,
-    "wof:lastmodified":1473718952,
+    "wof:lastmodified":1510941348,
     "wof:name":"Eanness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058044259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"

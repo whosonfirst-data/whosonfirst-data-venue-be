@@ -7,13 +7,16 @@
     "addr:postcode":"1420",
     "addr:street":"Chausse\u0301E De Tubize",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1952600479,50.6840705872,4.1952600479,50.6840705872",
     "geom:latitude":50.684071,
     "geom:longitude":4.19526,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Tubize 481",
     "sg:city":"Braine L'alleud (braine-l'alleud)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473478534,
-    "wof:geomhash":"0f4b7eb245a1057317a238ae3f4ba2a5",
+    "wof:geomhash":"0abdbc2410c0f9e24b8dc660b5f8e21c",
     "wof:hierarchy":[],
     "wof:id":1041680415,
-    "wof:lastmodified":1473719506,
+    "wof:lastmodified":1510941834,
     "wof:name":"Boulemberg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041577743
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "window"

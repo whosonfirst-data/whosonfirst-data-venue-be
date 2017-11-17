@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7106020451,51.0381088257,3.7106020451,51.0381088257",
     "geom:latitude":51.038109,
     "geom:longitude":3.710602,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Koning Albertlaan 31",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1802848872,
         "sg:id":"SG_75u8liX2P9uORrHjL8Fzs6_51.038109_3.710602@1306268550"
     },
     "wof:country":"BE",
     "wof:created":1473535698,
-    "wof:geomhash":"5c58fd1309eb122c6a4740d7483576ff",
+    "wof:geomhash":"b0a529bffdf0ca7f1a7021ff19602b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058666745,
-    "wof:lastmodified":1473721895,
+    "wof:lastmodified":1510943639,
     "wof:name":"De Gouden Klok",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue De La Couronne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3846850395,50.8254318237,4.3846850395,50.8254318237",
     "geom:latitude":50.825432,
     "geom:longitude":4.384685,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La Couronne 292",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473483222,
-    "wof:geomhash":"2af2467cdd66a8112ac158da0d85caaf",
+    "wof:geomhash":"9a29c13b1f3fe6fab6c0317eb95bab5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041788453,
-    "wof:lastmodified":1473722481,
+    "wof:lastmodified":1510942436,
     "wof:name":"Smits-henin",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058240599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1800",
     "addr:street":"Schaarbeeklei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4156761169,50.9098205566,4.4156761169,50.9098205566",
     "geom:latitude":50.909821,
     "geom:longitude":4.415676,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaarbeeklei 638",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505994,
-    "wof:geomhash":"e04b62e7e41936583a6bc78f4486b106",
+    "wof:geomhash":"6b524196268b0c83980cffe85d9fdf38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +67,18 @@
         }
     ],
     "wof:id":1058015017,
-    "wof:lastmodified":1473720134,
+    "wof:lastmodified":1510943829,
     "wof:name":"Eliona",
     "wof:parent_id":85801085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058656651,
+        1058973765
+    ],
+    "wof:supersedes":[
+        1042152373
+    ],
     "wof:tags":[
         "diver",
         "commerce",

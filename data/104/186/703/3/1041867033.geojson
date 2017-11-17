@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4117679596,51.2131271362,4.4117679596,51.2131271362",
     "geom:latitude":51.213127,
     "geom:longitude":4.411768,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Louiza Marialei 4",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486514,
-    "wof:geomhash":"00e688f498daeddb6dba4ac9f769983b",
+    "wof:geomhash":"c29691a124a67a761ccf811968592425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041867033,
-    "wof:lastmodified":1473722010,
+    "wof:lastmodified":1510942896,
     "wof:name":"Nancy De Clerck",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041715333
+    ],
     "wof:tags":[]
 },
   "bbox": [

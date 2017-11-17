@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3522138596,50.8478965759,4.3522138596,50.8478965759",
     "geom:latitude":50.847897,
     "geom:longitude":4.352214,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du March\u00c9 Aux Herbes 15",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481128,
-    "wof:geomhash":"98abb6be0e2902ddc37aee8380be2046",
+    "wof:geomhash":"1063817e35ad90967590ae27dfe8cd06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041744011,
-    "wof:lastmodified":1473721199,
+    "wof:lastmodified":1510942377,
     "wof:name":"Caf\u00c9-tasse Store",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041569099
+    ],
     "wof:tags":[]
 },
   "bbox": [

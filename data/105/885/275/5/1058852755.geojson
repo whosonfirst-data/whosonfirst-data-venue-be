@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2912912369,50.8630027771,5.2912912369,50.8630027771",
     "geom:latitude":50.863003,
     "geom:longitude":5.291291,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pleinstraat 17",
     "sg:city":"Alken",
     "sg:classifiers":[
@@ -38,16 +40,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473543850,
-    "wof:geomhash":"a7cf78b88faf6ba33c342e10915a240e",
+    "wof:geomhash":"607b99ac03eb5a3d78b793498ae7119f",
     "wof:hierarchy":[],
     "wof:id":1058852755,
-    "wof:lastmodified":1473720672,
+    "wof:lastmodified":1510942015,
     "wof:name":"Bodal Oils Keupers B Etn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058480729,
+        1058764217,
+        1058371165,
+        1041752921,
+        1058080763,
+        1041958605,
+        1058081763
+    ],
     "wof:tags":[
         "tank"
     ]

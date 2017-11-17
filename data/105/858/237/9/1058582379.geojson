@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7841119766,51.0159683228,3.7841119766,51.0159683228",
     "geom:latitude":51.015968,
     "geom:longitude":3.784112,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Brusselsesteenweg 151",
     "sg:city":"Melle",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473531868,
-    "wof:geomhash":"d2d8392f44d04859607dde10e3f1aa76",
+    "wof:geomhash":"951175fa8d31bc1a07ef4d918274a05d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058582379,
-    "wof:lastmodified":1473720402,
+    "wof:lastmodified":1510943377,
     "wof:name":"Botelberge",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041942317
+    ],
     "wof:tags":[]
 },
   "bbox": [

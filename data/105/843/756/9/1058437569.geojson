@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5387859344,50.5871696472,5.5387859344,50.5871696472",
     "geom:latitude":50.58717,
     "geom:longitude":5.538786,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Rose 12",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473525081,
-    "wof:geomhash":"b8ec1ee7e98b9ce069a24ab8385b60df",
+    "wof:geomhash":"f4c6798a508a44ae8a039427b5965cff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058437569,
-    "wof:lastmodified":1473722208,
+    "wof:lastmodified":1510942986,
     "wof:name":"H\u00c9l\u00c8ne Nop\u00c8re",
     "wof:parent_id":85801229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041809905
+    ],
     "wof:tags":[]
 },
   "bbox": [

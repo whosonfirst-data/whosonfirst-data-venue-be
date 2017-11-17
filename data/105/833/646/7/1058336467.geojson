@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7080259323,51.0351715088,3.7080259323,51.0351715088",
     "geom:latitude":51.035172,
     "geom:longitude":3.708026,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint-denijslaan 201",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520311,
-    "wof:geomhash":"0ac7843b338c816080ce86a8a26cb0fb",
+    "wof:geomhash":"c93b3d05b2400000deb2284481010bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058336467,
-    "wof:lastmodified":1473721945,
+    "wof:lastmodified":1510941938,
     "wof:name":"De Clercq Veerle",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041885813,
+        1041720859
+    ],
     "wof:tags":[]
 },
   "bbox": [

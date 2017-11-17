@@ -7,13 +7,16 @@
     "addr:postcode":"3530",
     "addr:street":"Dorpsstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3726701736,51.0308914185,5.3726701736,51.0308914185",
     "geom:latitude":51.030891,
     "geom:longitude":5.37267,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorpsstraat 46",
     "sg:city":"Houthalen-helchteren (houthalen)",
     "sg:classifiers":[
@@ -38,16 +41,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473546518,
-    "wof:geomhash":"ef34550a979f8d2bb079fabd1cc84bac",
+    "wof:geomhash":"eece5bf19a8951da4b7590986f46a30f",
     "wof:hierarchy":[],
     "wof:id":1058911859,
-    "wof:lastmodified":1473720116,
+    "wof:lastmodified":1510941997,
     "wof:name":"Graller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058961943
+    ],
+    "wof:supersedes":[
+        1058278655,
+        1058512777,
+        1058515433,
+        1058050415,
+        1058516341,
+        1058703573,
+        1042100227
+    ],
     "wof:tags":[
         "upholsterer"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"2950",
     "addr:street":"Antwerpsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.437002182,51.3017349243,4.437002182,51.3017349243",
     "geom:latitude":51.301735,
     "geom:longitude":4.437002,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpsesteenweg 280-282",
     "sg:city":"Kapellen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526195,
-    "wof:geomhash":"3aba36d1534ab68e0a12d39f543cf755",
+    "wof:geomhash":"a234be5a5f7aeff35e29a9062d887451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,24 @@
         }
     ],
     "wof:id":1058459943,
-    "wof:lastmodified":1473722857,
+    "wof:lastmodified":1510942122,
     "wof:name":"Bruidsparadijs Bvba",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058604357
+    ],
+    "wof:supersedes":[
+        1058061431,
+        1058352851,
+        1041961519,
+        1042048905,
+        1058390455,
+        1041700791,
+        1041886675,
+        1058019869
+    ],
     "wof:tags":[]
 },
   "bbox": [

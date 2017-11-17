@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5842628479,50.7334938049,4.5842628479,50.7334938049",
     "geom:latitude":50.733494,
     "geom:longitude":4.584263,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Vesale 13",
     "sg:city":"Wavre",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473494084,
-    "wof:geomhash":"5ffe9a2e830ec2c1c57b98216cb5b9b0",
+    "wof:geomhash":"465b9b3c37b250c11a19014a4599fdda",
     "wof:hierarchy":[],
     "wof:id":1042045751,
-    "wof:lastmodified":1473721673,
+    "wof:lastmodified":1510942349,
     "wof:name":"Ghigny Barrisol S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041566179
+    ],
     "wof:tags":[
         "ceiling"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"3050",
     "addr:street":"Maurits Noe\u0308Straat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6534562111,50.823600769,4.6534562111,50.823600769",
     "geom:latitude":50.823601,
     "geom:longitude":4.653456,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maurits No\u00cbstraat 2",
     "sg:city":"Oud-heverlee",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473536352,
-    "wof:geomhash":"200ed79fcfa41a2d42ff7867b71deb62",
+    "wof:geomhash":"e4426a802f29f6df86398e38d33581f7",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":1058681725,
-    "wof:lastmodified":1473720058,
+    "wof:lastmodified":1510943883,
     "wof:name":"Zoet Water Terras",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058858247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3834700584,50.9453887939,5.3834700584,50.9453887939",
     "geom:latitude":50.945389,
     "geom:longitude":5.38347,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Genkersteenweg 433",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473517756,
-    "wof:geomhash":"39dfab47a950c9c847f70d735aff3228",
+    "wof:geomhash":"5ef93c25c8212393f0982b92b2bdcf7c",
     "wof:hierarchy":[],
     "wof:id":1058281521,
-    "wof:lastmodified":1473719959,
+    "wof:lastmodified":1510942261,
     "wof:name":"Put Interieurarchitectuur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058279685,
+        1058085013
+    ],
     "wof:tags":[
         "interior",
         "designer"

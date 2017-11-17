@@ -7,13 +7,16 @@
     "addr:postcode":"9170",
     "addr:street":"Sint-Niklaasstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1366829872,51.2116928101,4.1366829872,51.2116928101",
     "geom:latitude":51.211693,
     "geom:longitude":4.136683,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-niklaasstraat 70",
     "sg:city":"Sint-gillis-waas",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473485784,
-    "wof:geomhash":"749d3499f7f0a3b3c47ce7e86fc9a358",
+    "wof:geomhash":"d041a562a8e7e44fb1676b8eb927c216",
     "wof:hierarchy":[],
     "wof:id":1041849557,
-    "wof:lastmodified":1473722748,
+    "wof:lastmodified":1510941425,
     "wof:name":"Garage Pieters Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058092283
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile-body"

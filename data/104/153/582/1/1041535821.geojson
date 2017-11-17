@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Avenue Van Volxem",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3263611794,50.8227615356,4.3263611794,50.8227615356",
     "geom:latitude":50.822762,
     "geom:longitude":4.326361,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Van Volxem 301",
     "sg:city":"Bruxelles (forest)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472638,
-    "wof:geomhash":"c648ca51ba70e63dc8e54d7b5402848c",
+    "wof:geomhash":"642215291bc75b27167871cf402a9877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041535821,
-    "wof:lastmodified":1473718961,
+    "wof:lastmodified":1510943569,
     "wof:name":"A.c.k.a. Sprl",
     "wof:parent_id":85801379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041536245
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bill",

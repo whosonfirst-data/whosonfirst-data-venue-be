@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4108400345,51.2341766357,4.4108400345,51.2341766357",
     "geom:latitude":51.234177,
     "geom:longitude":4.41084,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Napelsstraat 32",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486482,
-    "wof:geomhash":"34f5bbe28f1f2d83ceda715d1e3421aa",
+    "wof:geomhash":"61c933d3bcb910b69b852bc3d4fd11a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041866337,
-    "wof:lastmodified":1473721801,
+    "wof:lastmodified":1510941856,
     "wof:name":"Mark Crommen",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041714637
+    ],
     "wof:tags":[]
 },
   "bbox": [

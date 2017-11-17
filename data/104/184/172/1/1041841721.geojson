@@ -7,13 +7,16 @@
     "addr:postcode":"1090",
     "addr:street":"Avenue Firmin Lecharlier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3309597969,50.8707046509,4.3309597969,50.8707046509",
     "geom:latitude":50.870705,
     "geom:longitude":4.33096,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Firmin Lecharlier 85",
     "sg:city":"Bruxelles (jette)",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485444,
-    "wof:geomhash":"951e67704bddda8a7d94dd4eb05c6581",
+    "wof:geomhash":"0677c7952d74125b9b149c6bead0d137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":1041841721,
-    "wof:lastmodified":1473720099,
+    "wof:lastmodified":1510941271,
     "wof:name":"Modern Car Bvba",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042049147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chauffeur",

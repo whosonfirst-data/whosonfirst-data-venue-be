@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Schomhoeveweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3956861496,51.2720794678,4.3956861496,51.2720794678",
     "geom:latitude":51.272079,
     "geom:longitude":4.395686,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schomhoeveweg 15",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473540384,
-    "wof:geomhash":"a4902456f6b5f2bf2e57817a2ef253fb",
+    "wof:geomhash":"bf3121b0ccb40eb68470ffce670a2219",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1058773075,
-    "wof:lastmodified":1473720791,
+    "wof:lastmodified":1510943162,
     "wof:name":"De Grave-antverpia",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058773339
+    ],
+    "wof:supersedes":[
+        1058063003
+    ],
     "wof:tags":[
         "chartering",
         "ship"

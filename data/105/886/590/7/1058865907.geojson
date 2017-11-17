@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2758440971,50.8720779419,4.2758440971,50.8720779419",
     "geom:latitude":50.872078,
     "geom:longitude":4.275844,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41",
     "sg:city":"Stationsstraat 1702 Groot Bijgaarden",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544403,
-    "wof:geomhash":"0a5af1fac8a9f74411157e8c5bd40758",
+    "wof:geomhash":"123c10de13969925d8e0985253c037b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058865907,
-    "wof:lastmodified":1473721663,
+    "wof:lastmodified":1510942891,
     "wof:name":"Trionic Nv",
     "wof:parent_id":85801195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041742927
+    ],
     "wof:tags":[
         "telecommunication"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.9920148849,51.0348014832,2.9920148849,51.0348014832",
     "geom:latitude":51.034801,
     "geom:longitude":2.992015,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Noordbosstraat 18",
     "sg:city":"Kortemark (handzame)",
     "sg:classifiers":[
@@ -38,16 +40,26 @@
     },
     "wof:country":"BE",
     "wof:created":1473544435,
-    "wof:geomhash":"83bc8ea245e47f5c61866dba42a894ed",
+    "wof:geomhash":"9321554cd4a6ebadb6ace17a608a597e",
     "wof:hierarchy":[],
     "wof:id":1058866703,
-    "wof:lastmodified":1473721873,
+    "wof:lastmodified":1510944050,
     "wof:name":"Elektro Robert Rigole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058767199,
+        1042205693,
+        1042173773,
+        1042174135,
+        1042174439,
+        1041931895,
+        1058659403,
+        1041742547,
+        1042209381
+    ],
     "wof:tags":[
         "installation"
     ]

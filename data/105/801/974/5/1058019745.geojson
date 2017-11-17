@@ -7,13 +7,16 @@
     "addr:postcode":"2950",
     "addr:street":"Antwerpsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.437002182,51.3017349243,4.437002182,51.3017349243",
     "geom:latitude":51.301735,
     "geom:longitude":4.437002,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpsesteenweg 280-282",
     "sg:city":"Kapellen",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473506249,
-    "wof:geomhash":"3aba36d1534ab68e0a12d39f543cf755",
+    "wof:geomhash":"a234be5a5f7aeff35e29a9062d887451",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,23 @@
         }
     ],
     "wof:id":1058019745,
-    "wof:lastmodified":1473721938,
+    "wof:lastmodified":1510943399,
     "wof:name":"Antique Auto",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058352773,
+        1058604351,
+        1058390443,
+        1058458153
+    ],
+    "wof:supersedes":[
+        1041886635,
+        1041700787,
+        1042048855,
+        1041961481
+    ],
     "wof:tags":[
         "organisation"
     ]

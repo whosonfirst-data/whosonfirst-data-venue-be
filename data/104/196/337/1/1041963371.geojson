@@ -7,13 +7,16 @@
     "addr:postcode":"9880",
     "addr:street":"Drogenbroodstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4455120564,51.0956802368,3.4455120564,51.0956802368",
     "geom:latitude":51.09568,
     "geom:longitude":3.445512,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Drogenbroodstraat 8-10",
     "sg:city":"Aalter",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473490644,
-    "wof:geomhash":"b80f79c25acdbcc3183a0995440e01bc",
+    "wof:geomhash":"65131616fb2eb828c3a77d9e71847df8",
     "wof:hierarchy":[],
     "wof:id":1041963371,
-    "wof:lastmodified":1473720894,
+    "wof:lastmodified":1510941423,
     "wof:name":"Coopman L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058331877
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeper"

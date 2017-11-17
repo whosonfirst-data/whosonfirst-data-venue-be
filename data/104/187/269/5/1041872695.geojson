@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Groot-Brittannielaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.71144104,51.0429840088,3.71144104,51.0429840088",
     "geom:latitude":51.042984,
     "geom:longitude":3.711441,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Groot-brittannielaan 8",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486767,
-    "wof:geomhash":"7102b06a7dcb746071c7912f4d817629",
+    "wof:geomhash":"7d7a8e6a3a5cd4ca5608da77b6c2c4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1041872695,
-    "wof:lastmodified":1473720451,
+    "wof:lastmodified":1510942091,
     "wof:name":"Coignez Koen",
     "wof:parent_id":85800731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041885781
+    ],
+    "wof:supersedes":[
+        1041720781,
+        1041720779
+    ],
     "wof:tags":[]
 },
   "bbox": [

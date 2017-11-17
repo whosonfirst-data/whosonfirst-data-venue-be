@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.618806839,50.714969635,4.618806839,50.714969635",
     "geom:latitude":50.71497,
     "geom:longitude":4.618807,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Bohy 6",
     "sg:city":"Wavre",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473529250,
-    "wof:geomhash":"1c58a3b0824a48d8494154f27e0b072a",
+    "wof:geomhash":"cd2f0a86ac692b93be3cf95fdcb3a56c",
     "wof:hierarchy":[],
     "wof:id":1058525533,
-    "wof:lastmodified":1473721620,
+    "wof:lastmodified":1510943053,
     "wof:name":"Davidecor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041656797
+    ],
     "wof:tags":[
         "partition"
     ]

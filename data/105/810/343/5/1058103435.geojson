@@ -7,13 +7,16 @@
     "addr:postcode":"1620",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2916607857,50.7974395752,4.2916607857,50.7974395752",
     "geom:latitude":50.79744,
     "geom:longitude":4.291661,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Groot-bijgaardenstr. 124",
     "sg:city":"Drogenbos",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509740,
-    "wof:geomhash":"dfdbb4a4a1c8af8321af6f1324d90b99",
+    "wof:geomhash":"cbc5853d02471718c588a348644c9126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058103435,
-    "wof:lastmodified":1473720143,
+    "wof:lastmodified":1510942469,
     "wof:name":"Suebel Oil Seals",
     "wof:parent_id":85801835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058399359
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

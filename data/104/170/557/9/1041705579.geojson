@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Griendeplein;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7104439735,51.0604133606,3.7104439735,51.0604133606",
     "geom:latitude":51.060413,
     "geom:longitude":3.710444,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Griendeplein 10",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479499,
-    "wof:geomhash":"eaa1f8147cee2c159012583abcd8f712",
+    "wof:geomhash":"d133380167bde9ab4765b52fc28b80a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041705579,
-    "wof:lastmodified":1473721633,
+    "wof:lastmodified":1510942472,
     "wof:name":"David Serrus",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041856979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

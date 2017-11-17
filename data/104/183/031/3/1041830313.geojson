@@ -7,13 +7,16 @@
     "addr:postcode":"4800",
     "addr:street":"Place Vieuxtemps",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8624668121,50.5852775574,5.8624668121,50.5852775574",
     "geom:latitude":50.585278,
     "geom:longitude":5.862467,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Vieuxtemps 3",
     "sg:city":"Verviers",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473484967,
-    "wof:geomhash":"55a581e268ae29fd87609b7f51ba7eec",
+    "wof:geomhash":"d796afed886af32d6f4a62689308790d",
     "wof:hierarchy":[],
     "wof:id":1041830313,
-    "wof:lastmodified":1473719380,
+    "wof:lastmodified":1510942727,
     "wof:name":"J. Theate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058929361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7335960865,50.9722709656,3.7335960865,50.9722709656",
     "geom:latitude":50.972271,
     "geom:longitude":3.733596,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint-elooistraat 21a",
     "sg:city":"Merelbeke",
     "sg:classifiers":[
@@ -38,16 +40,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473544154,
-    "wof:geomhash":"4e09eb4c40937f7e4397533e42d1f43c",
+    "wof:geomhash":"6e7e6eb663a34ec8615f19e85282cb95",
     "wof:hierarchy":[],
     "wof:id":1058859965,
-    "wof:lastmodified":1473722907,
+    "wof:lastmodified":1510942436,
     "wof:name":"Hennaux Eric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058861485,
+        1042049075
+    ],
     "wof:tags":[
         "taxi's"
     ]

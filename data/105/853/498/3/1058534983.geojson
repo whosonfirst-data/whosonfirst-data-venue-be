@@ -7,13 +7,16 @@
     "addr:postcode":"3000",
     "addr:street":"Diestsevest",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7140460014,50.8826942444,4.7140460014,50.8826942444",
     "geom:latitude":50.882694,
     "geom:longitude":4.714046,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Diestsevest 14",
     "sg:city":"Leuven",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473529708,
-    "wof:geomhash":"384f6ea0f7a463e2aaf84564b6e613ae",
+    "wof:geomhash":"5e3b4b72987f29dead86a81772860651",
     "wof:hierarchy":[],
     "wof:id":1058534983,
-    "wof:lastmodified":1473721422,
+    "wof:lastmodified":1510943792,
     "wof:name":"Acerta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058795389,
+        1058761403,
+        1058789365
+    ],
+    "wof:supersedes":[
+        1058276453
+    ],
     "wof:tags":[
         "personnel",
         "-selection",

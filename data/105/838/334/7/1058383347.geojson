@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4316191673,50.8777885437,4.4316191673,50.8777885437",
     "geom:latitude":50.877789,
     "geom:longitude":4.431619,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Du Bourget 40",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522503,
-    "wof:geomhash":"3d008efd98ced982f39b03d995615395",
+    "wof:geomhash":"081148f33fa80de64c4bf404a9e276e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":1058383347,
-    "wof:lastmodified":1473720879,
+    "wof:lastmodified":1510942389,
     "wof:name":"Kpmg Accountants",
     "wof:parent_id":85801045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041694679,
+        1041970529
+    ],
     "wof:tags":[
         "consultant"
     ]

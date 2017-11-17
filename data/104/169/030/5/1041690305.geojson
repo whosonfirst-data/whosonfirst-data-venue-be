@@ -7,13 +7,16 @@
     "addr:postcode":"2150",
     "addr:street":"Eugeen Verelstlei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4932851791,51.1968612671,4.4932851791,51.1968612671",
     "geom:latitude":51.196861,
     "geom:longitude":4.493285,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Eugeen Verelstlei 48b1",
     "sg:city":"Borsbeek",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478914,
-    "wof:geomhash":"19283803863a71d38ad9c37d815a1a3e",
+    "wof:geomhash":"98929edd10de14fddefff3181d9d30a4",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041690305,
-    "wof:lastmodified":1473719363,
+    "wof:lastmodified":1510941305,
     "wof:name":"Marc Joris",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058024119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Boulevard De La Sauvenie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5659041405,50.6435165405,5.5659041405,50.6435165405",
     "geom:latitude":50.643517,
     "geom:longitude":5.565904,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De La Sauveni\u00e8re 84",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534792,
-    "wof:geomhash":"0dc06c77c155266fc2d08833d358858c",
+    "wof:geomhash":"f143a1be7b4b32ec464fb420d05e04da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,20 @@
         }
     ],
     "wof:id":1058646653,
-    "wof:lastmodified":1473721947,
+    "wof:lastmodified":1510942775,
     "wof:name":"At & T - Belgium Telecom",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058763049,
+        1058865943,
+        1058866291,
+        1058866421
+    ],
+    "wof:supersedes":[
+        1042143765
+    ],
     "wof:tags":[
         "telephony"
     ]

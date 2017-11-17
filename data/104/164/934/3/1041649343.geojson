@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5253558159,50.6730155945,5.5253558159,50.6730155945",
     "geom:latitude":50.673016,
     "geom:longitude":5.525356,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Du Progres 10",
     "sg:city":"Alleur",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477319,
-    "wof:geomhash":"c08b390fe8722216653158a0f91eff9b",
+    "wof:geomhash":"2159013e80a3f2e9f608d7a473b49386",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":1041649343,
-    "wof:lastmodified":1473722746,
+    "wof:lastmodified":1510942779,
     "wof:name":"Procim Industrie S.a.",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041612671
+    ],
     "wof:tags":[
         "production",
         "system",

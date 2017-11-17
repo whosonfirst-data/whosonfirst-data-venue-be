@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Av Molie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3435587883,50.8153953552,4.3435587883,50.8153953552",
     "geom:latitude":50.815395,
     "geom:longitude":4.343559,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Moli\u00e8re 97",
     "sg:city":"Forest",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474533,
-    "wof:geomhash":"07c974a80a6c6bca20cd83151b8daf36",
+    "wof:geomhash":"8850ae6c93dcc021af4026ba8d0490f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041582089,
-    "wof:lastmodified":1473720240,
+    "wof:lastmodified":1510942851,
     "wof:name":"Trafic Et Stationnement Sa",
     "wof:parent_id":85801049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058522907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic",

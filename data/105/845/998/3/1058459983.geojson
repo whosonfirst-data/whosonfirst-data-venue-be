@@ -7,13 +7,16 @@
     "addr:postcode":"6043",
     "addr:street":"Rue De La Station",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4859671593,50.4564666748,4.4859671593,50.4564666748",
     "geom:latitude":50.456467,
     "geom:longitude":4.485967,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Station 60",
     "sg:city":"Charleroi (ransart)",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473526197,
-    "wof:geomhash":"70a23ae106cec77e4c7c2d6193f06ae9",
+    "wof:geomhash":"1e795a7771f7e606158d5a36fa5f7118",
     "wof:hierarchy":[],
     "wof:id":1058459983,
-    "wof:lastmodified":1473722869,
+    "wof:lastmodified":1510942881,
     "wof:name":"Budget Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058755053
+    ],
+    "wof:supersedes":[
+        1058087253,
+        1058354755,
+        1041971215
+    ],
     "wof:tags":[]
 },
   "bbox": [

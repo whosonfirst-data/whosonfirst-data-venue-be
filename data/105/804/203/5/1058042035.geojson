@@ -7,13 +7,16 @@
     "addr:postcode":"3000",
     "addr:street":"Tiensesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7407131195,50.8674697876,4.7407131195,50.8674697876",
     "geom:latitude":50.86747,
     "geom:longitude":4.740713,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tiensesteenweg 386",
     "sg:city":"Leuven",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473507189,
-    "wof:geomhash":"4fe2e6bb383d75e8a3beab2560bcc49c",
+    "wof:geomhash":"1cec26d4ee98a1e8bea79f2cef0ef384",
     "wof:hierarchy":[],
     "wof:id":1058042035,
-    "wof:lastmodified":1473720251,
+    "wof:lastmodified":1510942962,
     "wof:name":"Standard Ahz Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058832919,
+        1058376187,
+        1058058453,
+        1058041969
+    ],
+    "wof:supersedes":[
+        1041913155
+    ],
     "wof:tags":[
         "fireplace"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"2220",
     "addr:street":"Schoorstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7139787674,51.0589103699,4.7139787674,51.0589103699",
     "geom:latitude":51.05891,
     "geom:longitude":4.713979,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schoorstraat 40",
     "sg:city":"Heist-op-den-berg",
     "sg:classifiers":[
@@ -39,16 +42,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473545584,
-    "wof:geomhash":"635d6c71c4d27df43787a6b5696f4a8e",
+    "wof:geomhash":"426e325d41b7cf22e0f658fb9bd8b2dd",
     "wof:hierarchy":[],
     "wof:id":1058892817,
-    "wof:lastmodified":1473720758,
+    "wof:lastmodified":1510944019,
     "wof:name":"P Van Egdom-marien & Co Nv-sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058896279
+    ],
+    "wof:supersedes":[
+        1042092467
+    ],
     "wof:tags":[
         "-",
         "transport"

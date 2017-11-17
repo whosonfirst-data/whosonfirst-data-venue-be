@@ -7,13 +7,16 @@
     "addr:postcode":"1653",
     "addr:street":"Alsembergsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2991251945,50.7301254272,4.2991251945,50.7301254272",
     "geom:latitude":50.730125,
     "geom:longitude":4.299125,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alsembergsesteenweg 580",
     "sg:city":"Beersel (dworp)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473337,
-    "wof:geomhash":"c22f1fbafb1162b2ec242cc575a260de",
+    "wof:geomhash":"ee833c4154c5d27a84c9cb78284ef7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041553435,
-    "wof:lastmodified":1473720884,
+    "wof:lastmodified":1510943935,
     "wof:name":"Cleo",
     "wof:parent_id":85801039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058522591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5144748688,50.7222442627,4.5144748688,50.7222442627",
     "geom:latitude":50.722244,
     "geom:longitude":4.514475,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Rixensart 18",
     "sg:city":"Rixensart",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473521523,
-    "wof:geomhash":"04543055306f0c81ec6879a86b963f5b",
+    "wof:geomhash":"b2e83e108831d1bb5433de95ba0bf72a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":1058362129,
-    "wof:lastmodified":1473720323,
+    "wof:lastmodified":1510942371,
     "wof:name":"Bas Vid\u00c9o Club",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041677039
+    ],
     "wof:tags":[
         "de",
         "cassette",

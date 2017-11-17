@@ -7,13 +7,16 @@
     "addr:postcode":"4432",
     "addr:street":"Rue Des Charrons",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5058398247,50.6691131592,5.5058398247,50.6691131592",
     "geom:latitude":50.669113,
     "geom:longitude":5.50584,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Charrons 46",
     "sg:city":"Ans (alleur)",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473528578,
-    "wof:geomhash":"d938f3c2607d144b87267c31fd2c4c5c",
+    "wof:geomhash":"ef47b0158465591506430d260ed45445",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,13 +58,21 @@
         }
     ],
     "wof:id":1058511041,
-    "wof:lastmodified":1473719725,
+    "wof:lastmodified":1510943677,
     "wof:name":"Association Travieso",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058842937
+    ],
+    "wof:supersedes":[
+        1058510687,
+        1058052561,
+        1058406749,
+        1058034215,
+        1041942009
+    ],
     "wof:tags":[
         "painting",
         "contractor"

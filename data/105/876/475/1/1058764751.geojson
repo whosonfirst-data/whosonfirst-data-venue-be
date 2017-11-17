@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4161667824,50.9103012085,4.4161667824,50.9103012085",
     "geom:latitude":50.910301,
     "geom:longitude":4.416167,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schaarbeeklei 600",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539985,
-    "wof:geomhash":"8d1dcffd1dd0ea7c2df611134d3eee28",
+    "wof:geomhash":"bd768f29a757cc6235cf692e166538b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058764751,
-    "wof:lastmodified":1473721382,
+    "wof:lastmodified":1510943851,
     "wof:name":"Octa+ Nv",
     "wof:parent_id":85801085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058081383
+    ],
     "wof:tags":[]
 },
   "bbox": [

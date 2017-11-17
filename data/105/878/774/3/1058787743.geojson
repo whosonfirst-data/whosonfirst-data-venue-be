@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6367759705,51.2722320557,4.6367759705,51.2722320557",
     "geom:latitude":51.272232,
     "geom:longitude":4.636776,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bethani\u00ebnlei 91",
     "sg:city":"Zoersel",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473540988,
-    "wof:geomhash":"1991f6cc502466f08d9ba1e928388e36",
+    "wof:geomhash":"456c7c08d848a36a18355d60dec2f1ee",
     "wof:hierarchy":[],
     "wof:id":1058787743,
-    "wof:lastmodified":1473722303,
+    "wof:lastmodified":1510942769,
     "wof:name":"La Luna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058353717
+    ],
     "wof:tags":[
         "snack-bars"
     ]

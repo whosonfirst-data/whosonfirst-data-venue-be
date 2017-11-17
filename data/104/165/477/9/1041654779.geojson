@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Chausse\u0301E De Louvain",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3939828873,50.8540878296,4.3939828873,50.8540878296",
     "geom:latitude":50.854088,
     "geom:longitude":4.393983,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Louvain 437",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477526,
-    "wof:geomhash":"21a89b6e6a78a399154d3f05a296d017",
+    "wof:geomhash":"fc0c8120fd21ee5d541ac8a3a4e3dda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041654779,
-    "wof:lastmodified":1473721382,
+    "wof:lastmodified":1510943574,
     "wof:name":"R\u00e9sidence Elisabeth",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058378465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7080259323,51.0351715088,3.7080259323,51.0351715088",
     "geom:latitude":51.035172,
     "geom:longitude":3.708026,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-denijslaan 201",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480112,
-    "wof:geomhash":"0ac7843b338c816080ce86a8a26cb0fb",
+    "wof:geomhash":"c93b3d05b2400000deb2284481010bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":1041720937,
-    "wof:lastmodified":1473719736,
+    "wof:lastmodified":1510943623,
     "wof:name":"De Mot Nicolas",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041885831,
+        1058336969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

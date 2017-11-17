@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Avenue Guillaume Abeloos",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4213891029,50.8414611816,4.4213891029,50.8414611816",
     "geom:latitude":50.841461,
     "geom:longitude":4.421389,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Guillaume Abeloos 35",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475838,
-    "wof:geomhash":"64593697cb52ead69bd4d199e09e7698",
+    "wof:geomhash":"be6de0da0e5e943649b6aedc399c563d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041613291,
-    "wof:lastmodified":1473720890,
+    "wof:lastmodified":1510941472,
     "wof:name":"The Ast Company S.p.r.l.",
     "wof:parent_id":85801913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058385345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

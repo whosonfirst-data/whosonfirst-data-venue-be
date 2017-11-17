@@ -7,13 +7,16 @@
     "addr:postcode":"8340",
     "addr:street":"Dorpsstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3170089722,51.2025756836,3.3170089722,51.2025756836",
     "geom:latitude":51.202576,
     "geom:longitude":3.317009,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dorpsstraat 173",
     "sg:city":"Damme (sijsele)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507586,
-    "wof:geomhash":"e518f7ed1e8ad734a5bf3f90d249e268",
+    "wof:geomhash":"c966bd80182882ac9d1a7718f41528e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1058052081,
-    "wof:lastmodified":1473720349,
+    "wof:lastmodified":1510943773,
     "wof:name":"Tamsin Marmerdesign",
     "wof:parent_id":85800777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058386355,
+        1058877511,
+        1058828289,
+        1058386893
+    ],
+    "wof:supersedes":[
+        1058041985
+    ],
     "wof:tags":[
         "layer",
         "mosaicists"

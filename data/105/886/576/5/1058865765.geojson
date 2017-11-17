@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4206228256,50.8851318359,4.4206228256,50.8851318359",
     "geom:latitude":50.885132,
     "geom:longitude":4.420623,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9",
     "sg:city":"Rue Du Bassin Collecteur 1130 Haren Bruxelles",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544392,
-    "wof:geomhash":"3b961b194eb562e8517567466eea4273",
+    "wof:geomhash":"f37488bffb83a04b1f3d671af8192d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1058865765,
-    "wof:lastmodified":1473721618,
+    "wof:lastmodified":1510942903,
     "wof:name":"Copel Sa",
     "wof:parent_id":85801223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041663565
+    ],
     "wof:tags":[
         "telecommunication"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue De Stalle;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3356838226,50.8001213074,4.3356838226,50.8001213074",
     "geom:latitude":50.800121,
     "geom:longitude":4.335684,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Stalle 7",
     "sg:city":"Ukkel/uccle",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475751,
-    "wof:geomhash":"0c462a347fdfc7359b9765d4f103f4a6",
+    "wof:geomhash":"f1f17e11fa50d9c239e33a210eac6a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041611179,
-    "wof:lastmodified":1473719825,
+    "wof:lastmodified":1510942565,
     "wof:name":"M.b.m.",
     "wof:parent_id":85801951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058625853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

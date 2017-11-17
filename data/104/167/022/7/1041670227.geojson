@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Boulevard Du Re\u0301Gent",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3687009811,50.8484725952,4.3687009811,50.8484725952",
     "geom:latitude":50.848473,
     "geom:longitude":4.368701,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Du R\u00e9gent 55",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478161,
-    "wof:geomhash":"8b9cedcf71309db8874dc9ed8a734d42",
+    "wof:geomhash":"1e040967881c24252c9350c943849f77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041670227,
-    "wof:lastmodified":1473718952,
+    "wof:lastmodified":1510944062,
     "wof:name":"Ventelo Belgium Sa",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058865689
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication",

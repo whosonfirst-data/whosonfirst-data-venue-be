@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3966879845,50.842754364,4.3966879845,50.842754364",
     "geom:latitude":50.842754,
     "geom:longitude":4.396688,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue G\u00c9rard 11",
     "sg:city":"Etterbeek",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539275,
-    "wof:geomhash":"4ed223fbe63ad04996bf16af08ff61c2",
+    "wof:geomhash":"d2318372edadd2e6faf5ffcdf4378fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":1058748721,
-    "wof:lastmodified":1473722572,
+    "wof:lastmodified":1510941789,
     "wof:name":"Centre Biosth\u00c9tique",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058132599,
+        1041916153,
+        1058137333
+    ],
     "wof:tags":[]
 },
   "bbox": [

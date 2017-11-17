@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3366007805,50.8272438049,4.3366007805,50.8272438049",
     "geom:latitude":50.827244,
     "geom:longitude":4.336601,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Mont\u00c9n\u00c9gro 54",
     "sg:city":"Sint-gillis",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534750,
-    "wof:geomhash":"1607cd28395fa74039b60b5004411eb1",
+    "wof:geomhash":"108c7456a6ef988c0407d65ebaf806fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058645681,
-    "wof:lastmodified":1473721611,
+    "wof:lastmodified":1510943724,
     "wof:name":"S\u00c9n\u00c9chal F. & Fils",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041630593
+    ],
     "wof:tags":[]
 },
   "bbox": [

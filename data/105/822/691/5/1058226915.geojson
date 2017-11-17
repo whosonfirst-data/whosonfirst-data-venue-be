@@ -7,13 +7,16 @@
     "addr:postcode":"1800",
     "addr:street":"Steenstraat;Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3804030418,50.9064025879,4.3804030418,50.9064025879",
     "geom:latitude":50.906403,
     "geom:longitude":4.380403,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Steenstraat 20 Box 1",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473515393,
-    "wof:geomhash":"760760f9a78671b7aad1fea3b0556b74",
+    "wof:geomhash":"b95a3a7de728f6c6addc6bb626a7b9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,23 @@
         }
     ],
     "wof:id":1058226915,
-    "wof:lastmodified":1473721991,
+    "wof:lastmodified":1510943456,
     "wof:name":"Iss Facility Services",
     "wof:parent_id":85801659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968793,
+        1058659099,
+        1058703375,
+        1058513039,
+        1058287583
+    ],
+    "wof:supersedes":[
+        1042184353,
+        1058034549,
+        1042067557
+    ],
     "wof:tags":[
         "-",
         "industrial",

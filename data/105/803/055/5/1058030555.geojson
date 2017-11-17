@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6449608803,50.6869087219,5.6449608803,50.6869087219",
     "geom:latitude":50.686909,
     "geom:longitude":5.644961,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rue Basse Campagne 41",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1196688136,
         "sg:id":"SG_5yWLUdvbPqS1VXGPMoqxQy_50.686909_5.644961@1306268430"
     },
     "wof:country":"BE",
     "wof:created":1473506715,
-    "wof:geomhash":"5760b1cec74883f39fb4063bc5ff446e",
+    "wof:geomhash":"3f6c36bf62ae2f65747788b1522720e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058030555,
-    "wof:lastmodified":1473719490,
+    "wof:lastmodified":1510943665,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85800909,
     "wof:placetype":"venue",

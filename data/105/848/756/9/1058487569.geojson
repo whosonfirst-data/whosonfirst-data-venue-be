@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.810505867,50.5340156555,5.810505867,50.5340156555",
     "geom:latitude":50.534016,
     "geom:longitude":5.810506,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Chauss\u00e9e 23",
     "sg:city":"Theux",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473527497,
-    "wof:geomhash":"332f486f8a6a71d06d06868341781537",
+    "wof:geomhash":"16445cf84df37e9f03ab339163e6c2e0",
     "wof:hierarchy":[],
     "wof:id":1058487569,
-    "wof:lastmodified":1473722263,
+    "wof:lastmodified":1510942711,
     "wof:name":"Robinet B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041638963
+    ],
     "wof:tags":[
         "-"
     ]

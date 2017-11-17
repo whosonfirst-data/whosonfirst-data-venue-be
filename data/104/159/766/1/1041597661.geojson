@@ -7,13 +7,16 @@
     "addr:postcode":"1410",
     "addr:street":"Av Le\u0301Opold Iii",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.395067215,50.7229766846,4.395067215,50.7229766846",
     "geom:latitude":50.722977,
     "geom:longitude":4.395067,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av L\u00e9opold Iii 18",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475195,
-    "wof:geomhash":"a705e5a2f3ced0cfba1cfd9b54b6e7a9",
+    "wof:geomhash":"dc63dfc64df2cbf1ce592184d65be651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041597661,
-    "wof:lastmodified":1473722193,
+    "wof:lastmodified":1510942010,
     "wof:name":"Black Bird Sa",
     "wof:parent_id":85800903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058459491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

@@ -7,13 +7,16 @@
     "addr:postcode":"120-126;8560",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1865749359,50.8581581116,3.1865749359,50.8581581116",
     "geom:latitude":50.858158,
     "geom:longitude":3.186575,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Driemasten 120-126",
     "sg:city":"Wevelgem (gullegem)",
     "sg:classifiers":[
@@ -39,16 +42,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473512094,
-    "wof:geomhash":"137f88fa52d60c47cc71bc889264fa51",
+    "wof:geomhash":"433b5b8f273beaee39dd1ed35131a345",
     "wof:hierarchy":[],
     "wof:id":1058152147,
-    "wof:lastmodified":1473720271,
+    "wof:lastmodified":1510944181,
     "wof:name":"Bolintrans-thermote & Vanhalst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058659747,
+        1058061225,
+        1058991661,
+        1058420615
+    ],
+    "wof:supersedes":[
+        1058151109
+    ],
     "wof:tags":[
         "handtrucks",
         "barrow"

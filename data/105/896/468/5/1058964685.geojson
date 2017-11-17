@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5866470337,50.6285743713,5.5866470337,50.6285743713",
     "geom:latitude":50.628574,
     "geom:longitude":5.586647,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Bld Frankignoul 5",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473548980,
-    "wof:geomhash":"1f15c27288f04b81c7c7c4a009099b83",
+    "wof:geomhash":"d70c9e217bf7088d3983c0a887f7e46b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,13 +73,26 @@
         }
     ],
     "wof:id":1058964685,
-    "wof:lastmodified":1473721266,
+    "wof:lastmodified":1510941372,
     "wof:name":"Deravet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058963087,
+        1058041803,
+        1041739279,
+        1058832761,
+        1058964341,
+        1042063187,
+        1042201097,
+        1058656649,
+        1058103305,
+        1058175721,
+        1058592137,
+        1058183121
+    ],
     "wof:tags":[
         "softener"
     ]

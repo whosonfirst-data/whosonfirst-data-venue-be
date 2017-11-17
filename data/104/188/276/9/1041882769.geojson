@@ -7,13 +7,16 @@
     "addr:postcode":"1081",
     "addr:street":"Rue Van Bergen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3315839767,50.8615722656,4.3315839767,50.8615722656",
     "geom:latitude":50.861572,
     "geom:longitude":4.331584,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Van Bergen 18",
     "sg:city":"Bruxelles (koekelberg)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487199,
-    "wof:geomhash":"70eb7fd3024d28a5d5b25cfc23da8781",
+    "wof:geomhash":"eab3c597411e7e4b44e5031d3e5b0c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041882769,
-    "wof:lastmodified":1473720732,
+    "wof:lastmodified":1510941984,
     "wof:name":"Mannedor Sa",
     "wof:parent_id":85801385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041990043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "confectioner",

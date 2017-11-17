@@ -7,13 +7,16 @@
     "addr:postcode":"7500",
     "addr:street":"Quai Donat Casterman",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.378770113,50.6171607971,3.378770113,50.6171607971",
     "geom:latitude":50.617161,
     "geom:longitude":3.37877,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Quai Donat Casterman 57",
     "sg:city":"Tournai",
     "sg:classifiers":[
@@ -37,16 +40,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473539443,
-    "wof:geomhash":"289f2521184b85baed16bf630c91cdee",
+    "wof:geomhash":"1314f744b649aaaf2e6d79cada19cc8e",
     "wof:hierarchy":[],
     "wof:id":1058752687,
-    "wof:lastmodified":1473720489,
+    "wof:lastmodified":1510943292,
     "wof:name":"Translomat Sa-thiebaut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058890317,
+        1058991789
+    ],
+    "wof:supersedes":[
+        1058061391,
+        1041942203,
+        1042209143,
+        1042092485
+    ],
     "wof:tags":[
         "scaffolding"
     ]

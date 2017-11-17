@@ -7,13 +7,16 @@
     "addr:postcode":"6110",
     "addr:street":"Rue Des Fouge\u0300Res",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3558359146,50.3732337952,4.3558359146,50.3732337952",
     "geom:latitude":50.373234,
     "geom:longitude":4.355836,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Foug\u00c8res 85",
     "sg:city":"Montigny-le-tilleul",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473476894,
-    "wof:geomhash":"a5822dcb550ff26bbf2ca362f2429233",
+    "wof:geomhash":"2dfed2b9cfe50705f7670502851645bb",
     "wof:hierarchy":[],
     "wof:id":1041639479,
-    "wof:lastmodified":1473722835,
+    "wof:lastmodified":1510943951,
     "wof:name":"D\u00c9fi Nature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042275881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organisation"

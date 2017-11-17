@@ -7,13 +7,16 @@
     "addr:postcode":"4032",
     "addr:street":"Rue Des Grands-Pre\u0301S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.623942852,50.6047897339,5.623942852,50.6047897339",
     "geom:latitude":50.60479,
     "geom:longitude":5.623943,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Grands-pr\u00e9s 284",
     "sg:city":"Li\u00e8ge 1 (ch\u00ean\u00e9e)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473442,
-    "wof:geomhash":"941018a49d74dd9958c6af6eec60e9a9",
+    "wof:geomhash":"2fbab11e892df9ef1d89ed7ca40c294f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041555999,
-    "wof:lastmodified":1473721685,
+    "wof:lastmodified":1510943019,
     "wof:name":"I.n.r Bodson Sa",
     "wof:parent_id":85800991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041914435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"

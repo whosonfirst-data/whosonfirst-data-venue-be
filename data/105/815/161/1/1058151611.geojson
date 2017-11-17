@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Rue D'Angleterre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3434867859,50.8297462463,4.3434867859,50.8297462463",
     "geom:latitude":50.829746,
     "geom:longitude":4.343487,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue D'angleterre 57",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473512065,
-    "wof:geomhash":"f683adcbe1bf2db74ccaf714f0d3f85d",
+    "wof:geomhash":"e91e68e28848962921dfb31fa3fc0df2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058151611,
-    "wof:lastmodified":1473719981,
+    "wof:lastmodified":1510943063,
     "wof:name":"Ligue Braille Asbl",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058792763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped",

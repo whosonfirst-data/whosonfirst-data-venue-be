@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Boulevard Fre\u0300Re-Orban",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5710778236,50.6338500977,5.5710778236,50.6338500977",
     "geom:latitude":50.63385,
     "geom:longitude":5.571078,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Fr\u00e8re-orban 18",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475791,
-    "wof:geomhash":"dccbb625af7aaf13ddcf8731838a2bda",
+    "wof:geomhash":"569e498155ea71e07924685bfa80f7da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041612259,
-    "wof:lastmodified":1473720390,
+    "wof:lastmodified":1510943047,
     "wof:name":"Sgpmi Sa",
     "wof:parent_id":85801883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041565855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "import",

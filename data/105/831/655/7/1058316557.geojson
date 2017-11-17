@@ -7,13 +7,16 @@
     "addr:postcode":"8500",
     "addr:street":"President Kennedypark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2732419968,50.8029060364,3.2732419968,50.8029060364",
     "geom:latitude":50.802906,
     "geom:longitude":3.273242,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"President Kennedypark 2",
     "sg:city":"Kortrijk",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473519327,
-    "wof:geomhash":"0512e477c6cb6d3c31fa099ef1ca0aca",
+    "wof:geomhash":"e70243184823b9e652bbeb919e7995d0",
     "wof:hierarchy":[],
     "wof:id":1058316557,
-    "wof:lastmodified":1473721985,
+    "wof:lastmodified":1510941580,
     "wof:name":"Babysitdienst Bond Moyson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058316657
+    ],
+    "wof:supersedes":[
+        1042092925,
+        1058096201
+    ],
     "wof:tags":[]
 },
   "bbox": [

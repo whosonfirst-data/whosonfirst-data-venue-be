@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4121389389,50.880569458,3.4121389389,50.880569458",
     "geom:latitude":50.880569,
     "geom:longitude":3.412139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Hoogmolenwegel 21",
     "sg:city":"Waregem",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473545091,
-    "wof:geomhash":"ac79097f54466b68f7ba28a3b472c126",
+    "wof:geomhash":"3fa98b59d3f970759e16dcf9c379ecb9",
     "wof:hierarchy":[],
     "wof:id":1058881675,
-    "wof:lastmodified":1473720026,
+    "wof:lastmodified":1510941709,
     "wof:name":"G.d.w. Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058355183,
+        1058371733
+    ],
     "wof:tags":[
         "coupling",
         "trailer"

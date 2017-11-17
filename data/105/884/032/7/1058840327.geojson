@@ -45,13 +45,18 @@
     "wof:geomhash":"619b29e668dd0456016bb25f89a8c31c",
     "wof:hierarchy":[],
     "wof:id":1058840327,
-    "wof:lastmodified":1510874220,
+    "wof:lastmodified":1510942183,
     "wof:name":"Covee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058059581,
+        1058058619,
+        1058617527,
+        1042145265
+    ],
     "wof:tags":[
         "department",
         "store"

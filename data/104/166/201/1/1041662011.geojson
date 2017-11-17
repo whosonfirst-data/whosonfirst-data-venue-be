@@ -7,13 +7,16 @@
     "addr:postcode":"1410",
     "addr:street":"Chausse\u0301E De Tervuren",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4077401161,50.7100296021,4.4077401161,50.7100296021",
     "geom:latitude":50.71003,
     "geom:longitude":4.40774,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Tervuren 198",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -35,20 +38,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":307174086,
         "sg:id":"SG_4dCVF87ye1LD13iGSCxR2d_50.710030_4.407740@1306268567"
     },
     "wof:country":"BE",
     "wof:created":1473477832,
-    "wof:geomhash":"b3c1668610a6409cd9b19b47c6e3e43d",
+    "wof:geomhash":"da5358d043fd55a0abac9a031c8bcd6b",
     "wof:hierarchy":[],
     "wof:id":1041662011,
-    "wof:lastmodified":1473720251,
+    "wof:lastmodified":1510943202,
     "wof:name":"Grand H\u00f4tel Waterloo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058205907
+    ],
+    "wof:supersedes":[
+        1058205907
+    ],
     "wof:tags":[
         "organisation",
         "seminar"

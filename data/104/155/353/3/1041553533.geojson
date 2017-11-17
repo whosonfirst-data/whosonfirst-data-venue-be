@@ -7,13 +7,16 @@
     "addr:postcode":"1229;1180",
     "addr:street":"Chausse\u0301E D'Alsemberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3284039497,50.7852668762,4.3284039497,50.7852668762",
     "geom:latitude":50.785267,
     "geom:longitude":4.328404,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e D'alsemberg 1229",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473341,
-    "wof:geomhash":"84caff51378fb40e87dc641da631d82b",
+    "wof:geomhash":"86eecdf8ddf92a98b2f763f39bf4e151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041553533,
-    "wof:lastmodified":1473720911,
+    "wof:lastmodified":1510943234,
     "wof:name":"Grain De Beaut\u00e9",
     "wof:parent_id":85801925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058756231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

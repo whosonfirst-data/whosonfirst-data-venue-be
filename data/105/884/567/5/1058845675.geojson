@@ -7,13 +7,16 @@
     "addr:postcode":"8530",
     "addr:street":"Venetielaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2984600067,50.8340606689,3.2984600067,50.8340606689",
     "geom:latitude":50.834061,
     "geom:longitude":3.29846,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Venetielaan 40",
     "sg:city":"Harelbeke",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473543553,
-    "wof:geomhash":"8e15de248e7ce05abc0f34e51696bce8",
+    "wof:geomhash":"f9643df60b91d3d7a515bbee46afa313",
     "wof:hierarchy":[],
     "wof:id":1058845675,
-    "wof:lastmodified":1473721711,
+    "wof:lastmodified":1510943189,
     "wof:name":"Aqua Service Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058964847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "swimming-pool"

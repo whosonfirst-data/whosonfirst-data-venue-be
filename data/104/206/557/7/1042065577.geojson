@@ -7,13 +7,16 @@
     "addr:postcode":"2440",
     "addr:street":"Pas",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.988134861,51.15832901,4.988134861,51.15832901",
     "geom:latitude":51.158329,
     "geom:longitude":4.988135,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pas 121",
     "sg:city":"Geel",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473494894,
-    "wof:geomhash":"06765e7d12e24a7f2e1847bea99ed3e6",
+    "wof:geomhash":"3f766eee72384291b065c43b8ad8bac3",
     "wof:hierarchy":[],
     "wof:id":1042065577,
-    "wof:lastmodified":1473721715,
+    "wof:lastmodified":1510943122,
     "wof:name":"Sweet Heart Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042065737
+    ],
+    "wof:supersedes":[
+        1041884459
+    ],
     "wof:tags":[
         "confectionery",
         "-"

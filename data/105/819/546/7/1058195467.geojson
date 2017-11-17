@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5082201958,50.6128807068,5.5082201958,50.6128807068",
     "geom:latitude":50.612881,
     "geom:longitude":5.50822,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Commerce 14",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514011,
-    "wof:geomhash":"1dc7a4305c8c4356834597ab7dcc9542",
+    "wof:geomhash":"3b0b929761748eeaf7d623a4e6ce4050",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058195467,
-    "wof:lastmodified":1473721525,
+    "wof:lastmodified":1510942933,
     "wof:name":"H.e.p.l. Rennequin Sualem",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042266019
+    ],
     "wof:tags":[]
 },
   "bbox": [

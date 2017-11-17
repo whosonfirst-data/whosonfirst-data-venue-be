@@ -7,13 +7,16 @@
     "addr:postcode":"6700",
     "addr:street":"Place Camille-Cerf",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8150868416,49.6842842102,5.8150868416,49.6842842102",
     "geom:latitude":49.684284,
     "geom:longitude":5.815087,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Camille-cerf 4",
     "sg:city":"Arlon",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474611,
-    "wof:geomhash":"830e223b3188cda780e0f89094037e62",
+    "wof:geomhash":"13b19a654abf89319b21e01ff77d79cd",
     "wof:hierarchy":[],
     "wof:id":1041583883,
-    "wof:lastmodified":1473721165,
+    "wof:lastmodified":1510942304,
     "wof:name":"I C M Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058618141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

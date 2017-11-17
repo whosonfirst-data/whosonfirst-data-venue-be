@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3541722298,51.1980361938,4.3541722298,51.1980361938",
     "geom:latitude":51.198036,
     "geom:longitude":4.354172,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"D'herbouvillekaai 100",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499192,
-    "wof:geomhash":"33e06e5914d5953a97f7fff813d64f26",
+    "wof:geomhash":"69c1327b352a7263102acaf4e0c6d9dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":1042153505,
-    "wof:lastmodified":1473720990,
+    "wof:lastmodified":1510942600,
     "wof:name":"Alca Petroleum Company Nv",
     "wof:parent_id":85801273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042056797
+    ],
     "wof:tags":[
         "containing",
         "industrial",

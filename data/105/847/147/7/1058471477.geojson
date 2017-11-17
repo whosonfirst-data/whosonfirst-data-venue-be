@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3339967728,50.7912139893,4.3339967728,50.7912139893",
     "geom:latitude":50.791214,
     "geom:longitude":4.333997,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dieweg 3",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526748,
-    "wof:geomhash":"0b8dd6503819413b9c02b0849b8456a3",
+    "wof:geomhash":"1dda513cf752907612da57998579216e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,16 @@
         }
     ],
     "wof:id":1058471477,
-    "wof:lastmodified":1473719979,
+    "wof:lastmodified":1510943270,
     "wof:name":"Schneider Electric Sa",
     "wof:parent_id":85801925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058226167,
+        1042209431
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"2100",
     "addr:street":"Merksemsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4256958961,51.235748291,4.4256958961,51.235748291",
     "geom:latitude":51.235748,
     "geom:longitude":4.425696,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merksemsesteenweg 40",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514771,
-    "wof:geomhash":"dddb82f4ebd10370ff251f23b93632f2",
+    "wof:geomhash":"a0997a1f83b726f5ecc8d7182a3ca1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,22 @@
         }
     ],
     "wof:id":1058212797,
-    "wof:lastmodified":1473720533,
+    "wof:lastmodified":1510944028,
     "wof:name":"Kathrein",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058865591,
+        1058646707,
+        1058453635
+    ],
+    "wof:supersedes":[
+        1041752775,
+        1042213663,
+        1041842911,
+        1042211499
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.22479105,51.2115211487,3.22479105,51.2115211487",
     "geom:latitude":51.211521,
     "geom:longitude":3.224791,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Academiestraat 19",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2379296843,
         "sg:id":"SG_2IHMbovbnSYd0HHXIIs4YX_51.211521_3.224791@1306268388"
     },
     "wof:country":"BE",
     "wof:created":1473494861,
-    "wof:geomhash":"12e306c8aa5d10af065922aec765c37a",
+    "wof:geomhash":"f27cd2cad479b128f690f6f66244fbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1042064837,
-    "wof:lastmodified":1473721461,
+    "wof:lastmodified":1510942299,
     "wof:name":"De Clerck",
     "wof:parent_id":85862117,
     "wof:placetype":"venue",

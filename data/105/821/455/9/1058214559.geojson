@@ -7,13 +7,16 @@
     "addr:postcode":"1090",
     "addr:street":"Avenue De Levis Mirepoix",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.330728054,50.8714256287,4.330728054,50.8714256287",
     "geom:latitude":50.871426,
     "geom:longitude":4.330728,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Levis Mirepoix 76",
     "sg:city":"Bruxelles (jette)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514854,
-    "wof:geomhash":"381ae7d2186d76a7c4077d1ac7d98761",
+    "wof:geomhash":"f9748120b0310932868ae378532ae9b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,20 @@
         }
     ],
     "wof:id":1058214559,
-    "wof:lastmodified":1473721288,
+    "wof:lastmodified":1510943438,
     "wof:name":"Tsn Sprl",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058917891,
+        1058473063
+    ],
+    "wof:supersedes":[
+        1041739989,
+        1042210245,
+        1058202377
+    ],
     "wof:tags":[
         "humidifiers",
         "dehydrating",

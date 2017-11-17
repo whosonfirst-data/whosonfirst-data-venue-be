@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5699467659,50.6283111572,5.5699467659,50.6283111572",
     "geom:latitude":50.628311,
     "geom:longitude":5.569947,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des Vingt-deux 17",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544087,
-    "wof:geomhash":"dca2c89c70d9f89ea33075cbe2bf56b4",
+    "wof:geomhash":"c93ee2fd68f27461d70b57db0fdbd606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058858699,
-    "wof:lastmodified":1473722504,
+    "wof:lastmodified":1510941272,
     "wof:name":"Dupont Y",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041685529
+    ],
     "wof:tags":[
         "tax-consultants"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"1780",
     "addr:street":"Obberg;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2945342064,50.8943023682,4.2945342064,50.8943023682",
     "geom:latitude":50.894302,
     "geom:longitude":4.294534,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Obberg 103",
     "sg:city":"Wemmel",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480871,
-    "wof:geomhash":"bac9095c110cc7b6a023d5c803cb0a50",
+    "wof:geomhash":"f4b89c2edf38e9116680258fbb102a25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,24 @@
         }
     ],
     "wof:id":1041739171,
-    "wof:lastmodified":1473722675,
+    "wof:lastmodified":1510944172,
     "wof:name":"Carveen",
     "wof:parent_id":85801163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042152359,
+        1058971427,
+        1058460365,
+        1058526647,
+        1058656241,
+        1058617893,
+        1058216857
+    ],
+    "wof:supersedes":[
+        1041740461,
+        1041740939
+    ],
     "wof:tags":[
         "installation",
         "-",

@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue Adolphe Buyl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3813180923,50.8172225952,4.3813180923,50.8172225952",
     "geom:latitude":50.817223,
     "geom:longitude":4.381318,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Adolphe Buyl 56",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535441,
-    "wof:geomhash":"8da1badbe8d2dc5fb7b9556d2160593d",
+    "wof:geomhash":"feae52c3160660cbc648405c7e239208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +60,19 @@
         }
     ],
     "wof:id":1058660441,
-    "wof:lastmodified":1473719559,
+    "wof:lastmodified":1510942097,
     "wof:name":"A-aa Depan'toiture",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058749031,
+        1058964275
+    ],
+    "wof:supersedes":[
+        1058592883,
+        1041914567
+    ],
     "wof:tags":[]
 },
   "bbox": [

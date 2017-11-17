@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7253649235,51.0565223694,3.7253649235,51.0565223694",
     "geom:latitude":51.056522,
     "geom:longitude":3.725365,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Vrijdagmarkt 47",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1187211170,
         "sg:id":"SG_25J6ZwI2UMrRkhB9NpedrU_51.056522_3.725365@1306268551"
     },
     "wof:country":"BE",
     "wof:created":1473535862,
-    "wof:geomhash":"09c043955b91412f24dfbeff6cd016a5",
+    "wof:geomhash":"f053584f67b7c8a4d75ab60c80c36df9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058670245,
-    "wof:lastmodified":1473719005,
+    "wof:lastmodified":1510941986,
     "wof:name":"Keizershof",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"306-310;1050",
     "addr:street":"Avenue Louise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3572201729,50.8337287903,4.3572201729,50.8337287903",
     "geom:latitude":50.833729,
     "geom:longitude":4.35722,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Louise 306-310",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520021,
-    "wof:geomhash":"6dee6fe875624ac6877153b03bdd2387",
+    "wof:geomhash":"a36f9c23dc61da824119f24fc0a508a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1058330667,
-    "wof:lastmodified":1473719578,
+    "wof:lastmodified":1510943473,
     "wof:name":"Berlitz",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881589
+    ],
+    "wof:supersedes":[
+        1041931333,
+        1042195553,
+        1058202197,
+        1058330535
+    ],
     "wof:tags":[
         "school",
         "language"

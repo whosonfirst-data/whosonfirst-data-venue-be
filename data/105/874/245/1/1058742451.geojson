@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3577871323,50.8143882751,4.3577871323,50.8143882751",
     "geom:latitude":50.814388,
     "geom:longitude":4.357787,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue G\u00c9n\u00c9ral Lotz 33",
     "sg:city":"Ukkel/uccle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473539001,
-    "wof:geomhash":"45ef461af45fce0bf480abdf5b6904f9",
+    "wof:geomhash":"376c012c965b622c813e83b28bf2c4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058742451,
-    "wof:lastmodified":1473720645,
+    "wof:lastmodified":1510941907,
     "wof:name":"Foty-fr\u00c8re",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041600223
+    ],
     "wof:tags":[
         "de",
         "coiffure"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4176988602,51.2143783569,4.4176988602,51.2143783569",
     "geom:latitude":51.214378,
     "geom:longitude":4.417699,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Schupstraat 21",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533381,
-    "wof:geomhash":"9e6a814004c026a203d16e5967204640",
+    "wof:geomhash":"d2fbb45a8b5bca9423436e1e2f182c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058615479,
-    "wof:lastmodified":1473721605,
+    "wof:lastmodified":1510943999,
     "wof:name":"Diamdel",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042162391
+    ],
     "wof:tags":[]
 },
   "bbox": [

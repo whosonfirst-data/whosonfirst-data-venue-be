@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4276189804,51.235912323,4.4276189804,51.235912323",
     "geom:latitude":51.235912,
     "geom:longitude":4.427619,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Merksemse Straat 73",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526473,
-    "wof:geomhash":"1a7a7150079e9b130534491a57d859a6",
+    "wof:geomhash":"34bddbce130b9b4c7ca392b5fabcec74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058465615,
-    "wof:lastmodified":1473721650,
+    "wof:lastmodified":1510943361,
     "wof:name":"Het Ijzer Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058407147
+    ],
     "wof:tags":[]
 },
   "bbox": [

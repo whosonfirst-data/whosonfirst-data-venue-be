@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue De Laeken",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3530220985,50.8562240601,4.3530220985,50.8562240601",
     "geom:latitude":50.856224,
     "geom:longitude":4.353022,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Laeken 179",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502389,
-    "wof:geomhash":"8fdf8d7dd7d9fd0dfcdeaab15f478029",
+    "wof:geomhash":"d89fae9e4d728b939e0639fc19a2c22e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1042209181,
-    "wof:lastmodified":1473722676,
+    "wof:lastmodified":1510942052,
     "wof:name":"Unilectric S.a.",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042209969
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"

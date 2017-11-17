@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6300358772,50.6606407166,5.6300358772,50.6606407166",
     "geom:latitude":50.660641,
     "geom:longitude":5.630036,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard Z\u00e9nobe Gramme 21",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509321,
-    "wof:geomhash":"1396f65534da608d5be4b3bd2e2b7882",
+    "wof:geomhash":"7ed86df2a347fcbb97d413c758f112c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058094023,
-    "wof:lastmodified":1473721171,
+    "wof:lastmodified":1510942901,
     "wof:name":"Opel-lequet & Herkenne",
     "wof:parent_id":85862055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041843455
+    ],
     "wof:tags":[
         "garage"
     ]

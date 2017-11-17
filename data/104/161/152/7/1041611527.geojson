@@ -7,13 +7,16 @@
     "addr:postcode":"9060",
     "addr:street":"President J.F. Kennedylaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8330750465,51.1861114502,3.8330750465,51.1861114502",
     "geom:latitude":51.186111,
     "geom:longitude":3.833075,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"President J.f. Kennedylaan 2",
     "sg:city":"Zelzate",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475763,
-    "wof:geomhash":"e1bea92191a555fbed9b0e35f960ec64",
+    "wof:geomhash":"03ef5a69ad35af416e0002f3dc56548b",
     "wof:hierarchy":[
         {
             "country_id":85633337,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1041611527,
-    "wof:lastmodified":1473719977,
+    "wof:lastmodified":1510943865,
     "wof:name":"J.f. Kennedy",
     "wof:parent_id":85862087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058203889
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

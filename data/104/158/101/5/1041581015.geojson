@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Chausse\u0301E De Waterloo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344165802,50.8285942078,4.344165802,50.8285942078",
     "geom:latitude":50.828594,
     "geom:longitude":4.344166,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Waterloo 113",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474493,
-    "wof:geomhash":"f50945905a28034a47c10c22724a2a0e",
+    "wof:geomhash":"1578660953a24a75daf26da3869ea6db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041581015,
-    "wof:lastmodified":1473719670,
+    "wof:lastmodified":1510941993,
     "wof:name":"Palais De L'electricit\u00e9",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042211767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

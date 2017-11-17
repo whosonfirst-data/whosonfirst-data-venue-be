@@ -7,13 +7,16 @@
     "addr:postcode":"4040",
     "addr:street":"Rue Du Bellenay",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6386241913,50.6763572693,5.6386241913,50.6763572693",
     "geom:latitude":50.676357,
     "geom:longitude":5.638624,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"71",
     "sg:city":"Rue Du Bellenay 4040 Herstal",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523180,
-    "wof:geomhash":"1607a563728e6c785e199ea76f4e0bd6",
+    "wof:geomhash":"f11b734396c359be874a6dbb8a5dc8ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058399193,
-    "wof:lastmodified":1473722678,
+    "wof:lastmodified":1510943347,
     "wof:name":"Plastics And Mechanical Technologies Sa",
     "wof:parent_id":85800909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058602283
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

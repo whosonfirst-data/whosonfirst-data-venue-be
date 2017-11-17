@@ -7,13 +7,16 @@
     "addr:postcode":"6990",
     "addr:street":"Rue De La Valle\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4451107979,50.2692604065,5.4451107979,50.2692604065",
     "geom:latitude":50.26926,
     "geom:longitude":5.445111,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Vall\u00c9e 20",
     "sg:city":"Hotton",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473475721,
-    "wof:geomhash":"813aae94d577b5eb2fec12c5b9a17a82",
+    "wof:geomhash":"cb9bf4f85aa221a4713ae568d259331f",
     "wof:hierarchy":[],
     "wof:id":1041610359,
-    "wof:lastmodified":1473719410,
+    "wof:lastmodified":1510943299,
     "wof:name":"H\u00d4tel De L'ourthe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058203513
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "restaurant"

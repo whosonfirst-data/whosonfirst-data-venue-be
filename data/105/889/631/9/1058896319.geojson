@@ -7,13 +7,16 @@
     "addr:postcode":"3530",
     "addr:street":"Centrum Zuid",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3644962311,51.0231018066,5.3644962311,51.0231018066",
     "geom:latitude":51.023102,
     "geom:longitude":5.364496,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Centrum Zuid 1410",
     "sg:city":"Houthalen-helchteren (houthalen)",
     "sg:classifiers":[
@@ -41,16 +44,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473545726,
-    "wof:geomhash":"f4e25d87119e959bf1ef493bf306aba5",
+    "wof:geomhash":"10b14882990b07bc736a1d7a39ff8e07",
     "wof:hierarchy":[],
     "wof:id":1058896319,
-    "wof:lastmodified":1473721816,
+    "wof:lastmodified":1510944046,
     "wof:name":"V.n.w. Transport Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058896487,
+        1058895911
+    ],
+    "wof:supersedes":[
+        1058893913
+    ],
     "wof:tags":[
         "machine",
         "-",

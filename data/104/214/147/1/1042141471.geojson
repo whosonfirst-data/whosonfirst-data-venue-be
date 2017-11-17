@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3844718933,50.8747673035,4.3844718933,50.8747673035",
     "geom:latitude":50.874767,
     "geom:longitude":4.384472,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Huart Hamoir 107",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473498570,
-    "wof:geomhash":"28bc2dea27d753b5014536f0ff6d390b",
+    "wof:geomhash":"d8786345ca3c681a4b510ec89704fe7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1042141471,
-    "wof:lastmodified":1473719932,
+    "wof:lastmodified":1510942186,
     "wof:name":"The Sales Machine",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041699335
+    ],
     "wof:tags":[
         "-",
         "publishing",

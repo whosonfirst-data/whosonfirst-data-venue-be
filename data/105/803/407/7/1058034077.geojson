@@ -7,13 +7,16 @@
     "addr:postcode":"8501",
     "addr:street":"Industrielaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2481119633,50.8570671082,3.2481119633,50.8570671082",
     "geom:latitude":50.857067,
     "geom:longitude":3.248112,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industrielaan 4",
     "sg:city":"Heule",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473506857,
-    "wof:geomhash":"a2eac7dcf51167671a8c6c996c6af1b1",
+    "wof:geomhash":"c3fb4ca650597c25d2225b770ae4585f",
     "wof:hierarchy":[],
     "wof:id":1058034077,
-    "wof:lastmodified":1473721247,
+    "wof:lastmodified":1510943646,
     "wof:name":"Saey Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058471191,
+        1058575787
+    ],
+    "wof:supersedes":[
+        1058041029,
+        1041913149
+    ],
     "wof:tags":[
         "fastener",
         "metal",

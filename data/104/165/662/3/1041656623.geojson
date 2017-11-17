@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Dieudonne\u0301 Defrance",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6090121269,50.6453857422,5.6090121269,50.6453857422",
     "geom:latitude":50.645386,
     "geom:longitude":5.609012,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Dieudonn\u00c9 Defrance 28",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477605,
-    "wof:geomhash":"06bf13ad8c6f8ba746827f5683ef7621",
+    "wof:geomhash":"5f4ab409e514570e749f7e267397e24b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041656623,
-    "wof:lastmodified":1473721883,
+    "wof:lastmodified":1510943384,
     "wof:name":"C.o. Savochim",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058511505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

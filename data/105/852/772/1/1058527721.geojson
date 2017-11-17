@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Ernest Solvay",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5716900826,50.6123542786,5.5716900826,50.6123542786",
     "geom:latitude":50.612354,
     "geom:longitude":5.57169,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Ernest Solvay 27",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473529377,
-    "wof:geomhash":"652b6848e3e795052ea41946798ff668",
+    "wof:geomhash":"ef83d7a0d23d0c10242599b18718f834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,27 @@
         }
     ],
     "wof:id":1058527721,
-    "wof:lastmodified":1473722307,
+    "wof:lastmodified":1510943694,
     "wof:name":"Medipost",
     "wof:parent_id":85801367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058468369,
+        1058656857,
+        1058831899,
+        1058906635
+    ],
+    "wof:supersedes":[
+        1041721999,
+        1042057535,
+        1042049465,
+        1058401423,
+        1058497149,
+        1058201709,
+        1058390209,
+        1058323847
+    ],
     "wof:tags":[
         "-",
         "pedicure"

@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Stokerijstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5460400581,51.2200889587,4.5460400581,51.2200889587",
     "geom:latitude":51.220089,
     "geom:longitude":4.54604,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stokerijstraat 79",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473512099,
-    "wof:geomhash":"72d242bcd7ad6920c5740962a29a55ca",
+    "wof:geomhash":"fae1a2186b8e87ebd4144d54c16e8a14",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,12 +59,15 @@
         }
     ],
     "wof:id":1058152215,
-    "wof:lastmodified":1473720303,
+    "wof:lastmodified":1510943907,
     "wof:name":"Hahbo",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058235553,
+        1058244747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shed",

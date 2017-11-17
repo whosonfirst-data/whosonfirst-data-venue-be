@@ -7,13 +7,16 @@
     "addr:postcode":"3900",
     "addr:street":"Industrielaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3663301468,51.2180252075,5.3663301468,51.2180252075",
     "geom:latitude":51.218025,
     "geom:longitude":5.36633,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industrielaan 24",
     "sg:city":"Overpelt",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473480151,
-    "wof:geomhash":"b209c1e5a9ff931871e73c0c98fd446d",
+    "wof:geomhash":"b9dc5493c27db6c8e7c4afd55537dd97",
     "wof:hierarchy":[],
     "wof:id":1041721987,
-    "wof:lastmodified":1473720166,
+    "wof:lastmodified":1510942027,
     "wof:name":"Aerotrim Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058398417
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aerosol"

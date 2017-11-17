@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5697860718,50.6397895813,5.5697860718,50.6397895813",
     "geom:latitude":50.63979,
     "geom:longitude":5.569786,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Hazinelle 2",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501679,
-    "wof:geomhash":"3a3ea97f27a3f0e92a995fe317e6c990",
+    "wof:geomhash":"262a3d8dbc4a29aff64b71662848f33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1042196137,
-    "wof:lastmodified":1473721685,
+    "wof:lastmodified":1510943262,
     "wof:name":"Amicale De L'institut Des Langues Modernes",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041696439
+    ],
     "wof:tags":[
         "higher"
     ]

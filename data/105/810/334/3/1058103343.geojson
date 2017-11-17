@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Du Conseil",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3688788414,50.8340873718,4.3688788414,50.8340873718",
     "geom:latitude":50.834087,
     "geom:longitude":4.368879,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Conseil 37",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509737,
-    "wof:geomhash":"4169c151d19eb4f8173c2e11e531fcb8",
+    "wof:geomhash":"078fb2bba3309c143c3d902b0b15855e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,24 @@
         }
     ],
     "wof:id":1058103343,
-    "wof:lastmodified":1473720180,
+    "wof:lastmodified":1510943702,
     "wof:name":"A. Dufour Chauffage Sprl",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058457293,
+        1058379833,
+        1058832655
+    ],
+    "wof:supersedes":[
+        1058174735,
+        1058103285,
+        1058178131,
+        1042063087,
+        1058174535,
+        1041958757
+    ],
     "wof:tags":[
         "detection",
         "gas"

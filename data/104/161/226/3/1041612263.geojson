@@ -7,13 +7,16 @@
     "addr:postcode":"1140",
     "addr:street":"Rue De Gene\u0300Ve",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4031438828,50.8651351929,4.4031438828,50.8651351929",
     "geom:latitude":50.865135,
     "geom:longitude":4.403144,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Gen\u00e8ve 6",
     "sg:city":"Bruxelles (evere)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475791,
-    "wof:geomhash":"d99cb4f6b4b66b27029e596782566d62",
+    "wof:geomhash":"7861f55538f4fb3e45e1bd66efd1a0c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041612263,
-    "wof:lastmodified":1473720396,
+    "wof:lastmodified":1510941357,
     "wof:name":"Toyo Ink Europe Sa",
     "wof:parent_id":85801129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041578709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "import",

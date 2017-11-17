@@ -7,13 +7,16 @@
     "addr:postcode":"1780",
     "addr:street":"Heide;Vlaams-Brabant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3176908493,50.8974533081,4.3176908493,50.8974533081",
     "geom:latitude":50.897453,
     "geom:longitude":4.317691,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Heide 10",
     "sg:city":"Wemmel",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509738,
-    "wof:geomhash":"824f18bcd6f51e4af54cbc05ddf0e8c7",
+    "wof:geomhash":"041360a3ac4f29e9b8aa2dc0ec1e94b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,17 @@
         }
     ],
     "wof:id":1058103355,
-    "wof:lastmodified":1473720180,
+    "wof:lastmodified":1510943423,
     "wof:name":"Draeger Belgium Nv",
     "wof:parent_id":85801243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058201659,
+        1058323915,
+        1058401231,
+        1058729991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "detection",

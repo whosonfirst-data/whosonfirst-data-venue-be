@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Ropsy Chaudron",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3294701576,50.8429718018,4.3294701576,50.8429718018",
     "geom:latitude":50.842972,
     "geom:longitude":4.32947,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9",
     "sg:city":"R Ropsy Chaudron 1070 Bruxelles",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507897,
-    "wof:geomhash":"21b40cc8868946dd514227dbbe16a0a4",
+    "wof:geomhash":"07c2ef26e502404e14011a30e8be5376",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":1058059497,
-    "wof:lastmodified":1473722835,
+    "wof:lastmodified":1510943455,
     "wof:name":"Paulus Stuart Sprl",
     "wof:parent_id":85800757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058772443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "food",

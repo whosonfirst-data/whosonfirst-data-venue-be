@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Bld De La Sauvenie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5673131943,50.6416397095,5.5673131943,50.6416397095",
     "geom:latitude":50.64164,
     "geom:longitude":5.567313,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bld De La Sauveni\u00c8re 119",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487460,
-    "wof:geomhash":"a997f02073f17ab948c584aadfaf706e",
+    "wof:geomhash":"1a7579248b843e9fe9dfcc18559bfab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1041889281,
-    "wof:lastmodified":1473722718,
+    "wof:lastmodified":1510944183,
     "wof:name":"Centea",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041889287
+    ],
+    "wof:supersedes":[
+        1041905605,
+        1041905599
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"6032",
     "addr:street":"Rue De La Sambre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4056091309,50.4007034302,4.4056091309,50.4007034302",
     "geom:latitude":50.400703,
     "geom:longitude":4.405609,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Sambre 4",
     "sg:city":"Charleroi (mont-sur-marchienne)",
     "sg:classifiers":[
@@ -40,16 +43,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473485567,
-    "wof:geomhash":"8b6b130a49a29709f97d6bfe93e73015",
+    "wof:geomhash":"22f08830baaf361399f33da8e862dffe",
     "wof:hierarchy":[],
     "wof:id":1041844517,
-    "wof:lastmodified":1473721307,
+    "wof:lastmodified":1510942870,
     "wof:name":"A.s.d.t.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042033899
+    ],
+    "wof:supersedes":[
+        1041841025
+    ],
     "wof:tags":[
         "automobile",
         "-",

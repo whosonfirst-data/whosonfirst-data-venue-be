@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Oostendsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1900799274,51.2292709351,3.1900799274,51.2292709351",
     "geom:latitude":51.229271,
     "geom:longitude":3.19008,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oostendsesteenweg 146",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496028,
-    "wof:geomhash":"a9eacf5606048a4032f77a0d2133147e",
+    "wof:geomhash":"ad61379b11ffab913cd5dd7c9adc981a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1042091727,
-    "wof:lastmodified":1473720080,
+    "wof:lastmodified":1510944146,
     "wof:name":"Grontmij Verschave Nv",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042249171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "work",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4593300819,50.8458099365,4.4593300819,50.8458099365",
     "geom:latitude":50.84581,
     "geom:longitude":4.45933,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Arthur Andr\u00c9 37",
     "sg:city":"Sint-pieters-woluwe/woluwe-sai",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473482370,
-    "wof:geomhash":"230d9bec250a911642e033ac4b47a55c",
+    "wof:geomhash":"bad2e1517015cac6938720b53c5d96c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041769489,
-    "wof:lastmodified":1473722733,
+    "wof:lastmodified":1510944139,
     "wof:name":"Leclercq J.m.",
     "wof:parent_id":85801353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041542335
+    ],
     "wof:tags":[]
 },
   "bbox": [

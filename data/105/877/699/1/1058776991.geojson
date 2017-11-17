@@ -7,13 +7,16 @@
     "addr:postcode":"7340",
     "addr:street":"Place De L'Eglise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8434000015,50.4191017151,3.8434000015,50.4191017151",
     "geom:latitude":50.419102,
     "geom:longitude":3.8434,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place De L'eglise 14",
     "sg:city":"Colfontaine (p\u00e2turages)",
     "sg:classifiers":[
@@ -38,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473540535,
-    "wof:geomhash":"9a1c0059d058c6ec1c58458483774b21",
+    "wof:geomhash":"b2e9f3512ee8f9d6b23db4be818d5442",
     "wof:hierarchy":[],
     "wof:id":1058776991,
-    "wof:lastmodified":1473722033,
+    "wof:lastmodified":1510943017,
     "wof:name":"Vitrerie J P Decamps Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058918453,
+        1058971301
+    ],
+    "wof:supersedes":[
+        1058113141
+    ],
     "wof:tags":[
         "shutter"
     ]

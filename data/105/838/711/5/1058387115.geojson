@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8260111809,50.4624404907,4.8260111809,50.4624404907",
     "geom:latitude":50.46244,
     "geom:longitude":4.826011,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Ren\u00e9 Delory 75",
     "sg:city":"Namur (belgrade)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473522652,
-    "wof:geomhash":"dbe027e3b51e822ddb4126fe669ec76a",
+    "wof:geomhash":"b58c8d603e11ccad7a268382f55387ac",
     "wof:hierarchy":[],
     "wof:id":1058387115,
-    "wof:lastmodified":1473722096,
+    "wof:lastmodified":1510943870,
     "wof:name":"Ams Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041628861
+    ],
     "wof:tags":[
         "market",
         "research"

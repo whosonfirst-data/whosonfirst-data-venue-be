@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4952559471,51.1355133057,3.4952559471,51.1355133057",
     "geom:latitude":51.135513,
     "geom:longitude":3.495256,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Eekloseweg 85",
     "sg:city":"Ursel",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473540536,
-    "wof:geomhash":"61fd2083074dbf45db3b68d429486d78",
+    "wof:geomhash":"702b4f77cb51f71669bd1d4654547192",
     "wof:hierarchy":[],
     "wof:id":1058777021,
-    "wof:lastmodified":1473722125,
+    "wof:lastmodified":1510941471,
     "wof:name":"Saelens Gebroeders Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041679805
+    ],
     "wof:tags":[
         "sideboard"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"76-82;1000",
     "addr:street":"Rue Du Midi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3494668007,50.8456192017,4.3494668007,50.8456192017",
     "geom:latitude":50.845619,
     "geom:longitude":4.349467,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Midi 76-82",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527954,
-    "wof:geomhash":"f489cf3cbf1863bc39210fe7966e8f85",
+    "wof:geomhash":"d6002519f0779f80fe82b1b8571aa6c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,19 @@
         }
     ],
     "wof:id":1058497031,
-    "wof:lastmodified":1473722078,
+    "wof:lastmodified":1510942873,
     "wof:name":"Brasseur Ets",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058906559
+    ],
+    "wof:supersedes":[
+        1058390191,
+        1042049417,
+        1058044235
+    ],
     "wof:tags":[
         "orthopedist"
     ]

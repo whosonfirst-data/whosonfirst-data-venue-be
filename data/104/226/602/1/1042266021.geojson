@@ -7,13 +7,16 @@
     "addr:postcode":"4100",
     "addr:street":"Rue Peetermans",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.510240078,50.6117286682,5.510240078,50.6117286682",
     "geom:latitude":50.611729,
     "geom:longitude":5.51024,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Peetermans 80",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505035,
-    "wof:geomhash":"c10c1a06c280131a58a949ce78b9f1dc",
+    "wof:geomhash":"e314a26e29c6b494681b77d9ad9ff438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042266021,
-    "wof:lastmodified":1473721714,
+    "wof:lastmodified":1510942945,
     "wof:name":"H.e.p.l. Rennequin Sualem",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058195469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Burggravenlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7209498882,51.0331192017,3.7209498882,51.0331192017",
     "geom:latitude":51.033119,
     "geom:longitude":3.72095,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Burggravenlaan 20",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499597,
-    "wof:geomhash":"d74acb5c61da86736765aa90510b1ca6",
+    "wof:geomhash":"2ae6a4fa9eab18d9911acee1772ecea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042161599,
-    "wof:lastmodified":1473720098,
+    "wof:lastmodified":1510944060,
     "wof:name":"Griffo",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042189873
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

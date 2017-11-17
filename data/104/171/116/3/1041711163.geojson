@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Avenue Blonden",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5700559616,50.6289138794,5.5700559616,50.6289138794",
     "geom:latitude":50.628914,
     "geom:longitude":5.570056,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Blonden 33",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479725,
-    "wof:geomhash":"31b01e21fc29c9fed423c6898d9a48c7",
+    "wof:geomhash":"8434b2440346bfc7cb77f52a0b8083cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041711163,
-    "wof:lastmodified":1473719818,
+    "wof:lastmodified":1510942223,
     "wof:name":"Jean-louis Paquot",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041862757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Lange Lozanastraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4025669098,51.2062950134,4.4025669098,51.2062950134",
     "geom:latitude":51.206295,
     "geom:longitude":4.402567,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lange Lozanastraat 23",
     "sg:city":"Antwerpen-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473513374,
-    "wof:geomhash":"3cd4ce17855af37c4df4564f53ef20d6",
+    "wof:geomhash":"5583acdf0aabc6ea3fa8e7d4d90d3ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058180925,
-    "wof:lastmodified":1473719655,
+    "wof:lastmodified":1510943268,
     "wof:name":"Schoenmakerij Rob",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058375641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

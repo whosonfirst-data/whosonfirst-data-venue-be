@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3509521484,50.9140701294,4.3509521484,50.9140701294",
     "geom:latitude":50.91407,
     "geom:longitude":4.350952,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Oude Mechelsestraat 165",
     "sg:city":"Grimbergen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486253,
-    "wof:geomhash":"f64198daefd8b795dbe0931bf2de4f51",
+    "wof:geomhash":"74c4adfd6eeb755b83b26c193955a433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041860921,
-    "wof:lastmodified":1473719665,
+    "wof:lastmodified":1510943488,
     "wof:name":"I. Den Tandt",
     "wof:parent_id":85801089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041709385
+    ],
     "wof:tags":[]
 },
   "bbox": [

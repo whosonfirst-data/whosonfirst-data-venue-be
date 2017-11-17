@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Pekelharing;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7195150852,51.0490493774,3.7195150852,51.0490493774",
     "geom:latitude":51.049049,
     "geom:longitude":3.719515,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pekelharing 4",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487340,
-    "wof:geomhash":"33c68495ea5991104b20c73a86e6752f",
+    "wof:geomhash":"8e8f043f01b1249b3253a9b27758a9ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1041886139,
-    "wof:lastmodified":1473721833,
+    "wof:lastmodified":1510944104,
     "wof:name":"Van Der Vorst Ivan",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058348675
+    ],
+    "wof:supersedes":[
+        1041721673
+    ],
     "wof:tags":[]
 },
   "bbox": [

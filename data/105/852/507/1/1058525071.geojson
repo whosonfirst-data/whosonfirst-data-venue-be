@@ -7,13 +7,16 @@
     "addr:postcode":"3590",
     "addr:street":"Grendelbaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4433379173,50.900592804,5.4433379173,50.900592804",
     "geom:latitude":50.900593,
     "geom:longitude":5.443338,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grendelbaan 109",
     "sg:city":"Diepenbeek",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473529225,
-    "wof:geomhash":"0f707486dc2ae7c2b9e5f3772555c58e",
+    "wof:geomhash":"9985d9fd576540088bc2064c6f900d94",
     "wof:hierarchy":[],
     "wof:id":1058525071,
-    "wof:lastmodified":1473721496,
+    "wof:lastmodified":1510943439,
     "wof:name":"Modest (bois & Brico)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058918277,
+        1058878207
+    ],
+    "wof:supersedes":[
+        1042171413,
+        1042175555
+    ],
     "wof:tags":[
         "parquet"
     ]

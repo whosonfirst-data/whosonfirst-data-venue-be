@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4151930809,51.2232551575,4.4151930809,51.2232551575",
     "geom:latitude":51.223255,
     "geom:longitude":4.415193,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Itali\u00eblei 70",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534865,
-    "wof:geomhash":"f2e6b21812f83169c82496535e0c605a",
+    "wof:geomhash":"8103b35b77540789cccf1d48333d6359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058648467,
-    "wof:lastmodified":1473722444,
+    "wof:lastmodified":1510944062,
     "wof:name":"A.b.",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041695053
+    ],
     "wof:tags":[]
 },
   "bbox": [

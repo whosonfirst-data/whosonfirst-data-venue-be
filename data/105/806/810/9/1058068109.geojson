@@ -7,13 +7,16 @@
     "addr:postcode":"2110",
     "addr:street":"Turnhoutsebaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5176539421,51.2266578674,4.5176539421,51.2266578674",
     "geom:latitude":51.226658,
     "geom:longitude":4.517654,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Turnhoutsebaan 267",
     "sg:city":"Wijnegem",
     "sg:classifiers":[
@@ -40,16 +43,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473508243,
-    "wof:geomhash":"aeca01a57c631f64a4f464bd090be924",
+    "wof:geomhash":"af9b66010c46ac8ee0bd48ec5d62fdc4",
     "wof:hierarchy":[],
     "wof:id":1058068109,
-    "wof:lastmodified":1473722372,
+    "wof:lastmodified":1510942319,
     "wof:name":"Reklamegids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058321749
+    ],
+    "wof:supersedes":[
+        1042195255
+    ],
     "wof:tags":[
         "paper",
         "local",

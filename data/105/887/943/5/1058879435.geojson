@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8476219177,50.5891036987,5.8476219177,50.5891036987",
     "geom:latitude":50.589104,
     "geom:longitude":5.847622,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Fernand Houget 19",
     "sg:city":"Verviers",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544989,
-    "wof:geomhash":"7fe589732a9a69a531d3f691c85fb34c",
+    "wof:geomhash":"d6236e462bc91affc02c1992203928a2",
     "wof:hierarchy":[],
     "wof:id":1058879435,
-    "wof:lastmodified":1473722722,
+    "wof:lastmodified":1510943501,
     "wof:name":"Outibest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058407383
+    ],
     "wof:tags":[
         "-"
     ]

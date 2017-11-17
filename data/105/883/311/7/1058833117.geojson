@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4137301445,51.1232795715,4.4137301445,51.1232795715",
     "geom:latitude":51.12328,
     "geom:longitude":4.41373,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Satenrozen 10",
     "sg:city":"Kontich",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473542990,
-    "wof:geomhash":"4b3ade9d394e06049c456d0e8c1d4e64",
+    "wof:geomhash":"ed7133d1727762abd2dd73c2cbf09fc2",
     "wof:hierarchy":[],
     "wof:id":1058833117,
-    "wof:lastmodified":1473720835,
+    "wof:lastmodified":1510943760,
     "wof:name":"Algemene Bezettingswerken Herman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058525435,
+        1042045545
+    ],
     "wof:tags":[
         "stucco",
         "contractor"

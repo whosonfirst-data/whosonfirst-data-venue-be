@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Rue Ge\u0301Ne\u0301Ral Henry",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3944621086,50.831943512,4.3944621086,50.831943512",
     "geom:latitude":50.831944,
     "geom:longitude":4.394462,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue G\u00e9n\u00e9ral Henry 2",
     "sg:city":"Bruxelles (etterbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507194,
-    "wof:geomhash":"85873dc41285ede56a39b0d972454ad1",
+    "wof:geomhash":"70df51315f5c3390fd96554d7500ab88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058042183,
-    "wof:lastmodified":1473720409,
+    "wof:lastmodified":1510942900,
     "wof:name":"Legreve & Fils",
     "wof:parent_id":85801521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058375507
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "armoured",

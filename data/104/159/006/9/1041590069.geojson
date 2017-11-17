@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5151557922,50.705871582,4.5151557922,50.705871582",
     "geom:latitude":50.705872,
     "geom:longitude":4.515156,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Wavre 51",
     "sg:city":"Rixensart",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473474870,
-    "wof:geomhash":"3cfe54efb3af27e1b9ab791693032fd1",
+    "wof:geomhash":"8b0460b01a34791e246d0a48ef168bea",
     "wof:hierarchy":[],
     "wof:id":1041590069,
-    "wof:lastmodified":1473718904,
+    "wof:lastmodified":1510943563,
     "wof:name":"Cameco Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041539837
+    ],
     "wof:tags":[
         "fitting"
     ]

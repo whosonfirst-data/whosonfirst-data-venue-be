@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Pierreuse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5727419853,50.649520874,5.5727419853,50.649520874",
     "geom:latitude":50.649521,
     "geom:longitude":5.572742,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pierreuse 119",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479223,
-    "wof:geomhash":"15f2ffe6c2d094b4344c374d37b98ff0",
+    "wof:geomhash":"66f7f56f1ecc8da078bbf7c09022830d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041698545,
-    "wof:lastmodified":1473722477,
+    "wof:lastmodified":1510942150,
     "wof:name":"Lambert",
     "wof:parent_id":85801929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058281225
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

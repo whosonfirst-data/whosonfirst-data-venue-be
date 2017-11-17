@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6011490822,50.5231704712,3.6011490822,50.5231704712",
     "geom:latitude":50.52317,
     "geom:longitude":3.601149,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Neuve Chauss\u00e9e 92",
     "sg:city":"P\u00e9ruwelz",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473509413,
-    "wof:geomhash":"0356fdf55acea97412c00e2c48d4c80a",
+    "wof:geomhash":"9bac49ee84b664b78dae624f83dc0c53",
     "wof:hierarchy":[],
     "wof:id":1058096237,
-    "wof:lastmodified":1473721731,
+    "wof:lastmodified":1510944175,
     "wof:name":"Carlier M Et Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041839513
+    ],
     "wof:tags":[
         "machine",
         "horticultural"

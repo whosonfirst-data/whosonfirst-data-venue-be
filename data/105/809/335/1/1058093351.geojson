@@ -7,13 +7,16 @@
     "addr:postcode":"4040",
     "addr:street":"Boulevard Ze\u0301Nobe Gramme",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6300358772,50.6606407166,5.6300358772,50.6606407166",
     "geom:latitude":50.660641,
     "geom:longitude":5.630036,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Z\u00e9nobe Gramme 21",
     "sg:city":"Herstal",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509295,
-    "wof:geomhash":"1396f65534da608d5be4b3bd2e2b7882",
+    "wof:geomhash":"7ed86df2a347fcbb97d413c758f112c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,15 @@
         }
     ],
     "wof:id":1058093351,
-    "wof:lastmodified":1473720976,
+    "wof:lastmodified":1510942235,
     "wof:name":"Lequet & Herkenne",
     "wof:parent_id":85862055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058483235,
+        1058948077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"

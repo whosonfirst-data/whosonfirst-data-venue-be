@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Jules De Laminne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5505647659,50.6438598633,5.5505647659,50.6438598633",
     "geom:latitude":50.64386,
     "geom:longitude":5.550565,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Jules De Laminne 1",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479808,
-    "wof:geomhash":"051cb973c90db2ff748f542a0f1989ba",
+    "wof:geomhash":"2867b81bd36143165883035a9000d963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041713345,
-    "wof:lastmodified":1473720895,
+    "wof:lastmodified":1510943272,
     "wof:name":"Luc-pierre Mar\u00c9chal",
     "wof:parent_id":85862023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041865003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

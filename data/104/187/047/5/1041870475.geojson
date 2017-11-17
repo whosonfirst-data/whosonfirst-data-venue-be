@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.506360054,50.642490387,5.506360054,50.642490387",
     "geom:latitude":50.64249,
     "geom:longitude":5.50636,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Joseph Heusdens 55",
     "sg:city":"Grace-hollogne",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486666,
-    "wof:geomhash":"4c5a64ddd5b2d59e2db5ed5d0284df77",
+    "wof:geomhash":"12bd4bf1cc4a22b297f3b6d48a2fbf53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041870475,
-    "wof:lastmodified":1473719398,
+    "wof:lastmodified":1510943924,
     "wof:name":"Speranza-maria Spadazzi",
     "wof:parent_id":85801183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041718643
+    ],
     "wof:tags":[]
 },
   "bbox": [

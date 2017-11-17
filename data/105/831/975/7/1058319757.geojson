@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0463871956,50.5923271179,5.0463871956,50.5923271179",
     "geom:latitude":50.592327,
     "geom:longitude":5.046387,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Hann\u00eache 21",
     "sg:city":"Wasseiges (acosse)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473519487,
-    "wof:geomhash":"5cb6962e81cad3eb23d3f5084168a3e5",
+    "wof:geomhash":"892084e0b02cfaa9f68dd6276cd2c043",
     "wof:hierarchy":[],
     "wof:id":1058319757,
-    "wof:lastmodified":1473722868,
+    "wof:lastmodified":1510943539,
     "wof:name":"V. T. Cuisines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041652963
+    ],
     "wof:tags":[
         "installation"
     ]

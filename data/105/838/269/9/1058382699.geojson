@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4776902199,50.8305053711,4.4776902199,50.8305053711",
     "geom:latitude":50.830505,
     "geom:longitude":4.47769,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Des B\u00e9casses 3",
     "sg:city":"Kraainem",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522470,
-    "wof:geomhash":"b4f8ee10d0f36bc3ca683e21fae801c9",
+    "wof:geomhash":"79d018db83b2bd95b81380a95e5d307e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058382699,
-    "wof:lastmodified":1473720681,
+    "wof:lastmodified":1510942948,
     "wof:name":"Hebrant P",
     "wof:parent_id":85801999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041576303
+    ],
     "wof:tags":[
         "consultant"
     ]

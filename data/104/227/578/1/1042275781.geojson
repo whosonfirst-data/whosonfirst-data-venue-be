@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5242800713,50.6659317017,5.5242800713,50.6659317017",
     "geom:latitude":50.665932,
     "geom:longitude":5.52428,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av De L'expansion 16d",
     "sg:city":"Alleur",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505481,
-    "wof:geomhash":"1da2fd26794b547d02166678adcfe2c4",
+    "wof:geomhash":"ccec7835a2ec4997d331ca3e8b198263",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":1042275781,
-    "wof:lastmodified":1473721646,
+    "wof:lastmodified":1510943395,
     "wof:name":"Notifier Benelux Sa",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041589523
+    ],
     "wof:tags":[
         "machine",
         "-",

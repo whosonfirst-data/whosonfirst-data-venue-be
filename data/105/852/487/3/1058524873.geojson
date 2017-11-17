@@ -7,13 +7,16 @@
     "addr:postcode":"3545",
     "addr:street":"Hagelandstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0579819679,50.9326667786,5.0579819679,50.9326667786",
     "geom:latitude":50.932667,
     "geom:longitude":5.057982,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hagelandstraat 30",
     "sg:city":"Halen",
     "sg:classifiers":[
@@ -38,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473529217,
-    "wof:geomhash":"016e3b31bb6ed4b422de2841b61fd02a",
+    "wof:geomhash":"ac2c71920cde29c9747e33f03182a16f",
     "wof:hierarchy":[],
     "wof:id":1058524873,
-    "wof:lastmodified":1473721435,
+    "wof:lastmodified":1510942809,
     "wof:name":"Hamberger Sportvloeren-sols De Sport/ Brems Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058878059,
+        1058826135
+    ],
+    "wof:supersedes":[
+        1042175425
+    ],
     "wof:tags":[
         "parquet"
     ]

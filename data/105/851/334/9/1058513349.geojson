@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5352039337,50.7120742798,4.5352039337,50.7120742798",
     "geom:latitude":50.712074,
     "geom:longitude":4.535204,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Verte 9",
     "sg:city":"Rixensart",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473528702,
-    "wof:geomhash":"4c249575e45dad1029b8981c1f4a8f9f",
+    "wof:geomhash":"650f66bb45c501ed4fe86f4c11744cf5",
     "wof:hierarchy":[],
     "wof:id":1058513349,
-    "wof:lastmodified":1473720885,
+    "wof:lastmodified":1510942246,
     "wof:name":"Lef\u00e8vre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041646441
+    ],
     "wof:tags":[
         "painting",
         "contractor"

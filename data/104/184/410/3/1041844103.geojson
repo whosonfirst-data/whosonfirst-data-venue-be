@@ -7,13 +7,16 @@
     "addr:postcode":"1308;1160",
     "addr:street":"Chausse\u0301E De Wavre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4114689827,50.8202056885,4.4114689827,50.8202056885",
     "geom:latitude":50.820206,
     "geom:longitude":4.411469,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Wavre 1308",
     "sg:city":"Bruxelles (auderghem)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485553,
-    "wof:geomhash":"0ca006a8e4085d5ddcd7304374ecb698",
+    "wof:geomhash":"253b881966dbb3cf126d529cb2d0a992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,18 @@
         }
     ],
     "wof:id":1041844103,
-    "wof:lastmodified":1473721205,
+    "wof:lastmodified":1510943630,
     "wof:name":"Hanciaux Brussels Sa",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058092667,
+        1042127031
+    ],
+    "wof:supersedes":[
+        1041840237
+    ],
     "wof:tags":[
         "automobile",
         "-",

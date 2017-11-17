@@ -7,13 +7,16 @@
     "addr:postcode":"1933",
     "addr:street":"Oude Keulseweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4885401726,50.8679618835,4.4885401726,50.8679618835",
     "geom:latitude":50.867962,
     "geom:longitude":4.48854,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oude Keulseweg 372",
     "sg:city":"Zaventem (sterrebeek)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494077,
-    "wof:geomhash":"76c4667659653f0795311e992c355be9",
+    "wof:geomhash":"d978c0f6972b5a26c6c3c89a734cc1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,17 @@
         }
     ],
     "wof:id":1042045577,
-    "wof:lastmodified":1473721625,
+    "wof:lastmodified":1510943989,
     "wof:name":"Balencourt J P",
     "wof:parent_id":85801397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058525463,
+        1058593057,
+        1042176079,
+        1058511099
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ceiling"

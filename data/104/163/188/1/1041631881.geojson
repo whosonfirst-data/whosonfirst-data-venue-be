@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Av De La Couronne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3910841942,50.8199768066,4.3910841942,50.8199768066",
     "geom:latitude":50.819977,
     "geom:longitude":4.391084,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av De La Couronne 480",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476590,
-    "wof:geomhash":"cc6263ff87e2780c74764580332a1515",
+    "wof:geomhash":"20da3fe5e0a31b443ddd7b5e8fef8a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041631881,
-    "wof:lastmodified":1473720216,
+    "wof:lastmodified":1510941959,
     "wof:name":"Aal Renting Sa",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041538571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

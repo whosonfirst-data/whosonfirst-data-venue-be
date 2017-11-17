@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3531589508,50.8456916809,4.3531589508,50.8456916809",
     "geom:latitude":50.845692,
     "geom:longitude":4.353159,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du March\u00e9 Aux Fromages 23",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475711,
-    "wof:geomhash":"2beac86ebf07c2ef5fc9988fb752fb4f",
+    "wof:geomhash":"12a815ef1a7f58f1cd5e6d801ee0c567",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041610087,
-    "wof:lastmodified":1473718911,
+    "wof:lastmodified":1510943483,
     "wof:name":"Hotel Mozart",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041611459
+    ],
     "wof:tags":[]
 },
   "bbox": [

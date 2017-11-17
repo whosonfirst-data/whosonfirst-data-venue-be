@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.073693037,50.780254364,3.073693037,50.780254364",
     "geom:latitude":50.780254,
     "geom:longitude":3.073693,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Menensesteenweg 274",
     "sg:city":"Wervik",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473507164,
-    "wof:geomhash":"1b5bf01de88b0cba585a9452a176db60",
+    "wof:geomhash":"9b3259b09e310128a6980e7697721fca",
     "wof:hierarchy":[],
     "wof:id":1058041461,
-    "wof:lastmodified":1473719952,
+    "wof:lastmodified":1510941533,
     "wof:name":"Van Rullen Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041589567
+    ],
     "wof:tags":[
         "equipment",
         "protection"

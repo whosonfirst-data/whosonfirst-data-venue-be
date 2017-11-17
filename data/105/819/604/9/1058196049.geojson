@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue Pierre Schlosser",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2929987907,50.8232841492,4.2929987907,50.8232841492",
     "geom:latitude":50.823284,
     "geom:longitude":4.292999,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pierre Schlosser 8-10",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514036,
-    "wof:geomhash":"cdd9c10572677a34210399ea84f74b86",
+    "wof:geomhash":"f377558318a923fbc99e2b3f30fe8d33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,23 @@
         }
     ],
     "wof:id":1058196049,
-    "wof:lastmodified":1473721636,
+    "wof:lastmodified":1510944082,
     "wof:name":"Indurope Handy Tools Nv",
     "wof:parent_id":85801261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058355195,
+        1058659941,
+        1058852033,
+        1058752627,
+        1058324293,
+        1058730029
+    ],
+    "wof:supersedes":[
+        1041824743,
+        1058151119
+    ],
     "wof:tags":[
         "hoisting-",
         "lashingbelts"

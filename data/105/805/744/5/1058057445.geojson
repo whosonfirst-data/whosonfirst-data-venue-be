@@ -7,13 +7,16 @@
     "addr:postcode":"2550",
     "addr:street":"Keizershoek",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4238290787,51.1222648621,4.4238290787,51.1222648621",
     "geom:latitude":51.122265,
     "geom:longitude":4.423829,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Keizershoek 312",
     "sg:city":"Kontich",
     "sg:classifiers":[
@@ -41,16 +44,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473507817,
-    "wof:geomhash":"db112eb9b7eba7afa88be210b6ff6c54",
+    "wof:geomhash":"ae1923d792736c9dffc76c3ab9798a73",
     "wof:hierarchy":[],
     "wof:id":1058057445,
-    "wof:lastmodified":1473722230,
+    "wof:lastmodified":1510942560,
     "wof:name":"Floris Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058206353
+    ],
+    "wof:supersedes":[
+        1058053031
+    ],
     "wof:tags":[
         "whol",
         "flower",

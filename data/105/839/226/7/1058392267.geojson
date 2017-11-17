@@ -7,13 +7,16 @@
     "addr:postcode":"8500",
     "addr:street":"Bede",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2991828918,50.823764801,3.2991828918,50.823764801",
     "geom:latitude":50.823765,
     "geom:longitude":3.299183,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kapel Ter Bede 86",
     "sg:city":"Kortrijk",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473522895,
-    "wof:geomhash":"7f85f53bc63bc8fd93c9185a04c102aa",
+    "wof:geomhash":"2d8ec29ffeb585c5adec3b604e4fd5c3",
     "wof:hierarchy":[],
     "wof:id":1058392267,
-    "wof:lastmodified":1473720404,
+    "wof:lastmodified":1510943989,
     "wof:name":"Koramic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058700725
+    ],
+    "wof:supersedes":[
+        1041986891
+    ],
     "wof:tags":[]
 },
   "bbox": [

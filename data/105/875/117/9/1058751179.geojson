@@ -7,13 +7,16 @@
     "addr:postcode":"8800",
     "addr:street":"Verbrandhofstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1151330471,50.9285812378,3.1151330471,50.9285812378",
     "geom:latitude":50.928581,
     "geom:longitude":3.115133,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Verbrandhofstraat 41",
     "sg:city":"Roeselare",
     "sg:classifiers":[
@@ -35,16 +38,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473539384,
-    "wof:geomhash":"f35ff66148929d2601ea4038a8aa40de",
+    "wof:geomhash":"5899776a98735f613f3bfd9a51f83b05",
     "wof:hierarchy":[],
     "wof:id":1058751179,
-    "wof:lastmodified":1473719779,
+    "wof:lastmodified":1510944103,
     "wof:name":"Ecogen & Hunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058990675
+    ],
+    "wof:supersedes":[
+        1058227613,
+        1042152413
+    ],
     "wof:tags":[]
 },
   "bbox": [

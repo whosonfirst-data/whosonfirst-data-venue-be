@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1563029289,50.4855880737,4.1563029289,50.4855880737",
     "geom:latitude":50.485588,
     "geom:longitude":4.156303,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue L\u00e9on Duray 41",
     "sg:city":"La Louvi\u00e8re (houdeng-goegnies)",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473507290,
-    "wof:geomhash":"f535310b98a3fce476908a133458427a",
+    "wof:geomhash":"9da2c398c1376027f468df1a85a5650d",
     "wof:hierarchy":[],
     "wof:id":1058044483,
-    "wof:lastmodified":1473721351,
+    "wof:lastmodified":1510941853,
     "wof:name":"Centre Adona\u00ef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041632967
+    ],
     "wof:tags":[
         "fitness"
     ]

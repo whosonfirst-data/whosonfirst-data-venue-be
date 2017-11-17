@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5526080132,51.3609313965,4.5526080132,51.3609313965",
     "geom:latitude":51.360931,
     "geom:longitude":4.552608,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Mansionstraat 20",
     "sg:city":"Wuustwezel",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473509111,
-    "wof:geomhash":"d3403a35efe270f356ea46a646b16c59",
+    "wof:geomhash":"f6d56c0812a005886e0b632378f852dc",
     "wof:hierarchy":[],
     "wof:id":1058088961,
-    "wof:lastmodified":1473722550,
+    "wof:lastmodified":1510942592,
     "wof:name":"Cdline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041639107
+    ],
     "wof:tags":[
         "computer",
         "video"

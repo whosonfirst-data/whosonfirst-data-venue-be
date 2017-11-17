@@ -7,13 +7,16 @@
     "addr:postcode":"7500",
     "addr:street":"Rue De La Lys",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4043159485,50.6002388,3.4043159485,50.6002388",
     "geom:latitude":50.600239,
     "geom:longitude":3.404316,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Lys 21",
     "sg:city":"Tournai",
     "sg:classifiers":[
@@ -44,16 +47,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473501985,
-    "wof:geomhash":"388831137b7da847239487d81a47b235",
+    "wof:geomhash":"9b6e468192f8d63be0c57e1fb3b04996",
     "wof:hierarchy":[],
     "wof:id":1042200665,
-    "wof:lastmodified":1473719526,
+    "wof:lastmodified":1510944023,
     "wof:name":"La Technique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058467073,
+        1042201585
+    ],
+    "wof:supersedes":[
+        1042210189
+    ],
     "wof:tags":[
         "electric",
         "appliance",

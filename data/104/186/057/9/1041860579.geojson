@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6817178726,50.8686637878,4.6817178726,50.8686637878",
     "geom:latitude":50.868664,
     "geom:longitude":4.681718,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ijzerenmolenstraat 105",
     "sg:city":"Leuven (groot)",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486240,
-    "wof:geomhash":"5b4c97bebce157a9b98864bd26c581a9",
+    "wof:geomhash":"81de0de780bd37c45c7decb67d5488c5",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1041860579,
-    "wof:lastmodified":1473719493,
+    "wof:lastmodified":1510941529,
     "wof:name":"Hans-kristof Car\u00came",
     "wof:parent_id":85801701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041709081
+    ],
     "wof:tags":[]
 },
   "bbox": [

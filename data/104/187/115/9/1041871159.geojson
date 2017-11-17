@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7330620289,51.0461502075,3.7330620289,51.0461502075",
     "geom:latitude":51.04615,
     "geom:longitude":3.733062,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"H. Fr\u00c8re Orbanlaan 7",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486697,
-    "wof:geomhash":"6c1c6ef1665fed8e89a6f30e3e6381db",
+    "wof:geomhash":"e7573c7fa9db0956a327598b9c040128",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041871159,
-    "wof:lastmodified":1473719735,
+    "wof:lastmodified":1510942019,
     "wof:name":"Tillekaerts Claire",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041719311
+    ],
     "wof:tags":[]
 },
   "bbox": [

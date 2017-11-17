@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue De Livourne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3613009453,50.827545166,4.3613009453,50.827545166",
     "geom:latitude":50.827545,
     "geom:longitude":4.361301,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Livourne 97",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479426,
-    "wof:geomhash":"b824d63a9e668cedba2a52e3bf172b86",
+    "wof:geomhash":"439656c6fc9a740586fdd0e617a7be0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703669,
-    "wof:lastmodified":1473720936,
+    "wof:lastmodified":1510942656,
     "wof:name":"Burlion A.",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

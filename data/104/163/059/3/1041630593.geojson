@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Rue De Monte\u0301Ne\u0301Gro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3366007805,50.8272438049,4.3366007805,50.8272438049",
     "geom:latitude":50.827244,
     "geom:longitude":4.336601,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Mont\u00e9n\u00e9gro 54",
     "sg:city":"Bruxelles (saint-gilles)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476543,
-    "wof:geomhash":"1607cd28395fa74039b60b5004411eb1",
+    "wof:geomhash":"108c7456a6ef988c0407d65ebaf806fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041630593,
-    "wof:lastmodified":1473719554,
+    "wof:lastmodified":1510943724,
     "wof:name":"S\u00e9n\u00e9chal F & Fils",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058645681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental",

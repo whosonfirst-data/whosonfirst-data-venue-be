@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Avenue De La Charmille;Bte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4340229034,50.8532676697,4.4340229034,50.8532676697",
     "geom:latitude":50.853268,
     "geom:longitude":4.434023,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La Charmille 10 Bte 50",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484938,
-    "wof:geomhash":"83390e8c42dfc8b71ccdbd6bfb1e249b",
+    "wof:geomhash":"5c44c88a8d3b60b995dc9299df195036",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041830029,
-    "wof:lastmodified":1473718893,
+    "wof:lastmodified":1510942626,
     "wof:name":"Hypocr\u00c9dit",
     "wof:parent_id":85801825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058417707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

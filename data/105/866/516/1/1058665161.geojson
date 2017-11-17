@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Schouwburgstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7215900421,51.0496177673,3.7215900421,51.0496177673",
     "geom:latitude":51.049618,
     "geom:longitude":3.72159,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schouwburgstraat 5",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535636,
-    "wof:geomhash":"32b2fd542cde7cd846bb7ddb5112a0b9",
+    "wof:geomhash":"d5739466353dd8b215a202e5f77448f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1058665161,
-    "wof:lastmodified":1473721468,
+    "wof:lastmodified":1510942986,
     "wof:name":"Cafe Theatre",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058665301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

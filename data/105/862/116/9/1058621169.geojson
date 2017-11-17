@@ -7,13 +7,16 @@
     "addr:postcode":"7011",
     "addr:street":"Route De Wallonie",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8731050491,50.477394104,3.8731050491,50.477394104",
     "geom:latitude":50.477394,
     "geom:longitude":3.873105,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Route De Wallonie 4",
     "sg:city":"Mons (ghlin)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473533617,
-    "wof:geomhash":"7df1781686eeb70ed6a2c66c0b6cfcc7",
+    "wof:geomhash":"abb111e2571d93af6ed6a724d43ac7ec",
     "wof:hierarchy":[],
     "wof:id":1058621169,
-    "wof:lastmodified":1473719807,
+    "wof:lastmodified":1510941407,
     "wof:name":"Q-invest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058652671
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "project"

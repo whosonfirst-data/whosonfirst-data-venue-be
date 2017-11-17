@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue Louise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3706979752,50.818939209,4.3706979752,50.818939209",
     "geom:latitude":50.818939,
     "geom:longitude":4.370698,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Louise 419",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474061,
-    "wof:geomhash":"0d4d23904d2f219543231e6efd561976",
+    "wof:geomhash":"21033bc68a93cb03a8a9b05da26ce97d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041570411,
-    "wof:lastmodified":1473719444,
+    "wof:lastmodified":1510942570,
     "wof:name":"Oldi Land Sa",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042069277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lady",

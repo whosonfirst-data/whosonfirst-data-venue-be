@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1331849098,50.6994476318,5.1331849098,50.6994476318",
     "geom:latitude":50.699448,
     "geom:longitude":5.133185,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15",
     "sg:city":"Rue De Corthys 4280 Hannut",
     "sg:classifiers":[
@@ -37,16 +39,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473550149,
-    "wof:geomhash":"192f5b76904fc3bb829d62e1147e43bc",
+    "wof:geomhash":"c9013dd8b1f87ecdc7421c097f333953",
     "wof:hierarchy":[],
     "wof:id":1058991073,
-    "wof:lastmodified":1473719742,
+    "wof:lastmodified":1510943393,
     "wof:name":"Christiaens Beton Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058523123
+    ],
     "wof:tags":[
         "wood"
     ]

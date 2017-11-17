@@ -7,13 +7,16 @@
     "addr:postcode":"2170",
     "addr:street":"Lambrechtshoekenlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4505147934,51.246723175,4.4505147934,51.246723175",
     "geom:latitude":51.246723,
     "geom:longitude":4.450515,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lambrechtshoekenlaan 118",
     "sg:city":"Antwerpen (merksem)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473511330,
-    "wof:geomhash":"893312f7db72d191a0dfb70cd4b8b6b1",
+    "wof:geomhash":"18f193afbfa9f98793b0ed7b656f4538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,18 @@
         }
     ],
     "wof:id":1058137339,
-    "wof:lastmodified":1473722112,
+    "wof:lastmodified":1510941804,
     "wof:name":"Ceulemans Haarmode",
     "wof:parent_id":85801615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968183
+    ],
+    "wof:supersedes":[
+        1058133293,
+        1058132607
+    ],
     "wof:tags":[
         "lady",
         "-",

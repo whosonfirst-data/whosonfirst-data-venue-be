@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue De Boetendael;Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3435630798,50.8071594238,4.3435630798,50.8071594238",
     "geom:latitude":50.807159,
     "geom:longitude":4.343563,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De Boetendael 120 Box 3",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507116,
-    "wof:geomhash":"c5d427712b5a199d2ae5737ec8451cab",
+    "wof:geomhash":"f6e8e562453dcd7f2f7d1bf68b4eda55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,15 @@
         }
     ],
     "wof:id":1058040269,
-    "wof:lastmodified":1473719374,
+    "wof:lastmodified":1510942814,
     "wof:name":"A. Andrass",
     "wof:parent_id":85801049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058268617,
+        1058417113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"

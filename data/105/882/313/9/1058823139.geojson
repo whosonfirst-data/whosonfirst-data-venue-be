@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.427503109,50.843914032,4.427503109,50.843914032",
     "geom:latitude":50.843914,
     "geom:longitude":4.427503,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Des Vaillants 2",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473542577,
-    "wof:geomhash":"b4d563d38bf724df9bd4e1b3a6555205",
+    "wof:geomhash":"eec1f213f847082bc16c39ab266d6ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1058823139,
-    "wof:lastmodified":1473720773,
+    "wof:lastmodified":1510942223,
     "wof:name":"Panth\u00e9on Royal Smash",
     "wof:parent_id":85801913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041665907
+    ],
     "wof:tags":[]
 },
   "bbox": [

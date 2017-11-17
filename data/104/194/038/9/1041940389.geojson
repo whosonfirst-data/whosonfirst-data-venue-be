@@ -7,13 +7,16 @@
     "addr:postcode":"2940",
     "addr:street":"Antwerpsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4077620506,51.3066558838,4.4077620506,51.3066558838",
     "geom:latitude":51.306656,
     "geom:longitude":4.407762,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpsesteenweg 18",
     "sg:city":"Hoevenen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489677,
-    "wof:geomhash":"9a6357679bfacedec1962737b292122b",
+    "wof:geomhash":"ed5b8284b356d773f823efa41d3b6e60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041940389,
-    "wof:lastmodified":1473719434,
+    "wof:lastmodified":1510943107,
     "wof:name":"Clean Center",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042066807
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

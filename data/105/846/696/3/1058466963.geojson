@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4188990593,51.2161331177,4.4188990593,51.2161331177",
     "geom:latitude":51.216133,
     "geom:longitude":4.418899,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijfstraat 10",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526532,
-    "wof:geomhash":"c26a9dce305b1e8759321f7d11d6719a",
+    "wof:geomhash":"a15e309e719b438bde8b14134b41c779",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058466963,
-    "wof:lastmodified":1473722032,
+    "wof:lastmodified":1510942428,
     "wof:name":"L & A Bijouterie",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042142825
+    ],
     "wof:tags":[]
 },
   "bbox": [

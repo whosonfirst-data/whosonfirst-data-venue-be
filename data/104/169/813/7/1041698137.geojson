@@ -7,13 +7,16 @@
     "addr:postcode":"2650",
     "addr:street":"Mechelsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4602928162,51.1559524536,4.4602928162,51.1559524536",
     "geom:latitude":51.155952,
     "geom:longitude":4.460293,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelsesteenweg 340",
     "sg:city":"Edegem",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479209,
-    "wof:geomhash":"01bf4ca6952bc73bd6cced01016a5709",
+    "wof:geomhash":"bc6adc578662ef0e573ec6819011725e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,16 @@
         }
     ],
     "wof:id":1041698137,
-    "wof:lastmodified":1473722365,
+    "wof:lastmodified":1510944053,
     "wof:name":"F B D",
     "wof:parent_id":85800891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058282759,
+        1058284183,
+        1058116559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

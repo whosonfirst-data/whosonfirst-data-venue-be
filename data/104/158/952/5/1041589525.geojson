@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Chausse\u0301E De Drogenbos",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3257451057,50.7866592407,4.3257451057,50.7866592407",
     "geom:latitude":50.786659,
     "geom:longitude":4.325745,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Drogenbos 102",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474851,
-    "wof:geomhash":"9047528f125c67e0edc6c5fad7ddcca4",
+    "wof:geomhash":"ef1968bbc07dd71abb1679b69958442e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041589525,
-    "wof:lastmodified":1473722705,
+    "wof:lastmodified":1510943819,
     "wof:name":"A.b.e.l. Multi Services Sprl",
     "wof:parent_id":85801925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058480021
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "water",

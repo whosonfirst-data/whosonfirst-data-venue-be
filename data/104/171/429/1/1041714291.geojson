@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Du Parc",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.576859951,50.6299705505,5.576859951,50.6299705505",
     "geom:latitude":50.629971,
     "geom:longitude":5.57686,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Parc 79",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479843,
-    "wof:geomhash":"bfa2e3b6757cd8c7996d3822bf232540",
+    "wof:geomhash":"6d35e5c2da813dee3f089f3f6647d472",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041714291,
-    "wof:lastmodified":1473721251,
+    "wof:lastmodified":1510942699,
     "wof:name":"Manuel Merodio",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041865967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

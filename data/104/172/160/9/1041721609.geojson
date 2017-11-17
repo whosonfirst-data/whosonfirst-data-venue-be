@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Koning Albertlaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7127680779,51.0370254517,3.7127680779,51.0370254517",
     "geom:latitude":51.037025,
     "geom:longitude":3.712768,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Koning Albertlaan 128",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480137,
-    "wof:geomhash":"a9568ce7cac8496d6df54885e51fa0ca",
+    "wof:geomhash":"b9c0843081e975f5d6a5c5fba028952d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":1041721609,
-    "wof:lastmodified":1473719974,
+    "wof:lastmodified":1510943917,
     "wof:name":"Uyttendaele Aleydis",
     "wof:parent_id":85862121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058347965,
+        1041886101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

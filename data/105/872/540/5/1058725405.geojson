@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Rue Le Lorrain",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3464927673,50.8624572754,4.3464927673,50.8624572754",
     "geom:latitude":50.862457,
     "geom:longitude":4.346493,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Le Lorrain 6-8",
     "sg:city":"Bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473538240,
-    "wof:geomhash":"4a36ee0750283b2a4935c75ac96744da",
+    "wof:geomhash":"0ef0ad999a24a5ee70eb01f0c6f0cccd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058725405,
-    "wof:lastmodified":1473721588,
+    "wof:lastmodified":1510944113,
     "wof:name":"Brumetal",
     "wof:parent_id":85801801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058759749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

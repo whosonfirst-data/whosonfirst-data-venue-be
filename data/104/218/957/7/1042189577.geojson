@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Gre\u0301Try",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5859780312,50.6307220459,5.5859780312,50.6307220459",
     "geom:latitude":50.630722,
     "geom:longitude":5.585978,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Gr\u00c9try 201",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501340,
-    "wof:geomhash":"f304ea5520ddc2c41b3eeb072caeadb3",
+    "wof:geomhash":"1879705195c3814eaa504a0b66ff4ade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,25 @@
         }
     ],
     "wof:id":1042189577,
-    "wof:lastmodified":1473722819,
+    "wof:lastmodified":1510943751,
     "wof:name":"Centrauto Sport",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058881645,
+        1058481435,
+        1058371707,
+        1058460479,
+        1058021269
+    ],
+    "wof:supersedes":[
+        1041690431,
+        1041850867,
+        1041850829,
+        1041843199,
+        1041844261
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Schomhoeveweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3956608772,51.2711677551,4.3956608772,51.2711677551",
     "geom:latitude":51.271168,
     "geom:longitude":4.395661,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schomhoeveweg 13",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545582,
-    "wof:geomhash":"85871294fc41e745b03152a1ccc364f0",
+    "wof:geomhash":"163722350740e895f8f0c2fbef867ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1058892781,
-    "wof:lastmodified":1473720703,
+    "wof:lastmodified":1510944064,
     "wof:name":"Nova Natie",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058962471
+    ],
+    "wof:supersedes":[
+        1042154237
+    ],
     "wof:tags":[
         "-",
         "transport"

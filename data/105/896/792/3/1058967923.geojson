@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4030561447,51.2308540344,4.4030561447,51.2308540344",
     "geom:latitude":51.230854,
     "geom:longitude":4.403056,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijnkaai 37",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473549123,
-    "wof:geomhash":"a8426801040f5ce6a40ef7bcb75ef928",
+    "wof:geomhash":"da20f4da7a5c7a4ff57d3cdb87bb1dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058967923,
-    "wof:lastmodified":1473722160,
+    "wof:lastmodified":1510941722,
     "wof:name":"Vdp-antwerpen",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058952417
+    ],
     "wof:tags":[]
 },
   "bbox": [

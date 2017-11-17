@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Potie\u0301Rue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5790710449,50.6456718445,5.5790710449,50.6456718445",
     "geom:latitude":50.645672,
     "geom:longitude":5.579071,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poti\u00e9rue 5",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474207,
-    "wof:geomhash":"cc5f14fc26c891812d5a21b716203f12",
+    "wof:geomhash":"ba4bd1c6a02e86b2bda754793a311609",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041573943,
-    "wof:lastmodified":1473721233,
+    "wof:lastmodified":1510942813,
     "wof:name":"Mini-cr\u00e8ches",
     "wof:parent_id":85862039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058317889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "baby",

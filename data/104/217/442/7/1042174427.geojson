@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3820009232,50.8684654236,4.3820009232,50.8684654236",
     "geom:latitude":50.868465,
     "geom:longitude":4.382001,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Haecht 509",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473500378,
-    "wof:geomhash":"fc731245dc7eab243566ea96d1e666d8",
+    "wof:geomhash":"a8f4df73a12c3c6556239b482392070b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":1042174427,
-    "wof:lastmodified":1473721302,
+    "wof:lastmodified":1510942603,
     "wof:name":"Electricite Szanto",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041615687
+    ],
     "wof:tags":[
         "door",
         "videophones",

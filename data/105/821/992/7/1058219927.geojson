@@ -7,13 +7,16 @@
     "addr:postcode":"3920",
     "addr:street":"Neeckxlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3531541824,51.2203979492,5.3531541824,51.2203979492",
     "geom:latitude":51.220398,
     "geom:longitude":5.353154,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Norbert Neeckxlaan 197",
     "sg:city":"Lommel",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473515081,
-    "wof:geomhash":"b71e54deb1007946e703253239112491",
+    "wof:geomhash":"e8fec046cdd5716005b8c49ad636b7f2",
     "wof:hierarchy":[],
     "wof:id":1058219927,
-    "wof:lastmodified":1473722862,
+    "wof:lastmodified":1510942622,
     "wof:name":"Immo Crea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058650895
+    ],
+    "wof:supersedes":[
+        1041734435
+    ],
     "wof:tags":[]
 },
   "bbox": [

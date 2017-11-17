@@ -7,13 +7,16 @@
     "addr:postcode":"3000",
     "addr:street":"Stapelhuisstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7053470612,50.8865280151,4.7053470612,50.8865280151",
     "geom:latitude":50.886528,
     "geom:longitude":4.705347,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Stapelhuisstraat 3",
     "sg:city":"Leuven",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473546809,
-    "wof:geomhash":"dbfa2ab2067076259a18b3b6c9c6d13d",
+    "wof:geomhash":"0d2a653e9eff99bdbc3a9695864a7b6d",
     "wof:hierarchy":[],
     "wof:id":1058918333,
-    "wof:lastmodified":1473722372,
+    "wof:lastmodified":1510941983,
     "wof:name":"Piette W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058970759
+    ],
+    "wof:supersedes":[
+        1041748287
+    ],
     "wof:tags":[
         "veranda"
     ]

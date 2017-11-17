@@ -7,13 +7,16 @@
     "addr:postcode":"4051",
     "addr:street":"Rue Du Gravier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6315350533,50.6012535095,5.6315350533,50.6012535095",
     "geom:latitude":50.601254,
     "geom:longitude":5.631535,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Gravier 3",
     "sg:city":"Chaudfontaine (vaux-sous-ch\u00e8vremont)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508853,
-    "wof:geomhash":"0ebeecfa5d97920effe49019546be3e7",
+    "wof:geomhash":"22355f4f457e2b7e8e06b3bb27210477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1058083077,
-    "wof:lastmodified":1473720727,
+    "wof:lastmodified":1510941604,
     "wof:name":"J.m. Bemelmans Sprl",
     "wof:parent_id":85801253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058421215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "director"

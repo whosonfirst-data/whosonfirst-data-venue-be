@@ -7,13 +7,16 @@
     "addr:postcode":"2620",
     "addr:street":"Nijverheidsstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3346910477,51.134475708,4.3346910477,51.134475708",
     "geom:latitude":51.134476,
     "geom:longitude":4.334691,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Nijverheidsstraat 34",
     "sg:city":"Hemiksem",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473531908,
-    "wof:geomhash":"f1029a1d463ab941b88df350e34a2f17",
+    "wof:geomhash":"bee4eb538846d2ec8c115606540d6626",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":1058583239,
-    "wof:lastmodified":1473720836,
+    "wof:lastmodified":1510943406,
     "wof:name":"Van Os Sa",
     "wof:parent_id":85801281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058843077
+    ],
+    "wof:supersedes":[
+        1058510665
+    ],
     "wof:tags":[
         "metal",
         "coating",

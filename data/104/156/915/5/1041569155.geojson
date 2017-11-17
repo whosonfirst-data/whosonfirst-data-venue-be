@@ -7,6 +7,7 @@
     "addr:postcode":"4052",
     "addr:street":"Place De La Bouxhe;Beaufays",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":5.63941,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Place De La Bouxhe 23",
     "sg:city":"Chaudfontaine (beaufays)",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"90d2cfdac070db41ec49b332a5685094",
     "wof:hierarchy":[],
     "wof:id":1041569155,
-    "wof:lastmodified":1510875153,
+    "wof:lastmodified":1510942556,
     "wof:name":"Leonidas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041996289
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery",

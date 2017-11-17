@@ -7,13 +7,16 @@
     "addr:postcode":"8310",
     "addr:street":"Maalsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2496891022,51.2098770142,3.2496891022,51.2098770142",
     "geom:latitude":51.209877,
     "geom:longitude":3.249689,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maalsesteenweg 147",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480686,
-    "wof:geomhash":"85ccf734c7a64547a5ac8c1417b41645",
+    "wof:geomhash":"bcaca98b18d04351b34bc37419d0aefb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041735607,
-    "wof:lastmodified":1473721694,
+    "wof:lastmodified":1510943783,
     "wof:name":"Century 21 Buro Dc",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058649387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

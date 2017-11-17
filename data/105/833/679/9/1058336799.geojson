@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8086700439,51.1992225647,3.8086700439,51.1992225647",
     "geom:latitude":51.199223,
     "geom:longitude":3.80867,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Westkade 19",
     "sg:city":"Zelzate",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520324,
-    "wof:geomhash":"40a7429c96a6d2bb14bc26c52bf1072a",
+    "wof:geomhash":"7f4b8013842559915d4526a429c1df07",
     "wof:hierarchy":[
         {
             "country_id":85633337,
@@ -49,13 +51,18 @@
         }
     ],
     "wof:id":1058336799,
-    "wof:lastmodified":1473722017,
+    "wof:lastmodified":1510943111,
     "wof:name":"De Knijf Ilse",
     "wof:parent_id":85862087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041720905,
+        1041705631,
+        1041857027,
+        1041885823
+    ],
     "wof:tags":[]
 },
   "bbox": [

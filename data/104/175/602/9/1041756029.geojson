@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4125127792,51.2025680542,4.4125127792,51.2025680542",
     "geom:latitude":51.202568,
     "geom:longitude":4.412513,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelse Steenweg 221",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481676,
-    "wof:geomhash":"ce2c66de1a3c428ec040c64d1511b046",
+    "wof:geomhash":"af4fcd2b646e7bb86374a5b84074f4bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041756029,
-    "wof:lastmodified":1473721754,
+    "wof:lastmodified":1510943687,
     "wof:name":"Antiek Donald De Witte",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041759393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

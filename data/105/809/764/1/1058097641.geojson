@@ -7,13 +7,16 @@
     "addr:postcode":"2160",
     "addr:street":"Herentalsebaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5185742378,51.1971969604,4.5185742378,51.1971969604",
     "geom:latitude":51.197197,
     "geom:longitude":4.518574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Herentalsebaan 615-619",
     "sg:city":"Wommelgem",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509480,
-    "wof:geomhash":"0d255f27adf277becbd218b78234622c",
+    "wof:geomhash":"3b4bbec056d736337a2436d369f9d8c4",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +57,28 @@
         }
     ],
     "wof:id":1058097641,
-    "wof:lastmodified":1473722137,
+    "wof:lastmodified":1510943912,
     "wof:name":"Borremans Nv",
     "wof:parent_id":85800937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058594909,
+        1058990431,
+        1058700575,
+        1058268209,
+        1058877863,
+        1058524621,
+        1058969573,
+        1058961329
+    ],
+    "wof:supersedes":[
+        1058042089,
+        1042174541,
+        1042175201,
+        1042099145,
+        1042045617
+    ],
     "wof:tags":[
         "wood"
     ]

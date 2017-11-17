@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Scheldestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3950219154,51.2117080688,4.3950219154,51.2117080688",
     "geom:latitude":51.211708,
     "geom:longitude":4.395022,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Scheldestraat 53",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473514464,
-    "wof:geomhash":"17de1bebfdd8074054e71b446528e1c0",
+    "wof:geomhash":"2b0bad9844e5f62450776cd0a6e5ed16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,23 @@
         }
     ],
     "wof:id":1058206267,
-    "wof:lastmodified":1473721819,
+    "wof:lastmodified":1510943208,
     "wof:name":"De Wieuw Nv",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058414879,
+        1058545933,
+        1058404823,
+        1058598071,
+        1058574867,
+        1058575249
+    ],
+    "wof:supersedes":[
+        1058018685,
+        1058088065
+    ],
     "wof:tags":[
         "household",
         "wood"

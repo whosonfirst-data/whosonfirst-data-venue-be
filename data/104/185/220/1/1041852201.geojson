@@ -7,13 +7,16 @@
     "addr:postcode":"2060",
     "addr:street":"Noorderlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4209651947,51.2371253967,4.4209651947,51.2371253967",
     "geom:latitude":51.237125,
     "geom:longitude":4.420965,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Noorderlaan 32",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485899,
-    "wof:geomhash":"27f9d83be04303d6016bb2770b20959d",
+    "wof:geomhash":"c205783102dcc6819d01d0bfa65d8cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,16 @@
         }
     ],
     "wof:id":1041852201,
-    "wof:lastmodified":1473720354,
+    "wof:lastmodified":1510943781,
     "wof:name":"Verbeeck Jules",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058483249,
+        1058948087,
+        1058947955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

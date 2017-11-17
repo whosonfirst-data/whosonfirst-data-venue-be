@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue De L'Ho \u0302Pital",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3519678116,50.8579750061,4.3519678116,50.8579750061",
     "geom:latitude":50.857975,
     "geom:longitude":4.351968,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De L'h\u00f4pital 41",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494946,
-    "wof:geomhash":"0463f03df16115f9da550c855be96683",
+    "wof:geomhash":"da5ffbb61f14af84a8ddbba99ba0c929",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1042066847,
-    "wof:lastmodified":1473722019,
+    "wof:lastmodified":1510943519,
     "wof:name":"De Geest (ververij)",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042049383,
+        1058083651,
+        1058703339,
+        1058703463
+    ],
+    "wof:supersedes":[
+        1042100695
+    ],
     "wof:tags":[
         "dyer",
         "cleaner"

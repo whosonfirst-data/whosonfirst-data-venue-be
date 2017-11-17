@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5552248955,50.6680679321,5.5552248955,50.6680679321",
     "geom:latitude":50.668068,
     "geom:longitude":5.555225,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Tongres 200",
     "sg:city":"Li\u00e8ge 1 (rocourt)",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494917,
-    "wof:geomhash":"ffdc52cd49c774773e6a730ce05fee72",
+    "wof:geomhash":"d71d068b0dd774c4d0f11bcc995ea04a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":1042066229,
-    "wof:lastmodified":1473721852,
+    "wof:lastmodified":1510942838,
     "wof:name":"Kinepolis Li\u00e8ge",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041569349
+    ],
     "wof:tags":[]
 },
   "bbox": [

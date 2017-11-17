@@ -7,13 +7,16 @@
     "addr:postcode":"9160",
     "addr:street":"Rechtstraat;Lokeren Eksaarde Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9864850044,51.1047401428,3.9864850044,51.1047401428",
     "geom:latitude":51.10474,
     "geom:longitude":3.986485,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rechtstraat 183",
     "sg:city":"Lokeren (eksaarde)",
     "sg:classifiers":[
@@ -38,16 +41,28 @@
     },
     "wof:country":"BE",
     "wof:created":1473509457,
-    "wof:geomhash":"58133ce0572fb1b45ebfb3c82ea0d334",
+    "wof:geomhash":"326651527c735d186aa83c2a0db1b017",
     "wof:hierarchy":[],
     "wof:id":1058097107,
-    "wof:lastmodified":1473722023,
+    "wof:lastmodified":1510944155,
     "wof:name":"Chris Ceramique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058801095,
+        1058921139,
+        1058277871,
+        1058906999
+    ],
+    "wof:supersedes":[
+        1042190265,
+        1058053979,
+        1041788731,
+        1058104293,
+        1058110549,
+        1042048501
+    ],
     "wof:tags":[
         "decoration"
     ]

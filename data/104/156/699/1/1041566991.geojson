@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Chausse\u0301E De Gand",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3193387985,50.8575706482,4.3193387985,50.8575706482",
     "geom:latitude":50.857571,
     "geom:longitude":4.319339,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Gand 392",
     "sg:city":"Bruxelles (molenbeek-saint-jean)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473912,
-    "wof:geomhash":"164f9223a3fd2f15721200545b86fa3d",
+    "wof:geomhash":"18c206ad9e210d83f5a0cbbebf7344c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041566991,
-    "wof:lastmodified":1473722033,
+    "wof:lastmodified":1510941470,
     "wof:name":"Delicatesse Karreveld",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041745421
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

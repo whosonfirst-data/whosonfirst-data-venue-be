@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1976127625,50.6950111389,4.1976127625,50.6950111389",
     "geom:latitude":50.695011,
     "geom:longitude":4.197613,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rue Neuve Cour 76",
     "sg:city":"Tubize",
     "sg:classifiers":[
@@ -35,20 +37,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":222724348,
         "sg:id":"SG_7KsBJV2WYrI029GYcKVFFz_50.695011_4.197613@1306268549"
     },
     "wof:country":"BE",
     "wof:created":1473535524,
-    "wof:geomhash":"184f4dfef4183493126512bf86c0acde",
+    "wof:geomhash":"671a4d463e17183daf510f5330eb5b84",
     "wof:hierarchy":[],
     "wof:id":1058662425,
-    "wof:lastmodified":1473720349,
+    "wof:lastmodified":1510943892,
     "wof:name":"R\u00e9sidence Neuve Cour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041658077
+    ],
     "wof:tags":[
         "home",
         "rest"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4180588722,50.7042503357,4.4180588722,50.7042503357",
     "geom:latitude":50.70425,
     "geom:longitude":4.418059,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Dr\u00e8ve Richelle 225",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473494711,
-    "wof:geomhash":"20eee7ee385953ef6fff51ac514a62d6",
+    "wof:geomhash":"82f3321dc5eea554dfb455235d1adcb8",
     "wof:hierarchy":[],
     "wof:id":1042060913,
-    "wof:lastmodified":1473719688,
+    "wof:lastmodified":1510941934,
     "wof:name":"Pharmacie De La Dr\u00e8ve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041644441
+    ],
     "wof:tags":[
         "chemist"
     ]

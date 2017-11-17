@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Paul Joseph Delcloche",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5932459831,50.6188163757,5.5932459831,50.6188163757",
     "geom:latitude":50.618816,
     "geom:longitude":5.593246,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Paul Joseph Delcloche 16",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474089,
-    "wof:geomhash":"9d65002da4d83bfeba12315db5cb66c9",
+    "wof:geomhash":"ca8ebf2f1e7ddd2e7836bb47d139885a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041571203,
-    "wof:lastmodified":1473719834,
+    "wof:lastmodified":1510943861,
     "wof:name":"Ig Soft",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041573509
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

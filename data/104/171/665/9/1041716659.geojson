@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Korte Lozanastraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4081149101,51.1963500977,4.4081149101,51.1963500977",
     "geom:latitude":51.19635,
     "geom:longitude":4.408115,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Korte Lozanastraat 20",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479928,
-    "wof:geomhash":"8a38270a7a60fea63a706d459e0f46ea",
+    "wof:geomhash":"cd258950bb198d0bb3209c20a8a00fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041716659,
-    "wof:lastmodified":1473721861,
+    "wof:lastmodified":1510942009,
     "wof:name":"Paul Verguts",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041868439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

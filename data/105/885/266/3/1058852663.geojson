@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1957600117,51.2053184509,3.1957600117,51.2053184509",
     "geom:latitude":51.205318,
     "geom:longitude":3.19576,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Legeweg 299",
     "sg:city":"Brugge (sint-andries)",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543847,
-    "wof:geomhash":"66951f0cb4d1113fe9779f828635a184",
+    "wof:geomhash":"5993808253729079714d64a6190720c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":1058852663,
-    "wof:lastmodified":1473720564,
+    "wof:lastmodified":1510941459,
     "wof:name":"Aaar Quicke Edward",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042067453,
+        1042176017,
+        1058702955
+    ],
     "wof:tags":[]
 },
   "bbox": [

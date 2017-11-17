@@ -7,13 +7,16 @@
     "addr:postcode":"1180;1140",
     "addr:street":"Chausse\u0301E De Haecht",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4056859016,50.8756637573,4.4056859016,50.8756637573",
     "geom:latitude":50.875664,
     "geom:longitude":4.405686,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Haecht 1180",
     "sg:city":"Bruxelles (evere)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477255,
-    "wof:geomhash":"7e34dbbf324182e6404e00b8dd95e612",
+    "wof:geomhash":"0f9a9b158b4aac8161ca22a39af2d542",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041647655,
-    "wof:lastmodified":1473722204,
+    "wof:lastmodified":1510941918,
     "wof:name":"Comptoir Des D\u00e9tartrages",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058586625
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

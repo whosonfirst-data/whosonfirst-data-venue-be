@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827354908,51.1824302673,4.827354908,51.1824302673",
     "geom:latitude":51.18243,
     "geom:longitude":4.827355,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Wuytsbergen 2",
     "sg:city":"Herentals",
     "sg:classifiers":[
@@ -39,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473540543,
-    "wof:geomhash":"3042fe2c76f8c8360cdaa4007340c152",
+    "wof:geomhash":"821c579496b09cfa7787d7f790c4845c",
     "wof:hierarchy":[],
     "wof:id":1058777227,
-    "wof:lastmodified":1473722144,
+    "wof:lastmodified":1510943389,
     "wof:name":"Jumbo-lambrechts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058604937,
+        1041700233,
+        1058353071,
+        1058323339
+    ],
     "wof:tags":[
         "-",
         "illuminated"

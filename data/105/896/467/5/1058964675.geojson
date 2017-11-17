@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4965968132,50.7377052307,4.4965968132,50.7377052307",
     "geom:latitude":50.737705,
     "geom:longitude":4.496597,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place Alphonse Favresse 31",
     "sg:city":"La Hulpe",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473548980,
-    "wof:geomhash":"eb5f6c565baf48747d3c926ffce06958",
+    "wof:geomhash":"ca6223736bff9645a4c1e74c559c92d2",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,19 @@
         }
     ],
     "wof:id":1058964675,
-    "wof:lastmodified":1473721343,
+    "wof:lastmodified":1510941367,
     "wof:name":"Concept & Pose",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058593259,
+        1058175357,
+        1058178477,
+        1058749381,
+        1041914645
+    ],
     "wof:tags":[
         "softener"
     ]

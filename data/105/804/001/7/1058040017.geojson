@@ -7,13 +7,16 @@
     "addr:postcode":"1120",
     "addr:street":"Chausse\u0301E De Vilvorde",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3868379593,50.8889961243,4.3868379593,50.8889961243",
     "geom:latitude":50.888996,
     "geom:longitude":4.386838,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Vilvorde 70",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473507106,
-    "wof:geomhash":"a72706c41e3f0becd704b143b74544c0",
+    "wof:geomhash":"caffc3b336df8b146a501a49b8e2d7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1058040017,
-    "wof:lastmodified":1473718880,
+    "wof:lastmodified":1510943768,
     "wof:name":"Klinger-sogefiltres Sa",
     "wof:parent_id":85801665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058045627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "filter",

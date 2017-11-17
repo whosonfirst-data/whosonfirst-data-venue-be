@@ -7,13 +7,16 @@
     "addr:postcode":"5002",
     "addr:street":"Chausse\u0301E De Perwez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8462319374,50.4782791138,4.8462319374,50.4782791138",
     "geom:latitude":50.478279,
     "geom:longitude":4.846232,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Perwez 251",
     "sg:city":"Namur (saint-servais)",
     "sg:classifiers":[
@@ -38,16 +41,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473515338,
-    "wof:geomhash":"0f49fafdd845cf9d4a7c2e9e1c0c56b4",
+    "wof:geomhash":"20faffa3a581972eff9ecf8ba49cb410",
     "wof:hierarchy":[],
     "wof:id":1058225563,
-    "wof:lastmodified":1473721611,
+    "wof:lastmodified":1510943276,
     "wof:name":"Bowling Et Squash De Namur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058261875,
+        1058821649,
+        1058763131
+    ],
+    "wof:supersedes":[
+        1058149261,
+        1041989197,
+        1041937345
+    ],
     "wof:tags":[
         "incentive"
     ]

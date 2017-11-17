@@ -7,13 +7,16 @@
     "addr:postcode":"9160",
     "addr:street":"Oudstrijderslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9969830513,51.1032676697,3.9969830513,51.1032676697",
     "geom:latitude":51.103268,
     "geom:longitude":3.996983,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Oudstrijderslaan 49",
     "sg:city":"Lokeren",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473495411,
-    "wof:geomhash":"b56ec243062f0090c04e1f423e198ca6",
+    "wof:geomhash":"850e78c2ece2297f425471e219f3ce36",
     "wof:hierarchy":[],
     "wof:id":1042077775,
-    "wof:lastmodified":1473722227,
+    "wof:lastmodified":1510943209,
     "wof:name":"Biljart Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058821573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "de"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6378669739,51.1959342957,4.6378669739,51.1959342957",
     "geom:latitude":51.195934,
     "geom:longitude":4.637867,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Nijverheidsweg 1",
     "sg:city":"Zandhoven (massenhoven)",
     "sg:classifiers":[
@@ -39,16 +41,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473549010,
-    "wof:geomhash":"f3c01bb932cfe4c6813307d83fcf18d4",
+    "wof:geomhash":"8d460c24ac114bedfabdf5e22d4231c0",
     "wof:hierarchy":[],
     "wof:id":1058965261,
-    "wof:lastmodified":1473721412,
+    "wof:lastmodified":1510942224,
     "wof:name":"Bodima Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058034271,
+        1058035205,
+        1058418181,
+        1058034947
+    ],
     "wof:tags":[
         "work",
         "waterproofing"

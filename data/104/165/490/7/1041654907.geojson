@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4020199776,51.2244682312,4.4020199776,51.2244682312",
     "geom:latitude":51.224468,
     "geom:longitude":4.40202,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-paulusplaats 20",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3240742468,
         "sg:id":"SG_3GTRPHVdIeZgewhPBwZf2u_51.224468_4.402020@1306268549"
     },
     "wof:country":"BE",
     "wof:created":1473477531,
-    "wof:geomhash":"35ee76588d6c2fdd5818be6117d67fad",
+    "wof:geomhash":"0031f1350f1f110da552e2069358ab16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1041654907,
-    "wof:lastmodified":1473721416,
+    "wof:lastmodified":1510943714,
     "wof:name":"Amadeus",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",

@@ -7,13 +7,16 @@
     "addr:postcode":"9120",
     "addr:street":"Gerard Van Gervenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2586817741,51.2137298584,4.2586817741,51.2137298584",
     "geom:latitude":51.21373,
     "geom:longitude":4.258682,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Gerard Van Gervenstraat 1",
     "sg:city":"Beveren",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480086,
-    "wof:geomhash":"c331251ba7c8503bd31a5984b6d52e7d",
+    "wof:geomhash":"934ff44c4d1430c8d084e365fef3d16d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041720323,
-    "wof:lastmodified":1473719380,
+    "wof:lastmodified":1510942611,
     "wof:name":"Wout Smet",
     "wof:parent_id":85801609,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041872277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"3090;403",
     "addr:street":"Brusselsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5095529556,50.7842521667,4.5095529556,50.7842521667",
     "geom:latitude":50.784252,
     "geom:longitude":4.509553,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"403",
     "sg:city":"Brusselsesteenweg 3090 Overijse",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476591,
-    "wof:geomhash":"28134814b0bc0589cdaa0a4f521e4419",
+    "wof:geomhash":"cb824cd6177080a7100b3f9875d53fea",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1041631915,
-    "wof:lastmodified":1473720288,
+    "wof:lastmodified":1510942544,
     "wof:name":"Desmeth Nv",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041548273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Avenue Rogier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3747429848,50.8601875305,4.3747429848,50.8601875305",
     "geom:latitude":50.860188,
     "geom:longitude":4.374743,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Rogier 62-64",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473497781,
-    "wof:geomhash":"4057951dfa046200dadf0d807c547d8c",
+    "wof:geomhash":"be144c8e9305c7f0655d18f1cc926fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042127171,
-    "wof:lastmodified":1473722090,
+    "wof:lastmodified":1510942797,
     "wof:name":"Centre Medical Deschanel",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058400553
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dental",

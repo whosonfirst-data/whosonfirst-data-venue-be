@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4070501328,51.1989860535,4.4070501328,51.1989860535",
     "geom:latitude":51.198986,
     "geom:longitude":4.40705,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Lange Lozanastraat 280",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1647409270,
         "sg:id":"SG_3RkfaofnivG8hhUUPbtjxf_51.198986_4.407050@1306268430"
     },
     "wof:country":"BE",
     "wof:created":1473506641,
-    "wof:geomhash":"40fe0a812abc183d394227a365b8162c",
+    "wof:geomhash":"b3b4efb9970078e35f50a9209032592b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058029053,
-    "wof:lastmodified":1473722608,
+    "wof:lastmodified":1510941629,
     "wof:name":"De Zwaan",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",

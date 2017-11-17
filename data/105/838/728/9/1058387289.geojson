@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Meir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4077129364,51.2180252075,4.4077129364,51.2180252075",
     "geom:latitude":51.218025,
     "geom:longitude":4.407713,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Meir 44a",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522660,
-    "wof:geomhash":"dae7a1d8ec850bd83ede09d99b8246fe",
+    "wof:geomhash":"97ba5c9e65d1631d5d867e0164f88d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1058387289,
-    "wof:lastmodified":1473722103,
+    "wof:lastmodified":1510944092,
     "wof:name":"Synovate",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058387885
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "market",

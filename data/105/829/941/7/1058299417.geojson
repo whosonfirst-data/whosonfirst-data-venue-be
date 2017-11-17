@@ -7,13 +7,16 @@
     "addr:postcode":"3620",
     "addr:street":"Paalsteenlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6760239601,50.9122772217,5.6760239601,50.9122772217",
     "geom:latitude":50.912277,
     "geom:longitude":5.676024,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Paalsteenlaan 90",
     "sg:city":"Lanaken",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473518570,
-    "wof:geomhash":"4878a9620a103e653a0ff7e3f80b7ae2",
+    "wof:geomhash":"ede81a89fae05fcceae6eb64329f2cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1058299417,
-    "wof:lastmodified":1473722784,
+    "wof:lastmodified":1510941711,
     "wof:name":"Camping De Sterregraaf",
     "wof:parent_id":85797237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058869345
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

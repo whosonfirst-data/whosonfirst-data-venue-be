@@ -7,13 +7,16 @@
     "addr:postcode":"3512",
     "addr:street":"Kolmenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.2312188148,50.9201507568,5.2312188148,50.9201507568",
     "geom:latitude":50.920151,
     "geom:longitude":5.231219,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kolmenstraat 139",
     "sg:city":"Hasselt (stevoort)",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473500442,
-    "wof:geomhash":"7f25093a74a50a870abb903907f6f34a",
+    "wof:geomhash":"8d730165e55815968a95bee804c55995",
     "wof:hierarchy":[],
     "wof:id":1042175631,
-    "wof:lastmodified":1473721614,
+    "wof:lastmodified":1510944002,
     "wof:name":"Schrijnwerkerij Thoelen Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058319579,
+        1058828257,
+        1058045473
+    ],
+    "wof:supersedes":[
+        1042038329
+    ],
     "wof:tags":[
         "door"
     ]

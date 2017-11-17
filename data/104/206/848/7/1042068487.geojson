@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Avenue Winston Churchill;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3665962219,50.811630249,4.3665962219,50.811630249",
     "geom:latitude":50.81163,
     "geom:longitude":4.366596,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Winston Churchill 239",
     "sg:city":"Ukkel/uccle",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473495015,
-    "wof:geomhash":"185f6ed7af51d93ca6e4d5c3bcf6206e",
+    "wof:geomhash":"0c7217078a3b4c56313eca56e09a5a74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042068487,
-    "wof:lastmodified":1473722521,
+    "wof:lastmodified":1510942596,
     "wof:name":"Euro Biostatistics Center",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058994749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

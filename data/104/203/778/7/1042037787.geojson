@@ -7,13 +7,16 @@
     "addr:postcode":"9820",
     "addr:street":"Industriepark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7680830956,50.9883842468,3.7680830956,50.9883842468",
     "geom:latitude":50.988384,
     "geom:longitude":3.768083,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriepark 15",
     "sg:city":"Merelbeke",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473493775,
-    "wof:geomhash":"a7bc769c42d7babcf6c95724e1fb23cd",
+    "wof:geomhash":"10b5f3a51b72428e142348b4aa97dac9",
     "wof:hierarchy":[],
     "wof:id":1042037787,
-    "wof:lastmodified":1473722251,
+    "wof:lastmodified":1510943824,
     "wof:name":"Novo I.b. Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058510631,
+        1058281995,
+        1058513837,
+        1058525673
+    ],
+    "wof:supersedes":[
+        1042045887
+    ],
     "wof:tags":[
         "carpenter"
     ]

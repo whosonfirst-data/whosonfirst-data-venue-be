@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Gre\u0301Try;Groot Lie\u0300Ge",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5819721222,50.633972168,5.5819721222,50.633972168",
     "geom:latitude":50.633972,
     "geom:longitude":5.581972,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Gr\u00c9try 82",
     "sg:city":"Luik (groot)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477774,
-    "wof:geomhash":"529709f5879991a1c16b2bbe73a2b9ba",
+    "wof:geomhash":"eeb98143d9566e5e748b05f4949ba229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041660473,
-    "wof:lastmodified":1473719553,
+    "wof:lastmodified":1510943708,
     "wof:name":"Tiff- Art",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058148071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "de",

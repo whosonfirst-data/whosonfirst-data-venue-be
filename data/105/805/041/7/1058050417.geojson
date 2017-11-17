@@ -7,13 +7,16 @@
     "addr:postcode":"8500",
     "addr:street":"Vierschaarstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2770810127,50.8215637207,3.2770810127,50.8215637207",
     "geom:latitude":50.821564,
     "geom:longitude":3.277081,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vierschaarstraat 8",
     "sg:city":"Kortrijk",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473507526,
-    "wof:geomhash":"a0cfae0dcb55fbc5092d0ff906181182",
+    "wof:geomhash":"aeba7d7030535df6dc47919f9a6d1d23",
     "wof:hierarchy":[],
     "wof:id":1058050417,
-    "wof:lastmodified":1473719530,
+    "wof:lastmodified":1510942094,
     "wof:name":"Groep Kordekor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058516345,
+        1058278665
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

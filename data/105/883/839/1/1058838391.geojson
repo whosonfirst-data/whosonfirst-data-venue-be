@@ -7,13 +7,16 @@
     "addr:postcode":"9050",
     "addr:street":"Hundelgemsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7391650677,51.0364990234,3.7391650677,51.0364990234",
     "geom:latitude":51.036499,
     "geom:longitude":3.739165,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hundelgemsesteenweg 51",
     "sg:city":"Gent (ledeberg)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543231,
-    "wof:geomhash":"8dca2e8d0a5c6fab92b7d7a604b6ba49",
+    "wof:geomhash":"15369b6d9437a5d74eaf5105a913ae00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,21 @@
         }
     ],
     "wof:id":1058838391,
-    "wof:lastmodified":1473722412,
+    "wof:lastmodified":1510943149,
     "wof:name":"P.l.s. Beauty Service Nv",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968013
+    ],
+    "wof:supersedes":[
+        1058044299,
+        1058751319,
+        1041915283,
+        1058390211,
+        1058469667
+    ],
     "wof:tags":[
         "sunapparatus",
         "hiring",

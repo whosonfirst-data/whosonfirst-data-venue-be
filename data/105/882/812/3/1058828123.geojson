@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2918848991,50.8730888367,4.2918848991,50.8730888367",
     "geom:latitude":50.873089,
     "geom:longitude":4.291885,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Bois Des Iles 15",
     "sg:city":"Bruxelles (berchem-sainte-agathe)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473542770,
-    "wof:geomhash":"eff561f19cc057884c1d48de47c93500",
+    "wof:geomhash":"d0d967aeaf052f0b8ddbb370ef8e3cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058828123,
-    "wof:lastmodified":1473722287,
+    "wof:lastmodified":1510942752,
     "wof:name":"Mercura-abelal",
     "wof:parent_id":85800829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058324317
+    ],
     "wof:tags":[
         "stair"
     ]

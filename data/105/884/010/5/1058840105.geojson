@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6225380898,50.5260620117,4.6225380898,50.5260620117",
     "geom:latitude":50.526062,
     "geom:longitude":4.622538,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Gembloux 25",
     "sg:city":"Sombreffe (tongrinne)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473543323,
-    "wof:geomhash":"ca8b156050754b4602fe7cc3058b9376",
+    "wof:geomhash":"e5b37b183967c8bfb97cf1e0e84041a8",
     "wof:hierarchy":[],
     "wof:id":1058840105,
-    "wof:lastmodified":1473718930,
+    "wof:lastmodified":1510943458,
     "wof:name":"A.d. Delhaize",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041667877
+    ],
     "wof:tags":[
         "department",
         "store"

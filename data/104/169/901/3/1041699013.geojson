@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue De Birmingham",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3221869469,50.8454627991,4.3221869469,50.8454627991",
     "geom:latitude":50.845463,
     "geom:longitude":4.322187,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Birmingham 131",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479239,
-    "wof:geomhash":"fe8919b1f0878833eea9f6598ea9f828",
+    "wof:geomhash":"7040fda0c012b8527b8ae9eeeb95f77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,17 @@
         }
     ],
     "wof:id":1041699013,
-    "wof:lastmodified":1473722640,
+    "wof:lastmodified":1510943905,
     "wof:name":"Publicour",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042193999,
+        1058400195,
+        1058626965,
+        1058456705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2238841057,51.2086486816,3.2238841057,51.2086486816",
     "geom:latitude":51.208649,
     "geom:longitude":3.223884,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Markt 16",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":100656161,
         "sg:id":"SG_28VctcCABrj08JpW2N3EBS_51.208649_3.223884@1306268543"
     },
     "wof:country":"BE",
     "wof:created":1473534042,
-    "wof:geomhash":"d5e4a768b3fe6ffb42a6c9b6acd58bad",
+    "wof:geomhash":"021160297e6a4fffd805d7751eab8562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058630419,
-    "wof:lastmodified":1473719432,
+    "wof:lastmodified":1510943166,
     "wof:name":"Craenenburg",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

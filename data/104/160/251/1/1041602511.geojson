@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Rue Du Pontonnier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4394230843,50.8380622864,4.4394230843,50.8380622864",
     "geom:latitude":50.838062,
     "geom:longitude":4.439423,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Pontonnier 36",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475411,
-    "wof:geomhash":"20bd4ef61a209e067f470e5771af8c8c",
+    "wof:geomhash":"c58726f77e5f2a539d32b325d814b7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041602511,
-    "wof:lastmodified":1473720455,
+    "wof:lastmodified":1510941854,
     "wof:name":"Regnier",
     "wof:parent_id":85802023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058747385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lady",

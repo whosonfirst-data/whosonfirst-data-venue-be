@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7018871307,51.2992172241,4.7018871307,51.2992172241",
     "geom:latitude":51.299217,
     "geom:longitude":4.701887,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zeepakker 20",
     "sg:city":"Westmalle",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473499153,
-    "wof:geomhash":"92fbc7579d4f109c2630160af088c363",
+    "wof:geomhash":"7be0a094d71ed3653434ed1a6101696e",
     "wof:hierarchy":[],
     "wof:id":1042152439,
-    "wof:lastmodified":1473720476,
+    "wof:lastmodified":1510942277,
     "wof:name":"Antheunis Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042092013
+    ],
     "wof:tags":[
         "installation",
         "disinfection"

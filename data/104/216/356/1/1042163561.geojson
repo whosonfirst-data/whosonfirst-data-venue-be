@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Hoveniersstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4185500145,51.2151031494,4.4185500145,51.2151031494",
     "geom:latitude":51.215103,
     "geom:longitude":4.41855,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hoveniersstraat 30b3134",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499729,
-    "wof:geomhash":"119ad8a21b79dd4c66bda059dbaf0d38",
+    "wof:geomhash":"80639290f406799efc237137d2538c88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042163561,
-    "wof:lastmodified":1473720889,
+    "wof:lastmodified":1510943191,
     "wof:name":"Yahya Diamonds",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058616757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

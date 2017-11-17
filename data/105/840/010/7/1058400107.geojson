@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3986377716,50.8486824036,4.3986377716,50.8486824036",
     "geom:latitude":50.848682,
     "geom:longitude":4.398638,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Adolphe Lacombl\u00e9 66",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523249,
-    "wof:geomhash":"a361afadc6658386f6278da8f60807c5",
+    "wof:geomhash":"3a9c5b3f989c741b6a0e86fa733000be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058400107,
-    "wof:lastmodified":1473718908,
+    "wof:lastmodified":1510943846,
     "wof:name":"Beneport Sa",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041536049
+    ],
     "wof:tags":[
         "medium",
         "broker"

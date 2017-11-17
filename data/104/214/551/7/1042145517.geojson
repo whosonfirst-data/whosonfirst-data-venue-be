@@ -7,13 +7,16 @@
     "addr:postcode":"1060",
     "addr:street":"Waterloose Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3528728485,50.8230133057,4.3528728485,50.8230133057",
     "geom:latitude":50.823013,
     "geom:longitude":4.352873,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waterloose Steenweg 345",
     "sg:city":"Sint-gillis/saint-gilles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473498780,
-    "wof:geomhash":"81fe38c6d353391df8386c4deadfd458",
+    "wof:geomhash":"504121348ca46d590e0e2ffec0e1a8d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042145517,
-    "wof:lastmodified":1473721631,
+    "wof:lastmodified":1510943832,
     "wof:name":"Rau",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058796479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

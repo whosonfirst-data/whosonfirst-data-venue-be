@@ -7,13 +7,16 @@
     "addr:postcode":"2550",
     "addr:street":"De Villermontstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4397192001,51.1403923035,4.4397192001,51.1403923035",
     "geom:latitude":51.140392,
     "geom:longitude":4.439719,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"De Villermontstraat 32",
     "sg:city":"Kontich",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485538,
-    "wof:geomhash":"f70ad4e167382fb2f0954adcaac51317",
+    "wof:geomhash":"4dd7881044d823ceb1e2db8f757633b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,22 @@
         }
     ],
     "wof:id":1041843725,
-    "wof:lastmodified":1473720973,
+    "wof:lastmodified":1510944157,
     "wof:name":"Autovak Nv",
     "wof:parent_id":85800891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058376421,
+        1058458597,
+        1058089135,
+        1058371693,
+        1058420611
+    ],
+    "wof:supersedes":[
+        1041843121,
+        1041842841
+    ],
     "wof:tags":[
         "automobile",
         "-",

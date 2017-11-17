@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Chausse\u0301E D'Alsemberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3351969719,50.7959518433,4.3351969719,50.7959518433",
     "geom:latitude":50.795952,
     "geom:longitude":4.335197,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e D'alsemberg 993",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476783,
-    "wof:geomhash":"0e74351096fe839152c8215be4a6479b",
+    "wof:geomhash":"2f63ef3abeeff948a3d4ad7a8235efaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041636597,
-    "wof:lastmodified":1473722005,
+    "wof:lastmodified":1510942958,
     "wof:name":"Prefix Sprl",
     "wof:parent_id":85801925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041700101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

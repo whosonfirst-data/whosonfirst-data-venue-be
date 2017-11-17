@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Karel Oomsstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4098629951,51.1970176697,4.4098629951,51.1970176697",
     "geom:latitude":51.197018,
     "geom:longitude":4.409863,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Karel Oomsstraat 22",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479366,
-    "wof:geomhash":"c057d660c9809fa5cb72a5b57354c0c2",
+    "wof:geomhash":"30d6ba1356126d54b523cbcf231308e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041701951,
-    "wof:lastmodified":1473720214,
+    "wof:lastmodified":1510941703,
     "wof:name":"Albert Van Bogaert",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041853243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

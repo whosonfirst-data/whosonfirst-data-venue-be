@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0920529366,51.2290458679,4.0920529366,51.2290458679",
     "geom:latitude":51.229046,
     "geom:longitude":4.092053,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kluizenhof 25",
     "sg:city":"Sint-gillis-waas",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473550175,
-    "wof:geomhash":"3b24ba893dc32ba9af2e937d30184c1c",
+    "wof:geomhash":"786351193bbeb0a3c60a23d1666dff32",
     "wof:hierarchy":[],
     "wof:id":1058991761,
-    "wof:lastmodified":1473720116,
+    "wof:lastmodified":1510942865,
     "wof:name":"Real",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058660053
+    ],
     "wof:tags":[
         "platform",
         "work"

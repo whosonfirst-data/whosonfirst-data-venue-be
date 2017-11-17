@@ -7,13 +7,16 @@
     "addr:postcode":"2800",
     "addr:street":"Brusselsesteenweg;Groot Antwerpen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.471601963,51.0208358765,4.471601963,51.0208358765",
     "geom:latitude":51.020836,
     "geom:longitude":4.471602,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brusselsesteenweg 2",
     "sg:city":"Mechelen (groot)",
     "sg:classifiers":[
@@ -39,16 +42,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473489325,
-    "wof:geomhash":"fffebc1a63814889f15067d6566e5ee7",
+    "wof:geomhash":"9f6ca7782501043ce581b4434ded4993",
     "wof:hierarchy":[],
     "wof:id":1041931533,
-    "wof:lastmodified":1473719978,
+    "wof:lastmodified":1510943729,
     "wof:name":"Bw Hotel Gulden Anker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058731337,
+        1041931535,
+        1058205973,
+        1058204967,
+        1058204969
+    ],
+    "wof:supersedes":[
+        1041931523
+    ],
     "wof:tags":[
         "western",
         "best"

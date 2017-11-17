@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Rue De La Pastorale",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3015971184,50.8484382629,4.3015971184,50.8484382629",
     "geom:latitude":50.848438,
     "geom:longitude":4.301597,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Pastorale 59",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546790,
-    "wof:geomhash":"de2fb87651f2fdbc92085a2dc38424a2",
+    "wof:geomhash":"59536253792a8557c408d4e63a6bdb00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,24 @@
         }
     ],
     "wof:id":1058918011,
-    "wof:lastmodified":1473722271,
+    "wof:lastmodified":1510943956,
     "wof:name":"C Devos",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058969635
+    ],
+    "wof:supersedes":[
+        1058496799,
+        1058797259,
+        1058776679,
+        1058042091,
+        1042174653,
+        1042175917,
+        1042175849,
+        1058233127
+    ],
     "wof:tags":[
         "veranda"
     ]

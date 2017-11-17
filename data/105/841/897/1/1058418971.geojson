@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3114800453,50.805480957,4.3114800453,50.805480957",
     "geom:latitude":50.805481,
     "geom:longitude":4.31148,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5",
     "sg:city":"Square Emile Des Grees Du Lou 1190 Forest",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473524087,
-    "wof:geomhash":"257969eaf2b7df5218d1d17d2505dc1a",
+    "wof:geomhash":"8782db66fc6bdcc1d9e59e6c75da5729",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058418971,
-    "wof:lastmodified":1473722595,
+    "wof:lastmodified":1510943408,
     "wof:name":"Jaguar Brussels Sa",
     "wof:parent_id":85801153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058092961
+    ],
     "wof:tags":[
         "equipment",
         "motor-cars",

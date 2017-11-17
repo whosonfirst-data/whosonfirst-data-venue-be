@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.2238960266,50.4108276367,6.2238960266,50.4108276367",
     "geom:latitude":50.410828,
     "geom:longitude":6.223896,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zur Domaene 47",
     "sg:city":"Butgenbach",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473533572,
-    "wof:geomhash":"c86a430236b41fc23e0f09620e252c07",
+    "wof:geomhash":"912af5df86356c4b07c7bc226db8eb80",
     "wof:hierarchy":[],
     "wof:id":1058620053,
-    "wof:lastmodified":1473718896,
+    "wof:lastmodified":1510942633,
     "wof:name":"Toller Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058480011
+    ],
     "wof:tags":[
         "professional",
         "furniture"

@@ -7,13 +7,16 @@
     "addr:postcode":"2020",
     "addr:street":"Groenenborgerlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4189519882,51.1778411865,4.4189519882,51.1778411865",
     "geom:latitude":51.177841,
     "geom:longitude":4.418952,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Groenenborgerlaan 171",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505049,
-    "wof:geomhash":"0ce7a01dcb7de1c973ca763caa417973",
+    "wof:geomhash":"edbd8d77b72d99fb118c752e92e2af20",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1042266437,
-    "wof:lastmodified":1473721834,
+    "wof:lastmodified":1510944069,
     "wof:name":"Ruca-fac. Wetenschappen",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058195867
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

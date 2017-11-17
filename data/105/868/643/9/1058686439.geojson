@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2395040989,51.2292060852,3.2395040989,51.2292060852",
     "geom:latitude":51.229206,
     "geom:longitude":3.239504,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Jules Van Praetstraat 75",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -42,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":251404549,
         "sg:id":"SG_0Gn4dBGWCletRPwh8imJJN_51.229206_3.239504@1306268554"
     },
     "wof:country":"BE",
     "wof:created":1473536561,
-    "wof:geomhash":"47b8f3b6440fd2d23255324842101c69",
+    "wof:geomhash":"f514fc07fe322a64bed7ce435a556c42",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058686439,
-    "wof:lastmodified":1473721833,
+    "wof:lastmodified":1510942502,
     "wof:name":"Kleine Hap",
     "wof:parent_id":85862105,
     "wof:placetype":"venue",

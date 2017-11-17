@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4152960777,51.2259788513,4.4152960777,51.2259788513",
     "geom:latitude":51.225979,
     "geom:longitude":4.415296,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Itali\u00eblei 103-113",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546231,
-    "wof:geomhash":"ebff429732c1d7f956c1da3c8b9d5dfa",
+    "wof:geomhash":"80658589b21175b7aa13bc2b465fc0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,24 @@
         }
     ],
     "wof:id":1058906077,
-    "wof:lastmodified":1473721706,
+    "wof:lastmodified":1510941231,
     "wof:name":"Central Auto",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058021265,
+        1041682953,
+        1041844259,
+        1058881643,
+        1058879239,
+        1058460469,
+        1041843193,
+        1041850825,
+        1058371705,
+        1041690425
+    ],
     "wof:tags":[
         "access",
         "-",

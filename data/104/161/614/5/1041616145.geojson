@@ -7,13 +7,16 @@
     "addr:postcode":"4630",
     "addr:street":"Avenue De La Re\u0301Sistance;Grand Lie\u0300Ge",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7349281311,50.6308059692,5.7349281311,50.6308059692",
     "geom:latitude":50.630806,
     "geom:longitude":5.734928,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue De La R\u00c9sistance 253",
     "sg:city":"Soumagne (grand)",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475950,
-    "wof:geomhash":"1ce2418a611808a353e2e470111f6048",
+    "wof:geomhash":"65f093f92a192e1fe7eab79396890f57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041616145,
-    "wof:lastmodified":1473721768,
+    "wof:lastmodified":1510941362,
     "wof:name":"Id\u00c9al Beaut\u00c9",
     "wof:parent_id":85801143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042063879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

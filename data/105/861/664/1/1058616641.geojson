@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4204611778,51.2141609192,4.4204611778,51.2141609192",
     "geom:latitude":51.214161,
     "geom:longitude":4.420461,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pelikaansstraat 92b14",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533429,
-    "wof:geomhash":"77fb68a7eb30d995715745554a35e8e9",
+    "wof:geomhash":"631f8b3b49d98b25123ad48bcbcd657a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058616641,
-    "wof:lastmodified":1473721935,
+    "wof:lastmodified":1510943142,
     "wof:name":"The Diamond City",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042163449
+    ],
     "wof:tags":[]
 },
   "bbox": [

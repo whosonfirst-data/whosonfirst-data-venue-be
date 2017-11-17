@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9117341042,50.5646514893,4.9117341042,50.5646514893",
     "geom:latitude":50.564651,
     "geom:longitude":4.911734,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du P\u00c9rou 22",
     "sg:city":"Eghezee",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473538992,
-    "wof:geomhash":"a4fede92c31c1f706371cb54dfe0c49e",
+    "wof:geomhash":"2442f096aab184eb5ffb52f0b8383110",
     "wof:hierarchy":[],
     "wof:id":1058742223,
-    "wof:lastmodified":1473720496,
+    "wof:lastmodified":1510941444,
     "wof:name":"Esm\u00c9ralda Coiffure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041601413
+    ],
     "wof:tags":[
         "de",
         "coiffure"

@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Mai\u0308Sstraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7090809345,51.0693740845,3.7090809345,51.0693740845",
     "geom:latitude":51.069374,
     "geom:longitude":3.709081,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Ma\u00cfsstraat 62",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -34,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":490988937,
         "sg:id":"SG_7atNpUXPjUb9NPmL4UGGAi_51.069374_3.709081@1306268373"
     },
     "wof:country":"BE",
     "wof:created":1473491828,
-    "wof:geomhash":"6a9843b119e38f4243094a928a16255e",
+    "wof:geomhash":"d60833d398d708d3181b7734f3ad3e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":1041987941,
-    "wof:lastmodified":1473722279,
+    "wof:lastmodified":1510943719,
     "wof:name":"Gamma",
     "wof:parent_id":85862101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058643545
+    ],
+    "wof:supersedes":[
+        1058643545
+    ],
     "wof:tags":[]
 },
   "bbox": [

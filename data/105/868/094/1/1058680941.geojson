@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Du Page",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3572201729,50.8221969604,4.3572201729,50.8221969604",
     "geom:latitude":50.822197,
     "geom:longitude":4.35722,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Page 85",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473536318,
-    "wof:geomhash":"289dc7b93f0142aa34ea0a5f205a2c24",
+    "wof:geomhash":"20afb389c61344305bf888f46b82c5ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1058680941,
-    "wof:lastmodified":1473719807,
+    "wof:lastmodified":1510943629,
     "wof:name":"Tgv",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058789107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

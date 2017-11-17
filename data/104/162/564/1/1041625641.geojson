@@ -7,13 +7,16 @@
     "addr:postcode":"3290",
     "addr:street":"Sint-Jan Berchmansstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0507650375,50.9839134216,5.0507650375,50.9839134216",
     "geom:latitude":50.983913,
     "geom:longitude":5.050765,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Sint-jan Berchmansstraat 19",
     "sg:city":"Diest",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473476333,
-    "wof:geomhash":"5d1c0d14992ac3b348189138ae191a90",
+    "wof:geomhash":"3b5c6cd17df468835bafef3c5a100c51",
     "wof:hierarchy":[],
     "wof:id":1041625641,
-    "wof:lastmodified":1473721621,
+    "wof:lastmodified":1510942739,
     "wof:name":"Chloe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058389639
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

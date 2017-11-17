@@ -7,13 +7,16 @@
     "addr:postcode":"1420",
     "addr:street":"Chausse\u0301E D'Alsemberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.7711730003,47.3931159973,-0.7711730003,47.3931159973",
     "geom:latitude":47.393116,
     "geom:longitude":-0.771173,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e D'alsemberg 413",
     "sg:city":"Braine L'alleud (braine-l'alleud)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473476072,
-    "wof:geomhash":"dcea95d2f94d030f05cd60baba17c0d1",
+    "wof:geomhash":"8f964081f0580e8313bbb54879294442",
     "wof:hierarchy":[],
     "wof:id":1041619129,
-    "wof:lastmodified":1473722717,
+    "wof:lastmodified":1510942668,
     "wof:name":"Waroquet-lengrand Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041748681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ironwork"

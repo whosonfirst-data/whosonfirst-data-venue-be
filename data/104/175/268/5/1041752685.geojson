@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4091391563,51.2075653076,4.4091391563,51.2075653076",
     "geom:latitude":51.207565,
     "geom:longitude":4.409139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelse Steenweg 106",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481481,
-    "wof:geomhash":"73cd3bde96808de1e8262c1067414294",
+    "wof:geomhash":"c38dbc960fc03ccb90a20ce8b347e641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,12 +62,23 @@
         }
     ],
     "wof:id":1041752685,
-    "wof:lastmodified":1473720749,
+    "wof:lastmodified":1510944055,
     "wof:name":"Anijs",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058867941,
+        1058129367,
+        1058194787,
+        1058546013,
+        1058867131,
+        1058458101,
+        1058936645,
+        1058936725,
+        1058867983,
+        1058938873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "antenna"

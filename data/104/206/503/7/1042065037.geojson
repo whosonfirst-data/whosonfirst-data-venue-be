@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6155838966,50.670249939,4.6155838966,50.670249939",
     "geom:latitude":50.67025,
     "geom:longitude":4.615584,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Place De L'universit\u00e9 24",
     "sg:city":"Ottignies-louvain-la-neuve (louvain-la-neuve)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473494874,
-    "wof:geomhash":"4b3fbcc00fa706a7d36a22a41c29f06f",
+    "wof:geomhash":"18f7ba9a1ec61d0e4cb95166a339b861",
     "wof:hierarchy":[],
     "wof:id":1042065037,
-    "wof:lastmodified":1473721514,
+    "wof:lastmodified":1510942215,
     "wof:name":"L'ecrin Fourre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041561563
+    ],
     "wof:tags":[
         "confectionery",
         "-"

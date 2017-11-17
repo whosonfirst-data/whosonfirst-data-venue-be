@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue D'Assaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3513898849,50.8584594727,4.3513898849,50.8584594727",
     "geom:latitude":50.858459,
     "geom:longitude":4.35139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue D'assaut 11",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544410,
-    "wof:geomhash":"c8aac351c0bcec9af7a338fbe5c2009c",
+    "wof:geomhash":"f57c7545572f4671e0b7576759485c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,20 @@
         }
     ],
     "wof:id":1058866109,
-    "wof:lastmodified":1473721750,
+    "wof:lastmodified":1510941696,
     "wof:name":"Techno-buro Sa-nv",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058910693
+    ],
+    "wof:supersedes":[
+        1058472509,
+        1058479455,
+        1042143839,
+        1042032615
+    ],
     "wof:tags":[
         "telecopiers"
     ]

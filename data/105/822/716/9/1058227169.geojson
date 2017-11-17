@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2179501057,51.2210388184,3.2179501057,51.2210388184",
     "geom:latitude":51.221039,
     "geom:longitude":3.21795,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-pietersgroenestraat 8",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":146616907,
         "sg:id":"SG_4zLR8c2Qb3HjEkLNJpcZP0_51.221039_3.217950@1306268471"
     },
     "wof:country":"BE",
     "wof:created":1473515406,
-    "wof:geomhash":"59112770ab2f11b46224676fb4c0b28f",
+    "wof:geomhash":"ad6838a70cdce9d83febb65b01e3ae16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1058227169,
-    "wof:lastmodified":1473722053,
+    "wof:lastmodified":1510943196,
     "wof:name":"Horeca Totaal",
     "wof:parent_id":85801895,
     "wof:placetype":"venue",

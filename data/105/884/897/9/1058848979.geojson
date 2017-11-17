@@ -7,6 +7,7 @@
     "addr:postcode":"8500",
     "addr:street":"President Kennedypark",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":3.273242,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"President Kennedypark 2",
     "sg:city":"Kortrijk",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"e70243184823b9e652bbeb919e7995d0",
     "wof:hierarchy":[],
     "wof:id":1058848979,
-    "wof:lastmodified":1510697067,
+    "wof:lastmodified":1510943306,
     "wof:name":"Socialist. Mutualiteit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058924711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

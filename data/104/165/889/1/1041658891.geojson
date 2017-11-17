@@ -7,13 +7,16 @@
     "addr:postcode":"1150",
     "addr:street":"Avenue Des Fre\u0300Res Legrain",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4145669937,50.8250274658,4.4145669937,50.8250274658",
     "geom:latitude":50.825027,
     "geom:longitude":4.414567,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Des Fr\u00c8res Legrain 98",
     "sg:city":"Sint-pieters-woluwe/woluwe-sai",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477710,
-    "wof:geomhash":"9c59d7817614ad66e513e5ffe3c5d6fc",
+    "wof:geomhash":"9857268f981cbde3dad321d044bbcf9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041658891,
-    "wof:lastmodified":1473722652,
+    "wof:lastmodified":1510943243,
     "wof:name":"Com\u00c9die Claude Volter",
     "wof:parent_id":85800813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058874757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

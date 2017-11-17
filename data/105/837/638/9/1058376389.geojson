@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Blankenbergse Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2239320278,51.208278656,3.2239320278,51.208278656",
     "geom:latitude":51.208279,
     "geom:longitude":3.223932,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Blankenbergse Steenweg 6",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522177,
-    "wof:geomhash":"5f8d942f6632afb71a337054a60c26f8",
+    "wof:geomhash":"fb51ac80647b3c9600f8b4c78087c44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,26 @@
         }
     ],
     "wof:id":1058376389,
-    "wof:lastmodified":1473721801,
+    "wof:lastmodified":1510943239,
     "wof:name":"Alklimat",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058991649,
+        1058524303,
+        1058659703,
+        1058752543,
+        1058526601
+    ],
+    "wof:supersedes":[
+        1058202313,
+        1042209025,
+        1058174537,
+        1042067459,
+        1058214485,
+        1042143519
+    ],
     "wof:tags":[
         "equipment",
         "industrial",

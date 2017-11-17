@@ -7,13 +7,16 @@
     "addr:postcode":"8930",
     "addr:street":"Westkaai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1243100166,50.7901344299,3.1243100166,50.7901344299",
     "geom:latitude":50.790134,
     "geom:longitude":3.12431,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Westkaai 6a",
     "sg:city":"Menen",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473500432,
-    "wof:geomhash":"5da5889e881f86cf548b316755e7089e",
+    "wof:geomhash":"9de0f57288e3a1bfdaa7b66638928014",
     "wof:hierarchy":[],
     "wof:id":1042175361,
-    "wof:lastmodified":1473721550,
+    "wof:lastmodified":1510943783,
     "wof:name":"E.v.m.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058112899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "door"

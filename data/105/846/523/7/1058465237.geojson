@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4091391563,51.2075653076,4.4091391563,51.2075653076",
     "geom:latitude":51.207565,
     "geom:longitude":4.409139,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mechelse Steenweg 106",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473526454,
-    "wof:geomhash":"73cd3bde96808de1e8262c1067414294",
+    "wof:geomhash":"c38dbc960fc03ccb90a20ce8b347e641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,25 @@
         }
     ],
     "wof:id":1058465237,
-    "wof:lastmodified":1473721497,
+    "wof:lastmodified":1510944116,
     "wof:name":"Grundig-anys",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058867441,
+        1058867953,
+        1058936759,
+        1058868337,
+        1058938899,
+        1058936673,
+        1058546163
+    ],
+    "wof:supersedes":[
+        1041752765,
+        1058194905,
+        1058129609
+    ],
     "wof:tags":[]
 },
   "bbox": [

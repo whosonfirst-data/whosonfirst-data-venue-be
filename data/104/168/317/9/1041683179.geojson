@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Monnikenwerve",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2036340237,51.2473640442,3.2036340237,51.2473640442",
     "geom:latitude":51.247364,
     "geom:longitude":3.203634,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Monnikenwerve 131",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478644,
-    "wof:geomhash":"17c4f5a0dfdd4b5d0887ce0a7af691b4",
+    "wof:geomhash":"48771c750c287c8a863067f692b496e3",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,12 +58,21 @@
         }
     ],
     "wof:id":1041683179,
-    "wof:lastmodified":1473720786,
+    "wof:lastmodified":1510943958,
     "wof:name":"Lerou Ijzerwaren Bvba",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058152349,
+        1058467425,
+        1058376173,
+        1058698785,
+        1058353099,
+        1058152611,
+        1058879389,
+        1058365219
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "access-control",

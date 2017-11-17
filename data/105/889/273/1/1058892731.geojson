@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1995539665,51.2486801147,3.1995539665,51.2486801147",
     "geom:latitude":51.24868,
     "geom:longitude":3.199554,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Monnikenwerve 85",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545581,
-    "wof:geomhash":"ee3de783416836655f4b29c4ca26c3a9",
+    "wof:geomhash":"0f1d9eca345c678e29a0e6563a5eb06a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":1058892731,
-    "wof:lastmodified":1473720689,
+    "wof:lastmodified":1510943943,
     "wof:name":"N.d.belgium Nv",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058699729
+    ],
     "wof:tags":[
         "-",
         "transport"

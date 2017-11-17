@@ -7,13 +7,16 @@
     "addr:postcode":"3270",
     "addr:street":"Houwaartstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9576997757,50.9658813477,4.9576997757,50.9658813477",
     "geom:latitude":50.965881,
     "geom:longitude":4.9577,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Houwaartstraat 200b1",
     "sg:city":"Scherpenheuvel-zichem",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473485074,
-    "wof:geomhash":"5a63e998b9f10d7b7234b960505c99ed",
+    "wof:geomhash":"ac1e276027ff80990450e0ce7526ebc4",
     "wof:hierarchy":[],
     "wof:id":1041833167,
-    "wof:lastmodified":1473720821,
+    "wof:lastmodified":1510944178,
     "wof:name":"Verzekeringen Frederickx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058932263
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

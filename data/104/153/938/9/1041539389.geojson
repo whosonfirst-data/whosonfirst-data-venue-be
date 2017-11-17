@@ -7,13 +7,16 @@
     "addr:postcode":"2940",
     "addr:street":"Antwerpse Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4081740379,51.3059883118,4.4081740379,51.3059883118",
     "geom:latitude":51.305988,
     "geom:longitude":4.408174,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Antwerpse Steenweg 34",
     "sg:city":"Hoevenen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472770,
-    "wof:geomhash":"bc11673c21f7ea2d5863e7a3eaaac497",
+    "wof:geomhash":"9bec71a946ffda7382ce977b5657498a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041539389,
-    "wof:lastmodified":1473720986,
+    "wof:lastmodified":1510943330,
     "wof:name":"Schuermans & Van Dunnegem B.v.b.a.",
     "wof:parent_id":85801301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058407229
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aluminium",

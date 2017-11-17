@@ -7,13 +7,16 @@
     "addr:postcode":"9080",
     "addr:street":"Veldstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7966039181,51.1020469666,3.7966039181,51.1020469666",
     "geom:latitude":51.102047,
     "geom:longitude":3.796604,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Veldstraat 55a",
     "sg:city":"Lochristi",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473489775,
-    "wof:geomhash":"ba4afc7f397ffad225a9c2c36c547639",
+    "wof:geomhash":"d31b826ba4eec18bb7c500e04250477d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041942467,
-    "wof:lastmodified":1473720448,
+    "wof:lastmodified":1510943445,
     "wof:name":"De Schoenmacker",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058582507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

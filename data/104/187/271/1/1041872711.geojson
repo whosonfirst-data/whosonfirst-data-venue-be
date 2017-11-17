@@ -7,13 +7,16 @@
     "addr:postcode":"9040",
     "addr:street":"Maalderijstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7736809254,51.0721702576,3.7736809254,51.0721702576",
     "geom:latitude":51.07217,
     "geom:longitude":3.773681,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maalderijstraat 4",
     "sg:city":"Sint-amandsberg",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486768,
-    "wof:geomhash":"06595efb165d985019ee6bc3f9d9a015",
+    "wof:geomhash":"5ef3ba76a92af7f1692ae64a423b6ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1041872711,
-    "wof:lastmodified":1473720466,
+    "wof:lastmodified":1510943913,
     "wof:name":"Daneels Edward",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058336139
+    ],
+    "wof:supersedes":[
+        1041720811
+    ],
     "wof:tags":[]
 },
   "bbox": [

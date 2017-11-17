@@ -7,13 +7,16 @@
     "addr:postcode":"9200",
     "addr:street":"Zandstraat;Appels Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0697622299,51.0306968689,4.0697622299,51.0306968689",
     "geom:latitude":51.030697,
     "geom:longitude":4.069762,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Zandstraat 69",
     "sg:city":"Dendermonde (appels)",
     "sg:classifiers":[
@@ -39,16 +42,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473494212,
-    "wof:geomhash":"2ede99fa501a3e9e425140bb09b86ab3",
+    "wof:geomhash":"318cfa9bf72f9fc647f559804c93333d",
     "wof:hierarchy":[],
     "wof:id":1042048977,
-    "wof:lastmodified":1473722598,
+    "wof:lastmodified":1510943754,
     "wof:name":"D'houwer R Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058090819
+    ],
+    "wof:supersedes":[
+        1041841159
+    ],
     "wof:tags":[
         "ceremony",
         "car"

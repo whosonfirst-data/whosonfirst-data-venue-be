@@ -7,13 +7,16 @@
     "addr:postcode":"2800",
     "addr:street":"Maurits Sabbestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4757399559,51.034740448,4.4757399559,51.034740448",
     "geom:latitude":51.03474,
     "geom:longitude":4.47574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Maurits Sabbestraat 2",
     "sg:city":"Mechelen",
     "sg:classifiers":[
@@ -41,16 +44,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473497276,
-    "wof:geomhash":"8a505b19771a6ba1c6e14a797bfc5413",
+    "wof:geomhash":"935d378fbd957f142eb39de0fa415400",
     "wof:hierarchy":[],
     "wof:id":1042118105,
-    "wof:lastmodified":1473722463,
+    "wof:lastmodified":1510943476,
     "wof:name":"Odit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058413823,
+        1042118391
+    ],
+    "wof:supersedes":[
+        1041958357,
+        1042121405
+    ],
     "wof:tags":[
         "personal",
         "-",

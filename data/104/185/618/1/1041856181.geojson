@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4043750763,51.1968307495,4.4043750763,51.1968307495",
     "geom:latitude":51.196831,
     "geom:longitude":4.404375,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Van Putlei 9",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486053,
-    "wof:geomhash":"689af199b7ad484f248597d4cb6a386d",
+    "wof:geomhash":"540964c1df10fe1054a9665ac0dc7271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041856181,
-    "wof:lastmodified":1473721822,
+    "wof:lastmodified":1510943924,
     "wof:name":"Claire De Vleeschauwer",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041704805
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"1930",
     "addr:street":"Wezembeekstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4769778252,50.8713531494,4.4769778252,50.8713531494",
     "geom:latitude":50.871353,
     "geom:longitude":4.476978,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Wezembeekstraat 5",
     "sg:city":"Zaventem",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473508229,
-    "wof:geomhash":"406a84e3ec630f7e30f9872a7f3682dd",
+    "wof:geomhash":"8a66ae3d82222b5bbf8f9496070ff955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +67,19 @@
         }
     ],
     "wof:id":1058067733,
-    "wof:lastmodified":1473722310,
+    "wof:lastmodified":1510943648,
     "wof:name":"Rank Xerox",
     "wof:parent_id":85801397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058470633,
+        1058866093,
+        1058301087
+    ],
+    "wof:supersedes":[
+        1042118401
+    ],
     "wof:tags":[
         "mat\u00e9riel",
         "de",

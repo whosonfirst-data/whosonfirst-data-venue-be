@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Saint-Le\u0301Onard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6011338234,50.6529693604,5.6011338234,50.6529693604",
     "geom:latitude":50.652969,
     "geom:longitude":5.601134,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Saint-l\u00e9onard 448",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473487363,
-    "wof:geomhash":"829f74e62eca48323792f201d122765e",
+    "wof:geomhash":"2646af9402a809bb2be4f13f26946668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,18 @@
         }
     ],
     "wof:id":1041886765,
-    "wof:lastmodified":1473721970,
+    "wof:lastmodified":1510944131,
     "wof:name":"Atelier De Beaufays",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058406107,
+        1058827821,
+        1058405447,
+        1058831737,
+        1058286197
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "balustrade"

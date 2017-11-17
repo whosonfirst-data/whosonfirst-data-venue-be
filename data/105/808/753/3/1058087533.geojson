@@ -7,13 +7,16 @@
     "addr:postcode":"6001",
     "addr:street":"Avenue Marius Meure\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4471859932,50.4012260437,4.4471859932,50.4012260437",
     "geom:latitude":50.401226,
     "geom:longitude":4.447186,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Marius Meur\u00e9e 36",
     "sg:city":"Charleroi (marcinelle)",
     "sg:classifiers":[
@@ -39,16 +42,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473509055,
-    "wof:geomhash":"dbcb3a0cbc0246b770dcc72ae1c2591c",
+    "wof:geomhash":"68250943773f283feebfebe60ef63a1a",
     "wof:hierarchy":[],
     "wof:id":1058087533,
-    "wof:lastmodified":1473722113,
+    "wof:lastmodified":1510944150,
     "wof:name":"Galeries Ideal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058087015,
+        1058087231,
+        1058961559
+    ],
+    "wof:supersedes":[
+        1058087015,
+        1041835829
+    ],
     "wof:tags":[
         "used",
         "-"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5644478798,50.6933021545,5.5644478798,50.6933021545",
     "geom:latitude":50.693302,
     "geom:longitude":5.564448,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e Brunehault 668",
     "sg:city":"Herstal (liers)",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473542527,
-    "wof:geomhash":"a6977982b1708bd21cee1792302fa954",
+    "wof:geomhash":"03a4d33103ada90a40efbf1712b21e3d",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":1058821801,
-    "wof:lastmodified":1473720065,
+    "wof:lastmodified":1510943695,
     "wof:name":"Centre Sportif \u00e0 La Motte",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041615853
+    ],
     "wof:tags":[]
 },
   "bbox": [

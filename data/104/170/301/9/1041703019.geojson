@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Sainte-Croix",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5700159073,50.6457176208,5.5700159073,50.6457176208",
     "geom:latitude":50.645718,
     "geom:longitude":5.570016,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Sainte-croix 4",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479404,
-    "wof:geomhash":"3332e0cf925ada3dea59c3399bc3e1f8",
+    "wof:geomhash":"6b9e0f5f587998ef2f9ac7131b6e2413",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703019,
-    "wof:lastmodified":1473720817,
+    "wof:lastmodified":1510941804,
     "wof:name":"B. Remouchamps",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854305
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

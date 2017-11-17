@@ -7,13 +7,16 @@
     "addr:postcode":"4600",
     "addr:street":"Rue De Maestricht",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6983242035,50.7414207458,5.6983242035,50.7414207458",
     "geom:latitude":50.741421,
     "geom:longitude":5.698324,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Maestricht 27",
     "sg:city":"Vise",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499959,
-    "wof:geomhash":"095c3edc745dc1e74a6e81fa329bf9d9",
+    "wof:geomhash":"439dc75720cc97a7aa2451a594e072c9",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1042167135,
-    "wof:lastmodified":1473721969,
+    "wof:lastmodified":1510941270,
     "wof:name":"Verdin Recruitm.& Select.",
     "wof:parent_id":85802011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058062415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

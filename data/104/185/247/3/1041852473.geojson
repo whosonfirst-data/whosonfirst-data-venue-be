@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.471971035,50.762096405,4.471971035,50.762096405",
     "geom:latitude":50.762096,
     "geom:longitude":4.471971,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Charles Coppensstraat 13",
     "sg:city":"Hoeilaart",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485909,
-    "wof:geomhash":"72138022ab3d31a1ab0740435fc12f35",
+    "wof:geomhash":"12642bb4a04cd7ef5ac914fdec83f281",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1041852473,
-    "wof:lastmodified":1473720511,
+    "wof:lastmodified":1510943225,
     "wof:name":"A. De Winter",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041701187
+    ],
     "wof:tags":[]
 },
   "bbox": [

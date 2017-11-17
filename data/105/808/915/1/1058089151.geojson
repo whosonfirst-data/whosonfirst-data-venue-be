@@ -7,13 +7,16 @@
     "addr:postcode":"2550",
     "addr:street":"Michel Geysemansstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4727702141,51.1256446838,4.4727702141,51.1256446838",
     "geom:latitude":51.125645,
     "geom:longitude":4.47277,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Michel Geysemansstraat 1",
     "sg:city":"Kontich (waarloos)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509117,
-    "wof:geomhash":"f23b1e82c1646df6cac59162f5cb5212",
+    "wof:geomhash":"daf31b861cd3ef4a833f73c7002803fb",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -57,13 +60,19 @@
         }
     ],
     "wof:id":1058089151,
-    "wof:lastmodified":1473722669,
+    "wof:lastmodified":1510943693,
     "wof:name":"Dcm Tools",
     "wof:parent_id":85800955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058764039,
+        1058214767
+    ],
+    "wof:supersedes":[
+        1041850969,
+        1041845203
+    ],
     "wof:tags":[
         "garage",
         "supply",

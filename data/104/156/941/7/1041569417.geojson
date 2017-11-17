@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue De La Re\u0301Gence",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.573829174,50.6425056458,5.573829174,50.6425056458",
     "geom:latitude":50.642506,
     "geom:longitude":5.573829,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La R\u00e9gence 16",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474019,
-    "wof:geomhash":"783d04e8b4075de8319dd6bb4e59b2e7",
+    "wof:geomhash":"b2643539a3815e9248799f7bf3037ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041569417,
-    "wof:lastmodified":1473722780,
+    "wof:lastmodified":1510943124,
     "wof:name":"5 A Sec",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041940213
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dyer",

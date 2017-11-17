@@ -7,13 +7,16 @@
     "addr:postcode":"2900",
     "addr:street":"Brechtsebaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5107097626,51.2652397156,4.5107097626,51.2652397156",
     "geom:latitude":51.26524,
     "geom:longitude":4.51071,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brechtsebaan 22",
     "sg:city":"Schoten",
     "sg:classifiers":[
@@ -38,16 +41,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473533818,
-    "wof:geomhash":"72b3f13f0702c67435040bfc28c74841",
+    "wof:geomhash":"c10c5bd26fca04b38c444ccc52266dfd",
     "wof:hierarchy":[],
     "wof:id":1058625633,
-    "wof:lastmodified":1473721664,
+    "wof:lastmodified":1510942639,
     "wof:name":"Koppen Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058869227
+    ],
+    "wof:supersedes":[
+        1041932969,
+        1058376169,
+        1042099169,
+        1058390619,
+        1042068659,
+        1058089343
+    ],
     "wof:tags":[
         "furniture"
     ]

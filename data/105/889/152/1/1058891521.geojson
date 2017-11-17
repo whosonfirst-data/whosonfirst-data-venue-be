@@ -7,13 +7,16 @@
     "addr:postcode":"2610",
     "addr:street":"Boomsesteenweg;Antwerpen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3946051598,51.1691131592,4.3946051598,51.1691131592",
     "geom:latitude":51.169113,
     "geom:longitude":4.394605,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boomsesteenweg 400",
     "sg:city":"Antwerpen (wilrijk)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545536,
-    "wof:geomhash":"3a51560eca13a587b641e399267db619",
+    "wof:geomhash":"6bcfbeaeb97742f768261a9135123498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":1058891521,
-    "wof:lastmodified":1473719972,
+    "wof:lastmodified":1510943052,
     "wof:name":"Dockx Transport Nv",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058894953,
+        1058896235
+    ],
+    "wof:supersedes":[
+        1058024405
+    ],
     "wof:tags":[
         "-",
         "transport"

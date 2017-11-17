@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4239931107,51.1809120178,4.4239931107,51.1809120178",
     "geom:latitude":51.180912,
     "geom:longitude":4.423993,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22",
     "sg:city":"Prins Boudewijnlaan 2600 Antwerpen-berchem",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473532506,
-    "wof:geomhash":"3852ffeb2a95ba1d15d1fd4446038432",
+    "wof:geomhash":"499edc082003ee1cc29fb9b60602aeb8",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1058597519,
-    "wof:lastmodified":1473722082,
+    "wof:lastmodified":1510942268,
     "wof:name":"Bacta-pur Europe Bvba",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042276049
+    ],
     "wof:tags":[]
 },
   "bbox": [

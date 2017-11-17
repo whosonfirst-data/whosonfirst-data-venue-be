@@ -7,13 +7,16 @@
     "addr:postcode":"8560",
     "addr:street":"Vlamingstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2102780342,50.8155479431,3.2102780342,50.8155479431",
     "geom:latitude":50.815548,
     "geom:longitude":3.210278,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vlamingstraat 4",
     "sg:city":"Wevelgem",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473523524,
-    "wof:geomhash":"f777c69522ca0e9667c5abadd3c071c3",
+    "wof:geomhash":"8b569d7e6abedcfd9d21715271380591",
     "wof:hierarchy":[],
     "wof:id":1058406537,
-    "wof:lastmodified":1473721800,
+    "wof:lastmodified":1510943887,
     "wof:name":"Trans-easy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058838299,
+        1058772657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "working"

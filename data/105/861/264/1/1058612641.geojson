@@ -7,13 +7,16 @@
     "addr:postcode":"1800",
     "addr:street":"Groot Vlaams-Brabant",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4240298271,50.9282798767,4.4240298271,50.9282798767",
     "geom:latitude":50.92828,
     "geom:longitude":4.42403,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800",
     "sg:city":"Vilvoorde (groot)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473533201,
-    "wof:geomhash":"066feba51d43c32a90b11230456b2295",
+    "wof:geomhash":"ccfcba7296d7b87054ee2800d8676e80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1058612641,
-    "wof:lastmodified":1473720661,
+    "wof:lastmodified":1510941482,
     "wof:name":"Q-music",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058646881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "diffusion",

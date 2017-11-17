@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1788921356,50.8861808777,4.1788921356,50.8861808777",
     "geom:latitude":50.886181,
     "geom:longitude":4.178892,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Industrielaan 16-20",
     "sg:city":"Ternat",
     "sg:classifiers":[
@@ -39,16 +41,19 @@
     },
     "wof:country":"BE",
     "wof:created":1473545559,
-    "wof:geomhash":"ad21839187605e9785d84cad3565839a",
+    "wof:geomhash":"f9e9a44771c63f4d20f75e60ba3c1080",
     "wof:hierarchy":[],
     "wof:id":1058892143,
-    "wof:lastmodified":1473720326,
+    "wof:lastmodified":1510943142,
     "wof:name":"Jacmin Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041990485,
+        1041922373
+    ],
     "wof:tags":[
         "-",
         "transport"

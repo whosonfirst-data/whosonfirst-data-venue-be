@@ -7,13 +7,16 @@
     "addr:postcode":"7100",
     "addr:street":"Rue De La Franco-Belge",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.206633091,50.4872627258,4.206633091,50.4872627258",
     "geom:latitude":50.487263,
     "geom:longitude":4.206633,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Franco-belge 28",
     "sg:city":"La Louvi\u00e8re",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473510026,
-    "wof:geomhash":"91a8f761d8496495b2d015c50b6af867",
+    "wof:geomhash":"6901945141cbecd1e52e011d23c34582",
     "wof:hierarchy":[],
     "wof:id":1058110489,
-    "wof:lastmodified":1473719397,
+    "wof:lastmodified":1510942730,
     "wof:name":"Carterie (la)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058118343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "-"

@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Du Prince Royal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3595738411,50.8339004517,4.3595738411,50.8339004517",
     "geom:latitude":50.8339,
     "geom:longitude":4.359574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Prince Royal 85",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486091,
-    "wof:geomhash":"7142848beaa5134f156da17e25624861",
+    "wof:geomhash":"351dfb7b1d7091116918bb0b1db63a24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041857047,
-    "wof:lastmodified":1473722092,
+    "wof:lastmodified":1510943905,
     "wof:name":"De Patoul F.",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058337029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

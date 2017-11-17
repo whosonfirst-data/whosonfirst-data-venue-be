@@ -7,13 +7,16 @@
     "addr:postcode":"8380",
     "addr:street":"Steenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2288448811,51.2742958069,3.2288448811,51.2742958069",
     "geom:latitude":51.274296,
     "geom:longitude":3.228845,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Westkapelse Steenweg 30",
     "sg:city":"Brugge (dudzele)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499097,
-    "wof:geomhash":"bbd7c915578e04f34302ec1bb0516502",
+    "wof:geomhash":"c7cefbef3eeff004d255d4de4093b93b",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1042151343,
-    "wof:lastmodified":1473719870,
+    "wof:lastmodified":1510942841,
     "wof:name":"Disco Venus",
     "wof:parent_id":85801391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042154581
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "disc-jockeys"

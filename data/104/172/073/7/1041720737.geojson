@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Kuiperskaai;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7297000885,51.0489997864,3.7297000885,51.0489997864",
     "geom:latitude":51.049,
     "geom:longitude":3.7297,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kuiperskaai 55 Bus 1",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480103,
-    "wof:geomhash":"5f3fb952f431919a71f8d2a3135ce4f5",
+    "wof:geomhash":"da89f5eca0492c91670b2082fabbacbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041720737,
-    "wof:lastmodified":1473719656,
+    "wof:lastmodified":1510942343,
     "wof:name":"Callens Steven",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058334913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

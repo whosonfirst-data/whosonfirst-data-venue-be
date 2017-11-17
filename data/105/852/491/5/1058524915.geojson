@@ -7,13 +7,16 @@
     "addr:postcode":"8580",
     "addr:street":"Doorniksesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4453070164,50.7709579468,3.4453070164,50.7709579468",
     "geom:latitude":50.770958,
     "geom:longitude":3.445307,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Doorniksesteenweg 202",
     "sg:city":"Avelgem",
     "sg:classifiers":[
@@ -38,16 +41,23 @@
     },
     "wof:country":"BE",
     "wof:created":1473529220,
-    "wof:geomhash":"05428a47ea7ecf3d4bb0eeb5b91df79e",
+    "wof:geomhash":"5db5a6acba740acfe2b8ec21c110d64a",
     "wof:hierarchy":[],
     "wof:id":1058524915,
-    "wof:lastmodified":1473721449,
+    "wof:lastmodified":1510942475,
     "wof:name":"Houtmagazijn Verdonckt Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058878101,
+        1058700691
+    ],
+    "wof:supersedes":[
+        1042171345,
+        1058268139,
+        1042045795
+    ],
     "wof:tags":[
         "parquet"
     ]

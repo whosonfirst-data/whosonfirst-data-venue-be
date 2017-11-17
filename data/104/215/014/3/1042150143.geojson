@@ -7,13 +7,16 @@
     "addr:postcode":"3500",
     "addr:street":"Capucienenstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3392529488,50.9278411865,5.3392529488,50.9278411865",
     "geom:latitude":50.927841,
     "geom:longitude":5.339253,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Capucienenstraat 10",
     "sg:city":"Hasselt",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473499037,
-    "wof:geomhash":"ffaeeaa0f05a055cc434997d41655a42",
+    "wof:geomhash":"6ff4f1848a171ae4829ddb464894a8fd",
     "wof:hierarchy":[],
     "wof:id":1042150143,
-    "wof:lastmodified":1473718943,
+    "wof:lastmodified":1510943303,
     "wof:name":"Dieetdienst De Voorzorg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042149279
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dietitian"

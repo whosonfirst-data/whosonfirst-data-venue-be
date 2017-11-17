@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Boulevard De La Sauvenie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.567305088,50.6416625977,5.567305088,50.6416625977",
     "geom:latitude":50.641663,
     "geom:longitude":5.567305,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De La Sauveni\u00e8re 119",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473524021,
-    "wof:geomhash":"4ac3887466048bf8e1e78ab0320cbce6",
+    "wof:geomhash":"64764b495fe36b6837cee81c3a6f1f28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":1058417583,
-    "wof:lastmodified":1473722180,
+    "wof:lastmodified":1510944122,
     "wof:name":"Europa Finance",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058918829
+    ],
+    "wof:supersedes":[
+        1058040473,
+        1041834743
+    ],
     "wof:tags":[
         "loan",
         "mortgage"

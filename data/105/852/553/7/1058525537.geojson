@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.745349884,51.0588798523,5.745349884,51.0588798523",
     "geom:latitude":51.05888,
     "geom:longitude":5.74535,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijksweg 881",
     "sg:city":"Dilsen-stokkem (dilsen)",
     "sg:classifiers":[
@@ -37,16 +39,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473529250,
-    "wof:geomhash":"04284ef705937ba31d7d51cb0234b8fd",
+    "wof:geomhash":"02332c7a0e1212f53120b090766dd877",
     "wof:hierarchy":[],
     "wof:id":1058525537,
-    "wof:lastmodified":1473721621,
+    "wof:lastmodified":1510943072,
     "wof:name":"Deckers Interieurbouw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042045673
+    ],
     "wof:tags":[
         "partition"
     ]

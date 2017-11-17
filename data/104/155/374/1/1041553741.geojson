@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue Ge\u0301Ne\u0301Ral Me\u0301Decin Derache",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3880162239,50.8143463135,4.3880162239,50.8143463135",
     "geom:latitude":50.814346,
     "geom:longitude":4.388016,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue G\u00e9n\u00e9ral M\u00e9decin Derache 111",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473348,
-    "wof:geomhash":"a6481e94d5fdf9c21ef97077096bc4d0",
+    "wof:geomhash":"5ae4ddb06216081f646162e4b76ac54d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041553741,
-    "wof:lastmodified":1473720987,
+    "wof:lastmodified":1510942872,
     "wof:name":"Sawa Esth\u00e9tique Japonaise",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058265977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

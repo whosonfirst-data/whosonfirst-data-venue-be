@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4959249496,50.7167320251,4.4959249496,50.7167320251",
     "geom:latitude":50.716732,
     "geom:longitude":4.495925,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Des D\u00e9port\u00e9s 15a",
     "sg:city":"Rixensart (genval)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509766,
-    "wof:geomhash":"582b9a76fe3f00d874039d778985e1f3",
+    "wof:geomhash":"a6dfa12658905414ae2dc660e8a90953",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":1058104001,
-    "wof:lastmodified":1473720420,
+    "wof:lastmodified":1510942831,
     "wof:name":"G3",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041597105
+    ],
     "wof:tags":[
         "genealogist"
     ]

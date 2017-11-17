@@ -7,13 +7,16 @@
     "addr:postcode":"1020",
     "addr:street":"Boulevard Du Centenaire",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3399200439,50.8963127136,4.3399200439,50.8963127136",
     "geom:latitude":50.896313,
     "geom:longitude":4.33992,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard Du Centenaire 20",
     "sg:city":"Brussel",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474017,
-    "wof:geomhash":"b8e7b35c0a18b400dd4cabb3badd8769",
+    "wof:geomhash":"a510fd99d8a951bc752fbe1dd17fe506",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041569353,
-    "wof:lastmodified":1473722754,
+    "wof:lastmodified":1510942854,
     "wof:name":"Kin\u00c9polis",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042066231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.72823596,51.0517654419,3.72823596,51.0517654419",
     "geom:latitude":51.051765,
     "geom:longitude":3.728236,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Limburgstraat 122",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473520662,
-    "wof:geomhash":"99da0fda1680d5dc42daee04ae8adad3",
+    "wof:geomhash":"b351e160ea9e6a105e9d5b8433ac87d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,16 @@
         }
     ],
     "wof:id":1058343891,
-    "wof:lastmodified":1473721163,
+    "wof:lastmodified":1510942333,
     "wof:name":"Meese Joachim",
     "wof:parent_id":85862091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041872945,
+        1041721363
+    ],
     "wof:tags":[]
 },
   "bbox": [

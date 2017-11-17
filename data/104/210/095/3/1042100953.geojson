@@ -7,13 +7,16 @@
     "addr:postcode":"2000",
     "addr:street":"Westkaai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4049282074,51.2319602966,4.4049282074,51.2319602966",
     "geom:latitude":51.23196,
     "geom:longitude":4.404928,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kattendijkdok Westkaai 28",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473496436,
-    "wof:geomhash":"5109bf0c523edacb07bcee6e8e83aa2a",
+    "wof:geomhash":"4e60aa6d5ac8f3fae00eb596f010c19a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042100953,
-    "wof:lastmodified":1473719685,
+    "wof:lastmodified":1510943382,
     "wof:name":"De Buysscher & Brenders Nv",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058896565
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

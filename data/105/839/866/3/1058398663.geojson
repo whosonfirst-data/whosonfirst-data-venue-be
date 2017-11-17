@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8386490345,51.0979309082,3.8386490345,51.0979309082",
     "geom:latitude":51.097931,
     "geom:longitude":3.838649,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64",
     "sg:city":"Dorp-oost 9080 Lochristi",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523156,
-    "wof:geomhash":"7e2bc816df1a5e7bdf5d7dbee4df41db",
+    "wof:geomhash":"1fb0d97b660eb197d200b6decbb25213",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058398663,
-    "wof:lastmodified":1473722515,
+    "wof:lastmodified":1510942099,
     "wof:name":"De Vijlder P. Nv",
     "wof:parent_id":85801641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042046141
+    ],
     "wof:tags":[
         "machine",
         "-",

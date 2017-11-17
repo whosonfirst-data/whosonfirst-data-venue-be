@@ -7,13 +7,16 @@
     "addr:postcode":"8530",
     "addr:street":"Deerlijksesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3293859959,50.8576011658,3.3293859959,50.8576011658",
     "geom:latitude":50.857601,
     "geom:longitude":3.329386,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Deerlijksesteenweg 139",
     "sg:city":"Harelbeke",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473514721,
-    "wof:geomhash":"ac001f83229b20c2008ebe125e0e4122",
+    "wof:geomhash":"08b650cbd749ba4aaeea916214988f52",
     "wof:hierarchy":[],
     "wof:id":1058211519,
-    "wof:lastmodified":1473719918,
+    "wof:lastmodified":1510943080,
     "wof:name":"Supra Bazar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058841041,
+        1058645587,
+        1058702075
+    ],
+    "wof:supersedes":[
+        1042171519
+    ],
     "wof:tags":[]
 },
   "bbox": [

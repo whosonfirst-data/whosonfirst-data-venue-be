@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5933098793,50.4875183105,4.5933098793,50.4875183105",
     "geom:latitude":50.487518,
     "geom:longitude":4.59331,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De La Spinette 40 - Parc Ind.",
     "sg:city":"Sombreffe",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473479092,
-    "wof:geomhash":"e386fc759f983fff3ba09076cc450b66",
+    "wof:geomhash":"02423ed48909f4c08aa53834b4763146",
     "wof:hierarchy":[],
     "wof:id":1041694903,
-    "wof:lastmodified":1473721455,
+    "wof:lastmodified":1510943996,
     "wof:name":"Newjag S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041648905
+    ],
     "wof:tags":[
         "adhesive",
         "label"

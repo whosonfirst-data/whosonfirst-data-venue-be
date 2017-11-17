@@ -7,13 +7,16 @@
     "addr:postcode":"1930",
     "addr:street":"Excelsiorlaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4584970474,50.8843727112,4.4584970474,50.8843727112",
     "geom:latitude":50.884373,
     "geom:longitude":4.458497,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Excelsiorlaan 14",
     "sg:city":"Zaventem",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522815,
-    "wof:geomhash":"4e3ce20aaeb5dbe560d6be3830ccb5a7",
+    "wof:geomhash":"553d338d0befd0aad96096f51798c869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,17 @@
         }
     ],
     "wof:id":1058390813,
-    "wof:lastmodified":1473719641,
+    "wof:lastmodified":1510943203,
     "wof:name":"Ssi Sch\u00e4fer Systems International",
     "wof:parent_id":85801067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058412341,
+        1058646595,
+        1058991899,
+        1058410063
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "container",

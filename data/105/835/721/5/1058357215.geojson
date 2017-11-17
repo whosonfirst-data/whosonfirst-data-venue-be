@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3597621918,50.8255081177,4.3597621918,50.8255081177",
     "geom:latitude":50.825508,
     "geom:longitude":4.359762,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Bailli 86",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473521290,
-    "wof:geomhash":"b252b09bc648ccc8a86b6324ba4fe04e",
+    "wof:geomhash":"82f0fa3a73fe3dc97dbd8cb2348a68e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1058357215,
-    "wof:lastmodified":1473722095,
+    "wof:lastmodified":1510942457,
     "wof:name":"Dod",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041665159
+    ],
     "wof:tags":[
         "underwear",
         "lingerie",

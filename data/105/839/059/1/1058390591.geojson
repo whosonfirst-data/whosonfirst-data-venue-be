@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3789339066,50.7569465637,4.3789339066,50.7569465637",
     "geom:latitude":50.756947,
     "geom:longitude":4.378934,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De La For\u00eat De Soignes 327",
     "sg:city":"Rhode-saint-gen\u00e8se",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473522806,
-    "wof:geomhash":"2b5eb488f67a100ca6cd768dcdb4a286",
+    "wof:geomhash":"b3884cb5965712d109381e8a3b28a0fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058390591,
-    "wof:lastmodified":1473719538,
+    "wof:lastmodified":1510942023,
     "wof:name":"Den Braven Belgium Sa",
     "wof:parent_id":85800903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041661843
+    ],
     "wof:tags":[
         "mastic"
     ]

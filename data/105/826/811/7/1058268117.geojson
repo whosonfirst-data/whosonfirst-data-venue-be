@@ -7,13 +7,16 @@
     "addr:postcode":"4671",
     "addr:street":"Rue Pre\u0301S Champs;Barchon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6896700859,50.6630592346,5.6896700859,50.6630592346",
     "geom:latitude":50.663059,
     "geom:longitude":5.68967,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pr\u00e9s Champs 21",
     "sg:city":"Bl\u00e9gny (barchon)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517176,
-    "wof:geomhash":"400dd7f321f64633ebf757b93cad35a9",
+    "wof:geomhash":"5f8ce5112f7164e519ee0f88ce92ffa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1058268117,
-    "wof:lastmodified":1473722327,
+    "wof:lastmodified":1510942152,
     "wof:name":"Resarm Engineering Plastics Sa",
     "wof:parent_id":85801979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058584191
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "insulation",

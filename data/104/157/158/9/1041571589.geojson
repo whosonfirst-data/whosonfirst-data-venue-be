@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue Du Be\u0301Guinage;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3484449387,50.8534507751,4.3484449387,50.8534507751",
     "geom:latitude":50.853451,
     "geom:longitude":4.348445,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du B\u00c9guinage 36",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474103,
-    "wof:geomhash":"05b108bd834d28433cc3ad4ddd3c2c5f",
+    "wof:geomhash":"a2b567ea85b69d3bd1414fcf105bfd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041571589,
-    "wof:lastmodified":1473720001,
+    "wof:lastmodified":1510943570,
     "wof:name":"Cr\u00c8che Du B\u00c9guinage",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042124015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

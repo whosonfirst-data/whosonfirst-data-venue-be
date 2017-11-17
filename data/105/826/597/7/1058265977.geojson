@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3880162239,50.8143463135,4.3880162239,50.8143463135",
     "geom:latitude":50.814346,
     "geom:longitude":4.388016,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue G\u00c9neral Medecin Derache 111",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473517089,
-    "wof:geomhash":"a6481e94d5fdf9c21ef97077096bc4d0",
+    "wof:geomhash":"5ae4ddb06216081f646162e4b76ac54d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058265977,
-    "wof:lastmodified":1473721701,
+    "wof:lastmodified":1510942872,
     "wof:name":"Sawa Esth\u00c9tique Japonaise",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041553741
+    ],
     "wof:tags":[]
 },
   "bbox": [

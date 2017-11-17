@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5644078255,50.6328811646,5.5644078255,50.6328811646",
     "geom:latitude":50.632881,
     "geom:longitude":5.564408,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Louvrex 76",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472645,
-    "wof:geomhash":"ccd6f2ab6291c056d42523ee240af55b",
+    "wof:geomhash":"cab0ee087dcdc5cf2b88bca6f0954dfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,16 @@
         }
     ],
     "wof:id":1041536035,
-    "wof:lastmodified":1473719486,
+    "wof:lastmodified":1510943475,
     "wof:name":"Strategie Sa",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041700619,
+        1042089987
+    ],
     "wof:tags":[
         "consultant",
         "agency",

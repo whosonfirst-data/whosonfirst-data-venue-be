@@ -7,13 +7,16 @@
     "addr:postcode":"1020",
     "addr:street":"Bld Emile Bockstael;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3468198776,50.8775215149,4.3468198776,50.8775215149",
     "geom:latitude":50.877522,
     "geom:longitude":4.34682,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bld Emile Bockstael 284",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478494,
-    "wof:geomhash":"c9ebee95a324d394bbf31cffce45d18f",
+    "wof:geomhash":"d68fcbb2466484fe4e05a33461b82f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041679313,
-    "wof:lastmodified":1473722441,
+    "wof:lastmodified":1510943804,
     "wof:name":"Ramsess V\u00catements",
     "wof:parent_id":85801547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042074231
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "v\u00eatements",

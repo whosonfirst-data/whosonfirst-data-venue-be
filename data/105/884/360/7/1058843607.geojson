@@ -7,13 +7,16 @@
     "addr:postcode":"4432",
     "addr:street":"Avenue Du Progre\u0300S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5348119736,50.6735076904,5.5348119736,50.6735076904",
     "geom:latitude":50.673508,
     "geom:longitude":5.534812,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Du Progr\u00e8s 28",
     "sg:city":"Ans (alleur)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543466,
-    "wof:geomhash":"0024f3dac3bee246f7941811b45ca94c",
+    "wof:geomhash":"50c8271d786a2a95a9b6afcf41a13d23",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -57,13 +60,20 @@
         }
     ],
     "wof:id":1058843607,
-    "wof:lastmodified":1473720991,
+    "wof:lastmodified":1510942738,
     "wof:name":"Signalson Sa",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866927
+    ],
+    "wof:supersedes":[
+        1041742187,
+        1041683215,
+        1058471697,
+        1041742817
+    ],
     "wof:tags":[
         "-",
         "system",

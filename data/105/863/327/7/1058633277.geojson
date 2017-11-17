@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8099989891,50.8727722168,3.8099989891,50.8727722168",
     "geom:latitude":50.872772,
     "geom:longitude":3.809999,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"D\u00e9sir\u00e9 Van Den Bosschestraat 1",
     "sg:city":"Zottegem",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473534186,
-    "wof:geomhash":"cab9e66a0edcb1474d5e73c38bff5ba3",
+    "wof:geomhash":"5f861365bbdd30f330c8ae2580ee681b",
     "wof:hierarchy":[],
     "wof:id":1058633277,
-    "wof:lastmodified":1473720842,
+    "wof:lastmodified":1510942332,
     "wof:name":"Hof Van Vlaanderen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042019203
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1137828827,50.8376502991,3.1137828827,50.8376502991",
     "geom:latitude":50.83765,
     "geom:longitude":3.113783,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kezelberg 52",
     "sg:city":"Wevelgem",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473542861,
-    "wof:geomhash":"00293fcca3094e4978e88c6766072372",
+    "wof:geomhash":"7b5c7ca7a8ccb0ba26d9641424eb2c35",
     "wof:hierarchy":[],
     "wof:id":1058830143,
-    "wof:lastmodified":1473718943,
+    "wof:lastmodified":1510942885,
     "wof:name":"M. Dumont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041929133
+    ],
     "wof:tags":[
         "stations-service",
         "carburants"

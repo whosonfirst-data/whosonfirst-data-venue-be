@@ -7,13 +7,16 @@
     "addr:postcode":"1070",
     "addr:street":"Av Euge\u0300Ne Ysaye",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2966890335,50.8307266235,4.2966890335,50.8307266235",
     "geom:latitude":50.830727,
     "geom:longitude":4.296689,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Eug\u00e8ne Ysaye 43-45",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475196,
-    "wof:geomhash":"963813a3ccabf335bcb7cc3e52b414cd",
+    "wof:geomhash":"734bdbb125d98dbf693187130623080b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041597673,
-    "wof:lastmodified":1473722197,
+    "wof:lastmodified":1510942092,
     "wof:name":"G\u00c9rard Muller Sa",
     "wof:parent_id":85801961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058464885
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

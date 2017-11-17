@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Vivegnis",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5967302322,50.6552658081,5.5967302322,50.6552658081",
     "geom:latitude":50.655266,
     "geom:longitude":5.59673,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Vivegnis 432",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475065,
-    "wof:geomhash":"501736ca97ccb4cc1e09f6328d5b532a",
+    "wof:geomhash":"fb6111a5f03a650a1c4bcb01e7533c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041594319,
-    "wof:lastmodified":1473721247,
+    "wof:lastmodified":1510943339,
     "wof:name":"Aleko",
     "wof:parent_id":85862039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058240235
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "design",

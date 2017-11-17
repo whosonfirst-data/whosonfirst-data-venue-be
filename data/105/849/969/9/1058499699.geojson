@@ -7,6 +7,7 @@
     "addr:postcode":"3960",
     "addr:street":"Rode Kruislaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":5.600546,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Rode Kruislaan 40",
     "sg:city":"Bree",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"08aa96c6462a81c95886cec6c4789c0d",
     "wof:hierarchy":[],
     "wof:id":1058499699,
-    "wof:lastmodified":1510877240,
+    "wof:lastmodified":1510943183,
     "wof:name":"O.c.m.w.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058771873
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

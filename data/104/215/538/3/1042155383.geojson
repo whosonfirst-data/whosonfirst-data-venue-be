@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7491691113,51.0015716553,3.7491691113,51.0015716553",
     "geom:latitude":51.001572,
     "geom:longitude":3.749169,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Waterstraat 25a",
     "sg:city":"Merelbeke (groot)",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499293,
-    "wof:geomhash":"b3074b61844ad445a424780f90d0cec6",
+    "wof:geomhash":"56014dd065dd51820d8ea8af5d8e56f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042155383,
-    "wof:lastmodified":1473721572,
+    "wof:lastmodified":1510941303,
     "wof:name":"Swing",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042212109
+    ],
     "wof:tags":[]
 },
   "bbox": [

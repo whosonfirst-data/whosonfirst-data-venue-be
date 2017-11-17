@@ -7,13 +7,16 @@
     "addr:postcode":"4700",
     "addr:street":"Industriestrasse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.0050168037,50.6392211914,6.0050168037,50.6392211914",
     "geom:latitude":50.639221,
     "geom:longitude":6.005017,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Industriestrasse 28",
     "sg:city":"Eupen",
     "sg:classifiers":[
@@ -40,16 +43,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473514297,
-    "wof:geomhash":"1cf58e0377f3152ac8b8cfb61119c94e",
+    "wof:geomhash":"7c98b1b20e75dc63cef67dc81aff2f61",
     "wof:hierarchy":[],
     "wof:id":1058202309,
-    "wof:lastmodified":1473720363,
+    "wof:lastmodified":1510942500,
     "wof:name":"Accubel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058457477
+    ],
+    "wof:supersedes":[
+        1041738985,
+        1041740639
+    ],
     "wof:tags":[
         "hot",
         "generator",

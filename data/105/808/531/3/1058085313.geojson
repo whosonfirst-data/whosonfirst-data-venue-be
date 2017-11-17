@@ -7,13 +7,16 @@
     "addr:postcode":"8750",
     "addr:street":"Schaapsdreef",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2920570374,51.078994751,3.2920570374,51.078994751",
     "geom:latitude":51.078995,
     "geom:longitude":3.292057,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaapsdreef 8b",
     "sg:city":"Wingene",
     "sg:classifiers":[
@@ -38,16 +41,24 @@
     },
     "wof:country":"BE",
     "wof:created":1473508962,
-    "wof:geomhash":"2bce7e690823ab9f1f7375a981300890",
+    "wof:geomhash":"1b3022401980ac58a2948837dd7b478c",
     "wof:hierarchy":[],
     "wof:id":1058085313,
-    "wof:lastmodified":1473721485,
+    "wof:lastmodified":1510943544,
     "wof:name":"Oosterlinck-greenwood Nv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058097707,
+        1058878225,
+        1058990563,
+        1058525101
+    ],
+    "wof:supersedes":[
+        1042175587,
+        1042045891
+    ],
     "wof:tags":[
         "-"
     ]

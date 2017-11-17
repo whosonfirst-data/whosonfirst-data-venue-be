@@ -7,13 +7,16 @@
     "addr:postcode":"3000",
     "addr:street":"Burgemeestersstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7116122246,50.8758659363,4.7116122246,50.8758659363",
     "geom:latitude":50.875866,
     "geom:longitude":4.711612,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Burgemeestersstraat 36",
     "sg:city":"Leuven",
     "sg:classifiers":[
@@ -35,16 +38,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473539392,
-    "wof:geomhash":"694644360247e2188c2f21e08819f58a",
+    "wof:geomhash":"3be7a6934c794d705345784ee56f2920",
     "wof:hierarchy":[],
     "wof:id":1058751397,
-    "wof:lastmodified":1473719854,
+    "wof:lastmodified":1510943959,
     "wof:name":"Basement (the)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058797643,
+        1058825237
+    ],
+    "wof:supersedes":[
+        1058044379,
+        1058174003
+    ],
     "wof:tags":[]
 },
   "bbox": [

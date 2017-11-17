@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5427861214,50.672164917,5.5427861214,50.672164917",
     "geom:latitude":50.672165,
     "geom:longitude":5.542786,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Rue D'ans 60",
     "sg:city":"Li\u00e8ge 1 (rocourt)",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":237659087,
         "sg:id":"SG_3lWf6eKtyGTITUYkNKV23z_50.672165_5.542786@1306268360"
     },
     "wof:country":"BE",
     "wof:created":1473488522,
-    "wof:geomhash":"00b7c04dfeec1a56790ec9c6f1c1b736",
+    "wof:geomhash":"e9763fcf4f7a41edbc15bc0f5991dade",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1041914881,
-    "wof:lastmodified":1473721545,
+    "wof:lastmodified":1510943295,
     "wof:name":"Stock Center",
     "wof:parent_id":85800751,
     "wof:placetype":"venue",

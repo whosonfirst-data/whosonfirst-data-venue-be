@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4378709793,50.4111251831,4.4378709793,50.4111251831",
     "geom:latitude":50.411125,
     "geom:longitude":4.437871,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Grand Central 8",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473546454,
-    "wof:geomhash":"2da7430c31571c4494a4cba60a0aa2d7",
+    "wof:geomhash":"804cd883f4e2c10818a1403af13c90b0",
     "wof:hierarchy":[],
     "wof:id":1058910661,
-    "wof:lastmodified":1473719547,
+    "wof:lastmodified":1510944185,
     "wof:name":"Canon-remtech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058865997
+    ],
     "wof:tags":[
         "-",
         "typewriter"

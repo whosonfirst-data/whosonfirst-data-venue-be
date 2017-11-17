@@ -7,13 +7,16 @@
     "addr:postcode":"4052",
     "addr:street":"Rue De Trooz;Beaufays",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6392202377,50.5586051941,5.6392202377,50.5586051941",
     "geom:latitude":50.558605,
     "geom:longitude":5.63922,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Trooz 21",
     "sg:city":"Chaudfontaine (beaufays)",
     "sg:classifiers":[
@@ -38,16 +41,25 @@
     },
     "wof:country":"BE",
     "wof:created":1473546800,
-    "wof:geomhash":"2966f772b9b412e61992f8d4676c05d4",
+    "wof:geomhash":"36b89d9abff484096ea69667ea6d7b9b",
     "wof:hierarchy":[],
     "wof:id":1058918129,
-    "wof:lastmodified":1473722302,
+    "wof:lastmodified":1510943092,
     "wof:name":"Esseler & Co Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058970101
+    ],
+    "wof:supersedes":[
+        1058776753,
+        1058286333,
+        1058035611,
+        1041742561,
+        1058405603,
+        1058797319
+    ],
     "wof:tags":[
         "veranda"
     ]

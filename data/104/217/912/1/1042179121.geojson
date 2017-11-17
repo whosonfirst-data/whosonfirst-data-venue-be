@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3913269043,51.1921958923,4.3913269043,51.1921958923",
     "geom:latitude":51.192196,
     "geom:longitude":4.391327,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Tentoonstellingslaan 36",
     "sg:city":"Antwerpen",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473500688,
-    "wof:geomhash":"aadc62d0d3063b3b3e118c6b5ec10d14",
+    "wof:geomhash":"c02710a14aa37fb6b00503e7f8064a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1042179121,
-    "wof:lastmodified":1473722737,
+    "wof:lastmodified":1510943275,
     "wof:name":"B-export Nv",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041612127
+    ],
     "wof:tags":[
         "product",
         "related"

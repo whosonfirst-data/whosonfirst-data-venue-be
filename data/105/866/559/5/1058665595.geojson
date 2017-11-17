@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2218151093,51.2084350586,3.2218151093,51.2084350586",
     "geom:latitude":51.208435,
     "geom:longitude":3.221815,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-amandsstraat 40",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":306585477,
         "sg:id":"SG_1Cepdh1yr6rzPYnQO3350N_51.208435_3.221815@1306268550"
     },
     "wof:country":"BE",
     "wof:created":1473535657,
-    "wof:geomhash":"5435aeb331b1d81119c42602b77bed1a",
+    "wof:geomhash":"79c93b926b7ac842bfc9f45481f07143",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058665595,
-    "wof:lastmodified":1473721582,
+    "wof:lastmodified":1510943513,
     "wof:name":"Chagall",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

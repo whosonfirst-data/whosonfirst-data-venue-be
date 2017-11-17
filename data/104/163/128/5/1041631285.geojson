@@ -7,13 +7,16 @@
     "addr:postcode":"1090",
     "addr:street":"Rue Le\u0301Opold I",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3292779922,50.8735389709,4.3292779922,50.8735389709",
     "geom:latitude":50.873539,
     "geom:longitude":4.329278,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue L\u00c9opold I 489",
     "sg:city":"Jette",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476569,
-    "wof:geomhash":"2cab7d770a3403c145e00aa7a57b2dbd",
+    "wof:geomhash":"9dfd64d29720c9c88fd2cd52358189b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041631285,
-    "wof:lastmodified":1473719890,
+    "wof:lastmodified":1510943094,
     "wof:name":"Euro Progr\u00c8s",
     "wof:parent_id":85801325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058911829
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

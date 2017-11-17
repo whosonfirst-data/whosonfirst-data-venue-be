@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Mont-Saint-Martin",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5646209717,50.6443939209,5.5646209717,50.6443939209",
     "geom:latitude":50.644394,
     "geom:longitude":5.564621,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mont-saint-martin 58",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478160,
-    "wof:geomhash":"93c1e767382f71508e8dc2480dbdac53",
+    "wof:geomhash":"758cd692fd55f3cfbde3cfa0664cee75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041670207,
-    "wof:lastmodified":1473718953,
+    "wof:lastmodified":1510942036,
     "wof:name":"Gillam-fei Sa",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041582179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication",

@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Rijfstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4194889069,51.2160987854,4.4194889069,51.2160987854",
     "geom:latitude":51.216099,
     "geom:longitude":4.419489,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rijfstraat 3",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499638,
-    "wof:geomhash":"b1ddd302aab29e0168b46ee61a77da3f",
+    "wof:geomhash":"e3d76ca2b4132f59055f4ac4da7ac625",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042162243,
-    "wof:lastmodified":1473720353,
+    "wof:lastmodified":1510943418,
     "wof:name":"Broder Diamonds Manuf. Cy",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058615293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

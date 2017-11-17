@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3684930801,50.8113441467,4.3684930801,50.8113441467",
     "geom:latitude":50.811344,
     "geom:longitude":4.368493,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Waterloo 797",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473975,
-    "wof:geomhash":"548e62d002fba8ca078e47c8513e8b40",
+    "wof:geomhash":"8a8a5e48806062213c763724017610ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1041568331,
-    "wof:lastmodified":1473722435,
+    "wof:lastmodified":1510942409,
     "wof:name":"Pellegrin H",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041616355
+    ],
     "wof:tags":[
         "chemist"
     ]

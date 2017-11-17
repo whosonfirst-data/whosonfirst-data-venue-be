@@ -7,13 +7,16 @@
     "addr:postcode":"2300",
     "addr:street":"Parklaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9486398697,51.3125495911,4.9486398697,51.3125495911",
     "geom:latitude":51.31255,
     "geom:longitude":4.94864,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Parklaan 1",
     "sg:city":"Turnhout",
     "sg:classifiers":[
@@ -41,16 +44,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473510956,
-    "wof:geomhash":"f1e3c637c1e5db0e5a173fe887ca21f2",
+    "wof:geomhash":"ac9099e2d1336a4951d4602da607da77",
     "wof:hierarchy":[],
     "wof:id":1058129497,
-    "wof:lastmodified":1473722736,
+    "wof:lastmodified":1510944090,
     "wof:name":"De Harense Smid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058963077,
+        1058194851,
+        1058912647
+    ],
+    "wof:supersedes":[
+        1042201007
+    ],
     "wof:tags":[
         "access",
         "gsm",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3985710144,51.207244873,4.3985710144,51.207244873",
     "geom:latitude":51.207245,
     "geom:longitude":4.398571,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Amerikalei 73",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486434,
-    "wof:geomhash":"a367a5c053c93c5a2d29ae84392debb3",
+    "wof:geomhash":"0e0e997a5102d1bd41659df37adafc21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041865019,
-    "wof:lastmodified":1473721417,
+    "wof:lastmodified":1510943355,
     "wof:name":"Ludmilla Boutmans",
     "wof:parent_id":85800823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041713355
+    ],
     "wof:tags":[]
 },
   "bbox": [

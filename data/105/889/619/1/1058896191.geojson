@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4492177963,50.8687057495,4.4492177963,50.8687057495",
     "geom:latitude":50.868706,
     "geom:longitude":4.449218,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Sint-stefaansstraat 17",
     "sg:city":"Zaventem (sint-stevens-woluwe)",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545722,
-    "wof:geomhash":"1180b86c0edd32afeba192751bd116bc",
+    "wof:geomhash":"e39ed2cd0284232d8992c990fee49b57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,18 @@
         }
     ],
     "wof:id":1058896191,
-    "wof:lastmodified":1473721780,
+    "wof:lastmodified":1510941390,
     "wof:name":"A. Dk. Moves",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042092355,
+        1058658863,
+        1041786231,
+        1058087341
+    ],
     "wof:tags":[
         "machine",
         "-",

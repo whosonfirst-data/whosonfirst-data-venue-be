@@ -7,13 +7,16 @@
     "addr:postcode":"6000",
     "addr:street":"Rue Du Colle\u0300Ge;Hainaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4397258759,50.4072799683,4.4397258759,50.4072799683",
     "geom:latitude":50.40728,
     "geom:longitude":4.439726,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Coll\u00e8ge 9",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -38,16 +41,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473530101,
-    "wof:geomhash":"656d89519b2c02f9e1174573e7e058b5",
+    "wof:geomhash":"a087f7b8c05a8bd28c69ea55425dc61e",
     "wof:hierarchy":[],
     "wof:id":1058543951,
-    "wof:lastmodified":1473721202,
+    "wof:lastmodified":1510942890,
     "wof:name":"Clic Clac 1 Heure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058545763,
+        1058785357,
+        1058574817
+    ],
+    "wof:supersedes":[
+        1058543457
+    ],
     "wof:tags":[
         "photographer"
     ]

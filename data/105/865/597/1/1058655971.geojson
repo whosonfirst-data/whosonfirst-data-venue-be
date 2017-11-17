@@ -7,13 +7,16 @@
     "addr:postcode":"8200",
     "addr:street":"Dirk Martensstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.1945741177,51.2105331421,3.1945741177,51.2105331421",
     "geom:latitude":51.210533,
     "geom:longitude":3.194574,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dirk Martensstraat 15",
     "sg:city":"Brugge (sint-andries)",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535227,
-    "wof:geomhash":"4079825cc84194f1d1ff8379c0a87c7a",
+    "wof:geomhash":"209a533824a0bc1e7703ed12eb7ba903",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -51,13 +54,25 @@
         }
     ],
     "wof:id":1058655971,
-    "wof:lastmodified":1473721603,
+    "wof:lastmodified":1510943370,
     "wof:name":"Verhelst",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058877691,
+        1058700857,
+        1058835097
+    ],
+    "wof:supersedes":[
+        1058050633,
+        1058386403,
+        1058268369,
+        1041786187,
+        1058052383,
+        1058386971,
+        1042184251
+    ],
     "wof:tags":[]
 },
   "bbox": [

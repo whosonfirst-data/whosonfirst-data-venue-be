@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Louvrex",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5644497871,50.6332397461,5.5644497871,50.6332397461",
     "geom:latitude":50.63324,
     "geom:longitude":5.56445,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"76",
     "sg:city":"Rue Louvrex 4000 Li\u00e8ge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473495954,
-    "wof:geomhash":"e1eee8ab1a2da9f201c47704ffce0c4e",
+    "wof:geomhash":"3a426572f8c8b99cf8ab34675ae2509d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1042089987,
-    "wof:lastmodified":1473722924,
+    "wof:lastmodified":1510943586,
     "wof:name":"Strategie Sa",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041536035
+    ],
+    "wof:supersedes":[
+        1041700619
+    ],
     "wof:tags":[
         "marketing",
         "medium",

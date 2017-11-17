@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4555330276,51.1730041504,4.4555330276,51.1730041504",
     "geom:latitude":51.173004,
     "geom:longitude":4.455533,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Fortstraat 1",
     "sg:city":"Mortsel",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":625246355,
         "sg:id":"SG_2cmghUkZWlxHubDeYHIsaS_51.173004_4.455533@1306268550"
     },
     "wof:country":"BE",
     "wof:created":1473535685,
-    "wof:geomhash":"c03105ecbc80351ff4085b4751365c75",
+    "wof:geomhash":"be2460f1755432c7d3cc8624976531e1",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1058666369,
-    "wof:lastmodified":1473721783,
+    "wof:lastmodified":1510943941,
     "wof:name":"D'n Anvers",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",

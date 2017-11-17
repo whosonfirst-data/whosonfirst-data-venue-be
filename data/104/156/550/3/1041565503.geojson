@@ -7,13 +7,16 @@
     "addr:postcode":"2360",
     "addr:street":"Jan De Beerstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.9923171997,51.3102912903,4.9923171997,51.3102912903",
     "geom:latitude":51.310291,
     "geom:longitude":4.992317,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Jan De Beerstraat 9",
     "sg:city":"Oud-turnhout",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473859,
-    "wof:geomhash":"3042a15a60c3cb7166e4f3a5ef408b5f",
+    "wof:geomhash":"f6d9db25e85dff6cb1dc3c63807b9d2a",
     "wof:hierarchy":[],
     "wof:id":1041565503,
-    "wof:lastmodified":1473721605,
+    "wof:lastmodified":1510944099,
     "wof:name":"Lefebvre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058245735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"

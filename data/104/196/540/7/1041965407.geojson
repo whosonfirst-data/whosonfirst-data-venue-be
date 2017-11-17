@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Kasteellaan;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7392458916,51.0491714478,3.7392458916,51.0491714478",
     "geom:latitude":51.049171,
     "geom:longitude":3.739246,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Kasteellaan 50",
     "sg:city":"Gent",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473490715,
-    "wof:geomhash":"9f28662d6b3dd1927d82fec24ae007b0",
+    "wof:geomhash":"4c6b31ff92c17c152788be0281c0e2a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041965407,
-    "wof:lastmodified":1473721562,
+    "wof:lastmodified":1510942458,
     "wof:name":"Gents Adviesbureau Bvba",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058382499
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeper"

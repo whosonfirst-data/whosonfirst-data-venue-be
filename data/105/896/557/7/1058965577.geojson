@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3036899567,50.8310546875,4.3036899567,50.8310546875",
     "geom:latitude":50.831055,
     "geom:longitude":4.30369,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Lieutenant Liedel 46",
     "sg:city":"Bruxelles (anderlecht)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473549022,
-    "wof:geomhash":"a085633a6da6224ad8f1b072ac76a0ed",
+    "wof:geomhash":"21ae2a7b8805ad77d281a59547982fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,18 @@
         }
     ],
     "wof:id":1058965577,
-    "wof:lastmodified":1473721541,
+    "wof:lastmodified":1510942675,
     "wof:name":"Elis-hades",
     "wof:parent_id":85801961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042075677,
+        1058659547,
+        1041839255,
+        1042066717
+    ],
     "wof:tags":[
         "water",
         "soft"

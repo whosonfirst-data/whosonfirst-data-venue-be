@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4043598175,51.1487884521,4.4043598175,51.1487884521",
     "geom:latitude":51.148788,
     "geom:longitude":4.40436,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Doornstraat 11",
     "sg:city":"Kontich",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":106225902,
         "sg:id":"SG_5d4bcJpUo5x79b4UT8L3wn_51.148788_4.404360@1306268523"
     },
     "wof:country":"BE",
     "wof:created":1473529288,
-    "wof:geomhash":"49e425864698c663c2ec3d8df0d8cf25",
+    "wof:geomhash":"56873e62c3cc2430bf1049cf703797be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058526091,
-    "wof:lastmodified":1473721793,
+    "wof:lastmodified":1510943296,
     "wof:name":"De Jachthoorn",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",

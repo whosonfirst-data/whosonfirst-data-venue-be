@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4172711372,50.8744468689,4.4172711372,50.8744468689",
     "geom:latitude":50.874447,
     "geom:longitude":4.417271,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De B\u00e2le 8",
     "sg:city":"Bruxelles (evere)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523574,
-    "wof:geomhash":"9f7b05f7627249284141e5d889bd38c6",
+    "wof:geomhash":"26ba5dae773608672bc1aae9e47da1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058407583,
-    "wof:lastmodified":1473722131,
+    "wof:lastmodified":1510943457,
     "wof:name":"Johnson Matthey Sa",
     "wof:parent_id":85800923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058227953
+    ],
     "wof:tags":[
         "precious"
     ]

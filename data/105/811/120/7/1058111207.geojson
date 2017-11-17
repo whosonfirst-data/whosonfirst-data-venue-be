@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.0967321396,50.4910087585,5.0967321396,50.4910087585",
     "geom:latitude":50.491009,
     "geom:longitude":5.096732,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Du Commerce 40",
     "sg:city":"Andenne",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473510059,
-    "wof:geomhash":"d5f5a0aecbab7ea204a0fe0c7898109f",
+    "wof:geomhash":"55372dc5798db7eb14bbaefd48002f4d",
     "wof:hierarchy":[],
     "wof:id":1058111207,
-    "wof:lastmodified":1473719796,
+    "wof:lastmodified":1510942761,
     "wof:name":"Leonidas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041561623
+    ],
     "wof:tags":[
         "-"
     ]

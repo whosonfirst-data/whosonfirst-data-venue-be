@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4212999344,50.4015007019,4.4212999344,50.4015007019",
     "geom:latitude":50.401501,
     "geom:longitude":4.4213,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Chapelle-beaussart 101",
     "sg:city":"Charleroi (mont-sur-marchienne)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544377,
-    "wof:geomhash":"c6d3b15582e1528c9966f520960f4ac2",
+    "wof:geomhash":"ba98d84cad4ff2e0585c638136ed6d7f",
     "wof:hierarchy":[],
     "wof:id":1058865491,
-    "wof:lastmodified":1473721543,
+    "wof:lastmodified":1510943869,
     "wof:name":"Alcatel Etca Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041580807
+    ],
     "wof:tags":[
         "telecommunication",
         "system"

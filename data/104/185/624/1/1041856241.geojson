@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2113099098,51.1885986328,3.2113099098,51.1885986328",
     "geom:latitude":51.188599,
     "geom:longitude":3.21131,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rijselstraat 274",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486056,
-    "wof:geomhash":"871a63b7904a4ca7552621ef396f7a55",
+    "wof:geomhash":"3db79b881f222068601f4e8e9f1034bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041856241,
-    "wof:lastmodified":1473721834,
+    "wof:lastmodified":1510941254,
     "wof:name":"Clive Van Aerde",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041704867
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3668231964,50.8219642639,4.3668231964,50.8219642639",
     "geom:latitude":50.821964,
     "geom:longitude":4.366823,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Vleurgat 184",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544437,
-    "wof:geomhash":"d30cf690e525482e281dd5cb8e405613",
+    "wof:geomhash":"9a0c7fc207f8884c8893258c00f47b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058866761,
-    "wof:lastmodified":1473721892,
+    "wof:lastmodified":1510942603,
     "wof:name":"La Telephonie Generale",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041629381
+    ],
     "wof:tags":[
         "installation"
     ]

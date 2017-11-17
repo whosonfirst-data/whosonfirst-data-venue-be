@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3183078766,50.9018058777,4.3183078766,50.9018058777",
     "geom:latitude":50.901806,
     "geom:longitude":4.318308,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De Limburg Stirum 100",
     "sg:city":"Wemmel",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535403,
-    "wof:geomhash":"b7cd5c95ed0c10ec067edce5c0374534",
+    "wof:geomhash":"d921e21159117c24a512d88aa52633a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":1058659651,
-    "wof:lastmodified":1473722739,
+    "wof:lastmodified":1510941277,
     "wof:name":"Timauto Bvba",
     "wof:parent_id":85801105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041850475,
+        1041847591,
+        1058351707
+    ],
     "wof:tags":[
         "term",
         "van",

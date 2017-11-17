@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5861868858,50.6359367371,5.5861868858,50.6359367371",
     "geom:latitude":50.635937,
     "geom:longitude":5.586187,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Lairesse 42",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486339,
-    "wof:geomhash":"04492475cd171d3cd7e93e630ac7fe4c",
+    "wof:geomhash":"687da90024ace893d152ddd3bd878cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041862829,
-    "wof:lastmodified":1473720691,
+    "wof:lastmodified":1510942649,
     "wof:name":"Jean-marie Tihon",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041711227
+    ],
     "wof:tags":[]
 },
   "bbox": [

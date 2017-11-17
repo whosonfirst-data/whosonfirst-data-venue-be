@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Rue Ame\u0301Ricaine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3576860428,50.8235092163,4.3576860428,50.8235092163",
     "geom:latitude":50.823509,
     "geom:longitude":4.357686,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Am\u00e9ricaine 61-65",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485538,
-    "wof:geomhash":"5616f19da85926372837f96b1d3af2b0",
+    "wof:geomhash":"cd134212df21f828d90852af034a9d89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +65,23 @@
         }
     ],
     "wof:id":1041843707,
-    "wof:lastmodified":1473720968,
+    "wof:lastmodified":1510944160,
     "wof:name":"Arwac Sprl",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866419,
+        1058656197,
+        1058129381,
+        1058865725
+    ],
+    "wof:supersedes":[
+        1041842833,
+        1041840807,
+        1041840665,
+        1041739117
+    ],
     "wof:tags":[
         "automobile",
         "-",

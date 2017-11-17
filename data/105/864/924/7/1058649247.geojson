@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue De La",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3668470383,50.8492546082,4.3668470383,50.8492546082",
     "geom:latitude":50.849255,
     "geom:longitude":4.366847,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Presse 4",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473534899,
-    "wof:geomhash":"8902f140143fabba23680884afa522a3",
+    "wof:geomhash":"6b82c05ebe8d49fcdbbad99b8a98a03c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +60,18 @@
         }
     ],
     "wof:id":1058649247,
-    "wof:lastmodified":1473722709,
+    "wof:lastmodified":1510942620,
     "wof:name":"Burotel Belgium Sa",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058866337,
+        1058761135
+    ],
+    "wof:supersedes":[
+        1058479567
+    ],
     "wof:tags":[]
 },
   "bbox": [

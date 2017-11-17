@@ -7,13 +7,16 @@
     "addr:postcode":"1620",
     "addr:street":"Boulevard De L'Humanite \u0301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3042201996,50.7969169617,4.3042201996,50.7969169617",
     "geom:latitude":50.796917,
     "geom:longitude":4.30422,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De L'humanit\u00c9 219",
     "sg:city":"Drogenbos",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473505541,
-    "wof:geomhash":"22aa0406ac404aff5732df7fc9753863",
+    "wof:geomhash":"1a1c920bb7342b3e9c56cb8adbeabe6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042277365,
-    "wof:lastmodified":1473722114,
+    "wof:lastmodified":1510941578,
     "wof:name":"Caddy Home",
     "wof:parent_id":85801683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058840261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

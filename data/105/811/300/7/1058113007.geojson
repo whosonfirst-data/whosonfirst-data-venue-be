@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Hemricourt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5635399818,50.6306915283,5.5635399818,50.6306915283",
     "geom:latitude":50.630692,
     "geom:longitude":5.56354,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Hemricourt 37",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473510136,
-    "wof:geomhash":"a07fc2bebafc7580c0c5f3f1ebf2e4a0",
+    "wof:geomhash":"42aa7a3df303752b62e1bced34a8500b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,20 @@
         }
     ],
     "wof:id":1058113007,
-    "wof:lastmodified":1473720721,
+    "wof:lastmodified":1510944134,
     "wof:name":"Maretti",
     "wof:parent_id":85862077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058468125,
+        1058414915,
+        1058730209
+    ],
+    "wof:supersedes":[
+        1042175883,
+        1042175525
+    ],
     "wof:tags":[
         "glazier"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Place Du Ge\u0301Ne\u0301Ral Leman",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5742259026,50.620136261,5.5742259026,50.620136261",
     "geom:latitude":50.620136,
     "geom:longitude":5.574226,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Du G\u00e9n\u00e9ral Leman 25",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473473088,
-    "wof:geomhash":"18db03178b577531ddd115fc585c2b5e",
+    "wof:geomhash":"4542953f3ac7b171872699fff87f2eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041547397,
-    "wof:lastmodified":1473722180,
+    "wof:lastmodified":1510941431,
     "wof:name":"Aall Car Rent Cobemi",
     "wof:parent_id":85801157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041852137
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

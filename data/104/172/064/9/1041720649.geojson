@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Onderbergen;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7191700935,51.0503692627,3.7191700935,51.0503692627",
     "geom:latitude":51.050369,
     "geom:longitude":3.71917,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Onderbergen 57",
     "sg:city":"Gent-centrum",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480098,
-    "wof:geomhash":"1ccf35733d993568932e7e88986795c9",
+    "wof:geomhash":"79962404842436e83fe7a128364a7a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,16 @@
         }
     ],
     "wof:id":1041720649,
-    "wof:lastmodified":1473719545,
+    "wof:lastmodified":1510943346,
     "wof:name":"Balthazar Tom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041886239,
+        1041872659,
+        1041720653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Pierreuse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5738329887,50.6465606689,5.5738329887,50.6465606689",
     "geom:latitude":50.646561,
     "geom:longitude":5.573833,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pierreuse 7",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479793,
-    "wof:geomhash":"480f50bb5726923d3e9aafdd8f36eede",
+    "wof:geomhash":"b277421be35c101ff283498f460ae94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041712925,
-    "wof:lastmodified":1473720768,
+    "wof:lastmodified":1510943656,
     "wof:name":"Laurence Dols",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041864541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

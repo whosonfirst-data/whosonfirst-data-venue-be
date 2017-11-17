@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4380397797,50.8223838806,4.4380397797,50.8223838806",
     "geom:latitude":50.822384,
     "geom:longitude":4.43804,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av De Lothier 30",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473528096,
-    "wof:geomhash":"1e8f5b6a861010bd0d6faa4ee848378a",
+    "wof:geomhash":"33bc6ff8f2e55c40d47507d4391af976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":1058500073,
-    "wof:lastmodified":1473718917,
+    "wof:lastmodified":1510944128,
     "wof:name":"Euro Pak 2000 Sa",
     "wof:parent_id":85801955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041639865
+    ],
     "wof:tags":[
         "packaging",
         "material",

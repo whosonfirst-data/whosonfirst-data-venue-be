@@ -7,13 +7,16 @@
     "addr:postcode":"6200",
     "addr:street":"Rue Des Sablie\u0300Res",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5335302353,50.3917617798,4.5335302353,50.3917617798",
     "geom:latitude":50.391762,
     "geom:longitude":4.53353,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Sabli\u00e8res 299",
     "sg:city":"Ch\u00e2telet",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473625,
-    "wof:geomhash":"80a58945da32478c751620e34767d4ac",
+    "wof:geomhash":"ea3b395060316f64cb65d9da02885cde",
     "wof:hierarchy":[],
     "wof:id":1041560083,
-    "wof:lastmodified":1473718916,
+    "wof:lastmodified":1510942397,
     "wof:name":"Selecture Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058658781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookseller"

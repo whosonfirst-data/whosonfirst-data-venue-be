@@ -7,13 +7,16 @@
     "addr:postcode":"1800",
     "addr:street":"Schaarbeeklei",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4160599709,50.9099388123,4.4160599709,50.9099388123",
     "geom:latitude":50.909939,
     "geom:longitude":4.41606,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schaarbeeklei 636",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499144,
-    "wof:geomhash":"f099780e7d9e767146cbf8c293b5a306",
+    "wof:geomhash":"f7a08fc8c10fea324b74e09a45b17079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1042152349,
-    "wof:lastmodified":1473720439,
+    "wof:lastmodified":1510941517,
     "wof:name":"A-line Belgium",
     "wof:parent_id":85801085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058656615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "machine",

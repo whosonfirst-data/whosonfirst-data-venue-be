@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8291299343,50.712310791,3.8291299343,50.712310791",
     "geom:latitude":50.712311,
     "geom:longitude":3.82913,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grand-place 22",
     "sg:city":"Lessines",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473493453,
-    "wof:geomhash":"2c58b09ce6634768f50a441473957825",
+    "wof:geomhash":"827fb70e6386539a6838fd6ba975b4a1",
     "wof:hierarchy":[],
     "wof:id":1042030289,
-    "wof:lastmodified":1473719230,
+    "wof:lastmodified":1510943997,
     "wof:name":"Flash Back",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041669245
+    ],
     "wof:tags":[
         "caf\u00e9s"
     ]

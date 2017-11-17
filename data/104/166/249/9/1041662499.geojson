@@ -7,13 +7,16 @@
     "addr:postcode":"1190",
     "addr:street":"Rue Cervante\u0300S;/ Forest",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3399610519,50.8180618286,4.3399610519,50.8180618286",
     "geom:latitude":50.818062,
     "geom:longitude":4.339961,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Cervant\u00c8s 86",
     "sg:city":"Vorst/forest",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477851,
-    "wof:geomhash":"4d78a259bdd7e9c328d65fa0afcb875a",
+    "wof:geomhash":"afb5c4508c8bc476159520c2c389725a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041662499,
-    "wof:lastmodified":1473720510,
+    "wof:lastmodified":1510941427,
     "wof:name":"Clean S.g.",
     "wof:parent_id":85801903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058287183
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

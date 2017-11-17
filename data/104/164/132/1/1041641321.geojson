@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue Ge\u0301Ne\u0301Ral Lotz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3575730324,50.8150482178,4.3575730324,50.8150482178",
     "geom:latitude":50.815048,
     "geom:longitude":4.357573,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue G\u00e9n\u00e9ral Lotz 13",
     "sg:city":"Bruxelles (uccle)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476972,
-    "wof:geomhash":"3b8a79888a7697f6c1990ff08d50e655",
+    "wof:geomhash":"58f5ff44be68b57f4dde6c7f82677091",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041641321,
-    "wof:lastmodified":1473719863,
+    "wof:lastmodified":1510943218,
     "wof:name":"Le Grelle Sprl",
     "wof:parent_id":85800787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041618533
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "painting",

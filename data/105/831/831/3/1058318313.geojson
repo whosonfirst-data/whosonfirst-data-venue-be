@@ -7,13 +7,16 @@
     "addr:postcode":"9032",
     "addr:street":"Botestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7162549496,51.0900535583,3.7162549496,51.0900535583",
     "geom:latitude":51.090054,
     "geom:longitude":3.716255,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Botestraat 23",
     "sg:city":"Gent (wondelgem)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473519401,
-    "wof:geomhash":"e1aaa46583b09d95bbd3b1c458f39293",
+    "wof:geomhash":"6678cb2008e3c3b74ac4056a0a1c642d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,25 @@
         }
     ],
     "wof:id":1058318313,
-    "wof:lastmodified":1473722479,
+    "wof:lastmodified":1510943686,
     "wof:name":"Belgian Wood Center Nv",
     "wof:parent_id":85802027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058877841,
+        1058515337,
+        1058584345,
+        1058969515,
+        1058524591
+    ],
+    "wof:supersedes":[
+        1042171077,
+        1042045591,
+        1041914615,
+        1058268193,
+        1042175183
+    ],
     "wof:tags":[
         "installation"
     ]

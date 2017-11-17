@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.568980217,50.6443862915,5.568980217,50.6443862915",
     "geom:latitude":50.644386,
     "geom:longitude":5.56898,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard De La Sauveni\u00e8re 26",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473546111,
-    "wof:geomhash":"2a014afbca558a3a34961c3c5d7b714c",
+    "wof:geomhash":"8f44773049eb6739c0b3f9ed586fa824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058903367,
-    "wof:lastmodified":1473720871,
+    "wof:lastmodified":1510941554,
     "wof:name":"Id\u00e9al Tourisme",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041642691
+    ],
     "wof:tags":[
         "agency"
     ]

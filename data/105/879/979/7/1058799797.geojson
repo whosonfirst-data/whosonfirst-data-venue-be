@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Fe\u0301Ronstre\u0301E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5810608864,50.6467628479,5.5810608864,50.6467628479",
     "geom:latitude":50.646763,
     "geom:longitude":5.581061,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"F\u00e9ronstr\u00e9e 100",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473541557,
-    "wof:geomhash":"edfc4232e5b5b6f2da4914f43ad25606",
+    "wof:geomhash":"630883ad7fb7156395ff1c4397dfb46d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,21 @@
         }
     ],
     "wof:id":1058799797,
-    "wof:lastmodified":1473722875,
+    "wof:lastmodified":1510944011,
     "wof:name":"Fissette",
     "wof:parent_id":85862039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058867925
+    ],
+    "wof:supersedes":[
+        1058397185,
+        1042213623,
+        1058129567,
+        1058646775,
+        1041840915
+    ],
     "wof:tags":[
         "sound",
         "equipment",

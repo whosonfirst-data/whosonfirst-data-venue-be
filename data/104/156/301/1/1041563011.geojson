@@ -7,13 +7,16 @@
     "addr:postcode":"4651",
     "addr:street":"Place Du Marche\u0301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8210501671,50.6475830078,5.8210501671,50.6475830078",
     "geom:latitude":50.647583,
     "geom:longitude":5.82105,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Du March\u00c9 32",
     "sg:city":"Herve",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473753,
-    "wof:geomhash":"25dd41e3b12dc861f22445058f0c19d7",
+    "wof:geomhash":"8d2538004c24c96268911915957d5ea6",
     "wof:hierarchy":[],
     "wof:id":1041563011,
-    "wof:lastmodified":1473720756,
+    "wof:lastmodified":1510941865,
     "wof:name":"Caf\u00c9 De La Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058629123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caf\u00e9s"

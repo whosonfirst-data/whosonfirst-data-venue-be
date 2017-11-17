@@ -7,13 +7,16 @@
     "addr:postcode":"8000",
     "addr:street":"Bevrijdingslaan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2054719925,51.212272644,3.2054719925,51.212272644",
     "geom:latitude":51.212273,
     "geom:longitude":3.205472,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Bevrijdingslaan 4b1",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479367,
-    "wof:geomhash":"8ab5dcdd41222650d29c3c75e2154083",
+    "wof:geomhash":"c18ccbbfe560bcc88934462053fbdaca",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041701973,
-    "wof:lastmodified":1473720229,
+    "wof:lastmodified":1510941888,
     "wof:name":"Alex Vrombaut",
     "wof:parent_id":85801893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041853269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

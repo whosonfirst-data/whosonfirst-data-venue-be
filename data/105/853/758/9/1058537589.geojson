@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.428730011,50.8943557739,4.428730011,50.8943557739",
     "geom:latitude":50.894356,
     "geom:longitude":4.42873,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue De La M\u00e9trologie 5",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473529838,
-    "wof:geomhash":"847eaa32c17c2f44e509c53a03b4afd2",
+    "wof:geomhash":"74edebe3c61b443961a01f9d4a56feaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058537589,
-    "wof:lastmodified":1473722131,
+    "wof:lastmodified":1510943021,
     "wof:name":"Sanofi-synthelabo",
     "wof:parent_id":85801061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041649681
+    ],
     "wof:tags":[
         "pharmaceutical",
         "product"

@@ -7,13 +7,16 @@
     "addr:postcode":"4820",
     "addr:street":"Rue Xhauflaire",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.863255024,50.6102333069,5.863255024,50.6102333069",
     "geom:latitude":50.610233,
     "geom:longitude":5.863255,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Xhauflaire 153",
     "sg:city":"Dison",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473486973,
-    "wof:geomhash":"5f77cf1c660015c4de2aa9d8a88d97f3",
+    "wof:geomhash":"04b18613ef845a265211c8c9e4e563da",
     "wof:hierarchy":[],
     "wof:id":1041877697,
-    "wof:lastmodified":1473722165,
+    "wof:lastmodified":1510941240,
     "wof:name":"Sabel Paper Plastic Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041877767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bag"

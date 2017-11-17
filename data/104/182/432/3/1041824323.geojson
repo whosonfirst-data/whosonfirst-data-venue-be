@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Pierreuse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5727419853,50.649520874,5.5727419853,50.649520874",
     "geom:latitude":50.649521,
     "geom:longitude":5.572742,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Pierreuse 119",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473484687,
-    "wof:geomhash":"15f2ffe6c2d094b4344c374d37b98ff0",
+    "wof:geomhash":"66f7f56f1ecc8da078bbf7c09022830d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,29 @@
         }
     ],
     "wof:id":1041824323,
-    "wof:lastmodified":1473721192,
+    "wof:lastmodified":1510944091,
     "wof:name":"Lambert A",
     "wof:parent_id":85801929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058968831,
+        1058833033,
+        1041698543,
+        1042067575,
+        1058513259,
+        1058100565,
+        1041939367,
+        1058524995,
+        1058287645,
+        1058965391,
+        1058990691,
+        1058279089,
+        1058281223
+    ],
+    "wof:supersedes":[
+        1041730547
+    ],
     "wof:tags":[
         "asbestos",
         "removal"

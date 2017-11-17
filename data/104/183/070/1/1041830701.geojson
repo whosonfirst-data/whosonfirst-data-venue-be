@@ -7,13 +7,16 @@
     "addr:postcode":"2861",
     "addr:street":"Dijk",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5730400085,51.0555686951,4.5730400085,51.0555686951",
     "geom:latitude":51.055569,
     "geom:longitude":4.57304,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dijk 99",
     "sg:city":"Sint-katelijne-waver",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473484983,
-    "wof:geomhash":"74f03d8858303eb66fe8eae581bcd4a8",
+    "wof:geomhash":"8a3a16a18f3a9945ab26931842f1b389",
     "wof:hierarchy":[],
     "wof:id":1041830701,
-    "wof:lastmodified":1473719579,
+    "wof:lastmodified":1510941742,
     "wof:name":"Kantoor Van Duvel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058929733
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assurance"

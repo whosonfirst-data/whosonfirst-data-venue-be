@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5844669342,50.6321372986,5.5844669342,50.6321372986",
     "geom:latitude":50.632137,
     "geom:longitude":5.584467,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Gr\u00e9try 179",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478113,
-    "wof:geomhash":"235c75aa4f0bfbd9c0bbc78878375231",
+    "wof:geomhash":"8daedb515a2e99531da6952e6f141b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":1041668969,
-    "wof:lastmodified":1473722711,
+    "wof:lastmodified":1510943809,
     "wof:name":"Bervaes & Fils Sa",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041562569
+    ],
     "wof:tags":[
         "-",
         "tape",

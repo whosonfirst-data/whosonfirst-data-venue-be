@@ -7,13 +7,16 @@
     "addr:postcode":"1310",
     "addr:street":"Rue Ge\u0301Ne\u0301Ral De Gaulle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4876728058,50.7349510193,4.4876728058,50.7349510193",
     "geom:latitude":50.734951,
     "geom:longitude":4.487673,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue G\u00c9n\u00c9ral De Gaulle 15",
     "sg:city":"La Hulpe",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474875,
-    "wof:geomhash":"1f1a48045939cccb9cc19cfb739c6a43",
+    "wof:geomhash":"24febd1c6a89861dad3bf07bb621ef85",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":1041590207,
-    "wof:lastmodified":1473718974,
+    "wof:lastmodified":1510941405,
     "wof:name":"Fleurs Fran\u00c7is",
     "wof:parent_id":85801873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058054651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"1040",
     "addr:street":"Pl St-Pierre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3956727982,50.8375167847,4.3956727982,50.8375167847",
     "geom:latitude":50.837517,
     "geom:longitude":4.395673,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pl St-pierre 38",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473500693,
-    "wof:geomhash":"05e1482909e8279ae63ea8f9cdcccba5",
+    "wof:geomhash":"d870f5b750b114b4c5cc1c020ff384b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042179251,
-    "wof:lastmodified":1473722765,
+    "wof:lastmodified":1510943811,
     "wof:name":"Le Savour Club Sa",
     "wof:parent_id":85801123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058973191
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

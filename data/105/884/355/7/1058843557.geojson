@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3358149529,50.8117980957,4.3358149529,50.8117980957",
     "geom:latitude":50.811798,
     "geom:longitude":4.335815,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Mozart 46",
     "sg:city":"Bruxelles (forest)",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473543461,
-    "wof:geomhash":"c1f21c8b713db2111d10c9a6ec33e2e4",
+    "wof:geomhash":"cb95dc91a9d037029f45badc55117ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,18 @@
         }
     ],
     "wof:id":1058843557,
-    "wof:lastmodified":1473720976,
+    "wof:lastmodified":1510943667,
     "wof:name":"I.b.g. Sprl-bvba",
     "wof:parent_id":85801049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042174189,
+        1058762519,
+        1041742635,
+        1041683159
+    ],
     "wof:tags":[
         "-",
         "system",

@@ -7,13 +7,16 @@
     "addr:postcode":"6761",
     "addr:street":"Rue De Pierrard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5505099297,49.5684509277,5.5505099297,49.5684509277",
     "geom:latitude":49.568451,
     "geom:longitude":5.55051,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Pierrard 112",
     "sg:city":"Virton",
     "sg:classifiers":[],
@@ -30,16 +33,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473505010,
-    "wof:geomhash":"38c44533f60878c3bd7eb0df6c6c284c",
+    "wof:geomhash":"653b323c24fcc8b317a49b86039079c5",
     "wof:hierarchy":[],
     "wof:id":1042265471,
-    "wof:lastmodified":1473721548,
+    "wof:lastmodified":1510944064,
     "wof:name":"Institut Pierrard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058863405,
+        1042265767
+    ],
+    "wof:supersedes":[
+        1041743631
+    ],
     "wof:tags":[]
 },
   "bbox": [

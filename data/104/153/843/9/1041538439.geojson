@@ -7,13 +7,16 @@
     "addr:postcode":"1020",
     "addr:street":"Rue Dieudonne\u0301 Lefe\u0300Vre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3482451439,50.8712425232,4.3482451439,50.8712425232",
     "geom:latitude":50.871243,
     "geom:longitude":4.348245,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Dieudonn\u00e9 Lef\u00e8vre 53",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472734,
-    "wof:geomhash":"420ff9e06bf650ae58d0e4b5dfe6bfee",
+    "wof:geomhash":"6251c72ace6c23daede55d0e8452595c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041538439,
-    "wof:lastmodified":1473720682,
+    "wof:lastmodified":1510941997,
     "wof:name":"Climabel Sa",
     "wof:parent_id":85801801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041538595
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "installation",

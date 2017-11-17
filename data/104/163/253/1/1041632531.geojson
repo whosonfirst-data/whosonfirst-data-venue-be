@@ -7,13 +7,16 @@
     "addr:postcode":"9190",
     "addr:street":"Hellestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.0419111252,51.2301292419,4.0419111252,51.2301292419",
     "geom:latitude":51.230129,
     "geom:longitude":4.041911,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hellestraat 123",
     "sg:city":"Stekene",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473476614,
-    "wof:geomhash":"39e30ce158e0d80aba74c73e5741686e",
+    "wof:geomhash":"fb01d9d740a2731c348e3a48deab0b38",
     "wof:hierarchy":[],
     "wof:id":1041632531,
-    "wof:lastmodified":1473720671,
+    "wof:lastmodified":1510942786,
     "wof:name":"Mecham Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041738621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mushroom"

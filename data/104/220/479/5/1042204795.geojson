@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Boulevard De Douai",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.594025135,50.6214027405,5.594025135,50.6214027405",
     "geom:latitude":50.621403,
     "geom:longitude":5.594025,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De Douai 28",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473502206,
-    "wof:geomhash":"efe003f81e51d3f6f1e9dc6730cf1d39",
+    "wof:geomhash":"ecd3c86bed7f33f0c8740b4e094658f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,26 @@
         }
     ],
     "wof:id":1042204795,
-    "wof:lastmodified":1473721427,
+    "wof:lastmodified":1510943631,
     "wof:name":"Deal Sa",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058462161,
+        1058129501,
+        1042209187,
+        1058964335
+    ],
+    "wof:supersedes":[
+        1041914999,
+        1041690443,
+        1042174405,
+        1041840875,
+        1042201039,
+        1042035675,
+        1042202275
+    ],
     "wof:tags":[
         "electric",
         "-",

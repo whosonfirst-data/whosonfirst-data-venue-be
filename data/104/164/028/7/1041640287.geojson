@@ -7,13 +7,16 @@
     "addr:postcode":"3080",
     "addr:street":"Brusselsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.5112538338,50.8243408203,4.5112538338,50.8243408203",
     "geom:latitude":50.824341,
     "geom:longitude":4.511254,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Brusselsesteenweg 14",
     "sg:city":"Tervuren",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476926,
-    "wof:geomhash":"c290509abeca139dec45cb586c82db6e",
+    "wof:geomhash":"a093b2056f1a3071932540227acaee31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041640287,
-    "wof:lastmodified":1473719312,
+    "wof:lastmodified":1510943876,
     "wof:name":"Daskalid\u00c8s",
     "wof:parent_id":85801307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042064809
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

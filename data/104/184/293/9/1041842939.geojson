@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue De Droixhe",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6184678078,50.6489753723,5.6184678078,50.6489753723",
     "geom:latitude":50.648975,
     "geom:longitude":5.618468,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue De Droixhe 30",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485508,
-    "wof:geomhash":"56f4d889524b36b9a226dfc3d8296fe7",
+    "wof:geomhash":"b7d7f1f46b54db4efffe20f76a5343a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +66,21 @@
         }
     ],
     "wof:id":1041842939,
-    "wof:lastmodified":1473720741,
+    "wof:lastmodified":1510944121,
     "wof:name":"Ruwelec",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1041843513,
+        1058129873
+    ],
+    "wof:supersedes":[
+        1041690527,
+        1041840741,
+        1041841979,
+        1041840983
+    ],
     "wof:tags":[
         "automobile",
         "-",

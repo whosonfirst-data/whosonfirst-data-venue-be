@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4287772179,51.1577606201,4.4287772179,51.1577606201",
     "geom:latitude":51.157761,
     "geom:longitude":4.428777,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Ten Boschstraat 1",
     "sg:city":"Edegem",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2040116467,
         "sg:id":"SG_74gLxRH8OrcAZ76RZLLEN7_51.157761_4.428777@1306268430"
     },
     "wof:country":"BE",
     "wof:created":1473506640,
-    "wof:geomhash":"242d97825669241b43be7e1323c6ba90",
+    "wof:geomhash":"1532d6c664609d10f5b5036be3ae2f68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1058029031,
-    "wof:lastmodified":1473722602,
+    "wof:lastmodified":1510943971,
     "wof:name":"De Friterie",
     "wof:parent_id":85800769,
     "wof:placetype":"venue",

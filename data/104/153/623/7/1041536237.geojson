@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3619937897,50.7929191589,4.3619937897,50.7929191589",
     "geom:latitude":50.792919,
     "geom:longitude":4.361994,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chaussee De Saint-job 715",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473472653,
-    "wof:geomhash":"efb60c35f6adc9254586850093426708",
+    "wof:geomhash":"e918454c59fb474fec96dadf1e8f5b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041536237,
-    "wof:lastmodified":1473719522,
+    "wof:lastmodified":1510943581,
     "wof:name":"Group Lettering S.a.",
     "wof:parent_id":85801889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041625785
+    ],
     "wof:tags":[]
 },
   "bbox": [

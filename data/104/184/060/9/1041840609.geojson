@@ -7,13 +7,16 @@
     "addr:postcode":"2100",
     "addr:street":"Merksemsesteenweg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4586100578,51.2203941345,4.4586100578,51.2203941345",
     "geom:latitude":51.220394,
     "geom:longitude":4.45861,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Merksemsesteenweg 183-199",
     "sg:city":"Antwerpen (deurne)",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485396,
-    "wof:geomhash":"575f96ba9e986ecd8488479242a7f637",
+    "wof:geomhash":"56be83e85053aa89fcd0e0f3d34401ec",
     "wof:hierarchy":[
         {
             "campus_id":102546461,
@@ -65,12 +68,16 @@
         }
     ],
     "wof:id":1041840609,
-    "wof:lastmodified":1473719515,
+    "wof:lastmodified":1510943424,
     "wof:name":"Arc Auto Airconditioning",
     "wof:parent_id":102546461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041840659,
+        1041845023,
+        1041850915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped",

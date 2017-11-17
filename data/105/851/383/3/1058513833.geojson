@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2367777824,50.2367935181,4.2367777824,50.2367935181",
     "geom:latitude":50.236794,
     "geom:longitude":4.236778,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Maurice L\u00e9otard 1",
     "sg:city":"Beaumont",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473528722,
-    "wof:geomhash":"75911069058551eeabd7f7d56a7b07af",
+    "wof:geomhash":"ec9901b1eaaf8eb4c7c193721d56834a",
     "wof:hierarchy":[],
     "wof:id":1058513833,
-    "wof:lastmodified":1473721031,
+    "wof:lastmodified":1510942110,
     "wof:name":"Nova D\u00e9cor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041646469
+    ],
     "wof:tags":[
         "painting",
         "contractor"

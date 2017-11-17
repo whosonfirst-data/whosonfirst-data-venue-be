@@ -7,13 +7,16 @@
     "addr:postcode":"1702",
     "addr:street":"Pastoor Cooremansstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2844200134,50.8748512268,4.2844200134,50.8748512268",
     "geom:latitude":50.874851,
     "geom:longitude":4.28442,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pastoor Cooremansstraat 5",
     "sg:city":"Dilbeek",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485901,
-    "wof:geomhash":"7cbe5e6f13d80538410e389f8b12d2df",
+    "wof:geomhash":"1070cec62d6b5721f514a0805401d605",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,18 @@
         }
     ],
     "wof:id":1041852255,
-    "wof:lastmodified":1473720383,
+    "wof:lastmodified":1510942717,
     "wof:name":"Dockx",
     "wof:parent_id":85801195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058087389,
+        1058363961
+    ],
+    "wof:supersedes":[
+        1041786277
+    ],
     "wof:tags":[]
 },
   "bbox": [

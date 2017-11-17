@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Boulevard De Froidmont",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5912561417,50.6229057312,5.5912561417,50.6229057312",
     "geom:latitude":50.622906,
     "geom:longitude":5.591256,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De Froidmont 98",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478571,
-    "wof:geomhash":"7820b25ac6cef71c9d7f487462e4d155",
+    "wof:geomhash":"9453939e40455b6186ad364f1c391e87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1041681263,
-    "wof:lastmodified":1473719833,
+    "wof:lastmodified":1510941666,
     "wof:name":"Locapro-locamat Sprl",
     "wof:parent_id":85862129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058879175
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "platform",

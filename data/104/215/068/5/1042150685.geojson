@@ -7,13 +7,16 @@
     "addr:postcode":"1410",
     "addr:street":"Avenue Des Paquerettes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3828630447,50.7151184082,4.3828630447,50.7151184082",
     "geom:latitude":50.715118,
     "geom:longitude":4.382863,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Des Paquerettes 55",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499063,
-    "wof:geomhash":"2378603bd493594e8c5b55e202d3b464",
+    "wof:geomhash":"44accb2c103fd50b5facdab7013a0a83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":1042150685,
-    "wof:lastmodified":1473719570,
+    "wof:lastmodified":1510944168,
     "wof:name":"Fast Movers S.a.",
     "wof:parent_id":85800903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058730371
+    ],
+    "wof:supersedes":[
+        1041700867
+    ],
     "wof:tags":[
         "marketing",
         "direct"

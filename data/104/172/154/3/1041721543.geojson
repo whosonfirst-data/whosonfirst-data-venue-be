@@ -7,13 +7,16 @@
     "addr:postcode":"9000",
     "addr:street":"Visserij;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7387170792,51.0457687378,3.7387170792,51.0457687378",
     "geom:latitude":51.045769,
     "geom:longitude":3.738717,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Visserij 157 A",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480134,
-    "wof:geomhash":"bdb6c236786880201b978f071bb1e499",
+    "wof:geomhash":"832b7a12e8b6a8d9c3efb96b6080a39e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041721543,
-    "wof:lastmodified":1473719932,
+    "wof:lastmodified":1510943754,
     "wof:name":"Slabbinck Robin",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041886073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

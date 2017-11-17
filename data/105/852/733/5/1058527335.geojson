@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4059619904,50.8592224121,4.4059619904,50.8592224121",
     "geom:latitude":50.859222,
     "geom:longitude":4.405962,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue De Geneve 175",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473529357,
-    "wof:geomhash":"c3c6ad7ca7871c09f6e4a3e08fc7ed38",
+    "wof:geomhash":"478ec1969565eb1af4c20e76374eea80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058527335,
-    "wof:lastmodified":1473722186,
+    "wof:lastmodified":1510941524,
     "wof:name":"Fiat Auto (belgio) S.a.",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041612937
+    ],
     "wof:tags":[
         "passenger",
         "car"

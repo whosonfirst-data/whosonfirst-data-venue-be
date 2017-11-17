@@ -7,13 +7,16 @@
     "addr:postcode":"1932",
     "addr:street":"Romboutsstraat;Kleine Kloosterstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4630408287,50.8718643188,4.4630408287,50.8718643188",
     "geom:latitude":50.871864,
     "geom:longitude":4.463041,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Romboutsstraat 3 (kleine Kloosterstraat)",
     "sg:city":"Sint-stevens-woluwe",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474219,
-    "wof:geomhash":"275c0593c96474faaba9ac824b3789b9",
+    "wof:geomhash":"85e2f9951e285986e8775447f8a8c17c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041574179,
-    "wof:lastmodified":1473721253,
+    "wof:lastmodified":1510941843,
     "wof:name":"Jab Anstoetz B.v.b.a.",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041636277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decoration"

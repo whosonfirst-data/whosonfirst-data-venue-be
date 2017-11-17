@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4584970474,50.8843727112,4.4584970474,50.8843727112",
     "geom:latitude":50.884373,
     "geom:longitude":4.458497,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Excelsiorlaan 14",
     "sg:city":"Zaventem",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527112,
-    "wof:geomhash":"4e3ce20aaeb5dbe560d6be3830ccb5a7",
+    "wof:geomhash":"553d338d0befd0aad96096f51798c869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058479341,
-    "wof:lastmodified":1473722718,
+    "wof:lastmodified":1510943796,
     "wof:name":"Sch\u00e4fer Shop Nv",
     "wof:parent_id":85801067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058087157
+    ],
     "wof:tags":[
         "furniture"
     ]

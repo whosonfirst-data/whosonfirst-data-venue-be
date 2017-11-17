@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Place Euge\u0300Ne Flagey",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3726811409,50.8271903992,4.3726811409,50.8271903992",
     "geom:latitude":50.82719,
     "geom:longitude":4.372681,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Eug\u00e8ne Flagey 18",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479239,
-    "wof:geomhash":"294a266deed5ffc626ad94a4bc1caa04",
+    "wof:geomhash":"2f3da8391a0e5ba06026d3a590ea6cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":1041699009,
-    "wof:lastmodified":1473722601,
+    "wof:lastmodified":1510943489,
     "wof:name":"Publicis Sa",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041536069
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2098100185,51.2458457947,3.2098100185,51.2458457947",
     "geom:latitude":51.245846,
     "geom:longitude":3.20981,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Kleine Pathoekeweg 13",
     "sg:city":"Brugge",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473545925,
-    "wof:geomhash":"14151d5cb8a612c6b2bfc70ea8f81baf",
+    "wof:geomhash":"a647617d5dc91b875ab0c869f594d8e2",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":1058899055,
-    "wof:lastmodified":1473722672,
+    "wof:lastmodified":1510943987,
     "wof:name":"R.v.m.",
     "wof:parent_id":85801915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058114491
+    ],
     "wof:tags":[]
 },
   "bbox": [

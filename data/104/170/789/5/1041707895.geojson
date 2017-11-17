@@ -7,13 +7,16 @@
     "addr:postcode":"1932",
     "addr:street":"Woluwedal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4506821632,50.8605079651,4.4506821632,50.8605079651",
     "geom:latitude":50.860508,
     "geom:longitude":4.450682,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Woluwedal 28",
     "sg:city":"Zaventem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479590,
-    "wof:geomhash":"4b3c2e375262019b438dd6b340e7c78d",
+    "wof:geomhash":"ae790f61a959f5d4e9f782beaa94f610",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041707895,
-    "wof:lastmodified":1473722219,
+    "wof:lastmodified":1510941609,
     "wof:name":"Frederik Malfrere",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041859383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

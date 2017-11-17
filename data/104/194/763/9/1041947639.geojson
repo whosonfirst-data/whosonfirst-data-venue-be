@@ -7,13 +7,16 @@
     "addr:postcode":"6600",
     "addr:street":"Rue Des Ecoles",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.715681076,50.0023117065,5.715681076,50.0023117065",
     "geom:latitude":50.002312,
     "geom:longitude":5.715681,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Ecoles 8",
     "sg:city":"Bastogne",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473489992,
-    "wof:geomhash":"6bb59e2bbabd0291831f79bc2b6c4d3a",
+    "wof:geomhash":"ddccc468edca39909f66ace21ad55b1e",
     "wof:hierarchy":[],
     "wof:id":1041947639,
-    "wof:lastmodified":1473722328,
+    "wof:lastmodified":1510941312,
     "wof:name":"Indse 1er Degr\u00e9 Asbl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042198905
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "boarding"

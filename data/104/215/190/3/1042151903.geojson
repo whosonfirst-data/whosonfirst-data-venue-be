@@ -7,13 +7,16 @@
     "addr:postcode":"9820",
     "addr:street":"Waterstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7491691113,51.0015716553,3.7491691113,51.0015716553",
     "geom:latitude":51.001572,
     "geom:longitude":3.749169,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Waterstraat 25a",
     "sg:city":"Merelbeke",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499118,
-    "wof:geomhash":"b3074b61844ad445a424780f90d0cec6",
+    "wof:geomhash":"56014dd065dd51820d8ea8af5d8e56f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +63,25 @@
         }
     ],
     "wof:id":1042151903,
-    "wof:lastmodified":1473720287,
+    "wof:lastmodified":1510942654,
     "wof:name":"Swing Cvba",
     "wof:parent_id":85801171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058115849,
+        1058028773,
+        1058936699,
+        1058355401,
+        1058799695,
+        1058799867,
+        1058472357,
+        1058355547,
+        1058021661
+    ],
+    "wof:supersedes":[
+        1041836239
+    ],
     "wof:tags":[
         "disc-jockeys"
     ]

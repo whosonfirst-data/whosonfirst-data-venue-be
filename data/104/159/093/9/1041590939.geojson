@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Square Marguerite",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3852529526,50.8466720581,4.3852529526,50.8466720581",
     "geom:latitude":50.846672,
     "geom:longitude":4.385253,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Square Marguerite 30",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473474919,
-    "wof:geomhash":"36d1a4b4b5d756641801dd01f982de11",
+    "wof:geomhash":"f20dea08ba32d4d57dee600bc7bd697a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":1041590939,
-    "wof:lastmodified":1473719656,
+    "wof:lastmodified":1510942015,
     "wof:name":"Grani-flora",
     "wof:parent_id":85801909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041946693
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

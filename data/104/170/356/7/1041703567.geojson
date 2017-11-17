@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Avenue Louise",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3573069572,50.8343505859,4.3573069572,50.8343505859",
     "geom:latitude":50.834351,
     "geom:longitude":4.357307,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Louise 522b15",
     "sg:city":"Elsene/ixelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479423,
-    "wof:geomhash":"ac63d7115ca244c2cb2d092bf2fd9e3a",
+    "wof:geomhash":"0c906434c52a66bad5f297aa697f1022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041703567,
-    "wof:lastmodified":1473720909,
+    "wof:lastmodified":1510942031,
     "wof:name":"Brigode F.",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041854847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

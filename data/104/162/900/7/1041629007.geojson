@@ -7,13 +7,16 @@
     "addr:postcode":"4000",
     "addr:street":"Rue Haute-Sauvenie\u0300Re",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5707068443,50.6444129944,5.5707068443,50.6444129944",
     "geom:latitude":50.644413,
     "geom:longitude":5.570707,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Haute-sauveni\u00c8re 5",
     "sg:city":"Li\u00c8ge",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476482,
-    "wof:geomhash":"4d41e78c3d3781edb4e3d45bb2b0e129",
+    "wof:geomhash":"c7b89a68de1729c6c42b1ea199a4faf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041629007,
-    "wof:lastmodified":1473722584,
+    "wof:lastmodified":1510942416,
     "wof:name":"Au Cure-pied Nickel\u00c9",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058201075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

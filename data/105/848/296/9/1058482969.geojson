@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2059500217,51.193649292,3.2059500217,51.193649292",
     "geom:latitude":51.193649,
     "geom:longitude":3.20595,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Barrierestraat 14",
     "sg:city":"Belgium",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473527277,
-    "wof:geomhash":"a43a10d826d51b25f21b6ab58736d831",
+    "wof:geomhash":"e934bb074aad873ebbbad43d2616cfac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058482969,
-    "wof:lastmodified":1473720758,
+    "wof:lastmodified":1510942985,
     "wof:name":"Mdc Pc Support",
     "wof:parent_id":85862095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058062375
+    ],
     "wof:tags":[]
 },
   "bbox": [

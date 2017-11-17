@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7811012268,51.1732788086,4.7811012268,51.1732788086",
     "geom:latitude":51.173279,
     "geom:longitude":4.781101,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"H\u00fcgerlaan 14",
     "sg:city":"Grobbendonk",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473522516,
-    "wof:geomhash":"edec1398aae88f011a87f4a5bee0c6e2",
+    "wof:geomhash":"3ba4fd33932b995c72d77ea54128c3ca",
     "wof:hierarchy":[],
     "wof:id":1058383671,
-    "wof:lastmodified":1473720986,
+    "wof:lastmodified":1510942496,
     "wof:name":"Maes B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042157409
+    ],
     "wof:tags":[
         "consultant"
     ]

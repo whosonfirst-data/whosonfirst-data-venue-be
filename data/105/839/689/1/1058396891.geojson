@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4082241058,50.8160629272,4.4082241058,50.8160629272",
     "geom:latitude":50.816063,
     "geom:longitude":4.408224,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Maurice Charlent 53",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523078,
-    "wof:geomhash":"bd2208d611d1e7d7c60d25398bac825b",
+    "wof:geomhash":"2f9bdc31f9e1827c88adec63a03e86b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058396891,
-    "wof:lastmodified":1473721996,
+    "wof:lastmodified":1510941287,
     "wof:name":"Aramark S.a.",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042044241
+    ],
     "wof:tags":[
         "delivery",
         "meal"

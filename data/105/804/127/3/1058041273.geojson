@@ -7,13 +7,16 @@
     "addr:postcode":"2560",
     "addr:street":"Hazenpad",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6905460358,51.1673202515,4.6905460358,51.1673202515",
     "geom:latitude":51.16732,
     "geom:longitude":4.690546,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hazenpad 11",
     "sg:city":"Nijlen",
     "sg:classifiers":[
@@ -41,16 +44,21 @@
     },
     "wof:country":"BE",
     "wof:created":1473507157,
-    "wof:geomhash":"8e5791784b2884674ee3cfa089eda49d",
+    "wof:geomhash":"ab0e133070b8e82d5c7d2c85f0276f22",
     "wof:hierarchy":[],
     "wof:id":1058041273,
-    "wof:lastmodified":1473719876,
+    "wof:lastmodified":1510943659,
     "wof:name":"Lbs Lumelux En Belmans Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058843575
+    ],
+    "wof:supersedes":[
+        1041742677,
+        1041683177
+    ],
     "wof:tags":[
         "detection",
         "installation",

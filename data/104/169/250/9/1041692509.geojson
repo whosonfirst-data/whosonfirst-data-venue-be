@@ -7,6 +7,7 @@
     "addr:postcode":"4100",
     "addr:street":"Rue De La Province",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":5.507079,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Rue De La Province 21",
     "sg:city":"Seraing",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":1041692509,
-    "wof:lastmodified":1510699735,
+    "wof:lastmodified":1510943974,
     "wof:name":"Centre P.m.s.",
     "wof:parent_id":85801571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058372511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

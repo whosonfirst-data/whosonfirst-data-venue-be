@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Chausse\u0301E De Helmet;/",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3847222328,50.8719482422,4.3847222328,50.8719482422",
     "geom:latitude":50.871948,
     "geom:longitude":4.384722,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00c9e De Helmet 161",
     "sg:city":"Brussel/bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478216,
-    "wof:geomhash":"e94e0108e0a5271aece0747a8c70a4e8",
+    "wof:geomhash":"cca4c58f8ce914d7ca03e51cf41ab7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041671607,
-    "wof:lastmodified":1473719608,
+    "wof:lastmodified":1510942664,
     "wof:name":"Victory Center",
     "wof:parent_id":85801249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058400079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

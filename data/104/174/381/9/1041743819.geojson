@@ -7,13 +7,16 @@
     "addr:postcode":"9040",
     "addr:street":"Visitatiestraat;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7483429909,51.0626182556,3.7483429909,51.0626182556",
     "geom:latitude":51.062618,
     "geom:longitude":3.748343,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Visitatiestraat 5",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473481121,
-    "wof:geomhash":"98b78327ab3600237557c0fec744ed0e",
+    "wof:geomhash":"2a614afa41f4d6af3b4663d688da856b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041743819,
-    "wof:lastmodified":1473721044,
+    "wof:lastmodified":1510943190,
     "wof:name":"St.janscollege",
     "wof:parent_id":85801899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042265837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4410858154,50.8965682983,4.4410858154,50.8965682983",
     "geom:latitude":50.896568,
     "geom:longitude":4.441086,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Zaventemsesteenweg 63",
     "sg:city":"Machelen",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473501219,
-    "wof:geomhash":"8e5312bbd3d7fe608f876f0c0257c0d1",
+    "wof:geomhash":"5d70920daa40234826a5e742872b83fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042187487,
-    "wof:lastmodified":1473722222,
+    "wof:lastmodified":1510942135,
     "wof:name":"Brussels Recycling Center",
     "wof:parent_id":85801859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041682547
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6827301979,50.6848487854,5.6827301979,50.6848487854",
     "geom:latitude":50.684849,
     "geom:longitude":5.68273,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Sabar\u00e9 152",
     "sg:city":"Vis\u00e9 (cheratte)",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473537023,
-    "wof:geomhash":"fb2855de29eed62cfdf0526dda7c7d18",
+    "wof:geomhash":"94168a44ec3ea2ec1764c7d634d29322",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":1058697671,
-    "wof:lastmodified":1473722197,
+    "wof:lastmodified":1510941627,
     "wof:name":"Equili\u00e8ge Revue",
     "wof:parent_id":85801979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041615771
+    ],
     "wof:tags":[
         "riding",
         "school"

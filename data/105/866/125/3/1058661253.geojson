@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1505050659,50.4826698303,4.1505050659,50.4826698303",
     "geom:latitude":50.48267,
     "geom:longitude":4.150505,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Andr\u00e9 Renard 18",
     "sg:city":"La Louvi\u00e8re (houdeng-goegnies)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473535474,
-    "wof:geomhash":"20152d832a1cd47403b248badc87753b",
+    "wof:geomhash":"9514092ed0161270429b174ff5083a6d",
     "wof:hierarchy":[],
     "wof:id":1058661253,
-    "wof:lastmodified":1473719766,
+    "wof:lastmodified":1510941368,
     "wof:name":"Ch\u00e2teau De La Providence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058377045
+    ],
     "wof:tags":[
         "home",
         "rest"

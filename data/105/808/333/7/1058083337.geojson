@@ -7,13 +7,16 @@
     "addr:postcode":"4837",
     "addr:street":"Rue Longue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9697089195,50.6303367615,5.9697089195,50.6303367615",
     "geom:latitude":50.630337,
     "geom:longitude":5.969709,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Longue 7",
     "sg:city":"Baelen",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473508868,
-    "wof:geomhash":"3e1ff80d6334d3426ff2316b4b2f2597",
+    "wof:geomhash":"2e56af01921ce615fd1709e4bc92756c",
     "wof:hierarchy":[],
     "wof:id":1058083337,
-    "wof:lastmodified":1473720822,
+    "wof:lastmodified":1510943039,
     "wof:name":"Radermecker-spronck Sprl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058415169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "director"

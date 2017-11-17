@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6750531197,50.6136207581,5.6750531197,50.6136207581",
     "geom:latitude":50.613621,
     "geom:longitude":5.675053,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Reine Astrid 20",
     "sg:city":"Fleron",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473525609,
-    "wof:geomhash":"4cd6ebc0da115da873eaf672f47c088c",
+    "wof:geomhash":"30f6d6ff55747943922e63b41fef132c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058448661,
-    "wof:lastmodified":1473722462,
+    "wof:lastmodified":1510943559,
     "wof:name":"Polyclinique De Fl\u00c9ron",
     "wof:parent_id":85801143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041820481
+    ],
     "wof:tags":[]
 },
   "bbox": [

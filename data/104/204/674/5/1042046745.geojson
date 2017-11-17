@@ -7,13 +7,16 @@
     "addr:postcode":"1080",
     "addr:street":"Square Edmond Machtens",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3127689362,50.8517799377,4.3127689362,50.8517799377",
     "geom:latitude":50.85178,
     "geom:longitude":4.312769,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Square Edmond Machtens 1",
     "sg:city":"Molenbeek-saint-jean",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494126,
-    "wof:geomhash":"5259fd717a131d2e235b35a6f4663ab6",
+    "wof:geomhash":"b9a3031ca8e7233e01c83dc21979fca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,19 @@
         }
     ],
     "wof:id":1042046745,
-    "wof:lastmodified":1473721934,
+    "wof:lastmodified":1510942430,
     "wof:name":"Bruma",
     "wof:parent_id":85801705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1042210691,
+        1058549555
+    ],
+    "wof:supersedes":[
+        1041919705,
+        1041919665
+    ],
     "wof:tags":[]
 },
   "bbox": [

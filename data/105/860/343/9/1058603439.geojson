@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4350180626,50.3883590698,4.4350180626,50.3883590698",
     "geom:latitude":50.388359,
     "geom:longitude":4.435018,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Eug\u00e8ne Mascaux 521",
     "sg:city":"Charleroi (marcinelle)",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473532761,
-    "wof:geomhash":"05c54555561e25a912a3e87919493348",
+    "wof:geomhash":"5af9c8474cbb775ef0f957b788f99087",
     "wof:hierarchy":[],
     "wof:id":1058603439,
-    "wof:lastmodified":1473720915,
+    "wof:lastmodified":1510943095,
     "wof:name":"Imprimerie Malcorps M Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058151997
+    ],
     "wof:tags":[
         "printing",
         "-"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2230989933,51.2086181641,3.2230989933,51.2086181641",
     "geom:latitude":51.208618,
     "geom:longitude":3.223099,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Sint-amandsstraat 12",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":100656156,
         "sg:id":"SG_21OVHwTPENxB16TBKiscoV_51.208618_3.223099@1306268551"
     },
     "wof:country":"BE",
     "wof:created":1473536073,
-    "wof:geomhash":"93c9ce591a473723b0830d8273e6acd6",
+    "wof:geomhash":"f3af9f167a1e5b926b9c2bb1d05e0cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1058675255,
-    "wof:lastmodified":1473721559,
+    "wof:lastmodified":1510943165,
     "wof:name":"Oud Brugge",
     "wof:parent_id":85800801,
     "wof:placetype":"venue",

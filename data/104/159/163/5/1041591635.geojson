@@ -7,13 +7,16 @@
     "addr:postcode":"9260",
     "addr:street":"Dendermondsesteenweg;Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.9416999817,51.0050888062,3.9416999817,51.0050888062",
     "geom:latitude":51.005089,
     "geom:longitude":3.9417,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Dendermondsesteenweg 106",
     "sg:city":"Schellebelle",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473474951,
-    "wof:geomhash":"de8aad549322891c005febd5cd9f6863",
+    "wof:geomhash":"cf36cfce1dddc6c4737b1c1e461f4783",
     "wof:hierarchy":[],
     "wof:id":1041591635,
-    "wof:lastmodified":1473720039,
+    "wof:lastmodified":1510943614,
     "wof:name":"Bontinck Gebroeders B.v.b.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041738767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "forest"

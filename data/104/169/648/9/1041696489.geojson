@@ -7,13 +7,16 @@
     "addr:postcode":"1050",
     "addr:street":"Boulevard De La Plaine",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3929901123,50.8209838867,4.3929901123,50.8209838867",
     "geom:latitude":50.820984,
     "geom:longitude":4.39299,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Boulevard De La Plaine 2",
     "sg:city":"Bruxelles (ixelles)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473479151,
-    "wof:geomhash":"f76d65eb5846c69f6fcc486d32ab2cd9",
+    "wof:geomhash":"e87cd26705c0c10dcb7233e97320196d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041696489,
-    "wof:lastmodified":1473721893,
+    "wof:lastmodified":1510943540,
     "wof:name":"Cvo Kamer Voor Handel & Nijverheid Van Brussel",
     "wof:parent_id":85801507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058330705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"

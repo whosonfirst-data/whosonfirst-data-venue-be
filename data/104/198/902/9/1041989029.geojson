@@ -7,13 +7,16 @@
     "addr:postcode":"2030",
     "addr:street":"Vosseschijnstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4149928093,51.2473335266,4.4149928093,51.2473335266",
     "geom:latitude":51.247334,
     "geom:longitude":4.414993,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Vosseschijnstraat 19",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473491875,
-    "wof:geomhash":"2b394cf1c637d9fd2311344bc255916d",
+    "wof:geomhash":"b1ac246352ca0872e7953339ad34aa3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041989029,
-    "wof:lastmodified":1473722640,
+    "wof:lastmodified":1510942383,
     "wof:name":"Caterpillar-liftrec",
     "wof:parent_id":85801623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058364671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

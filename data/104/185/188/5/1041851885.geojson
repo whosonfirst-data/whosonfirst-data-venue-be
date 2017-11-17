@@ -7,13 +7,16 @@
     "addr:postcode":"1932",
     "addr:street":"Lozenberg",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4652400017,50.8700256348,4.4652400017,50.8700256348",
     "geom:latitude":50.870026,
     "geom:longitude":4.46524,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Lozenberg 5",
     "sg:city":"Zaventem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485882,
-    "wof:geomhash":"93db19b6470441b1d40624b7eb549884",
+    "wof:geomhash":"38d51cc88bd31b45fe9da5a515c0ef63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041851885,
-    "wof:lastmodified":1473720237,
+    "wof:lastmodified":1510941909,
     "wof:name":"Interleasing Co-ordination Centre",
     "wof:parent_id":85801919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058363797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

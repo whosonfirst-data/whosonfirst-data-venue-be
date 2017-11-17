@@ -7,13 +7,16 @@
     "addr:postcode":"1030",
     "addr:street":"Chausse\u0301E De Louvain",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3954100609,50.8544311523,4.3954100609,50.8544311523",
     "geom:latitude":50.854431,
     "geom:longitude":4.39541,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Louvain 467",
     "sg:city":"Bruxelles (schaerbeek)",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473478642,
-    "wof:geomhash":"0041e5ddf0d2b823047836342d90c473",
+    "wof:geomhash":"150024faf326a8554b25dd986aff38f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,18 @@
         }
     ],
     "wof:id":1041683113,
-    "wof:lastmodified":1473720761,
+    "wof:lastmodified":1510943801,
     "wof:name":"Cosmo Time & Security Systems Acme",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042068677,
+        1058396243,
+        1058759657,
+        1041839203,
+        1058878645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "access-control",

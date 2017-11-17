@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.6873898506,50.7466812134,4.6873898506,50.7466812134",
     "geom:latitude":50.746681,
     "geom:longitude":4.68739,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00e9e De Wavre 151",
     "sg:city":"Grez-doiceau",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473519423,
-    "wof:geomhash":"2f22e1d16fbab8f5505bc957e06490b0",
+    "wof:geomhash":"df65c65e87284d8376cc4159111a6742",
     "wof:hierarchy":[],
     "wof:id":1058318797,
-    "wof:lastmodified":1473722618,
+    "wof:lastmodified":1510941541,
     "wof:name":"Fra\u00eeche Eau Cr\u00e9ation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041613899
+    ],
     "wof:tags":[
         "installation"
     ]

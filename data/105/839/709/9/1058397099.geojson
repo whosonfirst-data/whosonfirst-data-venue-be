@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6816840172,50.6999130249,5.6816840172,50.6999130249",
     "geom:latitude":50.699913,
     "geom:longitude":5.681684,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Sur Le Bois 22",
     "sg:city":"Vis\u00e9 (argenteau)",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523085,
-    "wof:geomhash":"6d2a23507262967a0b182767abdb5636",
+    "wof:geomhash":"236d7cfd79bb051d127c38ab6aa39522",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":1058397099,
-    "wof:lastmodified":1473722052,
+    "wof:lastmodified":1510942505,
     "wof:name":"B Q C Sprl",
     "wof:parent_id":85802011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041539581
+    ],
     "wof:tags":[
         "measuring",
         "control",

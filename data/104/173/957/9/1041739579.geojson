@@ -7,13 +7,16 @@
     "addr:postcode":"8550",
     "addr:street":"Harelbeekstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3254320621,50.821559906,3.3254320621,50.821559906",
     "geom:latitude":50.82156,
     "geom:longitude":3.325432,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Harelbeekstraat 174",
     "sg:city":"Zwevegem",
     "sg:classifiers":[
@@ -40,16 +43,22 @@
     },
     "wof:country":"BE",
     "wof:created":1473480892,
-    "wof:geomhash":"f0b86e98ca87606c6a5a3209305fdcb2",
+    "wof:geomhash":"5ec1acf4bd6871cdef7b85a4b8af1428",
     "wof:hierarchy":[],
     "wof:id":1041739579,
-    "wof:lastmodified":1473722788,
+    "wof:lastmodified":1510943417,
     "wof:name":"Vrancken Bvba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058750981,
+        1058179791,
+        1058178011
+    ],
+    "wof:supersedes":[
+        1041824683
+    ],
     "wof:tags":[
         "installation",
         "-",

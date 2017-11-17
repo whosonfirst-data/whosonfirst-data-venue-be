@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Rue Des Champs",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5872101784,50.6345367432,5.5872101784,50.6345367432",
     "geom:latitude":50.634537,
     "geom:longitude":5.58721,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Des Champs 7",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473541426,
-    "wof:geomhash":"d680b9a0e13829808b327cad16818d3b",
+    "wof:geomhash":"a4bb805233926418b28c2252e3ed833c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,20 @@
         }
     ],
     "wof:id":1058797059,
-    "wof:lastmodified":1473722085,
+    "wof:lastmodified":1510943685,
     "wof:name":"Libotte Bvba (etn)",
     "wof:parent_id":85862027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058869231,
+        1058911489,
+        1058853021
+    ],
+    "wof:supersedes":[
+        1058797419,
+        1041902863
+    ],
     "wof:tags":[]
 },
   "bbox": [

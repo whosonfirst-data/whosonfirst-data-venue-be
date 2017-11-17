@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.780133009,50.3984336853,3.780133009,50.3984336853",
     "geom:latitude":50.398434,
     "geom:longitude":3.780133,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Grande 49",
     "sg:city":"Dour",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473532753,
-    "wof:geomhash":"4e3b660b314661009029a923f5feb3d5",
+    "wof:geomhash":"8a2b0f4db2e6193ee179ac7d9e11e33d",
     "wof:hierarchy":[],
     "wof:id":1058603267,
-    "wof:lastmodified":1473720858,
+    "wof:lastmodified":1510941304,
     "wof:name":"Graphic Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041612369
+    ],
     "wof:tags":[
         "printing",
         "-"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.419271946,50.7994537354,4.419271946,50.7994537354",
     "geom:latitude":50.799454,
     "geom:longitude":4.419272,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avenue Du Dirigeable 8",
     "sg:city":"Bruxelles (watermael-boitsfort)",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544098,
-    "wof:geomhash":"298458a536cb7557a35f1d98b03c49ee",
+    "wof:geomhash":"992b2a726521a00c67868e9b17976e65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":1058858945,
-    "wof:lastmodified":1473722592,
+    "wof:lastmodified":1510943595,
     "wof:name":"Leclercq J-m",
     "wof:parent_id":85801147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041687367
+    ],
     "wof:tags":[
         "tax-consultants"
     ]

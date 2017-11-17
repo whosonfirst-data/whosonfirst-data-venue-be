@@ -7,13 +7,16 @@
     "addr:postcode":"6200",
     "addr:street":"Rivage;Boubier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.512720108,50.4036216736,4.512720108,50.4036216736",
     "geom:latitude":50.403622,
     "geom:longitude":4.51272,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rivage De Boubier 25",
     "sg:city":"Ch\u00e2telet",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473526069,
-    "wof:geomhash":"3628756b6abeb141b054fc887880fd84",
+    "wof:geomhash":"65dd89ebc70ae09b7ded0c3719887cd7",
     "wof:hierarchy":[],
     "wof:id":1058457495,
-    "wof:lastmodified":1473722132,
+    "wof:lastmodified":1510943592,
     "wof:name":"Aciers Grosjean Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058912293
+    ],
+    "wof:supersedes":[
+        1058035295
+    ],
     "wof:tags":[]
 },
   "bbox": [

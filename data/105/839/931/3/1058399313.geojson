@@ -15,6 +15,7 @@
     "geom:longitude":4.39538,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29",
     "sg:city":"Place Du Rinsdelle 1040 Bruxelles",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473523185,
-    "wof:geomhash":"8bb8cca0ba68e19316905b4465bed69a",
+    "wof:geomhash":"8cdc879c1beaef5adcb2431ef16c8acb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":1058399313,
-    "wof:lastmodified":1491919913,
+    "wof:lastmodified":1510942426,
     "wof:name":"Sima Sa",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041740583
+    ],
     "wof:tags":[
         "machine",
         "-",

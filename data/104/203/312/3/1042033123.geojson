@@ -7,13 +7,16 @@
     "addr:postcode":"3530",
     "addr:street":"Molenheidestraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3719201088,51.0310020447,5.3719201088,51.0310020447",
     "geom:latitude":51.031002,
     "geom:longitude":5.37192,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Molenheidestraat 7",
     "sg:city":"Houthalen-helchteren (helchteren)",
     "sg:classifiers":[
@@ -39,16 +42,27 @@
     },
     "wof:country":"BE",
     "wof:created":1473493573,
-    "wof:geomhash":"ef847d361434bfc5f8c4a1e0a5020cf1",
+    "wof:geomhash":"6531e18371704048ef3ab46e859d78df",
     "wof:hierarchy":[],
     "wof:id":1042033123,
-    "wof:lastmodified":1473720823,
+    "wof:lastmodified":1510943888,
     "wof:name":"Molenheide Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058196405,
+        1058731637,
+        1058655523,
+        1058299759,
+        1058823013,
+        1058912537
+    ],
+    "wof:supersedes":[
+        1041919655,
+        1041694597,
+        1041989259
+    ],
     "wof:tags":[
         "site",
         "camping"

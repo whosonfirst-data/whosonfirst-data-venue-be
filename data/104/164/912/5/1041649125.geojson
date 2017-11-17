@@ -7,13 +7,16 @@
     "addr:postcode":"1480",
     "addr:street":"Av De Ramelot",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1762528419,50.7080955505,4.1762528419,50.7080955505",
     "geom:latitude":50.708096,
     "geom:longitude":4.176253,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av De Ramelot 5",
     "sg:city":"Saintes",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473477311,
-    "wof:geomhash":"c57d81a87dc1b552fe67c4a46684c6c3",
+    "wof:geomhash":"212c2c20db2f9966058e2d24dd628e00",
     "wof:hierarchy":[],
     "wof:id":1041649125,
-    "wof:lastmodified":1473722645,
+    "wof:lastmodified":1510942475,
     "wof:name":"Maxy Broches Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041990667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"

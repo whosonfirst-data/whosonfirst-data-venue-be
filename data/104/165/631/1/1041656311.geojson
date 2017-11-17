@@ -7,13 +7,16 @@
     "addr:postcode":"1082",
     "addr:street":"Rue Du Petit Berchem",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3064498901,50.864780426,4.3064498901,50.864780426",
     "geom:latitude":50.86478,
     "geom:longitude":4.30645,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Du Petit Berchem 71",
     "sg:city":"Sint-agatha-berchem",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477590,
-    "wof:geomhash":"790dd9fd8ac19a10975f9d35cfd1a1d5",
+    "wof:geomhash":"5496b8997c172a6a351263e01dc03f05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041656311,
-    "wof:lastmodified":1473721796,
+    "wof:lastmodified":1510942433,
     "wof:name":"Reno Marbre",
     "wof:parent_id":85801163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058052901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

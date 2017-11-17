@@ -7,13 +7,16 @@
     "addr:postcode":"2018",
     "addr:street":"Schupstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4183797836,51.2143249512,4.4183797836,51.2143249512",
     "geom:latitude":51.214325,
     "geom:longitude":4.41838,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Schupstraat 9",
     "sg:city":"Antwerpen",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473499692,
-    "wof:geomhash":"092a2ffaefbfeb2820ce6c23a25ed2a0",
+    "wof:geomhash":"13cea687c89d303ab2f29c0cca3a3622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1042163099,
-    "wof:lastmodified":1473720754,
+    "wof:lastmodified":1510943964,
     "wof:name":"Naftali-klein Diamonds",
     "wof:parent_id":85800929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058616255
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

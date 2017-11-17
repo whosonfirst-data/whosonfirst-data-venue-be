@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.7141768932,51.0482215881,3.7141768932,51.0482215881",
     "geom:latitude":51.048222,
     "geom:longitude":3.714177,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Coupure Rechts 162",
     "sg:city":"Gent",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473486004,
-    "wof:geomhash":"088538172e0d2c510076311fc8daa71e",
+    "wof:geomhash":"612fc70fffe092d1facc34c1e5147e11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1041854983,
-    "wof:lastmodified":1473721483,
+    "wof:lastmodified":1510942835,
     "wof:name":"B\u00c9n\u00c9dicte Gheysen",
     "wof:parent_id":85862035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041703693
+    ],
     "wof:tags":[]
 },
   "bbox": [

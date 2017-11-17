@@ -7,13 +7,16 @@
     "addr:postcode":"6820",
     "addr:street":"Place Albert I",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.3102898598,49.6983985901,5.3102898598,49.6983985901",
     "geom:latitude":49.698399,
     "geom:longitude":5.31029,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Place Albert I 20",
     "sg:city":"Florenville",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473478119,
-    "wof:geomhash":"7653a55b3b7112fef27650c192de20d3",
+    "wof:geomhash":"d260e7a51b22c0a288ca890103b6eb2d",
     "wof:hierarchy":[],
     "wof:id":1041669095,
-    "wof:lastmodified":1473722748,
+    "wof:lastmodified":1510942613,
     "wof:name":"Brasserie Du Marche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042030043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"

@@ -7,13 +7,16 @@
     "addr:postcode":"4802",
     "addr:street":"Rue Jean Go\u0302Me",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.8648400307,50.5759010315,5.8648400307,50.5759010315",
     "geom:latitude":50.575901,
     "geom:longitude":5.86484,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Jean G\u00f4me 8",
     "sg:city":"Verviers (heusy)",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473533582,
-    "wof:geomhash":"c04b2a9c9ad104e0dcf10bf6a5aa6040",
+    "wof:geomhash":"57d1d98c8b845a36db0d296514265c7d",
     "wof:hierarchy":[],
     "wof:id":1058620279,
-    "wof:lastmodified":1473719364,
+    "wof:lastmodified":1510943532,
     "wof:name":"Forem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058967265
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "professional"

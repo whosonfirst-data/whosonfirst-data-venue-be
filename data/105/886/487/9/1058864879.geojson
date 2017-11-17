@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4078497887,50.8166618347,4.4078497887,50.8166618347",
     "geom:latitude":50.816662,
     "geom:longitude":4.40785,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Jules Vandeleenelaan 2",
     "sg:city":"Oudergem/auderghem",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473544353,
-    "wof:geomhash":"61428c4dc2d64c21f2b492d8a904f14f",
+    "wof:geomhash":"8cf14bfb386475fa45f6be86f08ed0f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1058864879,
-    "wof:lastmodified":1473721375,
+    "wof:lastmodified":1510941362,
     "wof:name":"Createl",
     "wof:parent_id":85801989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058103687
+    ],
     "wof:tags":[]
 },
   "bbox": [

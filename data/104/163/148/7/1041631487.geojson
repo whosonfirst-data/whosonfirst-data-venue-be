@@ -7,13 +7,16 @@
     "addr:postcode":"1160",
     "addr:street":"Av Des Me\u0301Sanges",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.424861908,50.8215332031,4.424861908,50.8215332031",
     "geom:latitude":50.821533,
     "geom:longitude":4.424862,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Des M\u00e9sanges 11",
     "sg:city":"Bruxelles",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473476576,
-    "wof:geomhash":"48cc89d19297f8d6b0e9cfab0f6214c1",
+    "wof:geomhash":"cbbba46c6a4bd1c1f7e22c51fc46403f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041631487,
-    "wof:lastmodified":1473719985,
+    "wof:lastmodified":1510942923,
     "wof:name":"Huygens Sa",
     "wof:parent_id":85801955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1041927925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

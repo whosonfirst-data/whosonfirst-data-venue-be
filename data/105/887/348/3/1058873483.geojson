@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4573750496,50.4203147888,4.4573750496,50.4203147888",
     "geom:latitude":50.420315,
     "geom:longitude":4.457375,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Grand\u00b4rue 143",
     "sg:city":"Charleroi",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"BE",
     "wof:created":1473544725,
-    "wof:geomhash":"a428c2e3125813b819e7ac5929400b1b",
+    "wof:geomhash":"f0cb63aee8651eb0248fb514fc237c05",
     "wof:hierarchy":[],
     "wof:id":1058873483,
-    "wof:lastmodified":1473720908,
+    "wof:lastmodified":1510941519,
     "wof:name":"Maison Style In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058870455
+    ],
     "wof:tags":[]
 },
   "bbox": [

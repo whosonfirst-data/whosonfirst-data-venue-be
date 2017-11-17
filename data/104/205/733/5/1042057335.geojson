@@ -7,13 +7,16 @@
     "addr:postcode":"1180",
     "addr:street":"Rue Des Trois Arbres",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3326702118,50.7966194153,4.3326702118,50.7966194153",
     "geom:latitude":50.796619,
     "geom:longitude":4.33267,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16",
     "sg:city":"Rue Des Trois Arbres 1180 Uccle",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494564,
-    "wof:geomhash":"99d6adec21a583728f8d2c3f7b4de42d",
+    "wof:geomhash":"8c584842ff68239fe63ad0504e4c7117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":1042057335,
-    "wof:lastmodified":1473722074,
+    "wof:lastmodified":1510942680,
     "wof:name":"Madaus Pharma Sa",
     "wof:parent_id":85801557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042057337
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical",

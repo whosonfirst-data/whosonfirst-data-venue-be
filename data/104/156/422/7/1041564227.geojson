@@ -7,13 +7,16 @@
     "addr:postcode":"3800",
     "addr:street":"Grote Markt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1860918999,50.8149147034,5.1860918999,50.8149147034",
     "geom:latitude":50.814915,
     "geom:longitude":5.186092,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Grote Markt 10",
     "sg:city":"Sint-truiden",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"BE",
     "wof:created":1473473810,
-    "wof:geomhash":"3b5beb3994e9427c8506e110460d8ad5",
+    "wof:geomhash":"802accc3a4f73eed75e9744fcc3d4156",
     "wof:hierarchy":[],
     "wof:id":1041564227,
-    "wof:lastmodified":1473721292,
+    "wof:lastmodified":1510943840,
     "wof:name":"Marktcaf\u00c9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058856347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "caf\u00e9s"

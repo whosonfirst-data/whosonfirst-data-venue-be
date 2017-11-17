@@ -7,13 +7,16 @@
     "addr:postcode":"4020",
     "addr:street":"Avenue Georges-Truffaut",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.6110367775,50.6496429443,5.6110367775,50.6496429443",
     "geom:latitude":50.649643,
     "geom:longitude":5.611037,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Georges-truffaut 42",
     "sg:city":"Li\u00e8ge 1 (li\u00e8ge 2)",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473485844,
-    "wof:geomhash":"825c02feb43900b7f0c4af1376ce31ca",
+    "wof:geomhash":"bf1b0861ee7107a3a2c1faa1b29051a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1041850835,
-    "wof:lastmodified":1473719704,
+    "wof:lastmodified":1510944129,
     "wof:name":"Eurofreins Sa",
     "wof:parent_id":85801099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042210609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

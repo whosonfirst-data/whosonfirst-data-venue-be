@@ -7,13 +7,16 @@
     "addr:postcode":"1200",
     "addr:street":"Avenue Androme\u0300De",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4236559868,50.852645874,4.4236559868,50.852645874",
     "geom:latitude":50.852646,
     "geom:longitude":4.423656,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avenue Androm\u00e8de 110",
     "sg:city":"Bruxelles (woluwe-saint-lambert)",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473475243,
-    "wof:geomhash":"3cf570720df8a09d3f6cb1dad6fe2987",
+    "wof:geomhash":"b8f045e9d27e0b54b27d71f86924c9a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":1041598933,
-    "wof:lastmodified":1473722635,
+    "wof:lastmodified":1510941600,
     "wof:name":"Passage Androm\u00e8de",
     "wof:parent_id":85802019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042282861
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

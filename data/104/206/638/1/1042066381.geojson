@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3628621101,50.8374252319,4.3628621101,50.8374252319",
     "geom:latitude":50.837425,
     "geom:longitude":4.362862,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Chauss\u00c9e De Wavre 18",
     "sg:city":"Elsene",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473494924,
-    "wof:geomhash":"946f2084fd7c2b91805e43d3f17e548a",
+    "wof:geomhash":"c58a66d880c283c88a468ec3978783bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1042066381,
-    "wof:lastmodified":1473721901,
+    "wof:lastmodified":1510943615,
     "wof:name":"Vendome",
     "wof:parent_id":85801319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041569333
+    ],
     "wof:tags":[]
 },
   "bbox": [

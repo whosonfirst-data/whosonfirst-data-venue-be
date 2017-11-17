@@ -7,13 +7,16 @@
     "addr:postcode":"9840",
     "addr:street":"Hemelrijkstraat;De Groot Oost-Vlaanderen",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.6678819656,50.9965171814,3.6678819656,50.9965171814",
     "geom:latitude":50.996517,
     "geom:longitude":3.667882,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Hemelrijkstraat 1",
     "sg:city":"De (groot)",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473480115,
-    "wof:geomhash":"5887d469c38b3511b1afa5261e892de2",
+    "wof:geomhash":"be1225be0f618ee5fe77b1d9fd17d8a1",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -46,12 +49,17 @@
         }
     ],
     "wof:id":1041721017,
-    "wof:lastmodified":1473719692,
+    "wof:lastmodified":1510943019,
     "wof:name":"De Vleeschauwer Philippe",
     "wof:parent_id":85801879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1058337317,
+        1041885863,
+        1041705681,
+        1041857079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

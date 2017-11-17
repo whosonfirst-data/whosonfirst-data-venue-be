@@ -7,13 +7,16 @@
     "addr:postcode":"1475;1130",
     "addr:street":"Chausse\u0301E De Haecht",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4225020409,50.8858604431,4.4225020409,50.8858604431",
     "geom:latitude":50.88586,
     "geom:longitude":4.422502,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Chauss\u00e9e De Haecht 1475",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473509007,
-    "wof:geomhash":"d7927296c029166ba1a7d75b373e378b",
+    "wof:geomhash":"a8546e19f11818427f0084025ef591eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,20 @@
         }
     ],
     "wof:id":1058086459,
-    "wof:lastmodified":1473721770,
+    "wof:lastmodified":1510943942,
     "wof:name":"Pr\u00e9maman Sa",
     "wof:parent_id":85801223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058086819,
+        1058390845
+    ],
+    "wof:supersedes":[
+        1042069317,
+        1041873575,
+        1042070649
+    ],
     "wof:tags":[
         "-",
         "furniture"

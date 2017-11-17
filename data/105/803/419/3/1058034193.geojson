@@ -7,13 +7,16 @@
     "addr:postcode":"1000",
     "addr:street":"Rue Philippe De Champagne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3460412025,50.8437652588,4.3460412025,50.8437652588",
     "geom:latitude":50.843765,
     "geom:longitude":4.346041,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Philippe De Champagne 11a",
     "sg:city":"Bruxelles",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473506862,
-    "wof:geomhash":"f74dfd2d3071907a4c04b077ca7cf13b",
+    "wof:geomhash":"1f5f6fd0c05309ecfb328ee278c5abb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +64,19 @@
         }
     ],
     "wof:id":1058034193,
-    "wof:lastmodified":1473721277,
+    "wof:lastmodified":1510943684,
     "wof:name":"Applications Phyto/ Compagnie Generale De Desinfections",
     "wof:parent_id":85801191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058751121,
+        1058990645,
+        1058965229
+    ],
+    "wof:supersedes":[
+        1042099289
+    ],
     "wof:tags":[
         "fa\u00e7ade",
         "maintenance"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.4760160446,50.6340293884,5.4760160446,50.6340293884",
     "geom:latitude":50.634029,
     "geom:longitude":5.476016,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rue Grande 50",
     "sg:city":"Gr\u00e2ce-hollogne (hollogne-aux-pierres)",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473549227,
-    "wof:geomhash":"0f5fea8eb912a1689da9897d9b63848f",
+    "wof:geomhash":"6b2a9d90a67315ebc20055fdaed09726",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -54,13 +56,18 @@
         }
     ],
     "wof:id":1058970399,
-    "wof:lastmodified":1473718927,
+    "wof:lastmodified":1510941694,
     "wof:name":"Jamoulle F",
     "wof:parent_id":85801837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1058235853,
+        1042036895,
+        1058524949,
+        1058245091
+    ],
     "wof:tags":[
         "window"
     ]

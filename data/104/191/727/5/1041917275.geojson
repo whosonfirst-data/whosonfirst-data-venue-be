@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.5660219193,50.6420783997,5.5660219193,50.6420783997",
     "geom:latitude":50.642078,
     "geom:longitude":5.566022,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Boulevard De La Sauveni\u00e8re 122",
     "sg:city":"Li\u00e8ge 1",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473488621,
-    "wof:geomhash":"a894b710227eb91d83218e46e21fac69",
+    "wof:geomhash":"abd923fc1b6c5b6dfbba840cbbee5638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":1041917275,
-    "wof:lastmodified":1473722194,
+    "wof:lastmodified":1510941362,
     "wof:name":"Institut Valerie",
     "wof:parent_id":85862065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1041553983
+    ],
     "wof:tags":[]
 },
   "bbox": [

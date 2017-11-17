@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.4499659538,50.9239959717,4.4499659538,50.9239959717",
     "geom:latitude":50.923996,
     "geom:longitude":4.449966,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Leuvensesteenweg 250a",
     "sg:city":"Vilvoorde",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473535263,
-    "wof:geomhash":"2d6dd36d17a88ca71a2235217d4bf496",
+    "wof:geomhash":"b38abaa5ad99709599e45caa5e990c19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,13 +63,16 @@
         }
     ],
     "wof:id":1058656771,
-    "wof:lastmodified":1473721807,
+    "wof:lastmodified":1510941888,
     "wof:name":"Geveke Industrial Nv",
     "wof:parent_id":85801781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1042213627,
+        1058225997
+    ],
     "wof:tags":[
         "regulating",
         "system"

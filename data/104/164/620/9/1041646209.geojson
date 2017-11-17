@@ -7,13 +7,16 @@
     "addr:postcode":"2627",
     "addr:street":"Tolhuisstraat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3286800385,51.1192512512,4.3286800385,51.1192512512",
     "geom:latitude":51.119251,
     "geom:longitude":4.32868,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Tolhuisstraat 89",
     "sg:city":"Schelle",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"BE",
     "wof:created":1473477192,
-    "wof:geomhash":"2f5fe9c0eb2041380ca8efb661ed612d",
+    "wof:geomhash":"92c7cdbf2c450227622fc4bbb930cff9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1041646209,
-    "wof:lastmodified":1473721733,
+    "wof:lastmodified":1510943784,
     "wof:name":"Lb",
     "wof:parent_id":85801679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1042113073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

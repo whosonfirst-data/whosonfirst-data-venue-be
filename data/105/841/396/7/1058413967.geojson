@@ -7,13 +7,16 @@
     "addr:postcode":"16-18;6900",
     "addr:street":"Rue Porte Haute",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.345102787,50.2262191772,5.345102787,50.2262191772",
     "geom:latitude":50.226219,
     "geom:longitude":5.345103,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rue Porte Haute 16-18",
     "sg:city":"Marche-en-famenne",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"BE",
     "wof:created":1473523853,
-    "wof:geomhash":"2721e9d450c48226b60eb7322cc62383",
+    "wof:geomhash":"f7ec912d362442eeb2fe42878bb04033",
     "wof:hierarchy":[],
     "wof:id":1058413967,
-    "wof:lastmodified":1473721192,
+    "wof:lastmodified":1510943847,
     "wof:name":"Thirion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-be",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1058500537
+    ],
+    "wof:supersedes":[
+        1042090453
+    ],
     "wof:tags":[]
 },
   "bbox": [

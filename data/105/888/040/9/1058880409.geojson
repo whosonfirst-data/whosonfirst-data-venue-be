@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2340750694,51.2124137878,3.2340750694,51.2124137878",
     "geom:latitude":51.212414,
     "geom:longitude":3.234075,
     "iso:country":"BE",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Peperstraat 3a",
     "sg:city":"Brugge",
     "sg:classifiers":[
@@ -45,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":907868913,
         "sg:id":"SG_0A2zRVAi1rn8QNqP75AVtT_51.212414_3.234075@1306268589"
     },
     "wof:country":"BE",
     "wof:created":1473545031,
-    "wof:geomhash":"e457b2f037c19b22d69127872247a249",
+    "wof:geomhash":"f784db59021ebf77449a737d54610358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1058880409,
-    "wof:lastmodified":1473719409,
+    "wof:lastmodified":1510942759,
     "wof:name":"Kantcentrum",
     "wof:parent_id":85862111,
     "wof:placetype":"venue",
